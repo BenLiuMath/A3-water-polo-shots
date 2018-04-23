@@ -74,7 +74,7 @@ p { margin: 0 0 10px 0; }
   </section>
 
   <section>
-    <em>[Add: Interactive visualization goes here! Note that you are free to change the markup and styling on this page however you like. Just be sure to include your visualization, design rationalem and comments on the design &amp; development process.]</em>
+    <em>[Add: Interactive visualization goes here! Note that you are free to change the markup and styling on this page however you like. Just be sure to include your visualization, design rationale and comments on the design &amp; development process.]</em>
   </section>
 
   <section>
@@ -82,6 +82,23 @@ p { margin: 0 0 10px 0; }
     <p>
       <em>[Add: The rationale for your design decisions. How did you choose your particular visual encodings and interaction techniques? What alternatives did you consider and how did you arrive at your ultimate choices?]</em>
     </p>
+    <p>
+	Although water polo statistics are widely kept at the level of national and international competition, these statistics are nearly always presented in tables, and unlike in other sports, few effective visualizations of these statistics have been developed. Inspired by the baseball statistics example from class, we were interested in providing an interactive way of exploring the contributions of different players, as well as the overall performance of a team. For the scope of this assignment, we decided to focus on offensive statistics, i.e. shots attempted (split up into various types of shots) and shots scored.
+    </p>
+    <p>
+	The expected audience for a tool like this includes fans, coaches, and water polo players. Some basic familiarity with shot types, which correspond to different types of plays, is expected. The viewer can see both team-level statistics (average shooting percentages, distribution of shots over time in the game) and individual statistics (individual shooting percentages for the various shot types). Expected questions of interest include: 
+	<ol>
+	<li>Which players are the top scorers, are how does this vary by shot type?</li>
+	<li>How did shooting attempts and accuracy change over the course of the game?</li>
+	<li>Were the teams going back-and-forth in terms of shooting and scoring, or was one team dominant most of the time?</li>
+	</ol>
+    </p>
+	<ul>
+	<li>Color: blue/grey easily distinguishable, grey for opponent shots/goals because naturally seems like background
+	<li>Small multiples of timelines and scatter plots: simple to understand the rest after understanding one</li>
+	<li>Scatterplots: can see individual players, can brush to connect them (compare performance on various shot types)</li>
+	<li>Timelines: strip plots to visualize when the most action was occurring, when goals were scored. To avoid clutter, show the details of shots as tooltips (name, number, shot type, exact time). Exact time not as important as sequential nature and rough time in quarter, so generally okay to leave out details on the time axis.</li>
+	</ul>
   </section>
 
   <section>
@@ -89,6 +106,13 @@ p { margin: 0 0 10px 0; }
     <p>
       <em>[Add: An overview of your design and development process. Describe how the work was split among the team members. Include a commentary on the development process, including answers to the following questions: Roughly how much time did you spend developing your application (in people-hours)? What aspects took the most time?]</em>
     </p>
+	<ul>
+	<li> Data wrangling - Brian </li>
+	<li> Design prototyping - Kellie and everyone (Kellie for water polo knowledge and drawing up designs, everyone for discussing and planning those designs)</li>
+	<li> D3 static visualization - Ben </li>
+	<li> Interactive components - </li>
+	</ul>
+
   </section>
 
   <div class="footer">
