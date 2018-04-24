@@ -349,7 +349,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 	var attemptString = shotTypes[nn]+" attempted";
 	var madeString = shotTypes[nn]+" made";
 	
-	var shotextent = d3.extent(shotData, (d) => { return d[attemptString];});
+	var shotextent = d3.extent(shotDataAggregated, (d) => { return d[attemptString];});
 	lim = [shotextent[0]-.5, shotextent[1]+.5];
 	
 	var shots = d3.scaleLinear().rangeRound([0, scatterWidth])
@@ -365,7 +365,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.attr("transform", `translate(0, ${scatterHeight})`)
 		.call(d3.axisBottom(shots)
 			.tickFormat(d3.format("d"))
-			.ticks(shotextent[1]-1)
+			.ticks(4)
 			);
 		
 	scatterChart.append("text")             
@@ -402,18 +402,18 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.attr("class", "dot")
 		.attr("r",2)
 		.attr("cx", (d) => {
-			return shots(d[attemptString]+(Math.random()-.5)*.3);
-			//return shots(d[attemptString]);
+			//return shots(d[attemptString]+(Math.random()-.5)*.3);
+			return shots(d[attemptString]);
 		})
 		.attr("cy", (d) => {
-			return probability(d[madeString]/d[attemptString]+(Math.random()-.5)*.1);
-			//return probability(d[madeString]/d[attemptString]);
+			//return probability(d[madeString]/d[attemptString]+(Math.random()-.5)*.1);
+			return probability(d[madeString]/d[attemptString]);
 		})
-		.on("mouseover", function(d) {
+		.on("mouseover", function(dd) {
 			tooltip.transition()
 			.duration(200)
 			.style("opacity", .9);
-			tooltip.html(d["Player"] + "<br/> Made: " + d[madeString]+"/"+d[attemptString])
+			tooltip.html(dd["Player"] + "<br/> Made: " + dd[madeString]+"/"+dd[attemptString])
 			.style("left", (d3.event.pageX + 5) + "px")
 			.style("top", (d3.event.pageY - 28) + "px");
 		})
