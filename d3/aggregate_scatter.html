@@ -19,7 +19,7 @@ body {
   shape-rendering: crispEdges;
 }
 
-.strip { 
+.strip {
   shape-rendering: crispEdges;
 }
 
@@ -162,7 +162,8 @@ const shotData = [
 </script>
 <script>
 
-var shotTypes = ["Total","Centre shot","Action shot","5m shot","Extra player shot"];
+var shotTypes = ["Total","Action shot", "Centre shot","5m shot","Extra player shot", "Counter attack"];
+var shotTypesAlt = ["all shots","action shots", "center shots","5m shots","6-on-5 shots", "counter attack"];
 var shotDataAggregated = d3.nest()
 	.key( (d) => { return d.Player; } )
 	.rollup( (v) => { var obj = {};
@@ -189,23 +190,23 @@ var padding = 0;
 
 //var margin = {top: 50, right: 50, bottom: 50, left: 100};
 var scatterPadding = 30;
-var margin = {top: 20, right: 80, bottom: 60, left: 60};
+var margin = {top: 20, right: 80, bottom: 60, left: 40};
 
 var scatterTimelinePadding = 80;
 
-var timelineHeight = 50;
-var timelineQuarterWidth = 200;
+var timelineHeight = 30;
+var timelineQuarterWidth = 225;
 var timelineInternalPadding = 20;
 var timelineVerticalPadding = 20;
 var timelineWidth = 4*timelineQuarterWidth + 3*timelineInternalPadding;
 
-var scatterHeight = 150;
+var scatterHeight = 100;
 
 var widthFull = margin.left + margin.right + 4*timelineQuarterWidth + 3*timelineInternalPadding;
 var heightFull = margin.top + margin.bottom + scatterHeight + (margin.top + margin.bottom + timelineHeight)*6 + 50;
 
 
-var scatterWidth = (timelineWidth - 4*scatterPadding)/5;
+var scatterWidth = (timelineWidth - 5*scatterPadding)/6;
 
 
 var svg = d3.select("body").append("svg")
@@ -225,7 +226,7 @@ var gameTime = d3.scaleLinear()
 var quarterTime = d3.scaleLinear()
 	.rangeRound([0, timelineQuarterWidth])
 	.domain([8*60,0]);
-	
+
 var success = d3.scaleLinear()
     .rangeRound([timelineHeight,0])
     .domain([-1,1]);
@@ -233,7 +234,7 @@ var success = d3.scaleLinear()
 var timelines = svg.append("g")
 	.attr("class","timelines")
 	.attr("transform", `translate(0, ${margin.top+scatterHeight+scatterTimelinePadding})`);
-	
+
 for(var gameNum=1; gameNum <= 6; gameNum++) {
 	var myNum = gameNum+0;
 	var timeline = timelines.append("g")
@@ -243,14 +244,14 @@ for(var gameNum=1; gameNum <= 6; gameNum++) {
 		alert(`clicked game ${myNum}`);
 		return 0;
 		});
-	
+
 	timeline.append("rect")
 		.attr("x",0)
 		.attr("y",0)
 		.attr("width",timelineWidth+margin.left)
 		.attr("height",timelineHeight)
 		.attr("fill",'white');
-		
+
 	var maxScore = d3.max(poloData, (d) => {
 		if(d.Game===gameNum) {
 			return Math.abs(d.USA - d.Opponent);
@@ -259,9 +260,9 @@ for(var gameNum=1; gameNum <= 6; gameNum++) {
 		}
 	});
 	console.log("max:"+maxScore);
-	
+
 	for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
-	
+
 		var gameNData = poloData.filter(isGameN);
 		var otherTeam = gameNData[0].Team;
 		//console.log(JSON.stringify(gameNData).replace(/},{/g,"},\n\n{"));
@@ -269,7 +270,7 @@ for(var gameNum=1; gameNum <= 6; gameNum++) {
 		function isGameN(d) {
 			return (d.Game===gameNum && d.Period==quarterNum);
 		}
-	
+
 		var quarter = timeline.append("g")
 			.attr("class","quarter")
 			.attr("width", timelineQuarterWidth)
@@ -279,8 +280,8 @@ for(var gameNum=1; gameNum <= 6; gameNum++) {
 		quarter.append("g")
 			.attr("class", "axis axis--x")
 			.attr("transform", `translate(0, ${timelineHeight/2})`)
-			.call(d3.axisBottom(quarterTime).ticks(0));
-			
+			.call(d3.axisBottom(quarterTime).ticks(0).tickSizeOuter(0));
+
 		var area = d3.area()
 			.x( (d) => { return quarterTime(d.Seconds); })
 			.y0( (d) => { return success(0); })
@@ -307,9 +308,9 @@ for(var gameNum=1; gameNum <= 6; gameNum++) {
 			return success(mysign*(d.Goal===1?1:.5));
 			})
 			.attr("stroke-width",2)
-		
-		
-		
+
+
+
 		if(quarterNum === 1) {
 			quarter.append("text")
 				.attr("y",margin.top+timelineHeight*0)
@@ -348,10 +349,10 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 
 	var attemptString = shotTypes[nn]+" attempted";
 	var madeString = shotTypes[nn]+" made";
-	
+
 	var shotextent = d3.extent(shotDataAggregated, (d) => { return d[attemptString];});
 	lim = [shotextent[0]-.5, shotextent[1]+.5];
-	
+
 	var shots = d3.scaleLinear().rangeRound([0, scatterWidth])
 		.domain(lim);
 
@@ -359,41 +360,49 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.attr("width", scatterWidth)
 		.attr("height", scatterHeight)
 		.attr("transform", `translate(${margin.left + nn*(scatterWidth+scatterPadding)}, ${margin.top})`);
-		
+
 	scatterChart.append("g")
 		.attr("class", "axis axis--x")
 		.attr("transform", `translate(0, ${scatterHeight})`)
 		.call(d3.axisBottom(shots)
 			.tickFormat(d3.format("d"))
 			.ticks(4)
+      .tickSizeOuter(0)
 			);
-		
-	scatterChart.append("text")             
+
+	scatterChart.append("text")
 		  .attr("transform",
-				"translate(" + (scatterWidth/2) + " ," + 
-							   (scatterHeight + margin.top + 20) + ")")
+				"translate(" + (scatterWidth/2) + " ," +
+							   (0 - margin.top) + ")")
 		  .style("text-anchor", "middle")
 		  .attr("font-size",18)
-		  .text(shotTypes[nn]);
+		  .text(shotTypesAlt[nn]);
 	if(nn === 0) {
 		scatterChart.append("g")
 			.attr("class", "axis axis--y")
-			.call(d3.axisLeft(probability).ticks(3));
-		
+			.call(d3.axisLeft(probability)
+        .ticks(3)
+        .tickFormat(d3.format(".0%"))
+        .tickSizeOuter(0)
+      );
+
 		scatterChart.append("text")
 			  .attr("transform", "rotate(-90)")
-			  .attr("y",0 - margin.left)
+			  .attr("y",0 - 1.8*margin.left)
 			  .attr("x",0 - (scatterHeight / 2))
 			  .attr("dy", "1em")
 			  .style("text-anchor", "middle")
-			  .attr("font-size",18)
-			  .text("Success");
-	} else {		
+			  .attr("font-size",16)
+			  .text("success");
+	} else {
 		scatterChart.append("g")
 			.attr("class", "axis axis--y")
-			.call(d3.axisLeft(probability).ticks(0));
+			.call(d3.axisLeft(probability)
+        .ticks(0)
+        .tickSizeOuter(0)
+      );
 	}
-	
+
 	var dots = scatterChart.selectAll(".dot")
 		.data(shotDataAggregated.filter( (d) => {
 			return d[attemptString]>0;
