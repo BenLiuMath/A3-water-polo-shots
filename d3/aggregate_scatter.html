@@ -192,7 +192,7 @@ var padding = 0;
 var scatterPadding = 30;
 var margin = {top: 20, right: 80, bottom: 60, left: 40};
 
-var scatterTimelinePadding = 80;
+var scatterTimelinePadding = 50;
 
 var timelineHeight = 30;
 var timelineQuarterWidth = 225;
@@ -200,7 +200,7 @@ var timelineInternalPadding = 20;
 var timelineVerticalPadding = 20;
 var timelineWidth = 4*timelineQuarterWidth + 3*timelineInternalPadding;
 
-var scatterHeight = 100;
+var scatterHeight = 150;
 
 var widthFull = margin.left + margin.right + 4*timelineQuarterWidth + 3*timelineInternalPadding;
 var heightFull = margin.top + margin.bottom + scatterHeight + (margin.top + margin.bottom + timelineHeight)*6 + 50;
@@ -317,7 +317,7 @@ for(var gameNum=1; gameNum <= 6; gameNum++) {
 				.attr("x",-margin.left)
 				//.attr("dy","1em")
 				.style("text-anchor", "middle")
-				.attr("font-size",18)
+				.attr("font-size",14)
 				.text("Game "+gameNum);
 			quarter.append("text")
 				.attr("y",margin.top+timelineHeight*0)
@@ -333,7 +333,7 @@ for(var gameNum=1; gameNum <= 6; gameNum++) {
 				.attr("x",timelineQuarterWidth/2)
 				//.attr("dy","1em")
 				.style("text-anchor", "middle")
-				.attr("font-size",18)
+				.attr("font-size",16)
 				.text("Quarter "+quarterNum);
 		}
 	}
@@ -343,7 +343,7 @@ for(var gameNum=1; gameNum <= 6; gameNum++) {
 // Scatter charts
 {
 var probability = d3.scaleLinear().rangeRound([scatterHeight,0])
-	.domain([-.05, 1.05]);
+	.domain([0, 1.05]);
 
 for(var nn=0; nn<shotTypes.length; nn++) {
 
