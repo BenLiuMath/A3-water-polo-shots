@@ -57,7 +57,7 @@ body {
 <select multiple style="height:20em; " id="roster">
 </select>
 <br/>
-<button id="toggler">toggle</button>
+<button id="toggler">Replot Scatter</button>
 </div>
 
 <script src="http://d3js.org/d3.v4.min.js"></script>
@@ -259,7 +259,7 @@ function groupPlayerShotStatistics(data,shotType) {
 
 // Sizing
 {
-var margin = {top: 70, right: 5, bottom: 60, left: 110};
+var margin = {top: 70, right: 100, bottom: 60, left: 110};
 
 var scatterWidth, scatterHeight = 150;
 var scatterPadding = 30;
@@ -316,8 +316,9 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		});
 	
 	var shotextent = d3.extent(mydata, (d) => { return d.coord[0];});
+	shotextent[0] = Math.min(shotextent[0],0);
 	var shotrange = shotextent[1] - shotextent[0];
-	lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
+	var lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
 	
 	var shots = d3.scaleLinear().rangeRound([0, scatterWidth])
 		.domain(lim);
@@ -371,7 +372,6 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 	var dots = scatterChart.selectAll(".scatterdot")
 		.data(mydata);
 		
-		console.log(JSON.stringify(dots.enter()));
 	dots.enter().append("circle")
 		.attr("class", "scatterdot")
 		.attr("opacity",.5)
@@ -499,6 +499,7 @@ for(var nn=1; nn<6; nn++) {
 		}
 	});
 	var beginningScore = [0,0];
+	var endingScore = [0,0];
 	for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
 	
 		var gameNData = poloData.filter(isGameN);
@@ -611,6 +612,29 @@ for(var nn=1; nn<6; nn++) {
 		}
 		beginningScore = endingScore;
 	}
+	var lineLength = 20;
+	timeline.append("text")
+		.attr("class","teamname")
+		.attr("y",timelineHeight/2)
+		.attr("x",timelineWidth+timelineInternalPadding+lineLength/2)
+		.attr("dy","-.2em")
+		.style("text-anchor", "middle")
+		.text(endingScore[0]);
+	timeline.append("text")
+		.attr("class","teamname")
+		.attr("y",timelineHeight/2)
+		.attr("x",timelineWidth+timelineInternalPadding+lineLength/2)
+		.attr("dy", "1.2em")
+		.style("text-anchor", "middle")
+		.text(endingScore[1]);
+	timeline.append("line")
+		.attr("style","shape-rendering: crispEdges")
+		.attr("x1",timelineWidth+timelineInternalPadding)
+		.attr("x2",timelineWidth+timelineInternalPadding+lineLength)
+		.attr("y1",timelineHeight/2+1)
+		.attr("y2",timelineHeight/2+1)
+		.attr("stroke","black")
+		.attr("stroke-width",1);
 }
 }
 
@@ -622,29 +646,32 @@ for(var nn=0; nn<6; nn++) {
 		gamesToFilter.push(nn+1);
 	}
 }
-console.log(gamesToFilter);
+console.log("games to filter:"+gamesToFilter);
 
 for(var nn=0; nn<shotTypes.length; nn++) {
 	var chart = scatterCharts[nn];
-	
-		var mydots = chart.selectAll(".scatterdot")
+		console.log(shotTypes[nn]);
 		//mydots.attr("class","scatterdot focused");
 		
 		
 		var myShotData = aggregateShotDataByPlayer(shotData.filter((d) => { return gamesToFilter.includes(d.Game); }));
 		var myGroupedData = groupPlayerShotStatistics(myShotData,shotTypes[nn]);
-		var mydata = myGroupedData.filter( (d) => {
+		var myData = myGroupedData.filter( (d) => {
 				return d.coord[0]>0;
 			});
 		
-		var shotextent = d3.extent(mydata, (d) => { return d.coord[0];});
+		var shotextent = d3.extent(myData, (d) => { return d.coord[0];});
+		shotextent[0] = Math.min(shotextent[0],0);
 		var shotrange = shotextent[1] - shotextent[0];
-		lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
-		//console.log(JSON.stringify(myShotData));
+		var lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
+		console.log(JSON.stringify(myData).replace(/},{/g,"},\n\n{"));
 		
-		var shots = d3.scaleLinear().rangeRound([0, scatterWidth])
+		var shots = d3.scaleLinear()
+			.rangeRound([0, scatterWidth])
 			.domain(lim);
-		mydots.data(mydata);
+		console.log("Shot extent:"+shotextent+"; lim:"+lim);
+		var mydots = chart.selectAll(".scatterdot")
+			.data(myData);
 		
 		var t = d3.transition()
 			.duration(200);
@@ -652,11 +679,11 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		chart.select(".axisX")
 			.transition(t)
 			.call(d3.axisBottom(shots)
-				.tickFormat(d3.format("d"))
-				.ticks(4).tickSizeOuter(0));
+				.tickFormat(d3.format("d")).ticks(2).tickSizeOuter(0));
 		
 		mydots.exit()
 			.transition("exit")
+			.duration(200)
 			.remove();
 			
 		//console.log(JSON.stringify(mydots.enter()));
@@ -683,6 +710,19 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 			.attr("cy", (d) => {
 				//return probability(d.coord[1]/d.coord[0])+2*(Math.random()-.5)*jitter;
 				return probability(d.coord[1]/d.coord[0]);
+			})
+			.on("mouseover", function(d) {
+				tooltip.transition()
+				.duration(200)
+				.style("opacity", 1.0);
+				tooltip.html("Made: " + d.coord[1]+"/"+d.coord[0]+"<ul><li>"+d.players.join("</li><li>")+"</li></ul>")
+				.style("left", (d3.event.pageX + 5) + "px")
+				.style("top", (d3.event.pageY - 28) + "px");
+			})
+			.on("mouseout", function(d) {
+				tooltip.transition()
+				.duration(500)
+				.style("opacity", 0);
 			});
 }
 }
