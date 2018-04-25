@@ -51,7 +51,7 @@ body {
 <body>
 
 <div style="position: absolute; top:50px; right:20px;" >
-<select multiple style="height:8em; " id="gameSelector">
+<select multiple style="height:6.5em; " id="gameSelector">
 </select>
 <br/>
 <select multiple style="height:20em; " id="roster">
@@ -196,9 +196,9 @@ players.forEach( function(player) {
 
 var gameSelect = document.getElementById("gameSelector");
 var gameFilter = [];
-for(var ii=0; ii<6; ii++) { // need to change this to depend on the data; some teams didn't make it to 6 games
+for(var ii=1; ii<6; ii++) { // need to change this to depend on the data; some teams didn't make it to 6 games
 	var opt = document.createElement("option");
-	opt.text = "Game "+ii;
+	opt.text = "Game " + ii;
 	opt.selected = true;
 	gameSelect.add(opt);
 	gameFilter[ii] = true;
@@ -450,7 +450,8 @@ for(var nn=1; nn<6; nn++) {
 					var opt = document.getElementById("gameSelector").options[num-1];
 					opt.selected = !opt.selected;
 				})
-			})(gameNum));
+			})
+    (gameNum - 1));
 	timelines[gameNum-1] = timeline;
 	
 	timeline.append("rect")
