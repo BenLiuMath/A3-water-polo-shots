@@ -473,20 +473,35 @@ for(var nn=0; nn<6; nn++) {
 		*/
 	var offset = 60;
 	var lineLength = 80;
-	timeline.append("text")
-		.attr("class","teamname")
-		.attr("y",timelineHeight/2)
-		.attr("x",-timelineInternalPadding-lineLength/2)
-		.attr("dy","-.2em")
-		.style("text-anchor", "middle")
-		.text("USA");
-	timeline.append("text")
-		.attr("class","teamname")
-		.attr("y",timelineHeight/2)
-		.attr("x",-timelineInternalPadding-lineLength/2)
-		.attr("dy", "1.2em")
-		.style("text-anchor", "middle")
-		.text(otherTeam);
+    /*
+      Add flags and team names
+    */
+    // first, USA
+  timeline.append("text")
+    .attr("class","teamname")
+    .attr("y",timelineHeight/2)
+    .attr("x",-timelineInternalPadding-lineLength/3)
+    .attr("dy","-.2em")
+    .style("text-anchor", "middle")
+    .text("USA");
+  timeline.append("image")
+    .attr("xlink:href", "img/USA.png")
+    .attr("y", timelineHeight/8)
+    .attr("x",-timelineInternalPadding-lineLength)
+    .attr("height", "20px");
+    // now add the other team
+  timeline.append("text")
+    .attr("class","teamname")
+    .attr("y",timelineHeight/2)
+    .attr("x",-timelineInternalPadding-lineLength/3)
+    .attr("dy", "1.2em")
+    .style("text-anchor", "middle")
+    .text(otherTeam);
+  timeline.append("image")
+    .attr("xlink:href", "img/" + otherTeam + ".png")
+    .attr("y", timelineHeight/2)
+    .attr("x",-timelineInternalPadding-lineLength)
+    .attr("height", "20px");
 	timeline.append("line")
 		.attr("style","shape-rendering: crispEdges")
 		.attr("x1",-timelineInternalPadding)
