@@ -597,7 +597,7 @@ for(var nn=1; nn<6; nn++) {
 			})
 			.attr("stroke-width",.8)
 			.attr("r",3)
-			.attr("fill", (d) => { return (d.Goal===1?"#000000":"none"); })
+			.attr("fill", (d) => { return (d.Goal===1?"#000000":"transparent"); })
 // adding tooltips
       .on("mouseover", function(d) {
   			tooltip.transition()
