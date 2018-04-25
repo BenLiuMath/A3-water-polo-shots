@@ -451,6 +451,7 @@ for(var nn=1; nn<6; nn++) {
 			return (function() {
 					var opt = document.getElementById("gameSelector").options[num-1];
 					opt.selected = !opt.selected;
+                    filterScatterPlots();
 				})
 			})(gameNum));
 	timelines[gameNum-1] = timeline;
