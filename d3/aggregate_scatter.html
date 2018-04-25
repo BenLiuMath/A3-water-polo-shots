@@ -11,7 +11,7 @@ body {
   font: 11px sans-serif;
   margin:0px;
 }
-.axis { font-size:12pt; }
+.axis { font-size:10pt; }
 .axis path,
 .axis line {
   fill: none;
@@ -24,13 +24,15 @@ body {
 }
 
 .dot {
-  stroke: #000;
+  stroke: royalblue;
+  stroke-width: 4px;
+  opacity: 0.5;
 }
 
 .tooltip {
   position: absolute;
-  background: #cccccc;
-  width: 150px;
+  background: palegreen;
+  width: 90px;
   height: 28px;
   pointer-events: none;
 }
@@ -163,7 +165,7 @@ const shotData = [
 <script>
 
 var shotTypes = ["Total","Action shot", "Centre shot","5m shot","Extra player shot", "Counter attack"];
-var shotTypesAlt = ["all shots","action shots", "center shots","5m shots","6-on-5 shots", "counter attack"];
+var shotTypesAlt = ["total shots","action shots", "center shots","5m shots","6-on-5 shots", "counter attack"];
 var shotDataAggregated = d3.nest()
 	.key( (d) => { return d.Player; } )
 	.rollup( (v) => { var obj = {};
@@ -184,15 +186,15 @@ var shotDataAggregated = d3.nest()
 
 var tooltip = d3.select("body").append("div")
     .attr("class", "tooltip")
-    .style("opacity", 0);
+    .style("opacity", 0.5);
 
 var padding = 0;
 
 //var margin = {top: 50, right: 50, bottom: 50, left: 100};
 var scatterPadding = 30;
-var margin = {top: 20, right: 80, bottom: 60, left: 40};
+var margin = {top: 35, right: 80, bottom: 60, left: 40};
 
-var scatterTimelinePadding = 50;
+var scatterTimelinePadding = 85;
 
 var timelineHeight = 30;
 var timelineQuarterWidth = 225;
@@ -216,6 +218,12 @@ var svg = d3.select("body").append("svg")
 	.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+var title =  svg.append("text")
+            .attr("x", (widthFull / 2))
+            .attr("y", margin.top/4)
+            .attr("text-anchor", "middle")
+            .style("font-size", "32px")
+            .text("USAWWP @ the 2017 FINA World Championships");
 
 // Timeline
 var goalFailProbabilityLevel = .4;
@@ -297,7 +305,8 @@ for(var gameNum=1; gameNum <= 6; gameNum++) {
 			.attr("class","strip")
 			.attr("x1", (d) => { return quarterTime(d.Seconds); })
 			.attr("x2", (d) => { return quarterTime(d.Seconds); })
-			.attr("stroke", (d) => { return (d.Team==="USA"?"#000000":"#999999"); })
+			.attr("stroke", (d) => { return (
+        d.Team==="USA"?"royalblue":"#999999"); })
 			/*
 			.attr("y1", (d) => { return (d.Goal==="1"?margin.top:margin.top+timelineHeight/2); })
 			*/
@@ -313,19 +322,19 @@ for(var gameNum=1; gameNum <= 6; gameNum++) {
 
 		if(quarterNum === 1) {
 			quarter.append("text")
-				.attr("y",margin.top+timelineHeight*0)
+				.attr("y",margin.top-23+timelineHeight*0)
 				.attr("x",-margin.left)
 				//.attr("dy","1em")
 				.style("text-anchor", "middle")
 				.attr("font-size",14)
 				.text("Game "+gameNum);
 			quarter.append("text")
-				.attr("y",margin.top+timelineHeight*0)
+				.attr("y",margin.top-23+timelineHeight*0)
 				.attr("x",-margin.left)
 				.attr("dy", "1.2em")
 				.style("text-anchor", "middle")
-				.attr("font-size",18)
-				.text(otherTeam);
+				.attr("font-size",14)
+				.text("vs. " + otherTeam);
 		}
 		if(gameNum === 6) {
 			quarter.append("text")
@@ -373,9 +382,9 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 	scatterChart.append("text")
 		  .attr("transform",
 				"translate(" + (scatterWidth/2) + " ," +
-							   (0 - margin.top) + ")")
+							   (margin.top + scatterHeight + 5) + ")")
 		  .style("text-anchor", "middle")
-		  .attr("font-size",18)
+		  .attr("font-size",16)
 		  .text(shotTypesAlt[nn]);
 	if(nn === 0) {
 		scatterChart.append("g")
@@ -421,7 +430,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.on("mouseover", function(dd) {
 			tooltip.transition()
 			.duration(200)
-			.style("opacity", .9);
+			.style("opacity", 0.9);
 			tooltip.html(dd["Player"] + "<br/> Made: " + dd[madeString]+"/"+dd[attemptString])
 			.style("left", (d3.event.pageX + 5) + "px")
 			.style("top", (d3.event.pageY - 28) + "px");
