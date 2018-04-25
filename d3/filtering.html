@@ -433,7 +433,7 @@ var timelines = [];
 var timelineGroup = svg.append("g")
 	.attr("transform", `translate(0, ${scatterHeight+scatterTimelinePadding})`);
 
-for(var nn=1; nn<6; nn++) {
+for(var nn=0; nn<6; nn++) {
 
 	gameNum = nn+1;
 	var gameNData = poloData.filter(isGameN);
