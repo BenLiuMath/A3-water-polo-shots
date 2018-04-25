@@ -25,7 +25,8 @@ body {
 
 .scatterdot {
 	stroke: none;
-	fill: lightsteelblue;
+    fill: darkblue;
+    opacity:.4;
 	shape-rendering: geometricPrecision;
 }
 
@@ -43,7 +44,7 @@ body {
 }
 
 .area {
-  fill: lightsteelblue;
+  fill: lightgray;
 }
 
 #toggler { display:block; }
@@ -316,6 +317,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		});
 	
 	var shotextent = d3.extent(mydata, (d) => { return d.coord[0];});
+        shotextent[0] = Math.min(shotextent[0],0);
 	var shotrange = shotextent[1] - shotextent[0];
 	lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
 	
@@ -371,10 +373,9 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 	var dots = scatterChart.selectAll(".scatterdot")
 		.data(mydata);
 		
-		console.log(JSON.stringify(dots.enter()));
+	console.log(JSON.stringify(dots.enter()));
 	dots.enter().append("circle")
 		.attr("class", "scatterdot")
-		.attr("opacity",.5)
 		.attr("r", (d) => { return 3*Math.sqrt(d.numPlayers); })
 		.attr("cx", (d) => {
 			//return shots(d.coord[0])+2*(Math.random()-.5)*jitter;
@@ -432,7 +433,10 @@ var success = d3.scaleLinear()
 var timelines = [];
 var timelineGroup = svg.append("g")
 	.attr("transform", `translate(0, ${scatterHeight+scatterTimelinePadding})`);
-
+    
+var USAColor = "darkblue";
+var OpponentColor = "#999999";
+    
 for(var nn=0; nn<6; nn++) {
 
 	gameNum = nn+1;
@@ -591,15 +595,15 @@ for(var nn=0; nn<6; nn++) {
 			.enter().append("circle")
 			.attr("class","pointindicator")
 			.attr("cx", (d) => { return quarterTime(d.Seconds); })
-			.attr("stroke", (d) => { return "#000000"; })
+			.attr("stroke", (d) => { return (d.Team==="USA"?USAColor:OpponentColor); })
 			.attr("cy", (d) => {
 				var mysign = (d.Team==="USA"?1:-1);
 				var isGoal = (d.Goal===1);
 			return success(mysign*(d.Goal===1?.4:.4));
 			})
-			.attr("stroke-width",.8)
+			.attr("stroke-width",1)
 			.attr("r",3)
-			.attr("fill", (d) => { return (d.Goal===1?"#000000":"transparent"); })
+			.attr("fill", (d) => { return (d.Goal===1?(d.Team==="USA"?USAColor:OpponentColor):"transparent"); })
 			.on("mouseover", function(d) {
 				tooltip.transition()
 				.duration(200)
@@ -651,6 +655,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 			});
 		
 		var shotextent = d3.extent(mydata, (d) => { return d.coord[0];});
+        shotextent[0] = Math.min(shotextent[0],0);
 		var shotrange = shotextent[1] - shotextent[0];
 		lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
 		//console.log(JSON.stringify(myShotData));
