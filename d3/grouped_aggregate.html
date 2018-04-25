@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+
+<!-- Example based on http://bl.ocks.org/mbostock/3887118 -->
+<!-- Tooltip example from http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html -->
+<!-- Coding style based on http://gist.github.com/mbostock/5977197 -->
+
+<style>
+body {
+  font: 11px sans-serif;
+  margin:0px;
+}
+.axis { font-size:10pt; }
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.strip { 
+  shape-rendering: crispEdges;
+}
+
+.scatterdot {
+	stroke: none;
+	fill: lightsteelblue;
+	shape-rendering: geometricPrecision;
+}
+
+.teamname {
+	font-size:12pt;
+	font-weight:bold;
+	font-style:italic;
+}
+
+.tooltip {
+  position: absolute;
+  background: #cccccc;
+  width: 150px;
+  pointer-events: none;
+}
+
+.area {
+  fill: lightsteelblue;
+}
+
+#toggler { display:none; }
+</style>
+<body>
+
+<div style="position: absolute; top:50px; right:20px;" >
+<select multiple style="height:8em; " id="gameSelector">
+</select>
+<br/>
+<select multiple style="height:20em; " id="roster">
+</select>
+<br/>
+<button id="toggler">toggle</button>
+</div>
+
+<script src="http://d3js.org/d3.v4.min.js"></script>
+<script>
+const poloData = [{"Action":"Counter attack","Cap":10.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":1.0,"Player":"NEUSHUL J","Score":"0 - 1","Seconds":448,"Team":"USA","Time":"7:28","USA":1,"Result":"Goal","Goal":1},{"Action":"Centre shot","Cap":11.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":1.0,"Player":"FISCHER M","Score":"0 - 2","Seconds":399,"Team":"USA","Time":"6:39","USA":2,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":11.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":1.0,"Player":"FISCHER M","Score":"0 - 3","Seconds":352,"Team":"USA","Time":"5:52","USA":3,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":11.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":1.0,"Player":"BARRETT N","Score":"0 - 3","Seconds":331,"Team":"RSA","Time":"5:31","USA":3,"Result":"Missed","Goal":0},{"Action":"Action shot","Cap":12.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":1.0,"Player":"WILLIAMS A","Score":"0 - 3","Seconds":316,"Team":"USA","Time":"5:16","USA":3,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":12.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":1.0,"Player":"WILLIAMS A","Score":"0 - 4","Seconds":273,"Team":"USA","Time":"4:33","USA":4,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":5.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":1.0,"Player":"HAUSCHILD P","Score":"0 - 4","Seconds":237,"Team":"USA","Time":"3:57","USA":4,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":4.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":1.0,"Player":"FATTAL R","Score":"0 - 4","Seconds":165,"Team":"USA","Time":"2:45","USA":4,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":11.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":1.0,"Player":"FISCHER M","Score":"0 - 4","Seconds":126,"Team":"USA","Time":"2:06","USA":4,"Result":"Post","Goal":0},{"Action":"Counter attack","Cap":4.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":1.0,"Player":"FATTAL R","Score":"0 - 5","Seconds":46,"Team":"USA","Time":"0:46","USA":5,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":10.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":1.0,"Player":"NEUSHUL J","Score":"0 - 6","Seconds":26,"Team":"USA","Time":"0:26","USA":6,"Result":"Goal","Goal":1},{"Action":"Centre shot","Cap":4.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"FATTAL R","Score":"0 - 7","Seconds":452,"Team":"USA","Time":"7:32","USA":7,"Result":"Goal","Goal":1},{"Action":"Centre shot","Cap":12.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"WHITE K","Score":"0 - 7","Seconds":423,"Team":"RSA","Time":"7:03","USA":7,"Result":"Missed","Goal":0},{"Action":"Action shot","Cap":4.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"FATTAL R","Score":"0 - 8","Seconds":417,"Team":"USA","Time":"6:57","USA":8,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":7.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"WESSELS C","Score":"0 - 8","Seconds":386,"Team":"RSA","Time":"6:26","USA":8,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":11.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"FISCHER M","Score":"0 - 8","Seconds":367,"Team":"USA","Time":"6:07","USA":8,"Result":"Missed","Goal":0},{"Action":"Counter attack","Cap":10.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"NEUSHUL J","Score":"0 - 9","Seconds":327,"Team":"USA","Time":"5:27","USA":9,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":9.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"SMIT Z","Score":"0 - 9","Seconds":308,"Team":"RSA","Time":"5:08","USA":9,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":5.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"HAUSCHILD P","Score":"0 - 10","Seconds":298,"Team":"USA","Time":"4:58","USA":10,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":12.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"WILLIAMS A","Score":"0 - 10","Seconds":229,"Team":"USA","Time":"3:49","USA":10,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":11.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"BARRETT N","Score":"0 - 10","Seconds":212,"Team":"RSA","Time":"3:32","USA":10,"Result":"Saved","Goal":0},{"Action":"Centre shot","Cap":9.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"FISCHER A","Score":"0 - 10","Seconds":194,"Team":"USA","Time":"3:14","USA":10,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":3.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"SEIDEMANN M","Score":"0 - 11","Seconds":144,"Team":"USA","Time":"2:24","USA":11,"Result":"Goal","Goal":1},{"Action":"Centre shot","Cap":8.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"NEUSHUL K","Score":"0 - 12","Seconds":103,"Team":"USA","Time":"1:43","USA":12,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":2.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"PENNEY A","Score":"0 - 12","Seconds":29,"Team":"RSA","Time":"0:29","USA":12,"Result":"Post","Goal":0},{"Action":"Centre shot","Cap":3.0,"Game":1,"Opponent":0,"Opponent name":"RSA","Period":2.0,"Player":"SEIDEMANN M","Score":"0 - 13","Seconds":18,"Team":"USA","Time":"0:18","USA":13,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":11.0,"Game":1,"Opponent":1,"Opponent name":"RSA","Period":3.0,"Player":"BARRETT N","Score":"1 - 13","Seconds":459,"Team":"RSA","Time":"7:39","USA":13,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":10.0,"Game":1,"Opponent":1,"Opponent name":"RSA","Period":3.0,"Player":"NEUSHUL J","Score":"1 - 14","Seconds":436,"Team":"USA","Time":"7:16","USA":14,"Result":"Goal","Goal":1},{"Action":"Centre shot","Cap":3.0,"Game":1,"Opponent":1,"Opponent name":"RSA","Period":3.0,"Player":"SEIDEMANN M","Score":"1 - 15","Seconds":386,"Team":"USA","Time":"6:26","USA":15,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":4.0,"Game":1,"Opponent":1,"Opponent name":"RSA","Period":3.0,"Player":"FATTAL R","Score":"1 - 15","Seconds":340,"Team":"USA","Time":"5:40","USA":15,"Result":"Missed","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":3.0,"Player":"PENNEY A","Score":"2 - 15","Seconds":302,"Team":"RSA","Time":"5:02","USA":15,"Result":"Goal","Goal":1},{"Action":"Centre shot","Cap":3.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":3.0,"Player":"SEIDEMANN M","Score":"2 - 16","Seconds":248,"Team":"USA","Time":"4:08","USA":16,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":8.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":3.0,"Player":"NEUSHUL K","Score":"2 - 17","Seconds":199,"Team":"USA","Time":"3:19","USA":17,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":11.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":3.0,"Player":"FISCHER M","Score":"2 - 17","Seconds":149,"Team":"USA","Time":"2:29","USA":17,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":11.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":3.0,"Player":"FISCHER M","Score":"2 - 17","Seconds":80,"Team":"USA","Time":"1:20","USA":17,"Result":"Post","Goal":0},{"Action":"Extra player shot","Cap":9.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":3.0,"Player":"FISCHER A","Score":"2 - 18","Seconds":72,"Team":"USA","Time":"1:12","USA":18,"Result":"Goal","Goal":1},{"Action":"Centre shot","Cap":4.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":3.0,"Player":"FATTAL R","Score":"2 - 18","Seconds":26,"Team":"USA","Time":"0:26","USA":18,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":10.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":4.0,"Player":"NEUSHUL J","Score":"2 - 19","Seconds":437,"Team":"USA","Time":"7:17","USA":19,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":11.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":4.0,"Player":"FISCHER M","Score":"2 - 19","Seconds":409,"Team":"USA","Time":"6:49","USA":19,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":8.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":4.0,"Player":"NEUSHUL K","Score":"2 - 20","Seconds":371,"Team":"USA","Time":"6:11","USA":20,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":3.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":4.0,"Player":"SEIDEMANN M","Score":"2 - 21","Seconds":335,"Team":"USA","Time":"5:35","USA":21,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":7.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":4.0,"Player":"WESSELS C","Score":"2 - 21","Seconds":306,"Team":"RSA","Time":"5:06","USA":21,"Result":"Missed","Goal":0},{"Action":"Action shot","Cap":10.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":4.0,"Player":"NEUSHUL J","Score":"2 - 22","Seconds":277,"Team":"USA","Time":"4:37","USA":22,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":10.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":4.0,"Player":"NEUSHUL J","Score":"2 - 22","Seconds":193,"Team":"USA","Time":"3:13","USA":22,"Result":"Missed","Goal":0},{"Action":"Extra player shot","Cap":5.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":4.0,"Player":"HAUSCHILD P","Score":"2 - 23","Seconds":125,"Team":"USA","Time":"2:05","USA":23,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":2.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":4.0,"Player":"PENNEY A","Score":"2 - 23","Seconds":94,"Team":"RSA","Time":"1:34","USA":23,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":9.0,"Game":1,"Opponent":2,"Opponent name":"RSA","Period":4.0,"Player":"FISCHER A","Score":"2 - 24","Seconds":49,"Team":"USA","Time":"0:49","USA":24,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":4.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"ORTIZ MUNOZ B","Score":"0 - 1","Seconds":435,"Team":"ESP","Time":"7:15","USA":0,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":2.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"MUSSELMAN M","Score":"0 - 1","Seconds":408,"Team":"USA","Time":"6:48","USA":0,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"MUSSELMAN M","Score":"1 - 1","Seconds":367,"Team":"USA","Time":"6:07","USA":1,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":2.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"MUSSELMAN M","Score":"2 - 1","Seconds":311,"Team":"USA","Time":"5:11","USA":2,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":4.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"ORTIZ MUNOZ B","Score":"2 - 1","Seconds":283,"Team":"ESP","Time":"4:43","USA":2,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":11.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"GUAL ROVIROSA A","Score":"2 - 1","Seconds":259,"Team":"ESP","Time":"4:19","USA":2,"Result":"Missed","Goal":0},{"Action":"Centre shot","Cap":8.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"NEUSHUL K","Score":"3 - 1","Seconds":247,"Team":"USA","Time":"4:07","USA":3,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":4.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"FATTAL R","Score":"4 - 1","Seconds":166,"Team":"USA","Time":"2:46","USA":4,"Result":"Goal","Goal":1},{"Action":"Centre shot","Cap":12.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"LEITON ARRONES P","Score":"4 - 1","Seconds":148,"Team":"ESP","Time":"2:28","USA":4,"Result":"Post","Goal":0},{"Action":"Centre shot","Cap":9.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"FISCHER A","Score":"5 - 1","Seconds":121,"Team":"USA","Time":"2:01","USA":5,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":9.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"FORCA ARIZA J","Score":"5 - 1","Seconds":98,"Team":"ESP","Time":"1:38","USA":5,"Result":"Missed","Goal":0},{"Action":"Action shot","Cap":4.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"ORTIZ MUNOZ B","Score":"5 - 1","Seconds":47,"Team":"ESP","Time":"0:47","USA":5,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":10.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"NEUSHUL J","Score":"6 - 1","Seconds":18,"Team":"USA","Time":"0:18","USA":6,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":3.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"ESPAR LLAQUET A","Score":"6 - 1","Seconds":1,"Team":"ESP","Time":"0:01","USA":6,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":2.0,"Player":"MUSSELMAN M","Score":"6 - 1","Seconds":433,"Team":"USA","Time":"7:13","USA":6,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":2,"Opponent":1,"Opponent name":"ESP","Period":2.0,"Player":"MUSSELMAN M","Score":"6 - 1","Seconds":380,"Team":"USA","Time":"6:20","USA":6,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":6.0,"Game":2,"Opponent":2,"Opponent name":"ESP","Period":2.0,"Player":"LLORET GOMEZ H","Score":"6 - 2","Seconds":349,"Team":"ESP","Time":"5:49","USA":6,"Result":"Goal","Goal":1},{"Action":"Penalty shot","Cap":8.0,"Game":2,"Opponent":2,"Opponent name":"ESP","Period":2.0,"Player":"NEUSHUL K","Score":"7 - 2","Seconds":326,"Team":"USA","Time":"5:26","USA":7,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":3.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"ESPAR LLAQUET A","Score":"7 - 3","Seconds":289,"Team":"ESP","Time":"4:49","USA":7,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":6.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"STEFFENS M","Score":"7 - 3","Seconds":267,"Team":"USA","Time":"4:27","USA":7,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":8.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"NEUSHUL K","Score":"7 - 3","Seconds":238,"Team":"USA","Time":"3:58","USA":7,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":10.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"CRESPI BARRIGA P","Score":"7 - 3","Seconds":205,"Team":"ESP","Time":"3:25","USA":7,"Result":"Saved","Goal":0},{"Action":"Extra player shot","Cap":6.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"LLORET GOMEZ H","Score":"7 - 3","Seconds":174,"Team":"ESP","Time":"2:54","USA":7,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":10.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"NEUSHUL J","Score":"7 - 3","Seconds":145,"Team":"USA","Time":"2:25","USA":7,"Result":"Post","Goal":0},{"Action":"5m shot","Cap":3.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"SEIDEMANN M","Score":"7 - 3","Seconds":98,"Team":"USA","Time":"1:38","USA":7,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":7.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"ESPAR LLAQUET C","Score":"7 - 3","Seconds":3,"Team":"ESP","Time":"0:03","USA":7,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":1.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"STONE G","Score":"7 - 3","Seconds":1,"Team":"USA","Time":"0:01","USA":7,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":8.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":3.0,"Player":"PENA CARRASCO M","Score":"7 - 3","Seconds":451,"Team":"ESP","Time":"7:31","USA":7,"Result":"Saved","Goal":0},{"Action":"Centre shot","Cap":6.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":3.0,"Player":"STEFFENS M","Score":"8 - 3","Seconds":421,"Team":"USA","Time":"7:01","USA":8,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":12.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":3.0,"Player":"WILLIAMS A","Score":"9 - 3","Seconds":363,"Team":"USA","Time":"6:03","USA":9,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":3.0,"Player":"ESPAR LLAQUET A","Score":"9 - 3","Seconds":335,"Team":"ESP","Time":"5:35","USA":9,"Result":"Blocked","Goal":0},{"Action":"5m shot","Cap":2.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":3.0,"Player":"MUSSELMAN M","Score":"9 - 3","Seconds":306,"Team":"USA","Time":"5:06","USA":9,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":4.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":3.0,"Player":"FATTAL R","Score":"9 - 3","Seconds":257,"Team":"USA","Time":"4:17","USA":9,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":4.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":3.0,"Player":"FATTAL R","Score":"9 - 3","Seconds":227,"Team":"USA","Time":"3:47","USA":9,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":6.0,"Game":2,"Opponent":3,"Opponent name":"ESP","Period":3.0,"Player":"LLORET GOMEZ H","Score":"9 - 3","Seconds":196,"Team":"ESP","Time":"3:16","USA":9,"Result":"Saved","Goal":0},{"Action":"Penalty shot","Cap":3.0,"Game":2,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"ESPAR LLAQUET A","Score":"9 - 4","Seconds":196,"Team":"ESP","Time":"3:16","USA":9,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":5.0,"Game":2,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"HAUSCHILD P","Score":"9 - 4","Seconds":153,"Team":"USA","Time":"2:33","USA":9,"Result":"Blocked","Goal":0},{"Action":"Action shot","Cap":11.0,"Game":2,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"FISCHER M","Score":"9 - 4","Seconds":140,"Team":"USA","Time":"2:20","USA":9,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":9.0,"Game":2,"Opponent":5,"Opponent name":"ESP","Period":3.0,"Player":"FORCA ARIZA J","Score":"9 - 5","Seconds":76,"Team":"ESP","Time":"1:16","USA":9,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":9.0,"Game":2,"Opponent":5,"Opponent name":"ESP","Period":3.0,"Player":"FISCHER A","Score":"9 - 5","Seconds":1,"Team":"USA","Time":"0:01","USA":9,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":4.0,"Game":2,"Opponent":5,"Opponent name":"ESP","Period":4.0,"Player":"ORTIZ MUNOZ B","Score":"9 - 5","Seconds":451,"Team":"ESP","Time":"7:31","USA":9,"Result":"Missed","Goal":0},{"Action":"Extra player shot","Cap":8.0,"Game":2,"Opponent":5,"Opponent name":"ESP","Period":4.0,"Player":"NEUSHUL K","Score":"10 - 5","Seconds":433,"Team":"USA","Time":"7:13","USA":10,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":12.0,"Game":2,"Opponent":6,"Opponent name":"ESP","Period":4.0,"Player":"LEITON ARRONES P","Score":"10 - 6","Seconds":387,"Team":"ESP","Time":"6:27","USA":10,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":3.0,"Game":2,"Opponent":6,"Opponent name":"ESP","Period":4.0,"Player":"ESPAR LLAQUET A","Score":"10 - 6","Seconds":305,"Team":"ESP","Time":"5:05","USA":10,"Result":"Blocked","Goal":0},{"Action":"5m shot","Cap":4.0,"Game":2,"Opponent":6,"Opponent name":"ESP","Period":4.0,"Player":"ORTIZ MUNOZ B","Score":"10 - 6","Seconds":280,"Team":"ESP","Time":"4:40","USA":10,"Result":"Saved","Goal":0},{"Action":"Extra player shot","Cap":2.0,"Game":2,"Opponent":6,"Opponent name":"ESP","Period":4.0,"Player":"MUSSELMAN M","Score":"11 - 6","Seconds":254,"Team":"USA","Time":"4:14","USA":11,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":6.0,"Game":2,"Opponent":7,"Opponent name":"ESP","Period":4.0,"Player":"LLORET GOMEZ H","Score":"11 - 7","Seconds":205,"Team":"ESP","Time":"3:25","USA":11,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":2,"Opponent":7,"Opponent name":"ESP","Period":4.0,"Player":"ESPAR LLAQUET A","Score":"11 - 7","Seconds":151,"Team":"ESP","Time":"2:31","USA":11,"Result":"Saved","Goal":0},{"Action":"Centre shot","Cap":4.0,"Game":2,"Opponent":7,"Opponent name":"ESP","Period":4.0,"Player":"FATTAL R","Score":"12 - 7","Seconds":136,"Team":"USA","Time":"2:16","USA":12,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":2,"Opponent":8,"Opponent name":"ESP","Period":4.0,"Player":"ESPAR LLAQUET A","Score":"12 - 8","Seconds":105,"Team":"ESP","Time":"1:45","USA":12,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":7.0,"Game":2,"Opponent":8,"Opponent name":"ESP","Period":4.0,"Player":"RANEY J","Score":"12 - 8","Seconds":77,"Team":"USA","Time":"1:17","USA":12,"Result":"Post","Goal":0},{"Action":"Extra player shot","Cap":7.0,"Game":2,"Opponent":8,"Opponent name":"ESP","Period":4.0,"Player":"RANEY J","Score":"12 - 8","Seconds":17,"Team":"USA","Time":"0:17","USA":12,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":2.0,"Game":2,"Opponent":8,"Opponent name":"ESP","Period":4.0,"Player":"BACH PASCUAL M","Score":"12 - 8","Seconds":1,"Team":"ESP","Time":"0:01","USA":12,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":8.0,"Game":3,"Opponent":0,"Opponent name":"NZL","Period":1.0,"Player":"NEUSHUL K","Score":"0 - 1","Seconds":452,"Team":"USA","Time":"7:32","USA":1,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":8.0,"Game":3,"Opponent":0,"Opponent name":"NZL","Period":1.0,"Player":"LOPES da SILVA C","Score":"0 - 1","Seconds":423,"Team":"NZL","Time":"7:03","USA":1,"Result":"Missed","Goal":0},{"Action":"5m shot","Cap":2.0,"Game":3,"Opponent":0,"Opponent name":"NZL","Period":1.0,"Player":"MUSSELMAN M","Score":"0 - 1","Seconds":377,"Team":"USA","Time":"6:17","USA":1,"Result":null,"Goal":0},{"Action":"5m shot","Cap":2.0,"Game":3,"Opponent":0,"Opponent name":"NZL","Period":1.0,"Player":"MUSSELMAN M","Score":"0 - 1","Seconds":377,"Team":"USA","Time":"6:17","USA":1,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":6.0,"Game":3,"Opponent":0,"Opponent name":"NZL","Period":1.0,"Player":"STEFFENS M","Score":"0 - 2","Seconds":356,"Team":"USA","Time":"5:56","USA":2,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":11.0,"Game":3,"Opponent":0,"Opponent name":"NZL","Period":1.0,"Player":"FISCHER M","Score":"0 - 2","Seconds":315,"Team":"USA","Time":"5:15","USA":2,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":11.0,"Game":3,"Opponent":0,"Opponent name":"NZL","Period":1.0,"Player":"FISCHER M","Score":"0 - 3","Seconds":274,"Team":"USA","Time":"4:34","USA":3,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":12.0,"Game":3,"Opponent":0,"Opponent name":"NZL","Period":1.0,"Player":"WILLIAMS A","Score":"0 - 4","Seconds":234,"Team":"USA","Time":"3:54","USA":4,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":9.0,"Game":3,"Opponent":1,"Opponent name":"NZL","Period":1.0,"Player":"STONEMAN E","Score":"1 - 4","Seconds":210,"Team":"NZL","Time":"3:30","USA":4,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":12.0,"Game":3,"Opponent":1,"Opponent name":"NZL","Period":1.0,"Player":"WILLIAMS A","Score":"1 - 4","Seconds":181,"Team":"USA","Time":"3:01","USA":4,"Result":"Post","Goal":0},{"Action":"5m shot","Cap":12.0,"Game":3,"Opponent":1,"Opponent name":"NZL","Period":1.0,"Player":"WILLIAMS A","Score":"1 - 4","Seconds":140,"Team":"USA","Time":"2:20","USA":4,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":6.0,"Game":3,"Opponent":1,"Opponent name":"NZL","Period":1.0,"Player":"STEFFENS M","Score":"1 - 5","Seconds":125,"Team":"USA","Time":"2:05","USA":5,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":3,"Opponent":1,"Opponent name":"NZL","Period":1.0,"Player":"MASON K","Score":"1 - 5","Seconds":86,"Team":"NZL","Time":"1:26","USA":5,"Result":"Blocked","Goal":0},{"Action":"5m shot","Cap":4.0,"Game":3,"Opponent":1,"Opponent name":"NZL","Period":1.0,"Player":"FATTAL R","Score":"1 - 6","Seconds":35,"Team":"USA","Time":"0:35","USA":6,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":8.0,"Game":3,"Opponent":2,"Opponent name":"NZL","Period":1.0,"Player":"LOPES da SILVA C","Score":"2 - 6","Seconds":3,"Team":"NZL","Time":"0:03","USA":6,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":3,"Opponent":2,"Opponent name":"NZL","Period":1.0,"Player":"SEIDEMANN M","Score":"2 - 6","Seconds":1,"Team":"USA","Time":"0:01","USA":6,"Result":"Missed","Goal":0},{"Action":"5m shot","Cap":6.0,"Game":3,"Opponent":2,"Opponent name":"NZL","Period":2.0,"Player":"STEFFENS M","Score":"2 - 7","Seconds":415,"Team":"USA","Time":"6:55","USA":7,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":12.0,"Game":3,"Opponent":3,"Opponent name":"NZL","Period":2.0,"Player":"PYE B","Score":"3 - 7","Seconds":380,"Team":"NZL","Time":"6:20","USA":7,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":2.0,"Game":3,"Opponent":3,"Opponent name":"NZL","Period":2.0,"Player":"MUSSELMAN M","Score":"3 - 8","Seconds":351,"Team":"USA","Time":"5:51","USA":8,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":2.0,"Game":3,"Opponent":3,"Opponent name":"NZL","Period":2.0,"Player":"MUSSELMAN M","Score":"3 - 9","Seconds":303,"Team":"USA","Time":"5:03","USA":9,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":9.0,"Game":3,"Opponent":3,"Opponent name":"NZL","Period":2.0,"Player":"FISCHER A","Score":"3 - 9","Seconds":244,"Team":"USA","Time":"4:04","USA":9,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":3,"Opponent":3,"Opponent name":"NZL","Period":2.0,"Player":"MUSSELMAN M","Score":"3 - 10","Seconds":196,"Team":"USA","Time":"3:16","USA":10,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":7.0,"Game":3,"Opponent":3,"Opponent name":"NZL","Period":2.0,"Player":"RANEY J","Score":"3 - 11","Seconds":137,"Team":"USA","Time":"2:17","USA":11,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":5.0,"Game":3,"Opponent":3,"Opponent name":"NZL","Period":2.0,"Player":"HAUSCHILD P","Score":"3 - 12","Seconds":61,"Team":"USA","Time":"1:01","USA":12,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":12.0,"Game":3,"Opponent":3,"Opponent name":"NZL","Period":2.0,"Player":"PYE B","Score":"3 - 12","Seconds":44,"Team":"NZL","Time":"0:44","USA":12,"Result":"Missed","Goal":0},{"Action":"Action shot","Cap":3.0,"Game":3,"Opponent":3,"Opponent name":"NZL","Period":2.0,"Player":"SEIDEMANN M","Score":"3 - 12","Seconds":5,"Team":"USA","Time":"0:05","USA":12,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":5.0,"Game":3,"Opponent":3,"Opponent name":"NZL","Period":3.0,"Player":"HAUSCHILD P","Score":"3 - 12","Seconds":451,"Team":"USA","Time":"7:31","USA":12,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":11.0,"Game":3,"Opponent":3,"Opponent name":"NZL","Period":3.0,"Player":"FISCHER M","Score":"3 - 13","Seconds":392,"Team":"USA","Time":"6:32","USA":13,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":12.0,"Game":3,"Opponent":4,"Opponent name":"NZL","Period":3.0,"Player":"PYE B","Score":"4 - 13","Seconds":349,"Team":"NZL","Time":"5:49","USA":13,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":2.0,"Game":3,"Opponent":4,"Opponent name":"NZL","Period":3.0,"Player":"MUSSELMAN M","Score":"4 - 14","Seconds":332,"Team":"USA","Time":"5:32","USA":14,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":9.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":3.0,"Player":"STONEMAN E","Score":"5 - 14","Seconds":310,"Team":"NZL","Time":"5:10","USA":14,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":7.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":3.0,"Player":"RANEY J","Score":"5 - 14","Seconds":281,"Team":"USA","Time":"4:41","USA":14,"Result":"Missed","Goal":0},{"Action":"Extra player shot","Cap":7.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":3.0,"Player":"RANEY J","Score":"5 - 15","Seconds":227,"Team":"USA","Time":"3:47","USA":15,"Result":"Goal","Goal":1},{"Action":"Counter attack","Cap":9.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":3.0,"Player":"FISCHER A","Score":"5 - 16","Seconds":130,"Team":"USA","Time":"2:10","USA":16,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":9.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":3.0,"Player":"FISCHER A","Score":"5 - 17","Seconds":79,"Team":"USA","Time":"1:19","USA":17,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":3.0,"Player":"MASON K","Score":"5 - 17","Seconds":33,"Team":"NZL","Time":"0:33","USA":17,"Result":"Blocked","Goal":0},{"Action":"Action shot","Cap":8.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":3.0,"Player":"NEUSHUL K","Score":"5 - 18","Seconds":19,"Team":"USA","Time":"0:19","USA":18,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":9.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":3.0,"Player":"STONEMAN E","Score":"5 - 18","Seconds":1,"Team":"NZL","Time":"0:01","USA":18,"Result":"Saved","Goal":0},{"Action":"Extra player shot","Cap":6.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":4.0,"Player":"STEFFENS M","Score":"5 - 19","Seconds":445,"Team":"USA","Time":"7:25","USA":19,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":8.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":4.0,"Player":"LOPES da SILVA C","Score":"5 - 19","Seconds":400,"Team":"NZL","Time":"6:40","USA":19,"Result":"Missed","Goal":0},{"Action":"Extra player shot","Cap":2.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":4.0,"Player":"LEWIS N","Score":"5 - 19","Seconds":328,"Team":"NZL","Time":"5:28","USA":19,"Result":"Missed","Goal":0},{"Action":"5m shot","Cap":2.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":4.0,"Player":"MUSSELMAN M","Score":"5 - 19","Seconds":282,"Team":"USA","Time":"4:42","USA":19,"Result":"Post","Goal":0},{"Action":"5m shot","Cap":11.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":4.0,"Player":"HUDSON K","Score":"5 - 19","Seconds":254,"Team":"NZL","Time":"4:14","USA":19,"Result":"Saved","Goal":0},{"Action":"Extra player shot","Cap":4.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":4.0,"Player":"FATTAL R","Score":"5 - 20","Seconds":228,"Team":"USA","Time":"3:48","USA":20,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":7.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":4.0,"Player":"HOUGHTON E","Score":"5 - 20","Seconds":208,"Team":"NZL","Time":"3:28","USA":20,"Result":"Blocked","Goal":0},{"Action":"Counter attack","Cap":12.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":4.0,"Player":"WILLIAMS A","Score":"5 - 20","Seconds":195,"Team":"USA","Time":"3:15","USA":20,"Result":"Saved","Goal":0},{"Action":"Extra player shot","Cap":12.0,"Game":3,"Opponent":5,"Opponent name":"NZL","Period":4.0,"Player":"PYE B","Score":"5 - 20","Seconds":154,"Team":"NZL","Time":"2:34","USA":20,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":3.0,"Game":3,"Opponent":6,"Opponent name":"NZL","Period":4.0,"Player":"MASON K","Score":"6 - 20","Seconds":142,"Team":"NZL","Time":"2:22","USA":20,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":11.0,"Game":3,"Opponent":7,"Opponent name":"NZL","Period":4.0,"Player":"HUDSON K","Score":"7 - 20","Seconds":80,"Team":"NZL","Time":"1:20","USA":20,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":10.0,"Game":3,"Opponent":7,"Opponent name":"NZL","Period":4.0,"Player":"NEUSHUL J","Score":"7 - 21","Seconds":47,"Team":"USA","Time":"0:47","USA":21,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":3,"Opponent":7,"Opponent name":"NZL","Period":4.0,"Player":"MASON K","Score":"7 - 21","Seconds":16,"Team":"NZL","Time":"0:16","USA":21,"Result":"Blocked","Goal":0},{"Action":"Extra player shot","Cap":6.0,"Game":3,"Opponent":7,"Opponent name":"NZL","Period":4.0,"Player":"STEFFENS M","Score":"7 - 22","Seconds":7,"Team":"USA","Time":"0:07","USA":22,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":3,"Opponent":7,"Opponent name":"NZL","Period":4.0,"Player":"MASON K","Score":"7 - 22","Seconds":1,"Team":"NZL","Time":"0:01","USA":22,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":6.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":1.0,"Player":"STEFFENS M","Score":"0 - 0","Seconds":409,"Team":"USA","Time":"6:49","USA":0,"Result":"Post","Goal":0},{"Action":"5m shot","Cap":11.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":1.0,"Player":"FISCHER M","Score":"0 - 0","Seconds":349,"Team":"USA","Time":"5:49","USA":0,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":7.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":1.0,"Player":"WEBSTER R","Score":"0 - 0","Seconds":219,"Team":"AUS","Time":"3:39","USA":0,"Result":"Blocked","Goal":0},{"Action":"Centre shot","Cap":2.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":1.0,"Player":"GOFERS K","Score":"0 - 0","Seconds":193,"Team":"AUS","Time":"3:13","USA":0,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":1.0,"Player":"MUSSELMAN M","Score":"0 - 0","Seconds":174,"Team":"USA","Time":"2:54","USA":0,"Result":"Blocked","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":1.0,"Player":"MUSSELMAN M","Score":"0 - 0","Seconds":169,"Team":"USA","Time":"2:49","USA":0,"Result":"Post","Goal":0},{"Action":"5m shot","Cap":3.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":1.0,"Player":"BUCKLING H","Score":"0 - 0","Seconds":141,"Team":"AUS","Time":"2:21","USA":0,"Result":"Missed","Goal":0},{"Action":"5m shot","Cap":4.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":1.0,"Player":"FATTAL R","Score":"0 - 0","Seconds":114,"Team":"USA","Time":"1:54","USA":0,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":3.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":1.0,"Player":"BUCKLING H","Score":"0 - 0","Seconds":56,"Team":"AUS","Time":"0:56","USA":0,"Result":"Blocked","Goal":0},{"Action":"Action shot","Cap":4.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":2.0,"Player":"HALLIGAN B","Score":"0 - 0","Seconds":425,"Team":"AUS","Time":"7:05","USA":0,"Result":"Missed","Goal":0},{"Action":"Centre shot","Cap":9.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":2.0,"Player":"FISCHER A","Score":"0 - 0","Seconds":399,"Team":"USA","Time":"6:39","USA":0,"Result":"Post","Goal":0},{"Action":"Centre shot","Cap":7.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":2.0,"Player":"WEBSTER R","Score":"0 - 0","Seconds":371,"Team":"AUS","Time":"6:11","USA":0,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":8.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":2.0,"Player":"NEUSHUL K","Score":"0 - 0","Seconds":314,"Team":"USA","Time":"5:14","USA":0,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":7.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":2.0,"Player":"WEBSTER R","Score":"0 - 0","Seconds":296,"Team":"AUS","Time":"4:56","USA":0,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":12.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":2.0,"Player":"WILLIAMS A","Score":"0 - 0","Seconds":264,"Team":"USA","Time":"4:24","USA":0,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":2.0,"Player":"GOFERS K","Score":"0 - 0","Seconds":233,"Team":"AUS","Time":"3:53","USA":0,"Result":"Saved","Goal":0},{"Action":"Extra player shot","Cap":7.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":2.0,"Player":"RANEY J","Score":"1 - 0","Seconds":208,"Team":"USA","Time":"3:28","USA":1,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":7.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":2.0,"Player":"RANEY J","Score":"2 - 0","Seconds":149,"Team":"USA","Time":"2:29","USA":2,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":11.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":2.0,"Player":"FISCHER M","Score":"2 - 0","Seconds":65,"Team":"USA","Time":"1:05","USA":2,"Result":"Blocked","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":2.0,"Player":"MUSSELMAN M","Score":"3 - 0","Seconds":36,"Team":"USA","Time":"0:36","USA":3,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":4.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":2.0,"Player":"HALLIGAN B","Score":"3 - 0","Seconds":1,"Team":"AUS","Time":"0:01","USA":3,"Result":"Saved","Goal":0},{"Action":"Extra player shot","Cap":2.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":3.0,"Player":"MUSSELMAN M","Score":"3 - 0","Seconds":434,"Team":"USA","Time":"7:14","USA":3,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":4,"Opponent":0,"Opponent name":"AUS","Period":3.0,"Player":"MUSSELMAN M","Score":"3 - 0","Seconds":416,"Team":"USA","Time":"6:56","USA":3,"Result":"Missed","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":4,"Opponent":1,"Opponent name":"AUS","Period":3.0,"Player":"GOFERS K","Score":"3 - 1","Seconds":387,"Team":"AUS","Time":"6:27","USA":3,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":5.0,"Game":4,"Opponent":1,"Opponent name":"AUS","Period":3.0,"Player":"BISHOP I","Score":"3 - 1","Seconds":308,"Team":"AUS","Time":"5:08","USA":3,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":8.0,"Game":4,"Opponent":1,"Opponent name":"AUS","Period":3.0,"Player":"NEUSHUL K","Score":"3 - 1","Seconds":276,"Team":"USA","Time":"4:36","USA":3,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":10.0,"Game":4,"Opponent":1,"Opponent name":"AUS","Period":3.0,"Player":"MIHAILOVIC L","Score":"3 - 1","Seconds":243,"Team":"AUS","Time":"4:03","USA":3,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":4,"Opponent":1,"Opponent name":"AUS","Period":3.0,"Player":"MUSSELMAN M","Score":"3 - 1","Seconds":223,"Team":"USA","Time":"3:43","USA":3,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":3.0,"Game":4,"Opponent":1,"Opponent name":"AUS","Period":3.0,"Player":"SEIDEMANN M","Score":"4 - 1","Seconds":182,"Team":"USA","Time":"3:02","USA":4,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":2.0,"Game":4,"Opponent":2,"Opponent name":"AUS","Period":3.0,"Player":"GOFERS K","Score":"4 - 2","Seconds":137,"Team":"AUS","Time":"2:17","USA":4,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":11.0,"Game":4,"Opponent":2,"Opponent name":"AUS","Period":3.0,"Player":"FISCHER M","Score":"4 - 2","Seconds":114,"Team":"USA","Time":"1:54","USA":4,"Result":"Missed","Goal":0},{"Action":"Centre shot","Cap":9.0,"Game":4,"Opponent":2,"Opponent name":"AUS","Period":3.0,"Player":"FISCHER A","Score":"4 - 2","Seconds":71,"Team":"USA","Time":"1:11","USA":4,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":10.0,"Game":4,"Opponent":2,"Opponent name":"AUS","Period":3.0,"Player":"NEUSHUL J","Score":"5 - 2","Seconds":70,"Team":"USA","Time":"1:10","USA":5,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":4,"Opponent":2,"Opponent name":"AUS","Period":3.0,"Player":"SEIDEMANN M","Score":"5 - 2","Seconds":15,"Team":"USA","Time":"0:15","USA":5,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":8.0,"Game":4,"Opponent":2,"Opponent name":"AUS","Period":4.0,"Player":"NEUSHUL K","Score":"5 - 2","Seconds":409,"Team":"USA","Time":"6:49","USA":5,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":5.0,"Game":4,"Opponent":2,"Opponent name":"AUS","Period":4.0,"Player":"BISHOP I","Score":"5 - 2","Seconds":377,"Team":"AUS","Time":"6:17","USA":5,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":4,"Opponent":3,"Opponent name":"AUS","Period":4.0,"Player":"GOFERS K","Score":"5 - 3","Seconds":342,"Team":"AUS","Time":"5:42","USA":5,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":12.0,"Game":4,"Opponent":3,"Opponent name":"AUS","Period":4.0,"Player":"WILLIAMS A","Score":"5 - 3","Seconds":326,"Team":"USA","Time":"5:26","USA":5,"Result":"Post","Goal":0},{"Action":"Extra player shot","Cap":2.0,"Game":4,"Opponent":3,"Opponent name":"AUS","Period":4.0,"Player":"MUSSELMAN M","Score":"6 - 3","Seconds":248,"Team":"USA","Time":"4:08","USA":6,"Result":"Goal","Goal":1},{"Action":"Centre shot","Cap":3.0,"Game":4,"Opponent":3,"Opponent name":"AUS","Period":4.0,"Player":"SEIDEMANN M","Score":"6 - 3","Seconds":200,"Team":"USA","Time":"3:20","USA":6,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":7.0,"Game":4,"Opponent":3,"Opponent name":"AUS","Period":4.0,"Player":"WEBSTER R","Score":"6 - 3","Seconds":182,"Team":"AUS","Time":"3:02","USA":6,"Result":"Missed","Goal":0},{"Action":"Action shot","Cap":4.0,"Game":4,"Opponent":3,"Opponent name":"AUS","Period":4.0,"Player":"FATTAL R","Score":"7 - 3","Seconds":165,"Team":"USA","Time":"2:45","USA":7,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":2.0,"Game":4,"Opponent":4,"Opponent name":"AUS","Period":4.0,"Player":"GOFERS K","Score":"7 - 4","Seconds":130,"Team":"AUS","Time":"2:10","USA":7,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":3.0,"Game":4,"Opponent":4,"Opponent name":"AUS","Period":4.0,"Player":"SEIDEMANN M","Score":"7 - 4","Seconds":103,"Team":"USA","Time":"1:43","USA":7,"Result":"Saved","Goal":0},{"Action":"Penalty shot","Cap":7.0,"Game":4,"Opponent":5,"Opponent name":"AUS","Period":4.0,"Player":"WEBSTER R","Score":"7 - 5","Seconds":89,"Team":"AUS","Time":"1:29","USA":7,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":7.0,"Game":4,"Opponent":5,"Opponent name":"AUS","Period":4.0,"Player":"WEBSTER R","Score":"7 - 5","Seconds":1,"Team":"AUS","Time":"0:01","USA":7,"Result":"Missed","Goal":0},{"Action":"Centre shot","Cap":8.0,"Game":5,"Opponent":1,"Opponent name":"RUS","Period":1.0,"Player":"SIMANOVICH A","Score":"1 - 0","Seconds":430,"Team":"RUS","Time":"7:10","USA":0,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":11.0,"Game":5,"Opponent":1,"Opponent name":"RUS","Period":1.0,"Player":"FISCHER M","Score":"1 - 0","Seconds":353,"Team":"USA","Time":"5:53","USA":0,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":3.0,"Game":5,"Opponent":2,"Opponent name":"RUS","Period":1.0,"Player":"PROKOFYEVA E","Score":"2 - 0","Seconds":294,"Team":"RUS","Time":"4:54","USA":0,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":2.0,"Game":5,"Opponent":2,"Opponent name":"RUS","Period":1.0,"Player":"MUSSELMAN M","Score":"2 - 1","Seconds":267,"Team":"USA","Time":"4:27","USA":1,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":4.0,"Game":5,"Opponent":2,"Opponent name":"RUS","Period":1.0,"Player":"FATTAL R","Score":"2 - 2","Seconds":215,"Team":"USA","Time":"3:35","USA":2,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":5,"Opponent":3,"Opponent name":"RUS","Period":1.0,"Player":"PROKOFYEVA E","Score":"3 - 2","Seconds":178,"Team":"RUS","Time":"2:58","USA":2,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":6.0,"Game":5,"Opponent":3,"Opponent name":"RUS","Period":1.0,"Player":"STEFFENS M","Score":"3 - 2","Seconds":149,"Team":"USA","Time":"2:29","USA":2,"Result":"Post","Goal":0},{"Action":"Penalty shot","Cap":5.0,"Game":5,"Opponent":4,"Opponent name":"RUS","Period":1.0,"Player":"BORISOVA M","Score":"4 - 2","Seconds":130,"Team":"RUS","Time":"2:10","USA":2,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":6.0,"Game":5,"Opponent":4,"Opponent name":"RUS","Period":1.0,"Player":"STEFFENS M","Score":"4 - 3","Seconds":106,"Team":"USA","Time":"1:46","USA":3,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":11.0,"Game":5,"Opponent":4,"Opponent name":"RUS","Period":1.0,"Player":"FISCHER M","Score":"4 - 3","Seconds":67,"Team":"USA","Time":"1:07","USA":3,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":4.0,"Game":5,"Opponent":4,"Opponent name":"RUS","Period":1.0,"Player":"FATTAL R","Score":"4 - 4","Seconds":48,"Team":"USA","Time":"0:48","USA":4,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":4.0,"Game":5,"Opponent":4,"Opponent name":"RUS","Period":1.0,"Player":"FATTAL R","Score":"4 - 5","Seconds":8,"Team":"USA","Time":"0:08","USA":5,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":5,"Opponent":4,"Opponent name":"RUS","Period":1.0,"Player":"PROKOFYEVA E","Score":"4 - 5","Seconds":4,"Team":"RUS","Time":"0:04","USA":5,"Result":"Missed","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":5,"Opponent":4,"Opponent name":"RUS","Period":2.0,"Player":"MUSSELMAN M","Score":"4 - 6","Seconds":449,"Team":"USA","Time":"7:29","USA":6,"Result":"Goal","Goal":1},{"Action":"Centre shot","Cap":8.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"SIMANOVICH A","Score":"5 - 6","Seconds":436,"Team":"RUS","Time":"7:16","USA":6,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":2.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"MUSSELMAN M","Score":"5 - 7","Seconds":412,"Team":"USA","Time":"6:52","USA":7,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":6.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"STEFFENS M","Score":"5 - 8","Seconds":365,"Team":"USA","Time":"6:05","USA":8,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"PROKOFYEVA E","Score":"5 - 8","Seconds":310,"Team":"RUS","Time":"5:10","USA":8,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":4.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"FATTAL R","Score":"5 - 8","Seconds":271,"Team":"USA","Time":"4:31","USA":8,"Result":"Blocked","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"MUSSELMAN M","Score":"5 - 9","Seconds":234,"Team":"USA","Time":"3:54","USA":9,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":11.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"IVANOVA E","Score":"5 - 9","Seconds":191,"Team":"RUS","Time":"3:11","USA":9,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":10.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"TOLKUNOVA T","Score":"5 - 9","Seconds":185,"Team":"RUS","Time":"3:05","USA":9,"Result":"Blocked","Goal":0},{"Action":"Action shot","Cap":11.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"FISCHER M","Score":"5 - 9","Seconds":159,"Team":"USA","Time":"2:39","USA":9,"Result":"Saved","Goal":0},{"Action":"Centre shot","Cap":9.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"TIMOFEEVA A","Score":"5 - 9","Seconds":138,"Team":"RUS","Time":"2:18","USA":9,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":4.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"FATTAL R","Score":"5 - 10","Seconds":112,"Team":"USA","Time":"1:52","USA":10,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":6.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"STEFFENS M","Score":"5 - 10","Seconds":81,"Team":"USA","Time":"1:21","USA":10,"Result":"Blocked","Goal":0},{"Action":"Action shot","Cap":6.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"STEFFENS M","Score":"5 - 11","Seconds":18,"Team":"USA","Time":"0:18","USA":11,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":11.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"IVANOVA E","Score":"5 - 11","Seconds":6,"Team":"RUS","Time":"0:06","USA":11,"Result":"Blocked","Goal":0},{"Action":"5m shot","Cap":2.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":2.0,"Player":"MUSSELMAN M","Score":"5 - 11","Seconds":1,"Team":"USA","Time":"0:01","USA":11,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":8.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":3.0,"Player":"SIMANOVICH A","Score":"5 - 11","Seconds":441,"Team":"RUS","Time":"7:21","USA":11,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":5.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":3.0,"Player":"BORISOVA M","Score":"5 - 11","Seconds":424,"Team":"RUS","Time":"7:04","USA":11,"Result":"Blocked","Goal":0},{"Action":"5m shot","Cap":4.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":3.0,"Player":"FATTAL R","Score":"5 - 12","Seconds":406,"Team":"USA","Time":"6:46","USA":12,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":5.0,"Game":5,"Opponent":5,"Opponent name":"RUS","Period":3.0,"Player":"BORISOVA M","Score":"5 - 12","Seconds":334,"Team":"RUS","Time":"5:34","USA":12,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":11.0,"Game":5,"Opponent":6,"Opponent name":"RUS","Period":3.0,"Player":"IVANOVA E","Score":"6 - 12","Seconds":284,"Team":"RUS","Time":"4:44","USA":12,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":8.0,"Game":5,"Opponent":6,"Opponent name":"RUS","Period":3.0,"Player":"NEUSHUL K","Score":"6 - 13","Seconds":254,"Team":"USA","Time":"4:14","USA":13,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":11.0,"Game":5,"Opponent":6,"Opponent name":"RUS","Period":3.0,"Player":"FISCHER M","Score":"6 - 13","Seconds":205,"Team":"USA","Time":"3:25","USA":13,"Result":"Post","Goal":0},{"Action":"Extra player shot","Cap":5.0,"Game":5,"Opponent":6,"Opponent name":"RUS","Period":3.0,"Player":"BORISOVA M","Score":"6 - 13","Seconds":178,"Team":"RUS","Time":"2:58","USA":13,"Result":"Saved","Goal":0},{"Action":"Extra player shot","Cap":12.0,"Game":5,"Opponent":7,"Opponent name":"RUS","Period":3.0,"Player":"RYZHKOVA D","Score":"7 - 13","Seconds":133,"Team":"RUS","Time":"2:13","USA":13,"Result":"Goal","Goal":1},{"Action":"Centre shot","Cap":12.0,"Game":5,"Opponent":7,"Opponent name":"RUS","Period":3.0,"Player":"RYZHKOVA D","Score":"7 - 13","Seconds":81,"Team":"RUS","Time":"1:21","USA":13,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":9.0,"Game":5,"Opponent":7,"Opponent name":"RUS","Period":3.0,"Player":"TIMOFEEVA A","Score":"7 - 13","Seconds":1,"Team":"RUS","Time":"0:01","USA":13,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":5.0,"Game":5,"Opponent":8,"Opponent name":"RUS","Period":4.0,"Player":"BORISOVA M","Score":"8 - 13","Seconds":440,"Team":"RUS","Time":"7:20","USA":13,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":12.0,"Game":5,"Opponent":8,"Opponent name":"RUS","Period":4.0,"Player":"WILLIAMS A","Score":"8 - 14","Seconds":382,"Team":"USA","Time":"6:22","USA":14,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":5,"Opponent":8,"Opponent name":"RUS","Period":4.0,"Player":"PROKOFYEVA E","Score":"8 - 14","Seconds":363,"Team":"RUS","Time":"6:03","USA":14,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":4.0,"Game":6,"Opponent":0,"Opponent name":"ESP","Period":1.0,"Player":"FATTAL R","Score":"0 - 0","Seconds":426,"Team":"USA","Time":"7:06","USA":0,"Result":"Missed","Goal":0},{"Action":"Centre shot","Cap":8.0,"Game":6,"Opponent":0,"Opponent name":"ESP","Period":1.0,"Player":"NEUSHUL K","Score":"0 - 0","Seconds":382,"Team":"USA","Time":"6:22","USA":0,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":8.0,"Game":6,"Opponent":0,"Opponent name":"ESP","Period":1.0,"Player":"PENA CARRASCO M","Score":"0 - 0","Seconds":355,"Team":"ESP","Time":"5:55","USA":0,"Result":"Saved","Goal":0},{"Action":"Extra player shot","Cap":4.0,"Game":6,"Opponent":0,"Opponent name":"ESP","Period":1.0,"Player":"ORTIZ MUNOZ B","Score":"0 - 0","Seconds":290,"Team":"ESP","Time":"4:50","USA":0,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":4.0,"Game":6,"Opponent":0,"Opponent name":"ESP","Period":1.0,"Player":"ORTIZ MUNOZ B","Score":"0 - 0","Seconds":280,"Team":"ESP","Time":"4:40","USA":0,"Result":"Saved","Goal":0},{"Action":"Extra player shot","Cap":3.0,"Game":6,"Opponent":0,"Opponent name":"ESP","Period":1.0,"Player":"SEIDEMANN M","Score":"1 - 0","Seconds":250,"Team":"USA","Time":"4:10","USA":1,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":6.0,"Game":6,"Opponent":0,"Opponent name":"ESP","Period":1.0,"Player":"STEFFENS M","Score":"1 - 0","Seconds":196,"Team":"USA","Time":"3:16","USA":1,"Result":"Saved","Goal":0},{"Action":"Action shot","Cap":4.0,"Game":6,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"ORTIZ MUNOZ B","Score":"1 - 1","Seconds":151,"Team":"ESP","Time":"2:31","USA":1,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":7.0,"Game":6,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"RANEY J","Score":"2 - 1","Seconds":131,"Team":"USA","Time":"2:11","USA":2,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":3.0,"Game":6,"Opponent":1,"Opponent name":"ESP","Period":1.0,"Player":"SEIDEMANN M","Score":"2 - 1","Seconds":2,"Team":"USA","Time":"0:02","USA":2,"Result":"Saved","Goal":0},{"Action":"Penalty shot","Cap":3.0,"Game":6,"Opponent":2,"Opponent name":"ESP","Period":2.0,"Player":"ESPAR LLAQUET A","Score":"2 - 2","Seconds":463,"Team":"ESP","Time":"7:43","USA":2,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":2.0,"Game":6,"Opponent":2,"Opponent name":"ESP","Period":2.0,"Player":"MUSSELMAN M","Score":"2 - 2","Seconds":433,"Team":"USA","Time":"7:13","USA":2,"Result":"Blocked","Goal":0},{"Action":"Centre shot","Cap":12.0,"Game":6,"Opponent":2,"Opponent name":"ESP","Period":2.0,"Player":"LEITON ARRONES P","Score":"2 - 2","Seconds":403,"Team":"ESP","Time":"6:43","USA":2,"Result":"Saved","Goal":0},{"Action":"Extra player shot","Cap":8.0,"Game":6,"Opponent":2,"Opponent name":"ESP","Period":2.0,"Player":"NEUSHUL K","Score":"3 - 2","Seconds":386,"Team":"USA","Time":"6:26","USA":3,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":4.0,"Game":6,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"ORTIZ MUNOZ B","Score":"3 - 3","Seconds":354,"Team":"ESP","Time":"5:54","USA":3,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":8.0,"Game":6,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"NEUSHUL K","Score":"4 - 3","Seconds":327,"Team":"USA","Time":"5:27","USA":4,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":3.0,"Game":6,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"ESPAR LLAQUET A","Score":"4 - 3","Seconds":298,"Team":"ESP","Time":"4:58","USA":4,"Result":"Post","Goal":0},{"Action":"Extra player shot","Cap":2.0,"Game":6,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"MUSSELMAN M","Score":"5 - 3","Seconds":273,"Team":"USA","Time":"4:33","USA":5,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":11.0,"Game":6,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"GUAL ROVIROSA A","Score":"5 - 3","Seconds":247,"Team":"ESP","Time":"4:07","USA":5,"Result":"Blocked","Goal":0},{"Action":"Centre shot","Cap":9.0,"Game":6,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"FISCHER A","Score":"5 - 3","Seconds":171,"Team":"USA","Time":"2:51","USA":5,"Result":"Saved","Goal":0},{"Action":"Centre shot","Cap":10.0,"Game":6,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"CRESPI BARRIGA P","Score":"5 - 3","Seconds":81,"Team":"ESP","Time":"1:21","USA":5,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":8.0,"Game":6,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"NEUSHUL K","Score":"5 - 3","Seconds":53,"Team":"USA","Time":"0:53","USA":5,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":3.0,"Game":6,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"ESPAR LLAQUET A","Score":"5 - 3","Seconds":25,"Team":"ESP","Time":"0:25","USA":5,"Result":"Post","Goal":0},{"Action":"Action shot","Cap":2.0,"Game":6,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"MUSSELMAN M","Score":"5 - 3","Seconds":10,"Team":"USA","Time":"0:10","USA":5,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":12.0,"Game":6,"Opponent":3,"Opponent name":"ESP","Period":2.0,"Player":"LEITON ARRONES P","Score":"5 - 3","Seconds":1,"Team":"ESP","Time":"0:01","USA":5,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":3.0,"Game":6,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"ESPAR LLAQUET A","Score":"5 - 4","Seconds":453,"Team":"ESP","Time":"7:33","USA":5,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":4.0,"Game":6,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"FATTAL R","Score":"6 - 4","Seconds":428,"Team":"USA","Time":"7:08","USA":6,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":8.0,"Game":6,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"NEUSHUL K","Score":"7 - 4","Seconds":365,"Team":"USA","Time":"6:05","USA":7,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":11.0,"Game":6,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"FISCHER M","Score":"7 - 4","Seconds":312,"Team":"USA","Time":"5:12","USA":7,"Result":"Missed","Goal":0},{"Action":"Action shot","Cap":6.0,"Game":6,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"LLORET GOMEZ H","Score":"7 - 4","Seconds":283,"Team":"ESP","Time":"4:43","USA":7,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":4.0,"Game":6,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"ORTIZ MUNOZ B","Score":"7 - 4","Seconds":256,"Team":"ESP","Time":"4:16","USA":7,"Result":"Post","Goal":0},{"Action":"Extra player shot","Cap":6.0,"Game":6,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"STEFFENS M","Score":"8 - 4","Seconds":211,"Team":"USA","Time":"3:31","USA":8,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":9.0,"Game":6,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"FORCA ARIZA J","Score":"8 - 4","Seconds":188,"Team":"ESP","Time":"3:08","USA":8,"Result":"Missed","Goal":0},{"Action":"Centre shot","Cap":3.0,"Game":6,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"ESPAR LLAQUET A","Score":"8 - 4","Seconds":146,"Team":"ESP","Time":"2:26","USA":8,"Result":"Missed","Goal":0},{"Action":"Extra player shot","Cap":11.0,"Game":6,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"FISCHER M","Score":"9 - 4","Seconds":115,"Team":"USA","Time":"1:55","USA":9,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":9.0,"Game":6,"Opponent":4,"Opponent name":"ESP","Period":3.0,"Player":"FORCA ARIZA J","Score":"9 - 4","Seconds":85,"Team":"ESP","Time":"1:25","USA":9,"Result":"Post","Goal":0},{"Action":"Extra player shot","Cap":12.0,"Game":6,"Opponent":5,"Opponent name":"ESP","Period":3.0,"Player":"LEITON ARRONES P","Score":"9 - 5","Seconds":25,"Team":"ESP","Time":"0:25","USA":9,"Result":"Goal","Goal":1},{"Action":"Centre shot","Cap":2.0,"Game":6,"Opponent":5,"Opponent name":"ESP","Period":3.0,"Player":"MUSSELMAN M","Score":"10 - 5","Seconds":1,"Team":"USA","Time":"0:01","USA":10,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":4.0,"Game":6,"Opponent":5,"Opponent name":"ESP","Period":4.0,"Player":"FATTAL R","Score":"10 - 5","Seconds":452,"Team":"USA","Time":"7:32","USA":10,"Result":"Missed","Goal":0},{"Action":"5m shot","Cap":9.0,"Game":6,"Opponent":5,"Opponent name":"ESP","Period":4.0,"Player":"FORCA ARIZA J","Score":"10 - 5","Seconds":424,"Team":"ESP","Time":"7:04","USA":10,"Result":"Blocked","Goal":0},{"Action":"5m shot","Cap":6.0,"Game":6,"Opponent":5,"Opponent name":"ESP","Period":4.0,"Player":"STEFFENS M","Score":"11 - 5","Seconds":394,"Team":"USA","Time":"6:34","USA":11,"Result":"Goal","Goal":1},{"Action":"Extra player shot","Cap":8.0,"Game":6,"Opponent":5,"Opponent name":"ESP","Period":4.0,"Player":"NEUSHUL K","Score":"12 - 5","Seconds":334,"Team":"USA","Time":"5:34","USA":12,"Result":"Goal","Goal":1},{"Action":"Action shot","Cap":11.0,"Game":6,"Opponent":5,"Opponent name":"ESP","Period":4.0,"Player":"GUAL ROVIROSA A","Score":"12 - 5","Seconds":252,"Team":"ESP","Time":"4:12","USA":12,"Result":"Missed","Goal":0},{"Action":"Extra player shot","Cap":2.0,"Game":6,"Opponent":5,"Opponent name":"ESP","Period":4.0,"Player":"MUSSELMAN M","Score":"13 - 5","Seconds":222,"Team":"USA","Time":"3:42","USA":13,"Result":"Goal","Goal":1},{"Action":"5m shot","Cap":4.0,"Game":6,"Opponent":5,"Opponent name":"ESP","Period":4.0,"Player":"ORTIZ MUNOZ B","Score":"13 - 5","Seconds":193,"Team":"ESP","Time":"3:13","USA":13,"Result":"Missed","Goal":0},{"Action":"Extra player shot","Cap":5.0,"Game":6,"Opponent":5,"Opponent name":"ESP","Period":4.0,"Player":"HAUSCHILD P","Score":"13 - 5","Seconds":151,"Team":"USA","Time":"2:31","USA":13,"Result":"Blocked","Goal":0},{"Action":"Action shot","Cap":12.0,"Game":6,"Opponent":5,"Opponent name":"ESP","Period":4.0,"Player":"WILLIAMS A","Score":"13 - 5","Seconds":121,"Team":"USA","Time":"2:01","USA":13,"Result":"Post","Goal":0},{"Action":"5m shot","Cap":3.0,"Game":6,"Opponent":6,"Opponent name":"ESP","Period":4.0,"Player":"ESPAR LLAQUET A","Score":"13 - 6","Seconds":96,"Team":"ESP","Time":"1:36","USA":13,"Result":"Goal","Goal":1},{"Action":"Centre shot","Cap":9.0,"Game":6,"Opponent":6,"Opponent name":"ESP","Period":4.0,"Player":"FISCHER A","Score":"13 - 6","Seconds":67,"Team":"USA","Time":"1:07","USA":13,"Result":"Saved","Goal":0},{"Action":"5m shot","Cap":3.0,"Game":6,"Opponent":6,"Opponent name":"ESP","Period":4.0,"Player":"ESPAR LLAQUET A","Score":"13 - 6","Seconds":38,"Team":"ESP","Time":"0:38","USA":13,"Result":"Missed","Goal":0}];
+</script>
+<script>
+const shotData = [
+{"Player":"BACH PASCUAL M","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"BARRETT N","Game":1,"5m shot attempted":1,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":1},
+{"Player":"BISHOP I","Game":4,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
+{"Player":"BORISOVA M","Game":5,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":1,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":1,"Total attempted":5,"Total made":2},
+{"Player":"BUCKLING H","Game":4,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
+{"Player":"CRESPI BARRIGA P","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"CRESPI BARRIGA P","Game":6,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"ESPAR LLAQUET A","Game":2,"5m shot attempted":3,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":1,"5m shot made":1,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":1,"Total attempted":7,"Total made":3},
+{"Player":"ESPAR LLAQUET A","Game":6,"5m shot attempted":4,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":1,"5m shot made":2,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":1,"Total attempted":7,"Total made":3},
+{"Player":"ESPAR LLAQUET C","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"FATTAL R","Game":1,"5m shot attempted":0,"Action shot attempted":3,"Centre shot attempted":2,"Counter attack attempted":1,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":1,"Counter attack made":1,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":6,"Total made":3},
+{"Player":"FATTAL R","Game":2,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":4,"Total made":2},
+{"Player":"FATTAL R","Game":3,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":2},
+{"Player":"FATTAL R","Game":4,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
+{"Player":"FATTAL R","Game":5,"5m shot attempted":1,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":3,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":6,"Total made":5},
+{"Player":"FATTAL R","Game":6,"5m shot attempted":2,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":1},
+{"Player":"FISCHER A","Game":1,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":2},
+{"Player":"FISCHER A","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
+{"Player":"FISCHER A","Game":3,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":1,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":1,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":2},
+{"Player":"FISCHER A","Game":4,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":2,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
+{"Player":"FISCHER A","Game":6,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":2,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
+{"Player":"FISCHER M","Game":1,"5m shot attempted":0,"Action shot attempted":6,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":7,"Total made":2},
+{"Player":"FISCHER M","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"FISCHER M","Game":3,"5m shot attempted":1,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":2},
+{"Player":"FISCHER M","Game":4,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":0},
+{"Player":"FISCHER M","Game":5,"5m shot attempted":1,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":4,"Total made":0},
+{"Player":"FISCHER M","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":1},
+{"Player":"FORCA ARIZA J","Game":2,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
+{"Player":"FORCA ARIZA J","Game":6,"5m shot attempted":3,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":0},
+{"Player":"GOFERS K","Game":4,"5m shot attempted":0,"Action shot attempted":4,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":3,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":6,"Total made":4},
+{"Player":"GUAL ROVIROSA A","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"GUAL ROVIROSA A","Game":6,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
+{"Player":"HALLIGAN B","Game":4,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
+{"Player":"HAUSCHILD P","Game":1,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":2},
+{"Player":"HAUSCHILD P","Game":2,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"HAUSCHILD P","Game":3,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
+{"Player":"HAUSCHILD P","Game":6,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"HOUGHTON E","Game":3,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"HUDSON K","Game":3,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
+{"Player":"IVANOVA E","Game":5,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":1},
+{"Player":"LEITON ARRONES P","Game":2,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":1},
+{"Player":"LEITON ARRONES P","Game":6,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":1},
+{"Player":"LEWIS N","Game":3,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"LLORET GOMEZ H","Game":2,"5m shot attempted":0,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":4,"Total made":2},
+{"Player":"LLORET GOMEZ H","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"LOPES da SILVA C","Game":3,"5m shot attempted":2,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":1},
+{"Player":"MASON K","Game":3,"5m shot attempted":5,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":1},
+{"Player":"MIHAILOVIC L","Game":4,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"MUSSELMAN M","Game":2,"5m shot attempted":2,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":7,"Total made":3},
+{"Player":"MUSSELMAN M","Game":3,"5m shot attempted":3,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":4,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":7,"Total made":4},
+{"Player":"MUSSELMAN M","Game":4,"5m shot attempted":0,"Action shot attempted":5,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":2,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":7,"Total made":2},
+{"Player":"MUSSELMAN M","Game":5,"5m shot attempted":1,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":4,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":4},
+{"Player":"MUSSELMAN M","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":3,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":2,"Penalty shot made":0,"Total attempted":5,"Total made":3},
+{"Player":"NEUSHUL J","Game":1,"5m shot attempted":1,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":2,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":4,"Centre shot made":0,"Counter attack made":2,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":7,"Total made":6},
+{"Player":"NEUSHUL J","Game":2,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
+{"Player":"NEUSHUL J","Game":3,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":1},
+{"Player":"NEUSHUL J","Game":4,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":1},
+{"Player":"NEUSHUL K","Game":1,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":3},
+{"Player":"NEUSHUL K","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":1,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":1,"Total attempted":4,"Total made":3},
+{"Player":"NEUSHUL K","Game":3,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":2},
+{"Player":"NEUSHUL K","Game":4,"5m shot attempted":0,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":0},
+{"Player":"NEUSHUL K","Game":5,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":1,"Total made":1},
+{"Player":"NEUSHUL K","Game":6,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":4,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":4,"Penalty shot made":0,"Total attempted":6,"Total made":4},
+{"Player":"ORTIZ MUNOZ B","Game":2,"5m shot attempted":3,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":5,"Total made":1},
+{"Player":"ORTIZ MUNOZ B","Game":6,"5m shot attempted":2,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":2,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":6,"Total made":2},
+{"Player":"PENA CARRASCO M","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"PENA CARRASCO M","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"PENNEY A","Game":1,"5m shot attempted":0,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":1},
+{"Player":"PROKOFYEVA E","Game":5,"5m shot attempted":5,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":2,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":2},
+{"Player":"PYE B","Game":3,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":4,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":2,"Penalty shot made":0,"Total attempted":4,"Total made":2},
+{"Player":"RANEY J","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
+{"Player":"RANEY J","Game":3,"5m shot attempted":2,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":2},
+{"Player":"RANEY J","Game":4,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":2},
+{"Player":"RANEY J","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":1},
+{"Player":"RYZHKOVA D","Game":5,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":1},
+{"Player":"SEIDEMANN M","Game":1,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":3,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":3,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":5},
+{"Player":"SEIDEMANN M","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"SEIDEMANN M","Game":3,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
+{"Player":"SEIDEMANN M","Game":4,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":4,"Total made":1},
+{"Player":"SEIDEMANN M","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":1},
+{"Player":"SIMANOVICH A","Game":5,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":2,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":2,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":2},
+{"Player":"SMIT Z","Game":1,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"STEFFENS M","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
+{"Player":"STEFFENS M","Game":3,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":2,"Penalty shot attempted":0,"5m shot made":2,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":2,"Penalty shot made":0,"Total attempted":5,"Total made":5},
+{"Player":"STEFFENS M","Game":4,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"STEFFENS M","Game":5,"5m shot attempted":2,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":2,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":3},
+{"Player":"STEFFENS M","Game":6,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":2},
+{"Player":"STONE G","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"STONEMAN E","Game":3,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":2},
+{"Player":"TIMOFEEVA A","Game":5,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
+{"Player":"TOLKUNOVA T","Game":5,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"WEBSTER R","Game":4,"5m shot attempted":2,"Action shot attempted":2,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":1,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":1,"Total attempted":6,"Total made":1},
+{"Player":"WESSELS C","Game":1,"5m shot attempted":2,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
+{"Player":"WHITE K","Game":1,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
+{"Player":"WILLIAMS A","Game":1,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":1},
+{"Player":"WILLIAMS A","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":1},
+{"Player":"WILLIAMS A","Game":3,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":1,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":4,"Total made":1},
+{"Player":"WILLIAMS A","Game":4,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
+{"Player":"WILLIAMS A","Game":5,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":1,"Total made":1},
+{"Player":"WILLIAMS A","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0}];
+</script>
+<script>
+
+var players = d3.nest()
+	.key( (d) => { return d.Player; } )
+	.entries(shotData)
+	.map( (d) => {
+		return d.key;
+	});
+	
+	
+// Filtering
+var playerFilter = {};
+players.map( (d) => {
+	playerFilter[d] = true;
+});
+//console.log(JSON.stringify(playerFilter));
+
+var rosterSelect = document.getElementById("roster");
+var rosterOpts = {};
+players.forEach( function(player) {
+	var opt = document.createElement("option");
+	opt.text = player;
+	opt.selected = true;
+	rosterSelect.add(opt);
+	rosterOpts[player] = opt;
+});
+
+var gameSelect = document.getElementById("gameSelector");
+var gameFilter = [];
+for(var ii=0; ii<6; ii++) { // need to change this to depend on the data; some teams didn't make it to 6 games
+	var opt = document.createElement("option");
+	opt.text = "Game "+ii;
+	opt.selected = true;
+	gameSelect.add(opt);
+	gameFilter[ii] = true;
+}
+//rosterOpts[players[0]].selected = false; // example of toggling a select option
+//console.log(JSON.stringify(players).replace(/},{/g,"},\n\n{"));
+
+var shotTypes = ["Total","Centre shot","Action shot","5m shot","Extra player shot"];
+var shotTypesDecode = ["All Shots","Center Shots","Action Shots","5m Shots","Extra Player Shots"];
+
+var countryDecodes = {"USA":"United States", "RUS":"Russia", "NZL":"New Zealand"};
+
+function aggregateShotDataByPlayer(data) {
+	var shotDataAggregatedByPlayer = d3.nest()
+	.key( (d) => { return d.Player; } )
+	.rollup( (v) => { var obj = {};
+		shotTypes.forEach( (mykey) => {
+			obj[mykey+" attempted"] = d3.sum(v, (d) => { return d[mykey+" attempted"]; });
+			obj[mykey+" made"] = d3.sum(v, (d) => { return d[mykey+" made"]; });
+		})
+		return obj;
+		})
+	.entries(data)
+	.map( (d) => {
+		var obj = d.value;
+		obj.Player = d.key;
+		return obj;
+	});
+	return shotDataAggregatedByPlayer;
+}
+
+function groupPlayerShotStatistics(data,shotType) {
+	var shotDataGrouped = d3.nest()
+	.key( (d) => { return [d[shotType+" attempted"],d[shotType+" made"]]; } )
+	.rollup( (v) => {
+		var res = [];
+		v.forEach(function(e) { res.push(e.Player); })
+		return res;
+	})
+	.entries(data)
+	.map((e) => { var obj = {};
+		var coord = e.key; coord = coord.split(",");
+		coord[0] = parseInt(coord[0]);
+		coord[1] = parseInt(coord[1]);
+		obj.coord = coord;
+		var players = e.value;
+		obj.players = players;
+		obj.numPlayers = players.length;
+		return obj;
+	});
+	return shotDataGrouped;
+}
+	
+//console.log(JSON.stringify(shotDataAggregatedByPlayer).replace(/},{/g,"},\n\n{"));
+//console.log(JSON.stringify(shotDataGrouped).replace(/},{/g,"},\n\n{"));
+
+
+
+// Sizing
+{
+var margin = {top: 70, right: 5, bottom: 60, left: 110};
+
+var scatterWidth, scatterHeight = 150;
+var scatterPadding = 30;
+var scatterTimelinePadding = 80;
+
+var timelineHeight = 40;
+var timelineQuarterWidth = 200;
+var timelineInternalPadding = 20;
+var timelineVerticalPadding = 20;
+var timelineWidth = 4*timelineQuarterWidth + 3*timelineInternalPadding;
+
+var widthFull = margin.left + margin.right + 4*timelineQuarterWidth + 3*timelineInternalPadding;
+var heightFull = margin.top + margin.bottom + scatterHeight + (timelineHeight+timelineVerticalPadding)*6 + scatterTimelinePadding;
+
+scatterWidth = (timelineWidth - 4*scatterPadding)/5;
+}
+
+// Elements
+{
+var svg = d3.select("body").append("svg")
+    .attr("width", widthFull)
+    .attr("height", heightFull)
+	//.attr("style","background:red;")
+	.append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var title =  svg.append("text")
+            .attr("x", (widthFull / 2))
+            .attr("y", -20)
+            .attr("text-anchor", "middle")
+            .style("font-size", "32px")
+            .text("USAWWP @ the 2017 FINA World Championships");
+			
+var tooltip = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+}
+
+// Scatter charts
+{
+var jitter = 0;
+var probability = d3.scaleLinear().rangeRound([scatterHeight,0])
+	.domain([-.1, 1.1]);
+
+var scatterCharts = [];
+var scatterGroup = svg.append("g")
+	.attr("transform", `translate(0, 0)`);
+for(var nn=0; nn<shotTypes.length; nn++) {
+	
+	var myShotData = aggregateShotDataByPlayer(shotData.filter((d) => { return d.Game>0; }));
+	var myGroupedData = groupPlayerShotStatistics(myShotData,shotTypes[nn]);
+	var mydata = myGroupedData.filter( (d) => {
+			return d.coord[0]>0;
+		});
+	
+	var shotextent = d3.extent(mydata, (d) => { return d.coord[0];});
+	var shotrange = shotextent[1] - shotextent[0];
+	lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
+	
+	var shots = d3.scaleLinear().rangeRound([0, scatterWidth])
+		.domain(lim);
+
+	var scatterChart = scatterGroup.append("g")
+		.attr("class", "scatterChart")
+		.attr("width", scatterWidth)
+		.attr("height", scatterHeight)
+		.attr("transform", `translate(${nn*(scatterWidth+scatterPadding)}, 0)`);
+	scatterCharts[nn] = scatterChart;
+	
+	scatterChart.append("g")
+		.attr("class", "axis axis--x")
+		.attr("transform", `translate(0, ${scatterHeight})`)
+		.call(d3.axisBottom(shots)
+			.tickFormat(d3.format("d"))
+			.ticks(4)
+			);
+		
+	scatterChart.append("text")             
+		  .attr("transform",
+				"translate(" + (scatterWidth/2) + " ," + 
+							   (scatterHeight + 50) + ")")
+		  .style("text-anchor", "middle")
+		  .attr("font-size",18)
+		  .text(shotTypesDecode[nn]);
+		  
+	// Label first y-axis and give ticks
+	if(nn === 0) {
+		scatterChart.append("g")
+			.attr("class", "axis axis--y")
+			.call(d3.axisLeft(probability)
+				.ticks(3)
+				.tickFormat(d3.format(".0%"))
+				.tickSizeOuter(0));
+		
+		scatterChart.append("text")
+			  .attr("transform", "rotate(-90)")
+			  .attr("y",0 - 70)
+			  .attr("x",0 - (scatterHeight / 2))
+			  .attr("dy", "1em")
+			  .style("text-anchor", "middle")
+			  .attr("font-size",18)
+			  .text("Success");
+	} else {
+		scatterChart.append("g")
+			.attr("class", "axis axis--y")
+			.call(d3.axisLeft(probability).ticks(0));
+	}
+	//console.log(JSON.stringify(mydata).replace(/},{/g,"},\n\n{"));
+	// Make dots
+	var dots = scatterChart.selectAll(".scatterdot")
+		.data(mydata)
+		.enter().append("circle")
+		.attr("class", "scatterdot unfocused")
+		.attr("opacity",.5)
+		.attr("r", (d) => { return 3*Math.sqrt(d.numPlayers); })
+		.attr("cx", (d) => {
+			//return shots(d.coord[0])+2*(Math.random()-.5)*jitter;
+			return shots(d.coord[0]);
+		})
+		.attr("cy", (d) => {
+			//return probability(d.coord[1]/d.coord[0])+2*(Math.random()-.5)*jitter;
+			return probability(d.coord[1]/d.coord[0]);
+		})
+		/*
+		.on("mouseover", function makeTipFunction(d) {
+			var mytext = d["Player"] + "<br/> Made: " + d[madeString]+"/"+d[attemptString];
+			return function(d) {
+				tooltip.transition()
+				.duration(200)
+				.style("opacity", .9);
+				tooltip.html(mytext)
+				.style("left", (d3.event.pageX + 5) + "px")
+				.style("top", (d3.event.pageY - 28) + "px");
+			};
+		}()
+		)*/
+		.on("mouseover", function(d) {
+			tooltip.transition()
+			.duration(200)
+			.style("opacity", .9);
+			tooltip.html("Made: " + d.coord[1]+"/"+d.coord[0]+"<br/>"+d.players.join(", "))
+			.style("left", (d3.event.pageX + 5) + "px")
+			.style("top", (d3.event.pageY - 28) + "px");
+		})
+		.on("mouseout", function(d) {
+			tooltip.transition()
+			.duration(500)
+			.style("opacity", 0);
+		});
+}
+}
+
+
+// Timeline
+{
+var goalFailProbabilityLevel = .4;
+
+var gameTime = d3.scaleLinear()
+	.rangeRound([0, timelineWidth])
+	.domain([0,8.0*60.0*4.0]);
+var quarterTime = d3.scaleLinear()
+	.rangeRound([0, timelineQuarterWidth])
+	.domain([8*60,0]);
+	
+var success = d3.scaleLinear()
+    .rangeRound([timelineHeight,0])
+    .domain([-1,1]);
+
+var timelines = [];
+var timelineGroup = svg.append("g")
+	.attr("transform", `translate(0, ${scatterHeight+scatterTimelinePadding})`);
+
+for(var nn=0; nn<6; nn++) {
+
+	gameNum = nn+1;
+	var gameNData = poloData.filter(isGameN);
+	var otherTeam = gameNData[0]["Opponent name"];
+	//console.log(JSON.stringify(gameNData).replace(/},{/g,"},\n\n{"));
+	//console.log(gameNData.length);
+	function isGameN(d) {
+		return (d.Game===gameNum);
+	}
+
+	var timeline = timelineGroup.append("g")
+		.attr("class","timeline")
+		.attr("transform", `translate(0, ${(gameNum-1)*(timelineHeight+timelineVerticalPadding)})`)
+		.on("click", (function makeClickFunction(num) {
+			return (function() {
+					var opt = document.getElementById("gameSelector").options[num-1];
+					opt.selected = !opt.selected;
+				})
+			})(gameNum));
+	timelines[gameNum-1] = timeline;
+	
+	timeline.append("rect")
+		.attr("x",0)
+		.attr("y",0)
+		.attr("width",timelineWidth)
+		.attr("height",timelineHeight)
+		.attr("fill",'white');
+		/*
+		.attr("width",timelineWidth+margin.left-20*Math.random())
+		.attr("height",timelineHeight-20*Math.random())
+		.attr("fill",'#'+Math.random().toString(16).substr(-6));
+		*/
+	var offset = 60;
+	var lineLength = 80;
+	timeline.append("text")
+		.attr("class","teamname")
+		.attr("y",timelineHeight/2)
+		.attr("x",-timelineInternalPadding-lineLength/2)
+		.attr("dy","-.2em")
+		.style("text-anchor", "middle")
+		.text("USA");
+	timeline.append("text")
+		.attr("class","teamname")
+		.attr("y",timelineHeight/2)
+		.attr("x",-timelineInternalPadding-lineLength/2)
+		.attr("dy", "1.2em")
+		.style("text-anchor", "middle")
+		.text(otherTeam);
+	timeline.append("line")
+		.attr("style","shape-rendering: crispEdges")
+		.attr("x1",-timelineInternalPadding)
+		.attr("x2",-timelineInternalPadding-lineLength)
+		.attr("y1",timelineHeight/2+1)
+		.attr("y2",timelineHeight/2+1)
+		.attr("stroke","black")
+		.attr("stroke-width",1);
+		
+	var maxScore = d3.max(poloData, (d) => {
+		if(d.Game===gameNum) {
+			return Math.abs(d.USA - d.Opponent);
+		} else {
+			return 0;
+		}
+	});
+	var beginningScore = [0,0];
+	for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
+	
+		var gameNData = poloData.filter(isGameN);
+		//console.log(JSON.stringify(gameNData).replace(/},{/g,"},\n\n{"));
+		//console.log(gameNData.length);
+		function isGameN(d) {
+			return (d.Game===gameNum && d.Period===quarterNum);
+		}
+		var myGoals = poloData.filter( (d) => {
+			return d.Game===gameNum && d.Period===quarterNum && d.Goal===1;
+		});
+		console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
+		
+		function getScoreAtLastGoal(min,d) {
+			if(d.Seconds < min[0]) {
+				return [d.Seconds,[d.USA,d.Opponent]];
+			} else {
+				return min;
+			}
+		}
+		endingScore = myGoals.reduce(getScoreAtLastGoal,[8*60,0]);
+		endingScore = endingScore[1];
+		console.log(endingScore);
+		myGoals.push({"USA":endingScore[0],"Opponent":endingScore[1],"Seconds":0});
+		myGoals.unshift({"USA":beginningScore[0],"Opponent":beginningScore[1],"Seconds":8*60});
+		
+		var quarter = timeline.append("g")
+			.attr("class","quarter")
+			.attr("width", timelineQuarterWidth)
+			.attr("height", timelineHeight)
+			.attr("transform", `translate(${(timelineQuarterWidth+timelineInternalPadding)*(quarterNum-1)}, 0)`);
+
+
+		var area = d3.area()
+			.curve(d3.curveStepAfter)
+			.x( (d) => { return quarterTime(d.Seconds); })
+			.y0( (d) => { return success(0); })
+			.y1( (d) => { return success((d.USA-d.Opponent)/maxScore); });
+
+		
+		var scoreLine = quarter.append("path")
+			.data([myGoals])
+			.attr("class", "area")
+			.attr("d", area);
+			
+		quarter.append("g")
+			.attr("class", "axis axis--x")
+			.attr("transform", `translate(0, ${timelineHeight/2})`)
+			.call(d3.axisBottom(quarterTime).ticks(0).tickSizeOuter(0));
+		/*
+		var strips = quarter.selectAll(".strip")
+			.data(gameNData)
+			.enter().append("line")
+			.attr("class","strip")
+			.attr("x1", (d) => { return quarterTime(d.Seconds); })
+			.attr("x2", (d) => { return quarterTime(d.Seconds); })
+			.attr("stroke", (d) => { return (d.Team==="USA"?"#000000":"#999999"); })
+			.attr("y1",success(0))
+			.attr("y2", (d) => {
+				var mysign = (d.Team==="USA"?1:-1);
+				var isGoal = (d.Goal===1);
+			return success(mysign*(d.Goal===1?1:.5));
+			})
+			.attr("stroke-width",2)
+			*/
+		/*
+		var strips = quarter.selectAll(".strip")
+			.data(gameNData)
+			.enter().append("line")
+			.attr("class","strip")
+			.attr("x1", (d) => { return quarterTime(d.Seconds); })
+			.attr("x2", (d) => { return quarterTime(d.Seconds); })
+			.attr("stroke", (d) => { return (d.Goal===1?"#000000":"#cccccc"); })
+			.attr("y1",success(0))
+			.attr("y2", (d) => {
+				var mysign = (d.Team==="USA"?1:-1);
+			return success(mysign);
+			})
+			.attr("stroke-width",2)
+			*/
+		
+		var dots = quarter.selectAll(".strip")
+			.data(gameNData)
+			.enter().append("circle")
+			.attr("class","pointindicator")
+			.attr("cx", (d) => { return quarterTime(d.Seconds); })
+			.attr("stroke", (d) => { return "#000000"; })
+			.attr("cy", (d) => {
+				var mysign = (d.Team==="USA"?1:-1);
+				var isGoal = (d.Goal===1);
+			return success(mysign*(d.Goal===1?.4:.4));
+			})
+			.attr("stroke-width",.8)
+			.attr("r",3)
+			.attr("fill", (d) => { return (d.Goal===1?"#000000":"none"); });
+		
+		if(gameNum === 6) {
+			quarter.append("text")
+				.attr("y",timelineHeight+timelineVerticalPadding)
+				.attr("x",timelineQuarterWidth/2)
+				//.attr("dy","1em")
+				.style("text-anchor", "middle")
+				.attr("font-size",18)
+				.text("Quarter "+quarterNum);
+		}
+		beginningScore = endingScore;
+	}
+}
+}
+
+
+</script>
+</body>
+</html>
