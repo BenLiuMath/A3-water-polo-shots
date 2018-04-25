@@ -38,8 +38,8 @@ body {
 .tooltip {
   position: absolute;
   background: #cccccc;
-  width: 150px;
   pointer-events: none;
+  padding:5px;
 }
 
 .area {
@@ -334,8 +334,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.attr("transform", `translate(0, ${scatterHeight})`)
 		.call(d3.axisBottom(shots)
 			.tickFormat(d3.format("d"))
-			.ticks(4)
-			);
+			.ticks(4).tickSizeOuter(0));
 		
 	scatterChart.append("text")             
 		  .attr("transform",
@@ -365,7 +364,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 	} else {
 		scatterChart.append("g")
 			.attr("class", "axis axis--y")
-			.call(d3.axisLeft(probability).ticks(0));
+			.call(d3.axisLeft(probability).ticks(0).tickSizeOuter(0));
 	}
 	//console.log(JSON.stringify(mydata).replace(/},{/g,"},\n\n{"));
 	// Make dots
@@ -399,8 +398,8 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.on("mouseover", function(d) {
 			tooltip.transition()
 			.duration(200)
-			.style("opacity", .9);
-			tooltip.html("Made: " + d.coord[1]+"/"+d.coord[0]+"<br/>"+d.players.join(", "))
+			.style("opacity", 1.0);
+			tooltip.html("Made: " + d.coord[1]+"/"+d.coord[0]+"<ul><li>"+d.players.join("</li><li>")+"</li></ul>")
 			.style("left", (d3.event.pageX + 5) + "px")
 			.style("top", (d3.event.pageY - 28) + "px");
 		})
@@ -432,7 +431,7 @@ var timelines = [];
 var timelineGroup = svg.append("g")
 	.attr("transform", `translate(0, ${scatterHeight+scatterTimelinePadding})`);
 
-for(var nn=0; nn<6; nn++) {
+for(var nn=1; nn<6; nn++) {
 
 	gameNum = nn+1;
 	var gameNData = poloData.filter(isGameN);
@@ -509,7 +508,7 @@ for(var nn=0; nn<6; nn++) {
 		var myGoals = poloData.filter( (d) => {
 			return d.Game===gameNum && d.Period===quarterNum && d.Goal===1;
 		});
-		console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
+		//console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
 		
 		function getScoreAtLastGoal(min,d) {
 			if(d.Seconds < min[0]) {
@@ -518,11 +517,16 @@ for(var nn=0; nn<6; nn++) {
 				return min;
 			}
 		}
-		endingScore = myGoals.reduce(getScoreAtLastGoal,[8*60,0]);
+		endingScore = myGoals.reduce(getScoreAtLastGoal,[8*60,beginningScore]);
+		//console.log(endingScore);
 		endingScore = endingScore[1];
-		console.log(endingScore);
+		//console.log(endingScore);
+		
 		myGoals.push({"USA":endingScore[0],"Opponent":endingScore[1],"Seconds":0});
 		myGoals.unshift({"USA":beginningScore[0],"Opponent":beginningScore[1],"Seconds":8*60});
+		
+		//console.log(beginningScore+" : "+endingScore);
+		//console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
 		
 		var quarter = timeline.append("g")
 			.attr("class","quarter")
@@ -607,7 +611,6 @@ for(var nn=0; nn<6; nn++) {
 	}
 }
 }
-
 
 </script>
 </body>
