@@ -223,7 +223,12 @@ Extra player shot,11.0,5,5,RUS,2.0,IVANOVA E,5 - 9,191,RUS,3:11,9,Saved,0
 Action shot,11.0,5,5,RUS,2.0,FISCHER M,5 - 9,159,USA,2:39,9,Saved,0
 Centre shot,9.0,5,5,RUS,2.0,TIMOFEEVA A,5 - 9,138,RUS,2:18,9,Post,0
 Action shot,4.0,5,5,RUS,2.0,FATTAL R,5 - 10,112,USA,1:52,10,Goal,1
-5m shot,6.0,5,5,RUS,2.0,STEFFENS M,5 - 10,81,USA,1:21,10,Blocked,0
+Action shot,3,5,9,RUS,4.0,PROKOFYEVA E,9 - 14,305,RUS,5:05,14,Goal,1
+Action shot,9,5,9,RUS,4.0,TIMOFEEVA A,9 - 14,260,RUS,4:20,14,Missed,0
+Centre shot,8,5,9,RUS,4.0,SIMANOVICH A,9 - 14,199,RUS,3:19,14,Saved,0
+Action shot,11,5,9,RUS,4.0,IVANOVA E,9 - 14,157,RUS,2:37,14,Saved,0
+Centre shot,3,5,9,RUS,4.0,SEIDEMANN M,9 - 14,129,USA,2:09,14,Post,0
+5m shot,6.0,5,9,RUS,2.0,STEFFENS M,9 - 14,81,USA,1:21,14,Blocked,0
 Action shot,6.0,5,5,RUS,2.0,STEFFENS M,5 - 11,18,USA,0:18,11,Goal,1
 5m shot,11.0,5,5,RUS,2.0,IVANOVA E,5 - 11,6,RUS,0:06,11,Blocked,0
 5m shot,2.0,5,5,RUS,2.0,MUSSELMAN M,5 - 11,1,USA,0:01,11,Saved,0
@@ -241,6 +246,10 @@ Centre shot,12.0,5,7,RUS,3.0,RYZHKOVA D,7 - 13,81,RUS,1:21,13,Saved,0
 5m shot,5.0,5,8,RUS,4.0,BORISOVA M,8 - 13,440,RUS,7:20,13,Goal,1
 Extra player shot,12.0,5,8,RUS,4.0,WILLIAMS A,8 - 14,382,USA,6:22,14,Goal,1
 5m shot,3.0,5,8,RUS,4.0,PROKOFYEVA E,8 - 14,363,RUS,6:03,14,Saved,0
+Extra player shot,RUS 5,5,8,RUS,4.0,BORISOVA M,8 - 14,100,,1:40,14,Saved,0
+Centre shot,RUS 8,5,8,RUS,4.0,SIMANOVICH A,8 - 14,64,,1:04,14,Saved,0
+Centre shot,RUS 8,5,8,RUS,4.0,SIMANOVICH A,8 - 14,20,,0:20,14,Saved,0
+Action shot,RUS 11,5,8,RUS,4.0,IVANOVA E,8 - 14,11,,0:11,14,Missed,0
 5m shot,4.0,6,0,ESP,1.0,FATTAL R,0 - 0,426,USA,7:06,0,Missed,0
 Centre shot,8.0,6,0,ESP,1.0,NEUSHUL K,0 - 0,382,USA,6:22,0,Post,0
 Action shot,8.0,6,0,ESP,1.0,PENA CARRASCO M,0 - 0,355,ESP,5:55,0,Saved,0

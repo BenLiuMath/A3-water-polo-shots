@@ -19,7 +19,7 @@ body {
   shape-rendering: crispEdges;
 }
 
-.strip { 
+.strip {
   shape-rendering: crispEdges;
 }
 
@@ -51,7 +51,7 @@ body {
 <body>
 
 <div style="position: absolute; top:50px; right:20px;" >
-<select multiple style="height:8em; " id="gameSelector">
+<select multiple style="height:6.5em; " id="gameSelector">
 </select>
 <br/>
 <select multiple style="height:20em; " id="roster">
@@ -175,8 +175,8 @@ var players = d3.nest()
 	.map( (d) => {
 		return d.key;
 	});
-	
-	
+
+
 // Filtering
 var playerFilter = {};
 players.map( (d) => {
@@ -196,9 +196,9 @@ players.forEach( function(player) {
 
 var gameSelect = document.getElementById("gameSelector");
 var gameFilter = [];
-for(var ii=0; ii<6; ii++) { // need to change this to depend on the data; some teams didn't make it to 6 games
+for(var ii=1; ii<6; ii++) { // need to change this to depend on the data; some teams didn't make it to 6 games
 	var opt = document.createElement("option");
-	opt.text = "Game "+ii;
+	opt.text = "Game " + ii;
 	opt.selected = true;
 	gameSelect.add(opt);
 	gameFilter[ii] = true;
@@ -251,7 +251,7 @@ function groupPlayerShotStatistics(data,shotType) {
 	});
 	return shotDataGrouped;
 }
-	
+
 //console.log(JSON.stringify(shotDataAggregatedByPlayer).replace(/},{/g,"},\n\n{"));
 //console.log(JSON.stringify(shotDataGrouped).replace(/},{/g,"},\n\n{"));
 
@@ -292,7 +292,7 @@ var title =  svg.append("text")
             .attr("text-anchor", "middle")
             .style("font-size", "32px")
             .text("USAWWP @ the 2017 FINA World Championships");
-			
+
 var tooltip = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
@@ -308,17 +308,17 @@ var scatterCharts = [];
 var scatterGroup = svg.append("g")
 	.attr("transform", `translate(0, 0)`);
 for(var nn=0; nn<shotTypes.length; nn++) {
-	
+
 	var myShotData = aggregateShotDataByPlayer(shotData.filter((d) => { return d.Game>0; }));
 	var myGroupedData = groupPlayerShotStatistics(myShotData,shotTypes[nn]);
 	var mydata = myGroupedData.filter( (d) => {
 			return d.coord[0]>0;
 		});
-	
+
 	var shotextent = d3.extent(mydata, (d) => { return d.coord[0];});
 	var shotrange = shotextent[1] - shotextent[0];
 	lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
-	
+
 	var shots = d3.scaleLinear().rangeRound([0, scatterWidth])
 		.domain(lim);
 
@@ -328,22 +328,22 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.attr("height", scatterHeight)
 		.attr("transform", `translate(${nn*(scatterWidth+scatterPadding)}, 0)`);
 	scatterCharts[nn] = scatterChart;
-	
+
 	scatterChart.append("g")
 		.attr("class", "axis axis--x")
 		.attr("transform", `translate(0, ${scatterHeight})`)
 		.call(d3.axisBottom(shots)
 			.tickFormat(d3.format("d"))
 			.ticks(4).tickSizeOuter(0));
-		
-	scatterChart.append("text")             
+
+	scatterChart.append("text")
 		  .attr("transform",
-				"translate(" + (scatterWidth/2) + " ," + 
+				"translate(" + (scatterWidth/2) + " ," +
 							   (scatterHeight + 50) + ")")
 		  .style("text-anchor", "middle")
 		  .attr("font-size",18)
 		  .text(shotTypesDecode[nn]);
-		  
+
 	// Label first y-axis and give ticks
 	if(nn === 0) {
 		scatterChart.append("g")
@@ -352,7 +352,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 				.ticks(3)
 				.tickFormat(d3.format(".0%"))
 				.tickSizeOuter(0));
-		
+
 		scatterChart.append("text")
 			  .attr("transform", "rotate(-90)")
 			  .attr("y",0 - 70)
@@ -422,7 +422,7 @@ var gameTime = d3.scaleLinear()
 var quarterTime = d3.scaleLinear()
 	.rangeRound([0, timelineQuarterWidth])
 	.domain([8*60,0]);
-	
+
 var success = d3.scaleLinear()
     .rangeRound([timelineHeight,0])
     .domain([-1,1]);
@@ -450,9 +450,10 @@ for(var nn=1; nn<6; nn++) {
 					var opt = document.getElementById("gameSelector").options[num-1];
 					opt.selected = !opt.selected;
 				})
-			})(gameNum));
+			})
+    (gameNum - 1));
 	timelines[gameNum-1] = timeline;
-	
+
 	timeline.append("rect")
 		.attr("x",0)
 		.attr("y",0)
@@ -488,7 +489,7 @@ for(var nn=1; nn<6; nn++) {
 		.attr("y2",timelineHeight/2+1)
 		.attr("stroke","black")
 		.attr("stroke-width",1);
-		
+
 	var maxScore = d3.max(poloData, (d) => {
 		if(d.Game===gameNum) {
 			return Math.abs(d.USA - d.Opponent);
@@ -498,7 +499,7 @@ for(var nn=1; nn<6; nn++) {
 	});
 	var beginningScore = [0,0];
 	for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
-	
+
 		var gameNData = poloData.filter(isGameN);
 		//console.log(JSON.stringify(gameNData).replace(/},{/g,"},\n\n{"));
 		//console.log(gameNData.length);
@@ -509,7 +510,7 @@ for(var nn=1; nn<6; nn++) {
 			return d.Game===gameNum && d.Period===quarterNum && d.Goal===1;
 		});
 		//console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
-		
+
 		function getScoreAtLastGoal(min,d) {
 			if(d.Seconds < min[0]) {
 				return [d.Seconds,[d.USA,d.Opponent]];
@@ -521,13 +522,13 @@ for(var nn=1; nn<6; nn++) {
 		//console.log(endingScore);
 		endingScore = endingScore[1];
 		//console.log(endingScore);
-		
+
 		myGoals.push({"USA":endingScore[0],"Opponent":endingScore[1],"Seconds":0});
 		myGoals.unshift({"USA":beginningScore[0],"Opponent":beginningScore[1],"Seconds":8*60});
-		
+
 		//console.log(beginningScore+" : "+endingScore);
 		//console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
-		
+
 		var quarter = timeline.append("g")
 			.attr("class","quarter")
 			.attr("width", timelineQuarterWidth)
@@ -541,12 +542,12 @@ for(var nn=1; nn<6; nn++) {
 			.y0( (d) => { return success(0); })
 			.y1( (d) => { return success((d.USA-d.Opponent)/maxScore); });
 
-		
+
 		var scoreLine = quarter.append("path")
 			.data([myGoals])
 			.attr("class", "area")
 			.attr("d", area);
-			
+
 		quarter.append("g")
 			.attr("class", "axis axis--x")
 			.attr("transform", `translate(0, ${timelineHeight/2})`)
@@ -582,7 +583,7 @@ for(var nn=1; nn<6; nn++) {
 			})
 			.attr("stroke-width",2)
 			*/
-		
+
 		var dots = quarter.selectAll(".strip")
 			.data(gameNData)
 			.enter().append("circle")
@@ -596,8 +597,22 @@ for(var nn=1; nn<6; nn++) {
 			})
 			.attr("stroke-width",.8)
 			.attr("r",3)
-			.attr("fill", (d) => { return (d.Goal===1?"#000000":"none"); });
-		
+			.attr("fill", (d) => { return (d.Goal===1?"#000000":"transparent"); })
+// adding tooltips
+      .on("mouseover", function(d) {
+  			tooltip.transition()
+  			.duration(200)
+  			.style("opacity", 1.0);
+  			tooltip.html(d.Player +" (" + d.Team +  ")<br>" + d.Action + ", " + d.Time)
+  			.style("left", (d3.event.pageX -5) + "px")
+  			.style("top", (d3.event.pageY - 50) + "px");
+  		})
+  		.on("mouseout", function(d) {
+  			tooltip.transition()
+  			.duration(500)
+  			.style("opacity", 0);
+  		});
+
 		if(gameNum === 6) {
 			quarter.append("text")
 				.attr("y",timelineHeight+timelineVerticalPadding)
