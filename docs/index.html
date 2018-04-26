@@ -16,6 +16,28 @@ body {
 a, a:visited { text-decoration: none; color: #7533f4; }
 a:hover { text-decoration: underline; color: #f4b014; }
 
+ol{
+  margin-left: 30px;
+  padding: 15 15 15px 15;
+}
+
+ol li 
+{
+    text-indent: 10px;
+}
+
+ul{
+  margin-left: 30px;
+  padding: 15 15 5px 15;
+}
+
+ul li 
+{
+    margin: 0px;
+    padding: 0px;
+    text-indent: 10px;
+}
+
 h1, h2, h3, h4, h5 {
   color: #492a7c;
   background-color: inherit;
@@ -68,31 +90,73 @@ p { margin: 0 0 10px 0; }
   </section>
 
   <section>
+    <em>[Add: Interactive visualization goes here! Note that you are free to change the markup and styling on this page however you like. Just be sure to include your visualization, design rationale and comments on the design &amp; development process.]</em>
+<br><br>
+
+  </section>
+
+  <section>
     <p>
-      <strong>Team Members</strong>: Kellie MacPhee, Brian DeSilva, Abe Engle, Ben Liu
+      <strong>Designed &amp; Built By</strong>: Brian DeSilva, Abraham Engle, Benjamin Liu, Kellie MacPhee
     </p>
   </section>
 
   <section>
-    <em>[Add: Interactive visualization goes here! Note that you are free to change the markup and styling on this page however you like. Just be sure to include your visualization, design rationale and comments on the design &amp; development process.]</em>
+    <p>
+      <strong>Data Source</strong>: <a href="http://www.omegatiming.com/Sport?sport=AQ">Omega Timing</a>
+    </p>
   </section>
 
   <section>
     <h2>Design Rationale</h2>
     <p>
-      <em>[Add: The rationale for your design decisions. How did you choose your particular visual encodings and interaction techniques? What alternatives did you consider and how did you arrive at your ultimate choices?]</em>
+      <em>[How did you choose your particular visual encodings and interaction techniques? What alternatives did you consider and how did you arrive at your ultimate choices?]</em>
     </p>
     <p>
-	Although water polo statistics are widely kept at the level of national and international competition, these statistics are nearly always presented in tables, and unlike in other sports, few effective visualizations of these statistics have been developed. Inspired by the baseball statistics example from class, we were interested in providing an interactive way of exploring the contributions of different players, as well as the overall performance of a team. For the scope of this assignment, we decided to focus on offensive statistics, i.e. shots attempted (split up into various types of shots) and shots scored.
+	Although water polo statistics are widely kept at the level of national and international competition, these statistics are nearly always presented in tables, and unlike in other sports, few effective visualizations of these statistics have been developed. For example, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3737929/">this paper</a> contains interesting statistic analyses of water polo success based on the <a href="http://www.omegatiming.com/Sport?sport=AQ">Omega Timing data</a> from several FINA World Championships, but lacks any visual representation of its results.
     </p>
+
     <p>
-	The expected audience for a tool like this includes fans, coaches, and water polo players. Some basic familiarity with shot types, which correspond to different types of plays, is expected. The viewer can see both team-level statistics (average shooting percentages, distribution of shots over time in the game) and individual statistics (individual shooting percentages for the various shot types). Expected questions of interest include: 
+	Inspired by the baseball statistics example from class, our goal was to build an interactive graphic that allows the viewer to explore the contributions of different players on a team, as well as game patterns across team members. For the scope of this assignment, we decided to focus on offensive statistics, i.e. shots attempted (broken down by shot type) and shots scored. We visualize tournament data collected by Omega Timing during the 2017 FINAL Women's Water Polo World Championships.
+    </p>
+
+    <p>For a given team, questions that viewers might want to explore in this dataset include: 
 	<ol>
-	<li>Which players are the top scorers, are how does this vary by shot type?</li>
-	<li>How did shooting attempts and accuracy change over the course of the game?</li>
-	<li>Were the teams going back-and-forth in terms of shooting and scoring, or was one team dominant most of the time?</li>
+	<li>Which players are the top scorers?</li>
+	<li>Which players perform particularly well at a given shot type?</li>
+	<li>How did a particular player perform at the various shot types?</li>
+	<li>How does the team-wide accuracy, and number of shots taken, vary by shot type?</li>
+	<li>How did shots and goals evolve over the course of the game? For example, are more shots taken when the score is close?</li>
 	</ol>
+    </p><p>Each of these questions might be addressed for a given game, or over the course of several games in the tournament. We now explain how our design decisions were guided by these considerations.
     </p>
+
+    <h4>Scatterplots</h3>
+
+    <p>At the top of the dashboard are several scatterplots showing <strong>number of shots taken</strong> vs. <strong>success rate</strong> (i.e. number of goals / number of shots, as a percentage). Each dot corresponds to one or more players; dots are sized according to the number of players they represent. Design considerations included:
+	<ul>
+	<li><strong>Color</strong>:
+	<li><strong>Dot Size</strong>:
+	<li><strong>Axes</strong>:
+	<li><strong>Team Average Bar</strong>: shows what the overall shooting accuracy of the team was, and also serves as a reference to pick out which players are above average on the team.
+	<li><strong>Percentages on y-axis</strong>: we originally plotted number of goals on the y-axis, but then all player dots fall below the 45 degree line. In order to more effectively use the space, we switched to percentage accuracy as the measure of success. This also makes it easy to pick out which players have high accuracy, as opposed to which players simply take more shots.
+	<li><strong>Small Multiples</strong>: we use small multiples to simultaneously view various shot types. The choice to break shots down by type is motivated by the fact that certain shot types are expected to have higher accuracy (e.g. extra player shots), and certain players take more of one type of shot than others (e.g. centre shots are usually restricted to only a few players on the team).
+	<li><strong>Tooltips</strong>: hovering over a dot in the scatter plot shows the player corresponding to that statistic, as well as the exact ratio of shots/goals that led to that dot. If viewers notice that one dot appears to be an outlier, they can easily pick out who it corresponds to.
+	</ul>
+    </p>
+
+
+
+
+
+
+    <h4>Timelines</h3>
+
+
+
+
+
+
 	<ul>
 	<li>Color: blue/grey easily distinguishable, grey for opponent shots/goals because naturally seems like background
 	<li>Small multiples of timelines and scatter plots: simple to understand the rest after understanding one</li>
