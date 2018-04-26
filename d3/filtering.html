@@ -11,7 +11,10 @@ body {
   font: 11px sans-serif;
   margin:0px;
 }
-.axis { font-size:10pt; }
+
+.axis {
+  font-size:10pt;
+}
 .axis path,
 .axis line {
   fill: none;
@@ -25,7 +28,7 @@ body {
 
 .scatterdot {
 	stroke: none;
-    fill: darkblue;
+    fill: steelblue;
     opacity:.4;
 	shape-rendering: geometricPrecision;
 }
@@ -36,15 +39,40 @@ body {
 	font-style:italic;
 }
 
+.finalScoreThis {
+  font-size:12pt;
+  font-weight:bold;
+  stroke: darkblue;
+}
+
+.finalScoreOpponent {
+  font-size:12pt;
+  font-weight:bold;
+  stroke: "#999999";
+  opacity:0.7;
+}
+
 .tooltip {
   position: absolute;
-  background: #cccccc;
+  background: cornsilk;
   pointer-events: none;
   padding:5px;
 }
 
-.area {
-  fill: lightgray;
+.areaWin {
+  fill: darkblue;
+  opacity:.3;
+}
+
+.areaLose {
+  fill: sandybrown;
+  opacity: .5;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 #toggler { display:block; }
@@ -176,8 +204,8 @@ var players = d3.nest()
 	.map( (d) => {
 		return d.key;
 	});
-	
-	
+
+
 // Filtering
 var playerFilter = {};
 players.map( (d) => {
@@ -208,7 +236,7 @@ for(var ii=0; ii<6; ii++) { // need to change this to depend on the data; some t
 //console.log(JSON.stringify(players).replace(/},{/g,"},\n\n{"));
 
 var shotTypes = ["Total","Centre shot","Action shot","5m shot","Extra player shot"];
-var shotTypesDecode = ["All Shots","Center Shots","Action Shots","5m Shots","Extra Player Shots"];
+var shotTypesDecode = ["All Shots","Centre Shots","Action Shots","5m Shots","Extra Player Shots"];
 
 var countryDecodes = {"USA":"United States", "RUS":"Russia", "NZL":"New Zealand"};
 
@@ -252,7 +280,7 @@ function groupPlayerShotStatistics(data,shotType) {
 	});
 	return shotDataGrouped;
 }
-	
+
 //console.log(JSON.stringify(shotDataAggregatedByPlayer).replace(/},{/g,"},\n\n{"));
 //console.log(JSON.stringify(shotDataGrouped).replace(/},{/g,"},\n\n{"));
 
@@ -293,7 +321,7 @@ var svg = d3.select("body").append("svg")
 		.attr("width",1000)
 		.attr("height",100)
 		.attr("fill",'red');
-		
+
 	svg.append("circle")
 		.attr("cx",widthFull/2 - margin.left)
 		.attr("cy",10)
@@ -305,8 +333,8 @@ var title =  svg.append("text")
             .attr("y", -20)
             .attr("text-anchor", "middle")
             .style("font-size", "32px")
-            .text("Womens' Water Polo at the 2017 FINA World Championships");
-			
+            .text("Women's Water Polo at the 2017 FINA World Championships");
+
 var tooltip = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
@@ -322,20 +350,20 @@ var scatterCharts = [];
 var scatterGroup = svg.append("g")
 	.attr("transform", `translate(0, 0)`);
 for(var nn=0; nn<shotTypes.length; nn++) {
-	
+
 	var myShotData = aggregateShotDataByPlayer(shotData.filter((d) => { return [1,2,3,4,5,6].includes(d.Game); }));
 	var myGroupedData = groupPlayerShotStatistics(myShotData,shotTypes[nn]);
 	var mydata = myGroupedData.filter( (d) => {
 			return d.coord[0]>0;
 		});
-	
+
 	var shotextent = d3.extent(mydata, (d) => { return d.coord[0];});
 	shotextent[0] = Math.min(shotextent[0],0);
 
-	
+
 	var shotrange = shotextent[1] - shotextent[0];
 	var lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
-	
+
 	var shots = d3.scaleLinear().rangeRound([0, scatterWidth])
 		.domain(lim);
 
@@ -345,21 +373,21 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.attr("height", scatterHeight)
 		.attr("transform", `translate(${nn*(scatterWidth+scatterPadding)}, 0)`);
 	scatterCharts[nn] = scatterChart;
-	
+
 	scatterChart.append("g")
 		.attr("class", "axisX")
 		.attr("transform", `translate(0, ${scatterHeight})`)
 		.call(d3.axisBottom(shots)
 			.tickFormat(d3.format("d"))
 			.ticks(4).tickSizeOuter(0));
-		
-	scatterChart.append("text")             
+
+	scatterChart.append("text")
 		.attr("transform",
-			"translate(" + (scatterWidth/2) + " ," + 
-						   (scatterHeight) + ")")
+			"translate(" + (scatterWidth/2) + " ," +
+						   (scatterHeight + 5) + ")")
 		.attr("dy","2em")
 		.style("text-anchor", "middle")
-		.attr("font-size",18)
+		.attr("font-size",16)
 		.text(shotTypesDecode[nn]);
 
 	// Label first y-axis and give ticks
@@ -370,7 +398,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 				.ticks(3)
 				.tickFormat(d3.format(".0%"))
 				.tickSizeOuter(0));
-		
+
 		scatterChart.append("text")
 			  .attr("transform", "rotate(-90)")
 			  .attr("y",0 - 70)
@@ -388,7 +416,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 	// Make dots
 	var dots = scatterChart.selectAll(".scatterdot")
 		.data(mydata);
-		
+
 	dots.enter().append("circle")
 		.attr("class", "scatterdot")
 		.attr("r", (d) => { return 3*Math.sqrt(d.numPlayers); })
@@ -440,7 +468,7 @@ var gameTime = d3.scaleLinear()
 var quarterTime = d3.scaleLinear()
 	.rangeRound([0, timelineQuarterWidth])
 	.domain([8*60,0]);
-	
+
 var success = d3.scaleLinear()
     .rangeRound([timelineHeight,0])
     .domain([-1,1]);
@@ -448,10 +476,10 @@ var success = d3.scaleLinear()
 var timelines = [];
 var timelineGroup = svg.append("g")
 	.attr("transform", `translate(0, ${scatterHeight+scatterTimelinePadding})`);
-    
+
 var USAColor = "darkblue";
 var OpponentColor = "#999999";
-    
+
 for(var nn=0; nn<6; nn++) {
 
 	gameNum = nn+1;
@@ -476,7 +504,7 @@ for(var nn=0; nn<6; nn++) {
 				})
 			})(nn));
 	timelines[nn] = timeline;
-	
+
 	timeline.append("rect")
 		.attr("class","backdrop")
 		.attr("x",0)
@@ -507,7 +535,7 @@ for(var nn=0; nn<6; nn++) {
 		.attr("y", timelineHeight/2-20)
 		.attr("x",-timelineInternalPadding-lineLength)
 		.attr("height", "20px");
-		
+
 	// now add the other team
 	timeline.append("text")
 		.attr("class","teamname")
@@ -529,7 +557,7 @@ for(var nn=0; nn<6; nn++) {
 		.attr("y2",timelineHeight/2+1)
 		.attr("stroke","black")
 		.attr("stroke-width",1);
-		
+
 	var maxScore = d3.max(poloData, (d) => {
 		if(d.Game===gameNum) {
 			return Math.abs(d.USA - d.Opponent);
@@ -540,7 +568,7 @@ for(var nn=0; nn<6; nn++) {
 	var beginningScore = [0,0];
 	var endingScore = [0,0];
 	for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
-	
+
 		var gameNData = poloData.filter(isGameN);
 		//console.log(JSON.stringify(gameNData).replace(/},{/g,"},\n\n{"));
 		//console.log(gameNData.length);
@@ -551,7 +579,7 @@ for(var nn=0; nn<6; nn++) {
 			return d.Game===gameNum && d.Period===quarterNum && d.Goal===1;
 		});
 		//console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
-		
+
 		function getScoreAtLastGoal(min,d) {
 			if(d.Seconds < min[0]) {
 				return [d.Seconds,[d.USA,d.Opponent]];
@@ -563,37 +591,50 @@ for(var nn=0; nn<6; nn++) {
 		//console.log(endingScore);
 		endingScore = endingScore[1];
 		//console.log(endingScore);
-		
+
 		myGoals.push({"USA":endingScore[0],"Opponent":endingScore[1],"Seconds":0});
 		myGoals.unshift({"USA":beginningScore[0],"Opponent":beginningScore[1],"Seconds":8*60});
-		
+
 		//console.log(beginningScore+" : "+endingScore);
 		//console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
-		
+
 		var quarter = timeline.append("g")
 			.attr("class","quarter")
 			.attr("width", timelineQuarterWidth)
 			.attr("height", timelineHeight)
 			.attr("transform", `translate(${(timelineQuarterWidth+timelineInternalPadding)*(quarterNum-1)}, 0)`);
 
+// Area plots!
 
-		var area = d3.area()
-			.curve(d3.curveStepAfter)
-			.x( (d) => { return quarterTime(d.Seconds); })
-			.y0( (d) => { return success(0); })
-			.y1( (d) => { return success((d.USA-d.Opponent)/maxScore); });
+      var areaWin = d3.area()
+  			.curve(d3.curveStepAfter)
+  			.x( (d) => { return quarterTime(d.Seconds); })
+  			.y0( (d) => { return success(0); })
+  			.y1( (d) => { return success(d3.max([(d.USA-d.Opponent)/maxScore,0])); });
 
-		
-		var scoreLine = quarter.append("path")
+    var areaLose = d3.area()
+    		.curve(d3.curveStepAfter)
+    		.x( (d) => { return quarterTime(d.Seconds); })
+    		.y0( (d) => { return success(0); })
+    		.y1( (d) => { return success(d3.min([(d.USA-d.Opponent)/maxScore,0])); });
+
+		var scoreLineWin = quarter.append("path")
 			.data([myGoals])
-			.attr("class", "area")
-			.attr("d", area);
-			
+			.attr("class", "areaWin")
+			.attr("d", areaWin);
+
+      var scoreLineLose = quarter.append("path")
+  			.data([myGoals])
+  			.attr("class", "areaLose")
+  			.attr("d", areaLose);
+
 		quarter.append("g")
 			.attr("class", "axis axis--x")
 			.attr("transform", `translate(0, ${timelineHeight/2})`)
 			.call(d3.axisBottom(quarterTime).ticks(0).tickSizeOuter(0));
-		
+
+//  Shot icons
+
 		var dots = quarter.selectAll(".shotIcon")
 			.data(gameNData)
 			.enter().append("circle")
@@ -621,41 +662,44 @@ for(var nn=0; nn<6; nn++) {
 				.duration(500)
 				.style("opacity", 0);
 			});
-		
+
+// Quarter labels
 		if(gameNum === 6) {
 			quarter.append("text")
 				.attr("y",timelineHeight+timelineVerticalPadding)
 				.attr("x",timelineQuarterWidth/2)
 				//.attr("dy","1em")
 				.style("text-anchor", "middle")
-				.attr("font-size",18)
+				.attr("font-size", 16)
 				.text("Quarter "+quarterNum);
 		}
 		beginningScore = endingScore;
 	}
 	var lineLength = 20;
+
+  //  Final scores
 	timeline.append("text")
-		.attr("class","teamname")
+		.attr("class","finalScoreThis")
 		.attr("y",timelineHeight/2)
 		.attr("x",timelineWidth+timelineInternalPadding+lineLength/2)
-		.attr("dy","-.2em")
+		.attr("dy","-.4em")
 		.style("text-anchor", "middle")
 		.text(endingScore[0]);
 	timeline.append("text")
-		.attr("class","teamname")
+		.attr("class","finalScoreOpponent")
 		.attr("y",timelineHeight/2)
 		.attr("x",timelineWidth+timelineInternalPadding+lineLength/2)
 		.attr("dy", "1.2em")
 		.style("text-anchor", "middle")
 		.text(endingScore[1]);
-	timeline.append("line")
-		.attr("style","shape-rendering: crispEdges")
-		.attr("x1",timelineWidth+timelineInternalPadding)
-		.attr("x2",timelineWidth+timelineInternalPadding+lineLength)
-		.attr("y1",timelineHeight/2+1)
-		.attr("y2",timelineHeight/2+1)
-		.attr("stroke","black")
-		.attr("stroke-width",1);
+	// timeline.append("line")
+	// 	.attr("style","shape-rendering: crispEdges")
+	// 	.attr("x1",timelineWidth+timelineInternalPadding)
+	// 	.attr("x2",timelineWidth+timelineInternalPadding+lineLength)
+	// 	.attr("y1",timelineHeight/2+1)
+	// 	.attr("y2",timelineHeight/2+1)
+	// 	.attr("stroke","black")
+	// 	.attr("stroke-width",1);
 }
 }
 
@@ -673,45 +717,45 @@ console.log("games to filter:"+gamesToFilter);
 for(var nn=0; nn<shotTypes.length; nn++) {
 	var chart = scatterCharts[nn];
 		//mydots.attr("class","scatterdot focused");
-		
-		
+
+
 		var myShotData = aggregateShotDataByPlayer(shotData.filter((d) => { return gamesToFilter.includes(d.Game); }));
 		var myGroupedData = groupPlayerShotStatistics(myShotData,shotTypes[nn]);
 		var myData = myGroupedData.filter( (d) => {
 				return d.coord[0]>0;
 			});
-		
+
 		var shotextent = d3.extent(myData, (d) => { return d.coord[0];});
 		shotextent[0] = Math.min(shotextent[0],0);
-		
+
 		var shotrange = shotextent[1] - shotextent[0];
 		var lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
 		console.log(JSON.stringify(myData).replace(/},{/g,"},\n\n{"));
-		
+
 		var shots = d3.scaleLinear()
 			.rangeRound([0, scatterWidth])
 			.domain(lim);
-			
+
 		console.log("Shot extent:"+shotextent+"; lim:"+lim);
 		var mydots = chart.selectAll(".scatterdot")
 			.data(myData);
-			
-		
+
+
 		var t = d3.transition()
 			.duration(200);
-		
+
 		chart.select(".axisX")
 			.transition(t)
 			.call(d3.axisBottom(shots)
 				.tickFormat(d3.format("d")).ticks(2).tickSizeOuter(0));
-		
+
 		mydots.exit()
 			.transition("exit")
 			.duration(200)
 			.remove();
-			
+
 		//console.log(JSON.stringify(mydots.enter()));
-			
+
 		mydots.transition("update")
 			.attr("r", (d) => { return 3*Math.sqrt(d.numPlayers); })
 			.attr("cx", (d) => {
@@ -722,7 +766,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 				//return probability(d.coord[1]/d.coord[0])+2*(Math.random()-.5)*jitter;
 				return probability(d.coord[1]/d.coord[0]);
 			});
-			
+
 		mydots.enter().append("circle")
 			.attr("class", "scatterdot")
 			.attr("opacity",.4)
