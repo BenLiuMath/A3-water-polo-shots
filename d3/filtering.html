@@ -80,7 +80,7 @@ ul {
 <body>
 
 <div style="position: absolute; top:50px; right:20px;" >
-<select id="countrySelector">
+<select id="teamSelector">
 </select>
 
 <br/>
@@ -224,8 +224,8 @@ const shotSummaryESP = [{"Player":"BACH PASCUAL M","Game":1,"5m shot attempted":
 var shotTypes = ["Total","Centre shot","Action shot","5m shot","Extra player shot"];
 var shotTypesDecode = ["All Shots","Centre Shots","Action Shots","5m Shots","Extra Player Shots"];
 
-var countryCodes = ["USA","BRA","ESP"];
-var countryDecodes = {"USA":"United States", "RUS":"Russia", "NZL":"New Zealand"};
+var teamCodes = ["USA","BRA","ESP"];
+var teamDecodes = {"USA":"United States", "RUS":"Russia", "NZL":"New Zealand"};
 
 var allPoloDatas = [poloDataUSA, poloDataBRA, poloDataESP];
 var allShotSummaryDatas = [shotSummaryUSA, shotSummaryBRA, shotSummaryESP];
@@ -233,11 +233,11 @@ var allShotSummaryDatas = [shotSummaryUSA, shotSummaryBRA, shotSummaryESP];
 
 
 
-var currCountry = 2;
-var currCountryCode = countryCodes[currCountry];
+var currTeam = 2;
+var currTeamCode = teamCodes[currTeam];
 
-var poloData = allPoloDatas[currCountry];
-var shotData = allShotSummaryDatas[currCountry];
+var poloData = allPoloDatas[currTeam];
+var shotData = allShotSummaryDatas[currTeam];
 
 var players = d3.nest()
 	.key( (d) => { return d.Player; } )
@@ -247,14 +247,14 @@ var players = d3.nest()
 	});
 
 
-var countrySelect = document.getElementById("countrySelector");
-for(var ii=0; ii<countryCodes.length; ii++) {
+var teamSelect = document.getElementById("teamSelector");
+for(var ii=0; ii<teamCodes.length; ii++) {
 	var opt = document.createElement("option");
-	opt.text = countryCodes[ii];
+	opt.text = teamCodes[ii];
 	opt.selected = true;
-	countrySelect.add(opt);
+	teamSelect.add(opt);
 }
-countrySelect.options[0].selected = true;
+teamSelect.options[0].selected = true;
 
 var gameSelect = document.getElementById("gameSelector");
 for(var ii=0; ii<6; ii++) { // need to change this to depend on the data; some teams didn't make it to 6 games
@@ -481,7 +481,6 @@ var USAColor = "darkblue";
 var OpponentColor = "#999999";
 
 for(var nn=0; nn<6; nn++) {
-
 	gameNum = nn+1;
 	var gameNData = poloData.filter(isGameN);
 	var otherTeam = gameNData[0]["Opponent name"];
@@ -529,9 +528,9 @@ for(var nn=0; nn<6; nn++) {
 		.attr("x",-timelineInternalPadding-lineLength/3)
 		.attr("dy","-.2em")
 		.style("text-anchor", "middle")
-		.text(currCountryCode);
+		.text(currTeamCode);
 	timeline.append("image")
-		.attr("xlink:href", "img/" + currCountryCode + ".png")
+		.attr("xlink:href", "img/" + currTeamCode + ".png")
 		.attr("y", timelineHeight/2-20)
 		.attr("x",-timelineInternalPadding-lineLength)
 		.attr("height", "20px");
@@ -560,7 +559,7 @@ for(var nn=0; nn<6; nn++) {
 
 	var maxScore = d3.max(poloData, (d) => {
 		if(d.Game===gameNum) {
-			return Math.abs(d[currCountryCode] - d.Opponent);
+			return Math.abs(d[currTeamCode] - d.Opponent);
 		} else {
 			return 0;
 		}
@@ -568,7 +567,7 @@ for(var nn=0; nn<6; nn++) {
 	var beginningScore = [0,0];
 	var endingScore = [0,0];
 	for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
-		console.log("Quarter:"+quarterNum);
+		//console.log("Quarter:"+quarterNum);
 		
 		var gameNData = poloData.filter(isGameN);
 		//console.log(JSON.stringify(gameNData).replace(/},{/g,"},\n\n{"));
@@ -583,7 +582,7 @@ for(var nn=0; nn<6; nn++) {
 
 		function getScoreAtLastGoal(min,d) {
 			if(d.Seconds < min[0]) {
-				return [d.Seconds,[d[currCountryCode],d.Opponent]];
+				return [d.Seconds,[d[currTeamCode],d.Opponent]];
 			} else {
 				return min;
 			}
@@ -593,11 +592,11 @@ for(var nn=0; nn<6; nn++) {
 		endingScore = endingScore[1];
 		//console.log(endingScore);
 
-		myGoals.push({[currCountryCode]:endingScore[0],"Opponent":endingScore[1],"Seconds":0});
-		myGoals.unshift({[currCountryCode]:beginningScore[0],"Opponent":beginningScore[1],"Seconds":8*60});
+		myGoals.push({[currTeamCode]:endingScore[0],"Opponent":endingScore[1],"Seconds":0});
+		myGoals.unshift({[currTeamCode]:beginningScore[0],"Opponent":beginningScore[1],"Seconds":8*60});
 
 		//console.log(beginningScore+" : "+endingScore);
-		console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
+		//console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
 
 		var quarter = timeline.append("g")
 			.attr("class","quarter")
@@ -611,13 +610,13 @@ for(var nn=0; nn<6; nn++) {
 			.curve(d3.curveStepAfter)
 			.x( (d) => { return quarterTime(d.Seconds); })
 			.y0( (d) => { return success(0); })
-			.y1( (d) => { return success(d3.max([(d[currCountryCode]-d.Opponent)/maxScore,0])); });
+			.y1( (d) => { return success(d3.max([(d[currTeamCode]-d.Opponent)/maxScore,0])); });
 
 		var areaLose = d3.area()
 			.curve(d3.curveStepAfter)
 			.x( (d) => { return quarterTime(d.Seconds); })
 			.y0( (d) => { return success(0); })
-			.y1( (d) => { return success(d3.min([(d[currCountryCode]-d.Opponent)/maxScore,0])); });
+			.y1( (d) => { return success(d3.min([(d[currTeamCode]-d.Opponent)/maxScore,0])); });
 
 		var scoreLineWin = quarter.append("path")
 			.data([myGoals])
@@ -641,15 +640,15 @@ for(var nn=0; nn<6; nn++) {
 			.enter().append("circle")
 			.attr("class","pointindicator")
 			.attr("cx", (d) => { return quarterTime(d.Seconds); })
-			.attr("stroke", (d) => { return (d.Team===currCountryCode?USAColor:OpponentColor); })
+			.attr("stroke", (d) => { return (d.Team===currTeamCode?USAColor:OpponentColor); })
 			.attr("cy", (d) => {
-				var mysign = (d.Team===currCountryCode?1:-1);
+				var mysign = (d.Team===currTeamCode?1:-1);
 				var isGoal = (d.Goal===1);
 			return success(mysign*shotIconDisplayLevel);
 			})
 			.attr("stroke-width",1)
 			.attr("r",3.5)
-			.attr("fill", (d) => { return (d.Goal===1?(d.Team===currCountryCode?USAColor:OpponentColor):"transparent"); })
+			.attr("fill", (d) => { return (d.Goal===1?(d.Team===currTeamCode?USAColor:OpponentColor):"transparent"); })
 			.on("mouseover", function(d) {
 				tooltip.transition()
 				.duration(200)
@@ -713,7 +712,7 @@ for(var nn=0; nn<6; nn++) {
 		gamesToFilter.push(nn+1);
 	}
 }
-console.log("games to filter:"+gamesToFilter);
+//console.log("games to filter:"+gamesToFilter);
 
 for(var nn=0; nn<shotTypes.length; nn++) {
 	var chart = scatterCharts[nn];
@@ -737,7 +736,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.rangeRound([0, scatterWidth])
 		.domain(lim);
 
-	console.log("Shot extent:"+shotextent+"; lim:"+lim);
+	//console.log("Shot extent:"+shotextent+"; lim:"+lim);
 	
     var mydots = chart.selectAll(".scatterdot")
 		.data(myData);
@@ -753,9 +752,9 @@ for(var nn=0; nn<shotTypes.length; nn++) {
       totalShotsMade += myData[i].coord[0];
       totalShotsAttempted += myData[i].coord[1];
     }
-    console.log(maxShotsMade);
+    //console.log(maxShotsMade);
     var ratio = totalShotsAttempted / totalShotsMade;
-    console.log(shots(ratio));
+    //console.log(shots(ratio));
     chart.selectAll("path").remove()
     var lines = chart.append("path")
       .data(myData)
@@ -780,11 +779,9 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		mydots.transition("update")
 			.attr("r", (d) => { return 3*Math.sqrt(d.numPlayers); })
 			.attr("cx", (d) => {
-				//return shots(d.coord[0])+2*(Math.random()-.5)*jitter;
 				return shots(d.coord[0]);
 			})
 			.attr("cy", (d) => {
-				//return probability(d.coord[1]/d.coord[0])+2*(Math.random()-.5)*jitter;
 				return probability(d.coord[1]/d.coord[0]);  // attempted over made
 			});
 
@@ -793,11 +790,9 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 			.attr("opacity",.4)
 			.attr("r", (d) => { return 3*Math.sqrt(d.numPlayers); })
 			.attr("cx", (d) => {
-				//return shots(d.coord[0])+2*(Math.random()-.5)*jitter;
 				return shots(d.coord[0]);
 			})
 			.attr("cy", (d) => {
-				//return probability(d.coord[1]/d.coord[0])+2*(Math.random()-.5)*jitter;
 				return probability(d.coord[1]/d.coord[0]);
 			})
 			.on("mouseover", function(d) {
@@ -817,9 +812,13 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 }
 
 var toggler = document.getElementById("toggler");
-
 toggler.addEventListener("click", function() {
 	filterScatterPlots();
+});
+
+var teamSelect = document.getElementById("teamSelector");
+teamSelect.addEventListener("change", function() {
+	console.log(teamSelect.selectedIndex);
 });
 
 </script>
