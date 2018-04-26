@@ -360,6 +360,7 @@ var tooltip = d3.select("body").append("div")
 // Scatter charts
 {
 var jitter = 0;
+// probability function for plotting y-values on the charts
 var probability = d3.scaleLinear().rangeRound([scatterHeight,0])
 	.domain([-.1, 1.1]);
 
@@ -381,6 +382,8 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 	var shotrange = shotextent[1] - shotextent[0];
 	var lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
 
+
+  // shot function for plotting x-vlaues on the charts
 	var shots = d3.scaleLinear().rangeRound([0, scatterWidth])
 		.domain(lim);
 
@@ -715,9 +718,29 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 			.domain(lim);
 
 		console.log("Shot extent:"+shotextent+"; lim:"+lim);
-		var mydots = chart.selectAll(".scatterdot")
+		
+    var mydots = chart.selectAll(".scatterdot")
 			.data(myData);
 
+    // Add lines that are redrawn upon click
+    var totalShotsMade = 0;
+    var totalShotsAttempted = 0;
+    var maxShotsMade = 1;
+    for (var i = myData.length - 1; i >= 0; i--) {
+      if (maxShotsMade < myData[i].coord[0]) {
+        maxShotsMade = myData[i].coord[0];
+      }
+      totalShotsMade += myData[i].coord[0];
+      totalShotsAttempted += myData[i].coord[1];
+    }
+    console.log(maxShotsMade);
+    var ratio = totalShotsAttempted / totalShotsMade;
+    console.log(shots(ratio));
+    chart.selectAll("path").remove()
+    var lines = chart.append("path")
+      .data(myData)
+      .attr("d", "M " + 0 + " " + probability(ratio) + " L " + scatterWidth + " " + probability(ratio))
+      .attr("stroke", "grey");
 
 		var t = d3.transition()
 			.duration(200);
@@ -742,7 +765,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 			})
 			.attr("cy", (d) => {
 				//return probability(d.coord[1]/d.coord[0])+2*(Math.random()-.5)*jitter;
-				return probability(d.coord[1]/d.coord[0]);
+				return probability(d.coord[1]/d.coord[0]);  // attempted over made
 			});
 
 		mydots.enter().append("circle")
