@@ -568,7 +568,8 @@ for(var nn=0; nn<6; nn++) {
 	var beginningScore = [0,0];
 	var endingScore = [0,0];
 	for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
-
+		console.log("Quarter:"+quarterNum);
+		
 		var gameNData = poloData.filter(isGameN);
 		//console.log(JSON.stringify(gameNData).replace(/},{/g,"},\n\n{"));
 		//console.log(gameNData.length);
@@ -577,7 +578,7 @@ for(var nn=0; nn<6; nn++) {
 		}
 		var myGoals = poloData.filter( (d) => {
 			return d.Game===gameNum && d.Period===quarterNum && d.Goal===1;
-		});
+		}).sort( (d1,d2) => { return d2.Seconds-d1.Seconds; });
 		//console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
 
 		function getScoreAtLastGoal(min,d) {
@@ -596,7 +597,7 @@ for(var nn=0; nn<6; nn++) {
 		myGoals.unshift({"USA":beginningScore[0],"Opponent":beginningScore[1],"Seconds":8*60});
 
 		//console.log(beginningScore+" : "+endingScore);
-		//console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
+		console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
 
 		var quarter = timeline.append("g")
 			.attr("class","quarter")
