@@ -31,6 +31,19 @@ body {
   stroke-width:1.5px;
   r:4px;
 }
+.shotIconFocalTeam {
+    stroke:black;
+    fill:steelblue;
+}
+.shotIconOpponentTeam {
+    fill:lightgray;
+}
+.shotIconFocalPlayer {
+    fill:red;
+}
+.shotIconMiss {
+    fill:transparent !important;
+}
 
 .scatterdot {
 	stroke: none;
@@ -654,33 +667,38 @@ for(var nn=0; nn<6; nn++) {
 
 
 //  Shot icons
-		function iconColor(d) {
-			if(d.Team===currTeamCode) {
-				if(playersToFocus.includes(d.Player)) {
-					return "red";
-				} else {
-					return USAColor;
-				}
-			} else {
-				return OpponentColor;
-			}
-		}
 		
+        function classNames(d) {
+            res = "shotIcon";
+            if(playersToFocus.includes(d.Player)) {
+                res += " shotIconFocalPlayer";
+            } else {
+                if(d.Team===currTeamCode) {
+                    res += " shotIconFocalTeam";
+                } else {
+                    res += " shotIconOpponentTeam";
+                }
+            }
+            if(d.Goal===0) {
+                console.log("goal");
+                res += " shotIconMiss";
+            }
+            return res;
+        }
+        
 		quarter.selectAll(".shotIcon").remove();
 		var dots = quarter.selectAll(".shotIcon")
 			.data(gameNData);
 			
 		dots.enter()
 			.append("circle")
-			.attr("class","shotIcon")
+			.attr("class",classNames)
 			.attr("cx", (d) => { return quarterTime(d.Seconds); })
-			.attr("stroke", iconColor)
 			.attr("cy", (d) => {
 				var mysign = (d.Team===currTeamCode?1:-1);
 				var isGoal = (d.Goal===1);
 			return success(mysign*shotIconDisplayLevel);
 			})
-			.attr("fill", (d) => { return (d.Goal===1?iconColor(d):"transparent"); })
 			.on("mouseover", function(d) {
 				tooltip.transition()
 				.duration(200)
