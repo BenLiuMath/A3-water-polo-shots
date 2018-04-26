@@ -9,7 +9,12 @@
 <style>
 body {
   font: 11px sans-serif;
+  font-family: Tahoma;
   margin:0px;
+}
+
+h1{
+  font-size: 14pt;
 }
 
 .axis {
@@ -23,7 +28,9 @@ body {
 }
 
 .axisLabel {
-	font-size:16pt;
+	font-size:10pt;
+  fill: black;
+  opacity: 1.0;
 }
 
 /* Shot Icons */
@@ -33,32 +40,32 @@ body {
 	r:4px;
 }
 .shotIconFocalTeam {
-    stroke:darkblue;
-    fill:darkblue;
+    stroke:#4056a1;
+    fill:#4056a1;
 }
 .shotIconOpponentTeam {
-    stroke:sandybrown;
-    fill:sandybrown;
+    stroke:#f13c20;
+    fill:#f13c20;
+    opacity:0.8;
 }
 .shotIconFocalPlayer {
-    stroke:maroon;
-    fill:maroon;
+    stroke: #FFD800;
+    fill: #FFD800;
 	r:6px !important;
 }
 .shotIconMiss {
     fill:transparent !important;
 }
 
-
 .ratioLine {
-	stroke:gray;
+	stroke: rosybrown;
 	shape-rendering: crispEdges;
 	stroke-width:2px;
 }
 .scatterdot {
 	stroke: none;
-    fill: steelblue;
-    opacity:.4;
+    fill: darkblue;
+    opacity:.55;
 	shape-rendering: geometricPrecision;
 }
 
@@ -71,14 +78,14 @@ body {
 .finalScoreThis {
   font-size:12pt;
   font-weight:bold;
-  fill: darkblue;
+  fill: #4056a1;
 }
 
 .finalScoreOpponent {
   font-size:12pt;
   font-weight:bold;
-  fill: sandybrown;
-  opacity:0.7;
+  fill: #f13c20;
+  opacity:0.8;
 }
 
 .tooltip {
@@ -89,13 +96,13 @@ body {
 }
 
 .areaWin {
-  fill: darkblue;
-  opacity:.3;
+  fill: #4056a1;
+  opacity:.25;
 }
 
 .areaLose {
-  fill: sandybrown;
-  opacity: .5;
+  fill: #f13c20;
+  opacity: .25;
 }
 
 ul {
@@ -108,19 +115,30 @@ ul {
 </style>
 <body>
 
-<div style="position: absolute; top:50px; right:20px;" >
+<div style="position: absolute; top:15px; right:60px;" >
+
+<h1>Women's<br/>Water Polo<br/>Statistics</h1>
+<h3>2017 FINA World<br/>Championships</h3>
+
+Select a team:
+<br/><br/>
 <select id="teamSelector">
 </select>
 
-<br/>
-
-<select multiple="multiple" style="height:8em; " id="gameSelector">
+<br/><br/>
+<select multiple="multiple" style="height:10em; " id="gameSelector">
 </select>
 
-<br/>
-
+Select a player to <br>highlight their <br>contributions:
+<br/><br/>
 <select multiple="multiple" style="height:20em; " id="playerSelector">
 </select>
+
+<br/><br/>
+Hover over data<br/>to see details.
+
+<br/><br/>
+You can also click<br/>on a timeline to<br/>deselect or select<br/>that game.
 
 </div>
 
@@ -148,24 +166,22 @@ const shotSummaryESP = [{"Player":"BACH PASCUAL M","Game":1,"5m shot attempted":
 <script>
 
 // static data and lookup
-var shotTypes = ["Total","Centre shot","Action shot","5m shot","Extra player shot"];
-var shotTypesDecode = ["All Shots","Centre Shots","Action Shots","5m Shots","Extra Player Shots"];
+var shotTypes = ["Total","Action shot","Centre shot","5m shot","Extra player shot"];
+var shotTypesDecode = ["All Shots","Action Shots","Centre Shots","Shots Outside 5m","Extra Player Shots"];
 
 var teamCodes = ["USA","BRA","ESP"];
-var teamDecodes = {"USA":"United States", "RUS":"Russia", "NZL":"New Zealand", "ESP":"Spain?", "BRA":"Brazil"};
+var teamDecodes = {"USA":"United States", "RUS":"Russia", "NZL":"New Zealand", "ESP":"Spain", "BRA":"Brazil"};
 
 var allPoloDatas = [poloDataUSA, poloDataBRA, poloDataESP];
 var allShotSummaryDatas = [shotSummaryUSA, shotSummaryBRA, shotSummaryESP];
 
-
-
 // Sizing and Styling
 {
-var margin = {top: 70, right: 100, bottom: 60, left: 110};
+var margin = {top: 30, right: 100, bottom: 60, left: 110};
 
 var scatterWidth, scatterHeight = 150;
 var scatterPadding = 30;
-var scatterTimelinePadding = 60;
+var scatterTimelinePadding = 110;
 
 var timelineHeight = 80;
 var timelineQuarterWidth = 200;
@@ -178,9 +194,8 @@ var heightFull = margin.top + margin.bottom + scatterHeight + (timelineHeight+ti
 
 scatterWidth = (timelineWidth - 4*scatterPadding)/5;
 
-
-var USAColor = "darkblue";
-var OpponentColor = "#999999";
+// var USAColor = "darkblue";
+// var OpponentColor = "#999999";
 }
 
 
@@ -197,12 +212,12 @@ var svg = d3.select("body").append("svg")
 	.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-var title =  svg.append("text")
-            .attr("x", (widthFull / 2) - margin.left)
-            .attr("y", -20)
-            .attr("text-anchor", "middle")
-            .style("font-size", "32px")
-            .text("Women's Water Polo at the 2017 FINA World Championships");
+// var title =  svg.append("text")
+//             .attr("x", (widthFull / 2) - margin.left)
+//             .attr("y", -20)
+//             .attr("text-anchor", "middle")
+//             .style("font-size", "32px")
+//             .text("Women's Water Polo at the 2017 FINA World Championships");
 
 var tooltip = d3.select("body").append("div")
     .attr("class", "tooltip")
@@ -231,7 +246,7 @@ var shotData = allShotSummaryDatas[currTeam];
 console.log(JSON.stringify(shotData).replace(/},{/g,"},\n\n{"));
 var players = [];
 
-	
+
 function populateSelectors() {
 	for(var ii=0; ii<6; ii++) { // need to change this to depend on the data; some teams didn't make it to 6 games
 		var opt = document.createElement("option");
@@ -316,7 +331,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.attr("class", "scatterChart")
 		.attr("width", scatterWidth)
 		.attr("height", scatterHeight)
-		.attr("transform", `translate(${nn*(scatterWidth+scatterPadding)}, 0)`);
+		.attr("transform", `translate(${nn*(scatterWidth+scatterPadding)-30}, 10)`);
 	scatterCharts[nn] = scatterChart;
 
 	scatterChart.append("g")
@@ -330,7 +345,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.attr("class","axisLabel")
 		.attr("transform",
 			"translate(" + (scatterWidth/2) + " ," +
-						   (scatterHeight + 5) + ")")
+						   (scatterHeight + 12) + ")")
 		.attr("dy","2em")
 		.style("text-anchor", "middle")
 		.text(shotTypesDecode[nn]);
@@ -345,19 +360,19 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 				.tickSizeOuter(0));
 
 		scatterChart.append("text")
-			  .attr("transform", "rotate(-90)")
-			  .attr("y",0 - 70)
+         .attr("class", "axisLabel")
+        .attr("transform", "rotate(-90)")
+			  .attr("y",-65)
 			  .attr("x",0 - (scatterHeight / 2))
 			  .attr("dy", "1em")
 			  .style("text-anchor", "middle")
-			  .attr("font-size",18)
 			  .text("Success");
 	} else {
 		scatterChart.append("g")
 			.attr("class", "axis axis--y")
 			.call(d3.axisLeft(probability).ticks(0).tickSizeOuter(0));
 	}
-	//console.log(JSON.stringify(mydata).replace(/},{/g,"},\n\n{"));		
+	//console.log(JSON.stringify(mydata).replace(/},{/g,"},\n\n{"));
 }
 
 
@@ -394,7 +409,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.domain(lim);
 
 	//console.log("Shot extent:"+shotextent+"; lim:"+lim);
-	
+
 
     // Add lines that are redrawn upon click
     var totalShotsMade = 0;
@@ -416,7 +431,20 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.enter()
 		.append("path")
 		.attr("class","ratioLine")
-		.attr("d", "M " + 0 + " " + probability(ratio) + " L " + scatterWidth + " " + probability(ratio));
+		.attr("d", "M " + 0 + " " + probability(ratio) + " L " + scatterWidth + " " + probability(ratio))
+    .on("mouseover", function(d) {
+      tooltip.transition()
+      .duration(200)
+      .style("opacity", 1.0);
+      tooltip.html("Team: ?/?")
+      .style("left", (d3.event.pageX -5) + "px")
+      .style("top", (d3.event.pageY -20) + "px");
+    })
+    .on("mouseout", function(d) {
+      tooltip.transition()
+      .duration(500)
+      .style("opacity", 0);
+    });
 
 	var t = d3.transition()
 		.duration(300);
@@ -428,7 +456,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 
 	chart.selectAll(".scatterdot")
 		.remove();
-	
+
     var mydots = chart.selectAll(".scatterdot")
 		.data(myData)
 		.enter()
@@ -484,13 +512,13 @@ var timelineGroup = svg.append("g")
 for(var quarterNum=1; quarterNum<=4; quarterNum++) {
 	timelineGroup.append("text")
 		.attr("class","axisLabel")
-		.attr("y",6*timelineHeight+5*timelineVerticalPadding)
+		.attr("y",- 20)
 		.attr("x",timelineQuarterWidth/2 + (quarterNum-1)*(timelineQuarterWidth+timelineInternalPadding))
 		.attr("dy","1em")
 		.style("text-anchor", "middle")
 		.text("Quarter "+quarterNum);
 }
-	
+
 
 for(var nn=0; nn<6; nn++) {
 	gameNum = nn+1;
@@ -517,7 +545,7 @@ for(var nn=0; nn<6; nn++) {
 		.attr("width",timelineWidth)
 		.attr("height",timelineHeight)
 		.attr("fill",'white');
-		
+
 	var lineLength = 80;
     /*
       Add flags and team names
@@ -577,13 +605,13 @@ for(var nn=0; nn<6; nn++) {
 		.style("text-anchor", "middle")
 		.text("?");
 		//.text(endingScore[1]);
-		
+
 	for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
 		//console.log("Quarter:"+quarterNum);
 
 // persistent elements
-		
-		// Add timeline for this quarter		
+
+		// Add timeline for this quarter
 		var quarter = timeline.append("g")
 			.attr("class","quarter")
 			.attr("width", timelineQuarterWidth)
@@ -595,7 +623,7 @@ for(var nn=0; nn<6; nn++) {
 			.attr("class", "axis axis--x")
 			.attr("transform", `translate(0, ${timelineHeight/2})`)
 			.call(d3.axisBottom(quarterTime).ticks(0).tickSizeOuter(0));
-			
+
 		var scoreLineWin = quarter.append("path")
 			.attr("class", "areaWin");
 
@@ -617,33 +645,33 @@ for(var ii=0; ii<playerSelect.options.length; ii++) {
 var numGames = d3.max(poloData.map( (d) => { return d.Game; }));
 for(var nn=0; nn<6; nn++) {
 	var timeline = timelines[nn];
-	
-		
+
+
 	gameNum = nn+1;
 	var gameNData = poloData.filter(isGameN);
 	//console.log(JSON.stringify(gameNData).replace(/},{/g,"},\n\n{"));
-	
-	
+
+
 	if(gameNData.length==0) { // There is no n-th game; kill chart
 
 		timeline.selectAll(".flagThis")
 			.attr("xlink:href", "img/" + "BLANK" + ".png");
 		timeline.selectAll(".flagOpponent")
 			.attr("xlink:href", "img/" + "BLANK" + ".png");
-			
+
 		timeline.selectAll(".teamnameThis")
 			.text("");
 		timeline.selectAll(".teamnameOpponent")
 			.text("");
 		for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
-		
+
 			//console.log("\n\nQuarter: "+quarterNum);
 			var quarter = quarters[nn][quarterNum-1];
 			var dots = quarter.selectAll(".shotIcon")
 				.data(gameNData);
 				dots.exit()
 					.remove();
-					
+
 			var areaWin = d3.area()
 				.curve(d3.curveStepAfter)
 				.x(0)
@@ -663,7 +691,7 @@ for(var nn=0; nn<6; nn++) {
 			var scoreLineLose = quarter.selectAll(".areaLose")
 				.data([{}])
 				.attr("d", areaLose);
-				
+
 			}
 			timeline.selectAll(".finalScoreThis")
 				.text("");
@@ -671,7 +699,7 @@ for(var nn=0; nn<6; nn++) {
 				.text("");
 			break;
 	}
-	
+
 	var otherTeam = gameNData[0]["Opponent name"];
 	//console.log(gameNData.length);
 	function isGameN(d) {
@@ -683,12 +711,12 @@ for(var nn=0; nn<6; nn++) {
 		.attr("xlink:href", "img/" + currTeamCode + ".png");
 	timeline.selectAll(".flagOpponent")
 		.attr("xlink:href", "img/" + otherTeam + ".png");
-		
+
 	timeline.selectAll(".teamnameThis")
 		.text(currTeamCode);
 	timeline.selectAll(".teamnameOpponent")
 		.text(otherTeam);
-		
+
 	var maxScore = d3.max(poloData, (d) => {
 		if(d.Game===gameNum) {
 			return Math.abs(d[currTeamCode] - d.Opponent);
@@ -703,7 +731,7 @@ for(var nn=0; nn<6; nn++) {
 		var quarter = quarters[nn][quarterNum-1];
 
 // Data-dependent elements
-		
+
 		var gameNData = poloData.filter(isGameN);
 		//console.log(JSON.stringify(gameNData).replace(/},{/g,"},\n\n{"));
 		function isGameN(d) {
@@ -757,7 +785,7 @@ for(var nn=0; nn<6; nn++) {
 
 
 //  Shot icons
-		
+
         function classNames(d) {
             res = "shotIcon";
             if(playersToFocus.includes(d.Player)) {
@@ -774,11 +802,11 @@ for(var nn=0; nn<6; nn++) {
             }
             return res;
         }
-        
+
 		quarter.selectAll(".shotIcon").remove();
 		var dots = quarter.selectAll(".shotIcon")
 			.data(gameNData);
-			
+
 		dots.enter()
 			.append("circle")
 			.attr("class",classNames)
@@ -823,9 +851,9 @@ function drawAll() {
 	.map( (d) => {
 		return d.key;
 	});
-	
+
 	populateSelectors();
-	
+
 	filterScatterPlots();
 	populateTimelines();
 }
@@ -836,7 +864,7 @@ teamSelect.addEventListener("change", function() {
 	currTeamCode = teamCodes[currTeam];
 	poloData = allPoloDatas[currTeam];
 	shotData = allShotSummaryDatas[currTeam];
-	
+
 	drawAll();
 });
 
