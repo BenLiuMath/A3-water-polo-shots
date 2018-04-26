@@ -23,7 +23,9 @@ body {
 }
 
 .shotIcon {
-  shape-rendering: crispEdges;
+  shape-rendering: geometricPrecision;
+  stroke-width:1.5px;
+  r:4px;
 }
 
 .scatterdot {
@@ -75,7 +77,7 @@ ul {
     padding: 0;
 }
 
-#toggler { display:block; }
+#gameSelector { display:none; }
 </style>
 <body>
 
@@ -90,12 +92,9 @@ ul {
 
 <br/>
 
-<select multiple="multiple" style="height:20em; " id="roster">
+<select multiple="multiple" style="height:20em; " id="playerSelector">
 </select>
 
-<br/>
-
-<button id="toggler">Replot Scatter</button>
 </div>
 
 <script src="http://d3js.org/d3.v4.min.js"></script>
@@ -110,107 +109,7 @@ const poloDataESP = [{"Action":"5m shot","Cap":9.0,"ESP":0,"Game":1,"Opponent":0
 </script>
 
 <script>
-const shotSummaryUSA = [
-{"Player":"BACH PASCUAL M","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"BARRETT N","Game":1,"5m shot attempted":1,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":1},
-{"Player":"BISHOP I","Game":4,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
-{"Player":"BORISOVA M","Game":5,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":1,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":1,"Total attempted":5,"Total made":2},
-{"Player":"BUCKLING H","Game":4,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
-{"Player":"CRESPI BARRIGA P","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"CRESPI BARRIGA P","Game":6,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"ESPAR LLAQUET A","Game":2,"5m shot attempted":3,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":1,"5m shot made":1,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":1,"Total attempted":7,"Total made":3},
-{"Player":"ESPAR LLAQUET A","Game":6,"5m shot attempted":4,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":1,"5m shot made":2,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":1,"Total attempted":7,"Total made":3},
-{"Player":"ESPAR LLAQUET C","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"FATTAL R","Game":1,"5m shot attempted":0,"Action shot attempted":3,"Centre shot attempted":2,"Counter attack attempted":1,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":1,"Counter attack made":1,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":6,"Total made":3},
-{"Player":"FATTAL R","Game":2,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":4,"Total made":2},
-{"Player":"FATTAL R","Game":3,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":2},
-{"Player":"FATTAL R","Game":4,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
-{"Player":"FATTAL R","Game":5,"5m shot attempted":1,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":3,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":6,"Total made":5},
-{"Player":"FATTAL R","Game":6,"5m shot attempted":2,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":1},
-{"Player":"FISCHER A","Game":1,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":2},
-{"Player":"FISCHER A","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
-{"Player":"FISCHER A","Game":3,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":1,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":1,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":2},
-{"Player":"FISCHER A","Game":4,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":2,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
-{"Player":"FISCHER A","Game":6,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":2,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
-{"Player":"FISCHER M","Game":1,"5m shot attempted":0,"Action shot attempted":6,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":7,"Total made":2},
-{"Player":"FISCHER M","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"FISCHER M","Game":3,"5m shot attempted":1,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":2},
-{"Player":"FISCHER M","Game":4,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":0},
-{"Player":"FISCHER M","Game":5,"5m shot attempted":1,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":4,"Total made":0},
-{"Player":"FISCHER M","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":1},
-{"Player":"FORCA ARIZA J","Game":2,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
-{"Player":"FORCA ARIZA J","Game":6,"5m shot attempted":3,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":0},
-{"Player":"GOFERS K","Game":4,"5m shot attempted":0,"Action shot attempted":4,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":3,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":6,"Total made":4},
-{"Player":"GUAL ROVIROSA A","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"GUAL ROVIROSA A","Game":6,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
-{"Player":"HALLIGAN B","Game":4,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
-{"Player":"HAUSCHILD P","Game":1,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":2},
-{"Player":"HAUSCHILD P","Game":2,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"HAUSCHILD P","Game":3,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
-{"Player":"HAUSCHILD P","Game":6,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"HOUGHTON E","Game":3,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"HUDSON K","Game":3,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
-{"Player":"IVANOVA E","Game":5,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":1},
-{"Player":"LEITON ARRONES P","Game":2,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":1},
-{"Player":"LEITON ARRONES P","Game":6,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":1},
-{"Player":"LEWIS N","Game":3,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"LLORET GOMEZ H","Game":2,"5m shot attempted":0,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":4,"Total made":2},
-{"Player":"LLORET GOMEZ H","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"LOPES da SILVA C","Game":3,"5m shot attempted":2,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":1},
-{"Player":"MASON K","Game":3,"5m shot attempted":5,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":1},
-{"Player":"MIHAILOVIC L","Game":4,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"MUSSELMAN M","Game":2,"5m shot attempted":2,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":7,"Total made":3},
-{"Player":"MUSSELMAN M","Game":3,"5m shot attempted":3,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":4,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":7,"Total made":4},
-{"Player":"MUSSELMAN M","Game":4,"5m shot attempted":0,"Action shot attempted":5,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":2,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":7,"Total made":2},
-{"Player":"MUSSELMAN M","Game":5,"5m shot attempted":1,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":4,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":4},
-{"Player":"MUSSELMAN M","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":3,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":2,"Penalty shot made":0,"Total attempted":5,"Total made":3},
-{"Player":"NEUSHUL J","Game":1,"5m shot attempted":1,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":2,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":4,"Centre shot made":0,"Counter attack made":2,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":7,"Total made":6},
-{"Player":"NEUSHUL J","Game":2,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
-{"Player":"NEUSHUL J","Game":3,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":1},
-{"Player":"NEUSHUL J","Game":4,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":1},
-{"Player":"NEUSHUL K","Game":1,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":3},
-{"Player":"NEUSHUL K","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":1,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":1,"Total attempted":4,"Total made":3},
-{"Player":"NEUSHUL K","Game":3,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":2},
-{"Player":"NEUSHUL K","Game":4,"5m shot attempted":0,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":0},
-{"Player":"NEUSHUL K","Game":5,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":1,"Total made":1},
-{"Player":"NEUSHUL K","Game":6,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":4,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":4,"Penalty shot made":0,"Total attempted":6,"Total made":4},
-{"Player":"ORTIZ MUNOZ B","Game":2,"5m shot attempted":3,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":5,"Total made":1},
-{"Player":"ORTIZ MUNOZ B","Game":6,"5m shot attempted":2,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":2,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":6,"Total made":2},
-{"Player":"PENA CARRASCO M","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"PENA CARRASCO M","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"PENNEY A","Game":1,"5m shot attempted":0,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":1},
-{"Player":"PROKOFYEVA E","Game":5,"5m shot attempted":5,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":2,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":2},
-{"Player":"PYE B","Game":3,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":4,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":2,"Penalty shot made":0,"Total attempted":4,"Total made":2},
-{"Player":"RANEY J","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
-{"Player":"RANEY J","Game":3,"5m shot attempted":2,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":2},
-{"Player":"RANEY J","Game":4,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":2},
-{"Player":"RANEY J","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":1},
-{"Player":"RYZHKOVA D","Game":5,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":1},
-{"Player":"SEIDEMANN M","Game":1,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":3,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":3,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":5},
-{"Player":"SEIDEMANN M","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"SEIDEMANN M","Game":3,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
-{"Player":"SEIDEMANN M","Game":4,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":4,"Total made":1},
-{"Player":"SEIDEMANN M","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":1},
-{"Player":"SIMANOVICH A","Game":5,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":2,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":2,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":2},
-{"Player":"SMIT Z","Game":1,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"STEFFENS M","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},
-{"Player":"STEFFENS M","Game":3,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":2,"Penalty shot attempted":0,"5m shot made":2,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":2,"Penalty shot made":0,"Total attempted":5,"Total made":5},
-{"Player":"STEFFENS M","Game":4,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"STEFFENS M","Game":5,"5m shot attempted":2,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":2,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":3},
-{"Player":"STEFFENS M","Game":6,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":2},
-{"Player":"STONE G","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"STONEMAN E","Game":3,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":2},
-{"Player":"TIMOFEEVA A","Game":5,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
-{"Player":"TOLKUNOVA T","Game":5,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"WEBSTER R","Game":4,"5m shot attempted":2,"Action shot attempted":2,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":1,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":1,"Total attempted":6,"Total made":1},
-{"Player":"WESSELS C","Game":1,"5m shot attempted":2,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
-{"Player":"WHITE K","Game":1,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},
-{"Player":"WILLIAMS A","Game":1,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":1},
-{"Player":"WILLIAMS A","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":1},
-{"Player":"WILLIAMS A","Game":3,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":1,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":4,"Total made":1},
-{"Player":"WILLIAMS A","Game":4,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},
-{"Player":"WILLIAMS A","Game":5,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":1,"Total made":1},
-{"Player":"WILLIAMS A","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0}];
+const shotSummaryUSA = [{"Player":"FATTAL R","Game":1,"5m shot attempted":0,"Action shot attempted":3,"Centre shot attempted":2,"Counter attack attempted":1,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":1,"Counter attack made":1,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":6,"Total made":3},{"Player":"FATTAL R","Game":2,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":4,"Total made":2},{"Player":"FATTAL R","Game":3,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":2},{"Player":"FATTAL R","Game":4,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},{"Player":"FATTAL R","Game":5,"5m shot attempted":1,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":3,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":6,"Total made":5},{"Player":"FATTAL R","Game":6,"5m shot attempted":2,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":1},{"Player":"FISCHER A","Game":1,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":2},{"Player":"FISCHER A","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},{"Player":"FISCHER A","Game":3,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":1,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":1,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":2},{"Player":"FISCHER A","Game":4,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":2,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},{"Player":"FISCHER A","Game":6,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":2,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},{"Player":"FISCHER M","Game":1,"5m shot attempted":0,"Action shot attempted":6,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":7,"Total made":2},{"Player":"FISCHER M","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"FISCHER M","Game":3,"5m shot attempted":1,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":2},{"Player":"FISCHER M","Game":4,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":0},{"Player":"FISCHER M","Game":5,"5m shot attempted":1,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":4,"Total made":0},{"Player":"FISCHER M","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":1},{"Player":"HAUSCHILD P","Game":1,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":2},{"Player":"HAUSCHILD P","Game":2,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"HAUSCHILD P","Game":3,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},{"Player":"HAUSCHILD P","Game":6,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"MUSSELMAN M","Game":2,"5m shot attempted":2,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":7,"Total made":3},{"Player":"MUSSELMAN M","Game":3,"5m shot attempted":3,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":4,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":7,"Total made":4},{"Player":"MUSSELMAN M","Game":4,"5m shot attempted":0,"Action shot attempted":5,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":2,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":7,"Total made":2},{"Player":"MUSSELMAN M","Game":5,"5m shot attempted":1,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":4,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":4},{"Player":"MUSSELMAN M","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":3,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":2,"Penalty shot made":0,"Total attempted":5,"Total made":3},{"Player":"NEUSHUL J","Game":1,"5m shot attempted":1,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":2,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":4,"Centre shot made":0,"Counter attack made":2,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":7,"Total made":6},{"Player":"NEUSHUL J","Game":2,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},{"Player":"NEUSHUL J","Game":3,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":1},{"Player":"NEUSHUL J","Game":4,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":1},{"Player":"NEUSHUL K","Game":1,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":3},{"Player":"NEUSHUL K","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":1,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":1,"Total attempted":4,"Total made":3},{"Player":"NEUSHUL K","Game":3,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":2},{"Player":"NEUSHUL K","Game":4,"5m shot attempted":0,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":0},{"Player":"NEUSHUL K","Game":5,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":1,"Total made":1},{"Player":"NEUSHUL K","Game":6,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":4,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":4,"Penalty shot made":0,"Total attempted":6,"Total made":4},{"Player":"RANEY J","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},{"Player":"RANEY J","Game":3,"5m shot attempted":2,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":2},{"Player":"RANEY J","Game":4,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":2},{"Player":"RANEY J","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":1},{"Player":"SEIDEMANN M","Game":1,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":3,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":2,"Centre shot made":3,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":5},{"Player":"SEIDEMANN M","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"SEIDEMANN M","Game":3,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},{"Player":"SEIDEMANN M","Game":4,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":4,"Total made":1},{"Player":"SEIDEMANN M","Game":5,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"SEIDEMANN M","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":2,"Total made":1},{"Player":"STEFFENS M","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":1},{"Player":"STEFFENS M","Game":3,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":2,"Penalty shot attempted":0,"5m shot made":2,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":2,"Penalty shot made":0,"Total attempted":5,"Total made":5},{"Player":"STEFFENS M","Game":4,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"STEFFENS M","Game":5,"5m shot attempted":2,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":2,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":3},{"Player":"STEFFENS M","Game":6,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":2},{"Player":"STONE G","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"WILLIAMS A","Game":1,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":1},{"Player":"WILLIAMS A","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":1},{"Player":"WILLIAMS A","Game":3,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":1,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":4,"Total made":1},{"Player":"WILLIAMS A","Game":4,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},{"Player":"WILLIAMS A","Game":5,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":1,"Total made":1},{"Player":"WILLIAMS A","Game":6,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0}];
 </script>
 <script>
 const shotSummaryBRA = [{"Player":"ABLA D","Game":1,"5m shot attempted":1,"Action shot attempted":4,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":7,"Total made":1},{"Player":"ABLA D","Game":2,"5m shot attempted":1,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":1},{"Player":"ABLA D","Game":4,"5m shot attempted":4,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":2,"Penalty shot attempted":0,"5m shot made":2,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":2,"Penalty shot made":0,"Total attempted":7,"Total made":4},{"Player":"ABLA D","Game":5,"5m shot attempted":1,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":1,"5m shot made":0,"Action shot made":3,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":1,"Total attempted":5,"Total made":4},{"Player":"BAHIA V","Game":1,"5m shot attempted":0,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},{"Player":"BAHIA V","Game":2,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"BAHIA V","Game":4,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"BAHIA V","Game":5,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},{"Player":"BELORIO L","Game":2,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"BELORIO L","Game":4,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"BELORIO L","Game":5,"5m shot attempted":1,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":0},{"Player":"BRUZZO M","Game":2,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"BRUZZO M","Game":5,"5m shot attempted":0,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"CHAMORRO V","Game":1,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"DIAS M","Game":1,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":1,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":1,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":1},{"Player":"DIAS M","Game":2,"5m shot attempted":7,"Action shot attempted":2,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":9,"Total made":0},{"Player":"DIAS M","Game":4,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":3,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":3,"Total made":1},{"Player":"DIAS M","Game":5,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},{"Player":"DUARTE M","Game":1,"5m shot attempted":4,"Action shot attempted":3,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":8,"Total made":1},{"Player":"DUARTE M","Game":2,"5m shot attempted":5,"Action shot attempted":5,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":11,"Total made":1},{"Player":"DUARTE M","Game":4,"5m shot attempted":4,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":6,"Total made":0},{"Player":"DUARTE M","Game":5,"5m shot attempted":2,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":3,"Total made":2},{"Player":"FERREIRA S","Game":1,"5m shot attempted":1,"Action shot attempted":0,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"FERREIRA S","Game":2,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":1,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":2,"Total made":0},{"Player":"FERREIRA S","Game":5,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":1},{"Player":"SOUZA J","Game":1,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"SOUZA J","Game":5,"5m shot attempted":0,"Action shot attempted":0,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":1,"Total made":0},{"Player":"ZABLITH M","Game":1,"5m shot attempted":1,"Action shot attempted":4,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":3,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":1,"Penalty shot made":0,"Total attempted":8,"Total made":1},{"Player":"ZABLITH M","Game":2,"5m shot attempted":4,"Action shot attempted":1,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":1,"Action shot made":0,"Centre shot made":1,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":6,"Total made":2},{"Player":"ZABLITH M","Game":4,"5m shot attempted":6,"Action shot attempted":1,"Centre shot attempted":0,"Counter attack attempted":0,"Extra player shot attempted":1,"Penalty shot attempted":0,"5m shot made":3,"Action shot made":1,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":8,"Total made":4},{"Player":"ZABLITH M","Game":5,"5m shot attempted":2,"Action shot attempted":2,"Centre shot attempted":1,"Counter attack attempted":0,"Extra player shot attempted":0,"Penalty shot attempted":0,"5m shot made":0,"Action shot made":0,"Centre shot made":0,"Counter attack made":0,"Extra player shot made":0,"Penalty shot made":0,"Total attempted":5,"Total made":0}];
@@ -221,6 +120,7 @@ const shotSummaryESP = [{"Player":"BACH PASCUAL M","Game":1,"5m shot attempted":
 
 <script>
 
+// static data and lookup
 var shotTypes = ["Total","Centre shot","Action shot","5m shot","Extra player shot"];
 var shotTypesDecode = ["All Shots","Centre Shots","Action Shots","5m Shots","Extra Player Shots"];
 
@@ -232,50 +132,92 @@ var allShotSummaryDatas = [shotSummaryUSA, shotSummaryBRA, shotSummaryESP];
 
 
 
+// Sizing
+{
+var margin = {top: 70, right: 100, bottom: 60, left: 110};
 
+var scatterWidth, scatterHeight = 150;
+var scatterPadding = 30;
+var scatterTimelinePadding = 60;
+
+var timelineHeight = 80;
+var timelineQuarterWidth = 200;
+var timelineInternalPadding = 20;
+var timelineVerticalPadding = 10;
+var timelineWidth = 4*timelineQuarterWidth + 3*timelineInternalPadding;
+
+var widthFull = margin.left + margin.right + 4*timelineQuarterWidth + 3*timelineInternalPadding;
+var heightFull = margin.top + margin.bottom + scatterHeight + (timelineHeight+timelineVerticalPadding)*6 + scatterTimelinePadding;
+
+scatterWidth = (timelineWidth - 4*scatterPadding)/5;
+}
+
+
+// Elements
+{
+var teamSelect = document.getElementById("teamSelector");
+var gameSelect = document.getElementById("gameSelector");
+var playerSelect = document.getElementById("playerSelector");
+
+var svg = d3.select("body").append("svg")
+    .attr("width", widthFull)
+    .attr("height", heightFull)
+	//.attr("style","background:red;")
+	.append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var title =  svg.append("text")
+            .attr("x", (widthFull / 2) - margin.left)
+            .attr("y", -20)
+            .attr("text-anchor", "middle")
+            .style("font-size", "32px")
+            .text("Women's Water Polo at the 2017 FINA World Championships");
+
+var tooltip = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+}
+
+
+for(var ii=0; ii<teamCodes.length; ii++) {
+	var opt = document.createElement("option");
+	opt.text = teamCodes[ii];
+	teamSelect.add(opt);
+}
+teamSelect.options[0].selected = true;
+
+
+
+
+
+// state
 var currTeam = 0;
 var currTeamCode = teamCodes[currTeam];
 
 var poloData = allPoloDatas[currTeam];
 var shotData = allShotSummaryDatas[currTeam];
 
-var players = d3.nest()
-	.key( (d) => { return d.Player; } )
-	.entries(shotData)
-	.map( (d) => {
-		return d.key;
+console.log(JSON.stringify(shotData).replace(/},{/g,"},\n\n{"));
+var players = [];
+
+	
+function populateSelectors() {
+	for(var ii=0; ii<6; ii++) { // need to change this to depend on the data; some teams didn't make it to 6 games
+		var opt = document.createElement("option");
+		opt.text = "Game "+(ii+1);
+		opt.selected = true;
+		gameSelect.add(opt);
+	}
+	for(opt in playerSelect.options) {
+		playerSelect.options.remove(0);
+	}
+	players.forEach( function(player) {
+		var opt = document.createElement("option");
+		opt.text = player;
+		opt.selected = true;
+		playerSelect.add(opt);
 	});
-
-
-var teamSelect = document.getElementById("teamSelector");
-for(var ii=0; ii<teamCodes.length; ii++) {
-	var opt = document.createElement("option");
-	opt.text = teamCodes[ii];
-	opt.selected = true;
-	teamSelect.add(opt);
 }
-teamSelect.options[0].selected = true;
-
-var gameSelect = document.getElementById("gameSelector");
-for(var ii=0; ii<6; ii++) { // need to change this to depend on the data; some teams didn't make it to 6 games
-	var opt = document.createElement("option");
-	opt.text = "Game "+(ii+1);
-	opt.selected = true;
-	gameSelect.add(opt);
-}
-
-var rosterSelect = document.getElementById("roster");
-var rosterOpts = {};
-players.forEach( function(player) {
-	var opt = document.createElement("option");
-	opt.text = player;
-	opt.selected = true;
-	rosterSelect.add(opt);
-	rosterOpts[player] = opt;
-});
-//rosterOpts[players[0]].selected = false; // example of toggling a select option
-//console.log(JSON.stringify(players).replace(/},{/g,"},\n\n{"));
-
 
 function aggregateShotDataByPlayer(data) {
 	var shotDataAggregatedByPlayer = d3.nest()
@@ -323,59 +265,6 @@ function groupPlayerShotStatistics(data,shotType) {
 
 
 
-// Sizing
-{
-var margin = {top: 70, right: 100, bottom: 60, left: 110};
-
-var scatterWidth, scatterHeight = 150;
-var scatterPadding = 30;
-var scatterTimelinePadding = 60;
-
-var timelineHeight = 80;
-var timelineQuarterWidth = 200;
-var timelineInternalPadding = 20;
-var timelineVerticalPadding = 10;
-var timelineWidth = 4*timelineQuarterWidth + 3*timelineInternalPadding;
-
-var widthFull = margin.left + margin.right + 4*timelineQuarterWidth + 3*timelineInternalPadding;
-var heightFull = margin.top + margin.bottom + scatterHeight + (timelineHeight+timelineVerticalPadding)*6 + scatterTimelinePadding;
-
-scatterWidth = (timelineWidth - 4*scatterPadding)/5;
-}
-
-// Elements
-{
-var svg = d3.select("body").append("svg")
-    .attr("width", widthFull)
-    .attr("height", heightFull)
-	//.attr("style","background:red;")
-	.append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-/*
-	svg.append("rect")
-		.attr("x",0)
-		.attr("y",0)
-		.attr("width",1000)
-		.attr("height",100)
-		.attr("fill",'red');
-
-	svg.append("circle")
-		.attr("cx",widthFull/2 - margin.left)
-		.attr("cy",10)
-		.attr("r",10)
-		.attr("fill","black");
-*/
-var title =  svg.append("text")
-            .attr("x", (widthFull / 2) - margin.left)
-            .attr("y", -20)
-            .attr("text-anchor", "middle")
-            .style("font-size", "32px")
-            .text("Women's Water Polo at the 2017 FINA World Championships");
-
-var tooltip = d3.select("body").append("div")
-    .attr("class", "tooltip")
-    .style("opacity", 0);
-}
 
 // Scatter charts
 {
@@ -454,7 +343,6 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 	}
 	//console.log(JSON.stringify(mydata).replace(/},{/g,"},\n\n{"));		
 }
-filterScatterPlots();
 }
 
 
@@ -609,7 +497,14 @@ populateTimelines();
 
 
 function populateTimelines() {
-console.clear();
+
+var playersToFocus = [];
+for(var ii=0; ii<playerSelect.options.length; ii++) {
+	if(playerSelect.options[ii].selected) {
+		playersToFocus.push(playerSelect.options[ii].value);
+	}
+}
+
 var numGames = d3.max(poloData.map( (d) => { return d.Game; }));
 for(var nn=0; nn<6; nn++) {
 	var timeline = timelines[nn];
@@ -635,6 +530,10 @@ for(var nn=0; nn<6; nn++) {
 		
 			//console.log("\n\nQuarter: "+quarterNum);
 			var quarter = quarters[nn][quarterNum-1];
+			var dots = quarter.selectAll(".shotIcon")
+				.data(gameNData);
+				dots.exit()
+					.remove();
 					
 			var areaWin = d3.area()
 				.curve(d3.curveStepAfter)
@@ -749,8 +648,19 @@ for(var nn=0; nn<6; nn++) {
 
 
 //  Shot icons
+		function iconColor(d) {
+			if(d.Team===currTeamCode) {
+				if(playersToFocus.includes(d.Player)) {
+					return "red";
+				} else {
+					return USAColor;
+				}
+			} else {
+				return OpponentColor;
+			}
+		}
+		
 		quarter.selectAll(".shotIcon").remove();
-	
 		var dots = quarter.selectAll(".shotIcon")
 			.data(gameNData);
 			
@@ -758,15 +668,13 @@ for(var nn=0; nn<6; nn++) {
 			.append("circle")
 			.attr("class","shotIcon")
 			.attr("cx", (d) => { return quarterTime(d.Seconds); })
-			.attr("stroke", (d) => { return (d.Team===currTeamCode?USAColor:OpponentColor); })
+			.attr("stroke", iconColor)
 			.attr("cy", (d) => {
 				var mysign = (d.Team===currTeamCode?1:-1);
 				var isGoal = (d.Goal===1);
 			return success(mysign*shotIconDisplayLevel);
 			})
-			.attr("stroke-width",1)
-			.attr("r",3.5)
-			.attr("fill", (d) => { return (d.Goal===1?(d.Team===currTeamCode?USAColor:OpponentColor):"transparent"); })
+			.attr("fill", (d) => { return (d.Goal===1?iconColor(d):"transparent"); })
 			.on("mouseover", function(d) {
 				tooltip.transition()
 				.duration(200)
@@ -846,82 +754,85 @@ for(var nn=0; nn<shotTypes.length; nn++) {
     var ratio = totalShotsAttempted / totalShotsMade;
     //console.log(shots(ratio));
     chart.selectAll("path").remove()
-    var lines = chart.append("path")
+    var averageLines = chart.append("path")
       .data(myData)
       .attr("d", "M " + 0 + " " + probability(ratio) + " L " + scatterWidth + " " + probability(ratio))
       .attr("stroke", "grey");
 
-		var t = d3.transition()
-			.duration(200);
+	var t = d3.transition()
+		.duration(200);
 
-		chart.select(".axisX")
-			.transition(t)
-			.call(d3.axisBottom(shots)
-				.tickFormat(d3.format("d")).ticks(2).tickSizeOuter(0));
+	chart.select(".axisX")
+		.transition(t)
+		.call(d3.axisBottom(shots)
+			.tickFormat(d3.format("d")).ticks(2).tickSizeOuter(0));
 
-		mydots.exit()
-			.transition("exit")
+	mydots.exit()
+		.transition("exit")
+		.duration(200)
+		.remove();
+
+	//console.log(JSON.stringify(mydots.enter()));
+
+	mydots.transition("update")
+		.attr("r", (d) => { return 3*Math.sqrt(d.numPlayers); })
+		.attr("cx", (d) => {
+			return shots(d.coord[0]);
+		})
+		.attr("cy", (d) => {
+			return probability(d.coord[1]/d.coord[0]);  // attempted over made
+		});
+
+	mydots.enter().append("circle")
+		.attr("class", "scatterdot")
+		.attr("r", (d) => { return 3*Math.sqrt(d.numPlayers); })
+		.attr("cx", (d) => {
+			return shots(d.coord[0]);
+		})
+		.attr("cy", (d) => {
+			return probability(d.coord[1]/d.coord[0]);
+		})
+		.on("mouseover", function(d) {
+			tooltip.transition()
 			.duration(200)
-			.remove();
-
-		//console.log(JSON.stringify(mydots.enter()));
-
-		mydots.transition("update")
-			.attr("r", (d) => { return 3*Math.sqrt(d.numPlayers); })
-			.attr("cx", (d) => {
-				return shots(d.coord[0]);
-			})
-			.attr("cy", (d) => {
-				return probability(d.coord[1]/d.coord[0]);  // attempted over made
-			});
-
-		mydots.enter().append("circle")
-			.attr("class", "scatterdot")
-			.attr("opacity",.4)
-			.attr("r", (d) => { return 3*Math.sqrt(d.numPlayers); })
-			.attr("cx", (d) => {
-				return shots(d.coord[0]);
-			})
-			.attr("cy", (d) => {
-				return probability(d.coord[1]/d.coord[0]);
-			})
-			.on("mouseover", function(d) {
-				tooltip.transition()
-				.duration(200)
-				.style("opacity", 1.0);
-				tooltip.html("Made: " + d.coord[1]+"/"+d.coord[0]+"<ul><li>"+d.players.join("</li><li>")+"</li></ul>")
-				.style("left", (d3.event.pageX + 5) + "px")
-				.style("top", (d3.event.pageY - 28) + "px");
-			})
-			.on("mouseout", function(d) {
-				tooltip.transition()
-				.duration(500)
-				.style("opacity", 0);
-			});
+			.style("opacity", 1.0);
+			tooltip.html("Made: " + d.coord[1]+"/"+d.coord[0]+"<ul><li>"+d.players.join("</li><li>")+"</li></ul>")
+			.style("left", (d3.event.pageX + 5) + "px")
+			.style("top", (d3.event.pageY - 28) + "px");
+		})
+		.on("mouseout", function(d) {
+			tooltip.transition()
+			.duration(500)
+			.style("opacity", 0);
+		});
 }
 }
 
-var toggler = document.getElementById("toggler");
-toggler.addEventListener("click", function() {
+function drawAll() {
+	players = d3.nest()
+	.key( (d) => { return d.Player; } )
+	.entries(shotData)
+	.map( (d) => {
+		return d.key;
+	});
+	
+	populateSelectors();
+	
 	filterScatterPlots();
-});
+	populateTimelines();
+}
+drawAll();
 
-var teamSelect = document.getElementById("teamSelector");
 teamSelect.addEventListener("change", function() {
 	currTeam = teamSelect.selectedIndex;
 	currTeamCode = teamCodes[currTeam];
 	poloData = allPoloDatas[currTeam];
 	shotData = allShotSummaryDatas[currTeam];
 	
-	
-	players = d3.nest()
-		.key( (d) => { return d.Player; } )
-		.entries(shotData)
-		.map( (d) => {
-			return d.key;
-		});
-	
-	filterScatterPlots();
+	drawAll();
+});
+
+playerSelect.addEventListener("change", function() {
 	populateTimelines();
 });
 
