@@ -15,16 +15,33 @@
 # 								Parameters
 # ----------------------------------------------------------------------------
 
-num_games             = 48			# Total number of games in the data set
-base_prefix           = "data/raw/W"		# 
-base_postfix          = "hr.pdf"
-team_game_table_fname = "data/team-file_pairings.csv"
+# num_games             = 48			# Total number of games in the data set
+# base_prefix           = "data/raw/W"		# 
+# base_postfix          = "hr.pdf"
+# game_list_filename = "data/team-game_pairings.csv"
 
 # ----------------------------------------------------------------------------
 
 
 import pandas as pd
 from tabula import read_pdf
+import sys
+
+# 
+# Read in file names and parameters from the command line
+# 
+
+# Check that the correct number of arguments are passed
+assert len(sys.argv) == 6, "Error, %d arguments passed to %s, but 5 are required!" %(len(sys.argv)-1,sys.argv[0])
+
+# Read in the arguments
+base_prefix        = sys.argv[1]			# Start of pdf file names
+base_postfix       = sys.argv[2] + ".pdf"	# End of pdf file names
+num_games          = int(sys.argv[3])		# Total games in the data set
+game_list_filename = sys.argv[4]			# Where to output game list
+sex 			   = sys.argv[5]
+
+base_prefix 	   = base_prefix + "/" + sex
 
 # Reads in and cleans up a single pdf file
 def clean_file(f_name):
@@ -67,7 +84,7 @@ def clean_file(f_name):
 # Fix the column names (they get broken up strangely by the converter)
 def fix_names(df):
 	if "Score Team Cap" in df.columns or "Score Team Cap.1" in df.columns:
-		# Check if right-hand df and if so, prime names for next step
+		# Check if looking at right-hand df and if so, prime names for next step
 		if "Period.1" in df.columns:
 			df = df.rename(
 				index=str,
@@ -119,9 +136,29 @@ def read_pdf_improved(f_name):
 	all_tables = read_pdf(f_name,pages="1-2",multiple_tables=True)
 	top_table  = read_pdf(f_name)
 
+	# pdb.set_trace()
+
 	if (all_tables[1].shape[1] == 12):		# The table does bleed over
 		all_tables[1].columns = top_table.columns
 		return pd.concat([top_table, all_tables[1].loc[1:]], axis=0, ignore_index=True)
+
+		# # Make sure the columns in the pg. 2 tables align with those in the pg. 1 tables
+		# top_cols = top_table.columns.values
+		# bot_cols = all_tables[1].columns.values
+		# def f(x):
+		# 	return str(x[bot_cols[3]]) + " " + str(x[bot_cols[4]])
+		# if pd.isnull(top_table[top_cols[3]][1]):
+		# 	if pd.isnull(all_tables[1][bot_cols[3]][1]):
+		# 		pass		# It already matches
+		# 	else: 			# We need to combine everything into column 4
+		# 		all_tables[1][bot_cols[3]] = all_tables[1].apply(lambda x: str(x[bot_cols[3]]) + " " + str(x[bot_cols[4]]))
+
+		# # Else the column contains country data
+		# elif len(str(top_table[top_cols[3]][1])) == 3:
+
+
+
+
 	else:
 		return top_table
 
@@ -155,15 +192,19 @@ def infer_home_and_away(df):
 # Loop over all the game pdfs, extract and clean up the tables, write as csv files.
 # Track which teams are associated with which file
 
-team_game_table_file = open(team_game_table_fname, 'w')
-team_game_table_file.write("Team 1,Team 2\n")
+game_list_file = open(game_list_filename, 'w')
+game_list_file.write("Team 1,Team 2\n")
 
+# teams = clean_file(base_prefix + "32" + base_postfix)
+
+
+# pdb.set_trace()
 
 # First 9 have a 0
 for n in xrange(1,10):
 	teams = clean_file(base_prefix + "0" + str(n) + base_postfix)
-	team_game_table_file.write("%s,%s\n" %(str(teams[0]),str(teams[1])))
+	game_list_file.write("%s,%s\n" %(str(teams[0]),str(teams[1])))
 
 for n in xrange(10,num_games+1):
 	teams = clean_file(base_prefix + str(n) + base_postfix)
-	team_game_table_file.write("%s,%s\n" %(str(teams[0]),str(teams[1])))
+	game_list_file.write("%s,%s\n" %(str(teams[0]),str(teams[1])))

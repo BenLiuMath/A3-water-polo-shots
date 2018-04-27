@@ -1,22 +1,28 @@
 # This script generates csv and json files summarizing each player's shots
 # in each game
 
+import pandas as pd
+import sys
+
 # ----------------------------------------------------------------------------
 # 								Parameters
 # ----------------------------------------------------------------------------
 
+assert len(sys.argv) == 4, "Error, %d arguments passed to %s, but 3 are required!" %(len(sys.argv)-1,sys.argv[0])
 
-team_of_interest = "BRA"
-input_filename  = "data/processed/" + team_of_interest + "/W_" + team_of_interest + "_shots_processed"
-output_filename = "data/processed/" + team_of_interest + "/W_" + team_of_interest + "_shots_summary"
+team_of_interest = sys.argv[1]
+input_filename   = sys.argv[2]
+output_filename  = sys.argv[3]
+
+# team_of_interest = "BRA"
+# input_filename  = "data/processed/" + team_of_interest + "/W_" + team_of_interest + "_shots_processed"
+# output_filename = "data/processed/" + team_of_interest + "/W_" + team_of_interest + "_shots_summary"
 
 # ----------------------------------------------------------------------------
 
-import pandas as pd
-import pdb
 
 # Read in the data
-df_in = pd.read_csv(input_filename + '.csv')
+df_in = pd.read_csv(input_filename)
 
 # Filter out data from other teams
 df_in = df_in[df_in['Team'] == team_of_interest]
@@ -39,11 +45,10 @@ df['Total attempted'] = total_attempts
 df['Total made']      = total_made
 
 # Output the data to a csv file
-df.to_csv(output_filename + ".csv")
+df.to_csv(output_filename)
 
 # Read in csv file we just created to fill in the hierarchical indices
-df = pd.read_csv(output_filename + ".csv")
-# pdb.set_trace()
+df = pd.read_csv(output_filename)
 
 # Write to a JSON file
-df.to_json(output_filename + ".json", orient="records")
+df.to_json(output_filename[:-3] + "json", orient="records")

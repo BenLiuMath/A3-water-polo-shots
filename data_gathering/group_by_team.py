@@ -2,23 +2,40 @@
 # csv file with additional fields: Game, Opponent, and Opponent name
 
 import pandas as pd
+import sys
 
 # ---------------------------------------------------------------------
 # 						Parameters
 # ---------------------------------------------------------------------
-# Which games to concatenate
-team_of_interest      = "USA"	      					# Team we're interested in
-output_filename       = "data/processed/" + team_of_interest + "/W_" + team_of_interest
-shots_only_filename   = "data/processed/" + team_of_interest + "/W_" + team_of_interest + "_shots"
-base_prefix           = "data/raw/W"
-base_postfix          = "hr.csv"
-team_game_table_fname = "data/team-file_pairings.csv"
+# # Which games to concatenate
+# team_of_interest     = "USA"	      					# Team we're interested in
+# all_actions_filename = "data/processed/" + team_of_interest + "/W_" + team_of_interest
+# shots_only_filename  = "data/processed/" + team_of_interest + "/W_" + team_of_interest + "_shots"
+# base_prefix          = "data/raw/W"
+# base_postfix         = "hr.csv"
+# game_list_filename   = "data/team-game_pairings.csv"
+
+
+# Check that the correct number of arguments are passed
+assert len(sys.argv) == 8, "Error, %d arguments passed to %s, but 7 are required!" %(len(sys.argv)-1,sys.argv[0])
+
+# Read in the arguments
+team_of_interest     = sys.argv[1]
+all_actions_filename = sys.argv[2]
+shots_only_filename  = sys.argv[3]
+base_prefix          = sys.argv[4]
+base_postfix         = sys.argv[5] + ".csv"
+game_list_filename   = sys.argv[6]
+sex                  = sys.argv[7]
+
+base_prefix 		 = base_prefix + "/" + sex
+
 
 # ---------------------------------------------------------------------
 
 
 # Figure out which games the team of interest played in
-all_games = pd.read_csv(team_game_table_fname)
+all_games = pd.read_csv(game_list_filename)
 game_list = all_games[(all_games['Team 1'] == team_of_interest) | (all_games['Team 2'] == team_of_interest)].index.values + 1
 
 # # Games that various womens teams played in
@@ -73,14 +90,14 @@ for game_number in game_list:
 	game += 1
 
 # Save the results
-df_global.to_csv(output_filename + ".csv", index=False)
-df_global.to_json(output_filename + ".JSON", orient="records")
+df_global.to_csv(all_actions_filename, index=False)
+df_global.to_json(all_actions_filename[:-4] + ".json", orient="records")
 
 
 # Create a csv file with just the column names
 df_temp = pd.DataFrame(columns=df_global.columns)
-df_temp.to_csv(shots_only_filename + ".csv", index=False)
+df_temp.to_csv(shots_only_filename, index=False)
 
 # To isolate the lines that contain a shot, run the following
 # command in the command line:
-#	grep "^.*\([Sh]ot\|[Cc]ounter attack\)" ***output_filename*** >> ***shots_only_filename***
+#	grep "^.*\([Sh]ot\|[Cc]ounter attack\)" ***all_actions_filename*** >> ***shots_only_filename***
