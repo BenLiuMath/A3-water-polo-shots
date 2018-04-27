@@ -266,14 +266,14 @@ function initializeData(newTeam) {
 	poloData = allPoloDatas[newTeam];
 	shotData = allShotSummaryDatas[newTeam];
 	numGames = d3.max(poloData.map( (d) => { return d.Game; }));
-	
+
 	/*
 	gameFilter = [];
 	for(var ii=0; ii<numGames; ii++) {
 		gameFilter[ii] = false;
 	}
 	*/
-	
+
 	players = d3.nest()
 	.key( (d) => { return d.Player; } )
 	.entries(shotData)
@@ -369,7 +369,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.attr("width", scatterWidth)
 		.attr("height", scatterHeight)
 		.attr("transform", `translate(${nn*(scatterWidth+scatterPadding)-30}, 10)`);
-	
+
   scatterCharts[nn] = scatterChart;
 
 	scatterChart.append("g")
@@ -389,7 +389,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.text(shotTypesDecode[nn]);
 
 	// Label first y-axis and give ticks
-	
+
   if(nn === 0) {
 		scatterChart.append("g")
 			.attr("class", "axis axis--y")
@@ -458,12 +458,20 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 	totalShotsMade = Math.max(totalShotsMade,1); // Avoid divide-by-zero
     //console.log(shotData);
     ratios =  totalShotsAttempted / totalShotsMade;
-    chart.selectAll(".ratioLine").remove();
+
+    // Remove existing lines
+    chart.selectAll(".ratioLine")
+    // .transition()
+    // .duration(200)
+    .style("opacity", 0.0)
+    .remove();
+
     var averageLines = chart.selectAll(".ratioLine")
 		.data([ratios])  // data is a singleton array with # shots made / # shots for the current team and scatterplot
 		.enter()
 		.append("path")
 		.attr("class","ratioLine")
+    .style("opacity", 0.0)
     // draw a line at (0, ratio) to (x-axis-length, ratio)
 		.attr("d", "M " + 0 + " " + probability(ratios) + " L " + scatterWidth + " " + probability(ratios))
     .on("mouseover", function(d) {
@@ -482,6 +490,10 @@ for(var nn=0; nn<shotTypes.length; nn++) {
       .style("opacity", 0);
     });
 
+    averageLines.transition()
+       .duration(200)
+       .style("opacity", 1.0);
+
 	var t = d3.transition()
 		.duration(300);
 
@@ -490,7 +502,9 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.call(d3.axisBottom(shots)
 			.tickFormat(d3.format("d")).ticks(2).tickSizeOuter(0));
 
-	chart.selectAll(".scatterdot")
+	chart.selectAll(".scatterdot").transition()
+    .duration(500)
+    .style("opacity", 0.0)
 		.remove();
 
     var mydots = chart.selectAll(".scatterdot")
@@ -498,14 +512,20 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.enter()
 		.append("circle")
 		.attr("class", "scatterdot")
+    .style("opacity", 0.0)
 		.attr("r", (d) => { return 4*Math.sqrt(d.numPlayers); })
 		.attr("cx", (d) => {
 			return shots(d.coord[0]);
 		})
 		.attr("cy", (d) => {
 			return probability(d.coord[1]/d.coord[0]);
-		})
-		.on("mouseover", function(d) {
+		});
+
+    mydots.transition()
+      .duration(500)
+      .style("opacity", 0.55);
+
+		mydots.on("mouseover", function(d) {
 			tooltip.transition()
 			.duration(200)
 			.style("opacity", 1.0);
@@ -518,6 +538,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 			.duration(500)
 			.style("opacity", 0);
 		});
+
 }
 }
 
