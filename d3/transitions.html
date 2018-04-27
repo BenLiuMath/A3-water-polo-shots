@@ -43,9 +43,8 @@ h1{
     fill:#4056a1;
 }
 .shotIconOpponentTeam {
-    stroke:#f13c20;
-    fill:#f13c20;
-    opacity:0.8;
+    stroke:#F4634D;
+    fill:#F4634D;
 }
 .shotIconFocalPlayer {
     stroke: #CCAA00;
@@ -207,16 +206,16 @@ var allShotSummaryDatas = [shotSummaryUSA, shotSummaryBRA, shotSummaryESP];
 
 // Sizing and Styling
 {
-var margin = {top: 30, right: 100, bottom: 60, left: 110};
+var margin = {top: 10, right: 100, bottom: 60, left: 110};
 
 var scatterWidth, scatterHeight = 150;
 var scatterPadding = 30;
-var scatterTimelinePadding = 110;
+var scatterTimelinePadding = 100;
 
-var timelineHeight = 80;
-var timelineQuarterWidth = 180;
+var timelineHeight = 60;
+var timelineQuarterWidth = 160;
 var timelineInternalPadding = 20;
-var timelineVerticalPadding = 10;
+var timelineVerticalPadding = 5;
 var timelineWidth = 4*timelineQuarterWidth + 3*timelineInternalPadding;
 
 var widthFull = margin.left + margin.right + 4*timelineQuarterWidth + 3*timelineInternalPadding;
@@ -449,18 +448,18 @@ function initializeScatterCharts() {
 	  scatterCharts[nn] = scatterChart;
 
 		scatterChart.append("g")
-			.attr("class", "axisX")
+			.attr("class", "axis axisX")
 			.attr("transform", `translate(0, ${scatterHeight})`)
 			.call(d3.axisBottom(shots)
 				.tickFormat(d3.format("d"))
-				.ticks(4).tickSizeOuter(0));
+				.ticks(0).tickSizeOuter(0));
 
 		scatterChart.append("text")
 			.attr("class","axisLabel")
 			.attr("transform",
 				"translate(" + (scatterWidth/2) + " ," +
 							   (scatterHeight + 12) + ")")
-			.attr("dy","2em")
+			.attr("dy","1.5em")
 			.style("text-anchor", "middle")
 			.text(shotTypesDecode[nn]);
 
@@ -475,7 +474,7 @@ function initializeScatterCharts() {
 					.tickSizeOuter(0));
 
 			scatterChart.append("text")
-			 .attr("class", "axisLabel")
+			.attr("class", "axisLabel")
 			.attr("transform", "rotate(-90)")
 				  .attr("y",-65)
 				  .attr("x",0 - (scatterHeight / 2))
@@ -666,7 +665,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
         .transition()
         .delay(100)
         .duration(200)
-        .style("opacity",1);
+        .style("opacity",0.55);
 }
 }
 
@@ -700,9 +699,9 @@ function initializeTimelines() {
 	for(var quarterNum=1; quarterNum<=4; quarterNum++) {
 		timelineGroup.append("text")
 			.attr("class","axisLabel")
-			.attr("y",- 20)
+			.attr("y",0)
 			.attr("x",timelineQuarterWidth/2 + (quarterNum-1)*(timelineQuarterWidth+timelineInternalPadding))
-			.attr("dy","1em")
+			.attr("dy","-.5em")
 			.style("text-anchor", "middle")
 			.text("Quarter "+quarterNum);
 	}
