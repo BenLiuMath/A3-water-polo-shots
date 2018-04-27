@@ -26,10 +26,10 @@ $(GAME_LIST_FILE) : $(EXTRACT_TABLES_SRC) $(PDF_FILES) variables.mk
 	python $(EXTRACT_TABLES_SRC) $(RAW_PATH) $(PDF_TYPE) $(NUM_GAMES) $(GAME_LIST_FILE) $(SEX)
 
 
-# Generate files summarizing all actions and just the shots for a given team
+# Generate file summarizing all actions and another of just the shots for a given team
 # $(SHOTS_FILE) $(ALL_ACTIONS_FILE) : $(GROUP_BY_TEAM_SRC) $(CSV_FILES) $(GAME_LIST_FILE) $(SPLIT_ACTION_COL_SRC) paths.mk
 $(SHOTS_FILE) $(ALL_ACTIONS_FILE) : $(GROUP_BY_TEAM_SRC) $(GAME_LIST_FILE) $(SPLIT_ACTION_COL_SRC) paths.mk
-	python $(GROUP_BY_TEAM_SRC) $(TEAM) $(ALL_ACTIONS_FILE) $(SHOTS_FILE) $(RAW_PATH) $(PDF_TYPE) $(GAME_LIST_FILE) $(SEX)
+	python $(GROUP_BY_TEAM_SRC) $(TEAM) $(ALL_ACTIONS_FILE) $(SHOTS_FILE) $(RAW_PATH) $(PDF_TYPE) $(GAME_LIST_FILE) $(SEX) $(TEAM_PATH)
 	grep "^.*\([Sh]ot\|[Cc]ounter attack\)" $(ALL_ACTIONS_FILE) >> $(SHOTS_FILE)
 	python $(SPLIT_ACTION_COL_SRC) $(SHOTS_FILE) 
 

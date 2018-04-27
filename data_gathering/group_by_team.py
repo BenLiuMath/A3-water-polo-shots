@@ -3,6 +3,7 @@
 
 import pandas as pd
 import sys
+import os
 
 # ---------------------------------------------------------------------
 # 						Parameters
@@ -17,7 +18,7 @@ import sys
 
 
 # Check that the correct number of arguments are passed
-assert len(sys.argv) == 8, "Error, %d arguments passed to %s, but 7 are required!" %(len(sys.argv)-1,sys.argv[0])
+assert len(sys.argv) == 9, "Error, %d arguments passed to %s, but 8 are required!" %(len(sys.argv)-1,sys.argv[0])
 
 # Read in the arguments
 team_of_interest     = sys.argv[1]
@@ -27,6 +28,7 @@ base_prefix          = sys.argv[4]
 base_postfix         = sys.argv[5] + ".csv"
 game_list_filename   = sys.argv[6]
 sex                  = sys.argv[7]
+team_path 			 = sys.argv[8]
 
 base_prefix 		 = base_prefix + "/" + sex
 
@@ -88,6 +90,11 @@ for game_number in game_list:
 
 	df_global = df_global.append(df,ignore_index=True)
 	game += 1
+
+
+# Check whether directory exists yet for this team. If not, create one
+if not os.path.exists(team_path):
+	os.makedirs(team_path)
 
 # Save the results
 df_global.to_csv(all_actions_filename, index=False)
