@@ -118,6 +118,32 @@ ul {
     padding: 0;
 }
 
+
+#roster { font-size:10pt; }
+#roster input {
+    opacity:0.5;
+    display:none;
+}
+
+#roster ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#roster label {
+    cursor:pointer;
+    display:inline;
+}
+#roster label::before{
+    display:inline-block;
+    width:15px;
+    content: " ";
+}
+#roster input[type=checkbox]:checked + label::before {
+    content: "\25CF";
+    color:#CCAA00;
+}
 </style>
 <body>
 <svg id="poloVis"></svg>
@@ -133,10 +159,7 @@ Select a team:
 <br/><br/>
 Select a player to highlight their contributions:
 <br/>
-<select multiple="multiple" style="height:20em; width:15em; display:none; " id="playerSelector"></select>
-
-<br/>
-<div id="roster">b</div>
+<div id="roster"></div>
 
 <br/><br/>
 Hover over data<br/>to see details.
@@ -208,7 +231,6 @@ scatterWidth = (timelineWidth - 4*scatterPadding)/5;
 */
 {
 var teamSelect = document.getElementById("teamSelector");
-var playerSelect = document.getElementById("playerSelector");
 
 var svg = d3.select("#poloVis")
     .attr("width", widthFull)
@@ -289,27 +311,44 @@ function initializeData(newTeam) {
 
 function populateSelectors() {
 
-	for(opt in playerSelect.options) {
-		playerSelect.options.remove(0);
-	}
 	var roster = document.getElementById("roster");
 	roster.innerHTML = "";
+    var ul = document.createElement("ul");
+    roster.append(ul);
 
+    /*
+    
+    <li>
+<input type="checkbox" id="tog1">
+<label for="tog1">Player 1</label>
+</li>
+*/
+    
 	players.forEach( function(player) {
-		var opt = document.createElement("option");
-		opt.text = player;
-		opt.label = toTitleCase(player);
-		playerSelect.add(opt);
-		playerSelectOpts[player] = opt;
 
+        var li = document.createElement("li");
+        var check = document.createElement("input");
+        check.type="checkbox";
+        check.id="toggle"+player;
+        li.appendChild(check);
+        var lab = document.createElement("label");
+        lab.htmlFor="toggle"+player;
+        lab.appendChild(document.createTextNode(toTitleCase(player)));
+        lab.addEventListener("click", function() {
+			togglePlayer(player);
+		});
+        li.appendChild(lab);
+        ul.appendChild(li);
+    /*
 		var myA = document.createElement("a");
 		myA.href = "#";
 		myA.addEventListener("click", function() {
 			togglePlayer(player);
 		});
-		myA.appendChild(document.createTextNode(player));
+		myA.appendChild(document.createTextNode(toTitleCase(player)));
 		roster.appendChild(myA);
 		roster.appendChild(document.createElement("br"));
+        */
 	});
 }
 }
@@ -1027,9 +1066,6 @@ teamSelect.addEventListener("change", function() {
   // console.log("Current team is " + currTeamCode);
 });
 
-playerSelect.addEventListener("change", function() {
-	populateTimelines();
-});
 
 </script>
 </body>
