@@ -49,8 +49,8 @@ h1{
     opacity:0.8;
 }
 .shotIconFocalPlayer {
-    stroke: #FFD800;
-    fill: #FFD800;
+    stroke: #CCAA00;
+    fill: #CCAA00;
 	r:6px !important;
 }
 .shotIconMiss {
@@ -60,7 +60,7 @@ h1{
 .ratioLine {
 	stroke: rosybrown;
 	shape-rendering: crispEdges;
-	stroke-width:2px;
+	stroke-width:4px;
 }
 
 .scatterdot {
@@ -94,6 +94,7 @@ h1{
   background: cornsilk;
   pointer-events: none;
   padding:5px;
+  border: BlanchedAlmond 1px solid;
 }
 
 .areaWin {
@@ -115,8 +116,8 @@ ul {
 #gameSelector { display:none; }
 </style>
 <body>
-
-<div style="position: absolute; top:15px; right:60px;" >
+<svg id="poloVis"></svg>
+<div style="display:inline-block; vertical-align:top; ">
 
 <h1>Women's<br/>Water Polo<br/>Statistics</h1>
 <h3>2017 FINA World<br/>Championships</h3>
@@ -132,7 +133,7 @@ Select a team:
 
 Select a player to <br>highlight their <br>contributions:
 <br/><br/>
-<select multiple="multiple" style="height:20em; " id="playerSelector">
+<select multiple="multiple" style="height:20em; width:15em; " id="playerSelector">
 </select>
 
 <br/><br/>
@@ -205,8 +206,9 @@ scatterWidth = (timelineWidth - 4*scatterPadding)/5;
 var teamSelect = document.getElementById("teamSelector");
 var gameSelect = document.getElementById("gameSelector");
 var playerSelect = document.getElementById("playerSelector");
+var playerSelectOpts = {};
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#poloVis")
     .attr("width", widthFull)
     .attr("height", heightFull)
 	//.attr("style","background:red;")
@@ -262,6 +264,7 @@ function populateSelectors() {
 		var opt = document.createElement("option");
 		opt.text = player;
 		playerSelect.add(opt);
+		playerSelectOpts[player] = opt;
 	});
 }
 
@@ -483,6 +486,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 			tooltip.transition()
 			.duration(200)
 			.style("opacity", 1.0);
+			//playerSelectOpts
 			tooltip.html("Made: " + d.coord[1]+"/"+d.coord[0]+'<ul><li> <img style="width:15px;height:9px;" src="img/' + currTeamCode + '.png"></img>' +d.players.join('</li><li><img style="width:15px;height:9px;" src="img/' + currTeamCode + '.png"></img>')+"</li></ul>")
 			.style("left", (d3.event.pageX + 5) + "px")
 			.style("top", (d3.event.pageY - 28) + "px");
@@ -646,7 +650,7 @@ for(var nn=0; nn<6; nn++) {
 populateTimelines();
 
 function populateTimelines() {
-
+console.clear();
 var playersToFocus = [];
 for(var ii=0; ii<playerSelect.options.length; ii++) {
 	if(playerSelect.options[ii].selected) {
@@ -819,7 +823,7 @@ for(var nn=0; nn<6; nn++) {
 		var dots = quarter.selectAll(".shotIcon")
 			.data(gameNData);
 
-    console.log(gameNData)
+		//console.log(gameNData)
 		dots.enter()
 			.append("circle")
 			.attr("class",classNames)
