@@ -244,7 +244,7 @@ var shotData = allShotSummaryDatas[currTeam];
 //console.log(JSON.stringify(shotData).replace(/},{/g,"},\n\n{"));
 var playerSelectOpts = {};
 var players = [];
-var gameFilter = [];
+var gameFilter = [0,0,0,0,0,0];
 
 function toTitleCase(text) {
   // Assumes data comes in the form "LASTNAME FIRSTINITIAL"
@@ -267,10 +267,12 @@ function initializeData(newTeam) {
 	shotData = allShotSummaryDatas[newTeam];
 	numGames = d3.max(poloData.map( (d) => { return d.Game; }));
 	
+	/*
 	gameFilter = [];
 	for(var ii=0; ii<numGames; ii++) {
 		gameFilter[ii] = false;
 	}
+	*/
 	
 	players = d3.nest()
 	.key( (d) => { return d.Player; } )
@@ -753,7 +755,8 @@ for(var nn=0; nn<6; nn++) {
 
 	var maxScore = d3.max(poloData, (d) => {
 		if(d.Game===gameNum) {
-			return Math.abs(d[currTeamCode] - d.Opponent);
+			//return Math.abs(d[currTeamCode] - d.Opponent);
+			return Math.max(d[currTeamCode], d.Opponent);
 		} else {
 			return 0;
 		}
@@ -801,13 +804,15 @@ for(var nn=0; nn<6; nn++) {
 			.curve(d3.curveStepAfter)
 			.x( (d) => { return quarterTime(d.Seconds); })
 			.y0( (d) => { return success(0); })
-			.y1( (d) => { return success(d3.max([(d[currTeamCode]-d.Opponent)/maxScore,0])); });
+			.y1( (d) => { return success(d3.max([(d[currTeamCode])/maxScore,0])); });
+			//.y1( (d) => { return success(d3.max([(d[currTeamCode] - d.Opponent)/maxScore,0])); });
 
 		var areaLose = d3.area()
 			.curve(d3.curveStepAfter)
 			.x( (d) => { return quarterTime(d.Seconds); })
 			.y0( (d) => { return success(0); })
-			.y1( (d) => { return success(d3.min([(d[currTeamCode]-d.Opponent)/maxScore,0])); });
+			.y1( (d) => { return success(-d3.max([(d.Opponent)/maxScore,0])); });
+			//.y1( (d) => { return success(d3.min([(D[currTeamCode] - d.Opponent)/maxScore,0])); });
 
 		var scoreLineWin = quarter.selectAll(".areaWin")
 			.data([myGoals])
