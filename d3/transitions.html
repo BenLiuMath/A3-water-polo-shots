@@ -62,6 +62,7 @@ h1{
 	shape-rendering: crispEdges;
 	stroke-width:2px;
 }
+
 .scatterdot {
 	stroke: none;
     fill: darkblue;
@@ -243,7 +244,7 @@ var currTeamCode = teamCodes[currTeam];
 var poloData = allPoloDatas[currTeam];
 var shotData = allShotSummaryDatas[currTeam];
 
-console.log(JSON.stringify(shotData).replace(/},{/g,"},\n\n{"));
+//console.log(JSON.stringify(shotData).replace(/},{/g,"},\n\n{"));
 var players = [];
 
 
@@ -310,8 +311,10 @@ function groupPlayerShotStatistics(data,shotType) {
 
 
 
+/////////////////////////////
+// BEGIN SCATTERCHART CODE //
+/////////////////////////////
 
-// Scatter charts
 {
 var jitter = 0;
 // probability function for plotting y-values on the charts
@@ -332,7 +335,8 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.attr("width", scatterWidth)
 		.attr("height", scatterHeight)
 		.attr("transform", `translate(${nn*(scatterWidth+scatterPadding)-30}, 10)`);
-	scatterCharts[nn] = scatterChart;
+	
+  scatterCharts[nn] = scatterChart;
 
 	scatterChart.append("g")
 		.attr("class", "axisX")
@@ -351,7 +355,8 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.text(shotTypesDecode[nn]);
 
 	// Label first y-axis and give ticks
-	if(nn === 0) {
+	
+  if(nn === 0) {
 		scatterChart.append("g")
 			.attr("class", "axis axis--y")
 			.call(d3.axisLeft(probability)
@@ -390,7 +395,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 	var chart = scatterCharts[nn];
 		//mydots.attr("class","scatterdot focused");
 
-
+  //console.log(shotData[0].Game);
 	var myShotData = aggregateShotDataByPlayer(shotData.filter((d) => { return gamesToFilter.includes(d.Game); }));
 	var myGroupedData = groupPlayerShotStatistics(myShotData,shotTypes[nn]);
 	var myData = myGroupedData.filter( (d) => {
@@ -422,7 +427,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
       totalShotsMade += myData[i].coord[0];
       totalShotsAttempted += myData[i].coord[1];
     }
-    //console.log(maxShotsMade);
+    //console.log(shotData);
     var ratio = totalShotsAttempted / totalShotsMade;
     //console.log(shots(ratio));
     chart.selectAll(".ratioLine").remove();
@@ -431,12 +436,15 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.enter()
 		.append("path")
 		.attr("class","ratioLine")
+    // draw a line at (0, ratio) to (x-axis-length, ratio)
 		.attr("d", "M " + 0 + " " + probability(ratio) + " L " + scatterWidth + " " + probability(ratio))
     .on("mouseover", function(d) {
       tooltip.transition()
       .duration(200)
       .style("opacity", 1.0);
-      tooltip.html("Team: ?/?")
+      // currTeamCode stores the current team
+      // tooltip.content() potentially make a flag instead of Team: USA etc.
+      tooltip.html(currTeamCode + " Average Success: " + ratio.toFixed(4))
       .style("left", (d3.event.pageX -5) + "px")
       .style("top", (d3.event.pageY -20) + "px");
     })
@@ -487,7 +495,9 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 
 }
 
-// Timeline
+/////////////////////////////
+// BEGIN TIMELINE CODE //
+/////////////////////////////
 {
 var shotIconDisplayLevel = .25;
 
@@ -864,7 +874,7 @@ teamSelect.addEventListener("change", function() {
 	currTeamCode = teamCodes[currTeam];
 	poloData = allPoloDatas[currTeam];
 	shotData = allShotSummaryDatas[currTeam];
-
+  // console.log("Current team is " + currTeamCode);
 	drawAll();
 });
 
