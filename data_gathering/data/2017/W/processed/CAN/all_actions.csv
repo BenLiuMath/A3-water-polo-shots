@@ -1,0 +1,860 @@
+Action,CAN,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,0,1.0,1,0,ITA,1.0,GORLERO G,0 - 0,480,ITA,8:00
+Starting goalkeeper,0,1.0,1,0,ITA,1.0,GAUDREAULT J,0 - 0,480,CAN,8:00
+Sprint won possession,0,5.0,1,0,ITA,1.0,EGGENS M,0 - 0,480,CAN,8:00
+Action shot - Saved,0,12.0,1,0,ITA,1.0,FOURNIER S,0 - 0,455,CAN,7:35
+Action shot - Post,0,5.0,1,0,ITA,1.0,RADICCHI F,0 - 0,426,ITA,7:06
+Centre shot - Saved,0,5.0,1,0,ITA,1.0,EGGENS M,0 - 0,397,CAN,6:37
+Action shot - Blocked,0,5.0,1,0,ITA,1.0,RADICCHI F,0 - 0,369,ITA,6:09
+Penalty foul,0,6.0,1,0,ITA,1.0,AIELLO R,0 - 0,346,ITA,5:46
+Penalty shot - Goal,1,4.0,1,0,ITA,1.0,WRIGHT E,0 - 1,346,CAN,5:46
+Action shot - Saved,1,12.0,1,0,ITA,1.0,DARIO S,0 - 1,319,ITA,5:19
+Action shot - Saved,1,12.0,1,0,ITA,1.0,FOURNIER S,0 - 1,291,CAN,4:51
+Action shot - Saved,1,10.0,1,0,ITA,1.0,ROBINSON C,0 - 1,263,CAN,4:23
+Action shot - Goal,1,9.0,1,1,ITA,1.0,EMMOLO G,1 - 1,255,ITA,4:15
+Action shot - Goal,2,5.0,1,1,ITA,1.0,EGGENS M,1 - 2,235,CAN,3:55
+Action shot - Saved,2,2.0,1,1,ITA,1.0,TABANI C,1 - 2,213,ITA,3:33
+Action shot - Saved,2,8.0,1,1,ITA,1.0,BIANCONI R,1 - 2,196,ITA,3:16
+Action shot - Saved,2,6.0,1,1,ITA,1.0,CHRISTMAS K,1 - 2,183,CAN,3:03
+Action shot - Missed,2,8.0,1,1,ITA,1.0,BIANCONI R,1 - 2,157,ITA,2:37
+Action shot - Saved,2,5.0,1,1,ITA,1.0,EGGENS M,1 - 2,131,CAN,2:11
+20 sec. exclusion in centre,2,4.0,1,1,ITA,1.0,WRIGHT E,1 - 2,131,CAN,2:11
+Time-Out,2,,1,1,ITA,1.0,,1 - 2,131,CAN,2:11
+Extra player shot - Saved,2,8.0,1,1,ITA,1.0,BIANCONI R,1 - 2,122,ITA,2:02
+Centre shot - Saved,2,10.0,1,1,ITA,1.0,ROBINSON C,1 - 2,96,CAN,1:36
+Action shot - Saved,2,3.0,1,1,ITA,1.0,GARIBOTTI A,1 - 2,59,ITA,0:59
+Time-Out,2,,1,1,ITA,1.0,,1 - 2,49,ITA,0:49
+Starting goalkeeper,2,1.0,1,1,ITA,2.0,GORLERO G,1 - 2,480,ITA,8:00
+Starting goalkeeper,2,1.0,1,1,ITA,2.0,GAUDREAULT J,1 - 2,480,CAN,8:00
+Sprint won possession,2,5.0,1,1,ITA,2.0,EGGENS M,1 - 2,480,CAN,8:00
+Action shot - Saved,2,5.0,1,1,ITA,2.0,EGGENS M,1 - 2,460,CAN,7:40
+Action shot - Missed,2,7.0,1,1,ITA,2.0,PICOZZI D,1 - 2,432,ITA,7:12
+Action shot - Goal,2,8.0,1,2,ITA,2.0,BIANCONI R,2 - 2,375,ITA,6:15
+20 sec. exclusion in field,2,10.0,1,2,ITA,2.0,ROBINSON C,2 - 2,322,CAN,5:22
+Action shot - Saved,2,7.0,1,2,ITA,2.0,PICOZZI D,2 - 2,295,ITA,4:55
+Action shot - Saved,2,5.0,1,2,ITA,2.0,EGGENS M,2 - 2,268,CAN,4:28
+Action shot - Post,2,10.0,1,2,ITA,2.0,ROBINSON C,2 - 2,210,CAN,3:30
+5m shot - Saved,2,8.0,1,2,ITA,2.0,BIANCONI R,2 - 2,185,ITA,3:05
+Action shot - Saved,2,4.0,1,2,ITA,2.0,QUEIROLO E,2 - 2,139,ITA,2:19
+Turnover foul,2,4.0,1,2,ITA,2.0,WRIGHT E,2 - 2,85,CAN,1:25
+20 sec. exclusion in centre,2,11.0,1,2,ITA,2.0,McKEE K,2 - 2,79,CAN,1:19
+Action shot - Post,2,7.0,1,2,ITA,2.0,PICOZZI D,2 - 2,78,ITA,1:18
+Turnover foul,2,5.0,1,2,ITA,2.0,EGGENS M,2 - 2,60,CAN,1:00
+Action shot - Goal,2,8.0,1,3,ITA,2.0,BIANCONI R,3 - 2,34,ITA,0:34
+Yellow card,2,,1,3,ITA,2.0,Team Official,3 - 2,34,CAN,0:34
+Action shot - Missed,2,6.0,1,3,ITA,2.0,CHRISTMAS K,3 - 2,8,CAN,0:08
+Time-Out,2,,1,3,ITA,2.0,,3 - 2,8,ITA,0:08
+Action shot - Saved,2,8.0,1,3,ITA,2.0,BIANCONI R,3 - 2,1,ITA,0:01
+Starting goalkeeper,2,1.0,1,3,ITA,3.0,GORLERO G,3 - 2,480,ITA,8:00
+Starting goalkeeper,2,1.0,1,3,ITA,3.0,GAUDREAULT J,3 - 2,480,CAN,8:00
+Sprint won possession,2,8.0,1,3,ITA,3.0,BIANCONI R,3 - 2,480,ITA,8:00
+Turnover foul,2,8.0,1,3,ITA,3.0,BIANCONI R,3 - 2,451,ITA,7:31
+Steal,2,6.0,1,3,ITA,3.0,CHRISTMAS K,3 - 2,451,CAN,7:31
+Centre shot - Goal,2,4.0,1,4,ITA,3.0,QUEIROLO E,4 - 2,407,ITA,6:47
+Turnover foul,2,8.0,1,4,ITA,3.0,BIANCONI R,4 - 2,376,ITA,6:16
+Steal,2,12.0,1,4,ITA,3.0,FOURNIER S,4 - 2,376,CAN,6:16
+Action shot - Saved,2,5.0,1,4,ITA,3.0,EGGENS M,4 - 2,342,CAN,5:42
+20 sec. exclusion in centre,2,10.0,1,4,ITA,3.0,ROBINSON C,4 - 2,312,CAN,5:12
+Time-Out,2,,1,4,ITA,3.0,,4 - 2,311,ITA,5:11
+Extra player shot - Saved,2,8.0,1,4,ITA,3.0,BIANCONI R,4 - 2,294,ITA,4:54
+Action shot - Saved,2,12.0,1,4,ITA,3.0,FOURNIER S,4 - 2,264,CAN,4:24
+Action shot - Saved,2,9.0,1,4,ITA,3.0,McKELVEY H,4 - 2,237,CAN,3:57
+Action shot - Goal,2,8.0,1,5,ITA,3.0,BIANCONI R,5 - 2,213,ITA,3:33
+Centre shot - Saved,2,2.0,1,5,ITA,3.0,ALOGBO K,5 - 2,179,CAN,2:59
+Action shot - Missed,2,6.0,1,5,ITA,3.0,AIELLO R,5 - 2,167,ITA,2:47
+20 sec. exclusion in centre,2,5.0,1,5,ITA,3.0,EGGENS M,5 - 2,152,CAN,2:32
+Extra player shot - Saved,2,4.0,1,5,ITA,3.0,WRIGHT E,5 - 2,138,CAN,2:18
+Action shot - Saved,2,2.0,1,5,ITA,3.0,TABANI C,5 - 2,109,ITA,1:49
+Action shot - Saved,2,2.0,1,5,ITA,3.0,ALOGBO K,5 - 2,80,CAN,1:20
+Action shot - Goal,2,7.0,1,6,ITA,3.0,PICOZZI D,6 - 2,59,ITA,0:59
+Action shot - Saved,2,7.0,1,6,ITA,3.0,BEKHAZI J,6 - 2,37,CAN,0:37
+Action shot - Saved,2,12.0,1,6,ITA,3.0,DARIO S,6 - 2,10,ITA,0:10
+Time-Out,2,,1,6,ITA,3.0,,6 - 2,10,CAN,0:10
+Action shot - Saved,2,5.0,1,6,ITA,3.0,EGGENS M,6 - 2,1,CAN,0:01
+Starting goalkeeper,2,1.0,1,6,ITA,4.0,GORLERO G,6 - 2,480,ITA,8:00
+Starting goalkeeper,2,1.0,1,6,ITA,4.0,GAUDREAULT J,6 - 2,480,CAN,8:00
+Sprint won possession,2,6.0,1,6,ITA,4.0,CHRISTMAS K,6 - 2,480,CAN,8:00
+20 sec. exclusion in field,2,5.0,1,6,ITA,4.0,RADICCHI F,6 - 2,464,ITA,7:44
+Extra player shot - Goal,3,11.0,1,6,ITA,4.0,McKEE K,6 - 3,449,CAN,7:29
+Action shot - Saved,3,3.0,1,6,ITA,4.0,GARIBOTTI A,6 - 3,429,ITA,7:09
+Steal,3,5.0,1,6,ITA,4.0,EGGENS M,6 - 3,409,CAN,6:49
+Action shot - Saved,3,3.0,1,6,ITA,4.0,CREVIER A,6 - 3,389,CAN,6:29
+Action shot - Goal,3,8.0,1,7,ITA,4.0,BIANCONI R,7 - 3,363,ITA,6:03
+Steal,3,2.0,1,7,ITA,4.0,TABANI C,7 - 3,339,ITA,5:39
+Action shot - Blocked,3,8.0,1,7,ITA,4.0,BIANCONI R,7 - 3,319,ITA,5:19
+Penalty foul,3,11.0,1,7,ITA,4.0,McKEE K,7 - 3,295,CAN,4:55
+Penalty shot - Goal,3,6.0,1,8,ITA,4.0,AIELLO R,8 - 3,295,ITA,4:55
+Action shot - Goal,4,5.0,1,8,ITA,4.0,EGGENS M,8 - 4,276,CAN,4:36
+Action shot - Goal,4,3.0,1,9,ITA,4.0,GARIBOTTI A,9 - 4,253,ITA,4:13
+20 sec. exclusion in centre,4,10.0,1,9,ITA,4.0,PALMIERI V,9 - 4,232,ITA,3:52
+Extra player shot - Saved,4,3.0,1,9,ITA,4.0,GARIBOTTI A,9 - 4,211,ITA,3:31
+Action shot - Post,4,5.0,1,9,ITA,4.0,EGGENS M,9 - 4,206,CAN,3:26
+Action shot - Saved,4,10.0,1,9,ITA,4.0,ROBINSON C,9 - 4,152,CAN,2:32
+Action shot - Blocked,4,4.0,1,9,ITA,4.0,WRIGHT E,9 - 4,130,CAN,2:10
+Time-Out,4,,1,9,ITA,4.0,,9 - 4,125,ITA,2:05
+,4,,1,9,ITA,4.0,Team Official,9 - 4,97,CAN,1:37
+Action shot - Saved,4,10.0,1,9,ITA,4.0,PALMIERI V,9 - 4,79,ITA,1:19
+Action shot - Missed,4,7.0,1,9,ITA,4.0,BEKHAZI J,9 - 4,62,CAN,1:02
+20 sec. exclusion in field,4,10.0,1,9,ITA,4.0,PALMIERI V,9 - 4,35,ITA,0:35
+Extra player shot - Goal,4,11.0,1,10,ITA,4.0,COTTI A,10 - 4,35,ITA,0:35
+Action shot - Blocked,4,5.0,1,10,ITA,4.0,EGGENS M,10 - 4,5,CAN,0:05
+Starting goalkeeper,0,1.0,2,0,CHN,1.0,PENG L,0 - 0,480,CHN,8:00
+Starting goalkeeper,0,1.0,2,0,CHN,1.0,GAUDREAULT J,0 - 0,480,CAN,8:00
+Sprint won possession,0,5.0,2,0,CHN,1.0,NIU G,0 - 0,480,CHN,8:00
+Turnover foul,0,3.0,2,0,CHN,1.0,MEI X,0 - 0,453,CHN,7:33
+Steal,0,12.0,2,0,CHN,1.0,FOURNIER S,0 - 0,453,CAN,7:33
+5m shot - Post,0,5.0,2,0,CHN,1.0,EGGENS M,0 - 0,428,CAN,7:08
+5m shot - Saved,0,5.0,2,0,CHN,1.0,NIU G,0 - 0,407,CHN,6:47
+Turnover foul,0,4.0,2,0,CHN,1.0,WRIGHT E,0 - 0,380,CAN,6:20
+Steal,0,4.0,2,0,CHN,1.0,XIONG D,0 - 0,380,CHN,6:20
+5m shot - Blocked,0,6.0,2,0,CHN,1.0,GUO N,0 - 0,352,CHN,5:52
+Action shot - Saved,0,4.0,2,0,CHN,1.0,WRIGHT E,0 - 0,334,CAN,5:34
+Centre shot - Post,0,9.0,2,0,CHN,1.0,ZHAO Z,0 - 0,320,CHN,5:20
+Action shot - Saved,0,7.0,2,0,CHN,1.0,BEKHAZI J,0 - 0,296,CAN,4:56
+Turnover foul,0,10.0,2,0,CHN,1.0,ROBINSON C,0 - 0,245,CAN,4:05
+Action shot - Missed,0,9.0,2,0,CHN,1.0,ZHAO Z,0 - 0,220,CHN,3:40
+Action shot - Saved,0,4.0,2,0,CHN,1.0,WRIGHT E,0 - 0,201,CAN,3:21
+Action shot - Saved,0,5.0,2,0,CHN,1.0,EGGENS M,0 - 0,151,CAN,2:31
+Centre shot - Saved,0,3.0,2,0,CHN,1.0,MEI X,0 - 0,127,CHN,2:07
+Action shot - Post,0,7.0,2,0,CHN,1.0,BEKHAZI J,0 - 0,104,CAN,1:44
+Counter attack - Goal,0,4.0,2,1,CHN,1.0,XIONG D,1 - 0,94,CHN,1:34
+5m shot - Goal,1,5.0,2,1,CHN,1.0,EGGENS M,1 - 1,73,CAN,1:13
+Action shot - Saved,1,12.0,2,1,CHN,1.0,ZHANG J,1 - 1,48,CHN,0:48
+5m shot - Blocked,1,3.0,2,1,CHN,1.0,CREVIER A,1 - 1,19,CAN,0:19
+Time-Out,1,,2,1,CHN,1.0,,1 - 1,19,CHN,0:19
+Centre shot - Saved,1,4.0,2,1,CHN,1.0,XIONG D,1 - 1,3,CHN,0:03
+Time-Out,1,,2,1,CHN,1.0,,1 - 1,3,CAN,0:03
+Starting goalkeeper,1,1.0,2,1,CHN,2.0,PENG L,1 - 1,480,CHN,8:00
+Starting goalkeeper,1,1.0,2,1,CHN,2.0,GAUDREAULT J,1 - 1,480,CAN,8:00
+Sprint won possession,1,5.0,2,1,CHN,2.0,NIU G,1 - 1,480,CHN,8:00
+Action shot - Missed,1,5.0,2,1,CHN,2.0,NIU G,1 - 1,451,CHN,7:31
+Action shot - Missed,1,5.0,2,1,CHN,2.0,EGGENS M,1 - 1,437,CAN,7:17
+20 sec. exclusion in centre,1,10.0,2,1,CHN,2.0,ROBINSON C,1 - 1,419,CAN,6:59
+Extra player shot - Goal,1,5.0,2,2,CHN,2.0,NIU G,2 - 1,418,CHN,6:58
+Action shot - Saved,1,6.0,2,2,CHN,2.0,CHRISTMAS K,2 - 1,396,CAN,6:36
+20 sec. exclusion in centre,1,5.0,2,2,CHN,2.0,NIU G,2 - 1,379,CHN,6:19
+Extra player shot - Goal,2,5.0,2,2,CHN,2.0,EGGENS M,2 - 2,361,CAN,6:01
+Turnover foul,2,4.0,2,2,CHN,2.0,XIONG D,2 - 2,335,CHN,5:35
+Steal,2,9.0,2,2,CHN,2.0,McKELVEY H,2 - 2,335,CAN,5:35
+Action shot - Saved,2,9.0,2,2,CHN,2.0,McKELVEY H,2 - 2,321,CAN,5:21
+20 sec. exclusion in field,2,9.0,2,2,CHN,2.0,McKELVEY H,2 - 2,302,CAN,5:02
+Extra player shot - Goal,2,4.0,2,3,CHN,2.0,XIONG D,3 - 2,283,CHN,4:43
+5m shot - Saved,2,7.0,2,3,CHN,2.0,BEKHAZI J,3 - 2,257,CAN,4:17
+Turnover foul,2,6.0,2,3,CHN,2.0,CHRISTMAS K,3 - 2,248,CAN,4:08
+Steal,2,6.0,2,3,CHN,2.0,GUO N,3 - 2,248,CHN,4:08
+Action shot - Saved,2,5.0,2,3,CHN,2.0,EGGENS M,3 - 2,192,CAN,3:12
+5m shot - Goal,3,12.0,2,3,CHN,2.0,FOURNIER S,3 - 3,174,CAN,2:54
+5m shot - Missed,3,2.0,2,3,CHN,2.0,BI Y,3 - 3,148,CHN,2:28
+Action shot - Saved,3,3.0,2,3,CHN,2.0,CREVIER A,3 - 3,130,CAN,2:10
+5m shot - Goal,3,8.0,2,4,CHN,2.0,ZHANG C,4 - 3,108,CHN,1:48
+Action shot - Saved,3,4.0,2,4,CHN,2.0,WRIGHT E,4 - 3,81,CAN,1:21
+5m shot - Missed,3,8.0,2,4,CHN,2.0,ZHANG C,4 - 3,53,CHN,0:53
+Time-Out,3,,2,4,CHN,2.0,,4 - 3,53,CAN,0:53
+Turnover foul,3,2.0,2,4,CHN,2.0,ALOGBO K,4 - 3,35,CAN,0:35
+Time-Out,3,,2,4,CHN,2.0,,4 - 3,35,CHN,0:35
+Centre shot - Goal,3,11.0,2,5,CHN,2.0,CHEN X,5 - 3,21,CHN,0:21
+5m shot - Saved,3,11.0,2,5,CHN,2.0,McKEE K,5 - 3,3,CAN,0:03
+Starting goalkeeper,3,1.0,2,5,CHN,3.0,PENG L,5 - 3,480,CHN,8:00
+Starting goalkeeper,3,1.0,2,5,CHN,3.0,GAUDREAULT J,5 - 3,480,CAN,8:00
+Sprint won possession,3,5.0,2,5,CHN,3.0,NIU G,5 - 3,480,CHN,8:00
+20 sec. exclusion in centre,3,3.0,2,5,CHN,3.0,MEI X,5 - 3,425,CHN,7:05
+Extra player shot - Saved,3,10.0,2,5,CHN,3.0,ROBINSON C,5 - 3,420,CAN,7:00
+Action shot - Goal,4,9.0,2,5,CHN,3.0,McKELVEY H,5 - 4,401,CAN,6:41
+Turnover foul,4,5.0,2,5,CHN,3.0,NIU G,5 - 4,373,CHN,6:13
+Steal,4,6.0,2,5,CHN,3.0,CHRISTMAS K,5 - 4,373,CAN,6:13
+Action shot - Goal,5,9.0,2,5,CHN,3.0,McKELVEY H,5 - 5,358,CAN,5:58
+5m shot - Saved,5,10.0,2,5,CHN,3.0,ZHANG D,5 - 5,328,CHN,5:28
+20 sec. exclusion in field,5,5.0,2,5,CHN,3.0,NIU G,5 - 5,313,CHN,5:13
+Extra player shot - Goal,6,4.0,2,5,CHN,3.0,WRIGHT E,5 - 6,302,CAN,5:02
+Turnover foul,6,8.0,2,5,CHN,3.0,ZHANG C,5 - 6,275,CHN,4:35
+Steal,6,5.0,2,5,CHN,3.0,EGGENS M,5 - 6,275,CAN,4:35
+20 sec. exclusion in field,6,8.0,2,5,CHN,3.0,ZHANG C,5 - 6,275,CHN,4:35
+Time-Out,6,,2,5,CHN,3.0,,5 - 6,275,CAN,4:35
+Extra player shot - Blocked,6,2.0,2,5,CHN,3.0,ALOGBO K,5 - 6,257,CAN,4:17
+Action shot - Missed,6,5.0,2,5,CHN,3.0,EGGENS M,5 - 6,246,CAN,4:06
+20 sec. exclusion in field,6,5.0,2,5,CHN,3.0,EGGENS M,5 - 6,229,CAN,3:49
+Time-Out,6,,2,5,CHN,3.0,,5 - 6,229,CHN,3:49
+Action shot - Saved,6,5.0,2,5,CHN,3.0,NIU G,5 - 6,204,CHN,3:24
+Turnover foul,6,10.0,2,5,CHN,3.0,ROBINSON C,5 - 6,190,CAN,3:10
+5m shot - Saved,6,6.0,2,5,CHN,3.0,GUO N,5 - 6,172,CHN,2:52
+Turnover foul,6,6.0,2,5,CHN,3.0,GUO N,5 - 6,143,CHN,2:23
+Action shot - Goal,7,12.0,2,5,CHN,3.0,FOURNIER S,5 - 7,131,CAN,2:11
+5m shot - Blocked,7,9.0,2,5,CHN,3.0,ZHAO Z,5 - 7,100,CHN,1:40
+Penalty foul,7,3.0,2,5,CHN,3.0,MEI X,5 - 7,86,CHN,1:26
+Penalty shot - Goal,8,4.0,2,5,CHN,3.0,WRIGHT E,5 - 8,86,CAN,1:26
+20 sec. exclusion in field,8,5.0,2,5,CHN,3.0,EGGENS M,5 - 8,62,CAN,1:02
+Action shot - Saved,8,8.0,2,5,CHN,3.0,ZHANG C,5 - 8,41,CHN,0:41
+Action shot - Missed,8,12.0,2,5,CHN,3.0,FOURNIER S,5 - 8,16,CAN,0:16
+Turnover foul,8,2.0,2,5,CHN,3.0,BI Y,5 - 8,2,CHN,0:02
+Starting goalkeeper,8,1.0,2,5,CHN,4.0,PENG L,5 - 8,480,CHN,8:00
+Starting goalkeeper,8,1.0,2,5,CHN,4.0,GAUDREAULT J,5 - 8,480,CAN,8:00
+Sprint won possession,8,5.0,2,5,CHN,4.0,NIU G,5 - 8,480,CHN,8:00
+Action shot - Saved,8,8.0,2,5,CHN,4.0,ZHANG C,5 - 8,450,CHN,7:30
+5m shot - Blocked,8,5.0,2,5,CHN,4.0,EGGENS M,5 - 8,432,CAN,7:12
+Action shot - Saved,8,3.0,2,5,CHN,4.0,MEI X,5 - 8,406,CHN,6:46
+Action shot - Post,8,9.0,2,5,CHN,4.0,McKELVEY H,5 - 8,368,CAN,6:08
+Turnover foul,8,3.0,2,5,CHN,4.0,MEI X,5 - 8,347,CHN,5:47
+5m shot - Missed,8,12.0,2,5,CHN,4.0,FOURNIER S,5 - 8,272,CAN,4:32
+5m shot - Blocked,8,9.0,2,5,CHN,4.0,ZHAO Z,5 - 8,256,CHN,4:16
+Action shot - Post,8,6.0,2,5,CHN,4.0,CHRISTMAS K,5 - 8,233,CAN,3:53
+Time-Out,8,,2,5,CHN,4.0,,5 - 8,232,CHN,3:52
+Action shot - Saved,8,8.0,2,5,CHN,4.0,ZHANG C,5 - 8,210,CHN,3:30
+20 sec. exclusion in centre,8,2.0,2,5,CHN,4.0,BI Y,5 - 8,193,CHN,3:13
+Extra player shot - Post,8,4.0,2,5,CHN,4.0,WRIGHT E,5 - 8,182,CAN,3:02
+20 sec. exclusion in field,8,9.0,2,5,CHN,4.0,McKELVEY H,5 - 8,165,CAN,2:45
+Extra player shot - Goal,8,12.0,2,6,CHN,4.0,ZHANG J,6 - 8,152,CHN,2:32
+Turnover foul,8,10.0,2,6,CHN,4.0,ROBINSON C,6 - 8,126,CAN,2:06
+20 sec. exclusion in field,8,10.0,2,6,CHN,4.0,ROBINSON C,6 - 8,126,CAN,2:06
+Extra player shot - Goal,8,12.0,2,7,CHN,4.0,ZHANG J,7 - 8,107,CHN,1:47
+Centre shot - Missed,8,4.0,2,7,CHN,4.0,WRIGHT E,7 - 8,90,CAN,1:30
+Action shot - Blocked,8,10.0,2,7,CHN,4.0,ZHANG D,7 - 8,75,CHN,1:15
+20 sec. exclusion in centre,8,7.0,2,7,CHN,4.0,BEKHAZI J,7 - 8,33,CAN,0:33
+Action shot - Blocked,8,12.0,2,7,CHN,4.0,ZHANG J,7 - 8,15,CHN,0:15
+Action shot - Goal,8,10.0,2,8,CHN,4.0,ZHANG D,8 - 8,8,CHN,0:08
+Time-Out,8,,2,8,CHN,4.0,,8 - 8,8,CAN,0:08
+Centre shot - Goal,9,10.0,2,8,CHN,4.0,ROBINSON C,8 - 9,1,CAN,0:01
+Starting goalkeeper,0,1.0,3,0,BRA,1.0,CHAMORRO V,0 - 0,480,BRA,8:00
+Starting goalkeeper,0,1.0,3,0,BRA,1.0,GAUDREAULT J,0 - 0,480,CAN,8:00
+Sprint won possession,0,3.0,3,0,BRA,1.0,ZABLITH M,0 - 0,480,BRA,8:00
+Turnover foul,0,3.0,3,0,BRA,1.0,ZABLITH M,0 - 0,454,BRA,7:34
+Steal,0,12.0,3,0,BRA,1.0,FOURNIER S,0 - 0,454,CAN,7:34
+Penalty foul,0,3.0,3,0,BRA,1.0,ZABLITH M,0 - 0,431,BRA,7:11
+Penalty shot - Goal,1,4.0,3,0,BRA,1.0,WRIGHT E,0 - 1,431,CAN,7:11
+Turnover foul,1,9.0,3,0,BRA,1.0,DIAS M,0 - 1,417,BRA,6:57
+Steal,1,5.0,3,0,BRA,1.0,EGGENS M,0 - 1,417,CAN,6:57
+Counter attack - Goal,2,5.0,3,0,BRA,1.0,EGGENS M,0 - 2,406,CAN,6:46
+5m shot - Missed,2,2.0,3,0,BRA,1.0,ABLA D,0 - 2,387,BRA,6:27
+20 sec. exclusion in centre,2,4.0,3,0,BRA,1.0,SOUZA J,0 - 2,375,BRA,6:15
+Extra player shot - Post,2,9.0,3,0,BRA,1.0,McKELVEY H,0 - 2,358,CAN,5:58
+Turnover foul,2,10.0,3,0,BRA,1.0,BAHIA V,0 - 2,331,BRA,5:31
+Steal,2,5.0,3,0,BRA,1.0,EGGENS M,0 - 2,331,CAN,5:31
+Turnover foul,2,10.0,3,0,BRA,1.0,ROBINSON C,0 - 2,310,CAN,5:10
+Steal,2,11.0,3,0,BRA,1.0,DUARTE M,0 - 2,310,BRA,5:10
+Action shot - Goal,2,9.0,3,1,BRA,1.0,DIAS M,1 - 2,285,BRA,4:45
+Turnover foul,2,5.0,3,1,BRA,1.0,EGGENS M,1 - 2,273,CAN,4:33
+Steal,2,9.0,3,1,BRA,1.0,DIAS M,1 - 2,273,BRA,4:33
+Action shot - Goal,2,2.0,3,2,BRA,1.0,ABLA D,2 - 2,262,BRA,4:22
+20 sec. exclusion in centre,2,3.0,3,2,BRA,1.0,ZABLITH M,2 - 2,248,BRA,4:08
+Extra player shot - Goal,3,6.0,3,2,BRA,1.0,CHRISTMAS K,2 - 3,232,CAN,3:52
+5m shot - Saved,3,2.0,3,2,BRA,1.0,ABLA D,2 - 3,208,BRA,3:28
+5m shot - Missed,3,11.0,3,2,BRA,1.0,DUARTE M,2 - 3,185,BRA,3:05
+Action shot - Saved,3,9.0,3,2,BRA,1.0,McKELVEY H,2 - 3,169,CAN,2:49
+Turnover foul,3,11.0,3,2,BRA,1.0,DUARTE M,2 - 3,145,BRA,2:25
+Steal,3,1.0,3,2,BRA,1.0,GAUDREAULT J,2 - 3,145,CAN,2:25
+Action shot - Blocked,3,4.0,3,2,BRA,1.0,WRIGHT E,2 - 3,118,CAN,1:58
+5m shot - Goal,4,6.0,3,2,BRA,1.0,CHRISTMAS K,2 - 4,106,CAN,1:46
+20 sec. exclusion in centre,4,12.0,3,2,BRA,1.0,FOURNIER S,2 - 4,85,CAN,1:25
+Time-Out,4,,3,2,BRA,1.0,,2 - 4,84,BRA,1:24
+Extra player shot - Blocked,4,10.0,3,2,BRA,1.0,BAHIA V,2 - 4,61,BRA,1:01
+5m shot - Post,4,3.0,3,2,BRA,1.0,CREVIER A,2 - 4,38,CAN,0:38
+Turnover foul,4,10.0,3,2,BRA,1.0,BAHIA V,2 - 4,18,BRA,0:18
+Time-Out,4,,3,2,BRA,1.0,,2 - 4,18,CAN,0:18
+Action shot - Missed,4,5.0,3,2,BRA,1.0,EGGENS M,2 - 4,10,CAN,0:10
+5m shot - Missed,4,1.0,3,2,BRA,1.0,CHAMORRO V,2 - 4,1,BRA,0:01
+Starting goalkeeper,4,1.0,3,2,BRA,2.0,CHAMORRO V,2 - 4,480,BRA,8:00
+Starting goalkeeper,4,1.0,3,2,BRA,2.0,GAUDREAULT J,2 - 4,480,CAN,8:00
+Sprint won possession,4,9.0,3,2,BRA,2.0,DIAS M,2 - 4,480,BRA,8:00
+20 sec. exclusion in centre,4,6.0,3,2,BRA,2.0,CHRISTMAS K,2 - 4,452,CAN,7:32
+Action shot - Blocked,4,2.0,3,2,BRA,2.0,ABLA D,2 - 4,427,BRA,7:07
+Action shot - Saved,4,4.0,3,2,BRA,2.0,WRIGHT E,2 - 4,405,CAN,6:45
+5m shot - Post,4,10.0,3,2,BRA,2.0,BAHIA V,2 - 4,383,BRA,6:23
+Penalty foul,4,10.0,3,2,BRA,2.0,BAHIA V,2 - 4,367,BRA,6:07
+Penalty shot - Saved,4,4.0,3,2,BRA,2.0,WRIGHT E,2 - 4,365,CAN,6:05
+5m shot - Saved,4,9.0,3,2,BRA,2.0,McKELVEY H,2 - 4,338,CAN,5:38
+Action shot - Goal,5,7.0,3,2,BRA,2.0,BEKHAZI J,2 - 5,329,CAN,5:29
+Turnover foul,5,9.0,3,2,BRA,2.0,DIAS M,2 - 5,310,BRA,5:10
+Steal,5,11.0,3,2,BRA,2.0,McKEE K,2 - 5,310,CAN,5:10
+Counter attack - Saved,5,12.0,3,2,BRA,2.0,FOURNIER S,2 - 5,295,CAN,4:55
+Action shot - Goal,6,6.0,3,2,BRA,2.0,CHRISTMAS K,2 - 6,286,CAN,4:46
+20 sec. exclusion in centre,6,11.0,3,2,BRA,2.0,McKEE K,2 - 6,271,CAN,4:31
+Extra player shot - Goal,6,11.0,3,3,BRA,2.0,DUARTE M,3 - 6,265,BRA,4:25
+Action shot - Goal,7,2.0,3,3,BRA,2.0,ALOGBO K,3 - 7,245,CAN,4:05
+20 sec. exclusion in centre,7,7.0,3,3,BRA,2.0,BEKHAZI J,3 - 7,222,CAN,3:42
+Extra player shot - Saved,7,8.0,3,3,BRA,2.0,BRUZZO M,3 - 7,211,BRA,3:31
+5m shot - Goal,8,6.0,3,3,BRA,2.0,CHRISTMAS K,3 - 8,183,CAN,3:03
+Action shot - Goal,8,7.0,3,4,BRA,2.0,FERREIRA S,4 - 8,157,BRA,2:37
+5m shot - Post,8,10.0,3,4,BRA,2.0,ROBINSON C,4 - 8,135,CAN,2:15
+Steal,8,13.0,3,4,BRA,4.0,HAGE Y,4 - 8,89,CAN,1:29
+Action shot - Post,8,3.0,3,4,BRA,4.0,CREVIER A,4 - 8,71,CAN,1:11
+Time-Out,8,,3,4,BRA,4.0,,4 - 8,70,BRA,1:10
+Turnover foul,8,5.0,3,4,BRA,4.0,AMARAL A,4 - 8,48,BRA,0:48
+Turnover foul,8,8.0,3,4,BRA,2.0,LEMAY-LAVOIE E,4 - 8,80,CAN,1:20
+Time-Out,8,,3,4,BRA,2.0,,4 - 8,80,BRA,1:20
+Turnover foul,8,12.0,3,4,BRA,2.0,BELORIO L,4 - 8,54,BRA,0:54
+Steal,8,7.0,3,4,BRA,2.0,BEKHAZI J,4 - 8,54,CAN,0:54
+Action shot - Post,8,8.0,3,4,BRA,2.0,LEMAY-LAVOIE E,4 - 8,39,CAN,0:39
+20 sec. exclusion in centre,8,4.0,3,4,BRA,2.0,WRIGHT E,4 - 8,20,CAN,0:20
+Extra player shot - Post,8,10.0,3,4,BRA,2.0,BAHIA V,4 - 8,1,BRA,0:01
+Starting goalkeeper,8,1.0,3,4,BRA,3.0,CHAMORRO V,4 - 8,480,BRA,8:00
+Starting goalkeeper,8,1.0,3,4,BRA,3.0,GAUDREAULT J,4 - 8,480,CAN,8:00
+Sprint won possession,8,6.0,3,4,BRA,3.0,CHRISTMAS K,4 - 8,480,CAN,8:00
+20 sec. exclusion in centre,8,10.0,3,4,BRA,3.0,BAHIA V,4 - 8,467,BRA,7:47
+Action shot - Goal,9,12.0,3,4,BRA,3.0,FOURNIER S,4 - 9,445,CAN,7:25
+5m shot - Saved,9,2.0,3,4,BRA,3.0,ABLA D,4 - 9,418,BRA,6:58
+5m shot - Goal,10,9.0,3,4,BRA,3.0,McKELVEY H,4 - 10,393,CAN,6:33
+Penalty foul,10,8.0,3,4,BRA,3.0,LEMAY-LAVOIE E,4 - 10,377,CAN,6:17
+Penalty shot - Saved,10,9.0,3,4,BRA,3.0,DIAS M,4 - 10,377,BRA,6:17
+Action shot - Goal,10,7.0,3,5,BRA,3.0,FERREIRA S,5 - 10,371,BRA,6:11
+5m shot - Goal,11,12.0,3,5,BRA,3.0,FOURNIER S,5 - 11,351,CAN,5:51
+5m shot - Saved,11,12.0,3,5,BRA,3.0,BELORIO L,5 - 11,329,BRA,5:29
+5m shot - Saved,11,9.0,3,5,BRA,3.0,DIAS M,5 - 11,304,BRA,5:04
+5m shot - Goal,12,12.0,3,5,BRA,3.0,FOURNIER S,5 - 12,278,CAN,4:38
+Goalkeeper substitution,12,13.0,3,5,BRA,3.0,HAGE Y,5 - 12,276,CAN,4:36
+Action shot - Blocked,12,10.0,3,5,BRA,3.0,BAHIA V,5 - 12,249,BRA,4:09
+Action shot - Blocked,12,9.0,3,5,BRA,3.0,DIAS M,5 - 12,234,BRA,3:54
+5m shot - Post,12,3.0,3,5,BRA,3.0,CREVIER A,5 - 12,204,CAN,3:24
+Action shot - Saved,12,11.0,3,5,BRA,3.0,DUARTE M,5 - 12,174,BRA,2:54
+20 sec. exclusion in centre,12,11.0,3,5,BRA,3.0,DUARTE M,5 - 12,171,BRA,2:51
+Extra player shot - Missed,12,12.0,3,5,BRA,3.0,FOURNIER S,5 - 12,154,CAN,2:34
+Time-Out,12,,3,5,BRA,3.0,,5 - 12,148,BRA,2:28
+5m shot - Blocked,12,3.0,3,5,BRA,3.0,ZABLITH M,5 - 12,121,BRA,2:01
+5m shot - Post,12,4.0,3,5,BRA,3.0,WRIGHT E,5 - 12,99,CAN,1:39
+Turnover foul,12,7.0,3,5,BRA,3.0,BEKHAZI J,5 - 12,94,CAN,1:34
+Steal,12,1.0,3,5,BRA,3.0,CHAMORRO V,5 - 12,94,BRA,1:34
+Turnover foul,12,4.0,3,5,BRA,3.0,SOUZA J,5 - 12,66,BRA,1:06
+Steal,12,13.0,3,5,BRA,3.0,HAGE Y,5 - 12,66,CAN,1:06
+Turnover foul,12,3.0,3,5,BRA,3.0,CREVIER A,5 - 12,47,CAN,0:47
+Steal,12,2.0,3,5,BRA,3.0,ABLA D,5 - 12,47,BRA,0:47
+Turnover foul,12,10.0,3,5,BRA,3.0,BAHIA V,5 - 12,20,BRA,0:20
+20 sec. exclusion in centre,12,12.0,3,5,BRA,3.0,BELORIO L,5 - 12,2,BRA,0:02
+Starting goalkeeper,12,1.0,3,5,BRA,4.0,CHAMORRO V,5 - 12,480,BRA,8:00
+Starting goalkeeper,12,13.0,3,5,BRA,4.0,HAGE Y,5 - 12,480,CAN,8:00
+Sprint won possession,12,9.0,3,5,BRA,4.0,DIAS M,5 - 12,480,BRA,8:00
+5m shot - Blocked,12,3.0,3,5,BRA,4.0,ZABLITH M,5 - 12,451,BRA,7:31
+Action shot - Goal,13,9.0,3,5,BRA,4.0,McKELVEY H,5 - 13,430,CAN,7:10
+Turnover foul,13,10.0,3,5,BRA,4.0,BAHIA V,5 - 13,408,BRA,6:48
+Steal,13,4.0,3,5,BRA,4.0,WRIGHT E,5 - 13,408,CAN,6:48
+Turnover foul,13,8.0,3,5,BRA,4.0,LEMAY-LAVOIE E,5 - 13,387,CAN,6:27
+Steal,13,3.0,3,5,BRA,4.0,ZABLITH M,5 - 13,387,BRA,6:27
+5m shot - Blocked,13,3.0,3,5,BRA,4.0,ZABLITH M,5 - 13,360,BRA,6:00
+5m shot - Saved,13,9.0,3,5,BRA,4.0,McKELVEY H,5 - 13,334,CAN,5:34
+5m shot - Saved,13,9.0,3,5,BRA,4.0,DIAS M,5 - 13,305,BRA,5:05
+5m shot - Post,13,9.0,3,5,BRA,4.0,DIAS M,5 - 13,290,BRA,4:50
+Turnover foul,13,3.0,3,5,BRA,4.0,ZABLITH M,5 - 13,280,BRA,4:40
+Counter attack - Goal,14,6.0,3,5,BRA,4.0,CHRISTMAS K,5 - 14,276,CAN,4:36
+5m shot - Missed,14,2.0,3,5,BRA,4.0,ABLA D,5 - 14,252,BRA,4:12
+5m shot - Saved,14,3.0,3,5,BRA,4.0,CREVIER A,5 - 14,232,CAN,3:52
+5m shot - Saved,14,10.0,3,5,BRA,4.0,BAHIA V,5 - 14,206,BRA,3:26
+5m shot - Blocked,14,2.0,3,5,BRA,4.0,ABLA D,5 - 14,184,BRA,3:04
+Action shot - Goal,15,8.0,3,5,BRA,4.0,LEMAY-LAVOIE E,5 - 15,154,CAN,2:34
+Action shot - Missed,15,3.0,3,5,BRA,4.0,CREVIER A,5 - 15,105,CAN,1:45
+Turnover foul,15,5.0,3,5,BRA,4.0,AMARAL A,5 - 15,89,BRA,1:29
+Steal,15,4.0,3,5,BRA,4.0,WRIGHT E,5 - 15,48,CAN,0:48
+Counter attack - Goal,16,8.0,3,5,BRA,4.0,LEMAY-LAVOIE E,5 - 16,32,CAN,0:32
+Action shot - Goal,16,7.0,3,6,BRA,4.0,FERREIRA S,6 - 16,1,BRA,0:01
+Starting goalkeeper,0,1.0,4,0,NZL,1.0,GAUDREAULT J,0 - 0,480,CAN,8:00
+Starting goalkeeper,0,1.0,4,0,NZL,1.0,MILICICH J,0 - 0,480,NZL,8:00
+Sprint won possession,0,5.0,4,0,NZL,1.0,EGGENS M,0 - 0,480,CAN,8:00
+Centre shot - Saved,0,10.0,4,0,NZL,1.0,ROBINSON C,0 - 0,451,CAN,7:31
+Turnover foul,0,8.0,4,0,NZL,1.0,LOPES da SILVA C,0 - 0,423,NZL,7:03
+Steal,0,7.0,4,0,NZL,1.0,BEKHAZI J,0 - 0,423,CAN,7:03
+Centre shot - Goal,1,4.0,4,0,NZL,1.0,WRIGHT E,1 - 0,398,CAN,6:38
+Action shot - Saved,1,11.0,4,0,NZL,1.0,HUDSON K,1 - 0,368,NZL,6:08
+20 sec. exclusion in centre,1,12.0,4,0,NZL,1.0,PYE B,1 - 0,348,NZL,5:48
+Extra player shot - Goal,2,7.0,4,0,NZL,1.0,BEKHAZI J,2 - 0,336,CAN,5:36
+5m shot - Blocked,2,3.0,4,0,NZL,1.0,MASON K,2 - 0,312,NZL,5:12
+5m shot - Missed,2,4.0,4,0,NZL,1.0,WRIGHT E,2 - 0,284,CAN,4:44
+5m shot - Post,2,12.0,4,0,NZL,1.0,PYE B,2 - 0,255,NZL,4:15
+Centre shot - Goal,3,5.0,4,0,NZL,1.0,EGGENS M,3 - 0,240,CAN,4:00
+Action shot - Blocked,3,7.0,4,0,NZL,1.0,HOUGHTON E,3 - 0,210,NZL,3:30
+Counter attack - Goal,4,7.0,4,0,NZL,1.0,BEKHAZI J,4 - 0,198,CAN,3:18
+Time-Out,4,,4,0,NZL,1.0,,4 - 0,198,NZL,3:18
+Action shot - Blocked,4,7.0,4,0,NZL,1.0,HOUGHTON E,4 - 0,171,NZL,2:51
+Turnover foul,4,2.0,4,0,NZL,1.0,ALOGBO K,4 - 0,136,CAN,2:16
+Turnover foul,4,8.0,4,0,NZL,1.0,LOPES da SILVA C,4 - 0,132,NZL,2:12
+Steal,4,7.0,4,0,NZL,1.0,BEKHAZI J,4 - 0,132,CAN,2:12
+20 sec. exclusion in field,4,9.0,4,0,NZL,1.0,STONEMAN E,4 - 0,128,NZL,2:08
+Time-Out,4,,4,0,NZL,1.0,,4 - 0,128,CAN,2:08
+Extra player shot - Saved,4,4.0,4,0,NZL,1.0,WRIGHT E,4 - 0,113,CAN,1:53
+5m shot - Post,4,9.0,4,0,NZL,1.0,STONEMAN E,4 - 0,86,NZL,1:26
+5m shot - Post,4,5.0,4,0,NZL,1.0,EGGENS M,4 - 0,61,CAN,1:01
+Action shot - Goal,4,8.0,4,1,NZL,1.0,LOPES da SILVA C,4 - 1,37,NZL,0:37
+Centre shot - Goal,5,8.0,4,1,NZL,1.0,LEMAY-LAVOIE E,5 - 1,10,CAN,0:10
+5m shot - Blocked,5,3.0,4,1,NZL,1.0,MASON K,5 - 1,1,NZL,0:01
+Starting goalkeeper,5,1.0,4,1,NZL,2.0,GAUDREAULT J,5 - 1,480,CAN,8:00
+Starting goalkeeper,5,1.0,4,1,NZL,2.0,MILICICH J,5 - 1,480,NZL,8:00
+Sprint won possession,5,5.0,4,1,NZL,2.0,EGGENS M,5 - 1,480,CAN,8:00
+Turnover foul,5,5.0,4,1,NZL,2.0,EGGENS M,5 - 1,462,CAN,7:42
+Steal,5,1.0,4,1,NZL,2.0,MILICICH J,5 - 1,462,NZL,7:42
+Turnover foul,5,10.0,4,1,NZL,2.0,BOWRY C,5 - 1,450,NZL,7:30
+Centre shot - Goal,6,8.0,4,1,NZL,2.0,LEMAY-LAVOIE E,6 - 1,436,CAN,7:16
+5m shot - Goal,7,9.0,4,1,NZL,2.0,McKELVEY H,7 - 1,377,CAN,6:17
+Turnover foul,7,4.0,4,1,NZL,2.0,FERIGO R,7 - 1,345,NZL,5:45
+Turnover foul,7,10.0,4,1,NZL,2.0,ROBINSON C,7 - 1,328,CAN,5:28
+20 sec. exclusion in field,7,4.0,4,1,NZL,2.0,WRIGHT E,7 - 1,316,CAN,5:16
+Extra player shot - Goal,7,12.0,4,2,NZL,2.0,PYE B,7 - 2,296,NZL,4:56
+Turnover foul,7,12.0,4,2,NZL,2.0,FOURNIER S,7 - 2,269,CAN,4:29
+Action shot - Blocked,7,12.0,4,2,NZL,2.0,PYE B,7 - 2,239,NZL,3:59
+Action shot - Goal,8,6.0,4,2,NZL,2.0,CHRISTMAS K,8 - 2,221,CAN,3:41
+5m shot - Post,8,3.0,4,2,NZL,2.0,MASON K,8 - 2,193,NZL,3:13
+Turnover foul,8,10.0,4,2,NZL,2.0,ROBINSON C,8 - 2,175,CAN,2:55
+Turnover foul,8,6.0,4,2,NZL,2.0,DOYLE B,8 - 2,159,NZL,2:39
+Steal,8,12.0,4,2,NZL,2.0,FOURNIER S,8 - 2,159,CAN,2:39
+Turnover foul,8,7.0,4,2,NZL,2.0,BEKHAZI J,8 - 2,77,CAN,1:17
+Turnover foul,8,2.0,4,2,NZL,2.0,LEWIS N,8 - 2,55,NZL,0:55
+Action shot - Goal,9,10.0,4,2,NZL,2.0,ROBINSON C,9 - 2,37,CAN,0:37
+Turnover foul,9,3.0,4,2,NZL,2.0,MASON K,9 - 2,7,NZL,0:07
+Starting goalkeeper,9,1.0,4,2,NZL,3.0,GAUDREAULT J,9 - 2,480,CAN,8:00
+Starting goalkeeper,9,1.0,4,2,NZL,3.0,MILICICH J,9 - 2,480,NZL,8:00
+Sprint won possession,9,4.0,4,2,NZL,3.0,FERIGO R,9 - 2,480,NZL,8:00
+Turnover foul,9,7.0,4,2,NZL,3.0,HOUGHTON E,9 - 2,453,NZL,7:33
+Steal,9,6.0,4,2,NZL,3.0,CHRISTMAS K,9 - 2,453,CAN,7:33
+Turnover foul,9,2.0,4,2,NZL,3.0,ALOGBO K,9 - 2,450,CAN,7:30
+Action shot - Saved,9,4.0,4,2,NZL,3.0,FERIGO R,9 - 2,412,NZL,6:52
+5m shot - Post,9,9.0,4,2,NZL,3.0,STONEMAN E,9 - 2,393,NZL,6:33
+Action shot - Goal,10,4.0,4,2,NZL,3.0,WRIGHT E,10 - 2,380,CAN,6:20
+Turnover foul,10,10.0,4,2,NZL,3.0,BOWRY C,10 - 2,369,NZL,6:09
+Steal,10,2.0,4,2,NZL,3.0,ALOGBO K,10 - 2,369,CAN,6:09
+Turnover foul,10,5.0,4,2,NZL,3.0,EGGENS M,10 - 2,346,CAN,5:46
+5m shot - Saved,10,11.0,4,2,NZL,3.0,HUDSON K,10 - 2,316,NZL,5:16
+Penalty foul,10,11.0,4,2,NZL,3.0,HUDSON K,10 - 2,295,NZL,4:55
+Penalty shot - Goal,11,6.0,4,2,NZL,3.0,CHRISTMAS K,11 - 2,295,CAN,4:55
+5m shot - Blocked,11,3.0,4,2,NZL,3.0,MASON K,11 - 2,263,NZL,4:23
+20 sec. exclusion in field,11,12.0,4,2,NZL,3.0,PYE B,11 - 2,246,NZL,4:06
+Extra player shot - Post,11,3.0,4,2,NZL,3.0,CREVIER A,11 - 2,232,CAN,3:52
+5m shot - Post,11,12.0,4,2,NZL,3.0,PYE B,11 - 2,204,NZL,3:24
+Action shot - Goal,12,5.0,4,2,NZL,3.0,EGGENS M,12 - 2,188,CAN,3:08
+Time-Out,12,,4,2,NZL,3.0,,12 - 2,188,NZL,3:08
+Goalkeeper substitution,12,13.0,4,2,NZL,3.0,HAGE Y,12 - 2,188,CAN,3:08
+Turnover foul,12,7.0,4,2,NZL,3.0,HOUGHTON E,12 - 2,161,NZL,2:41
+Centre shot - Saved,12,8.0,4,2,NZL,3.0,LEMAY-LAVOIE E,12 - 2,138,CAN,2:18
+Action shot - Saved,12,7.0,4,2,NZL,3.0,BEKHAZI J,12 - 2,82,CAN,1:22
+5m shot - Saved,12,9.0,4,2,NZL,3.0,McKELVEY H,12 - 2,62,CAN,1:02
+Turnover foul,12,9.0,4,2,NZL,3.0,McKELVEY H,12 - 2,43,CAN,0:43
+Steal,12,7.0,4,2,NZL,3.0,HOUGHTON E,12 - 2,43,NZL,0:43
+Turnover foul,12,11.0,4,2,NZL,3.0,HUDSON K,12 - 2,33,NZL,0:33
+Steal,12,12.0,4,2,NZL,3.0,FOURNIER S,12 - 2,33,CAN,0:33
+Turnover foul,12,9.0,4,2,NZL,3.0,McKELVEY H,12 - 2,3,CAN,0:03
+Steal,12,3.0,4,2,NZL,3.0,MASON K,12 - 2,3,NZL,0:03
+Starting goalkeeper,12,13.0,4,2,NZL,4.0,HAGE Y,12 - 2,480,CAN,8:00
+Starting goalkeeper,12,1.0,4,2,NZL,4.0,MILICICH J,12 - 2,480,NZL,8:00
+Sprint won possession,12,6.0,4,2,NZL,4.0,CHRISTMAS K,12 - 2,0,CAN,0:00
+20 sec. exclusion in field,12,7.0,4,2,NZL,4.0,HOUGHTON E,12 - 2,467,NZL,7:47
+Extra player shot - Goal,13,7.0,4,2,NZL,4.0,BEKHAZI J,13 - 2,447,CAN,7:27
+5m shot - Saved,13,4.0,4,2,NZL,4.0,FERIGO R,13 - 2,419,NZL,6:59
+5m shot - Post,13,5.0,4,2,NZL,4.0,BOYD A,13 - 2,403,NZL,6:43
+Action shot - Goal,14,7.0,4,2,NZL,4.0,BEKHAZI J,14 - 2,386,CAN,6:26
+5m shot - Saved,14,5.0,4,2,NZL,4.0,BOYD A,14 - 2,361,NZL,6:01
+Action shot - Missed,14,9.0,4,2,NZL,4.0,McKELVEY H,14 - 2,344,CAN,5:44
+20 sec. exclusion in field,14,3.0,4,2,NZL,4.0,CREVIER A,14 - 2,325,CAN,5:25
+Extra player shot - Goal,14,4.0,4,3,NZL,4.0,FERIGO R,14 - 3,304,NZL,5:04
+5m shot - Goal,15,4.0,4,3,NZL,4.0,WRIGHT E,15 - 3,290,CAN,4:50
+5m shot - Saved,15,3.0,4,3,NZL,4.0,MASON K,15 - 3,269,NZL,4:29
+Turnover foul,15,10.0,4,3,NZL,4.0,ROBINSON C,15 - 3,242,CAN,4:02
+Steal,15,2.0,4,3,NZL,4.0,LEWIS N,15 - 3,242,NZL,4:02
+5m shot - Blocked,15,3.0,4,3,NZL,4.0,MASON K,15 - 3,217,NZL,3:37
+Turnover foul,15,10.0,4,3,NZL,4.0,ROBINSON C,15 - 3,163,CAN,2:43
+Steal,15,1.0,4,3,NZL,4.0,MILICICH J,15 - 3,163,NZL,2:43
+Action shot - Saved,15,8.0,4,3,NZL,4.0,LOPES da SILVA C,15 - 3,138,NZL,2:18
+5m shot - Goal,16,3.0,4,3,NZL,4.0,CREVIER A,16 - 3,111,CAN,1:51
+5m shot - Saved,16,6.0,4,3,NZL,4.0,DOYLE B,16 - 3,89,NZL,1:29
+Turnover foul,16,6.0,4,3,NZL,4.0,DOYLE B,16 - 3,74,NZL,1:14
+Steal,16,11.0,4,3,NZL,4.0,McKEE K,16 - 3,74,CAN,1:14
+Action shot - Post,16,11.0,4,3,NZL,4.0,McKEE K,16 - 3,50,CAN,0:50
+20 sec. exclusion in field,16,12.0,4,3,NZL,4.0,PYE B,16 - 3,49,NZL,0:49
+Extra player shot - Post,16,6.0,4,3,NZL,4.0,CHRISTMAS K,16 - 3,32,CAN,0:32
+20 sec. exclusion in centre,16,10.0,4,3,NZL,4.0,BOWRY C,16 - 3,6,NZL,0:06
+Exclusion with substitution,16,10.0,4,3,NZL,4.0,BOWRY C,16 - 3,6,NZL,0:06
+Starting goalkeeper,0,1.0,5,0,HUN,1.0,GANGL E,0 - 0,480,HUN,8:00
+Starting goalkeeper,0,1.0,5,0,HUN,1.0,GAUDREAULT J,0 - 0,480,CAN,8:00
+Sprint won possession,0,12.0,5,0,HUN,1.0,SZILAGYI D,0 - 0,480,HUN,8:00
+Turnover foul,0,5.0,5,0,HUN,1.0,SZUCS G,0 - 0,461,HUN,7:41
+Steal,0,9.0,5,0,HUN,1.0,McKELVEY H,0 - 0,461,CAN,7:41
+20 sec. exclusion in centre,0,8.0,5,0,HUN,1.0,KESZTHELYI R,0 - 0,446,HUN,7:26
+Extra player shot - Goal,1,5.0,5,0,HUN,1.0,EGGENS M,0 - 1,431,CAN,7:11
+Action shot - Post,1,11.0,5,0,HUN,1.0,CSABAI D,0 - 1,418,HUN,6:58
+Action shot - Missed,1,11.0,5,0,HUN,1.0,CSABAI D,0 - 1,408,HUN,6:48
+Action shot - Post,1,9.0,5,0,HUN,1.0,McKELVEY H,0 - 1,381,CAN,6:21
+Action shot - Post,1,11.0,5,0,HUN,1.0,CSABAI D,0 - 1,354,HUN,5:54
+Action shot - Saved,1,8.0,5,0,HUN,1.0,KESZTHELYI R,0 - 1,336,HUN,5:36
+Action shot - Post,1,11.0,5,0,HUN,1.0,CSABAI D,0 - 1,316,HUN,5:16
+20 sec. exclusion in centre,1,10.0,5,0,HUN,1.0,BUJKA B,0 - 1,309,HUN,5:09
+Extra player shot - Post,1,5.0,5,0,HUN,1.0,EGGENS M,0 - 1,289,CAN,4:49
+Action shot - Blocked,1,5.0,5,0,HUN,1.0,EGGENS M,0 - 1,283,CAN,4:43
+Action shot - Post,1,12.0,5,0,HUN,1.0,SZILAGYI D,0 - 1,268,HUN,4:28
+Action shot - Blocked,1,12.0,5,0,HUN,1.0,FOURNIER S,0 - 1,238,CAN,3:58
+Action shot - Saved,1,5.0,5,0,HUN,1.0,SZUCS G,0 - 1,216,HUN,3:36
+Turnover foul,1,10.0,5,0,HUN,1.0,ROBINSON C,0 - 1,186,CAN,3:06
+Steal,1,1.0,5,0,HUN,1.0,GANGL E,0 - 1,186,HUN,3:06
+5m shot - Missed,1,8.0,5,0,HUN,1.0,KESZTHELYI R,0 - 1,160,HUN,2:40
+5m shot - Missed,1,10.0,5,0,HUN,1.0,ROBINSON C,0 - 1,134,CAN,2:14
+Action shot - Blocked,1,12.0,5,0,HUN,1.0,SZILAGYI D,0 - 1,110,HUN,1:50
+Time-Out,1,,5,0,HUN,1.0,,0 - 1,108,CAN,1:48
+Turnover foul,1,8.0,5,0,HUN,1.0,KESZTHELYI R,0 - 1,72,HUN,1:12
+Action shot - Post,1,9.0,5,0,HUN,1.0,McKELVEY H,0 - 1,51,CAN,0:51
+Time-Out,1,,5,0,HUN,1.0,,0 - 1,51,HUN,0:51
+5m shot - Saved,1,10.0,5,0,HUN,1.0,BUJKA B,0 - 1,31,HUN,0:31
+20 sec. exclusion in centre,1,10.0,5,0,HUN,1.0,ROBINSON C,0 - 1,21,CAN,0:21
+Extra player shot - Saved,1,10.0,5,0,HUN,1.0,BUJKA B,0 - 1,6,HUN,0:06
+20 sec. exclusion in field,1,8.0,5,0,HUN,1.0,LEMAY-LAVOIE E,0 - 1,6,CAN,0:06
+5m shot - Missed,1,10.0,5,0,HUN,1.0,BUJKA B,0 - 1,3,HUN,0:03
+Starting goalkeeper,1,1.0,5,0,HUN,2.0,GANGL E,0 - 1,480,HUN,8:00
+Starting goalkeeper,1,1.0,5,0,HUN,2.0,GAUDREAULT J,0 - 1,480,CAN,8:00
+Sprint won possession,1,12.0,5,0,HUN,2.0,SZILAGYI D,0 - 1,480,HUN,8:00
+20 sec. exclusion in centre,1,7.0,5,0,HUN,2.0,BEKHAZI J,0 - 1,451,CAN,7:31
+Extra player shot - Goal,1,12.0,5,1,HUN,2.0,SZILAGYI D,1 - 1,447,HUN,7:27
+Action shot - Missed,1,6.0,5,1,HUN,2.0,CHRISTMAS K,1 - 1,424,CAN,7:04
+5m shot - Blocked,1,12.0,5,1,HUN,2.0,SZILAGYI D,1 - 1,396,HUN,6:36
+5m shot - Goal,2,5.0,5,1,HUN,2.0,EGGENS M,1 - 2,366,CAN,6:06
+Action shot - Goal,2,2.0,5,2,HUN,2.0,CZIGANY D,2 - 2,337,HUN,5:37
+20 sec. exclusion in centre,2,6.0,5,2,HUN,2.0,TAKACS O,2 - 2,324,HUN,5:24
+Action shot - Goal,3,5.0,5,2,HUN,2.0,EGGENS M,2 - 3,302,CAN,5:02
+Turnover foul,3,10.0,5,2,HUN,2.0,BUJKA B,2 - 3,291,HUN,4:51
+Steal,3,7.0,5,2,HUN,2.0,BEKHAZI J,2 - 3,291,CAN,4:51
+Turnover foul,3,10.0,5,2,HUN,2.0,ROBINSON C,2 - 3,263,CAN,4:23
+Steal,3,12.0,5,2,HUN,2.0,SZILAGYI D,2 - 3,263,HUN,4:23
+20 sec. exclusion in field,3,10.0,5,2,HUN,2.0,ROBINSON C,2 - 3,245,CAN,4:05
+Extra player shot - Post,3,12.0,5,2,HUN,2.0,SZILAGYI D,2 - 3,227,HUN,3:47
+Action shot - Saved,3,5.0,5,2,HUN,2.0,EGGENS M,2 - 3,207,CAN,3:27
+Centre shot - Blocked,3,10.0,5,2,HUN,2.0,BUJKA B,2 - 3,188,HUN,3:08
+Turnover foul,3,2.0,5,2,HUN,2.0,ALOGBO K,2 - 3,158,CAN,2:38
+Steal,3,8.0,5,2,HUN,2.0,KESZTHELYI R,2 - 3,158,HUN,2:38
+Action shot - Post,3,5.0,5,2,HUN,2.0,SZUCS G,2 - 3,129,HUN,2:09
+Double exclusion,3,2.0,5,2,HUN,2.0,ALOGBO K,2 - 3,127,CAN,2:07
+Double exclusion,3,10.0,5,2,HUN,2.0,BUJKA B,2 - 3,127,HUN,2:07
+Turnover foul,3,1.0,5,2,HUN,2.0,GAUDREAULT J,2 - 3,118,CAN,1:58
+Steal,3,12.0,5,2,HUN,2.0,SZILAGYI D,2 - 3,118,HUN,1:58
+Action shot - Saved,3,8.0,5,2,HUN,2.0,KESZTHELYI R,2 - 3,91,HUN,1:31
+Time-Out,3,,5,2,HUN,2.0,,2 - 3,90,CAN,1:30
+Time-Out,3,,5,2,HUN,4.0,,2 - 3,133,HUN,2:13
+Action shot - Blocked,3,2.0,5,2,HUN,4.0,CZIGANY D,2 - 3,45,HUN,0:45
+Centre shot - Post,3,10.0,5,2,HUN,4.0,BUJKA B,2 - 3,32,HUN,0:32
+Time-Out,3,,5,2,HUN,4.0,,2 - 3,19,CAN,0:19
+Action shot - Blocked,3,12.0,5,2,HUN,2.0,FOURNIER S,2 - 3,63,CAN,1:03
+Action shot - Goal,3,7.0,5,3,HUN,2.0,ILLES A,3 - 3,43,HUN,0:43
+Counter attack - Goal,4,5.0,5,3,HUN,2.0,EGGENS M,3 - 4,31,CAN,0:31
+5m shot - Goal,4,6.0,5,4,HUN,2.0,TAKACS O,4 - 4,16,HUN,0:16
+Starting goalkeeper,4,1.0,5,4,HUN,3.0,GANGL E,4 - 4,480,HUN,8:00
+Starting goalkeeper,4,1.0,5,4,HUN,3.0,GAUDREAULT J,4 - 4,480,CAN,8:00
+Sprint won possession,4,12.0,5,4,HUN,3.0,SZILAGYI D,4 - 4,480,HUN,8:00
+Turnover foul,4,12.0,5,4,HUN,3.0,SZILAGYI D,4 - 4,457,HUN,7:37
+Steal,4,7.0,5,4,HUN,3.0,BEKHAZI J,4 - 4,457,CAN,7:37
+Action shot - Saved,4,12.0,5,4,HUN,3.0,FOURNIER S,4 - 4,427,CAN,7:07
+Action shot - Blocked,4,12.0,5,4,HUN,3.0,SZILAGYI D,4 - 4,405,HUN,6:45
+5m shot,4,7.0,5,4,HUN,3.0,BEKHAZI J,4 - 4,381,CAN,6:21
+Turnover foul,4,11.0,5,4,HUN,3.0,CSABAI D,4 - 4,355,HUN,5:55
+Steal,4,4.0,5,4,HUN,3.0,WRIGHT E,4 - 4,355,CAN,5:55
+20 sec. exclusion in field,4,9.0,5,4,HUN,3.0,TOTH I,4 - 4,352,HUN,5:52
+Time-Out,4,,5,4,HUN,3.0,,4 - 4,352,CAN,5:52
+Extra player shot - Goal,5,5.0,5,4,HUN,3.0,EGGENS M,4 - 5,338,CAN,5:38
+Centre shot - Missed,5,7.0,5,4,HUN,3.0,ILLES A,4 - 5,311,HUN,5:11
+20 sec. exclusion in centre,5,7.0,5,4,HUN,3.0,ILLES A,4 - 5,296,HUN,4:56
+Extra player shot - Missed,5,6.0,5,4,HUN,3.0,CHRISTMAS K,4 - 5,281,CAN,4:41
+Turnover foul,5,4.0,5,4,HUN,3.0,WRIGHT E,4 - 5,249,CAN,4:09
+Steal,5,12.0,5,4,HUN,3.0,SZILAGYI D,4 - 5,249,HUN,4:09
+Turnover foul,5,11.0,5,4,HUN,3.0,CSABAI D,4 - 5,222,HUN,3:42
+20 sec. exclusion in centre,5,9.0,5,4,HUN,3.0,McKELVEY H,4 - 5,207,CAN,3:27
+Extra player shot - Blocked,5,8.0,5,4,HUN,3.0,KESZTHELYI R,4 - 5,195,HUN,3:15
+20 sec. exclusion in field,5,2.0,5,4,HUN,3.0,CZIGANY D,4 - 5,180,HUN,3:00
+Extra player shot - Blocked,5,12.0,5,4,HUN,3.0,FOURNIER S,4 - 5,162,CAN,2:42
+Action shot - Missed,5,11.0,5,4,HUN,3.0,CSABAI D,4 - 5,136,HUN,2:16
+5m shot - Missed,5,3.0,5,4,HUN,3.0,CREVIER A,4 - 5,117,CAN,1:57
+Time-Out,5,,5,4,HUN,3.0,,4 - 5,116,HUN,1:56
+Turnover foul,5,10.0,5,4,HUN,3.0,BUJKA B,4 - 5,88,HUN,1:28
+Turnover foul,5,9.0,5,4,HUN,3.0,McKELVEY H,4 - 5,76,CAN,1:16
+20 sec. exclusion in centre,5,9.0,5,4,HUN,3.0,McKELVEY H,4 - 5,70,CAN,1:10
+Action shot - Saved,5,4.0,5,4,HUN,3.0,GURISATTI G,4 - 5,47,HUN,0:47
+Turnover foul,5,5.0,5,4,HUN,3.0,EGGENS M,4 - 5,22,CAN,0:22
+Steal,5,1.0,5,4,HUN,3.0,GANGL E,4 - 5,22,HUN,0:22
+5m shot - Saved,5,6.0,5,4,HUN,3.0,TAKACS O,4 - 5,2,HUN,0:02
+Starting goalkeeper,5,1.0,5,4,HUN,4.0,GANGL E,4 - 5,480,HUN,8:00
+Starting goalkeeper,5,1.0,5,4,HUN,4.0,GAUDREAULT J,4 - 5,480,CAN,8:00
+Sprint won possession,5,12.0,5,4,HUN,4.0,SZILAGYI D,4 - 5,480,HUN,8:00
+5m shot - Blocked,5,12.0,5,4,HUN,4.0,SZILAGYI D,4 - 5,461,HUN,7:41
+5m shot - Missed,5,7.0,5,4,HUN,4.0,BEKHAZI J,4 - 5,438,CAN,7:18
+Action shot - Post,5,12.0,5,4,HUN,4.0,SZILAGYI D,4 - 5,414,HUN,6:54
+Action shot - Missed,5,3.0,5,4,HUN,4.0,ANTAL D,4 - 5,370,HUN,6:10
+Turnover foul,5,7.0,5,4,HUN,4.0,BEKHAZI J,4 - 5,358,CAN,5:58
+Turnover foul,5,6.0,5,4,HUN,4.0,TAKACS O,4 - 5,331,HUN,5:31
+Steal,5,7.0,5,4,HUN,4.0,BEKHAZI J,4 - 5,331,CAN,5:31
+Double exclusion,5,6.0,5,4,HUN,4.0,TAKACS O,4 - 5,305,HUN,5:05
+Double exclusion,5,10.0,5,4,HUN,4.0,ROBINSON C,4 - 5,305,CAN,5:05
+Exclusion with substitution,5,10.0,5,4,HUN,4.0,ROBINSON C,4 - 5,305,CAN,5:05
+Action shot - Saved,5,7.0,5,4,HUN,4.0,ILLES A,4 - 5,279,HUN,4:39
+Turnover foul,5,5.0,5,4,HUN,4.0,EGGENS M,4 - 5,254,CAN,4:14
+Steal,5,1.0,5,4,HUN,4.0,GANGL E,4 - 5,254,HUN,4:14
+Turnover foul,5,7.0,5,4,HUN,4.0,ILLES A,4 - 5,232,HUN,3:52
+Steal,5,7.0,5,4,HUN,4.0,BEKHAZI J,4 - 5,232,CAN,3:52
+Turnover foul,5,4.0,5,4,HUN,4.0,WRIGHT E,4 - 5,210,CAN,3:30
+Steal,5,12.0,5,4,HUN,4.0,SZILAGYI D,4 - 5,210,HUN,3:30
+Action shot - Saved,5,7.0,5,4,HUN,4.0,ILLES A,4 - 5,187,HUN,3:07
+20 sec. exclusion in field,5,9.0,5,4,HUN,4.0,TOTH I,4 - 5,166,HUN,2:46
+20 sec. exclusion in field,5,8.0,5,4,HUN,4.0,KESZTHELYI R,4 - 5,149,HUN,2:29
+Extra player shot - Goal,6,4.0,5,4,HUN,4.0,WRIGHT E,4 - 6,133,CAN,2:13
+Turnover foul,6,9.0,5,4,HUN,4.0,McKELVEY H,4 - 6,7,CAN,0:07
+20 sec. exclusion in field,6,6.0,5,4,HUN,4.0,CHRISTMAS K,4 - 6,7,CAN,0:07
+Yellow card,6,,5,4,HUN,4.0,Team Official,4 - 6,5,CAN,0:05
+Extra player shot - Saved,6,5.0,5,4,HUN,4.0,SZUCS G,4 - 6,1,HUN,0:01
+Starting goalkeeper,0,1.0,6,0,ESP,1.0,GAUDREAULT J,0 - 0,480,CAN,8:00
+Starting goalkeeper,0,1.0,6,0,ESP,1.0,ESTER RAMOS L,0 - 0,480,ESP,8:00
+Sprint won possession,0,3.0,6,0,ESP,1.0,ESPAR LLAQUET A,0 - 0,480,ESP,8:00
+5m shot - Saved,0,4.0,6,0,ESP,1.0,ORTIZ MUNOZ B,0 - 0,453,ESP,7:33
+Turnover foul,0,10.0,6,0,ESP,1.0,ROBINSON C,0 - 0,424,CAN,7:04
+Steal,0,5.0,6,0,ESP,1.0,ORTIZ REYES M,0 - 0,424,ESP,7:04
+Action shot - Goal,0,7.0,6,1,ESP,1.0,ESPAR LLAQUET C,0 - 1,395,ESP,6:35
+20 sec. exclusion in centre,0,5.0,6,1,ESP,1.0,ORTIZ REYES M,0 - 1,377,ESP,6:17
+Extra player shot - Blocked,0,5.0,6,1,ESP,1.0,EGGENS M,0 - 1,364,CAN,6:04
+5m shot - Blocked,0,4.0,6,1,ESP,1.0,ORTIZ MUNOZ B,0 - 1,340,ESP,5:40
+5m shot - Saved,0,10.0,6,1,ESP,1.0,ROBINSON C,0 - 1,313,CAN,5:13
+Action shot - Goal,1,5.0,6,1,ESP,1.0,EGGENS M,1 - 1,298,CAN,4:58
+Action shot - Blocked,1,9.0,6,1,ESP,1.0,FORCA ARIZA J,1 - 1,269,ESP,4:29
+5m shot - Goal,1,11.0,6,2,ESP,1.0,GUAL ROVIROSA A,1 - 2,253,ESP,4:13
+Action shot - Goal,1,4.0,6,3,ESP,1.0,ORTIZ MUNOZ B,1 - 3,209,ESP,3:29
+Time-Out,1,,6,3,ESP,1.0,,1 - 3,208,CAN,3:28
+5m shot - Post,1,7.0,6,3,ESP,1.0,BEKHAZI J,1 - 3,191,CAN,3:11
+Action shot - Missed,1,3.0,6,3,ESP,1.0,ESPAR LLAQUET A,1 - 3,164,ESP,2:44
+20 sec. exclusion in centre,1,11.0,6,3,ESP,1.0,GUAL ROVIROSA A,1 - 3,140,ESP,2:20
+Extra player shot - Goal,2,11.0,6,3,ESP,1.0,McKEE K,2 - 3,122,CAN,2:02
+Penalty foul,2,11.0,6,3,ESP,1.0,McKEE K,2 - 3,97,CAN,1:37
+Penalty shot - Goal,2,3.0,6,4,ESP,1.0,ESPAR LLAQUET A,2 - 4,97,ESP,1:37
+Action shot - Saved,2,6.0,6,4,ESP,1.0,CHRISTMAS K,2 - 4,73,CAN,1:13
+5m shot - Blocked,2,4.0,6,4,ESP,1.0,ORTIZ MUNOZ B,2 - 4,49,ESP,0:49
+Turnover foul,2,5.0,6,4,ESP,1.0,EGGENS M,2 - 4,26,CAN,0:26
+Steal,2,6.0,6,4,ESP,1.0,LLORET GOMEZ H,2 - 4,26,ESP,0:26
+Time-Out,2,,6,4,ESP,1.0,,2 - 4,26,ESP,0:26
+Turnover foul,2,4.0,6,4,ESP,1.0,ORTIZ MUNOZ B,2 - 4,5,ESP,0:05
+Steal,2,5.0,6,4,ESP,1.0,EGGENS M,2 - 4,5,CAN,0:05
+5m shot - Saved,2,5.0,6,4,ESP,1.0,EGGENS M,2 - 4,1,CAN,0:01
+Starting goalkeeper,2,1.0,6,4,ESP,2.0,GAUDREAULT J,2 - 4,480,CAN,8:00
+Starting goalkeeper,2,1.0,6,4,ESP,2.0,ESTER RAMOS L,2 - 4,480,ESP,8:00
+Sprint won possession,2,3.0,6,4,ESP,2.0,ESPAR LLAQUET A,2 - 4,480,ESP,8:00
+5m shot - Blocked,2,4.0,6,4,ESP,2.0,ORTIZ MUNOZ B,2 - 4,457,ESP,7:37
+5m shot - Missed,2,7.0,6,4,ESP,2.0,BEKHAZI J,2 - 4,441,CAN,7:21
+5m shot - Post,2,11.0,6,4,ESP,2.0,GUAL ROVIROSA A,2 - 4,421,ESP,7:01
+Turnover foul,2,5.0,6,4,ESP,2.0,EGGENS M,2 - 4,404,CAN,6:44
+Action shot - Goal,2,11.0,6,5,ESP,2.0,GUAL ROVIROSA A,2 - 5,395,ESP,6:35
+Turnover foul,2,5.0,6,5,ESP,2.0,EGGENS M,2 - 5,361,CAN,6:01
+Steal,2,4.0,6,5,ESP,2.0,ORTIZ MUNOZ B,2 - 5,361,ESP,6:01
+Counter attack - Saved,2,4.0,6,5,ESP,2.0,ORTIZ MUNOZ B,2 - 5,350,ESP,5:50
+Action shot - Saved,2,6.0,6,5,ESP,2.0,CHRISTMAS K,2 - 5,323,CAN,5:23
+Action shot - Saved,2,8.0,6,5,ESP,2.0,PENA CARRASCO M,2 - 5,294,ESP,4:54
+Turnover foul,2,8.0,6,5,ESP,2.0,LEMAY-LAVOIE E,2 - 5,272,CAN,4:32
+Steal,2,2.0,6,5,ESP,2.0,BACH PASCUAL M,2 - 5,272,ESP,4:32
+Centre shot - Saved,2,8.0,6,5,ESP,2.0,PENA CARRASCO M,2 - 5,239,ESP,3:59
+20 sec. exclusion in centre,2,7.0,6,5,ESP,2.0,ESPAR LLAQUET C,2 - 5,224,ESP,3:44
+Time-Out,2,,6,5,ESP,2.0,,2 - 5,223,CAN,3:43
+Extra player shot - Goal,3,6.0,6,5,ESP,2.0,CHRISTMAS K,3 - 5,205,CAN,3:25
+Action shot - Blocked,3,11.0,6,5,ESP,2.0,GUAL ROVIROSA A,3 - 5,179,ESP,2:59
+Action shot - Saved,3,11.0,6,5,ESP,2.0,GUAL ROVIROSA A,3 - 5,166,ESP,2:46
+Action shot - Saved,3,4.0,6,5,ESP,2.0,WRIGHT E,3 - 5,138,CAN,2:18
+20 sec. exclusion in field,3,2.0,6,5,ESP,2.0,ALOGBO K,3 - 5,132,CAN,2:12
+Action shot - Goal,3,12.0,6,6,ESP,2.0,LEITON ARRONES P,3 - 6,106,ESP,1:46
+Action shot - Saved,3,7.0,6,6,ESP,2.0,BEKHAZI J,3 - 6,88,CAN,1:28
+Turnover foul,3,10.0,6,6,ESP,2.0,CRESPI BARRIGA P,3 - 6,61,ESP,1:01
+Steal,3,7.0,6,6,ESP,2.0,BEKHAZI J,3 - 6,61,CAN,1:01
+Action shot - Goal,4,12.0,6,6,ESP,2.0,FOURNIER S,4 - 6,47,CAN,0:47
+Action shot - Goal,4,11.0,6,7,ESP,2.0,GUAL ROVIROSA A,4 - 7,22,ESP,0:22
+5m shot - Saved,4,12.0,6,7,ESP,2.0,FOURNIER S,4 - 7,1,CAN,0:01
+Starting goalkeeper,4,1.0,6,7,ESP,3.0,GAUDREAULT J,4 - 7,480,CAN,8:00
+Turnover foul,4,3.0,6,7,ESP,4.0,ESPAR LLAQUET A,4 - 7,3,ESP,0:03
+Steal,4,6.0,6,7,ESP,4.0,CHRISTMAS K,4 - 7,3,CAN,0:03
+Starting goalkeeper,4,1.0,6,7,ESP,3.0,ESTER RAMOS L,4 - 7,480,ESP,8:00
+Sprint won possession,4,3.0,6,7,ESP,3.0,ESPAR LLAQUET A,4 - 7,480,ESP,8:00
+Action shot - Goal,4,11.0,6,8,ESP,3.0,GUAL ROVIROSA A,4 - 8,456,ESP,7:36
+Action shot - Goal,5,4.0,6,8,ESP,3.0,WRIGHT E,5 - 8,431,CAN,7:11
+Action shot - Goal,5,2.0,6,9,ESP,3.0,BACH PASCUAL M,5 - 9,407,ESP,6:47
+Turnover foul,5,2.0,6,9,ESP,3.0,ALOGBO K,5 - 9,391,CAN,6:31
+Steal,5,4.0,6,9,ESP,3.0,ORTIZ MUNOZ B,5 - 9,391,ESP,6:31
+20 sec. exclusion in centre,5,9.0,6,9,ESP,3.0,McKELVEY H,5 - 9,365,CAN,6:05
+Action shot - Post,5,6.0,6,9,ESP,3.0,LLORET GOMEZ H,5 - 9,336,ESP,5:36
+Action shot - Post,5,10.0,6,9,ESP,3.0,ROBINSON C,5 - 9,310,CAN,5:10
+20 sec. exclusion in centre,5,5.0,6,9,ESP,3.0,ORTIZ REYES M,5 - 9,309,ESP,5:09
+Centre shot - Saved,5,2.0,6,9,ESP,3.0,ALOGBO K,5 - 9,285,CAN,4:45
+Turnover foul,5,10.0,6,9,ESP,3.0,CRESPI BARRIGA P,5 - 9,261,ESP,4:21
+Steal,5,10.0,6,9,ESP,3.0,ROBINSON C,5 - 9,261,CAN,4:21
+Turnover foul,5,2.0,6,9,ESP,3.0,ALOGBO K,5 - 9,235,CAN,3:55
+Action shot - Blocked,5,3.0,6,9,ESP,3.0,ESPAR LLAQUET A,5 - 9,210,ESP,3:30
+20 sec. exclusion in centre,5,4.0,6,9,ESP,3.0,ORTIZ MUNOZ B,5 - 9,200,ESP,3:20
+Extra player shot - Goal,6,12.0,6,9,ESP,3.0,FOURNIER S,6 - 9,184,CAN,3:04
+5m shot - Saved,6,4.0,6,9,ESP,3.0,ORTIZ MUNOZ B,6 - 9,163,ESP,2:43
+Action shot - Saved,6,12.0,6,9,ESP,3.0,LEITON ARRONES P,6 - 9,148,ESP,2:28
+Turnover foul,6,12.0,6,9,ESP,3.0,FOURNIER S,6 - 9,118,CAN,1:58
+Steal,6,3.0,6,9,ESP,3.0,ESPAR LLAQUET A,6 - 9,118,ESP,1:58
+Turnover foul,6,7.0,6,9,ESP,3.0,ESPAR LLAQUET C,6 - 9,88,ESP,1:28
+Steal,6,6.0,6,9,ESP,3.0,CHRISTMAS K,6 - 9,88,CAN,1:28
+Turnover foul,6,6.0,6,9,ESP,3.0,CHRISTMAS K,6 - 9,73,CAN,1:13
+Steal,6,4.0,6,9,ESP,3.0,ORTIZ MUNOZ B,6 - 9,73,ESP,1:13
+Action shot - Blocked,6,3.0,6,9,ESP,3.0,ESPAR LLAQUET A,6 - 9,59,ESP,0:59
+20 sec. exclusion in centre,6,7.0,6,9,ESP,3.0,ESPAR LLAQUET C,6 - 9,32,ESP,0:32
+Time-Out,6,,6,9,ESP,3.0,,6 - 9,32,CAN,0:32
+Action shot - Saved,6,7.0,6,9,ESP,3.0,BEKHAZI J,6 - 9,9,CAN,0:09
+Time-Out,6,,6,9,ESP,3.0,,6 - 9,9,ESP,0:09
+5m shot - Saved,6,9.0,6,9,ESP,3.0,FORCA ARIZA J,6 - 9,4,ESP,0:04
+Starting goalkeeper,6,1.0,6,9,ESP,4.0,GAUDREAULT J,6 - 9,480,CAN,8:00
+Starting goalkeeper,6,1.0,6,9,ESP,4.0,ESTER RAMOS L,6 - 9,480,ESP,8:00
+Sprint won possession,6,6.0,6,9,ESP,4.0,CHRISTMAS K,6 - 9,480,CAN,8:00
+Action shot - Goal,7,12.0,6,9,ESP,4.0,FOURNIER S,7 - 9,453,CAN,7:33
+20 sec. exclusion in centre,7,11.0,6,9,ESP,4.0,McKEE K,7 - 9,426,CAN,7:06
+Action shot - Goal,7,11.0,6,10,ESP,4.0,GUAL ROVIROSA A,7 - 10,414,ESP,6:54
+Turnover foul,7,11.0,6,10,ESP,4.0,McKEE K,7 - 10,394,CAN,6:34
+Steal,7,7.0,6,10,ESP,4.0,ESPAR LLAQUET C,7 - 10,394,ESP,6:34
+Turnover foul,7,10.0,6,10,ESP,4.0,CRESPI BARRIGA P,7 - 10,367,ESP,6:07
+5m shot - Missed,7,12.0,6,10,ESP,4.0,FOURNIER S,7 - 10,343,CAN,5:43
+Turnover foul,7,3.0,6,10,ESP,4.0,ESPAR LLAQUET A,7 - 10,314,ESP,5:14
+Action shot - Goal,8,6.0,6,10,ESP,4.0,CHRISTMAS K,8 - 10,298,CAN,4:58
+Turnover foul,8,2.0,6,10,ESP,4.0,ALOGBO K,8 - 10,259,CAN,4:19
+Centre shot - Saved,8,12.0,6,10,ESP,4.0,LEITON ARRONES P,8 - 10,245,ESP,4:05
+Action shot - Goal,9,5.0,6,10,ESP,4.0,EGGENS M,9 - 10,228,CAN,3:48
+20 sec. exclusion in centre,9,9.0,6,10,ESP,4.0,McKELVEY H,9 - 10,207,CAN,3:27
+Extra player shot - Goal,9,4.0,6,11,ESP,4.0,ORTIZ MUNOZ B,9 - 11,199,ESP,3:19
+5m shot - Saved,9,11.0,6,11,ESP,4.0,McKEE K,9 - 11,170,CAN,2:50
+Action shot - Saved,9,6.0,6,11,ESP,4.0,CHRISTMAS K,9 - 11,155,CAN,2:35
+Centre shot - Saved,9,2.0,6,11,ESP,4.0,BACH PASCUAL M,9 - 11,125,ESP,2:05
+Action shot - Post,9,12.0,6,11,ESP,4.0,FOURNIER S,9 - 11,113,CAN,1:53
+5m shot - Saved,9,4.0,6,11,ESP,4.0,ORTIZ MUNOZ B,9 - 11,87,ESP,1:27
+5m shot - Missed,9,6.0,6,11,ESP,4.0,CHRISTMAS K,9 - 11,68,CAN,1:08
+Centre shot - Goal,9,4.0,6,12,ESP,4.0,ORTIZ MUNOZ B,9 - 12,39,ESP,0:39
+Penalty foul,9,2.0,6,12,ESP,4.0,BACH PASCUAL M,9 - 12,28,ESP,0:28
+Penalty shot - Saved,9,6.0,6,12,ESP,4.0,CHRISTMAS K,9 - 12,28,CAN,0:28
+20 sec. exclusion in centre,9,6.0,6,12,ESP,4.0,LLORET GOMEZ H,9 - 12,23,ESP,0:23
+Action shot - Saved,9,5.0,6,12,ESP,4.0,EGGENS M,9 - 12,16,CAN,0:16
+Time-Out,9,,6,12,ESP,4.0,,9 - 12,13,ESP,0:13
+Action shot - Goal,10,6.0,6,12,ESP,4.0,CHRISTMAS K,10 - 12,3,CAN,0:03
+Starting goalkeeper,0,13.0,7,0,RUS,1.0,KARNAUKH A,0 - 0,480,RUS,8:00
+Starting goalkeeper,0,1.0,7,0,RUS,1.0,GAUDREAULT J,0 - 0,480,CAN,8:00
+Sprint won possession,0,7.0,7,0,RUS,1.0,SERZHANTOVA A,0 - 0,480,RUS,8:00
+Centre shot - Post,0,8.0,7,0,RUS,1.0,SIMANOVICH A,0 - 0,463,RUS,7:43
+20 sec. exclusion in centre,0,10.0,7,0,RUS,1.0,TOLKUNOVA T,0 - 0,437,RUS,7:17
+Extra player shot - Saved,0,12.0,7,0,RUS,1.0,FOURNIER S,0 - 0,417,CAN,6:57
+Action shot - Goal,1,7.0,7,0,RUS,1.0,BEKHAZI J,0 - 1,391,CAN,6:31
+Action shot - Post,1,6.0,7,0,RUS,1.0,GORBUNOVA O,0 - 1,370,RUS,6:10
+Turnover foul,1,4.0,7,0,RUS,1.0,WRIGHT E,0 - 1,352,CAN,5:52
+Turnover foul,1,3.0,7,0,RUS,1.0,PROKOFYEVA E,0 - 1,352,RUS,5:52
+20 sec. exclusion in centre,1,5.0,7,0,RUS,1.0,BORISOVA M,0 - 1,331,RUS,5:31
+Extra player shot - Goal,2,9.0,7,0,RUS,1.0,McKELVEY H,0 - 2,315,CAN,5:15
+Centre shot - Goal,2,3.0,7,1,RUS,1.0,PROKOFYEVA E,1 - 2,297,RUS,4:57
+Centre shot - Saved,2,2.0,7,1,RUS,1.0,ALOGBO K,1 - 2,284,CAN,4:44
+Centre shot - Goal,2,9.0,7,2,RUS,1.0,TIMOFEEVA A,2 - 2,263,RUS,4:23
+Turnover foul,2,9.0,7,2,RUS,1.0,McKELVEY H,2 - 2,237,CAN,3:57
+Steal,2,3.0,7,2,RUS,1.0,PROKOFYEVA E,2 - 2,237,RUS,3:57
+20 sec. exclusion in field,2,6.0,7,2,RUS,1.0,CHRISTMAS K,2 - 2,231,CAN,3:51
+Time-Out,2,,7,2,RUS,1.0,,2 - 2,231,RUS,3:51
+Turnover foul,2,6.0,7,2,RUS,1.0,GORBUNOVA O,2 - 2,217,RUS,3:37
+Steal,2,7.0,7,2,RUS,1.0,BEKHAZI J,2 - 2,217,CAN,3:37
+Penalty foul,2,6.0,7,2,RUS,1.0,GORBUNOVA O,2 - 2,191,RUS,3:11
+Penalty shot - Goal,3,5.0,7,2,RUS,1.0,EGGENS M,2 - 3,191,CAN,3:11
+Action shot - Post,3,11.0,7,2,RUS,1.0,IVANOVA E,2 - 3,173,RUS,2:53
+Turnover foul,3,6.0,7,2,RUS,1.0,CHRISTMAS K,2 - 3,165,CAN,2:45
+Action shot - Goal,3,12.0,7,3,RUS,1.0,RYZHKOVA D,3 - 3,149,RUS,2:29
+Turnover foul,3,10.0,7,3,RUS,1.0,ROBINSON C,3 - 3,132,CAN,2:12
+Steal,3,12.0,7,3,RUS,1.0,RYZHKOVA D,3 - 3,132,RUS,2:12
+Counter attack - Blocked,3,3.0,7,3,RUS,1.0,PROKOFYEVA E,3 - 3,122,RUS,2:02
+Turnover foul,3,4.0,7,3,RUS,1.0,KARIMOVA E,3 - 3,110,RUS,1:50
+Steal,3,11.0,7,3,RUS,1.0,McKEE K,3 - 3,110,CAN,1:50
+5m shot - Saved,3,11.0,7,3,RUS,1.0,McKEE K,3 - 3,88,CAN,1:28
+Turnover foul,3,4.0,7,3,RUS,1.0,KARIMOVA E,3 - 3,67,RUS,1:07
+Steal,3,4.0,7,3,RUS,1.0,WRIGHT E,3 - 3,67,CAN,1:07
+Time-Out,3,,7,3,RUS,1.0,,3 - 3,66,CAN,1:06
+5m shot - Saved,3,5.0,7,3,RUS,1.0,EGGENS M,3 - 3,55,CAN,0:55
+5m shot - Saved,3,8.0,7,3,RUS,1.0,SIMANOVICH A,3 - 3,30,RUS,0:30
+Centre shot - Saved,3,4.0,7,3,RUS,1.0,WRIGHT E,3 - 3,3,CAN,0:03
+5m shot - Saved,3,13.0,7,3,RUS,1.0,KARNAUKH A,3 - 3,1,RUS,0:01
+Starting goalkeeper,3,13.0,7,3,RUS,2.0,KARNAUKH A,3 - 3,480,RUS,8:00
+Starting goalkeeper,3,1.0,7,3,RUS,2.0,GAUDREAULT J,3 - 3,480,CAN,8:00
+Sprint won possession,3,12.0,7,3,RUS,2.0,RYZHKOVA D,3 - 3,480,RUS,8:00
+Turnover foul,3,8.0,7,3,RUS,2.0,SIMANOVICH A,3 - 3,463,RUS,7:43
+Steal,3,5.0,7,3,RUS,2.0,EGGENS M,3 - 3,463,CAN,7:43
+20 sec. exclusion in field,3,10.0,7,3,RUS,2.0,TOLKUNOVA T,3 - 3,462,RUS,7:42
+Action shot - Missed,3,5.0,7,3,RUS,2.0,EGGENS M,3 - 3,437,CAN,7:17
+Action shot - Goal,3,12.0,7,4,RUS,2.0,RYZHKOVA D,4 - 3,410,RUS,6:50
+Action shot - Goal,4,4.0,7,4,RUS,2.0,WRIGHT E,4 - 4,384,CAN,6:24
+5m shot - Goal,4,5.0,7,5,RUS,2.0,BORISOVA M,5 - 4,368,RUS,6:08
+Turnover foul,4,8.0,7,5,RUS,2.0,LEMAY-LAVOIE E,5 - 4,339,CAN,5:39
+Steal,4,9.0,7,5,RUS,2.0,TIMOFEEVA A,5 - 4,339,RUS,5:39
+Centre shot - Saved,4,9.0,7,5,RUS,2.0,TIMOFEEVA A,5 - 4,316,RUS,5:16
+Action shot - Saved,4,4.0,7,5,RUS,2.0,WRIGHT E,5 - 4,296,CAN,4:56
+5m shot - Missed,4,3.0,7,5,RUS,2.0,PROKOFYEVA E,5 - 4,269,RUS,4:29
+20 sec. exclusion in centre,4,11.0,7,5,RUS,2.0,IVANOVA E,5 - 4,243,RUS,4:03
+Time-Out,4,,7,5,RUS,2.0,,5 - 4,243,CAN,4:03
+Extra player shot - Saved,4,6.0,7,5,RUS,2.0,CHRISTMAS K,5 - 4,227,CAN,3:47
+Turnover foul,4,5.0,7,5,RUS,2.0,BORISOVA M,5 - 4,198,RUS,3:18
+Steal,4,2.0,7,5,RUS,2.0,ALOGBO K,5 - 4,198,CAN,3:18
+Turnover foul,4,6.0,7,5,RUS,2.0,CHRISTMAS K,5 - 4,177,CAN,2:57
+20 sec. exclusion in field,4,9.0,7,5,RUS,2.0,McKELVEY H,5 - 4,168,CAN,2:48
+5m shot - Saved,4,5.0,7,5,RUS,4.0,EGGENS M,5 - 4,327,CAN,5:27
+20 sec. exclusion in centre,4,10.0,7,5,RUS,4.0,ROBINSON C,5 - 4,306,CAN,5:06
+Action shot - Post,4,3.0,7,5,RUS,4.0,PROKOFYEVA E,5 - 4,283,RUS,4:43
+Turnover foul,4,2.0,7,5,RUS,4.0,ALOGBO K,5 - 4,260,CAN,4:20
+Centre shot - Goal,8,5.0,7,10,RUS,4.0,BORISOVA M,10 - 8,233,RUS,3:53
+20 sec. exclusion in centre,8,2.0,7,10,RUS,4.0,VAKHITOVA V,10 - 8,218,RUS,3:38
+Extra player shot - Saved,8,9.0,7,10,RUS,4.0,McKELVEY H,10 - 8,207,CAN,3:27
+5m shot - Missed,8,6.0,7,10,RUS,4.0,GORBUNOVA O,10 - 8,175,RUS,2:55
+Centre shot - Post,8,10.0,7,10,RUS,4.0,ROBINSON C,10 - 8,149,CAN,2:29
+Turnover foul,8,11.0,7,10,RUS,4.0,IVANOVA E,10 - 8,124,RUS,2:04
+Turnover foul,8,5.0,7,10,RUS,4.0,EGGENS M,10 - 8,109,CAN,1:49
+Steal,8,13.0,7,10,RUS,4.0,KARNAUKH A,10 - 8,109,RUS,1:49
+Centre shot - Saved,8,10.0,7,10,RUS,4.0,ROBINSON C,10 - 8,70,CAN,1:10
+Time-Out,8,,7,10,RUS,2.0,,10 - 8,168,RUS,2:48
+Extra player shot - Goal,4,3.0,7,6,RUS,2.0,PROKOFYEVA E,6 - 4,150,RUS,2:30
+Goalkeeper substitution,4,13.0,7,6,RUS,2.0,HAGE Y,6 - 4,150,CAN,2:30
+20 sec. exclusion in field,4,12.0,7,6,RUS,2.0,RYZHKOVA D,6 - 4,140,RUS,2:20
+Extra player shot - Goal,5,5.0,7,6,RUS,2.0,EGGENS M,6 - 5,125,CAN,2:05
+Turnover foul,5,7.0,7,6,RUS,2.0,SERZHANTOVA A,6 - 5,96,RUS,1:36
+Steal,5,6.0,7,6,RUS,2.0,CHRISTMAS K,6 - 5,96,CAN,1:36
+Turnover foul,5,5.0,7,6,RUS,2.0,EGGENS M,6 - 5,73,CAN,1:13
+Centre shot - Saved,5,8.0,7,6,RUS,2.0,SIMANOVICH A,6 - 5,55,RUS,0:55
+20 sec. exclusion in field,5,12.0,7,6,RUS,2.0,RYZHKOVA D,6 - 5,42,RUS,0:42
+Turnover foul,5,10.0,7,6,RUS,2.0,ROBINSON C,6 - 5,24,CAN,0:24
+20 sec. exclusion in field,5,6.0,7,6,RUS,2.0,CHRISTMAS K,6 - 5,10,CAN,0:10
+Extra player shot - Goal,5,7.0,7,7,RUS,2.0,SERZHANTOVA A,7 - 5,1,RUS,0:01
+Starting goalkeeper,5,13.0,7,7,RUS,3.0,KARNAUKH A,7 - 5,480,RUS,8:00
+Starting goalkeeper,5,13.0,7,7,RUS,3.0,HAGE Y,7 - 5,480,CAN,8:00
+Sprint won possession,5,6.0,7,7,RUS,3.0,GORBUNOVA O,7 - 5,480,RUS,8:00
+Action shot - Blocked,5,6.0,7,7,RUS,3.0,GORBUNOVA O,7 - 5,453,RUS,7:33
+Action shot - Saved,5,5.0,7,7,RUS,3.0,EGGENS M,7 - 5,433,CAN,7:13
+Action shot - Post,5,11.0,7,7,RUS,3.0,IVANOVA E,7 - 5,407,RUS,6:47
+20 sec. exclusion in field,5,8.0,7,7,RUS,3.0,SIMANOVICH A,7 - 5,400,RUS,6:40
+Turnover foul,5,4.0,7,7,RUS,3.0,WRIGHT E,7 - 5,375,CAN,6:15
+Steal,5,10.0,7,7,RUS,3.0,TOLKUNOVA T,7 - 5,375,RUS,6:15
+Counter attack - Goal,5,4.0,7,8,RUS,3.0,KARIMOVA E,8 - 5,364,RUS,6:04
+Turnover foul,5,9.0,7,8,RUS,3.0,McKELVEY H,8 - 5,337,CAN,5:37
+Steal,5,3.0,7,8,RUS,3.0,PROKOFYEVA E,8 - 5,337,RUS,5:37
+5m shot - Blocked,5,3.0,7,8,RUS,3.0,PROKOFYEVA E,8 - 5,308,RUS,5:08
+5m shot - Saved,5,12.0,7,8,RUS,3.0,FOURNIER S,8 - 5,289,CAN,4:49
+5m shot - Missed,5,12.0,7,8,RUS,3.0,RYZHKOVA D,8 - 5,260,RUS,4:20
+Action shot - Post,5,6.0,7,8,RUS,3.0,CHRISTMAS K,8 - 5,239,CAN,3:59
+Action shot - Goal,5,7.0,7,9,RUS,3.0,SERZHANTOVA A,9 - 5,213,RUS,3:33
+20 sec. exclusion in centre,5,10.0,7,9,RUS,3.0,TOLKUNOVA T,9 - 5,201,RUS,3:21
+Exclusion with substitution,5,10.0,7,9,RUS,3.0,TOLKUNOVA T,9 - 5,201,RUS,3:21
+Extra player shot - Post,5,5.0,7,9,RUS,3.0,EGGENS M,9 - 5,190,CAN,3:10
+Action shot - Blocked,5,12.0,7,9,RUS,3.0,RYZHKOVA D,9 - 5,165,RUS,2:45
+5m shot - Saved,5,6.0,7,9,RUS,3.0,GORBUNOVA O,9 - 5,146,RUS,2:26
+20 sec. exclusion in field,5,2.0,7,9,RUS,3.0,VAKHITOVA V,9 - 5,144,RUS,2:24
+Time-Out,5,,7,9,RUS,3.0,,9 - 5,144,CAN,2:24
+Extra player shot - Goal,6,4.0,7,9,RUS,3.0,WRIGHT E,9 - 6,133,CAN,2:13
+5m shot - Saved,6,5.0,7,9,RUS,3.0,BORISOVA M,9 - 6,104,RUS,1:44
+Penalty foul,6,5.0,7,9,RUS,3.0,BORISOVA M,9 - 6,90,RUS,1:30
+Yellow card,6,,7,9,RUS,3.0,Team Official,9 - 6,90,RUS,1:30
+Penalty shot - Goal,7,4.0,7,9,RUS,3.0,WRIGHT E,9 - 7,90,CAN,1:30
+20 sec. exclusion in field,7,6.0,7,9,RUS,3.0,CHRISTMAS K,9 - 7,76,CAN,1:16
+Exclusion with substitution,7,6.0,7,9,RUS,3.0,CHRISTMAS K,9 - 7,76,CAN,1:16
+Time-Out,7,,7,9,RUS,3.0,,9 - 7,76,RUS,1:16
+Centre shot - Missed,7,11.0,7,9,RUS,3.0,IVANOVA E,9 - 7,52,RUS,0:52
+20 sec. exclusion in centre,7,11.0,7,9,RUS,3.0,IVANOVA E,9 - 7,36,RUS,0:36
+Extra player shot - Missed,7,12.0,7,9,RUS,3.0,FOURNIER S,9 - 7,21,CAN,0:21
+5m shot - Missed,7,3.0,7,9,RUS,3.0,PROKOFYEVA E,9 - 7,1,RUS,0:01
+Starting goalkeeper,7,13.0,7,9,RUS,4.0,KARNAUKH A,9 - 7,480,RUS,8:00
+Starting goalkeeper,7,1.0,7,9,RUS,4.0,GAUDREAULT J,9 - 7,480,CAN,8:00
+Sprint won possession,7,6.0,7,9,RUS,4.0,GORBUNOVA O,9 - 7,480,RUS,8:00
+20 sec. exclusion in field,7,7.0,7,9,RUS,4.0,BEKHAZI J,9 - 7,463,CAN,7:43
+Yellow card,7,,7,9,RUS,4.0,Team Official,9 - 7,457,CAN,7:37
+Extra player shot - Blocked,7,8.0,7,9,RUS,4.0,SIMANOVICH A,9 - 7,447,RUS,7:27
+20 sec. exclusion in field,7,6.0,7,9,RUS,4.0,GORBUNOVA O,9 - 7,426,RUS,7:06
+Extra player shot - Missed,7,4.0,7,9,RUS,4.0,WRIGHT E,9 - 7,414,CAN,6:54
+Turnover foul,7,5.0,7,9,RUS,4.0,BORISOVA M,9 - 7,390,RUS,6:30
+20 sec. exclusion in field,7,8.0,7,9,RUS,4.0,SIMANOVICH A,9 - 7,373,RUS,6:13
+Extra player shot - Goal,8,5.0,7,9,RUS,4.0,EGGENS M,9 - 8,369,CAN,6:09
+5m shot - Missed,8,5.0,7,9,RUS,4.0,BORISOVA M,9 - 8,349,RUS,5:49
+5m shot - Missed,8,4.0,7,9,RUS,4.0,KARIMOVA E,9 - 8,40,RUS,0:40
+Time-Out,8,,7,9,RUS,4.0,,9 - 8,40,CAN,0:40
+Turnover foul,8,10.0,7,9,RUS,4.0,ROBINSON C,9 - 8,34,CAN,0:34
+20 sec. exclusion in field,8,10.0,7,9,RUS,4.0,ROBINSON C,9 - 8,34,CAN,0:34
+Exclusion with substitution,8,10.0,7,9,RUS,4.0,ROBINSON C,9 - 8,34,CAN,0:34
+Time-Out,8,,7,9,RUS,4.0,,9 - 8,34,RUS,0:34
+Extra player shot - Goal,8,12.0,7,11,RUS,4.0,RYZHKOVA D,11 - 8,15,RUS,0:15
+Penalty foul,8,2.0,7,11,RUS,4.0,VAKHITOVA V,11 - 8,2,RUS,0:02
+Exclusion with substitution,8,2.0,7,11,RUS,4.0,VAKHITOVA V,11 - 8,2,RUS,0:02
+Double exclusion,8,5.0,7,11,RUS,4.0,BORISOVA M,11 - 8,2,RUS,0:02
+Double exclusion,8,2.0,7,11,RUS,4.0,ALOGBO K,11 - 8,2,CAN,0:02
+Exclusion with substitution,8,5.0,7,11,RUS,4.0,BORISOVA M,11 - 8,2,RUS,0:02
+Penalty shot - Goal,9,5.0,7,11,RUS,4.0,EGGENS M,11 - 9,2,CAN,0:02
