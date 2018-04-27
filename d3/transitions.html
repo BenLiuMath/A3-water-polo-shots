@@ -62,10 +62,10 @@ h1{
 }
 
 .scatterdot {
-	stroke: none;
+	  stroke: none;
     fill: darkblue;
     opacity:.55;
-	shape-rendering: geometricPrecision;
+	  shape-rendering: geometricPrecision;
 }
 
 .teamnameThis, .teamnameOpponent {
@@ -517,6 +517,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 
     averageLines.transition()
        .duration(200)
+       .delay(600)
        .style("opacity", 1.0);
 
 	var t = d3.transition()
@@ -548,6 +549,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 
     mydots.transition()
       .duration(500)
+      .delay(200)
       .style("opacity", 0.55);
 
 		mydots.on("mouseover", function(d) {
@@ -566,6 +568,55 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 
 }
 }
+
+//  Scatterplot legend
+var scatterLegendVals = [1,2,4];
+var scatterLegend = scatterGroup.append("g")
+  // .attr("class", " ")
+  .attr("width", scatterWidth/3)
+  .attr("height", scatterHeight)
+  .attr("transform", `translate(${5*(scatterWidth+scatterPadding)-30}, 10)`);
+
+for(var nn=0; nn<scatterLegendVals.length; nn++) {
+    scatterLegend.append("circle")
+    .attr("class", "scatterdot")
+    .attr("r",4*Math.sqrt(scatterLegendVals[nn]))
+    .attr("transform", `translate(0,${nn*20})`);
+
+    	if(scatterLegendVals[nn]===1) {
+        scatterLegend.append("text")
+        // .attr("class","axisLabel")
+        .attr("transform",
+          "translate(" + (scatterWidth/6 + 15) + " ," +
+                   (nn*20-18) + ")")
+        .attr("dy","2em")
+        .style("text-anchor", "middle")
+        .text(scatterLegendVals[nn] + " player");
+      } else {
+        scatterLegend.append("text")
+        // .attr("class","axisLabel")
+        .attr("transform",
+          "translate(" + (scatterWidth/6 + 15) + " ," +
+                   (nn*20-18) + ")")
+        .attr("dy","2em")
+        .style("text-anchor", "middle")
+        .text(scatterLegendVals[nn] + " players");
+      }
+  }
+
+  scatterLegend.append("path")
+  .attr("class","ratioLine")
+  // draw a line at (0, ratio) to (x-axis-length, ratio)
+  .attr("transform", `translate(0,${10+scatterLegendVals.length*20})`)
+  .attr("d", "M " + -7 + " " + 0 + " L " + 7+ " " + 0);
+
+  scatterLegend.append("text")
+  .attr("transform",
+    "translate(" + (scatterWidth/6 + 15) + " ," +
+             (10+scatterLegendVals.length*20-18) + ")")
+  .attr("dy","2em")
+  .style("text-anchor", "middle")
+  .text("Team Avg.");
 
 }
 
