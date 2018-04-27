@@ -579,6 +579,20 @@ for(var nn=0; nn<scatterLegendVals.length; nn++) {
       }
   }
 
+  scatterLegend.append("path")
+  .attr("class","ratioLine")
+  // draw a line at (0, ratio) to (x-axis-length, ratio)
+  .attr("transform", `translate(0,${10+scatterLegendVals.length*20})`)
+  .attr("d", "M " + -7 + " " + 0 + " L " + 7+ " " + 0);
+
+  scatterLegend.append("text")
+  .attr("transform",
+    "translate(" + (scatterWidth/6 + 15) + " ," +
+             (10+scatterLegendVals.length*20-18) + ")")
+  .attr("dy","2em")
+  .style("text-anchor", "middle")
+  .text("Team Avg.");
+
 }
 
 /////////////////////////////
