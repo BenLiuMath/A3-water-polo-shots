@@ -247,6 +247,19 @@ var shotData = allShotSummaryDatas[currTeam];
 //console.log(JSON.stringify(shotData).replace(/},{/g,"},\n\n{"));
 var players = [];
 
+function toTitleCase(text) {
+  // Assumes data comes in the form "LASTNAME FIRSTINITIAL"
+  [token1, token2, token3] = text.split(" ")
+  if(token3)
+  {
+    return token3.charAt(0).toUpperCase() + ". " + token2.charAt(0).toUpperCase() + token2.substr(1).toLowerCase()
+            + " " + token1.charAt(0).toUpperCase() + token1.substr(1).toLowerCase();
+  }
+  else {
+    return token2.charAt(0).toUpperCase() + ". " + token1.charAt(0).toUpperCase() + token1.substr(1).toLowerCase();
+  }
+}
+
 
 function populateSelectors() {
 	for(var ii=0; ii<6; ii++) { // need to change this to depend on the data; some teams didn't make it to 6 games
@@ -261,6 +274,7 @@ function populateSelectors() {
 	players.forEach( function(player) {
 		var opt = document.createElement("option");
 		opt.text = player;
+    opt.label = toTitleCase(player);
 		playerSelect.add(opt);
 	});
 }
@@ -483,7 +497,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 			tooltip.transition()
 			.duration(200)
 			.style("opacity", 1.0);
-			tooltip.html("Made: " + d.coord[1]+"/"+d.coord[0]+'<ul><li> <img style="width:15px;height:9px;" src="img/' + currTeamCode + '.png"></img>' +d.players.join('</li><li><img style="width:15px;height:9px;" src="img/' + currTeamCode + '.png"></img>')+"</li></ul>")
+			tooltip.html("Made: " + d.coord[1]+"/"+d.coord[0]+'<ul><li>' + d.players.map(toTitleCase).join('</li><li>')+"</li></ul>")
 			.style("left", (d3.event.pageX + 5) + "px")
 			.style("top", (d3.event.pageY - 28) + "px");
 		})
@@ -819,7 +833,7 @@ for(var nn=0; nn<6; nn++) {
 		var dots = quarter.selectAll(".shotIcon")
 			.data(gameNData);
 
-    console.log(gameNData)
+    // console.log(gameNData)
 		dots.enter()
 			.append("circle")
 			.attr("class",classNames)
@@ -833,7 +847,7 @@ for(var nn=0; nn<6; nn++) {
 				tooltip.transition()
 				.duration(200)
 				.style("opacity", 1.0);
-				tooltip.html('<img style="width:15px;height:9px;" src="img/' + d.Team + '.png"></img>' + d.Player +" (" + d.Team +  ")<br>" + d.Action + ", " + d.Time)
+				tooltip.html('<img style="width:15px;height:9px;" src="img/' + d.Team + '.png"></img>' + toTitleCase(d.Player) +" (" + d.Team +  ")<br>" + d.Action + ", " + d.Time)
 				.style("left", (d3.event.pageX -5) + "px")
 				.style("top", (d3.event.pageY - 50) + "px");
 			})
