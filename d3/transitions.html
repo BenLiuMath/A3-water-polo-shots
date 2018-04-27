@@ -321,6 +321,8 @@ var jitter = 0;
 var probability = d3.scaleLinear().rangeRound([scatterHeight,0])
 	.domain([-.1, 1.1]);
 
+var ratios = 0;
+
 var scatterCharts = [];
 var scatterGroup = svg.append("g")
 	.attr("transform", `translate(0, 0)`);
@@ -391,6 +393,8 @@ for(var nn=0; nn<6; nn++) {
 }
 //console.log("games to filter:"+gamesToFilter);
 
+// Iterate over each of the scatterplots
+
 for(var nn=0; nn<shotTypes.length; nn++) {
 	var chart = scatterCharts[nn];
 		//mydots.attr("class","scatterdot focused");
@@ -415,7 +419,6 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 
 	//console.log("Shot extent:"+shotextent+"; lim:"+lim);
 
-
     // Add lines that are redrawn upon click
     var totalShotsMade = 0;
     var totalShotsAttempted = 0;
@@ -428,23 +431,22 @@ for(var nn=0; nn<shotTypes.length; nn++) {
       totalShotsAttempted += myData[i].coord[1];
     }
     //console.log(shotData);
-    var ratio = totalShotsAttempted / totalShotsMade;
-    //console.log(shots(ratio));
+    ratios =  totalShotsAttempted / totalShotsMade;
     chart.selectAll(".ratioLine").remove();
     var averageLines = chart.selectAll(".ratioLine")
-		.data(myData)
+		.data([ratios])  // data is a singleton array with # shots made / # shots for the current team and scatterplot
 		.enter()
 		.append("path")
 		.attr("class","ratioLine")
     // draw a line at (0, ratio) to (x-axis-length, ratio)
-		.attr("d", "M " + 0 + " " + probability(ratio) + " L " + scatterWidth + " " + probability(ratio))
+		.attr("d", "M " + 0 + " " + probability(ratios) + " L " + scatterWidth + " " + probability(ratios))
     .on("mouseover", function(d) {
       tooltip.transition()
       .duration(200)
       .style("opacity", 1.0);
       // currTeamCode stores the current team
-      // tooltip.content() potentially make a flag instead of Team: USA etc.
-      tooltip.html(currTeamCode + " Average Success: " + ratio.toFixed(4))
+      // flags are 3:5 ratio by Wikipedia
+      tooltip.html('<img style="width:15px;height:9px;" src="img/' + currTeamCode + '.png"></img> Average: ' + (100*d).toFixed(2) + "%")
       .style("left", (d3.event.pageX -5) + "px")
       .style("top", (d3.event.pageY -20) + "px");
     })
@@ -570,7 +572,7 @@ for(var nn=0; nn<6; nn++) {
 		.text("?");
 	timeline.append("image")
 		.attr("class","flagThis")
-		.attr("xlink:href", "img/" + currTeamCode + ".png")
+		.attr("href", "img/" + currTeamCode + ".png")
 		.attr("y", timelineHeight/2-20)
 		.attr("x",-timelineInternalPadding-lineLength)
 		.attr("height", "20px");
@@ -585,7 +587,7 @@ for(var nn=0; nn<6; nn++) {
 		.text("?");
 	timeline.append("image")
 		.attr("class","flagOpponent")
-		.attr("xlink:href", "img/" + currTeamCode + ".png")
+		.attr("href", "img/" + currTeamCode + ".png")
 		.attr("y", timelineHeight/2)
 		.attr("x",-timelineInternalPadding-lineLength)
 		.attr("height", "20px");
@@ -665,9 +667,9 @@ for(var nn=0; nn<6; nn++) {
 	if(gameNData.length==0) { // There is no n-th game; kill chart
 
 		timeline.selectAll(".flagThis")
-			.attr("xlink:href", "img/" + "BLANK" + ".png");
+			.attr("href", "img/" + "BLANK" + ".png");
 		timeline.selectAll(".flagOpponent")
-			.attr("xlink:href", "img/" + "BLANK" + ".png");
+			.attr("href", "img/" + "BLANK" + ".png");
 
 		timeline.selectAll(".teamnameThis")
 			.text("");
@@ -718,9 +720,9 @@ for(var nn=0; nn<6; nn++) {
 
 	// set flags, names on left
 	timeline.selectAll(".flagThis")
-		.attr("xlink:href", "img/" + currTeamCode + ".png");
+		.attr("href", "img/" + currTeamCode + ".png");
 	timeline.selectAll(".flagOpponent")
-		.attr("xlink:href", "img/" + otherTeam + ".png");
+		.attr("href", "img/" + otherTeam + ".png");
 
 	timeline.selectAll(".teamnameThis")
 		.text(currTeamCode);
