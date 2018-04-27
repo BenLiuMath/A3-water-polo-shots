@@ -495,7 +495,7 @@ function initializeScatterCharts() {
 
 	//  Scatterplot legend
 	var scatterLegendVals = [1,2,4];
-	var scatterLegend = scatterGroup.append("g")
+	scatterLegend = scatterGroup.append("g")
 	  // .attr("class", " ")
 	  .attr("width", scatterWidth/3)
 	  .attr("height", scatterHeight)
@@ -539,12 +539,27 @@ function initializeScatterCharts() {
 		"translate(" + (scatterWidth/6 + 15) + " ," +
 				 (10+scatterLegendVals.length*20-18) + ")")
 	  .attr("dy","2em")
+    .attr("dx", "1.5em")
 	  .style("text-anchor", "middle")
-	  .text("Team Avg.");
+	  .text("Avg. %");
+    scatterLegend.append("image")
+      .attr("id", "legendPicture")
+      .attr("href", "img/" + currTeamCode + ".png")
+      .attr("height", "10px")
+      .attr("width", "16.6px")
+      .attr("x", 15)
+      .attr("y", 65);
 }
 
 function filterScatterPlots() {
 console.log();
+scatterLegend.append("image")
+  .attr("id", "legendPicture")
+  .attr("href", "img/" + currTeamCode + ".png")
+  .attr("height", "10px")
+  .attr("width", "16.6px")
+  .attr("x", 15)
+  .attr("y", 65);
 // Iterate over each of the scatterplots
 for(var nn=0; nn<shotTypes.length; nn++) {
 	var chart = scatterCharts[nn];
@@ -608,7 +623,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
                 .style("opacity", 1.0);
                 // currTeamCode stores the current team
                 // flags are 3:5 ratio by Wikipedia
-                tooltip.html('<img style="width:15px;height:9px;" src="img/' + currTeamCode + '.png"></img> Average: ' + (100*d).toFixed(2) + "%")
+                tooltip.html((100*d).toFixed(2) + "%")
                 .style("left", (d3.event.pageX -5) + "px")
                 .style("top", (d3.event.pageY -20) + "px");
             })
