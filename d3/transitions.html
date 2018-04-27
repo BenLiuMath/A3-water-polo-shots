@@ -68,6 +68,10 @@ h1{
 	shape-rendering: geometricPrecision;
 }
 
+.legend {
+  background-color: coral;
+}
+
 .scatterdotLegend {
 	stroke: none;
 	fill: darkblue;
@@ -656,6 +660,52 @@ function initializeTimelines() {
 			.text("Quarter "+quarterNum);
 	}
 
+//  Timeline legend
+
+var timelineLegend = timelineGroup.append("g")
+  // .attr("class", "legend")
+  // .attr("width", timelineWidth)
+  // .attr("height", timelineHeight)
+  .attr("transform", `translate(${4*(timelineQuarterWidth+timelineInternalPadding)-25}, -50)`);
+
+  var timelineLegendVertSpace = 17;
+  var timelineLegendVertStart = -19;
+  var timelineLegendHorizSpace = 45;
+
+// missed shot icon
+    timelineLegend.append("circle")
+    .attr("class","shotIcon shotIconMiss shotIconFocalTeam")
+    .attr("cx", 0)
+    .attr("cy", 0)
+    .attr("r", 4); // change to 6 if want to reflect focal player
+
+    timelineLegend.append("text")
+    // .attr("class","axisLabel")
+    .attr("transform",
+      `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart})`)
+    .attr("dy","2em")
+    .style("text-anchor", "middle")
+    .text(" missed shot");
+
+    // goal icon
+    timelineLegend.append("circle")
+    .attr("class","shotIcon shotIconFocalTeam")
+    .attr("cx", 0)
+    .attr("cy", timelineLegendVertSpace)
+    .attr("r", 4); // change to 6 if want to reflect focal player
+
+    timelineLegend.append("text")
+    // .attr("class","axisLabel")
+    .attr("transform",
+      `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart+1*timelineLegendVertSpace})`)
+    .attr("dy","2em")
+    .style("text-anchor", "middle")
+    .text(" goal");
+
+    // score area
+
+
+
 
 	for(var nn=0; nn<6; nn++) {
 		gameNum = nn+1;
@@ -955,7 +1005,13 @@ for(var nn=0; nn<6; nn++) {
 				tooltip.transition()
 				.duration(200)
 				.style("opacity", 1.0);
-				tooltip.html('<img style="width:15px;height:9px;" src="img/' + d.Team + '.png"></img>' + " #" + Math.round(d.Cap) + " " + toTitleCase(d.Player) +" (" + d.Team +  ")<br>" + d.Action + ", " + d.Time)
+				tooltip.html(
+          d.Action + ", " + d.Time + "<br>"
+          + ' <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'
+          + " #" + Math.round(d.Cap) + " " + toTitleCase(d.Player)
+          // +" (" + d.Team +  ")"
+          // + '  <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'    // use flag instead of team name
+        )
 				.style("left", (d3.event.pageX - 5) + "px")
 				.style("top", (d3.event.pageY - 50) + "px");
 			})
