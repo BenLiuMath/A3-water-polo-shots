@@ -28,9 +28,9 @@ h1{
 }
 
 .axisLabel {
-	font-size:10pt;
-  fill: black;
-  opacity: 1.0;
+	font-size:12pt;
+	fill: black;
+	opacity: 1.0;
 }
 
 /* Shot Icons */
@@ -113,7 +113,6 @@ ul {
     padding: 0;
 }
 
-#gameSelector { display:none; }
 </style>
 <body>
 <svg id="poloVis"></svg>
@@ -125,10 +124,6 @@ ul {
 Select a team:
 <br/><br/>
 <select id="teamSelector">
-</select>
-
-<br/><br/>
-<select multiple="multiple" style="height:10em; " id="gameSelector">
 </select>
 
 Select a player to <br>highlight their <br>contributions:
@@ -167,7 +162,7 @@ const shotSummaryESP = [{"Player":"BACH PASCUAL M","Game":1,"5m shot attempted":
 
 <script>
 
-// static data and lookup
+// data and lookup
 var shotTypes = ["Total","Action shot","Centre shot","5m shot","Extra player shot"];
 var shotTypesDecode = ["All Shots","Action Shots","Centre Shots","Shots Outside 5m","Extra Player Shots"];
 
@@ -186,7 +181,7 @@ var scatterPadding = 30;
 var scatterTimelinePadding = 110;
 
 var timelineHeight = 80;
-var timelineQuarterWidth = 200;
+var timelineQuarterWidth = 180;
 var timelineInternalPadding = 20;
 var timelineVerticalPadding = 10;
 var timelineWidth = 4*timelineQuarterWidth + 3*timelineInternalPadding;
@@ -204,9 +199,7 @@ scatterWidth = (timelineWidth - 4*scatterPadding)/5;
 // Elements
 {
 var teamSelect = document.getElementById("teamSelector");
-var gameSelect = document.getElementById("gameSelector");
 var playerSelect = document.getElementById("playerSelector");
-var playerSelectOpts = {};
 
 var svg = d3.select("#poloVis")
     .attr("width", widthFull)
@@ -239,15 +232,19 @@ teamSelect.options[0].selected = true;
 
 
 
-// state
+// State
 var currTeam = 0;
 var currTeamCode = teamCodes[currTeam];
+
+var numGames = 0;
 
 var poloData = allPoloDatas[currTeam];
 var shotData = allShotSummaryDatas[currTeam];
 
 //console.log(JSON.stringify(shotData).replace(/},{/g,"},\n\n{"));
+var playerSelectOpts = {};
 var players = [];
+var gameFilter = [];
 
 function toTitleCase(text) {
   // Assumes data comes in the form "LASTNAME FIRSTINITIAL"
@@ -262,15 +259,30 @@ function toTitleCase(text) {
   }
 }
 
+// Initialize data and state variables
+function initializeData(newTeam) {
+	currTeam = newTeam;
+	currTeamCode = teamCodes[newTeam];
+	poloData = allPoloDatas[newTeam];
+	shotData = allShotSummaryDatas[newTeam];
+	numGames = d3.max(poloData.map( (d) => { return d.Game; }));
+	
+	gameFilter = [];
+	for(var ii=0; ii<numGames; ii++) {
+		gameFilter[ii] = false;
+	}
+	
+	players = d3.nest()
+	.key( (d) => { return d.Player; } )
+	.entries(shotData)
+	.map( (d) => {
+		return d.key;
+	});
+	populateSelectors();
+}
 
 function populateSelectors() {
-  // Is this used anymore?
-	for(var ii=0; ii<6; ii++) { // need to change this to depend on the data; some teams didn't make it to 6 games
-		var opt = document.createElement("option");
-		opt.text = "Game "+(ii+1);
-		opt.selected = true;
-		gameSelect.add(opt);
-	}
+
 	for(opt in playerSelect.options) {
 		playerSelect.options.remove(0);
 	}
@@ -403,22 +415,15 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 
 function filterScatterPlots() {
 
-var gamesToFilter = [];
-for(var nn=0; nn<6; nn++) {
-	if(gameSelect.options[nn].selected) {
-		gamesToFilter.push(nn+1);
-	}
-}
-//console.log("games to filter:"+gamesToFilter);
-
 // Iterate over each of the scatterplots
-
 for(var nn=0; nn<shotTypes.length; nn++) {
 	var chart = scatterCharts[nn];
 		//mydots.attr("class","scatterdot focused");
 
   //console.log(shotData[0].Game);
-	var myShotData = aggregateShotDataByPlayer(shotData.filter((d) => { return gamesToFilter.includes(d.Game); }));
+	var myShotData = aggregateShotDataByPlayer(shotData.filter((d) => { return gameFilter[d.Game-1]; }));
+	//console.log(gameFilter);
+	//console.log(JSON.stringify(myShotData).replace(/},{/g,"},\n\n{"));
 	var myGroupedData = groupPlayerShotStatistics(myShotData,shotTypes[nn]);
 	var myData = myGroupedData.filter( (d) => {
 			return d.coord[0]>0;
@@ -448,6 +453,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
       totalShotsMade += myData[i].coord[0];
       totalShotsAttempted += myData[i].coord[1];
     }
+	totalShotsMade = Math.max(totalShotsMade,1); // Avoid divide-by-zero
     //console.log(shotData);
     ratios =  totalShotsAttempted / totalShotsMade;
     chart.selectAll(".ratioLine").remove();
@@ -556,12 +562,12 @@ for(var nn=0; nn<6; nn++) {
 	var timeline = timelineGroup.append("g")
 		.attr("class","timeline")
 		.attr("transform", `translate(0, ${(gameNum-1)*(timelineHeight+timelineVerticalPadding)})`)
+		.attr("opacity",(gameFilter[nn]?1:.25))
 		.on("click", (function makeClickFunction(num) {
 			return (function() {
-					var opt = document.getElementById("gameSelector").options[num];
-					opt.selected = !opt.selected;
+					gameFilter[num] = !gameFilter[num];
 					timelines[num]
-						.attr("opacity",(opt.selected?1:.25));
+						.attr("opacity",(gameFilter[num]?1:.25));
                     filterScatterPlots();
 				})
 			})(nn));
@@ -661,7 +667,6 @@ for(var nn=0; nn<6; nn++) {
 			.attr("class", "areaLose");
 	}
 }
-populateTimelines();
 
 function populateTimelines() {
 //console.clear();
@@ -672,7 +677,6 @@ for(var ii=0; ii<playerSelect.options.length; ii++) {
 	}
 }
 
-var numGames = d3.max(poloData.map( (d) => { return d.Game; }));
 for(var nn=0; nn<6; nn++) {
 	var timeline = timelines[nn];
 
@@ -760,7 +764,7 @@ for(var nn=0; nn<6; nn++) {
 		//console.log("\n\nQuarter: "+quarterNum);
 		var quarter = quarters[nn][quarterNum-1];
 
-// Data-dependent elements
+		// Data-dependent elements
 
 		var gameNData = poloData.filter(isGameN);
 		//console.log(JSON.stringify(gameNData).replace(/},{/g,"},\n\n{"));
@@ -851,7 +855,7 @@ for(var nn=0; nn<6; nn++) {
 				.duration(200)
 				.style("opacity", 1.0);
 				tooltip.html('<img style="width:15px;height:9px;" src="img/' + d.Team + '.png"></img>' + " #" + Math.round(d.Cap) + " " + toTitleCase(d.Player) +" (" + d.Team +  ")<br>" + d.Action + ", " + d.Time)
-				.style("left", (d3.event.pageX -5) + "px")
+				.style("left", (d3.event.pageX - 5) + "px")
 				.style("top", (d3.event.pageY - 50) + "px");
 			})
 			.on("mouseout", function(d) {
@@ -873,29 +877,22 @@ for(var nn=0; nn<6; nn++) {
 
 }
 
+function switchTeam(newTeam) {
+	initializeData(newTeam);
+	drawAll();
+}
 
 function drawAll() {
-	players = d3.nest()
-	.key( (d) => { return d.Player; } )
-	.entries(shotData)
-	.map( (d) => {
-		return d.key;
-	});
-
-	populateSelectors();
-
 	filterScatterPlots();
 	populateTimelines();
 }
-drawAll();
+
+switchTeam(0);
 
 teamSelect.addEventListener("change", function() {
-	currTeam = teamSelect.selectedIndex;
-	currTeamCode = teamCodes[currTeam];
-	poloData = allPoloDatas[currTeam];
-	shotData = allShotSummaryDatas[currTeam];
+	var newTeam = teamSelect.selectedIndex;
+	switchTeam(newTeam);
   // console.log("Current team is " + currTeamCode);
-	drawAll();
 });
 
 playerSelect.addEventListener("change", function() {
