@@ -37,7 +37,6 @@ h1{
 .shotIcon {
 	shape-rendering: geometricPrecision;
 	stroke-width:1.5px;
-	r:4px;
 }
 .shotIconFocalTeam {
     stroke:#4056a1;
@@ -51,7 +50,6 @@ h1{
 .shotIconFocalPlayer {
     stroke: #CCAA00;
     fill: #CCAA00;
-	r:6px !important;
 }
 .shotIconMiss {
     fill:transparent !important;
@@ -123,13 +121,15 @@ ul {
 
 Select a team:
 <br/><br/>
-<select id="teamSelector">
-</select>
+<select id="teamSelector"></select>
 
-Select a player to <br>highlight their <br>contributions:
 <br/><br/>
-<select multiple="multiple" style="height:20em; width:15em; " id="playerSelector">
-</select>
+Select a player to highlight their contributions:
+<br/>
+<select multiple="multiple" style="height:20em; width:15em; display:none; " id="playerSelector"></select>
+
+<br/>
+<div id="roster">b</div>
 
 <br/><br/>
 Hover over data<br/>to see details.
@@ -196,7 +196,9 @@ scatterWidth = (timelineWidth - 4*scatterPadding)/5;
 }
 
 
-// Elements
+/**
+* Elements
+*/
 {
 var teamSelect = document.getElementById("teamSelector");
 var playerSelect = document.getElementById("playerSelector");
@@ -218,8 +220,6 @@ var svg = d3.select("#poloVis")
 var tooltip = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
-}
-
 
 for(var ii=0; ii<teamCodes.length; ii++) {
 	var opt = document.createElement("option");
@@ -227,16 +227,20 @@ for(var ii=0; ii<teamCodes.length; ii++) {
 	teamSelect.add(opt);
 }
 teamSelect.options[0].selected = true;
+}
 
 
 
 
-
-// State
+/**
+* State
+*/
+{
 var currTeam = 0;
 var currTeamCode = teamCodes[currTeam];
 
 var numGames = 0;
+var gameFilter = [0,0,0,0,0,0];
 
 var poloData = allPoloDatas[currTeam];
 var shotData = allShotSummaryDatas[currTeam];
@@ -244,23 +248,15 @@ var shotData = allShotSummaryDatas[currTeam];
 //console.log(JSON.stringify(shotData).replace(/},{/g,"},\n\n{"));
 var playerSelectOpts = {};
 var players = [];
-var gameFilter = [0,0,0,0,0,0];
-
-function toTitleCase(text) {
-  // Assumes data comes in the form "LASTNAME FIRSTINITIAL"
-  [token1, token2, token3] = text.split(" ")
-  if(token3)
-  {
-    return token3.charAt(0).toUpperCase() + ". " + token2.charAt(0).toUpperCase() + token2.substr(1).toLowerCase()
-            + " " + token1.charAt(0).toUpperCase() + token1.substr(1).toLowerCase();
-  }
-  else {
-    return token2.charAt(0).toUpperCase() + ". " + token1.charAt(0).toUpperCase() + token1.substr(1).toLowerCase();
-  }
+var playerFilter = [];
 }
 
-// Initialize data and state variables
+/**
+* Initialize data and state variables
+*/
+{
 function initializeData(newTeam) {
+	playerFilter = [];
 	currTeam = newTeam;
 	currTeamCode = teamCodes[newTeam];
 	poloData = allPoloDatas[newTeam];
@@ -288,13 +284,44 @@ function populateSelectors() {
 	for(opt in playerSelect.options) {
 		playerSelect.options.remove(0);
 	}
+	var roster = document.getElementById("roster");
+	roster.innerHTML = "";
+	
 	players.forEach( function(player) {
 		var opt = document.createElement("option");
 		opt.text = player;
-    opt.label = toTitleCase(player);
+		opt.label = toTitleCase(player);
 		playerSelect.add(opt);
 		playerSelectOpts[player] = opt;
+		
+		var myA = document.createElement("a");
+		myA.href = "#";
+		myA.addEventListener("click", function() {
+			togglePlayer(player);
+		});
+		myA.appendChild(document.createTextNode(player));
+		roster.appendChild(myA);
+		roster.appendChild(document.createElement("br"));
 	});
+}
+}
+
+/**
+* Data filtering and processing functions
+*/
+{
+
+function toTitleCase(text) {
+  // Assumes data comes in the form "LASTNAME FIRSTINITIAL"
+  [token1, token2, token3] = text.split(" ")
+  if(token3)
+  {
+    return token3.charAt(0).toUpperCase() + ". " + token2.charAt(0).toUpperCase() + token2.substr(1).toLowerCase()
+            + " " + token1.charAt(0).toUpperCase() + token1.substr(1).toLowerCase();
+  }
+  else {
+    return token2.charAt(0).toUpperCase() + ". " + token1.charAt(0).toUpperCase() + token1.substr(1).toLowerCase();
+  }
 }
 
 function aggregateShotDataByPlayer(data) {
@@ -337,18 +364,14 @@ function groupPlayerShotStatistics(data,shotType) {
 	});
 	return shotDataGrouped;
 }
-
-//console.log(JSON.stringify(shotDataAggregatedByPlayer).replace(/},{/g,"},\n\n{"));
-//console.log(JSON.stringify(shotDataGrouped).replace(/},{/g,"},\n\n{"));
+}
 
 
 
-/////////////////////////////
-// BEGIN SCATTERCHART CODE //
-/////////////////////////////
-
+/**
+* Scatter charts
+*/
 {
-var jitter = 0;
 // probability function for plotting y-values on the charts
 var probability = d3.scaleLinear().rangeRound([scatterHeight,0])
 	.domain([-.1, 1.1]);
@@ -358,62 +381,64 @@ var ratios = 0;
 var scatterCharts = [];
 var scatterGroup = svg.append("g")
 	.attr("transform", `translate(0, 0)`);
-for(var nn=0; nn<shotTypes.length; nn++) {
+	
+function initializeScatterCharts() {
+	for(var nn=0; nn<shotTypes.length; nn++) {
 
-	// shot function for plotting x-vlaues on the charts
-	var shots = d3.scaleLinear().rangeRound([0, scatterWidth]);
-		//.domain(lim);
+		// shot function for plotting x-vlaues on the charts
+		var shots = d3.scaleLinear().rangeRound([0, scatterWidth]);
+			//.domain(lim);
 
-	var scatterChart = scatterGroup.append("g")
-		.attr("class", "scatterChart")
-		.attr("width", scatterWidth)
-		.attr("height", scatterHeight)
-		.attr("transform", `translate(${nn*(scatterWidth+scatterPadding)-30}, 10)`);
+		var scatterChart = scatterGroup.append("g")
+			.attr("class", "scatterChart")
+			.attr("width", scatterWidth)
+			.attr("height", scatterHeight)
+			.attr("transform", `translate(${nn*(scatterWidth+scatterPadding)-30}, 10)`);
 
-  scatterCharts[nn] = scatterChart;
+	  scatterCharts[nn] = scatterChart;
 
-	scatterChart.append("g")
-		.attr("class", "axisX")
-		.attr("transform", `translate(0, ${scatterHeight})`)
-		.call(d3.axisBottom(shots)
-			.tickFormat(d3.format("d"))
-			.ticks(4).tickSizeOuter(0));
-
-	scatterChart.append("text")
-		.attr("class","axisLabel")
-		.attr("transform",
-			"translate(" + (scatterWidth/2) + " ," +
-						   (scatterHeight + 12) + ")")
-		.attr("dy","2em")
-		.style("text-anchor", "middle")
-		.text(shotTypesDecode[nn]);
-
-	// Label first y-axis and give ticks
-
-  if(nn === 0) {
 		scatterChart.append("g")
-			.attr("class", "axis axis--y")
-			.call(d3.axisLeft(probability)
-				.ticks(3)
-				.tickFormat(d3.format(".0%"))
-				.tickSizeOuter(0));
+			.attr("class", "axisX")
+			.attr("transform", `translate(0, ${scatterHeight})`)
+			.call(d3.axisBottom(shots)
+				.tickFormat(d3.format("d"))
+				.ticks(4).tickSizeOuter(0));
 
 		scatterChart.append("text")
-         .attr("class", "axisLabel")
-        .attr("transform", "rotate(-90)")
-			  .attr("y",-65)
-			  .attr("x",0 - (scatterHeight / 2))
-			  .attr("dy", "1em")
-			  .style("text-anchor", "middle")
-			  .text("Success");
-	} else {
-		scatterChart.append("g")
-			.attr("class", "axis axis--y")
-			.call(d3.axisLeft(probability).ticks(0).tickSizeOuter(0));
-	}
-	//console.log(JSON.stringify(mydata).replace(/},{/g,"},\n\n{"));
-}
+			.attr("class","axisLabel")
+			.attr("transform",
+				"translate(" + (scatterWidth/2) + " ," +
+							   (scatterHeight + 12) + ")")
+			.attr("dy","2em")
+			.style("text-anchor", "middle")
+			.text(shotTypesDecode[nn]);
 
+		// Label first y-axis and give ticks
+
+	  if(nn === 0) {
+			scatterChart.append("g")
+				.attr("class", "axis axis--y")
+				.call(d3.axisLeft(probability)
+					.ticks(3)
+					.tickFormat(d3.format(".0%"))
+					.tickSizeOuter(0));
+
+			scatterChart.append("text")
+			 .attr("class", "axisLabel")
+			.attr("transform", "rotate(-90)")
+				  .attr("y",-65)
+				  .attr("x",0 - (scatterHeight / 2))
+				  .attr("dy", "1em")
+				  .style("text-anchor", "middle")
+				  .text("Success");
+		} else {
+			scatterChart.append("g")
+				.attr("class", "axis axis--y")
+				.call(d3.axisLeft(probability).ticks(0).tickSizeOuter(0));
+		}
+		//console.log(JSON.stringify(mydata).replace(/},{/g,"},\n\n{"));
+	}
+}
 
 function filterScatterPlots() {
 
@@ -544,9 +569,9 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 
 }
 
-/////////////////////////////
-// BEGIN TIMELINE CODE //
-/////////////////////////////
+/**
+* Timelines
+*/
 {
 var shotIconDisplayLevel = .25;
 
@@ -566,139 +591,135 @@ var quarters = [];
 var timelineGroup = svg.append("g")
 	.attr("transform", `translate(0, ${scatterHeight+scatterTimelinePadding})`);
 
+function initializeTimelines() {
+	// Quarter labels
+	for(var quarterNum=1; quarterNum<=4; quarterNum++) {
+		timelineGroup.append("text")
+			.attr("class","axisLabel")
+			.attr("y",- 20)
+			.attr("x",timelineQuarterWidth/2 + (quarterNum-1)*(timelineQuarterWidth+timelineInternalPadding))
+			.attr("dy","1em")
+			.style("text-anchor", "middle")
+			.text("Quarter "+quarterNum);
+	}
 
-// Quarter labels
-for(var quarterNum=1; quarterNum<=4; quarterNum++) {
-	timelineGroup.append("text")
-		.attr("class","axisLabel")
-		.attr("y",- 20)
-		.attr("x",timelineQuarterWidth/2 + (quarterNum-1)*(timelineQuarterWidth+timelineInternalPadding))
-		.attr("dy","1em")
-		.style("text-anchor", "middle")
-		.text("Quarter "+quarterNum);
-}
 
+	for(var nn=0; nn<6; nn++) {
+		gameNum = nn+1;
 
-for(var nn=0; nn<6; nn++) {
-	gameNum = nn+1;
+		var timeline = timelineGroup.append("g")
+			.attr("class","timeline")
+			.attr("transform", `translate(0, ${(gameNum-1)*(timelineHeight+timelineVerticalPadding)})`)
+			.attr("opacity",(gameFilter[nn]?1:.25))
+			.on("click", (function makeClickFunction(num) {
+				return (function() {
+						gameFilter[num] = !gameFilter[num];
+						timelines[num]
+							.attr("opacity",(gameFilter[num]?1:.25));
+						filterScatterPlots();
+					})
+				})(nn));
+		timelines[nn] = timeline;
+		quarters[nn] = [];
 
-	var timeline = timelineGroup.append("g")
-		.attr("class","timeline")
-		.attr("transform", `translate(0, ${(gameNum-1)*(timelineHeight+timelineVerticalPadding)})`)
-		.attr("opacity",(gameFilter[nn]?1:.25))
-		.on("click", (function makeClickFunction(num) {
-			return (function() {
-					gameFilter[num] = !gameFilter[num];
-					timelines[num]
-						.attr("opacity",(gameFilter[num]?1:.25));
-                    filterScatterPlots();
-				})
-			})(nn));
-	timelines[nn] = timeline;
-	quarters[nn] = [];
+		timeline.append("rect")
+			.attr("class","backdrop")
+			.attr("x",0)
+			.attr("y",0)
+			.attr("width",timelineWidth)
+			.attr("height",timelineHeight)
+			.attr("fill",'white');
 
-	timeline.append("rect")
-		.attr("class","backdrop")
-		.attr("x",0)
-		.attr("y",0)
-		.attr("width",timelineWidth)
-		.attr("height",timelineHeight)
-		.attr("fill",'white');
+		var lineLength = 80;
+		/*
+		  Add flags and team names
+		*/
+		// first, USA
+		timeline.append("text")
+			.attr("class","teamnameThis")
+			.attr("y",timelineHeight/2)
+			.attr("x",-timelineInternalPadding-lineLength/3)
+			.attr("dy","-.2em")
+			.style("text-anchor", "middle")
+			.text("?");
+		timeline.append("image")
+			.attr("class","flagThis")
+			.attr("href", "img/" + currTeamCode + ".png")
+			.attr("y", timelineHeight/2-20)
+			.attr("x",-timelineInternalPadding-lineLength)
+			.attr("height", "20px");
 
-	var lineLength = 80;
-    /*
-      Add flags and team names
-    */
-    // first, USA
-	timeline.append("text")
-		.attr("class","teamnameThis")
-		.attr("y",timelineHeight/2)
-		.attr("x",-timelineInternalPadding-lineLength/3)
-		.attr("dy","-.2em")
-		.style("text-anchor", "middle")
-		.text("?");
-	timeline.append("image")
-		.attr("class","flagThis")
-		.attr("href", "img/" + currTeamCode + ".png")
-		.attr("y", timelineHeight/2-20)
-		.attr("x",-timelineInternalPadding-lineLength)
-		.attr("height", "20px");
+		// now add the other team
+		timeline.append("text")
+			.attr("class","teamnameOpponent")
+			.attr("y",timelineHeight/2)
+			.attr("x",-timelineInternalPadding-lineLength/3)
+			.attr("dy", "1.2em")
+			.style("text-anchor", "middle")
+			.text("?");
+		timeline.append("image")
+			.attr("class","flagOpponent")
+			.attr("href", "img/" + currTeamCode + ".png")
+			.attr("y", timelineHeight/2)
+			.attr("x",-timelineInternalPadding-lineLength)
+			.attr("height", "20px");
+		timeline.append("line")
+			.attr("style","shape-rendering: crispEdges")
+			.attr("x1",-timelineInternalPadding)
+			.attr("x2",-timelineInternalPadding-lineLength)
+			.attr("y1",timelineHeight/2+1)
+			.attr("y2",timelineHeight/2+1)
+			.attr("stroke","black")
+			.attr("stroke-width",1);
 
-	// now add the other team
-	timeline.append("text")
-		.attr("class","teamnameOpponent")
-		.attr("y",timelineHeight/2)
-		.attr("x",-timelineInternalPadding-lineLength/3)
-		.attr("dy", "1.2em")
-		.style("text-anchor", "middle")
-		.text("?");
-	timeline.append("image")
-		.attr("class","flagOpponent")
-		.attr("href", "img/" + currTeamCode + ".png")
-		.attr("y", timelineHeight/2)
-		.attr("x",-timelineInternalPadding-lineLength)
-		.attr("height", "20px");
-	timeline.append("line")
-		.attr("style","shape-rendering: crispEdges")
-		.attr("x1",-timelineInternalPadding)
-		.attr("x2",-timelineInternalPadding-lineLength)
-		.attr("y1",timelineHeight/2+1)
-		.attr("y2",timelineHeight/2+1)
-		.attr("stroke","black")
-		.attr("stroke-width",1);
+		// Final scores
+		timeline.append("text")
+			.attr("class","finalScoreThis")
+			.attr("y",timelineHeight/2)
+			.attr("x",timelineWidth+timelineInternalPadding)
+			.attr("dy","-.4em")
+			.style("text-anchor", "middle")
+			.text("?");
+			//.text(endingScore[0]);
+		timeline.append("text")
+			.attr("class","finalScoreOpponent")
+			.attr("y",timelineHeight/2)
+			.attr("x",timelineWidth+timelineInternalPadding)
+			.attr("dy", "1.2em")
+			.style("text-anchor", "middle")
+			.text("?");
+			//.text(endingScore[1]);
 
-	// Final scores
-	timeline.append("text")
-		.attr("class","finalScoreThis")
-		.attr("y",timelineHeight/2)
-		.attr("x",timelineWidth+timelineInternalPadding)
-		.attr("dy","-.4em")
-		.style("text-anchor", "middle")
-		.text("?");
-		//.text(endingScore[0]);
-	timeline.append("text")
-		.attr("class","finalScoreOpponent")
-		.attr("y",timelineHeight/2)
-		.attr("x",timelineWidth+timelineInternalPadding)
-		.attr("dy", "1.2em")
-		.style("text-anchor", "middle")
-		.text("?");
-		//.text(endingScore[1]);
+		for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
+			//console.log("Quarter:"+quarterNum);
 
-	for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
-		//console.log("Quarter:"+quarterNum);
+	// persistent elements
 
-// persistent elements
+			// Add timeline for this quarter
+			var quarter = timeline.append("g")
+				.attr("class","quarter")
+				.attr("width", timelineQuarterWidth)
+				.attr("height", timelineHeight)
+				.attr("transform", `translate(${(timelineQuarterWidth+timelineInternalPadding)*(quarterNum-1)}, 0)`);
+			quarters[nn].push(quarter);
+			// Axis
+			quarter.append("g")
+				.attr("class", "axis axis--x")
+				.attr("transform", `translate(0, ${timelineHeight/2})`)
+				.call(d3.axisBottom(quarterTime).ticks(0).tickSizeOuter(0));
 
-		// Add timeline for this quarter
-		var quarter = timeline.append("g")
-			.attr("class","quarter")
-			.attr("width", timelineQuarterWidth)
-			.attr("height", timelineHeight)
-			.attr("transform", `translate(${(timelineQuarterWidth+timelineInternalPadding)*(quarterNum-1)}, 0)`);
-		quarters[nn].push(quarter);
-		// Axis
-		quarter.append("g")
-			.attr("class", "axis axis--x")
-			.attr("transform", `translate(0, ${timelineHeight/2})`)
-			.call(d3.axisBottom(quarterTime).ticks(0).tickSizeOuter(0));
+			var scoreLineWin = quarter.append("path")
+				.attr("class", "areaWin");
 
-		var scoreLineWin = quarter.append("path")
-			.attr("class", "areaWin");
-
-		var scoreLineLose = quarter.append("path")
-			.attr("class", "areaLose");
+			var scoreLineLose = quarter.append("path")
+				.attr("class", "areaLose");
+		}
 	}
 }
 
 function populateTimelines() {
 //console.clear();
-var playersToFocus = [];
-for(var ii=0; ii<playerSelect.options.length; ii++) {
-	if(playerSelect.options[ii].selected) {
-		playersToFocus.push(playerSelect.options[ii].value);
-	}
-}
+
 
 for(var nn=0; nn<6; nn++) {
 	var timeline = timelines[nn];
@@ -754,7 +775,7 @@ for(var nn=0; nn<6; nn++) {
 				.text("");
 			timeline.selectAll(".finalScoreOpponent")
 				.text("");
-			break;
+			continue; // do not proceed further, exit iteration of loop
 	}
 
 	var otherTeam = gameNData[0]["Opponent name"];
@@ -848,7 +869,7 @@ for(var nn=0; nn<6; nn++) {
 
         function classNames(d) {
             res = "shotIcon";
-            if(playersToFocus.includes(d.Player)) {
+            if(playerFilter.includes(d.Player)) {
                 res += " shotIconFocalPlayer";
             } else {
                 if(d.Team===currTeamCode) {
@@ -876,6 +897,7 @@ for(var nn=0; nn<6; nn++) {
 				var isGoal = (d.Goal===1);
 			return success(mysign*shotIconDisplayLevel);
 			})
+			.attr("r", (d) => { return (playerFilter.includes(d.Player)?6:4); })
 			.on("mouseover", function(d) {
 				tooltip.transition()
 				.duration(200)
@@ -902,6 +924,15 @@ for(var nn=0; nn<6; nn++) {
 }
 
 }
+function togglePlayer(playerName) {
+	var ind = playerFilter.indexOf(playerName);
+	if(ind>-1) {
+		playerFilter.splice(ind,1);
+	} else {
+		playerFilter.push(playerName);
+	}
+	populateTimelines();
+}
 
 function switchTeam(newTeam) {
 	initializeData(newTeam);
@@ -913,7 +944,12 @@ function drawAll() {
 	populateTimelines();
 }
 
-switchTeam(0);
+function init() {
+	initializeScatterCharts();
+	initializeTimelines();
+	switchTeam(0);
+}
+init();
 
 teamSelect.addEventListener("change", function() {
 	var newTeam = teamSelect.selectedIndex;
