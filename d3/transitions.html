@@ -153,10 +153,14 @@ ul {
 </style>
 <body>
 <svg id="poloVis"></svg>
+
 <div style="display:inline-block; vertical-align:top; ">
 
-<h1>Women's<br/>Water Polo<br/>Statistics</h1>
-<h3>2017 FINA World<br/>Championships</h3>
+  <br>
+<svg id="legends"></svg>
+
+<h1>Women's Water Polo</h1>
+<h3>2017 FINA World Championships</h3>
 
 Select a team:
 <br/><br/>
@@ -164,14 +168,14 @@ Select a team:
 
 <br/><br/>
 Select a player to highlight their contributions:
-<br/>
+<br/><br/>
 <div id="roster"></div>
 
 <br/><br/>
-Hover over data<br/>to see details.
+Hover over data to see details.
 
 <br/><br/>
-You can also click<br/>on a timeline to<br/>deselect or select<br/>that game.
+Click on a timeline to view data for that game.
 
 </div>
 
@@ -210,7 +214,7 @@ var allShotSummaryDatas = [shotSummaryUSA, shotSummaryBRA, shotSummaryESP];
 
 // Sizing and Styling
 {
-var margin = {top: 10, right: 100, bottom: 60, left: 110};
+var margin = {top: 10, right: 80, bottom: 60, left: 110};
 
 var scatterWidth, scatterHeight = 150;
 var scatterPadding = 30;
@@ -244,6 +248,13 @@ var svg = d3.select("#poloVis")
 	//.attr("style","background:red;")
 	.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var svgLegend = d3.select("#legends")
+    .attr("width", 200)
+    .attr("height", 120)
+	//.attr("style","background:red;")
+	.append("g")
+    .attr("transform", "translate(" + 10 + "," + (margin.top) + ")");
 
 // var title =  svg.append("text")
 //             .attr("x", (widthFull / 2) - margin.left)
@@ -323,13 +334,13 @@ function populateSelectors() {
     roster.append(ul);
 
     /*
-    
+
     <li>
 <input type="checkbox" id="tog1">
 <label for="tog1">Player 1</label>
 </li>
 */
-    
+
 	players.forEach( function(player) {
 
         var li = document.createElement("li");
@@ -495,11 +506,11 @@ function initializeScatterCharts() {
 
 	//  Scatterplot legend
 	var scatterLegendVals = [1,2,4];
-	scatterLegend = scatterGroup.append("g")
+	scatterLegend = svgLegend.append("g")
 	  // .attr("class", " ")
 	  .attr("width", scatterWidth/3)
 	  .attr("height", scatterHeight)
-	  .attr("transform", `translate(${5*(scatterWidth+scatterPadding)-30}, 10)`);
+	  .attr("transform", `translate(${0}, 0)`);
 
 	for(var nn=0; nn<scatterLegendVals.length; nn++) {
 		scatterLegend.append("circle")
@@ -536,12 +547,12 @@ function initializeScatterCharts() {
 
 	  scatterLegend.append("text")
 	  .attr("transform",
-		"translate(" + (scatterWidth/6 + 15) + " ," +
+		"translate(" + (scatterWidth/6 + 25) + " ," +
 				 (10+scatterLegendVals.length*20-18) + ")")
 	  .attr("dy","2em")
     .attr("dx", "1.5em")
 	  .style("text-anchor", "middle")
-	  .text("Avg. %");
+	  .text("Team Avg.");
     scatterLegend.append("image")
       .attr("id", "legendPicture")
       .attr("href", "img/" + currTeamCode + ".png")
@@ -652,7 +663,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 			.duration(500)
 			.style("opacity", 0);
 		}
-        
+
     chart.selectAll(".scatterdot")
         .attr("class","dotsToRemove")
         .transition()
@@ -661,7 +672,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 
     var mydots = chart.selectAll(".scatterdot")
 		.data(myData)
-        
+
 	mydots.enter()
 		.append("circle")
         .style("opacity",0)
@@ -727,11 +738,11 @@ function initializeTimelines() {
 
 //  Timeline legend
 
-var timelineLegend = timelineGroup.append("g")
+var timelineLegend = svgLegend.append("g")
   // .attr("class", "legend")
   // .attr("width", timelineWidth)
   // .attr("height", timelineHeight)
-  .attr("transform", `translate(${4*(timelineQuarterWidth+timelineInternalPadding)-25}, -50)`);
+  .attr("transform", `translate(${100}, 0)`);
 
   var timelineLegendVertSpace = 17;
   var timelineLegendVertStart = -19;
@@ -750,7 +761,7 @@ var timelineLegend = timelineGroup.append("g")
       `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart})`)
     .attr("dy","2em")
     .style("text-anchor", "middle")
-    .text(" missed shot");
+    .text(" shot - missed");
 
     // goal icon
     timelineLegend.append("circle")
@@ -765,7 +776,7 @@ var timelineLegend = timelineGroup.append("g")
       `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart+1*timelineLegendVertSpace})`)
     .attr("dy","2em")
     .style("text-anchor", "middle")
-    .text(" goal");
+    .text(" shot - scored");
 
     // score area
 
