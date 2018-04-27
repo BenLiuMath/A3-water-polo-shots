@@ -264,6 +264,7 @@ function toTitleCase(text) {
 
 
 function populateSelectors() {
+  // Is this used anymore?
 	for(var ii=0; ii<6; ii++) { // need to change this to depend on the data; some teams didn't make it to 6 games
 		var opt = document.createElement("option");
 		opt.text = "Game "+(ii+1);
@@ -663,7 +664,7 @@ for(var nn=0; nn<6; nn++) {
 populateTimelines();
 
 function populateTimelines() {
-console.clear();
+//console.clear();
 var playersToFocus = [];
 for(var ii=0; ii<playerSelect.options.length; ii++) {
 	if(playerSelect.options[ii].selected) {
@@ -849,7 +850,7 @@ for(var nn=0; nn<6; nn++) {
 				tooltip.transition()
 				.duration(200)
 				.style("opacity", 1.0);
-				tooltip.html('<img style="width:15px;height:9px;" src="img/' + d.Team + '.png"></img>' + toTitleCase(d.Player) +" (" + d.Team +  ")<br>" + d.Action + ", " + d.Time)
+				tooltip.html('<img style="width:15px;height:9px;" src="img/' + d.Team + '.png"></img>' + " #" + Math.round(d.Cap) + " " + toTitleCase(d.Player) +" (" + d.Team +  ")<br>" + d.Action + ", " + d.Time)
 				.style("left", (d3.event.pageX -5) + "px")
 				.style("top", (d3.event.pageY - 50) + "px");
 			})
