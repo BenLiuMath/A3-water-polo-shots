@@ -68,6 +68,13 @@ h1{
 	shape-rendering: geometricPrecision;
 }
 
+.scatterdotLegend {
+	stroke: none;
+	fill: darkblue;
+	opacity:.55;
+	shape-rendering: geometricPrecision;
+}
+
 .teamnameThis, .teamnameOpponent {
 	font-size:12pt;
 	font-weight:bold;
@@ -287,14 +294,14 @@ function populateSelectors() {
 	}
 	var roster = document.getElementById("roster");
 	roster.innerHTML = "";
-	
+
 	players.forEach( function(player) {
 		var opt = document.createElement("option");
 		opt.text = player;
 		opt.label = toTitleCase(player);
 		playerSelect.add(opt);
 		playerSelectOpts[player] = opt;
-		
+
 		var myA = document.createElement("a");
 		myA.href = "#";
 		myA.addEventListener("click", function() {
@@ -383,7 +390,7 @@ var ratios = 0;
 var scatterCharts = [];
 var scatterGroup = svg.append("g")
 	.attr("transform", `translate(0, 0)`);
-	
+
 function initializeScatterCharts() {
 	for(var nn=0; nn<shotTypes.length; nn++) {
 
@@ -440,7 +447,7 @@ function initializeScatterCharts() {
 		}
 		//console.log(JSON.stringify(mydata).replace(/},{/g,"},\n\n{"));
 	}
-		
+
 	//  Scatterplot legend
 	var scatterLegendVals = [1,2,4];
 	var scatterLegend = scatterGroup.append("g")
@@ -451,7 +458,7 @@ function initializeScatterCharts() {
 
 	for(var nn=0; nn<scatterLegendVals.length; nn++) {
 		scatterLegend.append("circle")
-		.attr("class", "scatterdot")
+		.attr("class", "scatterdotLegend")
 		.attr("r",4*Math.sqrt(scatterLegendVals[nn]))
 		.attr("transform", `translate(0,${nn*20})`);
 
@@ -510,7 +517,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 
 	var shotrange = shotextent[1] - shotextent[0];
 	var lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
-	
+
 	// Establish y-scale
 	var shots = d3.scaleLinear()
 		.rangeRound([0, scatterWidth])
@@ -571,7 +578,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
            .style("opacity", 1.0);
     }
 
-		
+
 	function tooltipShow(d) {
 		tooltip.transition()
             .duration(200)
@@ -585,14 +592,13 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 			.duration(500)
 			.style("opacity", 0);
 		}
-		
+        
     chart.selectAll(".scatterdot")
         .attr("class","dotsToRemove")
         .transition()
         .duration(200)
         .style("opacity",0)
-		.remove();
-	
+
     var mydots = chart.selectAll(".scatterdot")
 		.data(myData)
         
@@ -716,7 +722,7 @@ function initializeTimelines() {
 		timeline.append("image")
 			.attr("class","flagOpponent")
 			.attr("href", "img/" + currTeamCode + ".png")
-			.attr("y", timelineHeight/2)
+			.attr("y", timelineHeight/1.95)
 			.attr("x",-timelineInternalPadding-lineLength)
 			.attr("height", "20px");
 		timeline.append("line")

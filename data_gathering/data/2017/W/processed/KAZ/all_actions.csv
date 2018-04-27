@@ -1,0 +1,684 @@
+Period,Time,Action,Score,Team,Player,Cap,Opponent,KAZ,Seconds,Game,Opponent name
+1.0,8:00,Starting goalkeeper,0 - 0,AUS,YANITSAS L,1.0,0,0,480,1,AUS
+1.0,8:00,Starting goalkeeper,0 - 0,KAZ,ZHARKIMBAYEVA A,1.0,0,0,480,1,AUS
+1.0,8:00,Sprint won possession,0 - 0,AUS,GOFERS K,2.0,0,0,480,1,AUS
+1.0,7:37,20 sec. exclusion in field,0 - 0,KAZ,AKILBAYEVA A,3.0,0,0,457,1,AUS
+1.0,7:12,Action shot - Goal,1 - 0,AUS,WEBSTER R,7.0,1,0,432,1,AUS
+1.0,7:00,Action shot - Saved,1 - 0,KAZ,MYRZABEKOVA Z,10.0,1,0,420,1,AUS
+1.0,6:37,20 sec. exclusion in centre,1 - 0,AUS,GOFERS K,2.0,1,0,397,1,AUS
+1.0,6:08,Action shot - Goal,1 - 1,KAZ,ZAKIROVA K,5.0,1,1,368,1,AUS
+1.0,5:50,Turnover foul,1 - 1,AUS,HALLIGAN B,4.0,1,1,350,1,AUS
+1.0,5:50,Steal,1 - 1,KAZ,AKILBAYEVA A,3.0,1,1,350,1,AUS
+1.0,5:25,Turnover foul,1 - 1,KAZ,MYRZABEKOVA Z,10.0,1,1,325,1,AUS
+1.0,5:25,Steal,1 - 1,AUS,HALLIGAN B,4.0,1,1,325,1,AUS
+1.0,5:08,Turnover foul,1 - 1,AUS,HALLIGAN B,4.0,1,1,308,1,AUS
+1.0,5:08,Steal,1 - 1,KAZ,MYRZABEKOVA Z,10.0,1,1,308,1,AUS
+1.0,3:27,Action shot - Missed,1 - 1,AUS,GOFERS K,2.0,1,1,207,1,AUS
+1.0,3:08,Turnover foul,1 - 1,KAZ,TUROVA A,4.0,1,1,188,1,AUS
+1.0,3:08,Steal,1 - 1,AUS,HALLIGAN B,4.0,1,1,188,1,AUS
+1.0,2:52,Action shot - Goal,2 - 1,AUS,WEBSTER R,7.0,2,1,172,1,AUS
+1.0,2:38,Action shot - Saved,2 - 1,KAZ,MIRSHINA A,11.0,2,1,158,1,AUS
+1.0,2:17,20 sec. exclusion in centre,2 - 1,KAZ,TUROVA A,4.0,2,1,137,1,AUS
+1.0,2:17,Extra player shot - Goal,3 - 1,AUS,ARANCINI Z,9.0,3,1,137,1,AUS
+1.0,1:37,Steal,3 - 1,AUS,HALLIGAN B,4.0,3,1,97,1,AUS
+1.0,1:20,Centre shot - Saved,3 - 1,AUS,BUCKLING H,3.0,3,1,80,1,AUS
+1.0,1:18,Time-Out,3 - 1,KAZ,,,3,1,78,1,AUS
+1.0,1:13,Turnover foul,3 - 1,KAZ,ROGA D,6.0,3,1,73,1,AUS
+1.0,1:13,Steal,3 - 1,AUS,ARANCINI Z,9.0,3,1,73,1,AUS
+1.0,1:00,Action shot - Goal,4 - 1,AUS,STEERE M,12.0,4,1,60,1,AUS
+1.0,0:34,5m shot - Saved,4 - 1,KAZ,ROGA D,6.0,4,1,34,1,AUS
+1.0,0:20,Counter attack - Post,4 - 1,AUS,ARANCINI Z,9.0,4,1,20,1,AUS
+1.0,0:01,Action shot - Saved,4 - 1,AUS,STEERE M,12.0,4,1,1,1,AUS
+2.0,8:00,Starting goalkeeper,4 - 1,AUS,YANITSAS L,1.0,4,1,480,1,AUS
+2.0,8:00,Starting goalkeeper,4 - 1,KAZ,ZHARKIMBAYEVA A,1.0,4,1,480,1,AUS
+2.0,8:00,Sprint won possession,4 - 1,KAZ,ZAKIROVA K,5.0,4,1,480,1,AUS
+2.0,7:35,5m shot - Blocked,4 - 1,KAZ,AKILBAYEVA A,3.0,4,1,455,1,AUS
+2.0,6:40,Turnover foul,4 - 1,AUS,BISHOP I,5.0,4,1,400,1,AUS
+2.0,5:55,Turnover foul,4 - 1,KAZ,TUROVA A,4.0,4,1,355,1,AUS
+2.0,5:55,Steal,4 - 1,AUS,BISHOP I,5.0,4,1,355,1,AUS
+2.0,5:39,Action shot - Saved,4 - 1,AUS,BISHOP I,5.0,4,1,339,1,AUS
+2.0,5:11,5m shot - Saved,4 - 1,KAZ,ZAKIROVA K,5.0,4,1,311,1,AUS
+2.0,4:53,Turnover foul,4 - 1,AUS,GOFERS K,2.0,4,1,293,1,AUS
+2.0,4:53,Steal,4 - 1,KAZ,TUROVA A,4.0,4,1,293,1,AUS
+2.0,4:32,Turnover foul,4 - 1,KAZ,MYRZABEKOVA Z,10.0,4,1,272,1,AUS
+2.0,4:32,Steal,4 - 1,AUS,GOFERS K,2.0,4,1,272,1,AUS
+2.0,4:04,5m shot - Goal,5 - 1,AUS,WEBSTER R,7.0,5,1,244,1,AUS
+2.0,3:34,Turnover foul,5 - 1,KAZ,ROGA D,6.0,5,1,214,1,AUS
+2.0,3:34,Steal,5 - 1,AUS,WEBSTER R,7.0,5,1,214,1,AUS
+2.0,3:18,Action shot - Goal,6 - 1,AUS,ARANCINI Z,9.0,6,1,198,1,AUS
+2.0,3:05,Turnover foul,6 - 1,KAZ,SAICHUK O,8.0,6,1,185,1,AUS
+2.0,3:05,Steal,6 - 1,AUS,ARANCINI Z,9.0,6,1,185,1,AUS
+2.0,2:47,Centre shot - Goal,7 - 1,AUS,BUCKLING H,3.0,7,1,167,1,AUS
+2.0,2:35,20 sec. exclusion in centre,7 - 1,AUS,HALLIGAN B,4.0,7,1,155,1,AUS
+2.0,2:35,Centre shot - Goal,7 - 2,KAZ,MIRSHINA A,11.0,7,2,155,1,AUS
+2.0,2:10,Action shot - Missed,7 - 2,AUS,ARANCINI Z,9.0,7,2,130,1,AUS
+2.0,2:10,Turnover foul,7 - 2,KAZ,AKILBAYEVA A,3.0,7,2,130,1,AUS
+2.0,2:10,Steal,7 - 2,AUS,HALLIGAN B,4.0,7,2,130,1,AUS
+2.0,1:49,Steal,7 - 2,KAZ,YEREMINA A,9.0,7,2,109,1,AUS
+2.0,1:24,Turnover foul,7 - 2,KAZ,MIRSHINA A,11.0,7,2,84,1,AUS
+2.0,1:24,Steal,7 - 2,AUS,BISHOP I,5.0,7,2,84,1,AUS
+2.0,1:09,Centre shot - Goal,8 - 2,AUS,STEERE M,12.0,8,2,69,1,AUS
+2.0,0:41,Action shot - Missed,8 - 2,KAZ,AKILBAYEVA A,3.0,8,2,41,1,AUS
+2.0,0:31,Centre shot - Saved,8 - 2,AUS,BISHOP I,5.0,8,2,31,1,AUS
+2.0,0:19,Turnover foul,8 - 2,AUS,GOFERS K,2.0,8,2,19,1,AUS
+2.0,0:19,Steal,8 - 2,KAZ,ROGA D,6.0,8,2,19,1,AUS
+2.0,0:19,Time-Out,8 - 2,KAZ,,,8,2,19,1,AUS
+2.0,0:13,20 sec. exclusion in centre,8 - 2,AUS,BISHOP I,5.0,8,2,13,1,AUS
+2.0,0:01,Extra player shot - Saved,8 - 2,KAZ,ZAKIROVA K,5.0,8,2,1,1,AUS
+3.0,8:00,Starting goalkeeper,8 - 2,AUS,YANITSAS L,1.0,8,2,480,1,AUS
+3.0,8:00,Starting goalkeeper,8 - 2,KAZ,ZHARKIMBAYEVA A,1.0,8,2,480,1,AUS
+3.0,8:00,Sprint won possession,8 - 2,AUS,GOFERS K,2.0,8,2,480,1,AUS
+3.0,7:08,Turnover foul,8 - 2,KAZ,MYRZABEKOVA Z,10.0,8,2,428,1,AUS
+3.0,7:08,Steal,8 - 2,AUS,BISHOP I,5.0,8,2,428,1,AUS
+3.0,6:53,5m shot - Goal,9 - 2,AUS,BISHOP I,5.0,9,2,413,1,AUS
+3.0,6:43,20 sec. exclusion in centre,9 - 2,AUS,GOFERS K,2.0,9,2,403,1,AUS
+3.0,6:22,Action shot - Goal,9 - 3,KAZ,AKILBAYEVA A,3.0,9,3,382,1,AUS
+3.0,5:54,Action shot - Missed,9 - 3,AUS,BISHOP I,5.0,9,3,354,1,AUS
+3.0,5:33,Action shot - Missed,9 - 3,KAZ,ZAKIROVA K,5.0,9,3,333,1,AUS
+3.0,5:21,Action shot - Goal,10 - 3,AUS,GOFERS K,2.0,10,3,321,1,AUS
+3.0,4:26,Action shot - Saved,10 - 3,AUS,ARANCINI Z,9.0,10,3,266,1,AUS
+3.0,3:37,Centre shot - Post,10 - 3,AUS,BUCKLING H,3.0,10,3,217,1,AUS
+3.0,3:10,5m shot - Saved,10 - 3,KAZ,MIRSHINA A,11.0,10,3,190,1,AUS
+3.0,2:55,Action shot - Blocked,10 - 3,AUS,WEBSTER R,7.0,10,3,175,1,AUS
+3.0,2:33,Action shot - Goal,10 - 4,KAZ,ZAKIROVA K,5.0,10,4,153,1,AUS
+3.0,2:12,Turnover foul,10 - 4,KAZ,TUROVA A,4.0,10,4,132,1,AUS
+3.0,2:12,Steal,10 - 4,AUS,WEBSTER R,7.0,10,4,132,1,AUS
+3.0,1:25,Action shot - Goal,11 - 4,AUS,RIDGE A,6.0,11,4,85,1,AUS
+3.0,1:01,Turnover foul,11 - 4,KAZ,MIRSHINA A,11.0,11,4,61,1,AUS
+3.0,1:01,Steal,11 - 4,AUS,HALLIGAN B,4.0,11,4,61,1,AUS
+3.0,0:41,Centre shot - Goal,12 - 4,AUS,WEBSTER R,7.0,12,4,41,1,AUS
+3.0,0:27,20 sec. exclusion in centre,12 - 4,AUS,BISHOP I,5.0,12,4,27,1,AUS
+3.0,0:26,Time-Out,12 - 4,KAZ,,,12,4,26,1,AUS
+3.0,0:02,Action shot - Post,12 - 4,KAZ,MUSSAROVA A,12.0,12,4,2,1,AUS
+4.0,8:00,Starting goalkeeper,12 - 4,AUS,YANITSAS L,1.0,12,4,480,1,AUS
+4.0,8:00,Starting goalkeeper,12 - 4,KAZ,ZHARKIMBAYEVA A,1.0,12,4,480,1,AUS
+4.0,8:00,Sprint won possession,12 - 4,AUS,HALLIGAN B,4.0,12,4,480,1,AUS
+4.0,7:40,20 sec. exclusion in centre,12 - 4,KAZ,MIRSHINA A,11.0,12,4,460,1,AUS
+4.0,7:18,Action shot - Saved,12 - 4,AUS,WEBSTER R,7.0,12,4,438,1,AUS
+4.0,6:54,Action shot - Saved,12 - 4,KAZ,MIRSHINA A,11.0,12,4,414,1,AUS
+4.0,5:49,Action shot - Blocked,12 - 4,KAZ,ZAKIROVA K,5.0,12,4,349,1,AUS
+4.0,5:35,Action shot - Post,12 - 4,AUS,HALLIGAN B,4.0,12,4,335,1,AUS
+4.0,5:00,Turnover foul,12 - 4,KAZ,AKILBAYEVA A,3.0,12,4,300,1,AUS
+4.0,5:00,Steal,12 - 4,AUS,BUCKLING H,3.0,12,4,300,1,AUS
+4.0,4:40,Centre shot - Goal,13 - 4,AUS,BISHOP I,5.0,13,4,280,1,AUS
+4.0,4:26,Turnover foul,13 - 4,KAZ,MIRSHINA A,11.0,13,4,266,1,AUS
+4.0,4:26,Steal,13 - 4,AUS,ARANCINI Z,9.0,13,4,266,1,AUS
+4.0,4:15,Centre shot - Goal,14 - 4,AUS,ARANCINI Z,9.0,14,4,255,1,AUS
+4.0,3:44,Turnover foul,14 - 4,KAZ,NOVIKOVA A,7.0,14,4,224,1,AUS
+4.0,3:44,Steal,14 - 4,AUS,HALLIGAN B,4.0,14,4,224,1,AUS
+4.0,3:34,Centre shot - Saved,14 - 4,AUS,HALLIGAN B,4.0,14,4,214,1,AUS
+4.0,3:14,Action shot - Missed,14 - 4,KAZ,ROGA D,6.0,14,4,194,1,AUS
+4.0,3:02,Action shot - Missed,14 - 4,AUS,STEERE M,12.0,14,4,182,1,AUS
+4.0,2:49,20 sec. exclusion in field,14 - 4,AUS,WEBSTER R,7.0,14,4,169,1,AUS
+4.0,2:38,20 sec. exclusion in centre,14 - 4,AUS,HALLIGAN B,4.0,14,4,158,1,AUS
+4.0,2:38,Time-Out,14 - 4,KAZ,,,14,4,158,1,AUS
+4.0,2:20,Action shot - Saved,14 - 4,KAZ,MIRSHINA A,11.0,14,4,140,1,AUS
+4.0,1:50,Action shot - Saved,14 - 4,AUS,GOFERS K,2.0,14,4,110,1,AUS
+4.0,1:26,Action shot - Goal,15 - 4,AUS,GOFERS K,2.0,15,4,86,1,AUS
+4.0,0:59,5m shot - Missed,15 - 4,KAZ,ROGA D,6.0,15,4,59,1,AUS
+4.0,0:47,Action shot - Goal,16 - 4,AUS,WEBSTER R,7.0,16,4,47,1,AUS
+4.0,0:29,Centre shot - Blocked,16 - 4,KAZ,RAITER S,2.0,16,4,29,1,AUS
+1.0,8:00,Starting goalkeeper,0 - 0,GRE,DIAMANTOPOULOU C,13.0,0,0,480,2,GRE
+1.0,8:00,Starting goalkeeper,0 - 0,KAZ,ZHARKIMBAYEVA A,1.0,0,0,480,2,GRE
+1.0,8:00,Sprint won possession,0 - 0,GRE,PLEVRITOU E,11.0,0,0,480,2,GRE
+1.0,7:41,Action shot - Goal,1 - 0,GRE,ASIMAKI A,7.0,1,0,461,2,GRE
+1.0,7:29,20 sec. exclusion in centre,1 - 0,GRE,DIAMANTOPOULOU V,3.0,1,0,449,2,GRE
+1.0,7:12,Extra player shot - Post,1 - 0,KAZ,MIRSHINA A,11.0,1,0,432,2,GRE
+1.0,6:39,Turnover foul,1 - 0,GRE,PLEVRITOU E,11.0,1,0,399,2,GRE
+1.0,6:25,Turnover foul,1 - 0,KAZ,ZAKIROVA K,5.0,1,0,385,2,GRE
+1.0,6:02,Centre shot - Goal,2 - 0,GRE,ASIMAKI A,7.0,2,0,362,2,GRE
+1.0,5:33,Action shot - Blocked,2 - 0,KAZ,AKILBAYEVA A,3.0,2,0,333,2,GRE
+1.0,5:06,5m shot - Goal,3 - 0,GRE,KOTSIA C,9.0,3,0,306,2,GRE
+1.0,4:48,Turnover foul,3 - 0,KAZ,ZAKIROVA K,5.0,3,0,288,2,GRE
+1.0,4:48,Steal,3 - 0,GRE,MANOLIOUDAKI T,10.0,3,0,288,2,GRE
+1.0,4:26,Action shot - Goal,4 - 0,GRE,MANOLIOUDAKI T,10.0,4,0,266,2,GRE
+1.0,3:52,Turnover foul,4 - 0,KAZ,MIRSHINA A,11.0,4,0,232,2,GRE
+1.0,3:52,Steal,4 - 0,GRE,ELEFTHERIADOU N,4.0,4,0,232,2,GRE
+1.0,3:32,Turnover foul,4 - 0,GRE,XENAKI E,12.0,4,0,212,2,GRE
+1.0,3:32,Steal,4 - 0,KAZ,NOVIKOVA A,7.0,4,0,212,2,GRE
+1.0,3:07,Action shot - Missed,4 - 0,KAZ,ROGA D,6.0,4,0,187,2,GRE
+1.0,2:46,Action shot - Saved,4 - 0,GRE,PLEVRITOU E,11.0,4,0,166,2,GRE
+1.0,2:15,Centre shot - Saved,4 - 0,KAZ,ZAKIROVA K,5.0,4,0,135,2,GRE
+1.0,1:53,Centre shot - Saved,4 - 0,GRE,XENAKI E,12.0,4,0,113,2,GRE
+1.0,1:53,Time-Out,4 - 0,KAZ,,,4,0,113,2,GRE
+1.0,1:32,Action shot - Saved,4 - 0,KAZ,AKILBAYEVA A,3.0,4,0,92,2,GRE
+1.0,1:22,Turnover foul,4 - 0,GRE,ASIMAKI A,7.0,4,0,82,2,GRE
+1.0,0:22,Centre shot - Goal,5 - 0,GRE,ELEFTHERIADOU N,4.0,5,0,22,2,GRE
+1.0,0:09,20 sec. exclusion in field,5 - 0,GRE,MANOLIOUDAKI T,10.0,5,0,9,2,GRE
+2.0,8:00,Starting goalkeeper,5 - 0,GRE,DIAMANTOPOULOU C,13.0,5,0,480,2,GRE
+2.0,8:00,Starting goalkeeper,5 - 0,KAZ,ZHARKIMBAYEVA A,1.0,5,0,480,2,GRE
+2.0,7:49,Sprint won possession,5 - 0,GRE,PLEVRITOU E,11.0,5,0,469,2,GRE
+2.0,7:40,Penalty foul,5 - 0,KAZ,YEREMINA A,9.0,5,0,460,2,GRE
+2.0,7:40,Penalty shot - Goal,6 - 0,GRE,PLEVRITOU E,11.0,6,0,460,2,GRE
+2.0,7:25,20 sec. exclusion in field,6 - 0,GRE,MANOLIOUDAKI T,10.0,6,0,445,2,GRE
+2.0,7:14,Extra player shot - Saved,6 - 0,KAZ,MIRSHINA A,11.0,6,0,434,2,GRE
+2.0,6:48,Turnover foul,6 - 0,GRE,DIAMANTOPOULOU V,3.0,6,0,408,2,GRE
+2.0,6:48,Steal,6 - 0,KAZ,MUSSAROVA A,12.0,6,0,408,2,GRE
+2.0,6:48,20 sec. exclusion in field,6 - 0,GRE,TSOUKALA C,2.0,6,0,408,2,GRE
+2.0,6:48,Time-Out,6 - 0,KAZ,,,6,0,408,2,GRE
+2.0,6:29,Extra player shot - Goal,6 - 1,KAZ,AKILBAYEVA A,3.0,6,1,389,2,GRE
+2.0,6:04,20 sec. exclusion in centre,6 - 1,KAZ,TUROVA A,4.0,6,1,364,2,GRE
+2.0,5:47,Turnover foul,6 - 1,GRE,AVRAMIDOU A,6.0,6,1,347,2,GRE
+2.0,5:47,Steal,6 - 1,KAZ,AKILBAYEVA A,3.0,6,1,347,2,GRE
+2.0,4:48,5m shot - Post,6 - 1,GRE,ELEFTHERIADOU N,4.0,6,1,288,2,GRE
+2.0,4:24,Turnover foul,6 - 1,KAZ,TUROVA A,4.0,6,1,264,2,GRE
+2.0,4:24,Steal,6 - 1,GRE,AVRAMIDOU A,6.0,6,1,264,2,GRE
+2.0,4:13,Action shot - Goal,7 - 1,GRE,CHYDIRIOTI I,8.0,7,1,253,2,GRE
+2.0,3:46,20 sec. exclusion in field,7 - 1,GRE,XENAKI E,12.0,7,1,226,2,GRE
+2.0,3:09,20 sec. exclusion in centre,7 - 1,KAZ,SAICHUK O,8.0,7,1,189,2,GRE
+2.0,2:50,Action shot - Missed,7 - 1,GRE,CHYDIRIOTI I,8.0,7,1,170,2,GRE
+2.0,2:34,Action shot - Missed,7 - 1,KAZ,YEREMINA A,9.0,7,1,154,2,GRE
+2.0,2:20,Action shot - Goal,8 - 1,GRE,TSOUKALA C,2.0,8,1,140,2,GRE
+2.0,2:05,Centre shot - Goal,8 - 2,KAZ,MYRZABEKOVA Z,10.0,8,2,125,2,GRE
+2.0,1:38,Centre shot - Saved,8 - 2,GRE,XENAKI E,12.0,8,2,98,2,GRE
+2.0,1:12,Action shot - Blocked,8 - 2,KAZ,ROGA D,6.0,8,2,72,2,GRE
+2.0,0:51,Penalty foul,8 - 2,KAZ,TUROVA A,4.0,8,2,51,2,GRE
+2.0,0:51,Penalty shot - Goal,9 - 2,GRE,MANOLIOUDAKI T,10.0,9,2,51,2,GRE
+2.0,0:34,Turnover foul,9 - 2,KAZ,MYRZABEKOVA Z,10.0,9,2,34,2,GRE
+2.0,0:34,Steal,9 - 2,GRE,TSOUKALA C,2.0,9,2,34,2,GRE
+2.0,0:34,Time-Out,9 - 2,GRE,,,9,2,34,2,GRE
+2.0,0:13,Turnover foul,9 - 2,GRE,PLEVRITOU M,5.0,9,2,13,2,GRE
+2.0,0:13,Steal,9 - 2,KAZ,ZHARKIMBAYEVA A,1.0,9,2,13,2,GRE
+4.0,1:05,20 sec. exclusion in field,9 - 2,KAZ,YEREMINA A,9.0,9,2,65,2,GRE
+4.0,0:59,Extra player shot - Goal,18 - 5,GRE,ELEFTHERIADOU N,4.0,18,5,59,2,GRE
+4.0,0:33,Turnover foul,18 - 5,KAZ,RAITER S,2.0,18,5,33,2,GRE
+4.0,0:33,Steal,18 - 5,GRE,ASIMAKI A,7.0,18,5,33,2,GRE
+2.0,0:01,5m shot - Blocked,18 - 5,KAZ,ZAKIROVA K,5.0,18,5,1,2,GRE
+3.0,8:00,Starting goalkeeper,18 - 5,GRE,KOUVDOU E,1.0,18,5,480,2,GRE
+3.0,8:00,Starting goalkeeper,18 - 5,KAZ,ZHARKIMBAYEVA A,1.0,18,5,480,2,GRE
+3.0,8:00,Sprint won possession,18 - 5,KAZ,ZAKIROVA K,5.0,18,5,480,2,GRE
+3.0,7:40,Turnover foul,18 - 5,KAZ,MYRZABEKOVA Z,10.0,18,5,460,2,GRE
+3.0,7:40,Steal,18 - 5,GRE,AVRAMIDOU A,6.0,18,5,460,2,GRE
+3.0,7:19,Action shot - Goal,10 - 2,GRE,MANOLIOUDAKI T,10.0,10,2,439,2,GRE
+3.0,6:58,20 sec. exclusion in field,10 - 2,GRE,PLEVRITOU E,11.0,10,2,418,2,GRE
+3.0,6:38,Action shot - Saved,10 - 2,KAZ,MIRSHINA A,11.0,10,2,398,2,GRE
+3.0,6:23,Counter attack - Goal,11 - 2,GRE,PLEVRITOU E,11.0,11,2,383,2,GRE
+3.0,6:05,20 sec. exclusion in field,11 - 2,GRE,ELEFTHERIADOU N,4.0,11,2,365,2,GRE
+3.0,6:04,Time-Out,11 - 2,KAZ,,,11,2,364,2,GRE
+3.0,5:41,Extra player shot - Blocked,11 - 2,KAZ,AKILBAYEVA A,3.0,11,2,341,2,GRE
+3.0,5:31,Action shot - Saved,11 - 2,KAZ,ROGA D,6.0,11,2,331,2,GRE
+3.0,5:28,Centre shot - Goal,11 - 3,KAZ,AKILBAYEVA A,3.0,11,3,328,2,GRE
+3.0,5:06,Centre shot - Saved,11 - 3,GRE,ASIMAKI A,7.0,11,3,306,2,GRE
+3.0,4:35,5m shot - Post,11 - 3,KAZ,MIRSHINA A,11.0,11,3,275,2,GRE
+3.0,4:11,Turnover foul,11 - 3,KAZ,MYRZABEKOVA Z,10.0,11,3,251,2,GRE
+3.0,4:01,Centre shot - Saved,11 - 3,GRE,ASIMAKI A,7.0,11,3,241,2,GRE
+3.0,3:35,Turnover foul,11 - 3,KAZ,MIRSHINA A,11.0,11,3,215,2,GRE
+3.0,3:35,Steal,11 - 3,GRE,AVRAMIDOU A,6.0,11,3,215,2,GRE
+3.0,3:15,Action shot - Saved,11 - 3,GRE,TSOUKALA C,2.0,11,3,195,2,GRE
+3.0,2:50,Turnover foul,11 - 3,KAZ,ROGA D,6.0,11,3,170,2,GRE
+3.0,2:50,Steal,11 - 3,GRE,TSOUKALA C,2.0,11,3,170,2,GRE
+3.0,2:50,Time-Out,11 - 3,GRE,,,11,3,170,2,GRE
+3.0,2:35,Centre shot - Missed,11 - 3,GRE,XENAKI E,12.0,11,3,155,2,GRE
+3.0,2:16,Turnover foul,11 - 3,KAZ,AKILBAYEVA A,3.0,11,3,136,2,GRE
+3.0,2:16,Steal,11 - 3,GRE,MANOLIOUDAKI T,10.0,11,3,136,2,GRE
+3.0,2:06,Turnover foul,11 - 3,GRE,XENAKI E,12.0,11,3,126,2,GRE
+3.0,1:54,Centre shot - Saved,11 - 3,KAZ,MUSSAROVA A,12.0,11,3,114,2,GRE
+3.0,1:22,5m shot - Blocked,11 - 3,KAZ,ZAKIROVA K,5.0,11,3,82,2,GRE
+3.0,1:03,Action shot - Goal,12 - 3,GRE,DIAMANTOPOULOU V,3.0,12,3,63,2,GRE
+3.0,0:41,Turnover foul,12 - 3,KAZ,ZAKIROVA K,5.0,12,3,41,2,GRE
+3.0,0:41,Steal,12 - 3,GRE,CHYDIRIOTI I,8.0,12,3,41,2,GRE
+3.0,0:33,Penalty foul,12 - 3,KAZ,TUROVA A,4.0,12,3,33,2,GRE
+3.0,0:33,Exclusion with substitution,12 - 3,KAZ,TUROVA A,4.0,12,3,33,2,GRE
+3.0,0:33,Penalty shot - Goal,13 - 3,GRE,XENAKI E,12.0,13,3,33,2,GRE
+3.0,0:04,Turnover foul,13 - 3,KAZ,MUSSAROVA A,12.0,13,3,4,2,GRE
+4.0,8:00,Starting goalkeeper,13 - 3,GRE,KOUVDOU E,1.0,13,3,480,2,GRE
+4.0,8:00,Starting goalkeeper,13 - 3,KAZ,ZHARKIMBAYEVA A,1.0,13,3,480,2,GRE
+4.0,8:00,Sprint won possession,13 - 3,KAZ,YEREMINA A,9.0,13,3,480,2,GRE
+4.0,7:35,Action shot - Goal,13 - 4,KAZ,AKILBAYEVA A,3.0,13,4,455,2,GRE
+4.0,7:18,Action shot - Goal,14 - 4,GRE,PLEVRITOU E,11.0,14,4,438,2,GRE
+4.0,7:08,20 sec. exclusion in field,14 - 4,GRE,ELEFTHERIADOU N,4.0,14,4,428,2,GRE
+4.0,6:53,Extra player shot - Saved,14 - 4,KAZ,MYRZABEKOVA Z,10.0,14,4,413,2,GRE
+4.0,6:26,Action shot - Goal,15 - 4,GRE,ELEFTHERIADOU N,4.0,15,4,386,2,GRE
+4.0,5:29,Action shot - Saved,15 - 4,GRE,PLEVRITOU E,11.0,15,4,329,2,GRE
+4.0,5:07,5m shot - Goal,15 - 5,KAZ,MIRSHINA A,11.0,15,5,307,2,GRE
+4.0,4:59,20 sec. exclusion in field,15 - 5,KAZ,ROGA D,6.0,15,5,299,2,GRE
+4.0,4:40,Extra player shot - Goal,16 - 5,GRE,AVRAMIDOU A,6.0,16,5,280,2,GRE
+4.0,4:29,20 sec. exclusion in field,16 - 5,GRE,MANOLIOUDAKI T,10.0,16,5,269,2,GRE
+4.0,4:29,Exclusion with substitution,16 - 5,GRE,MANOLIOUDAKI T,10.0,16,5,269,2,GRE
+4.0,4:10,Extra player shot - Saved,16 - 5,KAZ,MIRSHINA A,11.0,16,5,250,2,GRE
+4.0,3:41,20 sec. exclusion in centre,16 - 5,KAZ,SAICHUK O,8.0,16,5,221,2,GRE
+4.0,3:24,Extra player shot - Goal,17 - 5,GRE,ASIMAKI A,7.0,17,5,204,2,GRE
+4.0,3:09,20 sec. exclusion in field,17 - 5,GRE,KOTSIA C,9.0,17,5,189,2,GRE
+4.0,3:09,Time-Out,17 - 5,KAZ,,,17,5,189,2,GRE
+4.0,2:50,Extra player shot - Missed,17 - 5,KAZ,ROGA D,6.0,17,5,170,2,GRE
+4.0,2:31,Centre shot - Post,17 - 5,GRE,ASIMAKI A,7.0,17,5,151,2,GRE
+4.0,1:45,Action shot - Missed,17 - 5,GRE,CHYDIRIOTI I,8.0,17,5,105,2,GRE
+4.0,1:19,Turnover foul,17 - 5,KAZ,MYRZABEKOVA Z,10.0,17,5,79,2,GRE
+4.0,0:24,Counter attack - Goal,19 - 5,GRE,ASIMAKI A,7.0,19,5,24,2,GRE
+4.0,0:02,Turnover foul,19 - 5,KAZ,MUSSAROVA A,12.0,19,5,2,2,GRE
+4.0,0:02,Steal,19 - 5,GRE,CHYDIRIOTI I,8.0,19,5,2,2,GRE
+1.0,8:00,Starting goalkeeper,0 - 0,RUS,USTIUKHINA A,1.0,0,0,480,3,RUS
+1.0,8:00,Starting goalkeeper,0 - 0,KAZ,ZHARKIMBAYEVA A,1.0,0,0,480,3,RUS
+1.0,8:00,Sprint won possession,0 - 0,KAZ,ZAKIROVA K,5.0,0,0,480,3,RUS
+1.0,7:33,Action shot - Missed,0 - 0,KAZ,ZAKIROVA K,5.0,0,0,453,3,RUS
+1.0,7:13,Action shot - Goal,1 - 0,RUS,RYZHKOVA D,12.0,1,0,433,3,RUS
+1.0,6:44,Centre shot - Goal,1 - 1,KAZ,MIRSHINA A,11.0,1,1,404,3,RUS
+1.0,6:20,Turnover foul,1 - 1,RUS,KARIMOVA E,4.0,1,1,380,3,RUS
+1.0,6:20,Steal,1 - 1,KAZ,TUROVA A,4.0,1,1,380,3,RUS
+1.0,6:00,Turnover foul,1 - 1,KAZ,MYRZABEKOVA Z,10.0,1,1,360,3,RUS
+1.0,6:00,Steal,1 - 1,RUS,KARIMOVA E,4.0,1,1,360,3,RUS
+1.0,5:55,Action shot - Goal,2 - 1,RUS,SIMANOVICH A,8.0,2,1,355,3,RUS
+1.0,5:35,20 sec. exclusion in field,2 - 1,RUS,RYZHKOVA D,12.0,2,1,335,3,RUS
+1.0,5:05,Action shot - Missed,2 - 1,KAZ,ZAKIROVA K,5.0,2,1,305,3,RUS
+1.0,5:05,Turnover foul,2 - 1,RUS,SIMANOVICH A,8.0,2,1,305,3,RUS
+1.0,5:05,Steal,2 - 1,KAZ,ZAKIROVA K,5.0,2,1,305,3,RUS
+1.0,4:37,5m shot - Saved,2 - 1,KAZ,MYRZABEKOVA Z,10.0,2,1,277,3,RUS
+1.0,4:18,Action shot - Saved,2 - 1,RUS,GORBUNOVA O,6.0,2,1,258,3,RUS
+1.0,3:45,5m shot - Post,2 - 1,KAZ,AKILBAYEVA A,3.0,2,1,225,3,RUS
+1.0,3:38,Turnover foul,2 - 1,RUS,SIMANOVICH A,8.0,2,1,218,3,RUS
+1.0,3:38,Steal,2 - 1,KAZ,MUSSAROVA A,12.0,2,1,218,3,RUS
+1.0,3:38,Time-Out,2 - 1,KAZ,,,2,1,218,3,RUS
+1.0,3:22,Turnover foul,2 - 1,KAZ,AKILBAYEVA A,3.0,2,1,202,3,RUS
+1.0,3:22,Steal,2 - 1,RUS,GORBUNOVA O,6.0,2,1,202,3,RUS
+1.0,3:07,5m shot - Post,2 - 1,RUS,RYZHKOVA D,12.0,2,1,187,3,RUS
+1.0,2:53,Action shot - Goal,3 - 1,RUS,TIMOFEEVA A,9.0,3,1,173,3,RUS
+1.0,2:24,Turnover foul,3 - 1,KAZ,TUROVA A,4.0,3,1,144,3,RUS
+1.0,2:01,Centre shot - Post,3 - 1,RUS,SERZHANTOVA A,7.0,3,1,121,3,RUS
+1.0,1:44,5m shot - Saved,3 - 1,KAZ,TUROVA A,4.0,3,1,104,3,RUS
+1.0,1:23,Turnover foul,3 - 1,RUS,SERZHANTOVA A,7.0,3,1,83,3,RUS
+1.0,1:23,Steal,3 - 1,KAZ,ROGA D,6.0,3,1,83,3,RUS
+1.0,1:11,Turnover foul,3 - 1,KAZ,ZHARKIMBAYEVA A,1.0,3,1,71,3,RUS
+1.0,1:11,Steal,3 - 1,RUS,RYZHKOVA D,12.0,3,1,71,3,RUS
+1.0,0:59,Action shot - Goal,4 - 1,RUS,TIMOFEEVA A,9.0,4,1,59,3,RUS
+1.0,0:45,20 sec. exclusion in field,4 - 1,RUS,RYZHKOVA D,12.0,4,1,45,3,RUS
+1.0,0:19,Action shot - Saved,4 - 1,KAZ,ZAKIROVA K,5.0,4,1,19,3,RUS
+1.0,0:04,Penalty foul,4 - 1,KAZ,SAICHUK O,8.0,4,1,4,3,RUS
+1.0,0:04,Penalty shot - Goal,5 - 1,RUS,SERZHANTOVA A,7.0,5,1,4,3,RUS
+1.0,0:01,5m shot - Missed,5 - 1,KAZ,ZAKIROVA K,5.0,5,1,1,3,RUS
+2.0,8:00,Starting goalkeeper,5 - 1,RUS,USTIUKHINA A,1.0,5,1,480,3,RUS
+2.0,8:00,Starting goalkeeper,5 - 1,KAZ,ZHARKIMBAYEVA A,1.0,5,1,480,3,RUS
+2.0,8:00,Sprint won possession,5 - 1,RUS,SERZHANTOVA A,7.0,5,1,480,3,RUS
+2.0,7:32,Turnover foul,5 - 1,RUS,SERZHANTOVA A,7.0,5,1,452,3,RUS
+2.0,7:16,Centre shot - Missed,5 - 1,KAZ,MYRZABEKOVA Z,10.0,5,1,436,3,RUS
+2.0,7:03,Action shot - Goal,6 - 1,RUS,KARIMOVA E,4.0,6,1,423,3,RUS
+2.0,6:49,20 sec. exclusion in centre,6 - 1,RUS,GORBUNOVA O,6.0,6,1,409,3,RUS
+2.0,6:33,Extra player shot - Goal,6 - 2,KAZ,MIRSHINA A,11.0,6,2,393,3,RUS
+2.0,6:15,Centre shot - Goal,7 - 2,RUS,SIMANOVICH A,8.0,7,2,375,3,RUS
+2.0,5:53,Turnover foul,7 - 2,KAZ,MUSSAROVA A,12.0,7,2,353,3,RUS
+2.0,5:53,Steal,7 - 2,RUS,SIMANOVICH A,8.0,7,2,353,3,RUS
+2.0,5:39,Turnover foul,7 - 2,RUS,KARIMOVA E,4.0,7,2,339,3,RUS
+2.0,5:39,Steal,7 - 2,KAZ,ZHARKIMBAYEVA A,1.0,7,2,339,3,RUS
+2.0,5:16,Turnover foul,7 - 2,KAZ,YEREMINA A,9.0,7,2,316,3,RUS
+2.0,5:16,Steal,7 - 2,RUS,VAKHITOVA V,2.0,7,2,316,3,RUS
+2.0,5:01,Action shot - Missed,7 - 2,RUS,GORBUNOVA O,6.0,7,2,301,3,RUS
+2.0,4:42,Turnover foul,7 - 2,KAZ,MUSSAROVA A,12.0,7,2,282,3,RUS
+2.0,4:42,Steal,7 - 2,RUS,SERZHANTOVA A,7.0,7,2,282,3,RUS
+2.0,4:18,Centre shot - Goal,8 - 2,RUS,SIMANOVICH A,8.0,8,2,258,3,RUS
+2.0,3:47,5m shot - Blocked,8 - 2,KAZ,ZAKIROVA K,5.0,8,2,227,3,RUS
+2.0,3:30,5m shot - Missed,8 - 2,RUS,TOLKUNOVA T,10.0,8,2,210,3,RUS
+2.0,3:04,20 sec. exclusion in centre,8 - 2,RUS,TOLKUNOVA T,10.0,8,2,184,3,RUS
+2.0,2:52,Extra player shot - Goal,8 - 3,KAZ,ZAKIROVA K,5.0,8,3,172,3,RUS
+4.0,6:14,5m shot - Saved,8 - 3,KAZ,TUROVA A,4.0,8,3,374,3,RUS
+4.0,5:52,5m shot - Missed,8 - 3,RUS,RYZHKOVA D,12.0,8,3,352,3,RUS
+4.0,5:09,Turnover foul,8 - 3,RUS,GORBUNOVA O,6.0,8,3,309,3,RUS
+4.0,5:09,Steal,8 - 3,KAZ,ZAKIROVA K,5.0,8,3,309,3,RUS
+4.0,4:51,20 sec. exclusion in field,8 - 3,RUS,GORBUNOVA O,6.0,8,3,291,3,RUS
+4.0,4:38,Extra player shot - Goal,13 - 6,KAZ,ZAKIROVA K,5.0,13,6,278,3,RUS
+4.0,4:15,Centre shot - Post,13 - 6,RUS,IVANOVA E,11.0,13,6,255,3,RUS
+4.0,3:23,20 sec. exclusion in centre,13 - 6,KAZ,ROGA D,6.0,13,6,203,3,RUS
+4.0,3:19,Extra player shot - Goal,14 - 6,RUS,SERZHANTOVA A,7.0,14,6,199,3,RUS
+4.0,2:49,5m shot - Post,14 - 6,KAZ,YEREMINA A,9.0,14,6,169,3,RUS
+2.0,2:37,Turnover foul,14 - 6,RUS,PROKOFYEVA E,3.0,14,6,157,3,RUS
+2.0,2:37,Steal,14 - 6,KAZ,AKILBAYEVA A,3.0,14,6,157,3,RUS
+2.0,2:12,Centre shot - Missed,14 - 6,KAZ,NOVIKOVA A,7.0,14,6,132,3,RUS
+2.0,2:03,20 sec. exclusion in field,14 - 6,KAZ,MYRZABEKOVA Z,10.0,14,6,123,3,RUS
+2.0,1:44,Extra player shot - Missed,14 - 6,RUS,SIMANOVICH A,8.0,14,6,104,3,RUS
+2.0,1:21,5m shot - Saved,14 - 6,KAZ,MIRSHINA A,11.0,14,6,81,3,RUS
+2.0,1:00,20 sec. exclusion in centre,14 - 6,KAZ,ZAKIROVA K,5.0,14,6,60,3,RUS
+2.0,0:46,Extra player shot - Post,14 - 6,RUS,BORISOVA M,5.0,14,6,46,3,RUS
+2.0,0:43,Time-Out,14 - 6,KAZ,,,14,6,43,3,RUS
+2.0,0:31,Turnover foul,14 - 6,KAZ,MYRZABEKOVA Z,10.0,14,6,31,3,RUS
+2.0,0:31,Steal,14 - 6,RUS,PROKOFYEVA E,3.0,14,6,31,3,RUS
+2.0,0:21,Turnover foul,14 - 6,RUS,TOLKUNOVA T,10.0,14,6,21,3,RUS
+2.0,0:21,Steal,14 - 6,KAZ,MIRSHINA A,11.0,14,6,21,3,RUS
+2.0,0:13,20 sec. exclusion in centre,14 - 6,RUS,BORISOVA M,5.0,14,6,13,3,RUS
+2.0,0:02,Extra player shot - Missed,14 - 6,KAZ,MIRSHINA A,11.0,14,6,2,3,RUS
+3.0,8:00,Starting goalkeeper,14 - 6,RUS,USTIUKHINA A,1.0,14,6,480,3,RUS
+3.0,8:00,Starting goalkeeper,14 - 6,KAZ,ZHARKIMBAYEVA A,1.0,14,6,480,3,RUS
+3.0,8:00,Sprint won possession,14 - 6,RUS,KARIMOVA E,4.0,14,6,480,3,RUS
+3.0,7:46,Turnover foul,14 - 6,RUS,SIMANOVICH A,8.0,14,6,466,3,RUS
+3.0,7:46,Steal,14 - 6,KAZ,MUSSAROVA A,12.0,14,6,466,3,RUS
+3.0,7:16,Turnover foul,14 - 6,KAZ,MIRSHINA A,11.0,14,6,436,3,RUS
+3.0,7:16,Steal,14 - 6,RUS,SIMANOVICH A,8.0,14,6,436,3,RUS
+3.0,7:00,20 sec. exclusion in centre,14 - 6,KAZ,SAICHUK O,8.0,14,6,420,3,RUS
+3.0,6:41,Extra player shot - Goal,9 - 3,RUS,PROKOFYEVA E,3.0,9,3,401,3,RUS
+3.0,6:21,5m shot - Blocked,9 - 3,KAZ,TUROVA A,4.0,9,3,381,3,RUS
+3.0,6:11,Counter attack - Post,9 - 3,RUS,RYZHKOVA D,12.0,9,3,371,3,RUS
+3.0,5:42,20 sec. exclusion in centre,9 - 3,RUS,USTIUKHINA A,1.0,9,3,342,3,RUS
+3.0,5:46,Extra player shot - Missed,9 - 3,KAZ,ZAKIROVA K,5.0,9,3,346,3,RUS
+3.0,5:10,20 sec. exclusion in field,9 - 3,KAZ,MYRZABEKOVA Z,10.0,9,3,310,3,RUS
+3.0,5:10,Time-Out,9 - 3,RUS,,,9,3,310,3,RUS
+3.0,4:53,Extra player shot - Goal,10 - 3,RUS,IVANOVA E,11.0,10,3,293,3,RUS
+3.0,4:36,5m shot - Saved,10 - 3,KAZ,YEREMINA A,9.0,10,3,276,3,RUS
+3.0,4:26,Counter attack - Goal,11 - 3,RUS,KARIMOVA E,4.0,11,3,266,3,RUS
+3.0,4:05,Turnover foul,11 - 3,KAZ,YEREMINA A,9.0,11,3,245,3,RUS
+3.0,4:05,Steal,11 - 3,RUS,TIMOFEEVA A,9.0,11,3,245,3,RUS
+3.0,3:52,Action shot - Goal,12 - 3,RUS,IVANOVA E,11.0,12,3,232,3,RUS
+3.0,3:39,Turnover foul,12 - 3,KAZ,ZAKIROVA K,5.0,12,3,219,3,RUS
+3.0,3:26,Turnover foul,12 - 3,RUS,GORBUNOVA O,6.0,12,3,206,3,RUS
+3.0,3:17,5m shot - Post,12 - 3,KAZ,AKILBAYEVA A,3.0,12,3,197,3,RUS
+3.0,2:58,5m shot - Missed,12 - 3,RUS,TIMOFEEVA A,9.0,12,3,178,3,RUS
+3.0,2:35,5m shot - Post,12 - 3,KAZ,AKILBAYEVA A,3.0,12,3,155,3,RUS
+3.0,2:22,Turnover foul,12 - 3,RUS,IVANOVA E,11.0,12,3,142,3,RUS
+3.0,2:22,Steal,12 - 3,KAZ,TUROVA A,4.0,12,3,142,3,RUS
+3.0,1:56,5m shot - Goal,12 - 4,KAZ,AKILBAYEVA A,3.0,12,4,116,3,RUS
+3.0,1:27,Turnover foul,12 - 4,RUS,SIMANOVICH A,8.0,12,4,87,3,RUS
+3.0,1:27,Steal,12 - 4,KAZ,MYRZABEKOVA Z,10.0,12,4,87,3,RUS
+3.0,1:02,Centre shot - Missed,12 - 4,KAZ,NOVIKOVA A,7.0,12,4,62,3,RUS
+3.0,0:45,Action shot - Saved,12 - 4,RUS,SIMANOVICH A,8.0,12,4,45,3,RUS
+3.0,0:45,Time-Out,12 - 4,KAZ,,,12,4,45,3,RUS
+3.0,0:22,20 sec. exclusion in centre,12 - 4,RUS,VAKHITOVA V,2.0,12,4,22,3,RUS
+3.0,0:15,Extra player shot - Goal,12 - 5,KAZ,MIRSHINA A,11.0,12,5,15,3,RUS
+3.0,0:01,5m shot - Blocked,12 - 5,RUS,SERZHANTOVA A,7.0,12,5,1,3,RUS
+4.0,8:00,Starting goalkeeper,12 - 5,RUS,KARNAUKH A,13.0,12,5,480,3,RUS
+4.0,8:00,Starting goalkeeper,12 - 5,KAZ,ZHARKIMBAYEVA A,1.0,12,5,480,3,RUS
+4.0,8:00,Sprint won possession,12 - 5,RUS,SERZHANTOVA A,7.0,12,5,480,3,RUS
+4.0,7:41,20 sec. exclusion in centre,12 - 5,KAZ,TUROVA A,4.0,12,5,461,3,RUS
+4.0,7:23,Turnover foul,12 - 5,RUS,SERZHANTOVA A,7.0,12,5,443,3,RUS
+4.0,7:23,Steal,12 - 5,KAZ,MUSSAROVA A,12.0,12,5,443,3,RUS
+4.0,7:00,Turnover foul,12 - 5,KAZ,MYRZABEKOVA Z,10.0,12,5,420,3,RUS
+4.0,7:00,Steal,12 - 5,RUS,PROKOFYEVA E,3.0,12,5,420,3,RUS
+4.0,6:37,5m shot - Goal,13 - 5,RUS,PROKOFYEVA E,3.0,13,5,397,3,RUS
+4.0,2:29,20 sec. exclusion in centre,13 - 5,KAZ,ROGA D,6.0,13,5,149,3,RUS
+4.0,2:26,Extra player shot - Saved,13 - 5,RUS,IVANOVA E,11.0,13,5,146,3,RUS
+4.0,2:00,5m shot - Saved,13 - 5,KAZ,MIRSHINA A,11.0,13,5,120,3,RUS
+4.0,1:40,Action shot - Goal,15 - 6,RUS,RYZHKOVA D,12.0,15,6,100,3,RUS
+4.0,1:37,Goalkeeper substitution,15 - 6,KAZ,ALIBAYEVA A,13.0,15,6,97,3,RUS
+4.0,1:15,Action shot - Missed,15 - 6,KAZ,MYRZABEKOVA Z,10.0,15,6,75,3,RUS
+4.0,0:53,Centre shot - Post,15 - 6,RUS,VAKHITOVA V,2.0,15,6,53,3,RUS
+4.0,0:24,Turnover foul,15 - 6,KAZ,AKILBAYEVA A,3.0,15,6,24,3,RUS
+4.0,0:13,Turnover foul,15 - 6,RUS,VAKHITOVA V,2.0,15,6,13,3,RUS
+4.0,0:13,Time-Out,15 - 6,KAZ,,,15,6,13,3,RUS
+1.0,8:00,Starting goalkeeper,0 - 0,JPN,AOKI M,1.0,0,0,480,4,JPN
+1.0,8:00,Starting goalkeeper,0 - 0,KAZ,ZHARKIMBAYEVA A,1.0,0,0,480,4,JPN
+1.0,8:00,Sprint won possession,0 - 0,KAZ,ZAKIROVA K,5.0,0,0,480,4,JPN
+1.0,7:40,Turnover foul,0 - 0,KAZ,MIRSHINA A,11.0,0,0,460,4,JPN
+1.0,7:35,20 sec. exclusion in field,0 - 0,KAZ,MIRSHINA A,11.0,0,0,455,4,JPN
+1.0,7:11,Extra player shot - Saved,0 - 0,JPN,INABA A,7.0,0,0,431,4,JPN
+1.0,6:50,20 sec. exclusion in field,0 - 0,JPN,MAGARIYAMA S,4.0,0,0,410,4,JPN
+1.0,6:38,Turnover foul,0 - 0,KAZ,MIRSHINA A,11.0,0,0,398,4,JPN
+1.0,6:38,Steal,0 - 0,JPN,TOKUMOTO M,11.0,0,0,398,4,JPN
+1.0,6:27,Turnover foul,0 - 0,KAZ,ZAKIROVA K,5.0,0,0,387,4,JPN
+1.0,6:27,Steal,0 - 0,JPN,MAGARIYAMA S,4.0,0,0,387,4,JPN
+1.0,6:23,Turnover foul,0 - 0,KAZ,AKILBAYEVA A,3.0,0,0,383,4,JPN
+1.0,6:09,Action shot - Post,0 - 0,JPN,INABA A,7.0,0,0,369,4,JPN
+1.0,5:44,5m shot - Goal,0 - 1,KAZ,MIRSHINA A,11.0,0,1,344,4,JPN
+1.0,5:23,5m shot - Goal,1 - 1,JPN,MAGARIYAMA S,4.0,1,1,323,4,JPN
+1.0,4:39,5m shot - Post,1 - 1,JPN,TOKUMOTO M,11.0,1,1,279,4,JPN
+1.0,4:20,5m shot - Saved,1 - 1,KAZ,MIRSHINA A,11.0,1,1,260,4,JPN
+1.0,3:57,5m shot - Missed,1 - 1,JPN,SAKANOUE C,5.0,1,1,237,4,JPN
+1.0,3:45,20 sec. exclusion in field,1 - 1,JPN,INABA A,7.0,1,1,225,4,JPN
+1.0,3:45,Time-Out,1 - 1,KAZ,,,1,1,225,4,JPN
+1.0,3:19,5m shot - Saved,1 - 1,KAZ,AKILBAYEVA A,3.0,1,1,199,4,JPN
+1.0,2:50,Turnover foul,1 - 1,JPN,ARIMA Y,2.0,1,1,170,4,JPN
+1.0,2:33,20 sec. exclusion in centre,1 - 1,JPN,SAKANOUE C,5.0,1,1,153,4,JPN
+1.0,2:09,Action shot - Missed,1 - 1,KAZ,MUSSAROVA A,12.0,1,1,129,4,JPN
+1.0,1:59,Counter attack - Goal,2 - 1,JPN,SUZUKI K,12.0,2,1,119,4,JPN
+1.0,1:45,Turnover foul,2 - 1,KAZ,MYRZABEKOVA Z,10.0,2,1,105,4,JPN
+1.0,1:45,Steal,2 - 1,JPN,MAGARIYAMA S,4.0,2,1,105,4,JPN
+1.0,1:29,Action shot - Blocked,2 - 1,JPN,ARIMA Y,2.0,2,1,89,4,JPN
+1.0,1:05,Turnover foul,2 - 1,KAZ,MYRZABEKOVA Z,10.0,2,1,65,4,JPN
+1.0,1:05,Steal,2 - 1,JPN,SAKANOUE C,5.0,2,1,65,4,JPN
+1.0,0:51,Counter attack - Goal,3 - 1,JPN,SAKANOUE C,5.0,3,1,51,4,JPN
+1.0,0:35,Action shot - Missed,3 - 1,KAZ,ZAKIROVA K,5.0,3,1,35,4,JPN
+1.0,0:13,Turnover foul,3 - 1,JPN,TOKUMOTO M,11.0,3,1,13,4,JPN
+1.0,0:13,Steal,3 - 1,KAZ,ZAKIROVA K,5.0,3,1,13,4,JPN
+1.0,0:01,5m shot - Saved,3 - 1,KAZ,MIRSHINA A,11.0,3,1,1,4,JPN
+2.0,8:00,Starting goalkeeper,3 - 1,JPN,AOKI M,1.0,3,1,480,4,JPN
+2.0,8:00,Starting goalkeeper,3 - 1,KAZ,ZHARKIMBAYEVA A,1.0,3,1,480,4,JPN
+2.0,8:00,Sprint won possession,3 - 1,KAZ,ZAKIROVA K,5.0,3,1,480,4,JPN
+2.0,7:44,Turnover foul,3 - 1,KAZ,ZAKIROVA K,5.0,3,1,464,4,JPN
+2.0,7:44,Steal,3 - 1,JPN,SUZUKI K,12.0,3,1,464,4,JPN
+2.0,7:24,Action shot - Post,3 - 1,JPN,TOKUMOTO M,11.0,3,1,444,4,JPN
+2.0,7:08,20 sec. exclusion in field,3 - 1,JPN,SAKANOUE C,5.0,3,1,428,4,JPN
+2.0,6:46,Extra player shot - Saved,3 - 1,KAZ,AKILBAYEVA A,3.0,3,1,406,4,JPN
+2.0,6:36,Turnover foul,3 - 1,KAZ,TUROVA A,4.0,3,1,396,4,JPN
+2.0,6:36,Steal,3 - 1,JPN,AOKI M,1.0,3,1,396,4,JPN
+2.0,6:25,Turnover foul,3 - 1,JPN,INABA A,7.0,3,1,385,4,JPN
+2.0,6:24,5m shot - Missed,3 - 1,KAZ,MIRSHINA A,11.0,3,1,384,4,JPN
+2.0,5:58,Turnover foul,3 - 1,JPN,MAGARIYAMA S,4.0,3,1,358,4,JPN
+2.0,5:58,Steal,3 - 1,KAZ,MUSSAROVA A,12.0,3,1,358,4,JPN
+2.0,5:46,Centre shot - Saved,3 - 1,KAZ,MYRZABEKOVA Z,10.0,3,1,346,4,JPN
+2.0,5:46,Turnover foul,3 - 1,JPN,SUZUKI K,12.0,3,1,346,4,JPN
+2.0,5:46,Steal,3 - 1,KAZ,ZHARKIMBAYEVA A,1.0,3,1,346,4,JPN
+2.0,5:11,Turnover foul,3 - 1,KAZ,MYRZABEKOVA Z,10.0,3,1,311,4,JPN
+2.0,5:11,Steal,3 - 1,JPN,AOKI M,1.0,3,1,311,4,JPN
+2.0,5:00,Turnover foul,3 - 1,JPN,INABA A,7.0,3,1,300,4,JPN
+2.0,4:42,Action shot - Post,3 - 1,KAZ,ZAKIROVA K,5.0,3,1,282,4,JPN
+2.0,4:31,5m shot - Goal,4 - 1,JPN,ARIMA Y,2.0,4,1,271,4,JPN
+2.0,4:11,20 sec. exclusion in field,4 - 1,JPN,INABA A,7.0,4,1,251,4,JPN
+2.0,4:11,Time-Out,4 - 1,KAZ,,,4,1,251,4,JPN
+2.0,3:42,Action shot - Goal,4 - 2,KAZ,TUROVA A,4.0,4,2,222,4,JPN
+2.0,3:25,Action shot - Goal,5 - 2,JPN,ARIMA Y,2.0,5,2,205,4,JPN
+4.0,7:05,Turnover foul,5 - 2,KAZ,ZAKIROVA K,5.0,5,2,425,4,JPN
+4.0,6:52,Action shot - Saved,5 - 2,JPN,TOKUMOTO M,11.0,5,2,412,4,JPN
+4.0,6:36,20 sec. exclusion in centre,5 - 2,JPN,TOKUMOTO M,11.0,5,2,396,4,JPN
+4.0,6:22,Extra player shot - Saved,5 - 2,KAZ,ZAKIROVA K,5.0,5,2,382,4,JPN
+4.0,6:07,Action shot - Goal,14 - 6,JPN,KAZAMA Y,3.0,14,6,367,4,JPN
+4.0,5:54,Centre shot - Goal,14 - 7,KAZ,MIRSHINA A,11.0,14,7,354,4,JPN
+4.0,5:35,Centre shot - Goal,15 - 7,JPN,ARIMA Y,2.0,15,7,335,4,JPN
+4.0,5:25,20 sec. exclusion in centre,15 - 7,JPN,YAMAMOTO M,6.0,15,7,325,4,JPN
+4.0,5:25,Time-Out,15 - 7,KAZ,,,15,7,325,4,JPN
+4.0,5:03,Action shot - Missed,15 - 7,KAZ,MYRZABEKOVA Z,10.0,15,7,303,4,JPN
+4.0,4:40,Turnover foul,15 - 7,JPN,NORO M,10.0,15,7,280,4,JPN
+4.0,4:40,Steal,15 - 7,KAZ,MYRZABEKOVA Z,10.0,15,7,280,4,JPN
+4.0,4:18,Turnover foul,15 - 7,KAZ,MIRSHINA A,11.0,15,7,258,4,JPN
+4.0,4:18,Steal,15 - 7,JPN,HOSOYA K,9.0,15,7,258,4,JPN
+4.0,4:06,Penalty foul,15 - 7,KAZ,TUROVA A,4.0,15,7,246,4,JPN
+4.0,3:50,Turnover foul,15 - 7,JPN,HOSOYA K,9.0,15,7,230,4,JPN
+4.0,3:50,20 sec. exclusion in centre,15 - 7,JPN,ARIMA Y,2.0,15,7,230,4,JPN
+4.0,3:36,Turnover foul,15 - 7,KAZ,MUSSAROVA A,12.0,15,7,216,4,JPN
+4.0,3:36,Steal,15 - 7,JPN,SUZUKI K,12.0,15,7,216,4,JPN
+2.0,2:57,Turnover foul,15 - 7,KAZ,NOVIKOVA A,7.0,15,7,177,4,JPN
+2.0,2:57,Steal,15 - 7,JPN,TOKUMOTO M,11.0,15,7,177,4,JPN
+2.0,2:41,Turnover foul,15 - 7,JPN,SUZUKI K,12.0,15,7,161,4,JPN
+2.0,2:41,Steal,15 - 7,KAZ,MIRSHINA A,11.0,15,7,161,4,JPN
+2.0,2:12,5m shot - Saved,15 - 7,KAZ,ZAKIROVA K,5.0,15,7,132,4,JPN
+2.0,1:58,5m shot - Saved,15 - 7,JPN,MAGARIYAMA S,4.0,15,7,118,4,JPN
+2.0,1:54,20 sec. exclusion in centre,15 - 7,KAZ,TUROVA A,4.0,15,7,114,4,JPN
+2.0,1:34,Extra player shot - Saved,15 - 7,JPN,SUZUKI K,12.0,15,7,94,4,JPN
+2.0,1:07,20 sec. exclusion in field,15 - 7,JPN,HOSOYA K,9.0,15,7,67,4,JPN
+2.0,0:52,Turnover foul,15 - 7,KAZ,ZAKIROVA K,5.0,15,7,52,4,JPN
+2.0,0:32,Turnover foul,15 - 7,JPN,YAMAMOTO M,6.0,15,7,32,4,JPN
+2.0,0:17,Action shot - Saved,15 - 7,KAZ,MUSSAROVA A,12.0,15,7,17,4,JPN
+3.0,8:00,Starting goalkeeper,15 - 7,JPN,SHIOYA M,13.0,15,7,480,4,JPN
+3.0,8:00,Starting goalkeeper,15 - 7,KAZ,ZHARKIMBAYEVA A,1.0,15,7,480,4,JPN
+3.0,8:00,Sprint won possession,15 - 7,KAZ,ZAKIROVA K,5.0,15,7,480,4,JPN
+3.0,7:44,Action shot - Goal,5 - 3,KAZ,MYRZABEKOVA Z,10.0,5,3,464,4,JPN
+3.0,7:26,Turnover foul,5 - 3,JPN,SAKANOUE C,5.0,5,3,446,4,JPN
+3.0,7:26,Steal,5 - 3,KAZ,MUSSAROVA A,12.0,5,3,446,4,JPN
+3.0,7:16,Action shot - Missed,5 - 3,KAZ,MYRZABEKOVA Z,10.0,5,3,436,4,JPN
+3.0,7:01,Action shot - Goal,6 - 3,JPN,KAZAMA Y,3.0,6,3,421,4,JPN
+3.0,6:46,Turnover foul,6 - 3,KAZ,MYRZABEKOVA Z,10.0,6,3,406,4,JPN
+3.0,6:40,Counter attack - Saved,6 - 3,JPN,ARIMA Y,2.0,6,3,400,4,JPN
+3.0,6:15,Turnover foul,6 - 3,JPN,ARIMA Y,2.0,6,3,375,4,JPN
+3.0,6:11,Steal,6 - 3,KAZ,ZHARKIMBAYEVA A,1.0,6,3,371,4,JPN
+3.0,6:04,Turnover foul,6 - 3,KAZ,MYRZABEKOVA Z,10.0,6,3,364,4,JPN
+3.0,6:04,Steal,6 - 3,JPN,KAZAMA Y,3.0,6,3,364,4,JPN
+3.0,5:57,Action shot - Goal,7 - 3,JPN,INABA A,7.0,7,3,357,4,JPN
+3.0,5:43,20 sec. exclusion in centre,7 - 3,JPN,TOKUMOTO M,11.0,7,3,343,4,JPN
+3.0,5:35,Extra player shot - Saved,7 - 3,KAZ,MYRZABEKOVA Z,10.0,7,3,335,4,JPN
+3.0,5:29,20 sec. exclusion in field,7 - 3,KAZ,MIRSHINA A,11.0,7,3,329,4,JPN
+3.0,5:29,Time-Out,7 - 3,JPN,,,7,3,329,4,JPN
+3.0,5:08,Extra player shot - Goal,8 - 3,JPN,NIIZAWA Y,8.0,8,3,308,4,JPN
+3.0,4:38,5m shot - Blocked,8 - 3,KAZ,ZAKIROVA K,5.0,8,3,278,4,JPN
+3.0,4:27,Action shot - Goal,9 - 3,JPN,INABA A,7.0,9,3,267,4,JPN
+3.0,4:15,Turnover foul,9 - 3,KAZ,TUROVA A,4.0,9,3,255,4,JPN
+3.0,4:08,Counter attack - Goal,10 - 3,JPN,YAMAMOTO M,6.0,10,3,248,4,JPN
+3.0,3:27,Action shot - Saved,10 - 3,JPN,NIIZAWA Y,8.0,10,3,207,4,JPN
+3.0,3:08,5m shot - Goal,10 - 4,KAZ,MIRSHINA A,11.0,10,4,188,4,JPN
+3.0,2:55,Turnover foul,10 - 4,JPN,YAMAMOTO M,6.0,10,4,175,4,JPN
+3.0,2:55,Steal,10 - 4,KAZ,TUROVA A,4.0,10,4,175,4,JPN
+3.0,2:45,Turnover foul,10 - 4,KAZ,MIRSHINA A,11.0,10,4,165,4,JPN
+3.0,2:40,Counter attack - Goal,11 - 4,JPN,YAMAMOTO M,6.0,11,4,160,4,JPN
+3.0,2:19,5m shot - Blocked,11 - 4,KAZ,MIRSHINA A,11.0,11,4,139,4,JPN
+3.0,2:07,Action shot - Goal,12 - 4,JPN,ARIMA Y,2.0,12,4,127,4,JPN
+3.0,1:56,Action shot - Goal,12 - 5,KAZ,MYRZABEKOVA Z,10.0,12,5,116,4,JPN
+3.0,1:36,Turnover foul,12 - 5,JPN,SAKANOUE C,5.0,12,5,96,4,JPN
+3.0,1:36,Steal,12 - 5,KAZ,TUROVA A,4.0,12,5,96,4,JPN
+3.0,1:10,Turnover foul,12 - 5,KAZ,MYRZABEKOVA Z,10.0,12,5,70,4,JPN
+3.0,1:10,Steal,12 - 5,JPN,ARIMA Y,2.0,12,5,70,4,JPN
+3.0,1:05,Turnover foul,12 - 5,JPN,YAMAMOTO M,6.0,12,5,65,4,JPN
+3.0,0:46,Action shot - Saved,12 - 5,KAZ,AKILBAYEVA A,3.0,12,5,46,4,JPN
+3.0,0:30,Action shot - Missed,12 - 5,JPN,SAKANOUE C,5.0,12,5,30,4,JPN
+3.0,0:30,Time-Out,12 - 5,KAZ,,,12,5,30,4,JPN
+3.0,0:18,Centre shot - Goal,12 - 6,KAZ,MIRSHINA A,11.0,12,6,18,4,JPN
+3.0,0:01,5m shot - Blocked,12 - 6,JPN,SAKANOUE C,5.0,12,6,1,4,JPN
+4.0,8:00,Starting goalkeeper,12 - 6,JPN,SHIOYA M,13.0,12,6,480,4,JPN
+4.0,8:00,Starting goalkeeper,12 - 6,KAZ,ZHARKIMBAYEVA A,1.0,12,6,480,4,JPN
+4.0,8:00,Sprint won possession,12 - 6,KAZ,ZAKIROVA K,5.0,12,6,480,4,JPN
+4.0,7:37,Turnover foul,12 - 6,KAZ,MYRZABEKOVA Z,10.0,12,6,457,4,JPN
+4.0,7:37,Steal,12 - 6,JPN,TOKUMOTO M,11.0,12,6,457,4,JPN
+4.0,7:20,Action shot - Goal,13 - 6,JPN,SAKANOUE C,5.0,13,6,440,4,JPN
+4.0,3:25,Counter attack - Goal,16 - 7,JPN,SAKANOUE C,5.0,16,7,205,4,JPN
+4.0,3:03,Turnover foul,16 - 7,KAZ,SAICHUK O,8.0,16,7,183,4,JPN
+4.0,3:03,Steal,16 - 7,JPN,HOSOYA K,9.0,16,7,183,4,JPN
+4.0,2:57,Counter attack - Goal,17 - 7,JPN,SAKANOUE C,5.0,17,7,177,4,JPN
+4.0,2:26,5m shot - Missed,17 - 7,KAZ,MIRSHINA A,11.0,17,7,146,4,JPN
+4.0,2:07,Turnover foul,17 - 7,JPN,NORO M,10.0,17,7,127,4,JPN
+4.0,2:07,Steal,17 - 7,KAZ,TUROVA A,4.0,17,7,127,4,JPN
+4.0,1:34,Action shot - Saved,17 - 7,JPN,ARIMA Y,2.0,17,7,94,4,JPN
+4.0,1:19,Penalty foul,17 - 7,JPN,NORO M,10.0,17,7,79,4,JPN
+4.0,1:19,Penalty shot - Post,17 - 7,KAZ,MIRSHINA A,11.0,17,7,79,4,JPN
+4.0,1:17,Turnover foul,17 - 7,KAZ,MIRSHINA A,11.0,17,7,77,4,JPN
+4.0,0:57,Action shot - Saved,17 - 7,JPN,MAGARIYAMA S,4.0,17,7,57,4,JPN
+4.0,0:43,20 sec. exclusion in centre,17 - 7,JPN,SAKANOUE C,5.0,17,7,43,4,JPN
+4.0,0:43,Exclusion with substitution,17 - 7,JPN,SAKANOUE C,5.0,17,7,43,4,JPN
+4.0,0:43,Extra player shot - Goal,17 - 8,KAZ,NOVIKOVA A,7.0,17,8,43,4,JPN
+4.0,0:32,Action shot - Missed,17 - 8,JPN,NIIZAWA Y,8.0,17,8,32,4,JPN
+4.0,0:15,Turnover foul,17 - 8,KAZ,ZAKIROVA K,5.0,17,8,15,4,JPN
+4.0,0:15,Steal,17 - 8,JPN,MAGARIYAMA S,4.0,17,8,15,4,JPN
+1.0,8:00,Starting goalkeeper,0 - 0,RSA,THOMAS R,1.0,0,0,480,5,RSA
+1.0,8:00,Starting goalkeeper,0 - 0,KAZ,ZHARKIMBAYEVA A,1.0,0,0,480,5,RSA
+1.0,8:00,Sprint won possession,0 - 0,RSA,HALLENDORFF A,6.0,0,0,480,5,RSA
+1.0,7:42,Turnover foul,0 - 0,RSA,BARRETT N,11.0,0,0,462,5,RSA
+1.0,7:42,Steal,0 - 0,KAZ,ZAKIROVA K,5.0,0,0,462,5,RSA
+1.0,7:21,Turnover foul,0 - 0,KAZ,MUSSAROVA A,12.0,0,0,441,5,RSA
+1.0,7:21,Steal,0 - 0,RSA,SCHOOLING M,5.0,0,0,441,5,RSA
+1.0,6:56,Turnover foul,0 - 0,RSA,BARRETT N,11.0,0,0,416,5,RSA
+1.0,6:56,Steal,0 - 0,KAZ,TUROVA A,4.0,0,0,416,5,RSA
+1.0,6:32,Turnover foul,0 - 0,KAZ,MIRSHINA A,11.0,0,0,392,5,RSA
+1.0,6:16,Action shot - Saved,0 - 0,RSA,WHITE K,12.0,0,0,376,5,RSA
+1.0,5:52,Turnover foul,0 - 0,RSA,SCHOOLING M,5.0,0,0,352,5,RSA
+1.0,5:52,Steal,0 - 0,KAZ,TUROVA A,4.0,0,0,352,5,RSA
+1.0,5:25,Action shot - Saved,0 - 0,KAZ,ZAKIROVA K,5.0,0,0,325,5,RSA
+1.0,5:09,20 sec. exclusion in centre,0 - 0,KAZ,ZAKIROVA K,5.0,0,0,309,5,RSA
+1.0,4:51,Extra player shot - Missed,0 - 0,RSA,HALLENDORFF A,6.0,0,0,291,5,RSA
+1.0,4:51,Time-Out,0 - 0,KAZ,,,0,0,291,5,RSA
+1.0,4:36,20 sec. exclusion in field,0 - 0,RSA,SCHOOLING M,5.0,0,0,276,5,RSA
+1.0,4:19,Extra player shot - Goal,0 - 1,KAZ,AKILBAYEVA A,3.0,0,1,259,5,RSA
+1.0,3:53,Turnover foul,0 - 1,RSA,HALLENDORFF A,6.0,0,1,233,5,RSA
+1.0,3:53,Steal,0 - 1,KAZ,MIRSHINA A,11.0,0,1,233,5,RSA
+1.0,3:37,20 sec. exclusion in centre,0 - 1,RSA,MANSON M,10.0,0,1,217,5,RSA
+1.0,3:22,Extra player shot - Post,0 - 1,KAZ,MYRZABEKOVA Z,10.0,0,1,202,5,RSA
+1.0,2:57,Centre shot - Goal,1 - 1,RSA,SMIT Z,9.0,1,1,177,5,RSA
+1.0,2:41,Turnover foul,1 - 1,KAZ,MYRZABEKOVA Z,10.0,1,1,161,5,RSA
+1.0,2:25,Counter attack - Saved,1 - 1,RSA,BARRETT N,11.0,1,1,145,5,RSA
+1.0,2:04,Action shot - Goal,1 - 2,KAZ,AKILBAYEVA A,3.0,1,2,124,5,RSA
+1.0,1:49,Turnover foul,1 - 2,RSA,SMIT Z,9.0,1,2,109,5,RSA
+1.0,1:21,5m shot - Saved,1 - 2,KAZ,MUSSAROVA A,12.0,1,2,81,5,RSA
+1.0,1:20,Time-Out,1 - 2,RSA,,,1,2,80,5,RSA
+1.0,1:00,Turnover foul,1 - 2,RSA,KEEVY A,8.0,1,2,60,5,RSA
+1.0,1:00,Steal,1 - 2,KAZ,ZHARKIMBAYEVA A,1.0,1,2,60,5,RSA
+1.0,0:58,20 sec. exclusion in field,1 - 2,RSA,PENNEY A,2.0,1,2,58,5,RSA
+1.0,0:58,Penalty foul,1 - 2,RSA,PENNEY A,2.0,1,2,58,5,RSA
+1.0,0:53,Penalty shot - Missed,1 - 2,KAZ,MIRSHINA A,11.0,1,2,53,5,RSA
+1.0,0:32,Turnover foul,1 - 2,RSA,KEEVY A,8.0,1,2,32,5,RSA
+1.0,0:13,Action shot - Saved,1 - 2,KAZ,ZAKIROVA K,5.0,1,2,13,5,RSA
+2.0,8:00,Starting goalkeeper,1 - 2,RSA,THOMAS R,1.0,1,2,480,5,RSA
+2.0,8:00,Starting goalkeeper,1 - 2,KAZ,ZHARKIMBAYEVA A,1.0,1,2,480,5,RSA
+2.0,8:00,Sprint won possession,1 - 2,RSA,HALLENDORFF A,6.0,1,2,480,5,RSA
+2.0,7:42,20 sec. exclusion in centre,1 - 2,KAZ,MUSSAROVA A,12.0,1,2,462,5,RSA
+2.0,7:26,Extra player shot - Saved,1 - 2,RSA,SCHOOLING M,5.0,1,2,446,5,RSA
+2.0,6:58,Action shot - Goal,1 - 3,KAZ,YEREMINA A,9.0,1,3,418,5,RSA
+2.0,6:41,Turnover foul,1 - 3,RSA,SMIT Z,9.0,1,3,401,5,RSA
+2.0,6:41,Steal,1 - 3,KAZ,AKILBAYEVA A,3.0,1,3,401,5,RSA
+2.0,6:25,Turnover foul,1 - 3,KAZ,ZAKIROVA K,5.0,1,3,385,5,RSA
+2.0,6:25,Steal,1 - 3,RSA,HALLENDORFF A,6.0,1,3,385,5,RSA
+2.0,6:17,Turnover foul,1 - 3,RSA,HALLENDORFF A,6.0,1,3,377,5,RSA
+2.0,6:06,5m shot - Goal,1 - 4,KAZ,MIRSHINA A,11.0,1,4,366,5,RSA
+2.0,5:51,Penalty foul,1 - 4,KAZ,YEREMINA A,9.0,1,4,351,5,RSA
+2.0,5:51,Penalty shot - Goal,2 - 4,RSA,WHITE K,12.0,2,4,351,5,RSA
+2.0,5:42,Turnover foul,2 - 4,KAZ,MYRZABEKOVA Z,10.0,2,4,342,5,RSA
+2.0,5:42,Steal,2 - 4,RSA,THOMAS R,1.0,2,4,342,5,RSA
+2.0,5:17,Centre shot - Goal,3 - 4,RSA,SMIT Z,9.0,3,4,317,5,RSA
+2.0,4:59,Action shot - Missed,3 - 4,KAZ,SAICHUK O,8.0,3,4,299,5,RSA
+2.0,4:36,Action shot - Saved,3 - 4,RSA,BARRETT N,11.0,3,4,276,5,RSA
+2.0,4:12,Action shot - Missed,3 - 4,KAZ,AKILBAYEVA A,3.0,3,4,252,5,RSA
+2.0,3:45,20 sec. exclusion in centre,3 - 4,KAZ,TUROVA A,4.0,3,4,225,5,RSA
+2.0,3:19,5m shot - Post,3 - 4,RSA,MANSON M,10.0,3,4,199,5,RSA
+2.0,3:03,Turnover foul,3 - 4,RSA,WHITE K,12.0,3,4,183,5,RSA
+2.0,3:03,Steal,3 - 4,KAZ,YEREMINA A,9.0,3,4,183,5,RSA
+4.0,4:16,Steal,3 - 4,RSA,KEEVY A,8.0,3,4,256,5,RSA
+4.0,4:16,Time-Out,3 - 4,RSA,,,3,4,256,5,RSA
+4.0,3:50,Turnover foul,3 - 4,RSA,PALEY K,3.0,3,4,230,5,RSA
+4.0,3:25,Centre shot - Goal,4 - 5,KAZ,NOVIKOVA A,7.0,4,5,205,5,RSA
+4.0,2:24,5m shot - Missed,4 - 5,KAZ,NOVIKOVA A,7.0,4,5,144,5,RSA
+4.0,1:52,Turnover foul,4 - 5,RSA,BARRETT N,11.0,4,5,112,5,RSA
+2.0,2:11,Double exclusion,4 - 5,RSA,KEEVY A,8.0,4,5,131,5,RSA
+2.0,2:11,Double exclusion,4 - 5,KAZ,MIRSHINA A,11.0,4,5,131,5,RSA
+2.0,2:04,Turnover foul,4 - 5,RSA,PALEY K,3.0,4,5,124,5,RSA
+2.0,2:04,Steal,4 - 5,KAZ,MUSSAROVA A,12.0,4,5,124,5,RSA
+2.0,1:48,Centre shot - Saved,4 - 5,KAZ,MYRZABEKOVA Z,10.0,4,5,108,5,RSA
+2.0,1:48,Time-Out,4 - 5,RSA,,,4,5,108,5,RSA
+2.0,1:34,20 sec. exclusion in field,4 - 5,KAZ,SAICHUK O,8.0,4,5,94,5,RSA
+2.0,1:30,Turnover foul,4 - 5,RSA,BARRETT N,11.0,4,5,90,5,RSA
+2.0,1:30,Time-Out,4 - 5,KAZ,,,4,5,90,5,RSA
+2.0,1:11,Turnover foul,4 - 5,KAZ,MYRZABEKOVA Z,10.0,4,5,71,5,RSA
+2.0,0:48,Turnover foul,4 - 5,RSA,BARRETT N,11.0,4,5,48,5,RSA
+2.0,0:48,Steal,4 - 5,KAZ,ZAKIROVA K,5.0,4,5,48,5,RSA
+2.0,0:33,20 sec. exclusion in centre,4 - 5,RSA,BARRETT N,11.0,4,5,33,5,RSA
+2.0,0:22,Extra player shot - Blocked,4 - 5,KAZ,ZAKIROVA K,5.0,4,5,22,5,RSA
+2.0,0:04,5m shot - Missed,4 - 5,RSA,PENNEY A,2.0,4,5,4,5,RSA
+3.0,8:00,Starting goalkeeper,4 - 5,RSA,THOMAS R,1.0,4,5,480,5,RSA
+3.0,8:00,Starting goalkeeper,4 - 5,KAZ,ZHARKIMBAYEVA A,1.0,4,5,480,5,RSA
+3.0,8:00,Sprint won possession,4 - 5,RSA,HALLENDORFF A,6.0,4,5,480,5,RSA
+3.0,7:41,20 sec. exclusion in centre,4 - 5,KAZ,MUSSAROVA A,12.0,4,5,461,5,RSA
+3.0,7:21,Extra player shot - Saved,4 - 5,RSA,WHITE K,12.0,4,5,441,5,RSA
+3.0,6:57,Centre shot - Saved,4 - 5,RSA,PALEY K,3.0,4,5,417,5,RSA
+3.0,6:23,5m shot - Saved,4 - 5,KAZ,MIRSHINA A,11.0,4,5,383,5,RSA
+3.0,6:06,Turnover foul,4 - 5,RSA,WHITE K,12.0,4,5,366,5,RSA
+3.0,6:06,Steal,4 - 5,KAZ,MIRSHINA A,11.0,4,5,366,5,RSA
+3.0,5:45,Centre shot - Missed,4 - 5,KAZ,TUROVA A,4.0,4,5,345,5,RSA
+3.0,5:16,5m shot - Saved,4 - 5,RSA,WHITE K,12.0,4,5,316,5,RSA
+3.0,4:43,Turnover foul,4 - 5,KAZ,MUSSAROVA A,12.0,4,5,283,5,RSA
+3.0,4:43,Steal,4 - 5,RSA,PENNEY A,2.0,4,5,283,5,RSA
+3.0,4:29,Centre shot - Saved,4 - 5,RSA,PALEY K,3.0,4,5,269,5,RSA
+3.0,4:05,Turnover foul,4 - 5,KAZ,MYRZABEKOVA Z,10.0,4,5,245,5,RSA
+3.0,4:05,Steal,4 - 5,RSA,PALEY K,3.0,4,5,245,5,RSA
+3.0,4:05,Time-Out,4 - 5,RSA,,,4,5,245,5,RSA
+3.0,3:41,Centre shot - Post,4 - 5,RSA,SMIT Z,9.0,4,5,221,5,RSA
+3.0,2:59,Counter attack - Goal,4 - 4,RSA,BARRETT N,11.0,4,4,179,5,RSA
+3.0,2:32,Turnover foul,4 - 4,KAZ,MIRSHINA A,11.0,4,4,152,5,RSA
+3.0,2:32,Steal,4 - 4,RSA,THOMAS R,1.0,4,4,152,5,RSA
+3.0,2:04,Turnover foul,4 - 4,RSA,SMIT Z,9.0,4,4,124,5,RSA
+3.0,1:44,20 sec. exclusion in centre,4 - 4,RSA,WESSELS C,7.0,4,4,104,5,RSA
+3.0,1:44,Time-Out,4 - 4,KAZ,,,4,4,104,5,RSA
+3.0,1:21,Turnover foul,4 - 4,KAZ,YEREMINA A,9.0,4,4,81,5,RSA
+3.0,1:19,Steal,4 - 4,RSA,BARRETT N,11.0,4,4,79,5,RSA
+3.0,0:54,Turnover foul,4 - 4,RSA,FAULMANN S,4.0,4,4,54,5,RSA
+3.0,0:54,Steal,4 - 4,KAZ,ZAKIROVA K,5.0,4,4,54,5,RSA
+3.0,0:25,Turnover foul,4 - 4,KAZ,MYRZABEKOVA Z,10.0,4,4,25,5,RSA
+4.0,8:00,Starting goalkeeper,4 - 4,RSA,THOMAS R,1.0,4,4,480,5,RSA
+4.0,8:00,Starting goalkeeper,4 - 4,KAZ,ZHARKIMBAYEVA A,1.0,4,4,480,5,RSA
+4.0,8:00,Sprint won possession,4 - 4,RSA,HALLENDORFF A,6.0,4,4,480,5,RSA
+4.0,7:42,Centre shot - Saved,4 - 4,RSA,SMIT Z,9.0,4,4,462,5,RSA
+4.0,7:12,5m shot - Saved,4 - 4,KAZ,ZAKIROVA K,5.0,4,4,432,5,RSA
+4.0,6:55,Turnover foul,4 - 4,RSA,HALLENDORFF A,6.0,4,4,415,5,RSA
+4.0,6:55,Steal,4 - 4,KAZ,ZHARKIMBAYEVA A,1.0,4,4,415,5,RSA
+4.0,6:51,20 sec. exclusion in field,4 - 4,RSA,SMIT Z,9.0,4,4,411,5,RSA
+4.0,6:51,Time-Out,4 - 4,KAZ,,,4,4,411,5,RSA
+4.0,6:36,Extra player shot - Missed,4 - 4,KAZ,ROGA D,6.0,4,4,396,5,RSA
+4.0,6:13,Action shot - Saved,4 - 4,RSA,HALLENDORFF A,6.0,4,4,373,5,RSA
+4.0,5:42,5m shot - Saved,4 - 4,KAZ,AKILBAYEVA A,3.0,4,4,342,5,RSA
+4.0,5:29,Turnover foul,4 - 4,RSA,SMIT Z,9.0,4,4,329,5,RSA
+4.0,4:59,Turnover foul,4 - 4,KAZ,ZAKIROVA K,5.0,4,4,299,5,RSA
+4.0,4:48,Steal,4 - 4,RSA,HALLENDORFF A,6.0,4,4,288,5,RSA
+4.0,4:39,Action shot - Missed,4 - 4,RSA,SCHOOLING M,5.0,4,4,279,5,RSA
+4.0,4:16,Turnover foul,4 - 4,KAZ,MIRSHINA A,11.0,4,4,256,5,RSA
+4.0,1:52,Steal,4 - 4,KAZ,AKILBAYEVA A,3.0,4,4,112,5,RSA
+4.0,1:07,20 sec. exclusion in centre,4 - 4,KAZ,TUROVA A,4.0,4,4,67,5,RSA
+4.0,0:50,Extra player shot - Saved,4 - 4,RSA,PALEY K,3.0,4,4,50,5,RSA
+4.0,0:04,Turnover foul,4 - 4,RSA,WHITE K,12.0,4,4,4,5,RSA
+4.0,0:04,Steal,4 - 4,KAZ,TUROVA A,4.0,4,4,4,5,RSA
+4.0,0:01,5m shot - Goal,4 - 6,KAZ,MUSSAROVA A,12.0,4,6,1,5,RSA
