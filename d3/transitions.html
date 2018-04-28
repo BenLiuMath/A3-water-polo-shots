@@ -810,6 +810,14 @@ var timelineLegend = svgLegend.append("g")
 			.attr("fill",'white');
 
 		var lineLength = 80;
+    // Add game number to the timelines
+    timeline.append("text")
+      .attr("class","axisLabel")
+      .attr("y",timelineHeight/1.5)
+      .attr("x",-timelineInternalPadding - lineLength)
+      .attr("dy","-.2em")
+      .style("text-anchor", "middle")
+      .text(gameNum);
 		/*
 		  Add flags and team names
 		*/
@@ -817,7 +825,7 @@ var timelineLegend = svgLegend.append("g")
 		timeline.append("text")
 			.attr("class","teamnameThis")
 			.attr("y",timelineHeight/2)
-			.attr("x",-timelineInternalPadding-lineLength/3)
+			.attr("x",-timelineInternalPadding-lineLength/4)
 			.attr("dy","-.2em")
 			.style("text-anchor", "middle")
 			.text("?");
@@ -825,14 +833,14 @@ var timelineLegend = svgLegend.append("g")
 			.attr("class","flagThis")
 			.attr("href", "img/" + currTeamCode + ".png")
 			.attr("y", timelineHeight/1.95-20)
-			.attr("x",-timelineInternalPadding-lineLength)
+			.attr("x",-timelineInternalPadding-lineLength*.9)
 			.attr("height", "20px");
 
 		// now add the other team
 		timeline.append("text")
 			.attr("class","teamnameOpponent")
 			.attr("y",timelineHeight/2)
-			.attr("x",-timelineInternalPadding-lineLength/3)
+			.attr("x",-timelineInternalPadding-lineLength/4)
 			.attr("dy", "1.2em")
 			.style("text-anchor", "middle")
 			.text("?");
@@ -840,12 +848,12 @@ var timelineLegend = svgLegend.append("g")
 			.attr("class","flagOpponent")
 			.attr("href", "img/" + currTeamCode + ".png")
 			.attr("y", timelineHeight/1.95)
-			.attr("x",-timelineInternalPadding-lineLength)
+			.attr("x",-timelineInternalPadding-lineLength*.9)
 			.attr("height", "20px");
 		timeline.append("line")
 			.attr("style","shape-rendering: crispEdges")
 			.attr("x1",-timelineInternalPadding)
-			.attr("x2",-timelineInternalPadding-lineLength)
+			.attr("x2",-timelineInternalPadding-lineLength*.9)
 			.attr("y1",timelineHeight/2+1)
 			.attr("y2",timelineHeight/2+1)
 			.attr("stroke","black")
