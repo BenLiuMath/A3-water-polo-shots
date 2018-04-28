@@ -12,6 +12,14 @@ include paths.mk
 .PHONY : team_data
 team_data : $(SHOT_SUMMARY_FILE) $(ALL_ACTIONS_FILE)
 
+## all_team_data		: Generates data files for every team in $(TEAM_LIST_FILE).
+# For technical reasons, this cannot be run until $(TEAM_LIST_FILE) has been created
+.PHONY : all_team_data
+all_team_data : 
+	while read TEAM_NAME; do \
+	sed -i -e "/TEAM = [A-Z]\{3\}/s/ [A-Z]\{3\}/ $$TEAM_NAME/g" paths.mk ; \
+	make team_data --no-print-directory; \
+	done < $(TEAM_LIST_FILE)
 
 
 # Generate a JSON file from a csv file
@@ -42,8 +50,7 @@ $(SHOT_SUMMARY_FILE) : $(SHOT_SUMMARY_SRC) $(SHOTS_FILE)
 
 
 
-# TODO
-## parameters							: Print some of the current parameters
+## parameters			: Print some of the current parameters
 .PHONY : parameters
 parameters : 
 	@echo TEAM: $(TEAM)
@@ -56,10 +63,15 @@ parameters :
 	@echo PROCESSED_PATH: $(PROCESSED_PATH)
 	@echo GAME_LIST_FILE: $(GAME_LIST_FILE)
 	@echo TEAM_LIST_FILE: $(TEAM_LIST_FILE)
-	@echo CSV_FILES: $(CSV_FILES)
 
 
-# ## help 								: Prints descriptions of all recipes
-# .PHONY : help
-# help : Makefile
-# 	@sed -n 's/^##//p' $<
+## teams 				: Print out all the teams
+.PHONY : teams
+teams :
+	@echo Teams: $(ALL_TEAMS)
+
+
+## help 				: Prints descriptions of all recipes
+.PHONY : help
+help : Makefile
+	@sed -n 's/^##//p' $<
