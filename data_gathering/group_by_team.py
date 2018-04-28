@@ -4,6 +4,7 @@
 import pandas as pd
 import sys
 import os
+import pdb
 
 # ---------------------------------------------------------------------
 # 						Parameters
@@ -18,7 +19,7 @@ import os
 
 
 # Check that the correct number of arguments are passed
-assert len(sys.argv) == 9, "Error, %d arguments passed to %s, but 8 are required!" %(len(sys.argv)-1,sys.argv[0])
+assert len(sys.argv) == 10, "Error, %d arguments passed to %s, but 9 are required!" %(len(sys.argv)-1,sys.argv[0])
 
 # Read in the arguments
 team_of_interest     = sys.argv[1]
@@ -29,6 +30,7 @@ base_postfix         = sys.argv[5] + ".csv"
 game_list_filename   = sys.argv[6]
 sex                  = sys.argv[7]
 team_path 			 = sys.argv[8]
+team_list_filename   = sys.argv[9]
 
 base_prefix 		 = base_prefix + "/" + sex
 
@@ -59,9 +61,9 @@ game_list = all_games[(all_games['Team 1'] == team_of_interest) | (all_games['Te
 
 # Write a list of the teams to a text file
 team_list      = set(all_games['Team 1'].values).union(set(all_games['Team 2'].values))
-team_list_file = open('team_list.txt', 'w')
+team_list_io = open(team_list_filename, 'w')
 for item in team_list:
-	team_list_file.write("%s\n" %(item))
+	team_list_io.write("%s\n" %(item))
 
 
 # Read in data for all the games the team of interest played and append
