@@ -60,7 +60,7 @@ Turnover foul,5.0,1,12,USA,2.0,SCHOOLING M,0,0 - 12,84,RSA,1:24
 Steal,3.0,1,12,USA,2.0,SEIDEMANN M,0,0 - 12,84,USA,1:24
 Turnover foul,9.0,1,12,USA,2.0,FISCHER A,0,0 - 12,63,USA,1:03
 Steal,13.0,1,12,USA,2.0,NIXON L,0,0 - 12,63,RSA,1:03
-Turnover foul,RSA 5,1,12,USA,4.0,SCHOOLING M,0,0 - 12,15,,0:15
+Turnover foul,5.0,1,12,USA,4.0,SCHOOLING M,0,0 - 12,15,RSA,0:15
 Time-Out,,1,12,USA,2.0,,0,0 - 12,63,RSA,1:03
 Action shot - Post,2.0,1,12,USA,2.0,PENNEY A,0,0 - 12,29,RSA,0:29
 Centre shot - Goal,3.0,1,13,USA,2.0,SEIDEMANN M,0,0 - 13,18,USA,0:18
@@ -252,69 +252,69 @@ Turnover foul,12.0,2,6,NZL,4.0,WHITE K,6,6 - 6,97,RSA,1:37
 Time-Out,,2,6,NZL,4.0,,6,6 - 6,52,NZL,0:52
 Extra player shot - Goal,11.0,2,8,NZL,4.0,HUDSON K,6,8 - 6,28,NZL,0:28
 5m shot - Saved,12.0,2,8,NZL,4.0,WHITE K,6,8 - 6,1,RSA,0:01
-Starting goalkeeper,13,3,0,ESP,1.0,NIXON L,0,0 - 0,480,RSA,8:00
-Starting goalkeeper,1,3,0,ESP,1.0,ESTER RAMOS L,0,0 - 0,480,ESP,8:00
-Sprint won possession,6,3,0,ESP,1.0,HALLENDORFF A,0,0 - 0,480,RSA,8:00
-Turnover foul,6,3,0,ESP,1.0,HALLENDORFF A,0,0 - 0,460,RSA,7:40
-Turnover foul,12,3,0,ESP,1.0,LEITON ARRONES P,0,0 - 0,438,ESP,7:18
-Turnover foul,6,3,0,ESP,1.0,HALLENDORFF A,0,0 - 0,420,RSA,7:00
-Steal,5,3,0,ESP,1.0,ORTIZ REYES M,0,0 - 0,420,ESP,7:00
-20 sec. exclusion in centre,11,3,0,ESP,1.0,BARRETT N,0,0 - 0,399,RSA,6:39
-Extra player shot - Goal,12,3,1,ESP,1.0,LEITON ARRONES P,0,0 - 1,387,ESP,6:27
-5m shot - Saved,12,3,1,ESP,1.0,WHITE K,0,0 - 1,364,RSA,6:04
-Turnover foul,10,3,1,ESP,1.0,CRESPI BARRIGA P,0,0 - 1,338,ESP,5:38
-Steal,5,3,1,ESP,1.0,SCHOOLING M,0,0 - 1,338,RSA,5:38
-5m shot - Goal,2,3,1,ESP,1.0,PENNEY A,1,1 - 1,318,RSA,5:18
-Turnover foul,10,3,1,ESP,1.0,CRESPI BARRIGA P,1,1 - 1,291,ESP,4:51
-Steal,13,3,1,ESP,1.0,NIXON L,1,1 - 1,291,RSA,4:51
-Steal,3,3,1,ESP,1.0,ESPAR LLAQUET A,1,1 - 1,270,ESP,4:30
-20 sec. exclusion in centre,12,3,1,ESP,1.0,WHITE K,1,1 - 1,262,RSA,4:22
-Extra player shot - Goal,7,3,2,ESP,1.0,ESPAR LLAQUET C,1,1 - 2,250,ESP,4:10
-Steal,10,3,2,ESP,1.0,CRESPI BARRIGA P,1,1 - 2,234,ESP,3:54
-Counter attack - Goal,9,3,3,ESP,1.0,FORCA ARIZA J,1,1 - 3,223,ESP,3:43
-Steal,2,3,3,ESP,1.0,BACH PASCUAL M,1,1 - 3,206,ESP,3:26
-5m shot - Missed,6,3,3,ESP,1.0,LLORET GOMEZ H,1,1 - 3,188,ESP,3:08
+Starting goalkeeper,13.0,3,0,ESP,1.0,NIXON L,0,0 - 0,480,RSA,8:00
+Starting goalkeeper,1.0,3,0,ESP,1.0,ESTER RAMOS L,0,0 - 0,480,ESP,8:00
+Sprint won possession,6.0,3,0,ESP,1.0,HALLENDORFF A,0,0 - 0,480,RSA,8:00
+Turnover foul,6.0,3,0,ESP,1.0,HALLENDORFF A,0,0 - 0,460,RSA,7:40
+Turnover foul,12.0,3,0,ESP,1.0,LEITON ARRONES P,0,0 - 0,438,ESP,7:18
+Turnover foul,6.0,3,0,ESP,1.0,HALLENDORFF A,0,0 - 0,420,RSA,7:00
+Steal,5.0,3,0,ESP,1.0,ORTIZ REYES M,0,0 - 0,420,ESP,7:00
+20 sec. exclusion in centre,11.0,3,0,ESP,1.0,BARRETT N,0,0 - 0,399,RSA,6:39
+Extra player shot - Goal,12.0,3,1,ESP,1.0,LEITON ARRONES P,0,0 - 1,387,ESP,6:27
+5m shot - Saved,12.0,3,1,ESP,1.0,WHITE K,0,0 - 1,364,RSA,6:04
+Turnover foul,10.0,3,1,ESP,1.0,CRESPI BARRIGA P,0,0 - 1,338,ESP,5:38
+Steal,5.0,3,1,ESP,1.0,SCHOOLING M,0,0 - 1,338,RSA,5:38
+5m shot - Goal,2.0,3,1,ESP,1.0,PENNEY A,1,1 - 1,318,RSA,5:18
+Turnover foul,10.0,3,1,ESP,1.0,CRESPI BARRIGA P,1,1 - 1,291,ESP,4:51
+Steal,13.0,3,1,ESP,1.0,NIXON L,1,1 - 1,291,RSA,4:51
+Steal,3.0,3,1,ESP,1.0,ESPAR LLAQUET A,1,1 - 1,270,ESP,4:30
+20 sec. exclusion in centre,12.0,3,1,ESP,1.0,WHITE K,1,1 - 1,262,RSA,4:22
+Extra player shot - Goal,7.0,3,2,ESP,1.0,ESPAR LLAQUET C,1,1 - 2,250,ESP,4:10
+Steal,10.0,3,2,ESP,1.0,CRESPI BARRIGA P,1,1 - 2,234,ESP,3:54
+Counter attack - Goal,9.0,3,3,ESP,1.0,FORCA ARIZA J,1,1 - 3,223,ESP,3:43
+Steal,2.0,3,3,ESP,1.0,BACH PASCUAL M,1,1 - 3,206,ESP,3:26
+5m shot - Missed,6.0,3,3,ESP,1.0,LLORET GOMEZ H,1,1 - 3,188,ESP,3:08
 Time-Out,,3,3,ESP,1.0,,1,1 - 3,188,RSA,3:08
-Action shot - Missed,9,3,3,ESP,1.0,SMIT Z,1,1 - 3,169,RSA,2:49
-5m shot - Post,3,3,3,ESP,1.0,ESPAR LLAQUET A,1,1 - 3,155,ESP,2:35
-Turnover foul,10,3,3,ESP,1.0,MANSON M,1,1 - 3,138,RSA,2:18
-Turnover foul,9,3,3,ESP,1.0,FORCA ARIZA J,1,1 - 3,109,ESP,1:49
-Steal,4,3,3,ESP,1.0,FAULMANN S,1,1 - 3,109,RSA,1:49
-Steal,11,3,3,ESP,1.0,GUAL ROVIROSA A,1,1 - 3,82,ESP,1:22
-Action shot - Goal,10,3,4,ESP,1.0,CRESPI BARRIGA P,1,1 - 4,61,ESP,1:01
-5m shot - Saved,12,3,4,ESP,1.0,WHITE K,1,1 - 4,27,RSA,0:27
-Turnover foul,12,3,4,ESP,1.0,LEITON ARRONES P,1,1 - 4,16,ESP,0:16
-Steal,12,3,4,ESP,1.0,WHITE K,1,1 - 4,16,RSA,0:16
-5m shot - Blocked,12,3,4,ESP,1.0,WHITE K,1,1 - 4,1,RSA,0:01
-Starting goalkeeper,13,3,4,ESP,2.0,NIXON L,1,1 - 4,480,RSA,8:00
-Starting goalkeeper,1,3,4,ESP,2.0,ESTER RAMOS L,1,1 - 4,480,ESP,8:00
-Sprint won possession,6,3,4,ESP,2.0,HALLENDORFF A,1,1 - 4,480,RSA,8:00
-Turnover foul,3,3,4,ESP,2.0,PALEY K,1,1 - 4,464,RSA,7:44
-20 sec. exclusion in centre,12,3,4,ESP,2.0,WHITE K,1,1 - 4,439,RSA,7:19
-Extra player shot - Goal,3,3,5,ESP,2.0,ESPAR LLAQUET A,1,1 - 5,435,ESP,7:15
-20 sec. exclusion in centre,5,3,5,ESP,2.0,SCHOOLING M,1,1 - 5,380,RSA,6:20
-Extra player shot - Goal,8,3,6,ESP,2.0,PENA CARRASCO M,1,1 - 6,372,ESP,6:12
-Turnover foul,4,3,6,ESP,2.0,FAULMANN S,1,1 - 6,355,RSA,5:55
-Steal,3,3,6,ESP,2.0,ESPAR LLAQUET A,1,1 - 6,355,ESP,5:55
-5m shot - Missed,6,3,6,ESP,2.0,LLORET GOMEZ H,1,1 - 6,343,ESP,5:43
-Steal,2,3,6,ESP,2.0,BACH PASCUAL M,1,1 - 6,317,ESP,5:17
-5m shot - Goal,9,3,7,ESP,2.0,FORCA ARIZA J,1,1 - 7,291,ESP,4:51
-Turnover foul,9,3,7,ESP,2.0,SMIT Z,1,1 - 7,257,RSA,4:17
-Steal,10,3,7,ESP,2.0,CRESPI BARRIGA P,1,1 - 7,257,ESP,4:17
-20 sec. exclusion in centre,2,3,7,ESP,2.0,PENNEY A,1,1 - 7,253,RSA,4:13
-Turnover foul,10,3,7,ESP,2.0,CRESPI BARRIGA P,1,1 - 7,241,ESP,4:01
-Steal,2,3,7,ESP,2.0,PENNEY A,1,1 - 7,241,RSA,4:01
-Turnover foul,9,3,7,ESP,2.0,SMIT Z,1,1 - 7,217,RSA,3:37
-Steal,9,3,7,ESP,2.0,FORCA ARIZA J,1,1 - 7,217,ESP,3:37
-5m shot - Post,11,3,7,ESP,2.0,GUAL ROVIROSA A,1,1 - 7,179,ESP,2:59
-5m shot - Goal,11,3,8,ESP,2.0,GUAL ROVIROSA A,1,1 - 8,164,ESP,2:44
-5m shot - Goal,8,3,9,ESP,2.0,PENA CARRASCO M,1,1 - 9,111,ESP,1:51
-Turnover foul,12,3,9,ESP,2.0,WHITE K,1,1 - 9,84,RSA,1:24
-Steal,4,3,9,ESP,2.0,ORTIZ MUNOZ B,1,1 - 9,84,ESP,1:24
-Turnover foul,12,3,9,ESP,2.0,LEITON ARRONES P,1,1 - 9,62,ESP,1:02
-Steal,5,3,9,ESP,2.0,SCHOOLING M,1,1 - 9,62,RSA,1:02
-5m shot - Goal,,3,17 RSA,ESP,4.0,BARRETT N,3,3 - 17 RSA,18,11,0:18
-Time-Out,,3,17 RSA,ESP,2.0,,3,3 - 17 RSA,62,RSA,1:02
+Action shot - Missed,9.0,3,3,ESP,1.0,SMIT Z,1,1 - 3,169,RSA,2:49
+5m shot - Post,3.0,3,3,ESP,1.0,ESPAR LLAQUET A,1,1 - 3,155,ESP,2:35
+Turnover foul,10.0,3,3,ESP,1.0,MANSON M,1,1 - 3,138,RSA,2:18
+Turnover foul,9.0,3,3,ESP,1.0,FORCA ARIZA J,1,1 - 3,109,ESP,1:49
+Steal,4.0,3,3,ESP,1.0,FAULMANN S,1,1 - 3,109,RSA,1:49
+Steal,11.0,3,3,ESP,1.0,GUAL ROVIROSA A,1,1 - 3,82,ESP,1:22
+Action shot - Goal,10.0,3,4,ESP,1.0,CRESPI BARRIGA P,1,1 - 4,61,ESP,1:01
+5m shot - Saved,12.0,3,4,ESP,1.0,WHITE K,1,1 - 4,27,RSA,0:27
+Turnover foul,12.0,3,4,ESP,1.0,LEITON ARRONES P,1,1 - 4,16,ESP,0:16
+Steal,12.0,3,4,ESP,1.0,WHITE K,1,1 - 4,16,RSA,0:16
+5m shot - Blocked,12.0,3,4,ESP,1.0,WHITE K,1,1 - 4,1,RSA,0:01
+Starting goalkeeper,13.0,3,4,ESP,2.0,NIXON L,1,1 - 4,480,RSA,8:00
+Starting goalkeeper,1.0,3,4,ESP,2.0,ESTER RAMOS L,1,1 - 4,480,ESP,8:00
+Sprint won possession,6.0,3,4,ESP,2.0,HALLENDORFF A,1,1 - 4,480,RSA,8:00
+Turnover foul,3.0,3,4,ESP,2.0,PALEY K,1,1 - 4,464,RSA,7:44
+20 sec. exclusion in centre,12.0,3,4,ESP,2.0,WHITE K,1,1 - 4,439,RSA,7:19
+Extra player shot - Goal,3.0,3,5,ESP,2.0,ESPAR LLAQUET A,1,1 - 5,435,ESP,7:15
+20 sec. exclusion in centre,5.0,3,5,ESP,2.0,SCHOOLING M,1,1 - 5,380,RSA,6:20
+Extra player shot - Goal,8.0,3,6,ESP,2.0,PENA CARRASCO M,1,1 - 6,372,ESP,6:12
+Turnover foul,4.0,3,6,ESP,2.0,FAULMANN S,1,1 - 6,355,RSA,5:55
+Steal,3.0,3,6,ESP,2.0,ESPAR LLAQUET A,1,1 - 6,355,ESP,5:55
+5m shot - Missed,6.0,3,6,ESP,2.0,LLORET GOMEZ H,1,1 - 6,343,ESP,5:43
+Steal,2.0,3,6,ESP,2.0,BACH PASCUAL M,1,1 - 6,317,ESP,5:17
+5m shot - Goal,9.0,3,7,ESP,2.0,FORCA ARIZA J,1,1 - 7,291,ESP,4:51
+Turnover foul,9.0,3,7,ESP,2.0,SMIT Z,1,1 - 7,257,RSA,4:17
+Steal,10.0,3,7,ESP,2.0,CRESPI BARRIGA P,1,1 - 7,257,ESP,4:17
+20 sec. exclusion in centre,2.0,3,7,ESP,2.0,PENNEY A,1,1 - 7,253,RSA,4:13
+Turnover foul,10.0,3,7,ESP,2.0,CRESPI BARRIGA P,1,1 - 7,241,ESP,4:01
+Steal,2.0,3,7,ESP,2.0,PENNEY A,1,1 - 7,241,RSA,4:01
+Turnover foul,9.0,3,7,ESP,2.0,SMIT Z,1,1 - 7,217,RSA,3:37
+Steal,9.0,3,7,ESP,2.0,FORCA ARIZA J,1,1 - 7,217,ESP,3:37
+5m shot - Post,11.0,3,7,ESP,2.0,GUAL ROVIROSA A,1,1 - 7,179,ESP,2:59
+5m shot - Goal,11.0,3,8,ESP,2.0,GUAL ROVIROSA A,1,1 - 8,164,ESP,2:44
+5m shot - Goal,8.0,3,9,ESP,2.0,PENA CARRASCO M,1,1 - 9,111,ESP,1:51
+Turnover foul,12.0,3,9,ESP,2.0,WHITE K,1,1 - 9,84,RSA,1:24
+Steal,4.0,3,9,ESP,2.0,ORTIZ MUNOZ B,1,1 - 9,84,ESP,1:24
+Turnover foul,12.0,3,9,ESP,2.0,LEITON ARRONES P,1,1 - 9,62,ESP,1:02
+Steal,5.0,3,9,ESP,2.0,SCHOOLING M,1,1 - 9,62,RSA,1:02
+5m shot - Goal,11.0,3,17,ESP,4.0,BARRETT N,3,3 - 17,18,RSA,0:18
+Time-Out,,3,17,ESP,2.0,,3,3 - 17,62,RSA,1:02
 Action shot - Goal,12.0,3,10,ESP,2.0,LEITON ARRONES P,1,1 - 10,8,ESP,0:08
 Starting goalkeeper,1.0,3,10,ESP,3.0,THOMAS R,1,1 - 10,480,RSA,8:00
 Starting goalkeeper,1.0,3,10,ESP,3.0,ESTER RAMOS L,1,1 - 10,480,ESP,8:00
@@ -375,7 +375,7 @@ Time-Out,,3,16,ESP,4.0,,2,2 - 16,134,RSA,2:14
 Action shot - Goal,9.0,3,17,ESP,4.0,FORCA ARIZA J,2,2 - 17,79,ESP,1:19
 Turnover foul,7.0,3,17,ESP,4.0,WESSELS C,2,2 - 17,49,RSA,0:49
 Turnover foul,2.0,3,17,ESP,4.0,BACH PASCUAL M,2,2 - 17,37,ESP,0:37
-5m shot - Blocked,ESP 9,3,17,ESP,4.0,FORCA ARIZA J,2,2 - 17,1,,0:01
+5m shot - Blocked,9.0,3,17,ESP,4.0,FORCA ARIZA J,2,2 - 17,1,ESP,0:01
 Starting goalkeeper,1.0,4,0,BRA,1.0,CHAMORRO V,0,0 - 0,480,BRA,8:00
 Starting goalkeeper,13.0,4,0,BRA,1.0,NIXON L,0,0 - 0,480,RSA,8:00
 Sprint won possession,6.0,4,0,BRA,1.0,HALLENDORFF A,0,0 - 0,480,RSA,8:00

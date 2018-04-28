@@ -14,12 +14,12 @@ Counter attack,8.0,1,1,6,HUN,2.0,KESZTHELYI R,1 - 6,437,HUN,7:17,Goal,1
 Centre shot,12.0,1,1,6,HUN,2.0,SZILAGYI D,1 - 6,403,HUN,6:43,Saved,0
 Action shot,2.0,1,1,6,HUN,2.0,ARIMA Y,1 - 6,382,JPN,6:22,Blocked,0
 Centre shot,10.0,1,1,6,HUN,2.0,BUJKA B,1 - 6,353,HUN,5:53,Saved,0
-Action shot,,1,7,17 JPN,HUN,4.0,YAMAMOTO M,7 - 17 JPN,438,6,7:18,Goal,1
-Action shot,,1,8,17 JPN,HUN,4.0,INABA A,8 - 17 JPN,404,7,6:44,Goal,1
-Extra player shot,,1,8,18 HUN,HUN,4.0,KESZTHELYI R,8 - 18 HUN,366,8,6:06,Goal,1
-5m shot,,1,JPN,,HUN,4.0,SAKANOUE C,JPN,302,5,5:02,Saved,0
-5m shot,,1,8,19 HUN,HUN,4.0,TOTH I,8 - 19 HUN,277,9,4:37,Goal,1
-Action shot,,1,9,19 JPN,HUN,4.0,ARIMA Y,9 - 19 JPN,257,2,4:17,Goal,1
+Action shot,6.0,1,7,17,HUN,4.0,YAMAMOTO M,7 - 17,438,JPN,7:18,Goal,1
+Action shot,7.0,1,8,17,HUN,4.0,INABA A,8 - 17,404,JPN,6:44,Goal,1
+Extra player shot,8.0,1,8,18,HUN,4.0,KESZTHELYI R,8 - 18,366,HUN,6:06,Goal,1
+5m shot,5.0,1,8,18,HUN,4.0,SAKANOUE C,8 - 18,302,JPN,5:02,Saved,0
+5m shot,9.0,1,8,19,HUN,4.0,TOTH I,8 - 19,277,HUN,4:37,Goal,1
+Action shot,2.0,1,9,19,HUN,4.0,ARIMA Y,9 - 19,257,JPN,4:17,Goal,1
 Extra player shot,2.0,1,2,6,HUN,2.0,ARIMA Y,2 - 6,309,JPN,5:09,Goal,1
 Centre shot,2.0,1,2,7,HUN,2.0,CZIGANY D,2 - 7,291,HUN,4:51,Goal,1
 Centre shot,7.0,1,2,7,HUN,2.0,INABA A,2 - 7,253,JPN,4:13,Blocked,0
@@ -76,15 +76,15 @@ Centre shot,6.0,2,1,8,NED,2.0,STOMPHORST N,1 - 8,338,NED,5:38,Saved,0
 5m shot,11.0,2,2,8,NED,2.0,TOKUMOTO M,2 - 8,321,JPN,5:21,Goal,1
 5m shot,12.0,2,2,8,NED,2.0,SUZUKI K,2 - 8,279,JPN,4:39,Missed,0
 Extra player shot,6.0,2,2,8,NED,2.0,STOMPHORST N,2 - 8,245,NED,4:05,Missed,0
-5m shot,,2,JPN,,NED,3.0,NORO M,JPN,1,10,0:01,Saved,0
-Extra player shot,,2,NED,,NED,4.0,SMIT Y,NED,448,2,7:28,Blocked,0
-Action shot,,2,JPN,,NED,4.0,ARIMA Y,JPN,433,2,7:13,Blocked,0
-Action shot,,2,7,16 NED,NED,4.0,MEGENS M,7 - 16 NED,420,9,7:00,Goal,1
-Extra player shot,,2,8,16 JPN,NED,4.0,YAMAMOTO M,8 - 16 JPN,388,6,6:28,Goal,1
-Centre shot,,2,8,17 NED,NED,4.0,SEVENICH V,8 - 17 NED,372,8,6:12,Goal,1
-Action shot,,2,JPN,,NED,4.0,SAKANOUE C,JPN,343,5,5:43,Blocked,0
-Action shot,,2,NED,,NED,4.0,MEGENS M,NED,300,9,5:00,Post,0
-5m shot,,2,JPN,,NED,4.0,SAKANOUE C,JPN,267,5,4:27,Post,0
+5m shot,10.0,2,2,8,NED,3.0,NORO M,2 - 8,1,JPN,0:01,Saved,0
+Extra player shot,2.0,2,2,8,NED,4.0,SMIT Y,2 - 8,448,NED,7:28,Blocked,0
+Action shot,2.0,2,2,8,NED,4.0,ARIMA Y,2 - 8,433,JPN,7:13,Blocked,0
+Action shot,9.0,2,7,16,NED,4.0,MEGENS M,7 - 16,420,NED,7:00,Goal,1
+Extra player shot,6.0,2,8,16,NED,4.0,YAMAMOTO M,8 - 16,388,JPN,6:28,Goal,1
+Centre shot,8.0,2,8,17,NED,4.0,SEVENICH V,8 - 17,372,NED,6:12,Goal,1
+Action shot,5.0,2,8,17,NED,4.0,SAKANOUE C,8 - 17,343,JPN,5:43,Blocked,0
+Action shot,9.0,2,8,17,NED,4.0,MEGENS M,8 - 17,300,NED,5:00,Post,0
+5m shot,5.0,2,8,17,NED,4.0,SAKANOUE C,8 - 17,267,JPN,4:27,Post,0
 Penalty shot,12.0,2,3,8,NED,2.0,SUZUKI K,3 - 8,242,JPN,4:02,Goal,1
 Centre shot,8.0,2,3,9,NED,2.0,SEVENICH V,3 - 9,220,NED,3:40,Goal,1
 Counter attack,2.0,2,4,9,NED,2.0,ARIMA Y,4 - 9,167,JPN,2:47,Goal,1
@@ -255,18 +255,18 @@ Action shot,2.0,5,5,2,BRA,2.0,ARIMA Y,2 - 5,303,JPN,5:03,Goal,1
 Counter attack,5.0,5,6,2,BRA,2.0,SAKANOUE C,2 - 6,274,JPN,4:34,Goal,1
 Action shot,2.0,5,6,3,BRA,2.0,ABLA D,3 - 6,254,BRA,4:14,Goal,1
 Action shot,2.0,5,6,3,BRA,2.0,ARIMA Y,3 - 6,243,JPN,4:03,Saved,0
-5m shot,,5,,JPN,BRA,4.0,ARIMA Y,JPN,410,2,6:50,Post,0
-5m shot,,5,,BRA,BRA,4.0,ZABLITH M,BRA,382,3,6:22,Post,0
-Action shot,,5,,JPN,BRA,4.0,KAZAMA Y,JPN,365,3,6:05,Missed,0
-Counter attack,,5,9 BRA,8,BRA,4.0,DUARTE M,8 - 9 BRA,352,11,5:52,Goal,1
-Extra player shot,,5,10 JPN,8,BRA,4.0,ARIMA Y,8 - 10 JPN,325,2,5:25,Goal,1
-Action shot,,5,,BRA,BRA,4.0,BAHIA V,BRA,306,10,5:06,Saved,0
-Centre shot,,5,10 BRA,9,BRA,4.0,BRUZZO M,9 - 10 BRA,306,8,5:06,Goal,1
-5m shot,,5,,JPN,BRA,4.0,ARIMA Y,JPN,284,2,4:44,Blocked,0
-Action shot,,5,,BRA,BRA,4.0,ZABLITH M,BRA,255,3,4:15,Saved,0
-Action shot,,5,11 JPN,9,BRA,4.0,MAGARIYAMA S,9 - 11 JPN,243,4,4:03,Goal,1
-Action shot,,5,,JPN,BRA,4.0,SAKANOUE C,JPN,202,5,3:22,Post,0
-Action shot,7.0,5,,JPN,BRA,2.0,INABA A,JPN,164,JPN,2:44,Post,0
+5m shot,2.0,5,6,3,BRA,4.0,ARIMA Y,3 - 6,410,JPN,6:50,Post,0
+5m shot,3.0,5,6,3,BRA,4.0,ZABLITH M,3 - 6,382,BRA,6:22,Post,0
+Action shot,3.0,5,6,3,BRA,4.0,KAZAMA Y,3 - 6,365,JPN,6:05,Missed,0
+Counter attack,11.0,5,9,8,BRA,4.0,DUARTE M,8 - 9,352,BRA,5:52,Goal,1
+Extra player shot,2.0,5,10,8,BRA,4.0,ARIMA Y,8 - 10,325,JPN,5:25,Goal,1
+Action shot,10.0,5,10,8,BRA,4.0,BAHIA V,8 - 10,306,BRA,5:06,Saved,0
+Centre shot,8.0,5,10,9,BRA,4.0,BRUZZO M,9 - 10,306,BRA,5:06,Goal,1
+5m shot,2.0,5,10,9,BRA,4.0,ARIMA Y,9 - 10,284,JPN,4:44,Blocked,0
+Action shot,3.0,5,10,9,BRA,4.0,ZABLITH M,9 - 10,255,BRA,4:15,Saved,0
+Action shot,4.0,5,11,9,BRA,4.0,MAGARIYAMA S,9 - 11,243,JPN,4:03,Goal,1
+Action shot,5.0,5,11,9,BRA,4.0,SAKANOUE C,9 - 11,202,JPN,3:22,Post,0
+Action shot,7.0,5,11,9,BRA,2.0,INABA A,9 - 11,164,JPN,2:44,Post,0
 Counter attack,3.0,5,7,3,BRA,2.0,KAZAMA Y,3 - 7,127,JPN,2:07,Goal,1
 Centre shot,7.0,5,7,4,BRA,2.0,FERREIRA S,4 - 7,92,BRA,1:32,Goal,1
 Action shot,9.0,5,7,4,BRA,2.0,HOSOYA K,4 - 7,32,JPN,0:32,Post,0

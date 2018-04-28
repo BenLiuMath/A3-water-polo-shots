@@ -43,9 +43,9 @@ Counter attack,8.0,1,1,7,ESP,4.0,LOPES da SILVA C,1 - 7,362,NZL,6:02,Saved,0
 Extra player shot,7.0,1,2,7,ESP,4.0,HOUGHTON E,2 - 7,255,NZL,4:15,Saved,0
 Extra player shot,3.0,1,2,7,ESP,4.0,ESPAR LLAQUET A,2 - 7,220,ESP,3:40,Missed,0
 Extra player shot,10.0,1,2,8,ESP,4.0,CRESPI BARRIGA P,2 - 8,172,ESP,2:52,Goal,1
-Extra player shot,,1,2,10 ESP,ESP,4.0,LEITON ARRONES P,2 - 10 ESP,67,12,1:07,Goal,1
-Extra player shot,,1,NZL,,ESP,4.0,PYE B,NZL,28,12,0:28,Post,0
-5m shot,,1,ESP,,ESP,4.0,ORTIZ MUNOZ B,ESP,1,4,0:01,Post,0
+Extra player shot,12.0,1,2,10,ESP,4.0,LEITON ARRONES P,2 - 10,67,ESP,1:07,Goal,1
+Extra player shot,12.0,1,2,10,ESP,4.0,PYE B,2 - 10,28,NZL,0:28,Post,0
+5m shot,4.0,1,2,10,ESP,4.0,ORTIZ MUNOZ B,2 - 10,1,ESP,0:01,Post,0
 Extra player shot,3.0,2,0,0,RSA,1.0,MASON K,0 - 0,426,NZL,7:06,Saved,0
 5m shot,12.0,2,1,0,RSA,1.0,PYE B,1 - 0,377,NZL,6:17,Goal,1
 Action shot,11.0,2,2,0,RSA,1.0,HUDSON K,2 - 0,318,NZL,5:18,Goal,1
@@ -225,11 +225,11 @@ Action shot,5.0,5,2,9,NED,2.0,GENEE A,2 - 9,233,NED,3:53,Goal,1
 Extra player shot,2.0,5,2,9,NED,2.0,LEWIS N,2 - 9,112,NZL,1:52,Saved,0
 5m shot,3.0,5,2,9,NED,2.0,MASON K,2 - 9,102,NZL,1:42,Post,0
 5m shot,8.0,5,2,9,NED,2.0,LOPES da SILVA C,2 - 9,50,NZL,0:50,Saved,0
-Action shot,,5,NZL,,NED,4.0,STONEMAN E,NZL,174,9,2:54,Post,0
-Action shot,,5,4,18 NED,NED,4.0,GENEE A,4 - 18 NED,149,5,2:29,Goal,1
-5m shot,,5,NZL,,NED,4.0,MASON K,NZL,121,3,2:01,Missed,0
-5m shot,,5,4,19 NED,NED,4.0,KLAASSEN L,4 - 19 NED,110,11,1:50,Goal,1
-5m shot,,5,NZL,,NED,4.0,LOPES da SILVA C,NZL,88,8,1:28,Saved,0
+Action shot,9.0,5,2,9,NED,4.0,STONEMAN E,2 - 9,174,NZL,2:54,Post,0
+Action shot,5.0,5,4,18,NED,4.0,GENEE A,4 - 18,149,NED,2:29,Goal,1
+5m shot,3.0,5,4,18,NED,4.0,MASON K,4 - 18,121,NZL,2:01,Missed,0
+5m shot,11.0,5,4,19,NED,4.0,KLAASSEN L,4 - 19,110,NED,1:50,Goal,1
+5m shot,8.0,5,4,19,NED,4.0,LOPES da SILVA C,4 - 19,88,NZL,1:28,Saved,0
 Action shot,8.0,5,2,10,NED,2.0,SEVENICH V,2 - 10,34,NED,0:34,Goal,1
 Extra player shot,3.0,5,2,11,NED,2.0,GENEE D,2 - 11,7,NED,0:07,Goal,1
 5m shot,11.0,5,2,11,NED,3.0,KLAASSEN L,2 - 11,464,NED,7:44,Blocked,0

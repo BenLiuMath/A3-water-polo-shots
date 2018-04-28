@@ -653,13 +653,13 @@ AUS,Action,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
 6,Starting goalkeeper,1.0,6,7,ITA,3.0,YANITSAS L,7 - 6,480,AUS,8:00
 6,Sprint won possession,2.0,6,7,ITA,3.0,GOFERS K,7 - 6,480,AUS,8:00
 7,5m shot - Goal,5.0,6,7,ITA,3.0,BISHOP I,7 - 7,452,AUS,7:32
-,Time-Out,,6,ITA,ITA,4.0,,ITA,4,,0:04
-14 AUS,Turnover foul,8.0,6,13,ITA,3.0,BIANCONI R,13 - 14 AUS,423,ITA,7:03
-14 AUS,Steal,5.0,6,13,ITA,3.0,BISHOP I,13 - 14 AUS,423,AUS,7:03
-14 AUS,Turnover foul,2.0,6,13,ITA,3.0,GOFERS K,13 - 14 AUS,394,AUS,6:34
-14 AUS,Steal,1.0,6,13,ITA,3.0,GORLERO G,13 - 14 AUS,394,ITA,6:34
-14 AUS,20 sec. exclusion in centre,3.0,6,13,ITA,3.0,BUCKLING H,13 - 14 AUS,367,AUS,6:07
-14 AUS,Extra player shot - Saved,6.0,6,13,ITA,3.0,AIELLO R,13 - 14 AUS,352,ITA,5:52
+7,Time-Out,,6,7,ITA,4.0,,7 - 7,4,ITA,0:04
+14,Turnover foul,8.0,6,13,ITA,3.0,BIANCONI R,13 - 14,423,ITA,7:03
+14,Steal,5.0,6,13,ITA,3.0,BISHOP I,13 - 14,423,AUS,7:03
+14,Turnover foul,2.0,6,13,ITA,3.0,GOFERS K,13 - 14,394,AUS,6:34
+14,Steal,1.0,6,13,ITA,3.0,GORLERO G,13 - 14,394,ITA,6:34
+14,20 sec. exclusion in centre,3.0,6,13,ITA,3.0,BUCKLING H,13 - 14,367,AUS,6:07
+14,Extra player shot - Saved,6.0,6,13,ITA,3.0,AIELLO R,13 - 14,352,ITA,5:52
 8,5m shot - Goal,7.0,6,7,ITA,3.0,WEBSTER R,7 - 8,325,AUS,5:25
 8,20 sec. exclusion in field,2.0,6,7,ITA,3.0,GOFERS K,7 - 8,306,AUS,5:06
 8,Extra player shot - Post,8.0,6,7,ITA,3.0,BIANCONI R,7 - 8,295,ITA,4:55

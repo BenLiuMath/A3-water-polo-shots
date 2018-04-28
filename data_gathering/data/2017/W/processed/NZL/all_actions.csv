@@ -127,12 +127,12 @@ Turnover foul,4.0,1,2,7,ESP,4.0,FERIGO R,2 - 7,201,NZL,3:21
 Steal,3.0,1,2,7,ESP,4.0,ESPAR LLAQUET A,2 - 7,201,ESP,3:21
 20 sec. exclusion in field,4.0,1,2,7,ESP,4.0,FERIGO R,2 - 7,191,NZL,3:11
 Extra player shot - Goal,10.0,1,2,8,ESP,4.0,CRESPI BARRIGA P,2 - 8,172,ESP,2:52
-Extra player shot - Goal,,1,2,10 ESP,ESP,4.0,LEITON ARRONES P,2 - 10 ESP,67,12,1:07
-20 sec. exclusion in centre,,1,ESP,,ESP,4.0,BACH PASCUAL M,ESP,48,2,0:48
-Time-Out,,1,NZL,,ESP,4.0,,NZL,47,,0:47
-Extra player shot - Post,,1,NZL,,ESP,4.0,PYE B,NZL,28,12,0:28
-20 sec. exclusion in field,,1,NZL,,ESP,4.0,BOWRY C,NZL,26,10,0:26
-5m shot - Post,,1,ESP,,ESP,4.0,ORTIZ MUNOZ B,ESP,1,4,0:01
+Extra player shot - Goal,12.0,1,2,10,ESP,4.0,LEITON ARRONES P,2 - 10,67,ESP,1:07
+20 sec. exclusion in centre,2.0,1,2,10,ESP,4.0,BACH PASCUAL M,2 - 10,48,ESP,0:48
+Time-Out,,1,2,10,ESP,4.0,,2 - 10,47,NZL,0:47
+Extra player shot - Post,12.0,1,2,10,ESP,4.0,PYE B,2 - 10,28,NZL,0:28
+20 sec. exclusion in field,10.0,1,2,10,ESP,4.0,BOWRY C,2 - 10,26,NZL,0:26
+5m shot - Post,4.0,1,2,10,ESP,4.0,ORTIZ MUNOZ B,2 - 10,1,ESP,0:01
 Starting goalkeeper,1.0,2,0,0,RSA,1.0,MILICICH J,0 - 0,480,NZL,8:00
 Starting goalkeeper,1.0,2,0,0,RSA,1.0,THOMAS R,0 - 0,480,RSA,8:00
 Sprint won possession,6.0,2,0,0,RSA,1.0,HALLENDORFF A,0 - 0,480,RSA,8:00
@@ -498,74 +498,74 @@ Action shot - Post,11.0,4,3,16,CAN,4.0,McKEE K,16 - 3,50,CAN,0:50
 Extra player shot - Post,6.0,4,3,16,CAN,4.0,CHRISTMAS K,16 - 3,32,CAN,0:32
 20 sec. exclusion in centre,10.0,4,3,16,CAN,4.0,BOWRY C,16 - 3,6,NZL,0:06
 Exclusion with substitution,10.0,4,3,16,CAN,4.0,BOWRY C,16 - 3,6,NZL,0:06
-Starting goalkeeper,1,5,0,0,NED,1.0,MILICICH J,0 - 0,480,NZL,8:00
-Starting goalkeeper,1,5,0,0,NED,1.0,AARTS L,0 - 0,480,NED,8:00
-Sprint won possession,6,5,0,0,NED,1.0,STOMPHORST N,0 - 0,480,NED,8:00
-Penalty foul,3,5,0,0,NED,1.0,MASON K,0 - 0,457,NZL,7:37
-Penalty shot - Goal,9,5,0,1,NED,1.0,MEGENS M,0 - 1,457,NED,7:37
-Action shot - Missed,9,5,0,1,NED,1.0,STONEMAN E,0 - 1,427,NZL,7:07
-Turnover foul,2,5,0,1,NED,1.0,SMIT Y,0 - 1,402,NED,6:42
-Steal,1,5,0,1,NED,1.0,MILICICH J,0 - 1,402,NZL,6:42
-Turnover foul,11,5,0,1,NED,1.0,HUDSON K,0 - 1,380,NZL,6:20
-Steal,3,5,0,1,NED,1.0,GENEE D,0 - 1,380,NED,6:20
-Centre shot - Goal,7,5,0,2,NED,1.0,NIJHUIS M,0 - 2,361,NED,6:01
-Action shot - Saved,11,5,0,2,NED,1.0,HUDSON K,0 - 2,340,NZL,5:40
-Action shot - Post,9,5,0,2,NED,1.0,STONEMAN E,0 - 2,327,NZL,5:27
-5m shot - Goal,9,5,0,3,NED,1.0,MEGENS M,0 - 3,317,NED,5:17
-Action shot - Saved,11,5,0,3,NED,1.0,HUDSON K,0 - 3,289,NZL,4:49
-Action shot - Goal,11,5,0,4,NED,1.0,KLAASSEN L,0 - 4,273,NED,4:33
+Starting goalkeeper,1.0,5,0,0,NED,1.0,MILICICH J,0 - 0,480,NZL,8:00
+Starting goalkeeper,1.0,5,0,0,NED,1.0,AARTS L,0 - 0,480,NED,8:00
+Sprint won possession,6.0,5,0,0,NED,1.0,STOMPHORST N,0 - 0,480,NED,8:00
+Penalty foul,3.0,5,0,0,NED,1.0,MASON K,0 - 0,457,NZL,7:37
+Penalty shot - Goal,9.0,5,0,1,NED,1.0,MEGENS M,0 - 1,457,NED,7:37
+Action shot - Missed,9.0,5,0,1,NED,1.0,STONEMAN E,0 - 1,427,NZL,7:07
+Turnover foul,2.0,5,0,1,NED,1.0,SMIT Y,0 - 1,402,NED,6:42
+Steal,1.0,5,0,1,NED,1.0,MILICICH J,0 - 1,402,NZL,6:42
+Turnover foul,11.0,5,0,1,NED,1.0,HUDSON K,0 - 1,380,NZL,6:20
+Steal,3.0,5,0,1,NED,1.0,GENEE D,0 - 1,380,NED,6:20
+Centre shot - Goal,7.0,5,0,2,NED,1.0,NIJHUIS M,0 - 2,361,NED,6:01
+Action shot - Saved,11.0,5,0,2,NED,1.0,HUDSON K,0 - 2,340,NZL,5:40
+Action shot - Post,9.0,5,0,2,NED,1.0,STONEMAN E,0 - 2,327,NZL,5:27
+5m shot - Goal,9.0,5,0,3,NED,1.0,MEGENS M,0 - 3,317,NED,5:17
+Action shot - Saved,11.0,5,0,3,NED,1.0,HUDSON K,0 - 3,289,NZL,4:49
+Action shot - Goal,11.0,5,0,4,NED,1.0,KLAASSEN L,0 - 4,273,NED,4:33
 Time-Out,,5,0,4,NED,1.0,,0 - 4,273,NZL,4:33
-20 sec. exclusion in centre,11,5,0,4,NED,1.0,KLAASSEN L,0 - 4,257,NED,4:17
-Action shot - Saved,8,5,0,4,NED,1.0,LOPES da SILVA C,0 - 4,232,NZL,3:52
-20 sec. exclusion in centre,10,5,0,4,NED,1.0,BOWRY C,0 - 4,218,NZL,3:38
-Extra player shot - Goal,6,5,0,5,NED,1.0,STOMPHORST N,0 - 5,200,NED,3:20
-20 sec. exclusion in field,12,5,0,5,NED,1.0,JOUSTRA K,0 - 5,191,NED,3:11
-Extra player shot - Goal,7,5,1,5,NED,1.0,HOUGHTON E,1 - 5,175,NZL,2:55
-5m shot - Post,10,5,1,5,NED,1.0,KOOLHAAS I,1 - 5,145,NED,2:25
-20 sec. exclusion in field,8,5,1,5,NED,1.0,SEVENICH V,1 - 5,138,NED,2:18
-Extra player shot - Saved,8,5,1,5,NED,1.0,LOPES da SILVA C,1 - 5,120,NZL,2:00
-5m shot - Post,11,5,1,5,NED,1.0,KLAASSEN L,1 - 5,106,NED,1:46
-Turnover foul,2,5,1,5,NED,1.0,LEWIS N,1 - 5,75,NZL,1:15
-Steal,10,5,1,5,NED,1.0,KOOLHAAS I,1 - 5,75,NED,1:15
-Turnover foul,8,5,1,5,NED,1.0,SEVENICH V,1 - 5,49,NED,0:49
-Steal,1,5,1,5,NED,1.0,MILICICH J,1 - 5,49,NZL,0:49
-5m shot - Saved,4,5,1,5,NED,1.0,FERIGO R,1 - 5,18,NZL,0:18
-Counter attack - Saved,10,5,1,5,NED,1.0,KOOLHAAS I,1 - 5,7,NED,0:07
-Starting goalkeeper,1,5,1,5,NED,2.0,MILICICH J,1 - 5,480,NZL,8:00
-Starting goalkeeper,13,5,1,5,NED,2.0,WILLEMSZ D,1 - 5,480,NED,8:00
-Sprint won possession,6,5,1,5,NED,2.0,STOMPHORST N,1 - 5,480,NED,8:00
-Turnover foul,7,5,1,5,NED,2.0,NIJHUIS M,1 - 5,454,NED,7:34
-Steal,8,5,1,5,NED,2.0,LOPES da SILVA C,1 - 5,454,NZL,7:34
-Action shot - Saved,7,5,1,5,NED,2.0,HOUGHTON E,1 - 5,432,NZL,7:12
-Action shot - Saved,7,5,1,5,NED,2.0,HOUGHTON E,1 - 5,417,NZL,6:57
-5m shot - Post,7,5,1,5,NED,2.0,NIJHUIS M,1 - 5,401,NED,6:41
-5m shot - Blocked,7,5,1,5,NED,2.0,HOUGHTON E,1 - 5,372,NZL,6:12
-Centre shot - Goal,6,5,1,6,NED,2.0,STOMPHORST N,1 - 6,353,NED,5:53
-5m shot - Saved,12,5,1,6,NED,2.0,PYE B,1 - 6,332,NZL,5:32
-20 sec. exclusion in field,9,5,1,6,NED,2.0,STONEMAN E,1 - 6,320,NZL,5:20
-Extra player shot - Goal,6,5,1,7,NED,2.0,STOMPHORST N,1 - 7,306,NED,5:06
-5m shot - Goal,5,5,2,7,NED,2.0,BOYD A,2 - 7,289,NZL,4:49
-20 sec. exclusion in centre,5,5,2,7,NED,2.0,BOYD A,2 - 7,278,NZL,4:38
-Extra player shot - Goal,3,5,2,8,NED,2.0,GENEE D,2 - 8,274,NED,4:34
-5m shot - Saved,6,5,2,8,NED,2.0,DOYLE B,2 - 8,247,NZL,4:07
-Action shot - Goal,5,5,2,9,NED,2.0,GENEE A,2 - 9,233,NED,3:53
-Turnover foul,3,5,2,9,NED,2.0,MASON K,2 - 9,214,NZL,3:34
-Steal,3,5,2,9,NED,2.0,GENEE D,2 - 9,214,NED,3:34
-Turnover foul,9,5,2,9,NED,2.0,MEGENS M,2 - 9,196,NED,3:16
-Steal,6,5,2,9,NED,2.0,DOYLE B,2 - 9,196,NZL,3:16
-20 sec. exclusion in field,9,5,2,9,NED,2.0,MEGENS M,2 - 9,125,NED,2:05
+20 sec. exclusion in centre,11.0,5,0,4,NED,1.0,KLAASSEN L,0 - 4,257,NED,4:17
+Action shot - Saved,8.0,5,0,4,NED,1.0,LOPES da SILVA C,0 - 4,232,NZL,3:52
+20 sec. exclusion in centre,10.0,5,0,4,NED,1.0,BOWRY C,0 - 4,218,NZL,3:38
+Extra player shot - Goal,6.0,5,0,5,NED,1.0,STOMPHORST N,0 - 5,200,NED,3:20
+20 sec. exclusion in field,12.0,5,0,5,NED,1.0,JOUSTRA K,0 - 5,191,NED,3:11
+Extra player shot - Goal,7.0,5,1,5,NED,1.0,HOUGHTON E,1 - 5,175,NZL,2:55
+5m shot - Post,10.0,5,1,5,NED,1.0,KOOLHAAS I,1 - 5,145,NED,2:25
+20 sec. exclusion in field,8.0,5,1,5,NED,1.0,SEVENICH V,1 - 5,138,NED,2:18
+Extra player shot - Saved,8.0,5,1,5,NED,1.0,LOPES da SILVA C,1 - 5,120,NZL,2:00
+5m shot - Post,11.0,5,1,5,NED,1.0,KLAASSEN L,1 - 5,106,NED,1:46
+Turnover foul,2.0,5,1,5,NED,1.0,LEWIS N,1 - 5,75,NZL,1:15
+Steal,10.0,5,1,5,NED,1.0,KOOLHAAS I,1 - 5,75,NED,1:15
+Turnover foul,8.0,5,1,5,NED,1.0,SEVENICH V,1 - 5,49,NED,0:49
+Steal,1.0,5,1,5,NED,1.0,MILICICH J,1 - 5,49,NZL,0:49
+5m shot - Saved,4.0,5,1,5,NED,1.0,FERIGO R,1 - 5,18,NZL,0:18
+Counter attack - Saved,10.0,5,1,5,NED,1.0,KOOLHAAS I,1 - 5,7,NED,0:07
+Starting goalkeeper,1.0,5,1,5,NED,2.0,MILICICH J,1 - 5,480,NZL,8:00
+Starting goalkeeper,13.0,5,1,5,NED,2.0,WILLEMSZ D,1 - 5,480,NED,8:00
+Sprint won possession,6.0,5,1,5,NED,2.0,STOMPHORST N,1 - 5,480,NED,8:00
+Turnover foul,7.0,5,1,5,NED,2.0,NIJHUIS M,1 - 5,454,NED,7:34
+Steal,8.0,5,1,5,NED,2.0,LOPES da SILVA C,1 - 5,454,NZL,7:34
+Action shot - Saved,7.0,5,1,5,NED,2.0,HOUGHTON E,1 - 5,432,NZL,7:12
+Action shot - Saved,7.0,5,1,5,NED,2.0,HOUGHTON E,1 - 5,417,NZL,6:57
+5m shot - Post,7.0,5,1,5,NED,2.0,NIJHUIS M,1 - 5,401,NED,6:41
+5m shot - Blocked,7.0,5,1,5,NED,2.0,HOUGHTON E,1 - 5,372,NZL,6:12
+Centre shot - Goal,6.0,5,1,6,NED,2.0,STOMPHORST N,1 - 6,353,NED,5:53
+5m shot - Saved,12.0,5,1,6,NED,2.0,PYE B,1 - 6,332,NZL,5:32
+20 sec. exclusion in field,9.0,5,1,6,NED,2.0,STONEMAN E,1 - 6,320,NZL,5:20
+Extra player shot - Goal,6.0,5,1,7,NED,2.0,STOMPHORST N,1 - 7,306,NED,5:06
+5m shot - Goal,5.0,5,2,7,NED,2.0,BOYD A,2 - 7,289,NZL,4:49
+20 sec. exclusion in centre,5.0,5,2,7,NED,2.0,BOYD A,2 - 7,278,NZL,4:38
+Extra player shot - Goal,3.0,5,2,8,NED,2.0,GENEE D,2 - 8,274,NED,4:34
+5m shot - Saved,6.0,5,2,8,NED,2.0,DOYLE B,2 - 8,247,NZL,4:07
+Action shot - Goal,5.0,5,2,9,NED,2.0,GENEE A,2 - 9,233,NED,3:53
+Turnover foul,3.0,5,2,9,NED,2.0,MASON K,2 - 9,214,NZL,3:34
+Steal,3.0,5,2,9,NED,2.0,GENEE D,2 - 9,214,NED,3:34
+Turnover foul,9.0,5,2,9,NED,2.0,MEGENS M,2 - 9,196,NED,3:16
+Steal,6.0,5,2,9,NED,2.0,DOYLE B,2 - 9,196,NZL,3:16
+20 sec. exclusion in field,9.0,5,2,9,NED,2.0,MEGENS M,2 - 9,125,NED,2:05
 Time-Out,,5,2,9,NED,2.0,,2 - 9,125,NZL,2:05
-Extra player shot - Saved,2,5,2,9,NED,2.0,LEWIS N,2 - 9,112,NZL,1:52
-5m shot - Post,3,5,2,9,NED,2.0,MASON K,2 - 9,102,NZL,1:42
-Turnover foul,5,5,2,9,NED,2.0,GENEE A,2 - 9,75,NED,1:15
-5m shot - Saved,8,5,2,9,NED,2.0,LOPES da SILVA C,2 - 9,50,NZL,0:50
-Exclusion with substitution,,5,NED,,NED,4.0,SMIT Y,NED,198,2,3:18
-Action shot - Post,,5,NZL,,NED,4.0,STONEMAN E,NZL,174,9,2:54
-Action shot - Goal,,5,4,18 NED,NED,4.0,GENEE A,4 - 18 NED,149,5,2:29
-5m shot - Missed,,5,NZL,,NED,4.0,MASON K,NZL,121,3,2:01
-5m shot - Goal,,5,4,19 NED,NED,4.0,KLAASSEN L,4 - 19 NED,110,11,1:50
-5m shot - Saved,,5,NZL,,NED,4.0,LOPES da SILVA C,NZL,88,8,1:28
-Time-Out,,5,NZL,,NED,2.0,,NZL,50,NED,0:50
+Extra player shot - Saved,2.0,5,2,9,NED,2.0,LEWIS N,2 - 9,112,NZL,1:52
+5m shot - Post,3.0,5,2,9,NED,2.0,MASON K,2 - 9,102,NZL,1:42
+Turnover foul,5.0,5,2,9,NED,2.0,GENEE A,2 - 9,75,NED,1:15
+5m shot - Saved,8.0,5,2,9,NED,2.0,LOPES da SILVA C,2 - 9,50,NZL,0:50
+Exclusion with substitution,2.0,5,2,9,NED,4.0,SMIT Y,2 - 9,198,NED,3:18
+Action shot - Post,9.0,5,2,9,NED,4.0,STONEMAN E,2 - 9,174,NZL,2:54
+Action shot - Goal,5.0,5,4,18,NED,4.0,GENEE A,4 - 18,149,NED,2:29
+5m shot - Missed,3.0,5,4,18,NED,4.0,MASON K,4 - 18,121,NZL,2:01
+5m shot - Goal,11.0,5,4,19,NED,4.0,KLAASSEN L,4 - 19,110,NED,1:50
+5m shot - Saved,8.0,5,4,19,NED,4.0,LOPES da SILVA C,4 - 19,88,NZL,1:28
+Time-Out,,5,4,19,NED,2.0,,4 - 19,50,NED,0:50
 Action shot - Goal,8.0,5,2,10,NED,2.0,SEVENICH V,2 - 10,34,NED,0:34
 Turnover foul,4.0,5,2,10,NED,2.0,FERIGO R,2 - 10,22,NZL,0:22
 Steal,3.0,5,2,10,NED,2.0,GENEE D,2 - 10,22,NED,0:22
@@ -626,11 +626,11 @@ Steal,3.0,5,4,16,NED,4.0,GENEE D,4 - 16,220,NED,3:40
 Exclusion with substitution,7.0,5,4,16,NED,4.0,HOUGHTON E,4 - 16,217,NZL,3:37
 Extra player shot - Goal,8.0,5,4,17,NED,4.0,SEVENICH V,4 - 17,213,NED,3:33
 20 sec. exclusion in centre,2.0,5,4,17,NED,4.0,SMIT Y,4 - 17,198,NED,3:18
-Turnover foul,NED 5,5,4,17,NED,4.0,GENEE A,4 - 17,76,,1:16
-Steal,NZL 3,5,4,17,NED,4.0,MASON K,4 - 17,76,,1:16
-Turnover foul,NED 3,5,4,17,NED,4.0,GENEE D,4 - 17,23,,0:23
-Steal,NZL 11,5,4,17,NED,4.0,HUDSON K,4 - 17,23,,0:23
-Time-Out,NZL,5,4,17,NED,4.0,,4 - 17,14,,0:14
+Turnover foul,5.0,5,4,17,NED,4.0,GENEE A,4 - 17,76,NED,1:16
+Steal,3.0,5,4,17,NED,4.0,MASON K,4 - 17,76,NZL,1:16
+Turnover foul,3.0,5,4,17,NED,4.0,GENEE D,4 - 17,23,NED,0:23
+Steal,11.0,5,4,17,NED,4.0,HUDSON K,4 - 17,23,NZL,0:23
+Time-Out,,5,4,17,NED,4.0,,4 - 17,14,NZL,0:14
 Starting goalkeeper,1.0,6,0,0,FRA,1.0,MILICICH J,0 - 0,480,NZL,8:00
 Starting goalkeeper,1.0,6,0,0,FRA,1.0,COUNIL L,0 - 0,480,FRA,8:00
 Sprint won possession,12.0,6,0,0,FRA,1.0,DAULE A,0 - 0,480,FRA,8:00

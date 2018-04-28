@@ -284,7 +284,7 @@ AUS,Action,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
 6,Centre shot,5.0,6,7,ITA,2.0,BISHOP I,7 - 6,10,AUS,0:10,Goal,1
 6,5m shot,9.0,6,7,ITA,2.0,EMMOLO G,7 - 6,1,ITA,0:01,Missed,0
 7,5m shot,5.0,6,7,ITA,3.0,BISHOP I,7 - 7,452,AUS,7:32,Goal,1
-14 AUS,Extra player shot,6.0,6,13,ITA,3.0,AIELLO R,13 - 14 AUS,352,ITA,5:52,Saved,0
+14,Extra player shot,6.0,6,13,ITA,3.0,AIELLO R,13 - 14,352,ITA,5:52,Saved,0
 8,5m shot,7.0,6,7,ITA,3.0,WEBSTER R,7 - 8,325,AUS,5:25,Goal,1
 8,Extra player shot,8.0,6,7,ITA,3.0,BIANCONI R,7 - 8,295,ITA,4:55,Post,0
 8,Centre shot,6.0,6,8,ITA,3.0,AIELLO R,8 - 8,253,ITA,4:13,Goal,1

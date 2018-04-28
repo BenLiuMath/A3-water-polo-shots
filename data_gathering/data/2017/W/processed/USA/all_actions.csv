@@ -60,7 +60,7 @@ Turnover foul,5.0,1,0,RSA,2.0,SCHOOLING M,0 - 12,84,RSA,1:24,12
 Steal,3.0,1,0,RSA,2.0,SEIDEMANN M,0 - 12,84,USA,1:24,12
 Turnover foul,9.0,1,0,RSA,2.0,FISCHER A,0 - 12,63,USA,1:03,12
 Steal,13.0,1,0,RSA,2.0,NIXON L,0 - 12,63,RSA,1:03,12
-Turnover foul,RSA 5,1,0,RSA,4.0,SCHOOLING M,0 - 12,15,,0:15,12
+Turnover foul,5.0,1,0,RSA,4.0,SCHOOLING M,0 - 12,15,RSA,0:15,12
 Time-Out,,1,0,RSA,2.0,,0 - 12,63,RSA,1:03,12
 Action shot - Post,2.0,1,0,RSA,2.0,PENNEY A,0 - 12,29,RSA,0:29,12
 Centre shot - Goal,3.0,1,0,RSA,2.0,SEIDEMANN M,0 - 13,18,USA,0:18,13
@@ -359,3 +359,376 @@ Yellow card,,3,7,NZL,4.0,Team Official,7 - 21,47,USA,0:47,21
 20 sec. exclusion in field,10.0,3,7,NZL,4.0,BOWRY C,7 - 21,9,NZL,0:09,21
 Extra player shot - Goal,6.0,3,7,NZL,4.0,STEFFENS M,7 - 22,7,USA,0:07,22
 5m shot - Saved,3.0,3,7,NZL,4.0,MASON K,7 - 22,1,NZL,0:01,22
+Starting goalkeeper,1.0,4,0,AUS,1.0,STONE G,0 - 0,480,USA,8:00,0
+Starting goalkeeper,1.0,4,0,AUS,1.0,YANITSAS L,0 - 0,480,AUS,8:00,0
+Sprint won possession,4.0,4,0,AUS,1.0,FATTAL R,0 - 0,480,USA,8:00,0
+Turnover foul,3.0,4,0,AUS,1.0,SEIDEMANN M,0 - 0,459,USA,7:39,0
+5m shot - Post,6.0,4,0,AUS,1.0,STEFFENS M,0 - 0,409,USA,6:49,0
+5m shot - Post,11.0,4,0,AUS,1.0,FISCHER M,0 - 0,349,USA,5:49,0
+Time-Out,,4,0,AUS,1.0,,0 - 0,346,AUS,5:46,0
+Turnover foul,2.0,4,0,AUS,1.0,GOFERS K,0 - 0,335,AUS,5:35,0
+Steal,8.0,4,0,AUS,1.0,NEUSHUL K,0 - 0,335,USA,5:35,0
+Turnover foul,3.0,4,0,AUS,1.0,SEIDEMANN M,0 - 0,312,USA,5:12,0
+Steal,2.0,4,0,AUS,1.0,GOFERS K,0 - 0,312,AUS,5:12,0
+Turnover foul,4.0,4,0,AUS,1.0,HALLIGAN B,0 - 0,282,AUS,4:42,0
+Steal,6.0,4,0,AUS,1.0,STEFFENS M,0 - 0,282,USA,4:42,0
+Turnover foul,6.0,4,0,AUS,1.0,STEFFENS M,0 - 0,267,USA,4:27,0
+Steal,2.0,4,0,AUS,1.0,GOFERS K,0 - 0,267,AUS,4:27,0
+20 sec. exclusion in field,6.0,4,0,AUS,1.0,STEFFENS M,0 - 0,243,USA,4:03,0
+Action shot - Blocked,7.0,4,0,AUS,1.0,WEBSTER R,0 - 0,219,AUS,3:39,0
+Centre shot - Saved,2.0,4,0,AUS,1.0,GOFERS K,0 - 0,193,AUS,3:13,0
+Action shot - Blocked,2.0,4,0,AUS,1.0,MUSSELMAN M,0 - 0,174,USA,2:54,0
+Action shot - Post,2.0,4,0,AUS,1.0,MUSSELMAN M,0 - 0,169,USA,2:49,0
+5m shot - Missed,3.0,4,0,AUS,1.0,BUCKLING H,0 - 0,141,AUS,2:21,0
+5m shot - Post,4.0,4,0,AUS,1.0,FATTAL R,0 - 0,114,USA,1:54,0
+Turnover foul,7.0,4,0,AUS,1.0,WEBSTER R,0 - 0,98,AUS,1:38,0
+Turnover foul,3.0,4,0,AUS,1.0,SEIDEMANN M,0 - 0,83,USA,1:23,0
+Steal,3.0,4,0,AUS,1.0,BUCKLING H,0 - 0,83,AUS,1:23,0
+Action shot - Blocked,3.0,4,0,AUS,1.0,BUCKLING H,0 - 0,56,AUS,0:56,0
+Time-Out,,4,0,AUS,1.0,,0 - 0,26,USA,0:26,0
+Turnover foul,9.0,4,0,AUS,1.0,FISCHER A,0 - 0,10,USA,0:10,0
+Steal,7.0,4,0,AUS,1.0,WEBSTER R,0 - 0,10,AUS,0:10,0
+Turnover foul,7.0,4,0,AUS,1.0,WEBSTER R,0 - 0,1,AUS,0:01,0
+Steal,6.0,4,0,AUS,1.0,STEFFENS M,0 - 0,1,USA,0:01,0
+Starting goalkeeper,1.0,4,0,AUS,2.0,STONE G,0 - 0,480,USA,8:00,0
+Starting goalkeeper,1.0,4,0,AUS,2.0,YANITSAS L,0 - 0,480,AUS,8:00,0
+Sprint won possession,8.0,4,0,AUS,2.0,NEUSHUL K,0 - 0,480,USA,8:00,0
+Turnover foul,12.0,4,0,AUS,2.0,WILLIAMS A,0 - 0,451,USA,7:31,0
+Steal,7.0,4,0,AUS,2.0,WEBSTER R,0 - 0,451,AUS,7:31,0
+Action shot - Missed,4.0,4,0,AUS,2.0,HALLIGAN B,0 - 0,425,AUS,7:05,0
+Centre shot - Post,9.0,4,0,AUS,2.0,FISCHER A,0 - 0,399,USA,6:39,0
+Centre shot - Saved,7.0,4,0,AUS,2.0,WEBSTER R,0 - 0,371,AUS,6:11,0
+Turnover foul,6.0,4,0,AUS,2.0,STEFFENS M,0 - 0,356,USA,5:56,0
+Steal,5.0,4,0,AUS,2.0,BISHOP I,0 - 0,356,AUS,5:56,0
+Action shot - Post,8.0,4,0,AUS,2.0,NEUSHUL K,0 - 0,314,USA,5:14,0
+Action shot - Post,7.0,4,0,AUS,2.0,WEBSTER R,0 - 0,296,AUS,4:56,0
+Action shot - Saved,12.0,4,0,AUS,2.0,WILLIAMS A,0 - 0,264,USA,4:24,0
+Action shot - Saved,2.0,4,0,AUS,2.0,GOFERS K,0 - 0,233,AUS,3:53,0
+20 sec. exclusion in centre,4.0,4,0,AUS,2.0,HALLIGAN B,0 - 0,209,AUS,3:29,0
+Extra player shot - Goal,7.0,4,0,AUS,2.0,RANEY J,1 - 0,208,USA,3:28,1
+Action shot - Goal,7.0,4,0,AUS,2.0,RANEY J,2 - 0,149,USA,2:29,2
+20 sec. exclusion in centre,7.0,4,0,AUS,2.0,WEBSTER R,2 - 0,95,AUS,1:35,2
+Time-Out,,4,0,AUS,2.0,,2 - 0,95,USA,1:35,2
+5m shot - Blocked,11.0,4,0,AUS,2.0,FISCHER M,2 - 0,65,USA,1:05,2
+Action shot - Goal,2.0,4,0,AUS,2.0,MUSSELMAN M,3 - 0,36,USA,0:36,3
+Time-Out,,4,0,AUS,2.0,,3 - 0,35,AUS,0:35,3
+20 sec. exclusion in centre,2.0,4,0,AUS,2.0,MUSSELMAN M,3 - 0,11,USA,0:11,3
+Extra player shot - Saved,4.0,4,0,AUS,2.0,HALLIGAN B,3 - 0,1,AUS,0:01,3
+Starting goalkeeper,1.0,4,0,AUS,3.0,STONE G,3 - 0,480,USA,8:00,3
+Starting goalkeeper,1.0,4,0,AUS,3.0,YANITSAS L,3 - 0,480,AUS,8:00,3
+Sprint won possession,4.0,4,0,AUS,3.0,FATTAL R,3 - 0,480,USA,8:00,3
+20 sec. exclusion in centre,5.0,4,0,AUS,3.0,BISHOP I,3 - 0,454,AUS,7:34,3
+Extra player shot - Saved,2.0,4,0,AUS,3.0,MUSSELMAN M,3 - 0,434,USA,7:14,3
+Action shot - Missed,2.0,4,0,AUS,3.0,MUSSELMAN M,3 - 0,416,USA,6:56,3
+20 sec. exclusion in field,8.0,4,0,AUS,3.0,NEUSHUL K,3 - 0,413,USA,6:53,3
+Action shot - Goal,2.0,4,1,AUS,3.0,GOFERS K,3 - 1,387,AUS,6:27,3
+Turnover foul,3.0,4,1,AUS,3.0,SEIDEMANN M,3 - 1,361,USA,6:01,3
+Steal,7.0,4,1,AUS,3.0,WEBSTER R,3 - 1,361,AUS,6:01,3
+Turnover foul,5.0,4,1,AUS,3.0,BISHOP I,3 - 1,346,AUS,5:46,3
+Steal,11.0,4,1,AUS,3.0,FISCHER M,3 - 1,346,USA,5:46,3
+5m shot - Saved,5.0,4,1,AUS,3.0,BISHOP I,3 - 1,308,AUS,5:08,3
+Action shot - Saved,8.0,4,1,AUS,3.0,NEUSHUL K,3 - 1,276,USA,4:36,3
+5m shot - Saved,10.0,4,1,AUS,3.0,MIHAILOVIC L,3 - 1,243,AUS,4:03,3
+Action shot - Saved,2.0,4,1,AUS,3.0,MUSSELMAN M,3 - 1,223,USA,3:43,3
+Action shot - Goal,3.0,4,1,AUS,3.0,SEIDEMANN M,4 - 1,182,USA,3:02,4
+20 sec. exclusion in centre,11.0,4,1,AUS,3.0,FISCHER M,4 - 1,163,USA,2:43,4
+Action shot - Goal,2.0,4,2,AUS,3.0,GOFERS K,4 - 2,137,AUS,2:17,4
+Action shot - Missed,11.0,4,2,AUS,3.0,FISCHER M,4 - 2,114,USA,1:54,4
+Turnover foul,4.0,4,2,AUS,3.0,HALLIGAN B,4 - 2,98,AUS,1:38,4
+Steal,7.0,4,2,AUS,3.0,RANEY J,4 - 2,98,USA,1:38,4
+Centre shot - Saved,9.0,4,2,AUS,3.0,FISCHER A,4 - 2,71,USA,1:11,4
+Action shot - Goal,10.0,4,2,AUS,3.0,NEUSHUL J,5 - 2,70,USA,1:10,5
+Turnover foul,2.0,4,2,AUS,3.0,GOFERS K,5 - 2,43,AUS,0:43,5
+5m shot - Saved,3.0,4,2,AUS,3.0,SEIDEMANN M,5 - 2,15,USA,0:15,5
+Time-Out,,4,2,AUS,3.0,,5 - 2,15,AUS,0:15,5
+Starting goalkeeper,1.0,4,2,AUS,4.0,STONE G,5 - 2,480,USA,8:00,5
+Starting goalkeeper,1.0,4,2,AUS,4.0,YANITSAS L,5 - 2,480,AUS,8:00,5
+Sprint won possession,4.0,4,2,AUS,4.0,FATTAL R,5 - 2,480,USA,8:00,5
+Turnover foul,5.0,4,2,AUS,4.0,BISHOP I,5 - 2,439,AUS,7:19,5
+Action shot - Saved,8.0,4,2,AUS,4.0,NEUSHUL K,5 - 2,409,USA,6:49,5
+Action shot - Saved,5.0,4,2,AUS,4.0,BISHOP I,5 - 2,377,AUS,6:17,5
+20 sec. exclusion in field,11.0,4,2,AUS,4.0,FISCHER M,5 - 2,365,USA,6:05,5
+Action shot - Goal,2.0,4,3,AUS,4.0,GOFERS K,5 - 3,342,AUS,5:42,5
+Action shot - Post,12.0,4,3,AUS,4.0,WILLIAMS A,5 - 3,326,USA,5:26,5
+20 sec. exclusion in centre,3.0,4,3,AUS,4.0,BUCKLING H,5 - 3,267,AUS,4:27,5
+Extra player shot - Goal,2.0,4,3,AUS,4.0,MUSSELMAN M,6 - 3,248,USA,4:08,6
+Turnover foul,9.0,4,3,AUS,4.0,ARANCINI Z,6 - 3,227,AUS,3:47,6
+Steal,1.0,4,3,AUS,4.0,STONE G,6 - 3,227,USA,3:47,6
+Centre shot - Saved,3.0,4,3,AUS,4.0,SEIDEMANN M,6 - 3,200,USA,3:20,6
+5m shot - Missed,7.0,4,3,AUS,4.0,WEBSTER R,6 - 3,182,AUS,3:02,6
+Action shot - Goal,4.0,4,3,AUS,4.0,FATTAL R,7 - 3,165,USA,2:45,7
+20 sec. exclusion in field,8.0,4,3,AUS,4.0,NEUSHUL K,7 - 3,147,USA,2:27,7
+20 sec. exclusion in centre,6.0,4,3,AUS,4.0,STEFFENS M,7 - 3,144,USA,2:24,7
+Extra player shot - Goal,2.0,4,4,AUS,4.0,GOFERS K,7 - 4,130,AUS,2:10,7
+20 sec. exclusion in centre,3.0,4,4,AUS,4.0,BUCKLING H,7 - 4,112,AUS,1:52,7
+Extra player shot - Saved,3.0,4,4,AUS,4.0,SEIDEMANN M,7 - 4,103,USA,1:43,7
+Penalty foul,4.0,4,4,AUS,4.0,FATTAL R,7 - 4,89,USA,1:29,7
+Penalty shot - Goal,7.0,4,5,AUS,4.0,WEBSTER R,7 - 5,89,AUS,1:29,7
+Turnover foul,6.0,4,5,AUS,4.0,STEFFENS M,7 - 5,67,USA,1:07,7
+20 sec. exclusion in field,4.0,4,5,AUS,4.0,FATTAL R,7 - 5,67,USA,1:07,7
+Time-Out,,4,5,AUS,4.0,,7 - 5,65,AUS,1:05,7
+Turnover foul,3.0,4,5,AUS,4.0,BUCKLING H,7 - 5,37,AUS,0:37,7
+Steal,4.0,4,5,AUS,4.0,FATTAL R,7 - 5,37,USA,0:37,7
+Time-Out,,4,5,AUS,4.0,,7 - 5,27,USA,0:27,7
+5m shot - Missed,7.0,4,5,AUS,4.0,WEBSTER R,7 - 5,1,AUS,0:01,7
+Starting goalkeeper,13.0,5,0,RUS,1.0,KARNAUKH A,0 - 0,480,RUS,8:00,0
+Starting goalkeeper,1.0,5,0,RUS,1.0,STONE G,0 - 0,480,USA,8:00,0
+Sprint won possession,4.0,5,0,RUS,1.0,FATTAL R,0 - 0,480,USA,8:00,0
+Turnover foul,3.0,5,0,RUS,1.0,SEIDEMANN M,0 - 0,451,USA,7:31,0
+Steal,6.0,5,0,RUS,1.0,GORBUNOVA O,0 - 0,451,RUS,7:31,0
+Centre shot - Goal,8.0,5,1,RUS,1.0,SIMANOVICH A,1 - 0,430,RUS,7:10,0
+Turnover foul,11.0,5,1,RUS,1.0,FISCHER M,1 - 0,401,USA,6:41,0
+Steal,8.0,5,1,RUS,1.0,SIMANOVICH A,1 - 0,401,RUS,6:41,0
+Turnover foul,8.0,5,1,RUS,1.0,SIMANOVICH A,1 - 0,372,RUS,6:12,0
+Steal,8.0,5,1,RUS,1.0,NEUSHUL K,1 - 0,372,USA,6:12,0
+Action shot - Saved,11.0,5,1,RUS,1.0,FISCHER M,1 - 0,353,USA,5:53,0
+Turnover foul,4.0,5,1,RUS,1.0,FATTAL R,1 - 0,341,USA,5:41,0
+Steal,7.0,5,1,RUS,1.0,SERZHANTOVA A,1 - 0,341,RUS,5:41,0
+Turnover foul,11.0,5,1,RUS,1.0,FISCHER M,1 - 0,304,USA,5:04,0
+5m shot - Goal,3.0,5,2,RUS,1.0,PROKOFYEVA E,2 - 0,294,RUS,4:54,0
+Action shot - Goal,2.0,5,2,RUS,1.0,MUSSELMAN M,2 - 1,267,USA,4:27,1
+Turnover foul,9.0,5,2,RUS,1.0,TIMOFEEVA A,2 - 1,251,RUS,4:11,1
+20 sec. exclusion in centre,9.0,5,2,RUS,1.0,TIMOFEEVA A,2 - 1,231,RUS,3:51,1
+Extra player shot - Goal,4.0,5,2,RUS,1.0,FATTAL R,2 - 2,215,USA,3:35,2
+20 sec. exclusion in centre,7.0,5,2,RUS,1.0,RANEY J,2 - 2,201,USA,3:21,2
+Time-Out,,5,2,RUS,1.0,,2 - 2,201,RUS,3:21,2
+5m shot - Goal,3.0,5,3,RUS,1.0,PROKOFYEVA E,3 - 2,178,RUS,2:58,2
+Action shot - Post,6.0,5,3,RUS,1.0,STEFFENS M,3 - 2,149,USA,2:29,2
+Penalty foul,10.0,5,3,RUS,1.0,NEUSHUL J,3 - 2,130,USA,2:10,2
+Penalty shot - Goal,5.0,5,4,RUS,1.0,BORISOVA M,4 - 2,130,RUS,2:10,2
+5m shot - Goal,6.0,5,4,RUS,1.0,STEFFENS M,4 - 3,106,USA,1:46,3
+Turnover foul,5.0,5,4,RUS,1.0,BORISOVA M,4 - 3,84,RUS,1:24,3
+Steal,11.0,5,4,RUS,1.0,FISCHER M,4 - 3,84,USA,1:24,3
+5m shot - Post,11.0,5,4,RUS,1.0,FISCHER M,4 - 3,67,USA,1:07,3
+Action shot - Goal,4.0,5,4,RUS,1.0,FATTAL R,4 - 4,48,USA,0:48,4
+Turnover foul,9.0,5,4,RUS,1.0,TIMOFEEVA A,4 - 4,30,RUS,0:30,4
+Action shot - Goal,4.0,5,4,RUS,1.0,FATTAL R,4 - 5,8,USA,0:08,5
+5m shot - Missed,3.0,5,4,RUS,1.0,PROKOFYEVA E,4 - 5,4,RUS,0:04,5
+Time-Out,,5,4,RUS,1.0,,4 - 5,2,USA,0:02,5
+Starting goalkeeper,13.0,5,4,RUS,2.0,KARNAUKH A,4 - 5,480,RUS,8:00,5
+Starting goalkeeper,1.0,5,4,RUS,2.0,STONE G,4 - 5,480,USA,8:00,5
+Sprint won possession,4.0,5,4,RUS,2.0,FATTAL R,4 - 5,480,USA,8:00,5
+Action shot - Goal,2.0,5,4,RUS,2.0,MUSSELMAN M,4 - 6,449,USA,7:29,6
+Centre shot - Goal,8.0,5,5,RUS,2.0,SIMANOVICH A,5 - 6,436,RUS,7:16,6
+Action shot - Goal,2.0,5,5,RUS,2.0,MUSSELMAN M,5 - 7,412,USA,6:52,7
+Turnover foul,11.0,5,5,RUS,2.0,IVANOVA E,5 - 7,388,RUS,6:28,7
+Steal,9.0,5,5,RUS,2.0,FISCHER A,5 - 7,388,USA,6:28,7
+Action shot - Goal,6.0,5,5,RUS,2.0,STEFFENS M,5 - 8,365,USA,6:05,8
+Turnover foul,7.0,5,5,RUS,2.0,SERZHANTOVA A,5 - 8,339,RUS,5:39,8
+Steal,6.0,5,5,RUS,2.0,STEFFENS M,5 - 8,339,USA,5:39,8
+Turnover foul,6.0,5,5,RUS,2.0,STEFFENS M,5 - 8,339,USA,5:39,8
+20 sec. exclusion in centre,8.0,5,5,RUS,2.0,NEUSHUL K,5 - 8,335,USA,5:35,8
+5m shot - Saved,3.0,5,5,RUS,2.0,PROKOFYEVA E,5 - 8,310,RUS,5:10,8
+20 sec. exclusion in centre,11.0,5,5,RUS,2.0,IVANOVA E,5 - 8,294,RUS,4:54,8
+Action shot - Blocked,4.0,5,5,RUS,2.0,FATTAL R,5 - 8,271,USA,4:31,8
+20 sec. exclusion in field,6.0,5,5,RUS,2.0,GORBUNOVA O,5 - 8,264,RUS,4:24,8
+Exclusion with substitution,6.0,5,5,RUS,2.0,GORBUNOVA O,5 - 8,264,RUS,4:24,8
+Action shot - Goal,2.0,5,5,RUS,2.0,MUSSELMAN M,5 - 9,234,USA,3:54,9
+20 sec. exclusion in centre,3.0,5,5,RUS,2.0,SEIDEMANN M,5 - 9,210,USA,3:30,9
+Time-Out,,5,5,RUS,2.0,,5 - 9,210,RUS,3:30,9
+Extra player shot - Saved,11.0,5,5,RUS,2.0,IVANOVA E,5 - 9,191,RUS,3:11,9
+5m shot - Blocked,10.0,5,5,RUS,2.0,TOLKUNOVA T,5 - 9,185,RUS,3:05,9
+Turnover foul,9.0,5,5,RUS,2.0,TIMOFEEVA A,5 - 9,179,RUS,2:59,9
+Action shot - Saved,11.0,5,5,RUS,2.0,FISCHER M,5 - 9,159,USA,2:39,9
+Centre shot - Post,9.0,5,5,RUS,2.0,TIMOFEEVA A,5 - 9,138,RUS,2:18,9
+Action shot - Goal,4.0,5,5,RUS,2.0,FATTAL R,5 - 10,112,USA,1:52,10
+20 sec. exclusion in field,8.0,5,5,RUS,4.0,NEUSHUL K,5 - 10,333,USA,5:33,10
+Action shot - Goal,3.0,5,9,RUS,4.0,PROKOFYEVA E,9 - 14,305,RUS,5:05,14
+Turnover foul,6.0,5,9,RUS,4.0,STEFFENS M,9 - 14,280,USA,4:40,14
+Action shot - Missed,9.0,5,9,RUS,4.0,TIMOFEEVA A,9 - 14,260,RUS,4:20,14
+Turnover foul,2.0,5,9,RUS,4.0,MUSSELMAN M,9 - 14,238,USA,3:58,14
+20 sec. exclusion in centre,11.0,5,9,RUS,4.0,FISCHER M,9 - 14,221,USA,3:41,14
+Time-Out,,5,9,RUS,4.0,,9 - 14,221,RUS,3:41,14
+Centre shot - Saved,8.0,5,9,RUS,4.0,SIMANOVICH A,9 - 14,199,RUS,3:19,14
+Action shot - Saved,11.0,5,9,RUS,4.0,IVANOVA E,9 - 14,157,RUS,2:37,14
+Centre shot - Post,3.0,5,9,RUS,4.0,SEIDEMANN M,9 - 14,129,USA,2:09,14
+Turnover foul,9.0,5,9,RUS,2.0,TIMOFEEVA A,9 - 14,101,RUS,1:41,14
+5m shot - Blocked,6.0,5,9,RUS,2.0,STEFFENS M,9 - 14,81,USA,1:21,14
+Turnover foul,12.0,5,9,RUS,2.0,RYZHKOVA D,9 - 14,60,RUS,1:00,14
+Steal,6.0,5,9,RUS,2.0,STEFFENS M,9 - 14,60,USA,1:00,14
+20 sec. exclusion in field,9.0,5,9,RUS,2.0,TIMOFEEVA A,9 - 14,37,RUS,0:37,14
+Time-Out,,5,9,RUS,2.0,,9 - 14,37,USA,0:37,14
+Action shot - Goal,6.0,5,5,RUS,2.0,STEFFENS M,5 - 11,18,USA,0:18,11
+5m shot - Blocked,11.0,5,5,RUS,2.0,IVANOVA E,5 - 11,6,RUS,0:06,11
+5m shot - Saved,2.0,5,5,RUS,2.0,MUSSELMAN M,5 - 11,1,USA,0:01,11
+Starting goalkeeper,1.0,5,5,RUS,3.0,USTIUKHINA A,5 - 11,480,RUS,8:00,11
+Starting goalkeeper,1.0,5,5,RUS,3.0,STONE G,5 - 11,480,USA,8:00,11
+Sprint won possession,4.0,5,5,RUS,3.0,FATTAL R,5 - 11,480,USA,8:00,11
+Turnover foul,2.0,5,5,RUS,3.0,MUSSELMAN M,5 - 11,452,USA,7:32,11
+Steal,11.0,5,5,RUS,3.0,IVANOVA E,5 - 11,452,RUS,7:32,11
+Action shot - Saved,8.0,5,5,RUS,3.0,SIMANOVICH A,5 - 11,441,RUS,7:21,11
+5m shot - Blocked,5.0,5,5,RUS,3.0,BORISOVA M,5 - 11,424,RUS,7:04,11
+5m shot - Goal,4.0,5,5,RUS,3.0,FATTAL R,5 - 12,406,USA,6:46,12
+Turnover foul,8.0,5,5,RUS,3.0,SIMANOVICH A,5 - 12,385,RUS,6:25,12
+Steal,8.0,5,5,RUS,3.0,NEUSHUL K,5 - 12,385,USA,6:25,12
+Turnover foul,9.0,5,5,RUS,3.0,FISCHER A,5 - 12,363,USA,6:03,12
+Steal,5.0,5,5,RUS,3.0,BORISOVA M,5 - 12,363,RUS,6:03,12
+Action shot - Saved,5.0,5,5,RUS,3.0,BORISOVA M,5 - 12,334,RUS,5:34,12
+Turnover foul,9.0,5,5,RUS,3.0,FISCHER A,5 - 12,321,USA,5:21,12
+20 sec. exclusion in field,9.0,5,5,RUS,3.0,FISCHER A,5 - 12,321,USA,5:21,12
+Action shot - Goal,11.0,5,6,RUS,3.0,IVANOVA E,6 - 12,284,RUS,4:44,12
+20 sec. exclusion in centre,10.0,5,6,RUS,3.0,TOLKUNOVA T,6 - 12,260,RUS,4:20,12
+Extra player shot - Goal,8.0,5,6,RUS,3.0,NEUSHUL K,6 - 13,254,USA,4:14,13
+Turnover foul,10.0,5,6,RUS,3.0,TOLKUNOVA T,6 - 13,235,RUS,3:55,13
+Steal,5.0,5,6,RUS,3.0,HAUSCHILD P,6 - 13,235,USA,3:55,13
+20 sec. exclusion in field,12.0,5,6,RUS,3.0,RYZHKOVA D,6 - 13,216,RUS,3:36,13
+Extra player shot - Post,11.0,5,6,RUS,3.0,FISCHER M,6 - 13,205,USA,3:25,13
+20 sec. exclusion in centre,11.0,5,6,RUS,3.0,FISCHER M,6 - 13,194,USA,3:14,13
+Time-Out,,5,6,RUS,3.0,,6 - 13,193,RUS,3:13,13
+Extra player shot - Saved,5.0,5,6,RUS,3.0,BORISOVA M,6 - 13,178,RUS,2:58,13
+Turnover foul,4.0,5,6,RUS,3.0,FATTAL R,6 - 13,149,USA,2:29,13
+Steal,3.0,5,6,RUS,3.0,PROKOFYEVA E,6 - 13,149,RUS,2:29,13
+20 sec. exclusion in centre,4.0,5,6,RUS,3.0,FATTAL R,6 - 13,141,USA,2:21,13
+Extra player shot - Goal,12.0,5,7,RUS,3.0,RYZHKOVA D,7 - 13,133,RUS,2:13,13
+Turnover foul,2.0,5,7,RUS,3.0,MUSSELMAN M,7 - 13,107,USA,1:47,13
+Steal,3.0,5,7,RUS,3.0,PROKOFYEVA E,7 - 13,107,RUS,1:47,13
+Centre shot - Saved,12.0,5,7,RUS,3.0,RYZHKOVA D,7 - 13,81,RUS,1:21,13
+Time-Out,,5,7,RUS,3.0,,7 - 13,77,USA,1:17,13
+Turnover foul,8.0,5,7,RUS,3.0,NEUSHUL K,7 - 13,52,USA,0:52,13
+Turnover foul,9.0,5,7,RUS,3.0,TIMOFEEVA A,7 - 13,29,RUS,0:29,13
+Steal,6.0,5,7,RUS,3.0,STEFFENS M,7 - 13,29,USA,0:29,13
+Turnover foul,8.0,5,7,RUS,3.0,NEUSHUL K,7 - 13,11,USA,0:11,13
+5m shot - Saved,9.0,5,7,RUS,3.0,TIMOFEEVA A,7 - 13,1,RUS,0:01,13
+Starting goalkeeper,1.0,5,7,RUS,4.0,USTIUKHINA A,7 - 13,480,RUS,8:00,13
+Starting goalkeeper,1.0,5,7,RUS,4.0,STONE G,7 - 13,480,USA,8:00,13
+Sprint won possession,4.0,5,7,RUS,4.0,FATTAL R,7 - 13,480,USA,8:00,13
+Turnover foul,2.0,5,7,RUS,4.0,MUSSELMAN M,7 - 13,464,USA,7:44,13
+Steal,12.0,5,7,RUS,4.0,RYZHKOVA D,7 - 13,464,RUS,7:44,13
+5m shot - Goal,5.0,5,8,RUS,4.0,BORISOVA M,8 - 13,440,RUS,7:20,13
+Turnover foul,9.0,5,8,RUS,4.0,FISCHER A,8 - 13,423,USA,7:03,13
+Steal,5.0,5,8,RUS,4.0,BORISOVA M,8 - 13,423,RUS,7:03,13
+Turnover foul,8.0,5,8,RUS,4.0,SIMANOVICH A,8 - 13,405,RUS,6:45,13
+20 sec. exclusion in centre,5.0,5,8,RUS,4.0,BORISOVA M,8 - 13,399,RUS,6:39,13
+Extra player shot - Goal,12.0,5,8,RUS,4.0,WILLIAMS A,8 - 14,382,USA,6:22,14
+5m shot - Saved,3.0,5,8,RUS,4.0,PROKOFYEVA E,8 - 14,363,RUS,6:03,14
+Turnover foul,8.0,5,8,RUS,4.0,NEUSHUL K,8 - 14,333,USA,5:33,14
+Steal,3.0,5,8,RUS,4.0,PROKOFYEVA E,8 - 14,333,RUS,5:33,14
+20 sec. exclusion in field,2.0,5,8,RUS,4.0,MUSSELMAN M,8 - 14,121,USA,2:01,14
+Extra player shot - Saved,5.0,5,8,RUS,4.0,BORISOVA M,8 - 14,100,RUS,1:40,14
+Time-Out,,5,8,RUS,4.0,,8 - 14,99,USA,1:39,14
+Goalkeeper substitution,13.0,5,8,RUS,4.0,LONGAN A,8 - 14,98,USA,1:38,14
+Turnover foul,12.0,5,8,RUS,4.0,WILLIAMS A,8 - 14,81,USA,1:21,14
+Steal,12.0,5,8,RUS,4.0,RYZHKOVA D,8 - 14,81,RUS,1:21,14
+Centre shot - Saved,8.0,5,8,RUS,4.0,SIMANOVICH A,8 - 14,64,RUS,1:04,14
+Centre shot - Saved,8.0,5,8,RUS,4.0,SIMANOVICH A,8 - 14,20,RUS,0:20,14
+Action shot - Missed,11.0,5,8,RUS,4.0,IVANOVA E,8 - 14,11,RUS,0:11,14
+Starting goalkeeper,1.0,6,0,ESP,1.0,STONE G,0 - 0,480,USA,8:00,0
+Starting goalkeeper,1.0,6,0,ESP,1.0,ESTER RAMOS L,0 - 0,480,ESP,8:00,0
+Sprint won possession,3.0,6,0,ESP,1.0,ESPAR LLAQUET A,0 - 0,480,ESP,8:00,0
+Turnover foul,3.0,6,0,ESP,1.0,ESPAR LLAQUET A,0 - 0,451,ESP,7:31,0
+Steal,2.0,6,0,ESP,1.0,MUSSELMAN M,0 - 0,451,USA,7:31,0
+5m shot - Missed,4.0,6,0,ESP,1.0,FATTAL R,0 - 0,426,USA,7:06,0
+Turnover foul,12.0,6,0,ESP,1.0,LEITON ARRONES P,0 - 0,404,ESP,6:44,0
+Centre shot - Post,8.0,6,0,ESP,1.0,NEUSHUL K,0 - 0,382,USA,6:22,0
+Action shot - Saved,8.0,6,0,ESP,1.0,PENA CARRASCO M,0 - 0,355,ESP,5:55,0
+Turnover foul,8.0,6,0,ESP,1.0,NEUSHUL K,0 - 0,333,USA,5:33,0
+Steal,4.0,6,0,ESP,1.0,ORTIZ MUNOZ B,0 - 0,333,ESP,5:33,0
+20 sec. exclusion in centre,11.0,6,0,ESP,1.0,FISCHER M,0 - 0,309,USA,5:09,0
+Extra player shot - Saved,4.0,6,0,ESP,1.0,ORTIZ MUNOZ B,0 - 0,290,ESP,4:50,0
+Action shot - Saved,4.0,6,0,ESP,1.0,ORTIZ MUNOZ B,0 - 0,280,ESP,4:40,0
+20 sec. exclusion in centre,3.0,6,0,ESP,1.0,ESPAR LLAQUET A,0 - 0,252,ESP,4:12,0
+Extra player shot - Goal,3.0,6,0,ESP,1.0,SEIDEMANN M,1 - 0,250,USA,4:10,1
+Action shot - Saved,6.0,6,0,ESP,1.0,STEFFENS M,1 - 0,196,USA,3:16,1
+20 sec. exclusion in centre,12.0,6,0,ESP,1.0,WILLIAMS A,1 - 0,179,USA,2:59,1
+Action shot - Goal,4.0,6,1,ESP,1.0,ORTIZ MUNOZ B,1 - 1,151,ESP,2:31,1
+Action shot - Goal,7.0,6,1,ESP,1.0,RANEY J,2 - 1,131,USA,2:11,2
+Turnover foul,6.0,6,1,ESP,1.0,STEFFENS M,2 - 1,88,USA,1:28,2
+Turnover foul,4.0,6,1,ESP,1.0,ORTIZ MUNOZ B,2 - 1,71,ESP,1:11,2
+Turnover foul,7.0,6,1,ESP,1.0,RANEY J,2 - 1,50,USA,0:50,2
+Steal,9.0,6,1,ESP,1.0,FORCA ARIZA J,2 - 1,50,ESP,0:50,2
+Time-Out,,6,1,ESP,1.0,,2 - 1,45,ESP,0:45,2
+Time-Out,,6,1,ESP,1.0,,2 - 1,14,USA,0:14,2
+Action shot - Saved,3.0,6,1,ESP,1.0,SEIDEMANN M,2 - 1,2,USA,0:02,2
+Starting goalkeeper,1.0,6,1,ESP,2.0,STONE G,2 - 1,480,USA,8:00,2
+Starting goalkeeper,1.0,6,1,ESP,2.0,ESTER RAMOS L,2 - 1,480,ESP,8:00,2
+Sprint won possession,3.0,6,1,ESP,2.0,ESPAR LLAQUET A,2 - 1,480,ESP,8:00,2
+Penalty foul,12.0,6,1,ESP,2.0,WILLIAMS A,2 - 1,463,USA,7:43,2
+Penalty shot - Goal,3.0,6,2,ESP,2.0,ESPAR LLAQUET A,2 - 2,463,ESP,7:43,2
+20 sec. exclusion in centre,6.0,6,2,ESP,2.0,LLORET GOMEZ H,2 - 2,450,ESP,7:30,2
+Extra player shot - Blocked,2.0,6,2,ESP,2.0,MUSSELMAN M,2 - 2,433,USA,7:13,2
+Centre shot - Saved,12.0,6,2,ESP,2.0,LEITON ARRONES P,2 - 2,403,ESP,6:43,2
+20 sec. exclusion in centre,12.0,6,2,ESP,2.0,LEITON ARRONES P,2 - 2,388,ESP,6:28,2
+Extra player shot - Goal,8.0,6,2,ESP,2.0,NEUSHUL K,3 - 2,386,USA,6:26,3
+20 sec. exclusion in field,6.0,6,2,ESP,2.0,STEFFENS M,3 - 2,372,USA,6:12,3
+Extra player shot - Goal,4.0,6,3,ESP,2.0,ORTIZ MUNOZ B,3 - 3,354,ESP,5:54,3
+20 sec. exclusion in centre,2.0,6,3,ESP,2.0,BACH PASCUAL M,3 - 3,345,ESP,5:45,3
+Extra player shot - Goal,8.0,6,3,ESP,2.0,NEUSHUL K,4 - 3,327,USA,5:27,4
+5m shot - Post,3.0,6,3,ESP,2.0,ESPAR LLAQUET A,4 - 3,298,ESP,4:58,4
+20 sec. exclusion in centre,2.0,6,3,ESP,2.0,BACH PASCUAL M,4 - 3,276,ESP,4:36,4
+Extra player shot - Goal,2.0,6,3,ESP,2.0,MUSSELMAN M,5 - 3,273,USA,4:33,5
+5m shot - Blocked,11.0,6,3,ESP,2.0,GUAL ROVIROSA A,5 - 3,247,ESP,4:07,5
+Turnover foul,9.0,6,3,ESP,2.0,FISCHER A,5 - 3,226,USA,3:46,5
+Turnover foul,9.0,6,3,ESP,2.0,FORCA ARIZA J,5 - 3,196,ESP,3:16,5
+Steal,2.0,6,3,ESP,2.0,MUSSELMAN M,5 - 3,196,USA,3:16,5
+Centre shot - Saved,9.0,6,3,ESP,2.0,FISCHER A,5 - 3,171,USA,2:51,5
+Turnover foul,5.0,6,3,ESP,2.0,ORTIZ REYES M,5 - 3,142,ESP,2:22,5
+Steal,9.0,6,3,ESP,2.0,FISCHER A,5 - 3,142,USA,2:22,5
+Turnover foul,3.0,6,3,ESP,2.0,SEIDEMANN M,5 - 3,117,USA,1:57,5
+Steal,5.0,6,3,ESP,2.0,ORTIZ REYES M,5 - 3,117,ESP,1:57,5
+20 sec. exclusion in centre,7.0,6,3,ESP,2.0,RANEY J,5 - 3,95,USA,1:35,5
+Time-Out,,6,3,ESP,2.0,,5 - 3,95,ESP,1:35,5
+Centre shot - Saved,10.0,6,3,ESP,2.0,CRESPI BARRIGA P,5 - 3,81,ESP,1:21,5
+5m shot - Post,8.0,6,3,ESP,2.0,NEUSHUL K,5 - 3,53,USA,0:53,5
+Action shot - Post,3.0,6,3,ESP,2.0,ESPAR LLAQUET A,5 - 3,25,ESP,0:25,5
+Action shot - Saved,2.0,6,3,ESP,2.0,MUSSELMAN M,5 - 3,10,USA,0:10,5
+5m shot - Saved,12.0,6,3,ESP,2.0,LEITON ARRONES P,5 - 3,1,ESP,0:01,5
+Starting goalkeeper,1.0,6,3,ESP,3.0,STONE G,5 - 3,480,USA,8:00,5
+Starting goalkeeper,1.0,6,3,ESP,3.0,ESTER RAMOS L,5 - 3,480,ESP,8:00,5
+Sprint won possession,3.0,6,3,ESP,3.0,ESPAR LLAQUET A,5 - 3,480,ESP,8:00,5
+5m shot - Goal,3.0,6,4,ESP,3.0,ESPAR LLAQUET A,5 - 4,453,ESP,7:33,5
+20 sec. exclusion in centre,5.0,6,4,ESP,3.0,ORTIZ REYES M,5 - 4,442,ESP,7:22,5
+Extra player shot - Goal,4.0,6,4,ESP,3.0,FATTAL R,6 - 4,428,USA,7:08,6
+Turnover foul,12.0,6,4,ESP,3.0,LEITON ARRONES P,6 - 4,407,ESP,6:47,6
+Steal,4.0,6,4,ESP,3.0,FATTAL R,6 - 4,407,USA,6:47,6
+20 sec. exclusion in centre,5.0,6,4,ESP,3.0,ORTIZ REYES M,6 - 4,382,ESP,6:22,6
+Extra player shot - Goal,8.0,6,4,ESP,3.0,NEUSHUL K,7 - 4,365,USA,6:05,7
+Turnover foul,12.0,6,4,ESP,3.0,LEITON ARRONES P,7 - 4,341,ESP,5:41,7
+Steal,11.0,6,4,ESP,3.0,FISCHER M,7 - 4,341,USA,5:41,7
+Action shot - Missed,11.0,6,4,ESP,3.0,FISCHER M,7 - 4,312,USA,5:12,7
+Action shot - Saved,6.0,6,4,ESP,3.0,LLORET GOMEZ H,7 - 4,283,ESP,4:43,7
+5m shot - Post,4.0,6,4,ESP,3.0,ORTIZ MUNOZ B,7 - 4,256,ESP,4:16,7
+20 sec. exclusion in centre,7.0,6,4,ESP,3.0,ESPAR LLAQUET C,7 - 4,231,ESP,3:51,7
+Time-Out,,6,4,ESP,3.0,,7 - 4,231,USA,3:51,7
+Extra player shot - Goal,6.0,6,4,ESP,3.0,STEFFENS M,8 - 4,211,USA,3:31,8
+5m shot - Missed,9.0,6,4,ESP,3.0,FORCA ARIZA J,8 - 4,188,ESP,3:08,8
+Turnover foul,6.0,6,4,ESP,3.0,STEFFENS M,8 - 4,163,USA,2:43,8
+Steal,1.0,6,4,ESP,3.0,ESTER RAMOS L,8 - 4,163,ESP,2:43,8
+Centre shot - Missed,3.0,6,4,ESP,3.0,ESPAR LLAQUET A,8 - 4,146,ESP,2:26,8
+20 sec. exclusion in centre,4.0,6,4,ESP,3.0,ORTIZ MUNOZ B,8 - 4,126,ESP,2:06,8
+Extra player shot - Goal,11.0,6,4,ESP,3.0,FISCHER M,9 - 4,115,USA,1:55,9
+5m shot - Post,9.0,6,4,ESP,3.0,FORCA ARIZA J,9 - 4,85,ESP,1:25,9
+Turnover foul,6.0,6,4,ESP,3.0,STEFFENS M,9 - 4,60,USA,1:00,9
+Steal,9.0,6,4,ESP,3.0,FORCA ARIZA J,9 - 4,60,ESP,1:00,9
+Time-Out,,6,4,ESP,3.0,,9 - 4,55,ESP,0:55,9
+20 sec. exclusion in centre,3.0,6,4,ESP,3.0,SEIDEMANN M,9 - 4,38,USA,0:38,9
+Extra player shot - Goal,12.0,6,5,ESP,3.0,LEITON ARRONES P,9 - 5,25,ESP,0:25,9
+Centre shot - Goal,2.0,6,5,ESP,3.0,MUSSELMAN M,10 - 5,1,USA,0:01,10
+Starting goalkeeper,1.0,6,5,ESP,4.0,STONE G,10 - 5,480,USA,8:00,10
+Starting goalkeeper,1.0,6,5,ESP,4.0,ESTER RAMOS L,10 - 5,480,ESP,8:00,10
+Sprint won possession,4.0,6,5,ESP,4.0,FATTAL R,10 - 5,480,USA,8:00,10
+5m shot - Missed,4.0,6,5,ESP,4.0,FATTAL R,10 - 5,452,USA,7:32,10
+20 sec. exclusion in field,2.0,6,5,ESP,4.0,MUSSELMAN M,10 - 5,452,USA,7:32,10
+5m shot - Blocked,9.0,6,5,ESP,4.0,FORCA ARIZA J,10 - 5,424,ESP,7:04,10
+5m shot - Goal,6.0,6,5,ESP,4.0,STEFFENS M,11 - 5,394,USA,6:34,11
+Turnover foul,12.0,6,5,ESP,4.0,LEITON ARRONES P,11 - 5,365,ESP,6:05,11
+Steal,4.0,6,5,ESP,4.0,FATTAL R,11 - 5,365,USA,6:05,11
+20 sec. exclusion in centre,10.0,6,5,ESP,4.0,CRESPI BARRIGA P,11 - 5,340,ESP,5:40,11
+Extra player shot - Goal,8.0,6,5,ESP,4.0,NEUSHUL K,12 - 5,334,USA,5:34,12
+Turnover foul,11.0,6,5,ESP,4.0,GUAL ROVIROSA A,12 - 5,308,ESP,5:08,12
+Steal,8.0,6,5,ESP,4.0,NEUSHUL K,12 - 5,308,USA,5:08,12
+Turnover foul,3.0,6,5,ESP,4.0,SEIDEMANN M,12 - 5,279,USA,4:39,12
+Steal,9.0,6,5,ESP,4.0,FORCA ARIZA J,12 - 5,279,ESP,4:39,12
+Action shot - Missed,11.0,6,5,ESP,4.0,GUAL ROVIROSA A,12 - 5,252,ESP,4:12,12
+20 sec. exclusion in centre,7.0,6,5,ESP,4.0,ESPAR LLAQUET C,12 - 5,226,ESP,3:46,12
+Extra player shot - Goal,2.0,6,5,ESP,4.0,MUSSELMAN M,13 - 5,222,USA,3:42,13
+5m shot - Missed,4.0,6,5,ESP,4.0,ORTIZ MUNOZ B,13 - 5,193,ESP,3:13,13
+20 sec. exclusion in centre,4.0,6,5,ESP,4.0,ORTIZ MUNOZ B,13 - 5,165,ESP,2:45,13
+Extra player shot - Blocked,5.0,6,5,ESP,4.0,HAUSCHILD P,13 - 5,151,USA,2:31,13
+Time-Out,,6,5,ESP,4.0,,13 - 5,139,USA,2:19,13
+Goalkeeper substitution,13.0,6,5,ESP,4.0,LONGAN A,13 - 5,139,USA,2:19,13
+Action shot - Post,12.0,6,5,ESP,4.0,WILLIAMS A,13 - 5,121,USA,2:01,13
+Time-Out,,6,5,ESP,4.0,,13 - 5,120,ESP,2:00,13
+5m shot - Goal,3.0,6,6,ESP,4.0,ESPAR LLAQUET A,13 - 6,96,ESP,1:36,13
+Centre shot - Saved,9.0,6,6,ESP,4.0,FISCHER A,13 - 6,67,USA,1:07,13
+5m shot - Missed,3.0,6,6,ESP,4.0,ESPAR LLAQUET A,13 - 6,38,ESP,0:38,13
+20 sec. exclusion in field,10.0,6,6,ESP,4.0,CRESPI BARRIGA P,13 - 6,8,ESP,0:08,13

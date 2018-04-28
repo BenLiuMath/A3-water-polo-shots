@@ -60,27 +60,27 @@ Centre shot - Saved,12.0,1,6,1,JPN,2.0,SZILAGYI D,1 - 6,403,HUN,6:43
 Action shot - Blocked,2.0,1,6,1,JPN,2.0,ARIMA Y,1 - 6,382,JPN,6:22
 Centre shot - Saved,10.0,1,6,1,JPN,2.0,BUJKA B,1 - 6,353,HUN,5:53
 20 sec. exclusion in centre,6.0,1,6,1,JPN,2.0,TAKACS O,1 - 6,328,HUN,5:28
-Turnover foul,,1,,JPN,JPN,3.0,MAGARIYAMA S,JPN,13,4,0:13
-Steal,,1,,HUN,JPN,3.0,KESZTHELYI R,HUN,13,8,0:13
-Time-Out,,1,,HUN,JPN,3.0,,HUN,13,,0:13
-Starting goalkeeper,,1,,JPN,JPN,4.0,AOKI M,JPN,480,1,8:00
-Starting goalkeeper,,1,,HUN,JPN,4.0,KASO O,HUN,480,13,8:00
-Sprint won possession,,1,,HUN,JPN,4.0,SZILAGYI D,HUN,480,12,8:00
-Turnover foul,,1,,HUN,JPN,4.0,SZILAGYI D,HUN,451,12,7:31
-Steal,,1,,JPN,JPN,4.0,AOKI M,JPN,451,1,7:31
-Action shot - Goal,,1,17 JPN,7,JPN,4.0,YAMAMOTO M,7 - 17 JPN,438,6,7:18
-20 sec. exclusion in field,,1,,HUN,JPN,4.0,BUJKA B,HUN,426,10,7:06
-Action shot - Goal,,1,17 JPN,8,JPN,4.0,INABA A,8 - 17 JPN,404,7,6:44
-20 sec. exclusion in centre,,1,,JPN,JPN,4.0,TOKUMOTO M,JPN,374,11,6:14
-Extra player shot - Goal,,1,18 HUN,8,JPN,4.0,KESZTHELYI R,8 - 18 HUN,366,8,6:06
-Yellow card,,1,,HUN,JPN,4.0,Team Official,HUN,366,,6:06
-Turnover foul,,1,,JPN,JPN,4.0,SUZUKI K,JPN,349,12,5:49
-Steal,,1,,HUN,JPN,4.0,KESZTHELYI R,HUN,349,8,5:49
-Turnover foul,,1,,HUN,JPN,4.0,TOTH I,HUN,327,9,5:27
-Steal,,1,,JPN,JPN,4.0,SAKANOUE C,JPN,327,5,5:27
-5m shot - Saved,,1,,JPN,JPN,4.0,SAKANOUE C,JPN,302,5,5:02
-5m shot - Goal,,1,19 HUN,8,JPN,4.0,TOTH I,8 - 19 HUN,277,9,4:37
-Action shot - Goal,,1,19 JPN,9,JPN,4.0,ARIMA Y,9 - 19 JPN,257,2,4:17
+Turnover foul,4.0,1,6,1,JPN,3.0,MAGARIYAMA S,1 - 6,13,JPN,0:13
+Steal,8.0,1,6,1,JPN,3.0,KESZTHELYI R,1 - 6,13,HUN,0:13
+Time-Out,,1,6,1,JPN,3.0,,1 - 6,13,HUN,0:13
+Starting goalkeeper,1.0,1,6,1,JPN,4.0,AOKI M,1 - 6,480,JPN,8:00
+Starting goalkeeper,13.0,1,6,1,JPN,4.0,KASO O,1 - 6,480,HUN,8:00
+Sprint won possession,12.0,1,6,1,JPN,4.0,SZILAGYI D,1 - 6,480,HUN,8:00
+Turnover foul,12.0,1,6,1,JPN,4.0,SZILAGYI D,1 - 6,451,HUN,7:31
+Steal,1.0,1,6,1,JPN,4.0,AOKI M,1 - 6,451,JPN,7:31
+Action shot - Goal,6.0,1,17,7,JPN,4.0,YAMAMOTO M,7 - 17,438,JPN,7:18
+20 sec. exclusion in field,10.0,1,17,7,JPN,4.0,BUJKA B,7 - 17,426,HUN,7:06
+Action shot - Goal,7.0,1,17,8,JPN,4.0,INABA A,8 - 17,404,JPN,6:44
+20 sec. exclusion in centre,11.0,1,17,8,JPN,4.0,TOKUMOTO M,8 - 17,374,JPN,6:14
+Extra player shot - Goal,8.0,1,18,8,JPN,4.0,KESZTHELYI R,8 - 18,366,HUN,6:06
+Yellow card,,1,18,8,JPN,4.0,Team Official,8 - 18,366,HUN,6:06
+Turnover foul,12.0,1,18,8,JPN,4.0,SUZUKI K,8 - 18,349,JPN,5:49
+Steal,8.0,1,18,8,JPN,4.0,KESZTHELYI R,8 - 18,349,HUN,5:49
+Turnover foul,9.0,1,18,8,JPN,4.0,TOTH I,8 - 18,327,HUN,5:27
+Steal,5.0,1,18,8,JPN,4.0,SAKANOUE C,8 - 18,327,JPN,5:27
+5m shot - Saved,5.0,1,18,8,JPN,4.0,SAKANOUE C,8 - 18,302,JPN,5:02
+5m shot - Goal,9.0,1,19,8,JPN,4.0,TOTH I,8 - 19,277,HUN,4:37
+Action shot - Goal,2.0,1,19,9,JPN,4.0,ARIMA Y,9 - 19,257,JPN,4:17
 Extra player shot - Goal,2.0,1,6,2,JPN,2.0,ARIMA Y,2 - 6,309,JPN,5:09
 Centre shot - Goal,2.0,1,7,2,JPN,2.0,CZIGANY D,2 - 7,291,HUN,4:51
 20 sec. exclusion in centre,3.0,1,7,2,JPN,2.0,ANTAL D,2 - 7,275,HUN,4:35
@@ -429,14 +429,14 @@ Centre shot - Saved,10.0,3,8,5,NED,4.0,BUJKA B,5 - 8,301,HUN,5:01
 20 sec. exclusion in field,5.0,3,8,5,NED,4.0,SZUCS G,5 - 8,295,HUN,4:55
 Extra player shot - Saved,4.0,3,8,5,NED,4.0,van der SLOOT S,5 - 8,277,NED,4:37
 Turnover foul,10.0,3,8,5,NED,4.0,BUJKA B,5 - 8,250,HUN,4:10
-Steal,,3,,HUN,NED,4.0,GANGL E,HUN,107,1,1:47
-Penalty foul,,3,,NED,NED,4.0,STOMPHORST N,NED,82,6,1:22
-Penalty shot - Goal,,3,10 HUN,7,NED,4.0,KESZTHELYI R,7 - 10 HUN,82,8,1:22
-20 sec. exclusion in field,,3,,HUN,NED,4.0,TAKACS O,HUN,66,6,1:06
-Extra player shot - Goal,,3,10 NED,8,NED,4.0,van der SLOOT S,8 - 10 NED,63,4,1:03
-Turnover foul,,3,,HUN,NED,4.0,TOTH I,HUN,33,9,0:33
-Steal,,3,,NED,NED,4.0,van der SLOOT S,NED,33,4,0:33
-5m shot - Saved,,3,,NED,NED,4.0,van der SLOOT S,NED,15,4,0:15
+Steal,1.0,3,8,5,NED,4.0,GANGL E,5 - 8,107,HUN,1:47
+Penalty foul,6.0,3,8,5,NED,4.0,STOMPHORST N,5 - 8,82,NED,1:22
+Penalty shot - Goal,8.0,3,10,7,NED,4.0,KESZTHELYI R,7 - 10,82,HUN,1:22
+20 sec. exclusion in field,6.0,3,10,7,NED,4.0,TAKACS O,7 - 10,66,HUN,1:06
+Extra player shot - Goal,4.0,3,10,8,NED,4.0,van der SLOOT S,8 - 10,63,NED,1:03
+Turnover foul,9.0,3,10,8,NED,4.0,TOTH I,8 - 10,33,HUN,0:33
+Steal,4.0,3,10,8,NED,4.0,van der SLOOT S,8 - 10,33,NED,0:33
+5m shot - Saved,4.0,3,10,8,NED,4.0,van der SLOOT S,8 - 10,15,NED,0:15
 Starting goalkeeper,1.0,4,0,0,CAN,1.0,GANGL E,0 - 0,480,HUN,8:00
 Starting goalkeeper,1.0,4,0,0,CAN,1.0,GAUDREAULT J,0 - 0,480,CAN,8:00
 Sprint won possession,12.0,4,0,0,CAN,1.0,SZILAGYI D,0 - 0,480,HUN,8:00
@@ -700,74 +700,74 @@ Time-Out,,5,10,8,GRE,4.0,,10 - 8,28,HUN,0:28
 5m shot - Blocked,8.0,5,10,8,GRE,4.0,KESZTHELYI R,10 - 8,16,HUN,0:16
 Time-Out,,5,10,8,GRE,4.0,,10 - 8,16,GRE,0:16
 5m shot - Blocked,4.0,5,10,8,GRE,4.0,ELEFTHERIADOU N,10 - 8,1,GRE,0:01
-Starting goalkeeper,1,6,0,0,ITA,1.0,GORLERO G,0 - 0,480,ITA,8:00
-Starting goalkeeper,1,6,0,0,ITA,1.0,GANGL E,0 - 0,480,HUN,8:00
-Sprint won possession,8,6,0,0,ITA,1.0,BIANCONI R,0 - 0,480,ITA,8:00
-5m shot - Saved,5,6,0,0,ITA,1.0,RADICCHI F,0 - 0,451,ITA,7:31
-Turnover foul,10,6,0,0,ITA,1.0,BUJKA B,0 - 0,422,HUN,7:02
-Steal,5,6,0,0,ITA,1.0,RADICCHI F,0 - 0,422,ITA,7:02
-5m shot - Post,8,6,0,0,ITA,1.0,BIANCONI R,0 - 0,395,ITA,6:35
-Action shot - Goal,10,6,1,0,ITA,1.0,BUJKA B,0 - 1,372,HUN,6:12
-20 sec. exclusion in centre,11,6,1,0,ITA,1.0,CSABAI D,0 - 1,358,HUN,5:58
-Extra player shot - Goal,8,6,1,1,ITA,1.0,BIANCONI R,1 - 1,342,ITA,5:42
-Turnover foul,6,6,1,1,ITA,1.0,TAKACS O,1 - 1,315,HUN,5:15
-Steal,1,6,1,1,ITA,1.0,GORLERO G,1 - 1,315,ITA,5:15
-5m shot - Saved,5,6,1,1,ITA,1.0,RADICCHI F,1 - 1,294,ITA,4:54
-Action shot - Saved,8,6,1,1,ITA,1.0,KESZTHELYI R,1 - 1,281,HUN,4:41
-20 sec. exclusion in centre,5,6,1,1,ITA,1.0,RADICCHI F,1 - 1,270,ITA,4:30
-Extra player shot - Goal,12,6,2,1,ITA,1.0,SZILAGYI D,1 - 2,250,HUN,4:10
-20 sec. exclusion in centre,8,6,2,1,ITA,1.0,BIANCONI R,1 - 2,210,ITA,3:30
-Action shot - Saved,10,6,2,1,ITA,1.0,BUJKA B,1 - 2,188,HUN,3:08
-20 sec. exclusion in centre,5,6,2,1,ITA,1.0,SZUCS G,1 - 2,175,HUN,2:55
+Starting goalkeeper,1.0,6,0,0,ITA,1.0,GORLERO G,0 - 0,480,ITA,8:00
+Starting goalkeeper,1.0,6,0,0,ITA,1.0,GANGL E,0 - 0,480,HUN,8:00
+Sprint won possession,8.0,6,0,0,ITA,1.0,BIANCONI R,0 - 0,480,ITA,8:00
+5m shot - Saved,5.0,6,0,0,ITA,1.0,RADICCHI F,0 - 0,451,ITA,7:31
+Turnover foul,10.0,6,0,0,ITA,1.0,BUJKA B,0 - 0,422,HUN,7:02
+Steal,5.0,6,0,0,ITA,1.0,RADICCHI F,0 - 0,422,ITA,7:02
+5m shot - Post,8.0,6,0,0,ITA,1.0,BIANCONI R,0 - 0,395,ITA,6:35
+Action shot - Goal,10.0,6,1,0,ITA,1.0,BUJKA B,0 - 1,372,HUN,6:12
+20 sec. exclusion in centre,11.0,6,1,0,ITA,1.0,CSABAI D,0 - 1,358,HUN,5:58
+Extra player shot - Goal,8.0,6,1,1,ITA,1.0,BIANCONI R,1 - 1,342,ITA,5:42
+Turnover foul,6.0,6,1,1,ITA,1.0,TAKACS O,1 - 1,315,HUN,5:15
+Steal,1.0,6,1,1,ITA,1.0,GORLERO G,1 - 1,315,ITA,5:15
+5m shot - Saved,5.0,6,1,1,ITA,1.0,RADICCHI F,1 - 1,294,ITA,4:54
+Action shot - Saved,8.0,6,1,1,ITA,1.0,KESZTHELYI R,1 - 1,281,HUN,4:41
+20 sec. exclusion in centre,5.0,6,1,1,ITA,1.0,RADICCHI F,1 - 1,270,ITA,4:30
+Extra player shot - Goal,12.0,6,2,1,ITA,1.0,SZILAGYI D,1 - 2,250,HUN,4:10
+20 sec. exclusion in centre,8.0,6,2,1,ITA,1.0,BIANCONI R,1 - 2,210,ITA,3:30
+Action shot - Saved,10.0,6,2,1,ITA,1.0,BUJKA B,1 - 2,188,HUN,3:08
+20 sec. exclusion in centre,5.0,6,2,1,ITA,1.0,SZUCS G,1 - 2,175,HUN,2:55
 Time-Out,,6,2,1,ITA,1.0,,1 - 2,175,ITA,2:55
-5m shot - Blocked,9,6,2,1,ITA,1.0,EMMOLO G,1 - 2,146,ITA,2:26
-5m shot - Saved,8,6,2,1,ITA,1.0,KESZTHELYI R,1 - 2,117,HUN,1:57
-Action shot - Goal,3,6,3,1,ITA,1.0,ANTAL D,1 - 3,73,HUN,1:13
-Turnover foul,8,6,3,1,ITA,1.0,BIANCONI R,1 - 3,56,ITA,0:56
-Steal,7,6,3,1,ITA,1.0,ILLES A,1 - 3,56,HUN,0:56
-Turnover foul,6,6,3,1,ITA,1.0,TAKACS O,1 - 3,34,HUN,0:34
-Steal,12,6,3,1,ITA,1.0,DARIO S,1 - 3,34,ITA,0:34
-5m shot - Goal,8,6,3,2,ITA,1.0,BIANCONI R,2 - 3,13,ITA,0:13
+5m shot - Blocked,9.0,6,2,1,ITA,1.0,EMMOLO G,1 - 2,146,ITA,2:26
+5m shot - Saved,8.0,6,2,1,ITA,1.0,KESZTHELYI R,1 - 2,117,HUN,1:57
+Action shot - Goal,3.0,6,3,1,ITA,1.0,ANTAL D,1 - 3,73,HUN,1:13
+Turnover foul,8.0,6,3,1,ITA,1.0,BIANCONI R,1 - 3,56,ITA,0:56
+Steal,7.0,6,3,1,ITA,1.0,ILLES A,1 - 3,56,HUN,0:56
+Turnover foul,6.0,6,3,1,ITA,1.0,TAKACS O,1 - 3,34,HUN,0:34
+Steal,12.0,6,3,1,ITA,1.0,DARIO S,1 - 3,34,ITA,0:34
+5m shot - Goal,8.0,6,3,2,ITA,1.0,BIANCONI R,2 - 3,13,ITA,0:13
 Time-Out,,6,3,2,ITA,1.0,,2 - 3,13,HUN,0:13
-5m shot - Post,10,6,3,2,ITA,1.0,BUJKA B,2 - 3,1,HUN,0:01
-Starting goalkeeper,1,6,3,2,ITA,2.0,GORLERO G,2 - 3,480,ITA,8:00
-Starting goalkeeper,1,6,3,2,ITA,2.0,GANGL E,2 - 3,480,HUN,8:00
-Sprint won possession,8,6,3,2,ITA,2.0,BIANCONI R,2 - 3,480,ITA,8:00
-Turnover foul,6,6,3,2,ITA,2.0,AIELLO R,2 - 3,462,ITA,7:42
-Turnover foul,10,6,3,2,ITA,2.0,BUJKA B,2 - 3,448,HUN,7:28
-Turnover foul,8,6,3,2,ITA,2.0,BIANCONI R,2 - 3,423,ITA,7:03
-Steal,1,6,3,2,ITA,2.0,GANGL E,2 - 3,423,HUN,7:03
-Counter attack - Goal,8,6,4,2,ITA,2.0,KESZTHELYI R,2 - 4,415,HUN,6:55
-5m shot - Blocked,4,6,4,2,ITA,2.0,QUEIROLO E,2 - 4,393,ITA,6:33
-5m shot - Saved,2,6,4,2,ITA,2.0,CZIGANY D,2 - 4,370,HUN,6:10
-Turnover foul,4,6,4,2,ITA,2.0,GURISATTI G,2 - 4,338,HUN,5:38
-Steal,1,6,4,2,ITA,2.0,GORLERO G,2 - 4,338,ITA,5:38
-20 sec. exclusion in field,6,6,4,2,ITA,2.0,TAKACS O,2 - 4,338,HUN,5:38
+5m shot - Post,10.0,6,3,2,ITA,1.0,BUJKA B,2 - 3,1,HUN,0:01
+Starting goalkeeper,1.0,6,3,2,ITA,2.0,GORLERO G,2 - 3,480,ITA,8:00
+Starting goalkeeper,1.0,6,3,2,ITA,2.0,GANGL E,2 - 3,480,HUN,8:00
+Sprint won possession,8.0,6,3,2,ITA,2.0,BIANCONI R,2 - 3,480,ITA,8:00
+Turnover foul,6.0,6,3,2,ITA,2.0,AIELLO R,2 - 3,462,ITA,7:42
+Turnover foul,10.0,6,3,2,ITA,2.0,BUJKA B,2 - 3,448,HUN,7:28
+Turnover foul,8.0,6,3,2,ITA,2.0,BIANCONI R,2 - 3,423,ITA,7:03
+Steal,1.0,6,3,2,ITA,2.0,GANGL E,2 - 3,423,HUN,7:03
+Counter attack - Goal,8.0,6,4,2,ITA,2.0,KESZTHELYI R,2 - 4,415,HUN,6:55
+5m shot - Blocked,4.0,6,4,2,ITA,2.0,QUEIROLO E,2 - 4,393,ITA,6:33
+5m shot - Saved,2.0,6,4,2,ITA,2.0,CZIGANY D,2 - 4,370,HUN,6:10
+Turnover foul,4.0,6,4,2,ITA,2.0,GURISATTI G,2 - 4,338,HUN,5:38
+Steal,1.0,6,4,2,ITA,2.0,GORLERO G,2 - 4,338,ITA,5:38
+20 sec. exclusion in field,6.0,6,4,2,ITA,2.0,TAKACS O,2 - 4,338,HUN,5:38
 Time-Out,,6,4,2,ITA,2.0,,2 - 4,338,ITA,5:38
-Action shot - Saved,9,6,4,2,ITA,2.0,EMMOLO G,2 - 4,321,ITA,5:21
-Action shot - Goal,3,6,4,3,ITA,2.0,GARIBOTTI A,3 - 4,314,ITA,5:14
-Turnover foul,10,6,4,3,ITA,2.0,BUJKA B,3 - 4,294,HUN,4:54
-Steal,1,6,4,3,ITA,2.0,GORLERO G,3 - 4,294,ITA,4:54
-Turnover foul,3,6,4,3,ITA,2.0,GARIBOTTI A,3 - 4,274,ITA,4:34
-Steal,2,6,4,3,ITA,2.0,CZIGANY D,3 - 4,274,HUN,4:34
-20 sec. exclusion in field,8,6,4,3,ITA,2.0,BIANCONI R,3 - 4,272,ITA,4:32
+Action shot - Saved,9.0,6,4,2,ITA,2.0,EMMOLO G,2 - 4,321,ITA,5:21
+Action shot - Goal,3.0,6,4,3,ITA,2.0,GARIBOTTI A,3 - 4,314,ITA,5:14
+Turnover foul,10.0,6,4,3,ITA,2.0,BUJKA B,3 - 4,294,HUN,4:54
+Steal,1.0,6,4,3,ITA,2.0,GORLERO G,3 - 4,294,ITA,4:54
+Turnover foul,3.0,6,4,3,ITA,2.0,GARIBOTTI A,3 - 4,274,ITA,4:34
+Steal,2.0,6,4,3,ITA,2.0,CZIGANY D,3 - 4,274,HUN,4:34
+20 sec. exclusion in field,8.0,6,4,3,ITA,2.0,BIANCONI R,3 - 4,272,ITA,4:32
 Time-Out,,6,4,3,ITA,2.0,,3 - 4,271,HUN,4:31
-5m shot - Goal,8,6,5,3,ITA,2.0,KESZTHELYI R,3 - 5,249,HUN,4:09
-5m shot - Saved,11,6,5,3,ITA,2.0,COTTI A,3 - 5,224,ITA,3:44
-Turnover foul,6,6,5,3,ITA,2.0,AIELLO R,3 - 5,200,ITA,3:20
-Steal,7,6,5,3,ITA,2.0,ILLES A,3 - 5,200,HUN,3:20
-5m shot - Post,7,6,5,3,ITA,2.0,ILLES A,3 - 5,171,HUN,2:51
-Turnover foul,7,6,5,3,ITA,2.0,PICOZZI D,3 - 5,146,ITA,2:26
-Steal,8,6,5,3,ITA,2.0,KESZTHELYI R,3 - 5,146,HUN,2:26
-Turnover foul,7,6,5,3,ITA,2.0,ILLES A,3 - 5,133,HUN,2:13
-20 sec. exclusion in field,10,6,5,3,ITA,2.0,BUJKA B,3 - 5,121,HUN,2:01
-Steal,6,6,5,3,ITA,4.0,TAKACS O,3 - 5,142,HUN,2:22
-Action shot - Saved,12,6,5,3,ITA,4.0,SZILAGYI D,3 - 5,115,HUN,1:55
+5m shot - Goal,8.0,6,5,3,ITA,2.0,KESZTHELYI R,3 - 5,249,HUN,4:09
+5m shot - Saved,11.0,6,5,3,ITA,2.0,COTTI A,3 - 5,224,ITA,3:44
+Turnover foul,6.0,6,5,3,ITA,2.0,AIELLO R,3 - 5,200,ITA,3:20
+Steal,7.0,6,5,3,ITA,2.0,ILLES A,3 - 5,200,HUN,3:20
+5m shot - Post,7.0,6,5,3,ITA,2.0,ILLES A,3 - 5,171,HUN,2:51
+Turnover foul,7.0,6,5,3,ITA,2.0,PICOZZI D,3 - 5,146,ITA,2:26
+Steal,8.0,6,5,3,ITA,2.0,KESZTHELYI R,3 - 5,146,HUN,2:26
+Turnover foul,7.0,6,5,3,ITA,2.0,ILLES A,3 - 5,133,HUN,2:13
+20 sec. exclusion in field,10.0,6,5,3,ITA,2.0,BUJKA B,3 - 5,121,HUN,2:01
+Steal,6.0,6,5,3,ITA,4.0,TAKACS O,3 - 5,142,HUN,2:22
+Action shot - Saved,12.0,6,5,3,ITA,4.0,SZILAGYI D,3 - 5,115,HUN,1:55
 Time-Out,,6,5,3,ITA,4.0,,3 - 5,112,ITA,1:52
-Turnover foul,2,6,5,3,ITA,4.0,TABANI C,3 - 5,90,ITA,1:30
-Steal,12,6,5,3,ITA,4.0,SZILAGYI D,3 - 5,90,HUN,1:30
-Turnover foul,6,6,5,3,ITA,4.0,TAKACS O,3 - 5,69,HUN,1:09
-Steal,1,6,5,3,ITA,4.0,GORLERO G,3 - 5,69,ITA,1:09
+Turnover foul,2.0,6,5,3,ITA,4.0,TABANI C,3 - 5,90,ITA,1:30
+Steal,12.0,6,5,3,ITA,4.0,SZILAGYI D,3 - 5,90,HUN,1:30
+Turnover foul,6.0,6,5,3,ITA,4.0,TAKACS O,3 - 5,69,HUN,1:09
+Steal,1.0,6,5,3,ITA,4.0,GORLERO G,3 - 5,69,ITA,1:09
 Extra player shot - Goal,3.0,6,5,4,ITA,2.0,GARIBOTTI A,4 - 5,107,ITA,1:47
 Action shot - Goal,4.0,6,6,4,ITA,2.0,GURISATTI G,4 - 6,79,HUN,1:19
 5m shot - Saved,11.0,6,6,4,ITA,2.0,COTTI A,4 - 6,52,ITA,0:52
@@ -829,9 +829,9 @@ Penalty foul,7.0,6,10,7,ITA,4.0,ILLES A,7 - 10,190,HUN,3:10
 Penalty shot - Goal,8.0,6,10,8,ITA,4.0,BIANCONI R,8 - 10,190,ITA,3:10
 Action shot - Missed,2.0,6,10,8,ITA,4.0,CZIGANY D,8 - 10,159,HUN,2:39
 Turnover foul,8.0,6,10,8,ITA,4.0,BIANCONI R,8 - 10,142,ITA,2:22
-Exclusion with substitution,HUN 5,6,10,8,ITA,4.0,SZUCS G,8 - 10,66,,1:06
-20 sec. exclusion in field,HUN 5,6,10,8,ITA,4.0,SZUCS G,8 - 10,66,,1:06
-5m shot - Saved,ITA 8,6,10,8,ITA,4.0,BIANCONI R,8 - 10,44,,0:44
-Time-Out,HUN,6,10,8,ITA,4.0,,8 - 10,24,,0:24
-20 sec. exclusion in field,HUN 11,6,10,8,ITA,4.0,CSABAI D,8 - 10,4,,0:04
-Exclusion with substitution,HUN 11,6,10,8,ITA,4.0,CSABAI D,8 - 10,4,,0:04
+Exclusion with substitution,5.0,6,10,8,ITA,4.0,SZUCS G,8 - 10,66,HUN,1:06
+20 sec. exclusion in field,5.0,6,10,8,ITA,4.0,SZUCS G,8 - 10,66,HUN,1:06
+5m shot - Saved,8.0,6,10,8,ITA,4.0,BIANCONI R,8 - 10,44,ITA,0:44
+Time-Out,,6,10,8,ITA,4.0,,8 - 10,24,HUN,0:24
+20 sec. exclusion in field,11.0,6,10,8,ITA,4.0,CSABAI D,8 - 10,4,HUN,0:04
+Exclusion with substitution,11.0,6,10,8,ITA,4.0,CSABAI D,8 - 10,4,HUN,0:04

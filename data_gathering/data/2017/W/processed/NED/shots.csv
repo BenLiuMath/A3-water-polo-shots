@@ -78,15 +78,15 @@ Centre shot,6.0,2,8,1,JPN,2.0,STOMPHORST N,1 - 8,338,NED,5:38,Saved,0
 5m shot,11.0,2,8,2,JPN,2.0,TOKUMOTO M,2 - 8,321,JPN,5:21,Goal,1
 5m shot,12.0,2,8,2,JPN,2.0,SUZUKI K,2 - 8,279,JPN,4:39,Missed,0
 Extra player shot,6.0,2,8,2,JPN,2.0,STOMPHORST N,2 - 8,245,NED,4:05,Missed,0
-5m shot,,2,,JPN,JPN,3.0,NORO M,JPN,1,10,0:01,Saved,0
-Extra player shot,,2,,NED,JPN,4.0,SMIT Y,NED,448,2,7:28,Blocked,0
-Action shot,,2,,JPN,JPN,4.0,ARIMA Y,JPN,433,2,7:13,Blocked,0
-Action shot,,2,16 NED,7,JPN,4.0,MEGENS M,7 - 16 NED,420,9,7:00,Goal,1
-Extra player shot,,2,16 JPN,8,JPN,4.0,YAMAMOTO M,8 - 16 JPN,388,6,6:28,Goal,1
-Centre shot,,2,17 NED,8,JPN,4.0,SEVENICH V,8 - 17 NED,372,8,6:12,Goal,1
-Action shot,,2,,JPN,JPN,4.0,SAKANOUE C,JPN,343,5,5:43,Blocked,0
-Action shot,,2,,NED,JPN,4.0,MEGENS M,NED,300,9,5:00,Post,0
-5m shot,,2,,JPN,JPN,4.0,SAKANOUE C,JPN,267,5,4:27,Post,0
+5m shot,10.0,2,8,2,JPN,3.0,NORO M,2 - 8,1,JPN,0:01,Saved,0
+Extra player shot,2.0,2,8,2,JPN,4.0,SMIT Y,2 - 8,448,NED,7:28,Blocked,0
+Action shot,2.0,2,8,2,JPN,4.0,ARIMA Y,2 - 8,433,JPN,7:13,Blocked,0
+Action shot,9.0,2,16,7,JPN,4.0,MEGENS M,7 - 16,420,NED,7:00,Goal,1
+Extra player shot,6.0,2,16,8,JPN,4.0,YAMAMOTO M,8 - 16,388,JPN,6:28,Goal,1
+Centre shot,8.0,2,17,8,JPN,4.0,SEVENICH V,8 - 17,372,NED,6:12,Goal,1
+Action shot,5.0,2,17,8,JPN,4.0,SAKANOUE C,8 - 17,343,JPN,5:43,Blocked,0
+Action shot,9.0,2,17,8,JPN,4.0,MEGENS M,8 - 17,300,NED,5:00,Post,0
+5m shot,5.0,2,17,8,JPN,4.0,SAKANOUE C,8 - 17,267,JPN,4:27,Post,0
 Penalty shot,12.0,2,8,3,JPN,2.0,SUZUKI K,3 - 8,242,JPN,4:02,Goal,1
 Centre shot,8.0,2,9,3,JPN,2.0,SEVENICH V,3 - 9,220,NED,3:40,Goal,1
 Counter attack,2.0,2,9,4,JPN,2.0,ARIMA Y,4 - 9,167,JPN,2:47,Goal,1
@@ -172,41 +172,41 @@ Extra player shot,5.0,3,5,7,HUN,4.0,GENEE A,5 - 7,407,NED,6:47,Saved,0
 Penalty shot,8.0,3,5,8,HUN,4.0,KESZTHELYI R,5 - 8,332,HUN,5:32,Goal,1
 Centre shot,10.0,3,5,8,HUN,4.0,BUJKA B,5 - 8,301,HUN,5:01,Saved,0
 Extra player shot,4.0,3,5,8,HUN,4.0,van der SLOOT S,5 - 8,277,NED,4:37,Saved,0
-Penalty shot,,3,7,10 HUN,HUN,4.0,KESZTHELYI R,7 - 10 HUN,82,8,1:22,Goal,1
-Extra player shot,,3,8,10 NED,HUN,4.0,van der SLOOT S,8 - 10 NED,63,4,1:03,Goal,1
-5m shot,,3,NED,,HUN,4.0,van der SLOOT S,NED,15,4,0:15,Saved,0
-Action shot,3,4,0,1,RUS,1.0,PROKOFYEVA E,0 - 1,451,RUS,7:31,Goal,1
-Extra player shot,6,4,1,1,RUS,1.0,STOMPHORST N,1 - 1,417,NED,6:57,Goal,1
-Action shot,6,4,1,1,RUS,1.0,GORBUNOVA O,1 - 1,390,RUS,6:30,Missed,0
-5m shot,10,4,1,1,RUS,1.0,TOLKUNOVA T,1 - 1,333,RUS,5:33,Missed,0
-Extra player shot,9,4,1,1,RUS,1.0,MEGENS M,1 - 1,302,NED,5:02,Missed,0
-Action shot,12,4,1,2,RUS,1.0,RYZHKOVA D,1 - 2,277,RUS,4:37,Goal,1
-5m shot,2,4,1,2,RUS,1.0,SMIT Y,1 - 2,258,NED,4:18,Missed,0
-Centre shot,9,4,1,3,RUS,1.0,TIMOFEEVA A,1 - 3,238,RUS,3:58,Goal,1
-5m shot,9,4,1,3,RUS,1.0,MEGENS M,1 - 3,217,NED,3:37,Blocked,0
-Extra player shot,12,4,1,4,RUS,1.0,RYZHKOVA D,1 - 4,172,RUS,2:52,Goal,1
-5m shot,3,4,1,4,RUS,1.0,PROKOFYEVA E,1 - 4,127,RUS,2:07,Missed,0
-Penalty shot,4,4,2,4,RUS,1.0,van der SLOOT S,2 - 4,114,NED,1:54,Goal,1
-Action shot,11,4,2,4,RUS,1.0,IVANOVA E,2 - 4,85,RUS,1:25,Post,0
-Action shot,6,4,2,4,RUS,1.0,GORBUNOVA O,2 - 4,33,RUS,0:33,Post,0
-Centre shot,4,4,2,4,RUS,1.0,van der SLOOT S,2 - 4,10,NED,0:10,Missed,0
-5m shot,3,4,2,5,RUS,2.0,PROKOFYEVA E,2 - 5,457,RUS,7:37,Goal,1
-Centre shot,8,4,2,5,RUS,2.0,SEVENICH V,2 - 5,440,NED,7:20,Missed,0
-Action shot,6,4,2,6,RUS,2.0,GORBUNOVA O,2 - 6,426,RUS,7:06,Goal,1
-5m shot,11,4,2,6,RUS,2.0,KLAASSEN L,2 - 6,405,NED,6:45,Post,0
-Extra player shot,8,4,3,6,RUS,2.0,SEVENICH V,3 - 6,372,NED,6:12,Goal,1
-Action shot,4,4,3,6,RUS,2.0,KARIMOVA E,3 - 6,349,RUS,5:49,Saved,0
-Action shot,9,4,3,6,RUS,2.0,MEGENS M,3 - 6,327,NED,5:27,Blocked,0
-Extra player shot,3,4,3,7,RUS,2.0,PROKOFYEVA E,3 - 7,294,RUS,4:54,Goal,1
-Extra player shot,6,4,4,7,RUS,2.0,STOMPHORST N,4 - 7,267,NED,4:27,Goal,1
-Extra player shot,11,4,4,7,RUS,2.0,IVANOVA E,4 - 7,230,RUS,3:50,Post,0
-Counter attack,4,4,5,7,RUS,2.0,van der SLOOT S,5 - 7,218,NED,3:38,Goal,1
-Action shot,4,4,5,7,RUS,2.0,KARIMOVA E,5 - 7,196,RUS,3:16,Saved,0
-Action shot,4,4,5,7,RUS,2.0,KARIMOVA E,5 - 7,170,RUS,2:50,Missed,0
-5m shot,10,4,5,7,RUS,2.0,KOOLHAAS I,5 - 7,142,NED,2:22,Blocked,0
-Centre shot,9,4,5,7,RUS,2.0,TIMOFEEVA A,5 - 7,118,RUS,1:58,Saved,0
-5m shot,10,4,5,7,RUS,4.0,TOLKUNOVA T,5 - 7,176,RUS,2:56,Saved,0
-Extra player shot,2,4,5,7,RUS,4.0,SMIT Y,5 - 7,131,NED,2:11,Post,0
+Penalty shot,8.0,3,7,10,HUN,4.0,KESZTHELYI R,7 - 10,82,HUN,1:22,Goal,1
+Extra player shot,4.0,3,8,10,HUN,4.0,van der SLOOT S,8 - 10,63,NED,1:03,Goal,1
+5m shot,4.0,3,8,10,HUN,4.0,van der SLOOT S,8 - 10,15,NED,0:15,Saved,0
+Action shot,3.0,4,0,1,RUS,1.0,PROKOFYEVA E,0 - 1,451,RUS,7:31,Goal,1
+Extra player shot,6.0,4,1,1,RUS,1.0,STOMPHORST N,1 - 1,417,NED,6:57,Goal,1
+Action shot,6.0,4,1,1,RUS,1.0,GORBUNOVA O,1 - 1,390,RUS,6:30,Missed,0
+5m shot,10.0,4,1,1,RUS,1.0,TOLKUNOVA T,1 - 1,333,RUS,5:33,Missed,0
+Extra player shot,9.0,4,1,1,RUS,1.0,MEGENS M,1 - 1,302,NED,5:02,Missed,0
+Action shot,12.0,4,1,2,RUS,1.0,RYZHKOVA D,1 - 2,277,RUS,4:37,Goal,1
+5m shot,2.0,4,1,2,RUS,1.0,SMIT Y,1 - 2,258,NED,4:18,Missed,0
+Centre shot,9.0,4,1,3,RUS,1.0,TIMOFEEVA A,1 - 3,238,RUS,3:58,Goal,1
+5m shot,9.0,4,1,3,RUS,1.0,MEGENS M,1 - 3,217,NED,3:37,Blocked,0
+Extra player shot,12.0,4,1,4,RUS,1.0,RYZHKOVA D,1 - 4,172,RUS,2:52,Goal,1
+5m shot,3.0,4,1,4,RUS,1.0,PROKOFYEVA E,1 - 4,127,RUS,2:07,Missed,0
+Penalty shot,4.0,4,2,4,RUS,1.0,van der SLOOT S,2 - 4,114,NED,1:54,Goal,1
+Action shot,11.0,4,2,4,RUS,1.0,IVANOVA E,2 - 4,85,RUS,1:25,Post,0
+Action shot,6.0,4,2,4,RUS,1.0,GORBUNOVA O,2 - 4,33,RUS,0:33,Post,0
+Centre shot,4.0,4,2,4,RUS,1.0,van der SLOOT S,2 - 4,10,NED,0:10,Missed,0
+5m shot,3.0,4,2,5,RUS,2.0,PROKOFYEVA E,2 - 5,457,RUS,7:37,Goal,1
+Centre shot,8.0,4,2,5,RUS,2.0,SEVENICH V,2 - 5,440,NED,7:20,Missed,0
+Action shot,6.0,4,2,6,RUS,2.0,GORBUNOVA O,2 - 6,426,RUS,7:06,Goal,1
+5m shot,11.0,4,2,6,RUS,2.0,KLAASSEN L,2 - 6,405,NED,6:45,Post,0
+Extra player shot,8.0,4,3,6,RUS,2.0,SEVENICH V,3 - 6,372,NED,6:12,Goal,1
+Action shot,4.0,4,3,6,RUS,2.0,KARIMOVA E,3 - 6,349,RUS,5:49,Saved,0
+Action shot,9.0,4,3,6,RUS,2.0,MEGENS M,3 - 6,327,NED,5:27,Blocked,0
+Extra player shot,3.0,4,3,7,RUS,2.0,PROKOFYEVA E,3 - 7,294,RUS,4:54,Goal,1
+Extra player shot,6.0,4,4,7,RUS,2.0,STOMPHORST N,4 - 7,267,NED,4:27,Goal,1
+Extra player shot,11.0,4,4,7,RUS,2.0,IVANOVA E,4 - 7,230,RUS,3:50,Post,0
+Counter attack,4.0,4,5,7,RUS,2.0,van der SLOOT S,5 - 7,218,NED,3:38,Goal,1
+Action shot,4.0,4,5,7,RUS,2.0,KARIMOVA E,5 - 7,196,RUS,3:16,Saved,0
+Action shot,4.0,4,5,7,RUS,2.0,KARIMOVA E,5 - 7,170,RUS,2:50,Missed,0
+5m shot,10.0,4,5,7,RUS,2.0,KOOLHAAS I,5 - 7,142,NED,2:22,Blocked,0
+Centre shot,9.0,4,5,7,RUS,2.0,TIMOFEEVA A,5 - 7,118,RUS,1:58,Saved,0
+5m shot,10.0,4,5,7,RUS,4.0,TOLKUNOVA T,5 - 7,176,RUS,2:56,Saved,0
+Extra player shot,2.0,4,5,7,RUS,4.0,SMIT Y,5 - 7,131,NED,2:11,Post,0
 5m shot,12.0,4,5,7,RUS,2.0,RYZHKOVA D,5 - 7,62,RUS,1:02,Missed,0
 Action shot,11.0,4,6,7,RUS,2.0,KLAASSEN L,6 - 7,31,NED,0:31,Goal,1
 Action shot,2.0,4,6,7,RUS,2.0,VAKHITOVA V,6 - 7,7,RUS,0:07,Saved,0
@@ -235,43 +235,43 @@ Penalty shot,11.0,4,9,10,RUS,4.0,KLAASSEN L,9 - 10,328,NED,5:28,Goal,1
 Extra player shot,4.0,4,9,11,RUS,4.0,KARIMOVA E,9 - 11,236,RUS,3:56,Goal,1
 Extra player shot,3.0,4,9,11,RUS,4.0,GENEE D,9 - 11,208,NED,3:28,Saved,0
 Action shot,9.0,4,10,11,RUS,4.0,MEGENS M,10 - 11,200,NED,3:20,Goal,1
-Action shot,RUS 12,4,10,11,RUS,4.0,RYZHKOVA D,10 - 11,52,,0:52,Saved,0
-5m shot,NED 11,4,10,11,RUS,4.0,KLAASSEN L,10 - 11,6,,0:06,Missed,0
-Penalty shot,9,5,1,0,NZL,1.0,MEGENS M,0 - 1,457,NED,7:37,Goal,1
-Action shot,9,5,1,0,NZL,1.0,STONEMAN E,0 - 1,427,NZL,7:07,Missed,0
-Centre shot,7,5,2,0,NZL,1.0,NIJHUIS M,0 - 2,361,NED,6:01,Goal,1
-Action shot,11,5,2,0,NZL,1.0,HUDSON K,0 - 2,340,NZL,5:40,Saved,0
-Action shot,9,5,2,0,NZL,1.0,STONEMAN E,0 - 2,327,NZL,5:27,Post,0
-5m shot,9,5,3,0,NZL,1.0,MEGENS M,0 - 3,317,NED,5:17,Goal,1
-Action shot,11,5,3,0,NZL,1.0,HUDSON K,0 - 3,289,NZL,4:49,Saved,0
-Action shot,11,5,4,0,NZL,1.0,KLAASSEN L,0 - 4,273,NED,4:33,Goal,1
-Action shot,8,5,4,0,NZL,1.0,LOPES da SILVA C,0 - 4,232,NZL,3:52,Saved,0
-Extra player shot,6,5,5,0,NZL,1.0,STOMPHORST N,0 - 5,200,NED,3:20,Goal,1
-Extra player shot,7,5,5,1,NZL,1.0,HOUGHTON E,1 - 5,175,NZL,2:55,Goal,1
-5m shot,10,5,5,1,NZL,1.0,KOOLHAAS I,1 - 5,145,NED,2:25,Post,0
-Extra player shot,8,5,5,1,NZL,1.0,LOPES da SILVA C,1 - 5,120,NZL,2:00,Saved,0
-5m shot,11,5,5,1,NZL,1.0,KLAASSEN L,1 - 5,106,NED,1:46,Post,0
-5m shot,4,5,5,1,NZL,1.0,FERIGO R,1 - 5,18,NZL,0:18,Saved,0
-Counter attack,10,5,5,1,NZL,1.0,KOOLHAAS I,1 - 5,7,NED,0:07,Saved,0
-Action shot,7,5,5,1,NZL,2.0,HOUGHTON E,1 - 5,432,NZL,7:12,Saved,0
-Action shot,7,5,5,1,NZL,2.0,HOUGHTON E,1 - 5,417,NZL,6:57,Saved,0
-5m shot,7,5,5,1,NZL,2.0,NIJHUIS M,1 - 5,401,NED,6:41,Post,0
-5m shot,7,5,5,1,NZL,2.0,HOUGHTON E,1 - 5,372,NZL,6:12,Blocked,0
-Centre shot,6,5,6,1,NZL,2.0,STOMPHORST N,1 - 6,353,NED,5:53,Goal,1
-5m shot,12,5,6,1,NZL,2.0,PYE B,1 - 6,332,NZL,5:32,Saved,0
-Extra player shot,6,5,7,1,NZL,2.0,STOMPHORST N,1 - 7,306,NED,5:06,Goal,1
-5m shot,5,5,7,2,NZL,2.0,BOYD A,2 - 7,289,NZL,4:49,Goal,1
-Extra player shot,3,5,8,2,NZL,2.0,GENEE D,2 - 8,274,NED,4:34,Goal,1
-5m shot,6,5,8,2,NZL,2.0,DOYLE B,2 - 8,247,NZL,4:07,Saved,0
-Action shot,5,5,9,2,NZL,2.0,GENEE A,2 - 9,233,NED,3:53,Goal,1
-Extra player shot,2,5,9,2,NZL,2.0,LEWIS N,2 - 9,112,NZL,1:52,Saved,0
-5m shot,3,5,9,2,NZL,2.0,MASON K,2 - 9,102,NZL,1:42,Post,0
-5m shot,8,5,9,2,NZL,2.0,LOPES da SILVA C,2 - 9,50,NZL,0:50,Saved,0
-Action shot,,5,,NZL,NZL,4.0,STONEMAN E,NZL,174,9,2:54,Post,0
-Action shot,,5,18 NED,4,NZL,4.0,GENEE A,4 - 18 NED,149,5,2:29,Goal,1
-5m shot,,5,,NZL,NZL,4.0,MASON K,NZL,121,3,2:01,Missed,0
-5m shot,,5,19 NED,4,NZL,4.0,KLAASSEN L,4 - 19 NED,110,11,1:50,Goal,1
-5m shot,,5,,NZL,NZL,4.0,LOPES da SILVA C,NZL,88,8,1:28,Saved,0
+Action shot,12.0,4,10,11,RUS,4.0,RYZHKOVA D,10 - 11,52,RUS,0:52,Saved,0
+5m shot,11.0,4,10,11,RUS,4.0,KLAASSEN L,10 - 11,6,NED,0:06,Missed,0
+Penalty shot,9.0,5,1,0,NZL,1.0,MEGENS M,0 - 1,457,NED,7:37,Goal,1
+Action shot,9.0,5,1,0,NZL,1.0,STONEMAN E,0 - 1,427,NZL,7:07,Missed,0
+Centre shot,7.0,5,2,0,NZL,1.0,NIJHUIS M,0 - 2,361,NED,6:01,Goal,1
+Action shot,11.0,5,2,0,NZL,1.0,HUDSON K,0 - 2,340,NZL,5:40,Saved,0
+Action shot,9.0,5,2,0,NZL,1.0,STONEMAN E,0 - 2,327,NZL,5:27,Post,0
+5m shot,9.0,5,3,0,NZL,1.0,MEGENS M,0 - 3,317,NED,5:17,Goal,1
+Action shot,11.0,5,3,0,NZL,1.0,HUDSON K,0 - 3,289,NZL,4:49,Saved,0
+Action shot,11.0,5,4,0,NZL,1.0,KLAASSEN L,0 - 4,273,NED,4:33,Goal,1
+Action shot,8.0,5,4,0,NZL,1.0,LOPES da SILVA C,0 - 4,232,NZL,3:52,Saved,0
+Extra player shot,6.0,5,5,0,NZL,1.0,STOMPHORST N,0 - 5,200,NED,3:20,Goal,1
+Extra player shot,7.0,5,5,1,NZL,1.0,HOUGHTON E,1 - 5,175,NZL,2:55,Goal,1
+5m shot,10.0,5,5,1,NZL,1.0,KOOLHAAS I,1 - 5,145,NED,2:25,Post,0
+Extra player shot,8.0,5,5,1,NZL,1.0,LOPES da SILVA C,1 - 5,120,NZL,2:00,Saved,0
+5m shot,11.0,5,5,1,NZL,1.0,KLAASSEN L,1 - 5,106,NED,1:46,Post,0
+5m shot,4.0,5,5,1,NZL,1.0,FERIGO R,1 - 5,18,NZL,0:18,Saved,0
+Counter attack,10.0,5,5,1,NZL,1.0,KOOLHAAS I,1 - 5,7,NED,0:07,Saved,0
+Action shot,7.0,5,5,1,NZL,2.0,HOUGHTON E,1 - 5,432,NZL,7:12,Saved,0
+Action shot,7.0,5,5,1,NZL,2.0,HOUGHTON E,1 - 5,417,NZL,6:57,Saved,0
+5m shot,7.0,5,5,1,NZL,2.0,NIJHUIS M,1 - 5,401,NED,6:41,Post,0
+5m shot,7.0,5,5,1,NZL,2.0,HOUGHTON E,1 - 5,372,NZL,6:12,Blocked,0
+Centre shot,6.0,5,6,1,NZL,2.0,STOMPHORST N,1 - 6,353,NED,5:53,Goal,1
+5m shot,12.0,5,6,1,NZL,2.0,PYE B,1 - 6,332,NZL,5:32,Saved,0
+Extra player shot,6.0,5,7,1,NZL,2.0,STOMPHORST N,1 - 7,306,NED,5:06,Goal,1
+5m shot,5.0,5,7,2,NZL,2.0,BOYD A,2 - 7,289,NZL,4:49,Goal,1
+Extra player shot,3.0,5,8,2,NZL,2.0,GENEE D,2 - 8,274,NED,4:34,Goal,1
+5m shot,6.0,5,8,2,NZL,2.0,DOYLE B,2 - 8,247,NZL,4:07,Saved,0
+Action shot,5.0,5,9,2,NZL,2.0,GENEE A,2 - 9,233,NED,3:53,Goal,1
+Extra player shot,2.0,5,9,2,NZL,2.0,LEWIS N,2 - 9,112,NZL,1:52,Saved,0
+5m shot,3.0,5,9,2,NZL,2.0,MASON K,2 - 9,102,NZL,1:42,Post,0
+5m shot,8.0,5,9,2,NZL,2.0,LOPES da SILVA C,2 - 9,50,NZL,0:50,Saved,0
+Action shot,9.0,5,9,2,NZL,4.0,STONEMAN E,2 - 9,174,NZL,2:54,Post,0
+Action shot,5.0,5,18,4,NZL,4.0,GENEE A,4 - 18,149,NED,2:29,Goal,1
+5m shot,3.0,5,18,4,NZL,4.0,MASON K,4 - 18,121,NZL,2:01,Missed,0
+5m shot,11.0,5,19,4,NZL,4.0,KLAASSEN L,4 - 19,110,NED,1:50,Goal,1
+5m shot,8.0,5,19,4,NZL,4.0,LOPES da SILVA C,4 - 19,88,NZL,1:28,Saved,0
 Action shot,8.0,5,10,2,NZL,2.0,SEVENICH V,2 - 10,34,NED,0:34,Goal,1
 Extra player shot,3.0,5,11,2,NZL,2.0,GENEE D,2 - 11,7,NED,0:07,Goal,1
 5m shot,11.0,5,11,2,NZL,3.0,KLAASSEN L,2 - 11,464,NED,7:44,Blocked,0

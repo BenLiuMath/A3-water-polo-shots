@@ -14,12 +14,12 @@ Counter attack,8.0,1,6,1,JPN,2.0,KESZTHELYI R,1 - 6,437,HUN,7:17,Goal,1
 Centre shot,12.0,1,6,1,JPN,2.0,SZILAGYI D,1 - 6,403,HUN,6:43,Saved,0
 Action shot,2.0,1,6,1,JPN,2.0,ARIMA Y,1 - 6,382,JPN,6:22,Blocked,0
 Centre shot,10.0,1,6,1,JPN,2.0,BUJKA B,1 - 6,353,HUN,5:53,Saved,0
-Action shot,,1,17 JPN,7,JPN,4.0,YAMAMOTO M,7 - 17 JPN,438,6,7:18,Goal,1
-Action shot,,1,17 JPN,8,JPN,4.0,INABA A,8 - 17 JPN,404,7,6:44,Goal,1
-Extra player shot,,1,18 HUN,8,JPN,4.0,KESZTHELYI R,8 - 18 HUN,366,8,6:06,Goal,1
-5m shot,,1,,JPN,JPN,4.0,SAKANOUE C,JPN,302,5,5:02,Saved,0
-5m shot,,1,19 HUN,8,JPN,4.0,TOTH I,8 - 19 HUN,277,9,4:37,Goal,1
-Action shot,,1,19 JPN,9,JPN,4.0,ARIMA Y,9 - 19 JPN,257,2,4:17,Goal,1
+Action shot,6.0,1,17,7,JPN,4.0,YAMAMOTO M,7 - 17,438,JPN,7:18,Goal,1
+Action shot,7.0,1,17,8,JPN,4.0,INABA A,8 - 17,404,JPN,6:44,Goal,1
+Extra player shot,8.0,1,18,8,JPN,4.0,KESZTHELYI R,8 - 18,366,HUN,6:06,Goal,1
+5m shot,5.0,1,18,8,JPN,4.0,SAKANOUE C,8 - 18,302,JPN,5:02,Saved,0
+5m shot,9.0,1,19,8,JPN,4.0,TOTH I,8 - 19,277,HUN,4:37,Goal,1
+Action shot,2.0,1,19,9,JPN,4.0,ARIMA Y,9 - 19,257,JPN,4:17,Goal,1
 Extra player shot,2.0,1,6,2,JPN,2.0,ARIMA Y,2 - 6,309,JPN,5:09,Goal,1
 Centre shot,2.0,1,7,2,JPN,2.0,CZIGANY D,2 - 7,291,HUN,4:51,Goal,1
 Centre shot,7.0,1,7,2,JPN,2.0,INABA A,2 - 7,253,JPN,4:13,Blocked,0
@@ -161,9 +161,9 @@ Extra player shot,5.0,3,7,5,NED,4.0,GENEE A,5 - 7,407,NED,6:47,Saved,0
 Penalty shot,8.0,3,8,5,NED,4.0,KESZTHELYI R,5 - 8,332,HUN,5:32,Goal,1
 Centre shot,10.0,3,8,5,NED,4.0,BUJKA B,5 - 8,301,HUN,5:01,Saved,0
 Extra player shot,4.0,3,8,5,NED,4.0,van der SLOOT S,5 - 8,277,NED,4:37,Saved,0
-Penalty shot,,3,10 HUN,7,NED,4.0,KESZTHELYI R,7 - 10 HUN,82,8,1:22,Goal,1
-Extra player shot,,3,10 NED,8,NED,4.0,van der SLOOT S,8 - 10 NED,63,4,1:03,Goal,1
-5m shot,,3,,NED,NED,4.0,van der SLOOT S,NED,15,4,0:15,Saved,0
+Penalty shot,8.0,3,10,7,NED,4.0,KESZTHELYI R,7 - 10,82,HUN,1:22,Goal,1
+Extra player shot,4.0,3,10,8,NED,4.0,van der SLOOT S,8 - 10,63,NED,1:03,Goal,1
+5m shot,4.0,3,10,8,NED,4.0,van der SLOOT S,8 - 10,15,NED,0:15,Saved,0
 Extra player shot,5.0,4,0,1,CAN,1.0,EGGENS M,0 - 1,431,CAN,7:11,Goal,1
 Action shot,11.0,4,0,1,CAN,1.0,CSABAI D,0 - 1,418,HUN,6:58,Post,0
 Action shot,11.0,4,0,1,CAN,1.0,CSABAI D,0 - 1,408,HUN,6:48,Missed,0
@@ -278,28 +278,28 @@ Action shot,8.0,5,10,8,GRE,4.0,KESZTHELYI R,10 - 8,197,HUN,3:17,Goal,1
 5m shot,10.0,5,10,8,GRE,4.0,MANOLIOUDAKI T,10 - 8,43,GRE,0:43,Missed,0
 5m shot,8.0,5,10,8,GRE,4.0,KESZTHELYI R,10 - 8,16,HUN,0:16,Blocked,0
 5m shot,4.0,5,10,8,GRE,4.0,ELEFTHERIADOU N,10 - 8,1,GRE,0:01,Blocked,0
-5m shot,5,6,0,0,ITA,1.0,RADICCHI F,0 - 0,451,ITA,7:31,Saved,0
-5m shot,8,6,0,0,ITA,1.0,BIANCONI R,0 - 0,395,ITA,6:35,Post,0
-Action shot,10,6,1,0,ITA,1.0,BUJKA B,0 - 1,372,HUN,6:12,Goal,1
-Extra player shot,8,6,1,1,ITA,1.0,BIANCONI R,1 - 1,342,ITA,5:42,Goal,1
-5m shot,5,6,1,1,ITA,1.0,RADICCHI F,1 - 1,294,ITA,4:54,Saved,0
-Action shot,8,6,1,1,ITA,1.0,KESZTHELYI R,1 - 1,281,HUN,4:41,Saved,0
-Extra player shot,12,6,2,1,ITA,1.0,SZILAGYI D,1 - 2,250,HUN,4:10,Goal,1
-Action shot,10,6,2,1,ITA,1.0,BUJKA B,1 - 2,188,HUN,3:08,Saved,0
-5m shot,9,6,2,1,ITA,1.0,EMMOLO G,1 - 2,146,ITA,2:26,Blocked,0
-5m shot,8,6,2,1,ITA,1.0,KESZTHELYI R,1 - 2,117,HUN,1:57,Saved,0
-Action shot,3,6,3,1,ITA,1.0,ANTAL D,1 - 3,73,HUN,1:13,Goal,1
-5m shot,8,6,3,2,ITA,1.0,BIANCONI R,2 - 3,13,ITA,0:13,Goal,1
-5m shot,10,6,3,2,ITA,1.0,BUJKA B,2 - 3,1,HUN,0:01,Post,0
-Counter attack,8,6,4,2,ITA,2.0,KESZTHELYI R,2 - 4,415,HUN,6:55,Goal,1
-5m shot,4,6,4,2,ITA,2.0,QUEIROLO E,2 - 4,393,ITA,6:33,Blocked,0
-5m shot,2,6,4,2,ITA,2.0,CZIGANY D,2 - 4,370,HUN,6:10,Saved,0
-Action shot,9,6,4,2,ITA,2.0,EMMOLO G,2 - 4,321,ITA,5:21,Saved,0
-Action shot,3,6,4,3,ITA,2.0,GARIBOTTI A,3 - 4,314,ITA,5:14,Goal,1
-5m shot,8,6,5,3,ITA,2.0,KESZTHELYI R,3 - 5,249,HUN,4:09,Goal,1
-5m shot,11,6,5,3,ITA,2.0,COTTI A,3 - 5,224,ITA,3:44,Saved,0
-5m shot,7,6,5,3,ITA,2.0,ILLES A,3 - 5,171,HUN,2:51,Post,0
-Action shot,12,6,5,3,ITA,4.0,SZILAGYI D,3 - 5,115,HUN,1:55,Saved,0
+5m shot,5.0,6,0,0,ITA,1.0,RADICCHI F,0 - 0,451,ITA,7:31,Saved,0
+5m shot,8.0,6,0,0,ITA,1.0,BIANCONI R,0 - 0,395,ITA,6:35,Post,0
+Action shot,10.0,6,1,0,ITA,1.0,BUJKA B,0 - 1,372,HUN,6:12,Goal,1
+Extra player shot,8.0,6,1,1,ITA,1.0,BIANCONI R,1 - 1,342,ITA,5:42,Goal,1
+5m shot,5.0,6,1,1,ITA,1.0,RADICCHI F,1 - 1,294,ITA,4:54,Saved,0
+Action shot,8.0,6,1,1,ITA,1.0,KESZTHELYI R,1 - 1,281,HUN,4:41,Saved,0
+Extra player shot,12.0,6,2,1,ITA,1.0,SZILAGYI D,1 - 2,250,HUN,4:10,Goal,1
+Action shot,10.0,6,2,1,ITA,1.0,BUJKA B,1 - 2,188,HUN,3:08,Saved,0
+5m shot,9.0,6,2,1,ITA,1.0,EMMOLO G,1 - 2,146,ITA,2:26,Blocked,0
+5m shot,8.0,6,2,1,ITA,1.0,KESZTHELYI R,1 - 2,117,HUN,1:57,Saved,0
+Action shot,3.0,6,3,1,ITA,1.0,ANTAL D,1 - 3,73,HUN,1:13,Goal,1
+5m shot,8.0,6,3,2,ITA,1.0,BIANCONI R,2 - 3,13,ITA,0:13,Goal,1
+5m shot,10.0,6,3,2,ITA,1.0,BUJKA B,2 - 3,1,HUN,0:01,Post,0
+Counter attack,8.0,6,4,2,ITA,2.0,KESZTHELYI R,2 - 4,415,HUN,6:55,Goal,1
+5m shot,4.0,6,4,2,ITA,2.0,QUEIROLO E,2 - 4,393,ITA,6:33,Blocked,0
+5m shot,2.0,6,4,2,ITA,2.0,CZIGANY D,2 - 4,370,HUN,6:10,Saved,0
+Action shot,9.0,6,4,2,ITA,2.0,EMMOLO G,2 - 4,321,ITA,5:21,Saved,0
+Action shot,3.0,6,4,3,ITA,2.0,GARIBOTTI A,3 - 4,314,ITA,5:14,Goal,1
+5m shot,8.0,6,5,3,ITA,2.0,KESZTHELYI R,3 - 5,249,HUN,4:09,Goal,1
+5m shot,11.0,6,5,3,ITA,2.0,COTTI A,3 - 5,224,ITA,3:44,Saved,0
+5m shot,7.0,6,5,3,ITA,2.0,ILLES A,3 - 5,171,HUN,2:51,Post,0
+Action shot,12.0,6,5,3,ITA,4.0,SZILAGYI D,3 - 5,115,HUN,1:55,Saved,0
 Extra player shot,3.0,6,5,4,ITA,2.0,GARIBOTTI A,4 - 5,107,ITA,1:47,Goal,1
 Action shot,4.0,6,6,4,ITA,2.0,GURISATTI G,4 - 6,79,HUN,1:19,Goal,1
 5m shot,11.0,6,6,4,ITA,2.0,COTTI A,4 - 6,52,ITA,0:52,Saved,0
@@ -332,4 +332,4 @@ Extra player shot,7.0,6,10,7,ITA,4.0,PICOZZI D,7 - 10,242,ITA,4:02,Saved,0
 5m shot,2.0,6,10,7,ITA,4.0,CZIGANY D,7 - 10,198,HUN,3:18,Missed,0
 Penalty shot,8.0,6,10,8,ITA,4.0,BIANCONI R,8 - 10,190,ITA,3:10,Goal,1
 Action shot,2.0,6,10,8,ITA,4.0,CZIGANY D,8 - 10,159,HUN,2:39,Missed,0
-5m shot,ITA 8,6,10,8,ITA,4.0,BIANCONI R,8 - 10,44,,0:44,Saved,0
+5m shot,8.0,6,10,8,ITA,4.0,BIANCONI R,8 - 10,44,ITA,0:44,Saved,0
