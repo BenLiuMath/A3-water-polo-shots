@@ -81,6 +81,151 @@ p { margin: 0 0 10px 0; }
   color: #ce3333;
 }
   </style>
+<style>
+body {
+  font: 11px sans-serif;
+  font-family: Tahoma;
+  margin:0px;
+}
+
+#sidebar h1{
+  font-size: 14pt;
+}
+
+.axis {
+  font-size:10pt;
+}
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+.axisLabel {
+	font-size:12pt;
+	fill: black;
+	opacity: 1.0;
+}
+
+/* Shot Icons */
+.shotIcon {
+	shape-rendering: geometricPrecision;
+	stroke-width:1.5px;
+}
+.shotIconFocalTeam {
+    stroke:#4056a1;
+    fill:#4056a1;
+}
+.shotIconOpponentTeam {
+    stroke:#F4634D;
+    fill:#F4634D;
+}
+.shotIconFocalPlayer {
+    stroke: #CCAA00;
+    fill: #CCAA00;
+}
+.shotIconMiss {
+    fill:transparent !important;
+}
+
+.ratioLine {
+	stroke: rosybrown;
+	shape-rendering: crispEdges;
+	stroke-width:4px;
+}
+
+.scatterdot {
+	stroke: none;
+	//fill: darkblue;
+	opacity:.55;
+	shape-rendering: geometricPrecision;
+}
+
+.legend {
+  background-color: coral;
+}
+
+.scatterdotLegend {
+	stroke: none;
+	fill: darkblue;
+	opacity:.55;
+	shape-rendering: geometricPrecision;
+}
+
+.teamnameThis, .teamnameOpponent {
+	font-size:12pt;
+	font-weight:bold;
+	font-style:italic;
+}
+
+.finalScoreThis {
+  font-size:12pt;
+  font-weight:bold;
+  fill: #4056a1;
+}
+
+.finalScoreOpponent {
+  font-size:12pt;
+  font-weight:bold;
+  fill: #f13c20;
+  opacity:0.8;
+}
+
+.tooltip {
+  position: absolute;
+  background: cornsilk;
+  pointer-events: none;
+  padding:5px;
+  border: BlanchedAlmond 1px solid;
+}
+
+.areaWin {
+  fill: #4056a1;
+  opacity:.25;
+}
+
+.areaLose {
+  fill: #f13c20;
+  opacity: .25;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+#roster { font-size:10pt; }
+#roster input {
+    opacity:0.5;
+    display:none;
+}
+
+#roster ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#roster label {
+    cursor:pointer;
+    display:inline;
+}
+#roster label:hover {
+    color:#4056a1;
+}
+#roster label::before{
+    display:inline-block;
+    width:15px;
+    content: " ";
+}
+#roster input[type=checkbox]:checked + label::before {
+    content: "\25CF";
+    color:#CCAA00;
+}
+</style>
 </head>
 <body>
 <div class="content">
@@ -90,8 +235,1016 @@ p { margin: 0 0 10px 0; }
   </section>
 
   <section>
-    <em>[Add: Interactive visualization goes here! Note that you are free to change the markup and styling on this page however you like. Just be sure to include your visualization, design rationale and comments on the design &amp; development process.]</em>
-<br><br>
+<svg id="poloVis"></svg>
+
+<div id="sidebar" style="display:inline-block; vertical-align:top; ">
+
+<br>
+<svg id="legends"></svg>
+
+<h1>Women's Water Polo</h1>
+<h3>2017 FINA World Championships</h3>
+
+Select a team:
+<br/><br/>
+<select id="teamSelector"></select>
+
+<br/><br/>
+Select a player to highlight their contributions:
+<br/><br/>
+<div id="roster"></div>
+
+<br/><br/>
+Hover over data to see details.
+
+<br/><br/>
+Click on a timeline to view data for that game.
+
+</div>
+<script src="http://d3js.org/d3.v4.min.js"></script>
+
+<script>
+
+var teamCodes = ["FRA","USA","ESP","NED","CHN","AUS","GRE","CAN","KAZ","NZL","JPN","HUN","RSA","ITA","RUS","BRA"];
+var teamDecodes = {"USA":"United States", "RUS":"Russia", "NZL":"New Zealand", "ESP":"Spain", "BRA":"Brazil"};
+var allPoloDatas = [];
+var allShotSummaryDatas = [];
+
+
+// data and lookup
+var shotTypes = ["Total","Action shot","Centre shot","5m shot","Extra player shot"];
+var shotTypesDecode = ["All Shots","Action Shots","Centre Shots","Shots Outside 5m","Extra Player Shots"];
+
+
+//var allPoloDatas = [poloDataUSA, poloDataBRA, poloDataESP];
+//var allShotSummaryDatas = [shotSummaryUSA, shotSummaryBRA, shotSummaryESP];
+
+// Sizing and Styling
+{
+var margin = {top: 10, right: 80, bottom: 60, left: 110};
+
+var scatterWidth, scatterHeight = 150;
+var scatterPadding = 30;
+var scatterTimelinePadding = 100;
+
+var timelineHeight = 60;
+var timelineQuarterWidth = 160;
+var timelineInternalPadding = 20;
+var timelineVerticalPadding = 5;
+var timelineWidth = 4*timelineQuarterWidth + 3*timelineInternalPadding;
+
+var widthFull = margin.left + margin.right + 4*timelineQuarterWidth + 3*timelineInternalPadding;
+var heightFull = margin.top + margin.bottom + scatterHeight + (timelineHeight+timelineVerticalPadding)*6 + scatterTimelinePadding;
+
+scatterWidth = (timelineWidth - 4*scatterPadding)/5;
+
+// var USAColor = "darkblue";
+// var OpponentColor = "#999999";
+}
+
+
+/**
+* Elements
+*/
+{
+var teamSelect = document.getElementById("teamSelector");
+
+var svg = d3.select("#poloVis")
+    .attr("width", widthFull)
+    .attr("height", heightFull)
+	//.attr("style","background:red;")
+	.append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var svgLegend = d3.select("#legends")
+    .attr("width", 200)
+    .attr("height", 120)
+	//.attr("style","background:red;")
+	.append("g")
+    .attr("transform", "translate(" + 10 + "," + (margin.top) + ")");
+
+// var title =  svg.append("text")
+//             .attr("x", (widthFull / 2) - margin.left)
+//             .attr("y", -20)
+//             .attr("text-anchor", "middle")
+//             .style("font-size", "32px")
+//             .text("Women's Water Polo at the 2017 FINA World Championships");
+
+var tooltip = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+}
+
+
+
+/**
+* State
+*/
+{
+var currTeam = 0;
+var currTeamCode = teamCodes[currTeam];
+
+var numGames = 0;
+var gameFilter = [0,0,0,0,0,0];
+
+var poloData;
+var shotData;
+
+//console.log(JSON.stringify(shotData).replace(/},{/g,"},\n\n{"));
+var playerSelectOpts = {};
+var players = [];
+var playerFilter = [];
+}
+
+
+
+/**
+* Initialize data and state variables
+*/
+{
+function initializeData(newTeam) {
+	playerFilter = [];
+	currTeam = newTeam;
+	currTeamCode = teamCodes[newTeam];
+	poloData = allPoloDatas[newTeam];
+	shotData = allShotSummaryDatas[newTeam];
+	numGames = d3.max(poloData.map( (d) => { return d.Game; }));
+
+	players = d3.nest()
+	.key( (d) => { return d.Player; } )
+	.entries(shotData)
+	.map( (d) => {
+		return d.key;
+	});
+	populateSelectors();
+}
+
+function populateSelectors() {
+
+	var roster = document.getElementById("roster");
+	roster.innerHTML = "";
+    var ul = document.createElement("ul");
+    roster.append(ul);
+
+	players.forEach( function(player) {
+
+        var li = document.createElement("li");
+        var check = document.createElement("input");
+        check.type="checkbox";
+        check.id="toggle"+player;
+        li.appendChild(check);
+        var lab = document.createElement("label");
+        lab.htmlFor="toggle"+player;
+        lab.appendChild(document.createTextNode(toTitleCase(player)));
+        lab.addEventListener("click", function() {
+			togglePlayer(player);
+		});
+        li.appendChild(lab);
+        ul.appendChild(li);
+	});
+}
+}
+
+/**
+* Data filtering and processing functions
+*/
+{
+function toTitleCase(text) {
+  // Assumes data comes in the form "LASTNAME FIRSTINITIAL"
+  [token1, token2, token3] = text.split(" ")
+  if(token3)
+  {
+    return token3.charAt(0).toUpperCase() + ". " + token2.charAt(0).toUpperCase() + token2.substr(1).toLowerCase()
+            + " " + token1.charAt(0).toUpperCase() + token1.substr(1).toLowerCase();
+  }
+  else {
+    return token2.charAt(0).toUpperCase() + ". " + token1.charAt(0).toUpperCase() + token1.substr(1).toLowerCase();
+  }
+}
+
+function aggregateShotDataByPlayer(data) {
+	var shotDataAggregatedByPlayer = d3.nest()
+	.key( (d) => { return d.Player; } )
+	.rollup( (v) => { var obj = {};
+		shotTypes.forEach( (mykey) => {
+			obj[mykey+" attempted"] = d3.sum(v, (d) => { return d[mykey+" attempted"]; });
+			obj[mykey+" made"] = d3.sum(v, (d) => { return d[mykey+" made"]; });
+		})
+		return obj;
+		})
+	.entries(data)
+	.map( (d) => {
+		var obj = d.value;
+		obj.Player = d.key;
+		return obj;
+	});
+	return shotDataAggregatedByPlayer;
+}
+
+function groupPlayerShotStatistics(data,shotType) {
+	var shotDataGrouped = d3.nest()
+	.key( (d) => { return [d[shotType+" attempted"],d[shotType+" made"]]; } )
+	.rollup( (v) => {
+		var res = [];
+		v.forEach(function(e) { res.push(e.Player); })
+		return res;
+	})
+	.entries(data)
+	.map((e) => { var obj = {};
+		var coord = e.key; coord = coord.split(",");
+		coord[0] = parseInt(coord[0]);
+		coord[1] = parseInt(coord[1]);
+		obj.coord = coord;
+		var players = e.value;
+		obj.players = players;
+		obj.numPlayers = players.length;
+		return obj;
+	});
+	return shotDataGrouped;
+}
+}
+
+/**
+* Scatter charts
+*/
+{
+// probability function for plotting y-values on the charts
+var probability = d3.scaleLinear().rangeRound([scatterHeight,0])
+	.domain([-.1, 1.1]);
+
+var ratios = 0;
+
+var scatterCharts = [];
+var scatterGroup = svg.append("g")
+	.attr("transform", `translate(0, 0)`);
+
+function initializeScatterCharts() {
+	for(var nn=0; nn<shotTypes.length; nn++) {
+
+		// shot function for plotting x-vlaues on the charts
+		var shots = d3.scaleLinear().rangeRound([0, scatterWidth]);
+			//.domain(lim);
+
+		var scatterChart = scatterGroup.append("g")
+			.attr("class", "scatterChart")
+			.attr("width", scatterWidth)
+			.attr("height", scatterHeight)
+			.attr("transform", `translate(${nn*(scatterWidth+scatterPadding)-30}, 10)`);
+
+	  scatterCharts[nn] = scatterChart;
+
+		scatterChart.append("g")
+			.attr("class", "axis axisX")
+			.attr("transform", `translate(0, ${scatterHeight})`)
+			.call(d3.axisBottom(shots)
+				.tickFormat(d3.format("d"))
+				.ticks(0).tickSizeOuter(0));
+
+		scatterChart.append("text")
+			.attr("class","axisLabel")
+			.attr("transform",
+				"translate(" + (scatterWidth/2) + " ," +
+							   (scatterHeight + 12) + ")")
+			.attr("dy","1.5em")
+			.style("text-anchor", "middle")
+			.text(shotTypesDecode[nn]);
+
+		// Label first y-axis and give ticks
+
+	  if(nn === 0) {
+			scatterChart.append("g")
+				.attr("class", "axis axis--y")
+				.call(d3.axisLeft(probability)
+					.ticks(3)
+					.tickFormat(d3.format(".0%"))
+					.tickSizeOuter(0));
+
+			scatterChart.append("text")
+			.attr("class", "axisLabel")
+			.attr("transform", "rotate(-90)")
+				  .attr("y",-65)
+				  .attr("x",0 - (scatterHeight / 2))
+				  .attr("dy", "1em")
+				  .style("text-anchor", "middle")
+				  .text("Success");
+		} else {
+			scatterChart.append("g")
+				.attr("class", "axis axis--y")
+				.call(d3.axisLeft(probability).ticks(0).tickSizeOuter(0));
+		}
+		//console.log(JSON.stringify(mydata).replace(/},{/g,"},\n\n{"));
+	}
+
+	//  Scatterplot legend
+	var scatterLegendVals = [1,2,4];
+	scatterLegend = svgLegend.append("g")
+	  // .attr("class", " ")
+	  .attr("width", scatterWidth/3)
+	  .attr("height", scatterHeight)
+	  .attr("transform", `translate(${0}, 0)`);
+
+	for(var nn=0; nn<scatterLegendVals.length; nn++) {
+		scatterLegend.append("circle")
+		.attr("class", "scatterdotLegend")
+		.attr("r",4*Math.sqrt(scatterLegendVals[nn]))
+		.attr("transform", `translate(0,${nn*20})`);
+
+			if(scatterLegendVals[nn]===1) {
+			scatterLegend.append("text")
+			// .attr("class","axisLabel")
+			.attr("transform",
+			  "translate(" + (scatterWidth/6 + 15) + " ," +
+					   (nn*20-18) + ")")
+			.attr("dy","2em")
+			.style("text-anchor", "middle")
+			.text(scatterLegendVals[nn] + " player");
+		  } else {
+			scatterLegend.append("text")
+			// .attr("class","axisLabel")
+			.attr("transform",
+			  "translate(" + (scatterWidth/6 + 15) + " ," +
+					   (nn*20-18) + ")")
+			.attr("dy","2em")
+			.style("text-anchor", "middle")
+			.text(scatterLegendVals[nn] + " players");
+		  }
+	  }
+
+	  scatterLegend.append("path")
+	  .attr("class","ratioLine")
+	  // draw a line at (0, ratio) to (x-axis-length, ratio)
+	  .attr("transform", `translate(0,${10+scatterLegendVals.length*20})`)
+	  .attr("d", "M " + -7 + " " + 0 + " L " + 7+ " " + 0);
+
+	  scatterLegend.append("text")
+	  .attr("transform",
+		"translate(" + (scatterWidth/6 + 25) + " ," +
+				 (10+scatterLegendVals.length*20-18) + ")")
+	  .attr("dy","2em")
+    .attr("dx", "1.5em")
+	  .style("text-anchor", "middle")
+	  .text("Team Avg.");
+    scatterLegend.append("image")
+      .attr("id", "legendPicture")
+      .attr("href", "img/" + currTeamCode + ".png")
+      .attr("height", "10px")
+      .attr("width", "16.6px")
+      .attr("x", 15)
+      .attr("y", 65);
+}
+
+function filterScatterPlots() {
+
+scatterLegend.append("image")
+  .attr("id", "legendPicture")
+  .attr("href", "img/" + currTeamCode + ".png")
+  .attr("height", "10px")
+  .attr("width", "16.6px")
+  .attr("x", 15)
+  .attr("y", 65);
+// Iterate over each of the scatterplots
+for(var nn=0; nn<shotTypes.length; nn++) {
+	var chart = scatterCharts[nn];
+
+	// get data
+	var myShotData = aggregateShotDataByPlayer(shotData.filter((d) => { return gameFilter[d.Game-1]; }));
+	var myGroupedData = groupPlayerShotStatistics(myShotData,shotTypes[nn]);
+	var myData = myGroupedData.filter( (d) => {
+			return d.coord[0]>0;
+		});
+
+	// Update axis limits
+	var shotextent = d3.extent(myData, (d) => { return d.coord[0];});
+	shotextent[0] = Math.min(shotextent[0],0);
+
+	var shotrange = shotextent[1] - shotextent[0];
+	var lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
+
+	// Establish y-scale
+	var shots = d3.scaleLinear()
+		.rangeRound([0, scatterWidth])
+		.domain(lim);
+
+
+	chart.select(".axisX")
+		.transition()
+        .duration(200)
+		.call(d3.axisBottom(shots)
+			.tickFormat(d3.format("d")).ticks(2).tickSizeOuter(0));
+
+    // Average lines
+    var totalShotsMade = 0;
+    var totalShotsAttempted = 0;
+    var maxShotsMade = 1;
+    for (var i = myData.length - 1; i >= 0; i--) {
+        if (maxShotsMade < myData[i].coord[0]) {
+            maxShotsMade = myData[i].coord[0];
+        }
+        totalShotsMade += myData[i].coord[0];
+        totalShotsAttempted += myData[i].coord[1];
+    }
+
+    // Remove existing lines
+    chart.selectAll(".ratioLine")
+        .style("opacity", 0.0)
+        .remove();
+    //console.log(totalShotsMade);
+    if(totalShotsMade>0) {
+    ratios =  totalShotsAttempted / totalShotsMade;
+        var averageLines = chart.selectAll(".ratioLine")
+            .data([ratios])  // data is a singleton array with # shots made / # shots
+            .enter()
+            .append("path")
+            .attr("class","ratioLine")
+            .style("opacity", 0.0)
+        // draw a line at (0, ratio) to (x-axis-length, ratio)
+            .attr("d", "M " + 0 + " " + probability(ratios) + " L " + scatterWidth + " " + probability(ratios))
+            .on("mouseover", function(d) {
+                tooltip.transition()
+                .duration(200)
+                .style("opacity", 1.0);
+                // currTeamCode stores the current team
+                // flags are 3:5 ratio by Wikipedia
+                tooltip.html((100*d).toFixed(2) + "%")
+                .style("left", (d3.event.pageX -5) + "px")
+                .style("top", (d3.event.pageY -20) + "px");
+            })
+            .on("mouseout", function(d) {
+                tooltip.transition()
+                .duration(500)
+                .style("opacity", 0);
+            });
+
+        averageLines.transition()
+           .duration(200)
+           .style("opacity", 1.0);
+    }
+
+
+	function tooltipShow(d) {
+		tooltip.transition()
+            .duration(200)
+            .style("opacity", 1.0);
+            tooltip.html("Made: " + d.coord[1]+"/"+d.coord[0]+'<ul><li>' + d.players.map(toTitleCase).join('</li><li>')+"</li></ul>")
+            .style("left", (d3.event.pageX + 5) + "px")
+            .style("top", (d3.event.pageY - 28) + "px");
+	}
+	function tooltipHide(d) {
+			tooltip.transition()
+			.duration(500)
+			.style("opacity", 0);
+		}
+
+    chart.selectAll(".scatterdot")
+        .attr("class","dotsToRemove")
+        .transition()
+        .duration(200)
+        .style("opacity",0)
+
+    var mydots = chart.selectAll(".scatterdot")
+		.data(myData)
+
+	mydots.enter()
+		.append("circle")
+        .style("opacity",0)
+		.attr("class", "scatterdot")
+		.attr("r", (d) => { return 4*Math.sqrt(d.numPlayers); })
+		.attr("cx", (d) => {
+			return shots(d.coord[0]);
+		})
+		.attr("cy", (d) => {
+			return probability(d.coord[1]/d.coord[0]);
+		})
+		.on("mouseover", tooltipShow)
+		.on("mouseout", tooltipHide)
+		.attr("fill", (d) => {
+			if(d.players.filter( (p) => { return playerFilter.includes(p);	}).length>0) {
+				return "#CCAA00";
+			} else {
+				return "darkblue";
+			}})
+        .transition()
+        .delay(100)
+        .duration(200)
+        .style("opacity",0.55);
+}
+}
+
+
+}
+
+/**
+* Timelines
+*/
+{
+var shotIconDisplayLevel = .25;
+
+var gameTime = d3.scaleLinear()
+	.rangeRound([0, timelineWidth])
+	.domain([0,8.0*60.0*4.0]);
+var quarterTime = d3.scaleLinear()
+	.rangeRound([0, timelineQuarterWidth])
+	.domain([8*60,0]);
+
+var success = d3.scaleLinear()
+    .rangeRound([timelineHeight,0])
+    .domain([-1,1]);
+
+var timelines = [];
+var quarters = [];
+var timelineGroup = svg.append("g")
+	.attr("transform", `translate(0, ${scatterHeight+scatterTimelinePadding})`);
+
+function initializeTimelines() {
+	// Quarter labels
+	for(var quarterNum=1; quarterNum<=4; quarterNum++) {
+		timelineGroup.append("text")
+			.attr("class","axisLabel")
+			.attr("y",0)
+			.attr("x",timelineQuarterWidth/2 + (quarterNum-1)*(timelineQuarterWidth+timelineInternalPadding))
+			.attr("dy","-.5em")
+			.style("text-anchor", "middle")
+			.text("Quarter "+quarterNum);
+	}
+
+//  Timeline legend
+
+var timelineLegend = svgLegend.append("g")
+  // .attr("class", "legend")
+  // .attr("width", timelineWidth)
+  // .attr("height", timelineHeight)
+  .attr("transform", `translate(${100}, 0)`);
+
+  var timelineLegendVertSpace = 17;
+  var timelineLegendVertStart = -19;
+  var timelineLegendHorizSpace = 45;
+
+// missed shot icon
+    timelineLegend.append("circle")
+    .attr("class","shotIcon shotIconMiss shotIconFocalTeam")
+    .attr("cx", 0)
+    .attr("cy", 0)
+    .attr("r", 4); // change to 6 if want to reflect focal player
+
+    timelineLegend.append("text")
+    // .attr("class","axisLabel")
+    .attr("transform",
+      `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart})`)
+    .attr("dy","2em")
+    .style("text-anchor", "middle")
+    .text(" shot - missed");
+
+    // goal icon
+    timelineLegend.append("circle")
+    .attr("class","shotIcon shotIconFocalTeam")
+    .attr("cx", 0)
+    .attr("cy", timelineLegendVertSpace)
+    .attr("r", 4); // change to 6 if want to reflect focal player
+
+    timelineLegend.append("text")
+    // .attr("class","axisLabel")
+    .attr("transform",
+      `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart+1*timelineLegendVertSpace})`)
+    .attr("dy","2em")
+    .style("text-anchor", "middle")
+    .text(" shot - scored");
+
+    // score area
+
+
+
+
+	for(var nn=0; nn<6; nn++) {
+		gameNum = nn+1;
+
+		var timeline = timelineGroup.append("g")
+			.attr("class","timeline")
+			.attr("transform", `translate(0, ${(gameNum-1)*(timelineHeight+timelineVerticalPadding)})`)
+			.attr("opacity",(gameFilter[nn]?1:.25))
+			.on("click", (function makeClickFunction(num) {
+				return (function() {
+						gameFilter[num] = !gameFilter[num];
+						timelines[num]
+							.attr("opacity",(gameFilter[num]?1:.25));
+						filterScatterPlots();
+					})
+				})(nn));
+		timelines[nn] = timeline;
+		quarters[nn] = [];
+
+		timeline.append("rect")
+			.attr("class","backdrop")
+			.attr("x",0)
+			.attr("y",0)
+			.attr("width",timelineWidth)
+			.attr("height",timelineHeight)
+			.attr("fill",'white');
+
+		var lineLength = 80;
+    // Add game number to the timelines
+    timeline.append("text")
+      .attr("class","axisLabel")
+      .attr("y",timelineHeight/1.5)
+      .attr("x",-timelineInternalPadding - lineLength)
+      .attr("dy","-.2em")
+      .style("text-anchor", "middle")
+      .text(gameNum);
+		/*
+		  Add flags and team names
+		*/
+		// first, USA
+		timeline.append("text")
+			.attr("class","teamnameThis")
+			.attr("y",timelineHeight/2)
+			.attr("x",-timelineInternalPadding-lineLength/4)
+			.attr("dy","-.2em")
+			.style("text-anchor", "middle")
+			.text("?");
+		timeline.append("image")
+			.attr("class","flagThis")
+			.attr("href", "img/" + currTeamCode + ".png")
+			.attr("y", timelineHeight/1.95-20)
+			.attr("x",-timelineInternalPadding-lineLength*.9)
+			.attr("height", "20px");
+
+		// now add the other team
+		timeline.append("text")
+			.attr("class","teamnameOpponent")
+			.attr("y",timelineHeight/2)
+			.attr("x",-timelineInternalPadding-lineLength/4)
+			.attr("dy", "1.2em")
+			.style("text-anchor", "middle")
+			.text("?");
+		timeline.append("image")
+			.attr("class","flagOpponent")
+			.attr("href", "img/" + currTeamCode + ".png")
+			.attr("y", timelineHeight/1.95)
+			.attr("x",-timelineInternalPadding-lineLength*.9)
+			.attr("height", "20px");
+		timeline.append("line")
+			.attr("style","shape-rendering: crispEdges")
+			.attr("x1",-timelineInternalPadding)
+			.attr("x2",-timelineInternalPadding-lineLength*.9)
+			.attr("y1",timelineHeight/2+1)
+			.attr("y2",timelineHeight/2+1)
+			.attr("stroke","black")
+			.attr("stroke-width",1);
+
+		// Final scores
+		timeline.append("text")
+			.attr("class","finalScoreThis")
+			.attr("y",timelineHeight/2)
+			.attr("x",timelineWidth+timelineInternalPadding)
+			.attr("dy","-.4em")
+			.style("text-anchor", "middle")
+			.text("?");
+			//.text(endingScore[0]);
+		timeline.append("text")
+			.attr("class","finalScoreOpponent")
+			.attr("y",timelineHeight/2)
+			.attr("x",timelineWidth+timelineInternalPadding)
+			.attr("dy", "1.2em")
+			.style("text-anchor", "middle")
+			.text("?");
+			//.text(endingScore[1]);
+
+		for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
+			//console.log("Quarter:"+quarterNum);
+
+	// persistent elements
+
+			// Add timeline for this quarter
+			var quarter = timeline.append("g")
+				.attr("class","quarter")
+				.attr("width", timelineQuarterWidth)
+				.attr("height", timelineHeight)
+				.attr("transform", `translate(${(timelineQuarterWidth+timelineInternalPadding)*(quarterNum-1)}, 0)`);
+			quarters[nn].push(quarter);
+			// Axis
+			quarter.append("g")
+				.attr("class", "axis axis--x")
+				.attr("transform", `translate(0, ${timelineHeight/2})`)
+				.call(d3.axisBottom(quarterTime).ticks(0).tickSizeOuter(0));
+
+			var scoreLineWin = quarter.append("path")
+				.attr("class", "areaWin");
+
+			var scoreLineLose = quarter.append("path")
+				.attr("class", "areaLose");
+		}
+	}
+}
+
+function populateTimelines() {
+//console.clear();
+
+
+for(var nn=0; nn<6; nn++) {
+	var timeline = timelines[nn];
+
+
+	gameNum = nn+1;
+	var gameNData = poloData.filter(isGameN);
+	//console.log(JSON.stringify(poloData).replace(/},{/g,"},\n\n{"));
+	function isGameN(d) {
+		return (d.Game===gameNum);
+	}
+
+	if(gameNData.length==0) { // There is no n-th game; kill chart
+
+		timeline.selectAll(".flagThis")
+			.attr("href", "img/" + "BLANK" + ".png");
+		timeline.selectAll(".flagOpponent")
+			.attr("href", "img/" + "BLANK" + ".png");
+
+		timeline.selectAll(".teamnameThis")
+			.text("");
+		timeline.selectAll(".teamnameOpponent")
+			.text("");
+		for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
+
+			//console.log("\n\nQuarter: "+quarterNum);
+			var quarter = quarters[nn][quarterNum-1];
+			var dots = quarter.selectAll(".shotIcon")
+				.data(gameNData);
+				dots.exit()
+					.remove();
+
+			var areaWin = d3.area()
+				.curve(d3.curveStepAfter)
+				.x(0)
+				.y0(0)
+				.y1(0);
+
+			var areaLose = d3.area()
+				.curve(d3.curveStepAfter)
+				.x(0)
+				.y0(0)
+				.y1(0);
+
+			var scoreLineWin = quarter.selectAll(".areaWin")
+				.data([{}])
+				.attr("d", areaWin);
+
+			var scoreLineLose = quarter.selectAll(".areaLose")
+				.data([{}])
+				.attr("d", areaLose);
+
+			}
+			timeline.selectAll(".finalScoreThis")
+				.text("");
+			timeline.selectAll(".finalScoreOpponent")
+				.text("");
+			continue; // do not proceed further, exit iteration of loop
+	}
+
+	var otherTeam = gameNData[0]["Opponent name"];
+	//console.log(gameNData.length);
+
+	// set flags, names on left
+	timeline.selectAll(".flagThis")
+		.attr("href", "img/" + currTeamCode + ".png");
+	timeline.selectAll(".flagOpponent")
+		.attr("href", "img/" + otherTeam + ".png");
+
+	timeline.selectAll(".teamnameThis")
+		.text(currTeamCode);
+	timeline.selectAll(".teamnameOpponent")
+		.text(otherTeam);
+
+	var maxScore = d3.max(poloData, (d) => {
+		if(d.Game===gameNum) {
+			//return Math.abs(d[currTeamCode] - d.Opponent);
+			return Math.max(d[currTeamCode], d.Opponent);
+		} else {
+			return 0;
+		}
+	});
+	var beginningScore = [0,0];
+	var endingScore = [0,0];
+	for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
+		//console.log("\n\nQuarter: "+quarterNum);
+		var quarter = quarters[nn][quarterNum-1];
+
+		// Data-dependent elements
+
+		var gameNData = poloData.filter(isGameN);
+		//console.log(JSON.stringify(gameNData).replace(/},{/g,"},\n\n{"));
+		function isGameN(d) {
+			return (d.Game===gameNum && d.Period===quarterNum);
+		}
+		var myGoals = poloData.filter( (d) => {
+			return d.Game===gameNum && d.Period===quarterNum && d.Goal===1;
+		}).sort( (d1,d2) => { return d2.Seconds-d1.Seconds; });
+		//console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
+
+		function getScoreAtLastGoal(min,d) {
+			//console.log(JSON.stringify(d));
+			//console.log(currTeamCode+":"+[d[currTeamCode],d.Opponent]);
+			if(d.Seconds < min[0]) {
+				return [d.Seconds,[d[currTeamCode],d.Opponent]];
+			} else {
+				return min;
+			}
+		}
+		//console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
+		//console.log("Beginning score: "+beginningScore);
+		endingScore = myGoals.reduce(getScoreAtLastGoal,[8*60,beginningScore]);
+		//console.log("Ending score: "+endingScore);
+		endingScore = endingScore[1];
+
+		myGoals.push({[currTeamCode]:endingScore[0],"Opponent":endingScore[1],"Seconds":0});
+		myGoals.unshift({[currTeamCode]:beginningScore[0],"Opponent":beginningScore[1],"Seconds":8*60});
+
+		//console.log(beginningScore+" : "+endingScore);
+
+// Area plots!
+		var areaWin = d3.area()
+			.curve(d3.curveStepAfter)
+			.x( (d) => { return quarterTime(d.Seconds); })
+			.y0( (d) => { return success(0); })
+			.y1( (d) => { return success(d3.max([(d[currTeamCode])/maxScore,0])); });
+			//.y1( (d) => { return success(d3.max([(d[currTeamCode] - d.Opponent)/maxScore,0])); });
+
+		var areaLose = d3.area()
+			.curve(d3.curveStepAfter)
+			.x( (d) => { return quarterTime(d.Seconds); })
+			.y0( (d) => { return success(0); })
+			.y1( (d) => { return success(-d3.max([(d.Opponent)/maxScore,0])); });
+			//.y1( (d) => { return success(d3.min([(D[currTeamCode] - d.Opponent)/maxScore,0])); });
+
+		var scoreLineWin = quarter.selectAll(".areaWin")
+			.data([myGoals])
+			.attr("d", areaWin);
+
+		var scoreLineLose = quarter.selectAll(".areaLose")
+			.data([myGoals])
+			.attr("d", areaLose);
+
+
+//  Shot icons
+
+        function classNames(d) {
+            res = "shotIcon";
+            if(playerFilter.includes(d.Player)) {
+                res += " shotIconFocalPlayer";
+            } else {
+                if(d.Team===currTeamCode) {
+                    res += " shotIconFocalTeam";
+                } else {
+                    res += " shotIconOpponentTeam";
+                }
+            }
+            if(d.Goal===0) {
+                res += " shotIconMiss";
+            }
+            return res;
+        }
+
+		quarter.selectAll(".shotIcon").remove();
+		var dots = quarter.selectAll(".shotIcon")
+			.data(gameNData);
+
+		dots.enter()
+			.append("circle")
+			.attr("class",classNames)
+			.attr("cx", (d) => { return quarterTime(d.Seconds); })
+			.attr("cy", (d) => {
+				var mysign = (d.Team===currTeamCode?1:-1);
+				var isGoal = (d.Goal===1);
+			return success(mysign*shotIconDisplayLevel);
+			})
+			.attr("r", (d) => { return (playerFilter.includes(d.Player)?6:4); })
+			.on("mouseover", function(d) {
+				tooltip.transition()
+				.duration(200)
+				.style("opacity", 1.0);
+				tooltip.html(
+          d.Action + ", " + d.Time + "<br>"
+          + ' <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'
+          + " #" + Math.round(d.Cap) + " " + toTitleCase(d.Player)
+          // +" (" + d.Team +  ")"
+          // + '  <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'    // use flag instead of team name
+        )
+				.style("left", (d3.event.pageX - 5) + "px")
+				.style("top", (d3.event.pageY - 50) + "px");
+			})
+			.on("mouseout", function(d) {
+				tooltip.transition()
+				.duration(500)
+				.style("opacity", 0);
+			});
+
+		beginningScore = endingScore;
+	}
+	//console.log("ending: "+endingScore +";"+endingScore[0]);
+	// set final scores on right
+	timeline.selectAll(".finalScoreThis")
+		.text(endingScore[0]);
+	timeline.selectAll(".finalScoreOpponent")
+		.text(endingScore[1]);
+}
+}
+
+}
+
+/**
+* Control methods
+*/
+{
+function togglePlayer(playerName) {
+	var ind = playerFilter.indexOf(playerName);
+	if(ind>-1) {
+		playerFilter.splice(ind,1);
+	} else {
+		playerFilter.push(playerName);
+	}
+	filterScatterPlots();
+	populateTimelines();
+}
+
+function switchTeam(newTeam) {
+	initializeData(newTeam);
+	//console.log(JSON.stringify(poloData).replace(/},{/g,"},\n\n{"));
+	drawAll();
+}
+
+function drawAll() {
+	filterScatterPlots();
+	populateTimelines();
+}
+
+function init() {
+	//console.log(JSON.stringify(allPoloDatas[0]).replace(/},{/g,"},\n\n{"));
+	//console.log(JSON.stringify(allShotSummaryDatas[0]).replace(/},{/g,"},\n\n{"));
+	for(var ii=0; ii<teamCodes.length; ii++) {
+		var opt = document.createElement("option");
+		opt.text = teamCodes[ii];
+		teamSelect.add(opt);
+	}
+	teamSelect.options[0].selected = true;
+
+	initializeScatterCharts();
+	initializeTimelines();
+	switchTeam(0);
+}
+}
+
+var teamCodesDupe = teamCodes.slice(0);
+
+function loadFiles() {
+	if(teamCodesDupe.length > 0) {
+		var myTeamCode = teamCodesDupe.shift();
+		d3.json("../data_gathering/data/2017/W/processed/"+myTeamCode+"/shots.json", function(error, raw) {
+			allPoloDatas.push(raw);
+			d3.json("../data_gathering/data/2017/W/processed/"+myTeamCode+"/shot_summary.json", function(error, raw) {
+				allShotSummaryDatas.push(raw);	
+				loadFiles();
+			});
+		});
+	} else {
+		init();
+	}
+}
+loadFiles();
+
+/*
+teamCodes.forEach( function(teamCode) {
+	//console.log("teamcode:"+teamCode);
+	teamDecodes[teamCode] = teamCode;
+	d3.json("../data_gathering/data/2017/W/processed/"+teamCode+"/shots.json", function(error, raw) {
+	
+		//var dsv = d3.dsvFormat(',');
+		//console.log(error);
+		//var poloData = dsv.parse(raw);
+		//console.log(teamCode);
+		//console.log(JSON.stringify(raw).replace(/},{/g,"},\n\n{"));
+		//console.log(JSON.stringify(poloData).replace(/},{/g,"},\n\n{"));
+		allPoloDatas.push(raw);
+		//console.log(JSON.stringify(allPoloDatas[0]).replace(/},{/g,"},\n\n{"));
+	});
+	
+	d3.json("../data_gathering/data/2017/W/processed/"+teamCode+"/shot_summary.json", function(error, raw) {
+		//var dsv = d3.dsvFormat(',');
+		//console.log(error);
+		//var shotSummaryData = dsv.parse(raw);
+		//console.log(shotSummaryData);
+		allShotSummaryDatas.push(raw);	
+	});
+});
+*/
+
+//setTimeout(init,5000);
+
+teamSelect.addEventListener("change", function() {
+	var newTeam = teamSelect.selectedIndex;
+	switchTeam(newTeam);
+  // console.log("Current team is " + currTeamCode);
+});
+
+
+</script>
 
   </section>
 
