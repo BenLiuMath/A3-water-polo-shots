@@ -43,9 +43,8 @@ h1{
     fill:#4056a1;
 }
 .shotIconOpponentTeam {
-    stroke:#f13c20;
-    fill:#f13c20;
-    opacity:0.8;
+    stroke:#F4634D;
+    fill:#F4634D;
 }
 .shotIconFocalPlayer {
     stroke: #CCAA00;
@@ -66,6 +65,10 @@ h1{
 	//fill: darkblue;
 	opacity:.55;
 	shape-rendering: geometricPrecision;
+}
+
+.legend {
+  background-color: coral;
 }
 
 .scatterdotLegend {
@@ -118,13 +121,46 @@ ul {
     padding: 0;
 }
 
+
+#roster { font-size:10pt; }
+#roster input {
+    opacity:0.5;
+    display:none;
+}
+
+#roster ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#roster label {
+    cursor:pointer;
+    display:inline;
+}
+#roster label:hover {
+    color:#4056a1;
+}
+#roster label::before{
+    display:inline-block;
+    width:15px;
+    content: " ";
+}
+#roster input[type=checkbox]:checked + label::before {
+    content: "\25CF";
+    color:#CCAA00;
+}
 </style>
 <body>
 <svg id="poloVis"></svg>
+
 <div style="display:inline-block; vertical-align:top; ">
 
-<h1>Women's<br/>Water Polo<br/>Statistics</h1>
-<h3>2017 FINA World<br/>Championships</h3>
+  <br>
+<svg id="legends"></svg>
+
+<h1>Women's Water Polo</h1>
+<h3>2017 FINA World Championships</h3>
 
 Select a team:
 <br/><br/>
@@ -132,17 +168,14 @@ Select a team:
 
 <br/><br/>
 Select a player to highlight their contributions:
-<br/>
-<select multiple="multiple" style="height:20em; width:15em; display:none; " id="playerSelector"></select>
-
-<br/>
-<div id="roster">b</div>
+<br/><br/>
+<div id="roster"></div>
 
 <br/><br/>
-Hover over data<br/>to see details.
+Hover over data to see details.
 
 <br/><br/>
-You can also click<br/>on a timeline to<br/>deselect or select<br/>that game.
+Click on a timeline to view data for that game.
 
 </div>
 
@@ -181,16 +214,16 @@ var allShotSummaryDatas = [shotSummaryUSA, shotSummaryBRA, shotSummaryESP];
 
 // Sizing and Styling
 {
-var margin = {top: 30, right: 100, bottom: 60, left: 110};
+var margin = {top: 10, right: 80, bottom: 60, left: 110};
 
 var scatterWidth, scatterHeight = 150;
 var scatterPadding = 30;
-var scatterTimelinePadding = 110;
+var scatterTimelinePadding = 100;
 
-var timelineHeight = 80;
-var timelineQuarterWidth = 180;
+var timelineHeight = 60;
+var timelineQuarterWidth = 160;
 var timelineInternalPadding = 20;
-var timelineVerticalPadding = 10;
+var timelineVerticalPadding = 5;
 var timelineWidth = 4*timelineQuarterWidth + 3*timelineInternalPadding;
 
 var widthFull = margin.left + margin.right + 4*timelineQuarterWidth + 3*timelineInternalPadding;
@@ -208,7 +241,6 @@ scatterWidth = (timelineWidth - 4*scatterPadding)/5;
 */
 {
 var teamSelect = document.getElementById("teamSelector");
-var playerSelect = document.getElementById("playerSelector");
 
 var svg = d3.select("#poloVis")
     .attr("width", widthFull)
@@ -216,6 +248,13 @@ var svg = d3.select("#poloVis")
 	//.attr("style","background:red;")
 	.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var svgLegend = d3.select("#legends")
+    .attr("width", 200)
+    .attr("height", 120)
+	//.attr("style","background:red;")
+	.append("g")
+    .attr("transform", "translate(" + 10 + "," + (margin.top) + ")");
 
 // var title =  svg.append("text")
 //             .attr("x", (widthFull / 2) - margin.left)
@@ -238,7 +277,6 @@ teamSelect.options[0].selected = true;
 
 
 
-
 /**
 * State
 */
@@ -257,6 +295,8 @@ var playerSelectOpts = {};
 var players = [];
 var playerFilter = [];
 }
+
+
 
 /**
 * Initialize data and state variables
@@ -288,30 +328,49 @@ function initializeData(newTeam) {
 
 function populateSelectors() {
 
-	for(opt in playerSelect.options) {
-		playerSelect.options.remove(0);
-	}
 	var roster = document.getElementById("roster");
 	roster.innerHTML = "";
+    var ul = document.createElement("ul");
+    roster.append(ul);
+
+    /*
+
+    <li>
+<input type="checkbox" id="tog1">
+<label for="tog1">Player 1</label>
+</li>
+*/
 
 	players.forEach( function(player) {
-		var opt = document.createElement("option");
-		opt.text = player;
-		opt.label = toTitleCase(player);
-		playerSelect.add(opt);
-		playerSelectOpts[player] = opt;
 
+        var li = document.createElement("li");
+        var check = document.createElement("input");
+        check.type="checkbox";
+        check.id="toggle"+player;
+        li.appendChild(check);
+        var lab = document.createElement("label");
+        lab.htmlFor="toggle"+player;
+        lab.appendChild(document.createTextNode(toTitleCase(player)));
+        lab.addEventListener("click", function() {
+			togglePlayer(player);
+		});
+        li.appendChild(lab);
+        ul.appendChild(li);
+    /*
 		var myA = document.createElement("a");
 		myA.href = "#";
 		myA.addEventListener("click", function() {
 			togglePlayer(player);
 		});
-		myA.appendChild(document.createTextNode(player));
+		myA.appendChild(document.createTextNode(toTitleCase(player)));
 		roster.appendChild(myA);
 		roster.appendChild(document.createElement("br"));
+        */
 	});
 }
 }
+
+
 
 /**
 * Data filtering and processing functions
@@ -404,18 +463,18 @@ function initializeScatterCharts() {
 	  scatterCharts[nn] = scatterChart;
 
 		scatterChart.append("g")
-			.attr("class", "axisX")
+			.attr("class", "axis axisX")
 			.attr("transform", `translate(0, ${scatterHeight})`)
 			.call(d3.axisBottom(shots)
 				.tickFormat(d3.format("d"))
-				.ticks(4).tickSizeOuter(0));
+				.ticks(0).tickSizeOuter(0));
 
 		scatterChart.append("text")
 			.attr("class","axisLabel")
 			.attr("transform",
 				"translate(" + (scatterWidth/2) + " ," +
 							   (scatterHeight + 12) + ")")
-			.attr("dy","2em")
+			.attr("dy","1.5em")
 			.style("text-anchor", "middle")
 			.text(shotTypesDecode[nn]);
 
@@ -430,7 +489,7 @@ function initializeScatterCharts() {
 					.tickSizeOuter(0));
 
 			scatterChart.append("text")
-			 .attr("class", "axisLabel")
+			.attr("class", "axisLabel")
 			.attr("transform", "rotate(-90)")
 				  .attr("y",-65)
 				  .attr("x",0 - (scatterHeight / 2))
@@ -447,11 +506,11 @@ function initializeScatterCharts() {
 
 	//  Scatterplot legend
 	var scatterLegendVals = [1,2,4];
-	var scatterLegend = scatterGroup.append("g")
+	scatterLegend = svgLegend.append("g")
 	  // .attr("class", " ")
 	  .attr("width", scatterWidth/3)
 	  .attr("height", scatterHeight)
-	  .attr("transform", `translate(${5*(scatterWidth+scatterPadding)-30}, 10)`);
+	  .attr("transform", `translate(${0}, 0)`);
 
 	for(var nn=0; nn<scatterLegendVals.length; nn++) {
 		scatterLegend.append("circle")
@@ -488,15 +547,30 @@ function initializeScatterCharts() {
 
 	  scatterLegend.append("text")
 	  .attr("transform",
-		"translate(" + (scatterWidth/6 + 15) + " ," +
+		"translate(" + (scatterWidth/6 + 25) + " ," +
 				 (10+scatterLegendVals.length*20-18) + ")")
 	  .attr("dy","2em")
+    .attr("dx", "1.5em")
 	  .style("text-anchor", "middle")
 	  .text("Team Avg.");
+    scatterLegend.append("image")
+      .attr("id", "legendPicture")
+      .attr("href", "img/" + currTeamCode + ".png")
+      .attr("height", "10px")
+      .attr("width", "16.6px")
+      .attr("x", 15)
+      .attr("y", 65);
 }
 
 function filterScatterPlots() {
 console.log();
+scatterLegend.append("image")
+  .attr("id", "legendPicture")
+  .attr("href", "img/" + currTeamCode + ".png")
+  .attr("height", "10px")
+  .attr("width", "16.6px")
+  .attr("x", 15)
+  .attr("y", 65);
 // Iterate over each of the scatterplots
 for(var nn=0; nn<shotTypes.length; nn++) {
 	var chart = scatterCharts[nn];
@@ -520,8 +594,10 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.rangeRound([0, scatterWidth])
 		.domain(lim);
 
+
 	chart.select(".axisX")
-		.transition(t)
+		.transition()
+        .duration(200)
 		.call(d3.axisBottom(shots)
 			.tickFormat(d3.format("d")).ticks(2).tickSizeOuter(0));
 
@@ -530,61 +606,57 @@ for(var nn=0; nn<shotTypes.length; nn++) {
     var totalShotsAttempted = 0;
     var maxShotsMade = 1;
     for (var i = myData.length - 1; i >= 0; i--) {
-      if (maxShotsMade < myData[i].coord[0]) {
-        maxShotsMade = myData[i].coord[0];
-      }
-      totalShotsMade += myData[i].coord[0];
-      totalShotsAttempted += myData[i].coord[1];
+        if (maxShotsMade < myData[i].coord[0]) {
+            maxShotsMade = myData[i].coord[0];
+        }
+        totalShotsMade += myData[i].coord[0];
+        totalShotsAttempted += myData[i].coord[1];
     }
-	totalShotsMade = Math.max(totalShotsMade,1); // Avoid divide-by-zero
-    ratios =  totalShotsAttempted / totalShotsMade;
 
     // Remove existing lines
     chart.selectAll(".ratioLine")
-    .style("opacity", 0.0)
-    .remove();
+        .style("opacity", 0.0)
+        .remove();
+    console.log(totalShotsMade);
+    if(totalShotsMade>0) {
+    ratios =  totalShotsAttempted / totalShotsMade;
+        var averageLines = chart.selectAll(".ratioLine")
+            .data([ratios])  // data is a singleton array with # shots made / # shots
+            .enter()
+            .append("path")
+            .attr("class","ratioLine")
+            .style("opacity", 0.0)
+        // draw a line at (0, ratio) to (x-axis-length, ratio)
+            .attr("d", "M " + 0 + " " + probability(ratios) + " L " + scatterWidth + " " + probability(ratios))
+            .on("mouseover", function(d) {
+                tooltip.transition()
+                .duration(200)
+                .style("opacity", 1.0);
+                // currTeamCode stores the current team
+                // flags are 3:5 ratio by Wikipedia
+                tooltip.html((100*d).toFixed(2) + "%")
+                .style("left", (d3.event.pageX -5) + "px")
+                .style("top", (d3.event.pageY -20) + "px");
+            })
+            .on("mouseout", function(d) {
+                tooltip.transition()
+                .duration(500)
+                .style("opacity", 0);
+            });
 
-    var averageLines = chart.selectAll(".ratioLine")
-		.data([ratios])  // data is a singleton array with # shots made / # shots
-		.enter()
-		.append("path")
-		.attr("class","ratioLine")
-		.style("opacity", 0.0)
-    // draw a line at (0, ratio) to (x-axis-length, ratio)
-		.attr("d", "M " + 0 + " " + probability(ratios) + " L " + scatterWidth + " " + probability(ratios))
-		.on("mouseover", function(d) {
-			tooltip.transition()
-			.duration(200)
-			.style("opacity", 1.0);
-			// currTeamCode stores the current team
-			// flags are 3:5 ratio by Wikipedia
-			tooltip.html('<img style="width:15px;height:9px;" src="img/' + currTeamCode + '.png"></img> Average: ' + (100*d).toFixed(2) + "%")
-			.style("left", (d3.event.pageX -5) + "px")
-			.style("top", (d3.event.pageY -20) + "px");
-		})
-		.on("mouseout", function(d) {
-			tooltip.transition()
-			.duration(500)
-			.style("opacity", 0);
-		});
-
-    averageLines.transition()
-       .duration(200)
-       .delay(600)
-       .style("opacity", 1.0);
-
-	var t = d3.transition()
-		.duration(300);
-
+        averageLines.transition()
+           .duration(200)
+           .style("opacity", 1.0);
+    }
 
 
 	function tooltipShow(d) {
 		tooltip.transition()
-		.duration(200)
-		.style("opacity", 1.0);
-		tooltip.html("Made: " + d.coord[1]+"/"+d.coord[0]+'<ul><li>' + d.players.map(toTitleCase).join('</li><li>')+"</li></ul>")
-		.style("left", (d3.event.pageX + 5) + "px")
-		.style("top", (d3.event.pageY - 28) + "px");
+            .duration(200)
+            .style("opacity", 1.0);
+            tooltip.html("Made: " + d.coord[1]+"/"+d.coord[0]+'<ul><li>' + d.players.map(toTitleCase).join('</li><li>')+"</li></ul>")
+            .style("left", (d3.event.pageX + 5) + "px")
+            .style("top", (d3.event.pageY - 28) + "px");
 	}
 	function tooltipHide(d) {
 			tooltip.transition()
@@ -592,13 +664,18 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 			.style("opacity", 0);
 		}
 
-	chart.selectAll(".scatterdot")
-		.remove();
+    chart.selectAll(".scatterdot")
+        .attr("class","dotsToRemove")
+        .transition()
+        .duration(200)
+        .style("opacity",0)
 
     var mydots = chart.selectAll(".scatterdot")
 		.data(myData)
-		.enter()
+
+	mydots.enter()
 		.append("circle")
+        .style("opacity",0)
 		.attr("class", "scatterdot")
 		.attr("r", (d) => { return 4*Math.sqrt(d.numPlayers); })
 		.attr("cx", (d) => {
@@ -610,12 +687,15 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 		.on("mouseover", tooltipShow)
 		.on("mouseout", tooltipHide)
 		.attr("fill", (d) => {
-//			console.log(d.players.filter( (p) => { return playerFilter.includes(p);	}));
 			if(d.players.filter( (p) => { return playerFilter.includes(p);	}).length>0) {
 				return "#CCAA00";
 			} else {
 				return "darkblue";
-			}});
+			}})
+        .transition()
+        .delay(100)
+        .duration(200)
+        .style("opacity",0.55);
 }
 }
 
@@ -649,12 +729,58 @@ function initializeTimelines() {
 	for(var quarterNum=1; quarterNum<=4; quarterNum++) {
 		timelineGroup.append("text")
 			.attr("class","axisLabel")
-			.attr("y",- 20)
+			.attr("y",0)
 			.attr("x",timelineQuarterWidth/2 + (quarterNum-1)*(timelineQuarterWidth+timelineInternalPadding))
-			.attr("dy","1em")
+			.attr("dy","-.5em")
 			.style("text-anchor", "middle")
 			.text("Quarter "+quarterNum);
 	}
+
+//  Timeline legend
+
+var timelineLegend = svgLegend.append("g")
+  // .attr("class", "legend")
+  // .attr("width", timelineWidth)
+  // .attr("height", timelineHeight)
+  .attr("transform", `translate(${100}, 0)`);
+
+  var timelineLegendVertSpace = 17;
+  var timelineLegendVertStart = -19;
+  var timelineLegendHorizSpace = 45;
+
+// missed shot icon
+    timelineLegend.append("circle")
+    .attr("class","shotIcon shotIconMiss shotIconFocalTeam")
+    .attr("cx", 0)
+    .attr("cy", 0)
+    .attr("r", 4); // change to 6 if want to reflect focal player
+
+    timelineLegend.append("text")
+    // .attr("class","axisLabel")
+    .attr("transform",
+      `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart})`)
+    .attr("dy","2em")
+    .style("text-anchor", "middle")
+    .text(" shot - missed");
+
+    // goal icon
+    timelineLegend.append("circle")
+    .attr("class","shotIcon shotIconFocalTeam")
+    .attr("cx", 0)
+    .attr("cy", timelineLegendVertSpace)
+    .attr("r", 4); // change to 6 if want to reflect focal player
+
+    timelineLegend.append("text")
+    // .attr("class","axisLabel")
+    .attr("transform",
+      `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart+1*timelineLegendVertSpace})`)
+    .attr("dy","2em")
+    .style("text-anchor", "middle")
+    .text(" shot - scored");
+
+    // score area
+
+
 
 
 	for(var nn=0; nn<6; nn++) {
@@ -684,6 +810,14 @@ function initializeTimelines() {
 			.attr("fill",'white');
 
 		var lineLength = 80;
+    // Add game number to the timelines
+    timeline.append("text")
+      .attr("class","axisLabel")
+      .attr("y",timelineHeight/1.5)
+      .attr("x",-timelineInternalPadding - lineLength)
+      .attr("dy","-.2em")
+      .style("text-anchor", "middle")
+      .text(gameNum);
 		/*
 		  Add flags and team names
 		*/
@@ -691,35 +825,35 @@ function initializeTimelines() {
 		timeline.append("text")
 			.attr("class","teamnameThis")
 			.attr("y",timelineHeight/2)
-			.attr("x",-timelineInternalPadding-lineLength/3)
+			.attr("x",-timelineInternalPadding-lineLength/4)
 			.attr("dy","-.2em")
 			.style("text-anchor", "middle")
 			.text("?");
 		timeline.append("image")
 			.attr("class","flagThis")
 			.attr("href", "img/" + currTeamCode + ".png")
-			.attr("y", timelineHeight/2-20)
-			.attr("x",-timelineInternalPadding-lineLength)
+			.attr("y", timelineHeight/1.95-20)
+			.attr("x",-timelineInternalPadding-lineLength*.9)
 			.attr("height", "20px");
 
 		// now add the other team
 		timeline.append("text")
 			.attr("class","teamnameOpponent")
 			.attr("y",timelineHeight/2)
-			.attr("x",-timelineInternalPadding-lineLength/3)
+			.attr("x",-timelineInternalPadding-lineLength/4)
 			.attr("dy", "1.2em")
 			.style("text-anchor", "middle")
 			.text("?");
 		timeline.append("image")
 			.attr("class","flagOpponent")
 			.attr("href", "img/" + currTeamCode + ".png")
-			.attr("y", timelineHeight/2)
-			.attr("x",-timelineInternalPadding-lineLength)
+			.attr("y", timelineHeight/1.95)
+			.attr("x",-timelineInternalPadding-lineLength*.9)
 			.attr("height", "20px");
 		timeline.append("line")
 			.attr("style","shape-rendering: crispEdges")
 			.attr("x1",-timelineInternalPadding)
-			.attr("x2",-timelineInternalPadding-lineLength)
+			.attr("x2",-timelineInternalPadding-lineLength*.9)
 			.attr("y1",timelineHeight/2+1)
 			.attr("y2",timelineHeight/2+1)
 			.attr("stroke","black")
@@ -955,7 +1089,13 @@ for(var nn=0; nn<6; nn++) {
 				tooltip.transition()
 				.duration(200)
 				.style("opacity", 1.0);
-				tooltip.html('<img style="width:15px;height:9px;" src="img/' + d.Team + '.png"></img>' + " #" + Math.round(d.Cap) + " " + toTitleCase(d.Player) +" (" + d.Team +  ")<br>" + d.Action + ", " + d.Time)
+				tooltip.html(
+          d.Action + ", " + d.Time + "<br>"
+          + ' <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'
+          + " #" + Math.round(d.Cap) + " " + toTitleCase(d.Player)
+          // +" (" + d.Team +  ")"
+          // + '  <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'    // use flag instead of team name
+        )
 				.style("left", (d3.event.pageX - 5) + "px")
 				.style("top", (d3.event.pageY - 50) + "px");
 			})
@@ -1018,9 +1158,6 @@ teamSelect.addEventListener("change", function() {
   // console.log("Current team is " + currTeamCode);
 });
 
-playerSelect.addEventListener("change", function() {
-	populateTimelines();
-});
 
 </script>
 </body>
