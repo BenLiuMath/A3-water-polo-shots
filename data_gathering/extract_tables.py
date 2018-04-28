@@ -136,31 +136,67 @@ def read_pdf_improved(f_name):
 	all_tables = read_pdf(f_name,pages="1-2",multiple_tables=True)
 	top_table  = read_pdf(f_name)
 
-	# pdb.set_trace()
-
 	if (all_tables[1].shape[1] == 12):		# The table does bleed over
+
+		# Align the columns in the pg. 2 tables with those in the pg. 1 tables
+		top_cols = top_table.columns.values
+		bot_cols = all_tables[1].columns.values
+
+		# Combine the score, team, and cap entries into one column
+		cols_34_top  = combine_col_entries(top_table[top_cols[3]],top_table[top_cols[4]])
+		cols_34_bot  = combine_col_entries(all_tables[1][bot_cols[3]],all_tables[1][bot_cols[4]])
+		cols_910_top = combine_col_entries(top_table[top_cols[9]],top_table[top_cols[10]])
+		cols_910_bot = combine_col_entries(all_tables[1][bot_cols[9]],all_tables[1][bot_cols[10]])
+		
+		# Rename the columns in both dataframes appropriately
+		top_table = top_table.rename(
+			index=str,
+			columns={top_cols[3] : "Score", top_cols[4] : "Team Cap", top_cols[9] : "Score.1", top_cols[10] : "Team Cap.1"})
 		all_tables[1].columns = top_table.columns
-		return pd.concat([top_table, all_tables[1].loc[1:]], axis=0, ignore_index=True)
 
-		# # Make sure the columns in the pg. 2 tables align with those in the pg. 1 tables
-		# top_cols = top_table.columns.values
-		# bot_cols = all_tables[1].columns.values
-		# def f(x):
-		# 	return str(x[bot_cols[3]]) + " " + str(x[bot_cols[4]])
-		# if pd.isnull(top_table[top_cols[3]][1]):
-		# 	if pd.isnull(all_tables[1][bot_cols[3]][1]):
-		# 		pass		# It already matches
-		# 	else: 			# We need to combine everything into column 4
-		# 		all_tables[1][bot_cols[3]] = all_tables[1].apply(lambda x: str(x[bot_cols[3]]) + " " + str(x[bot_cols[4]]))
+		# Drop the row containing column names (they are mistakenly read in as table entries)
+		all_tables[1] = all_tables[1].loc[1:]
 
-		# # Else the column contains country data
-		# elif len(str(top_table[top_cols[3]][1])) == 3:
+		# Split up combined columns into score and team-cap
+		top_table['Score'], top_table['Team Cap']             = split_score_team_cap_col(cols_34_top)
+		top_table['Score.1'], top_table['Team Cap.1']         = split_score_team_cap_col(cols_910_top)
+		all_tables[1]['Score'], all_tables[1]['Team Cap']     = split_score_team_cap_col(cols_34_bot[1:])
+		all_tables[1]['Score.1'], all_tables[1]['Team Cap.1'] = split_score_team_cap_col(cols_910_bot[1:])
 
-
-
+		return pd.concat([top_table, all_tables[1]], axis=0, ignore_index=True)
 
 	else:
 		return top_table
+
+
+# Combines the entries from two columns (c1 and c2--assumed to be arrays or lists) into one list
+def combine_col_entries(c1,c2):
+	out_list = [None] * len(c1)
+	for k in xrange(len(c1)):
+		if pd.isnull(c1[k]):
+			out_list[k] = str(c2[k])
+		elif pd.isnull(c2[k]):
+			out_list[k] = str(c1[k])
+		else:
+			out_list[k] = str(c1[k]) + " " + str(c2[k])
+	return out_list
+
+
+# Splits up the Score Team Cap combined column into Score and Team Cap columns
+def split_score_team_cap_col(c):
+	score = [None] * len(c)
+	team_cap = [None] * len(c)
+
+	for k in xrange(len(c)):
+		if len(c[k]) <= 8:			# No score entry
+			team_cap[k] = c[k]
+		else:						# Score entry is present
+			parts = str(c[k]).split(" ")
+			score[k] = parts[0] + " - " + parts[2]
+			team_cap[k] = parts[3] + " " + parts[4]
+
+	return score, team_cap
+
 
 # Determine which team is the home team and which is the away team
 # 	Returns a list of the two team names in an order corresponding
@@ -194,11 +230,6 @@ def infer_home_and_away(df):
 
 game_list_file = open(game_list_filename, 'w')
 game_list_file.write("Team 1,Team 2\n")
-
-# teams = clean_file(base_prefix + "32" + base_postfix)
-
-
-# pdb.set_trace()
 
 # First 9 have a 0
 for n in xrange(1,10):
