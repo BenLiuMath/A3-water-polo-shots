@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html xml:lang="en" lang="en">
 <head>
-  <title>CSE512 | A3 U.S.A. Women's Water Polo Shot Visualizer</title>
+  <title>CSE512 | A3 Women's Water Polo Offense Visualizer</title>
   <style media="all">
 * { padding: 0; margin: 0; }
 
@@ -26,7 +26,7 @@ ol li
     text-indent: 10px;
 }
 
-ul{
+/* ul{
   margin-left: 30px;
   padding: 15 15 5px 15;
 }
@@ -36,6 +36,12 @@ ul li
     margin: 0px;
     padding: 0px;
     text-indent: 10px;
+} */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 h1, h2, h3, h4, h5 {
@@ -229,7 +235,7 @@ body {
 <div class="content">
 
   <section class="title">
-    <a href="/">U.S.A. Women's Water Polo Shot Visualizer</a>
+    <a href="/">Women's Water Polo Offense Visualizer</a>
   </section>
 
   <section>
@@ -316,7 +322,7 @@ var svg = d3.select("#poloVis")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 var svgLegend = d3.select("#legends")
-    .attr("width", 200)
+    .attr("width", 220)
     .attr("height", 120)
 	//.attr("style","background:red;")
 	.append("g")
@@ -657,8 +663,8 @@ for(var nn=0; nn<shotTypes.length; nn++) {
                 tooltip.transition()
                 .duration(200)
                 .style("opacity", 1.0);
-                tooltip.html((100*d.ratio).toFixed(2) + "%")
-                .style("left", (d3.event.pageX -5) + "px")
+                tooltip.html("Team: " + (100*d.ratio).toFixed(2) + "%")
+                .style("left", (d3.event.pageX +2) + "px")
                 .style("top", (d3.event.pageY -20) + "px");
             })
             .on("mouseout", function(d) {
@@ -785,7 +791,7 @@ var timelineLegend = svgLegend.append("g")
   // .attr("class", "legend")
   // .attr("width", timelineWidth)
   // .attr("height", timelineHeight)
-  .attr("transform", `translate(${100}, 0)`);
+  .attr("transform", `translate(${120}, 0)`);
 
   var timelineLegendVertSpace = 17;
   var timelineLegendVertStart = -19;
@@ -821,9 +827,58 @@ var timelineLegend = svgLegend.append("g")
     .style("text-anchor", "middle")
     .text(" shot - scored");
 
-    // score area
+    // Score area plots, for legend
+    const areaWinLegData = [{"x":"0", "y":"-10"},
+        {"x":"10", "y":"-15"},
+        {"x":"20", "y":"-15"}
+      ];
 
+    var areaWinLeg = d3.area()
+      .curve(d3.curveStepAfter)
+      .x( function(d) { return d.x; } )
+      .y0(0)
+      .y1( function(d) { return d.y; } );
 
+     timelineLegend.append("path")
+      .datum(areaWinLegData)
+      .attr("class","areaWin")
+      .attr("d", areaWinLeg)
+      .attr("transform",
+        `translate(-10, ${timelineLegendVertStart+4*timelineLegendVertSpace})`);
+
+      const areaLoseLegData = [{"x":"0", "y":"5"},
+          {"x":"5", "y":"10"},
+          {"x":"20", "y":"10"}
+        ];
+
+      var areaLoseLeg = d3.area()
+        .curve(d3.curveStepAfter)
+        .x( function(d) { return d.x; } )
+        .y0(0)
+        .y1( function(d) { return d.y; } );
+
+       timelineLegend.append("path")
+        .datum(areaLoseLegData)
+        .attr("class","areaLose")
+        .attr("d", areaLoseLeg)
+        .attr("transform",
+          `translate(-10, ${5+timelineLegendVertStart+4*timelineLegendVertSpace})`);
+
+      timelineLegend.append("text")
+          // .attr("class","axisLabel")
+          .attr("transform",
+            `translate(${2+timelineLegendHorizSpace}, ${timelineLegendVertStart+3*timelineLegendVertSpace - 7})`)
+          .attr("dy","2em")
+          .style("text-anchor", "middle")
+          .text("team 1 score");
+
+        timelineLegend.append("text")
+            // .attr("class","axisLabel")
+            .attr("transform",
+              `translate(${2 + timelineLegendHorizSpace}, ${timelineLegendVertStart+3*timelineLegendVertSpace + 10})`)
+            .attr("dy","2em")
+            .style("text-anchor", "middle")
+            .text("team 2 score");
 
 
 	for(var nn=0; nn<6; nn++) {
@@ -1133,7 +1188,7 @@ for(var nn=0; nn<6; nn++) {
 				.style("opacity", 1.0);
 				tooltip.html(
           d.Action + ", " + d.Time + "<br>"
-          + ' <img style="width:15px;height:9px;" src="../d3/img/' +  d.Team + '.png"></img>'
+          + ' <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'
           + " #" + Math.round(d.Cap) + " " + toTitleCase(d.Player)
           // +" (" + d.Team +  ")"
           // + '  <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'    // use flag instead of team name
