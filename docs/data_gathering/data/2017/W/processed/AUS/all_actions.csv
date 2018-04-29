@@ -1,0 +1,839 @@
+AUS,Action,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+0,Starting goalkeeper,1.0,1,0,KAZ,1.0,YANITSAS L,0 - 0,480,AUS,8:00
+0,Starting goalkeeper,1.0,1,0,KAZ,1.0,ZHARKIMBAYEVA A,0 - 0,480,KAZ,8:00
+0,Sprint won possession,2.0,1,0,KAZ,1.0,GOFERS K,0 - 0,480,AUS,8:00
+0,20 sec. exclusion in field,3.0,1,0,KAZ,1.0,AKILBAYEVA A,0 - 0,457,KAZ,7:37
+1,Action shot - Goal,7.0,1,0,KAZ,1.0,WEBSTER R,1 - 0,432,AUS,7:12
+1,Action shot - Saved,10.0,1,0,KAZ,1.0,MYRZABEKOVA Z,1 - 0,420,KAZ,7:00
+1,20 sec. exclusion in centre,2.0,1,0,KAZ,1.0,GOFERS K,1 - 0,397,AUS,6:37
+1,Action shot - Goal,5.0,1,1,KAZ,1.0,ZAKIROVA K,1 - 1,368,KAZ,6:08
+1,Turnover foul,4.0,1,1,KAZ,1.0,HALLIGAN B,1 - 1,350,AUS,5:50
+1,Steal,3.0,1,1,KAZ,1.0,AKILBAYEVA A,1 - 1,350,KAZ,5:50
+1,Turnover foul,10.0,1,1,KAZ,1.0,MYRZABEKOVA Z,1 - 1,325,KAZ,5:25
+1,Steal,4.0,1,1,KAZ,1.0,HALLIGAN B,1 - 1,325,AUS,5:25
+1,Turnover foul,4.0,1,1,KAZ,1.0,HALLIGAN B,1 - 1,308,AUS,5:08
+1,Steal,10.0,1,1,KAZ,1.0,MYRZABEKOVA Z,1 - 1,308,KAZ,5:08
+1,Action shot - Missed,2.0,1,1,KAZ,1.0,GOFERS K,1 - 1,207,AUS,3:27
+1,Turnover foul,4.0,1,1,KAZ,1.0,TUROVA A,1 - 1,188,KAZ,3:08
+1,Steal,4.0,1,1,KAZ,1.0,HALLIGAN B,1 - 1,188,AUS,3:08
+2,Action shot - Goal,7.0,1,1,KAZ,1.0,WEBSTER R,2 - 1,172,AUS,2:52
+2,Action shot - Saved,11.0,1,1,KAZ,1.0,MIRSHINA A,2 - 1,158,KAZ,2:38
+2,20 sec. exclusion in centre,4.0,1,1,KAZ,1.0,TUROVA A,2 - 1,137,KAZ,2:17
+3,Extra player shot - Goal,9.0,1,1,KAZ,1.0,ARANCINI Z,3 - 1,137,AUS,2:17
+3,Steal,4.0,1,1,KAZ,1.0,HALLIGAN B,3 - 1,97,AUS,1:37
+3,Centre shot - Saved,3.0,1,1,KAZ,1.0,BUCKLING H,3 - 1,80,AUS,1:20
+3,Time-Out,,1,1,KAZ,1.0,,3 - 1,78,KAZ,1:18
+3,Turnover foul,6.0,1,1,KAZ,1.0,ROGA D,3 - 1,73,KAZ,1:13
+3,Steal,9.0,1,1,KAZ,1.0,ARANCINI Z,3 - 1,73,AUS,1:13
+4,Action shot - Goal,12.0,1,1,KAZ,1.0,STEERE M,4 - 1,60,AUS,1:00
+4,5m shot - Saved,6.0,1,1,KAZ,1.0,ROGA D,4 - 1,34,KAZ,0:34
+4,Counter attack - Post,9.0,1,1,KAZ,1.0,ARANCINI Z,4 - 1,20,AUS,0:20
+4,Action shot - Saved,12.0,1,1,KAZ,1.0,STEERE M,4 - 1,1,AUS,0:01
+4,Starting goalkeeper,1.0,1,1,KAZ,2.0,YANITSAS L,4 - 1,480,AUS,8:00
+4,Starting goalkeeper,1.0,1,1,KAZ,2.0,ZHARKIMBAYEVA A,4 - 1,480,KAZ,8:00
+4,Sprint won possession,5.0,1,1,KAZ,2.0,ZAKIROVA K,4 - 1,480,KAZ,8:00
+4,5m shot - Blocked,3.0,1,1,KAZ,2.0,AKILBAYEVA A,4 - 1,455,KAZ,7:35
+4,Turnover foul,5.0,1,1,KAZ,2.0,BISHOP I,4 - 1,400,AUS,6:40
+4,Turnover foul,4.0,1,1,KAZ,2.0,TUROVA A,4 - 1,355,KAZ,5:55
+4,Steal,5.0,1,1,KAZ,2.0,BISHOP I,4 - 1,355,AUS,5:55
+4,Action shot - Saved,5.0,1,1,KAZ,2.0,BISHOP I,4 - 1,339,AUS,5:39
+4,5m shot - Saved,5.0,1,1,KAZ,2.0,ZAKIROVA K,4 - 1,311,KAZ,5:11
+4,Turnover foul,2.0,1,1,KAZ,2.0,GOFERS K,4 - 1,293,AUS,4:53
+4,Steal,4.0,1,1,KAZ,2.0,TUROVA A,4 - 1,293,KAZ,4:53
+4,Turnover foul,10.0,1,1,KAZ,2.0,MYRZABEKOVA Z,4 - 1,272,KAZ,4:32
+4,Steal,2.0,1,1,KAZ,2.0,GOFERS K,4 - 1,272,AUS,4:32
+5,5m shot - Goal,7.0,1,1,KAZ,2.0,WEBSTER R,5 - 1,244,AUS,4:04
+5,Turnover foul,6.0,1,1,KAZ,2.0,ROGA D,5 - 1,214,KAZ,3:34
+5,Steal,7.0,1,1,KAZ,2.0,WEBSTER R,5 - 1,214,AUS,3:34
+6,Action shot - Goal,9.0,1,1,KAZ,2.0,ARANCINI Z,6 - 1,198,AUS,3:18
+6,Turnover foul,8.0,1,1,KAZ,2.0,SAICHUK O,6 - 1,185,KAZ,3:05
+6,Steal,9.0,1,1,KAZ,2.0,ARANCINI Z,6 - 1,185,AUS,3:05
+7,Centre shot - Goal,3.0,1,1,KAZ,2.0,BUCKLING H,7 - 1,167,AUS,2:47
+7,20 sec. exclusion in centre,4.0,1,1,KAZ,2.0,HALLIGAN B,7 - 1,155,AUS,2:35
+7,Centre shot - Goal,11.0,1,2,KAZ,2.0,MIRSHINA A,7 - 2,155,KAZ,2:35
+7,Action shot - Missed,9.0,1,2,KAZ,2.0,ARANCINI Z,7 - 2,130,AUS,2:10
+7,Turnover foul,3.0,1,2,KAZ,2.0,AKILBAYEVA A,7 - 2,130,KAZ,2:10
+7,Steal,4.0,1,2,KAZ,2.0,HALLIGAN B,7 - 2,130,AUS,2:10
+7,Steal,9.0,1,2,KAZ,2.0,YEREMINA A,7 - 2,109,KAZ,1:49
+7,Turnover foul,11.0,1,2,KAZ,2.0,MIRSHINA A,7 - 2,84,KAZ,1:24
+7,Steal,5.0,1,2,KAZ,2.0,BISHOP I,7 - 2,84,AUS,1:24
+8,Centre shot - Goal,12.0,1,2,KAZ,2.0,STEERE M,8 - 2,69,AUS,1:09
+8,Action shot - Missed,3.0,1,2,KAZ,2.0,AKILBAYEVA A,8 - 2,41,KAZ,0:41
+8,Centre shot - Saved,5.0,1,2,KAZ,2.0,BISHOP I,8 - 2,31,AUS,0:31
+8,Turnover foul,2.0,1,2,KAZ,2.0,GOFERS K,8 - 2,19,AUS,0:19
+8,Steal,6.0,1,2,KAZ,2.0,ROGA D,8 - 2,19,KAZ,0:19
+8,Time-Out,,1,2,KAZ,2.0,,8 - 2,19,KAZ,0:19
+8,20 sec. exclusion in centre,5.0,1,2,KAZ,2.0,BISHOP I,8 - 2,13,AUS,0:13
+8,Extra player shot - Saved,5.0,1,2,KAZ,2.0,ZAKIROVA K,8 - 2,1,KAZ,0:01
+8,Starting goalkeeper,1.0,1,2,KAZ,3.0,YANITSAS L,8 - 2,480,AUS,8:00
+8,Starting goalkeeper,1.0,1,2,KAZ,3.0,ZHARKIMBAYEVA A,8 - 2,480,KAZ,8:00
+8,Sprint won possession,2.0,1,2,KAZ,3.0,GOFERS K,8 - 2,480,AUS,8:00
+8,Turnover foul,10.0,1,2,KAZ,3.0,MYRZABEKOVA Z,8 - 2,428,KAZ,7:08
+8,Steal,5.0,1,2,KAZ,3.0,BISHOP I,8 - 2,428,AUS,7:08
+9,5m shot - Goal,5.0,1,2,KAZ,3.0,BISHOP I,9 - 2,413,AUS,6:53
+9,20 sec. exclusion in centre,2.0,1,2,KAZ,3.0,GOFERS K,9 - 2,403,AUS,6:43
+9,Action shot - Goal,3.0,1,3,KAZ,3.0,AKILBAYEVA A,9 - 3,382,KAZ,6:22
+9,Action shot - Missed,5.0,1,3,KAZ,3.0,BISHOP I,9 - 3,354,AUS,5:54
+9,Action shot - Missed,5.0,1,3,KAZ,3.0,ZAKIROVA K,9 - 3,333,KAZ,5:33
+10,Action shot - Goal,2.0,1,3,KAZ,3.0,GOFERS K,10 - 3,321,AUS,5:21
+10,Action shot - Saved,9.0,1,3,KAZ,3.0,ARANCINI Z,10 - 3,266,AUS,4:26
+10,Centre shot - Post,3.0,1,3,KAZ,3.0,BUCKLING H,10 - 3,217,AUS,3:37
+10,5m shot - Saved,11.0,1,3,KAZ,3.0,MIRSHINA A,10 - 3,190,KAZ,3:10
+10,Action shot - Blocked,7.0,1,3,KAZ,3.0,WEBSTER R,10 - 3,175,AUS,2:55
+10,Action shot - Goal,5.0,1,4,KAZ,3.0,ZAKIROVA K,10 - 4,153,KAZ,2:33
+10,Turnover foul,4.0,1,4,KAZ,3.0,TUROVA A,10 - 4,132,KAZ,2:12
+10,Steal,7.0,1,4,KAZ,3.0,WEBSTER R,10 - 4,132,AUS,2:12
+11,Action shot - Goal,6.0,1,4,KAZ,3.0,RIDGE A,11 - 4,85,AUS,1:25
+11,Turnover foul,11.0,1,4,KAZ,3.0,MIRSHINA A,11 - 4,61,KAZ,1:01
+11,Steal,4.0,1,4,KAZ,3.0,HALLIGAN B,11 - 4,61,AUS,1:01
+12,Centre shot - Goal,7.0,1,4,KAZ,3.0,WEBSTER R,12 - 4,41,AUS,0:41
+12,20 sec. exclusion in centre,5.0,1,4,KAZ,3.0,BISHOP I,12 - 4,27,AUS,0:27
+12,Time-Out,,1,4,KAZ,3.0,,12 - 4,26,KAZ,0:26
+12,Action shot - Post,12.0,1,4,KAZ,3.0,MUSSAROVA A,12 - 4,2,KAZ,0:02
+12,Starting goalkeeper,1.0,1,4,KAZ,4.0,YANITSAS L,12 - 4,480,AUS,8:00
+12,Starting goalkeeper,1.0,1,4,KAZ,4.0,ZHARKIMBAYEVA A,12 - 4,480,KAZ,8:00
+12,Sprint won possession,4.0,1,4,KAZ,4.0,HALLIGAN B,12 - 4,480,AUS,8:00
+12,20 sec. exclusion in centre,11.0,1,4,KAZ,4.0,MIRSHINA A,12 - 4,460,KAZ,7:40
+12,Action shot - Saved,7.0,1,4,KAZ,4.0,WEBSTER R,12 - 4,438,AUS,7:18
+12,Action shot - Saved,11.0,1,4,KAZ,4.0,MIRSHINA A,12 - 4,414,KAZ,6:54
+12,Action shot - Blocked,5.0,1,4,KAZ,4.0,ZAKIROVA K,12 - 4,349,KAZ,5:49
+12,Action shot - Post,4.0,1,4,KAZ,4.0,HALLIGAN B,12 - 4,335,AUS,5:35
+12,Turnover foul,3.0,1,4,KAZ,4.0,AKILBAYEVA A,12 - 4,300,KAZ,5:00
+12,Steal,3.0,1,4,KAZ,4.0,BUCKLING H,12 - 4,300,AUS,5:00
+13,Centre shot - Goal,5.0,1,4,KAZ,4.0,BISHOP I,13 - 4,280,AUS,4:40
+13,Turnover foul,11.0,1,4,KAZ,4.0,MIRSHINA A,13 - 4,266,KAZ,4:26
+13,Steal,9.0,1,4,KAZ,4.0,ARANCINI Z,13 - 4,266,AUS,4:26
+14,Centre shot - Goal,9.0,1,4,KAZ,4.0,ARANCINI Z,14 - 4,255,AUS,4:15
+14,Turnover foul,7.0,1,4,KAZ,4.0,NOVIKOVA A,14 - 4,224,KAZ,3:44
+14,Steal,4.0,1,4,KAZ,4.0,HALLIGAN B,14 - 4,224,AUS,3:44
+14,Centre shot - Saved,4.0,1,4,KAZ,4.0,HALLIGAN B,14 - 4,214,AUS,3:34
+14,Action shot - Missed,6.0,1,4,KAZ,4.0,ROGA D,14 - 4,194,KAZ,3:14
+14,Action shot - Missed,12.0,1,4,KAZ,4.0,STEERE M,14 - 4,182,AUS,3:02
+14,20 sec. exclusion in field,7.0,1,4,KAZ,4.0,WEBSTER R,14 - 4,169,AUS,2:49
+14,20 sec. exclusion in centre,4.0,1,4,KAZ,4.0,HALLIGAN B,14 - 4,158,AUS,2:38
+14,Time-Out,,1,4,KAZ,4.0,,14 - 4,158,KAZ,2:38
+14,Action shot - Saved,11.0,1,4,KAZ,4.0,MIRSHINA A,14 - 4,140,KAZ,2:20
+14,Action shot - Saved,2.0,1,4,KAZ,4.0,GOFERS K,14 - 4,110,AUS,1:50
+15,Action shot - Goal,2.0,1,4,KAZ,4.0,GOFERS K,15 - 4,86,AUS,1:26
+15,5m shot - Missed,6.0,1,4,KAZ,4.0,ROGA D,15 - 4,59,KAZ,0:59
+16,Action shot - Goal,7.0,1,4,KAZ,4.0,WEBSTER R,16 - 4,47,AUS,0:47
+16,Centre shot - Blocked,2.0,1,4,KAZ,4.0,RAITER S,16 - 4,29,KAZ,0:29
+0,Starting goalkeeper,1.0,2,0,RUS,1.0,YANITSAS L,0 - 0,480,AUS,8:00
+0,Starting goalkeeper,13.0,2,0,RUS,1.0,KARNAUKH A,0 - 0,480,RUS,8:00
+0,Sprint won possession,2.0,2,0,RUS,1.0,GOFERS K,0 - 0,480,AUS,8:00
+0,Turnover foul,2.0,2,0,RUS,1.0,GOFERS K,0 - 0,457,AUS,7:37
+0,Steal,4.0,2,0,RUS,1.0,KARIMOVA E,0 - 0,457,RUS,7:37
+0,Turnover foul,8.0,2,0,RUS,1.0,SIMANOVICH A,0 - 0,430,RUS,7:10
+0,Steal,6.0,2,0,RUS,1.0,RIDGE A,0 - 0,430,AUS,7:10
+0,Turnover foul,6.0,2,0,RUS,1.0,RIDGE A,0 - 0,404,AUS,6:44
+0,Steal,3.0,2,0,RUS,1.0,PROKOFYEVA E,0 - 0,404,RUS,6:44
+0,20 sec. exclusion in centre,5.0,2,0,RUS,1.0,BISHOP I,0 - 0,382,AUS,6:22
+0,Extra player shot - Goal,11.0,2,1,RUS,1.0,IVANOVA E,0 - 1,365,RUS,6:05
+0,Action shot - Missed,5.0,2,1,RUS,1.0,BISHOP I,0 - 1,335,AUS,5:35
+0,5m shot - Post,11.0,2,1,RUS,1.0,IVANOVA E,0 - 1,313,RUS,5:13
+0,20 sec. exclusion in centre,8.0,2,1,RUS,1.0,SIMANOVICH A,0 - 1,287,RUS,4:47
+0,Action shot - Saved,3.0,2,1,RUS,1.0,BUCKLING H,0 - 1,268,AUS,4:28
+0,Action shot - Saved,4.0,2,1,RUS,1.0,KARIMOVA E,0 - 1,242,RUS,4:02
+0,Action shot - Blocked,2.0,2,1,RUS,1.0,VAKHITOVA V,0 - 1,228,RUS,3:48
+0,20 sec. exclusion in field,4.0,2,1,RUS,1.0,KARIMOVA E,0 - 1,203,RUS,3:23
+0,5m shot - Blocked,4.0,2,1,RUS,1.0,HALLIGAN B,0 - 1,176,AUS,2:56
+0,5m shot - Post,3.0,2,1,RUS,1.0,PROKOFYEVA E,0 - 1,155,RUS,2:35
+1,Action shot - Goal,6.0,2,1,RUS,1.0,RIDGE A,1 - 1,130,AUS,2:10
+1,5m shot - Goal,5.0,2,2,RUS,1.0,BORISOVA M,1 - 2,107,RUS,1:47
+1,Turnover foul,9.0,2,2,RUS,1.0,ARANCINI Z,1 - 2,74,AUS,1:14
+1,Action shot - Missed,3.0,2,2,RUS,1.0,PROKOFYEVA E,1 - 2,58,RUS,0:58
+1,Action shot - Missed,4.0,2,2,RUS,1.0,HALLIGAN B,1 - 2,31,AUS,0:31
+1,Time-Out,,2,2,RUS,1.0,,1 - 2,31,RUS,0:31
+1,Time-Out,,2,2,RUS,1.0,,1 - 2,7,AUS,0:07
+1,Turnover foul,9.0,2,2,RUS,1.0,TIMOFEEVA A,1 - 2,6,RUS,0:06
+1,Steal,1.0,2,2,RUS,1.0,YANITSAS L,1 - 2,6,AUS,0:06
+1,Starting goalkeeper,1.0,2,2,RUS,2.0,YANITSAS L,1 - 2,480,AUS,8:00
+1,Starting goalkeeper,13.0,2,2,RUS,2.0,KARNAUKH A,1 - 2,480,RUS,8:00
+1,Sprint won possession,3.0,2,2,RUS,2.0,PROKOFYEVA E,1 - 2,478,RUS,7:58
+1,5m shot - Saved,3.0,2,2,RUS,2.0,PROKOFYEVA E,1 - 2,454,RUS,7:34
+1,Action shot - Saved,7.0,2,2,RUS,2.0,WEBSTER R,1 - 2,436,AUS,7:16
+1,Turnover foul,4.0,2,2,RUS,2.0,KARIMOVA E,1 - 2,412,RUS,6:52
+1,Steal,3.0,2,2,RUS,2.0,BUCKLING H,1 - 2,412,AUS,6:52
+1,Action shot - Saved,4.0,2,2,RUS,2.0,HALLIGAN B,1 - 2,383,AUS,6:23
+1,Turnover foul,8.0,2,2,RUS,2.0,SIMANOVICH A,1 - 2,365,RUS,6:05
+1,Steal,6.0,2,2,RUS,2.0,RIDGE A,1 - 2,365,AUS,6:05
+1,Centre shot - Saved,7.0,2,2,RUS,2.0,WEBSTER R,1 - 2,340,AUS,5:40
+1,Action shot - Blocked,5.0,2,2,RUS,2.0,BORISOVA M,1 - 2,318,RUS,5:18
+2,Counter attack - Goal,3.0,2,2,RUS,2.0,BUCKLING H,2 - 2,301,AUS,5:01
+2,Turnover foul,5.0,2,2,RUS,2.0,BORISOVA M,2 - 2,282,RUS,4:42
+2,Steal,7.0,2,2,RUS,2.0,WEBSTER R,2 - 2,282,AUS,4:42
+2,Turnover foul,1.0,2,2,RUS,2.0,YANITSAS L,2 - 2,275,AUS,4:35
+2,Steal,3.0,2,2,RUS,2.0,PROKOFYEVA E,2 - 2,275,RUS,4:35
+2,Action shot - Goal,5.0,2,3,RUS,2.0,BORISOVA M,2 - 3,251,RUS,4:11
+2,Action shot - Missed,9.0,2,3,RUS,2.0,ARANCINI Z,2 - 3,230,AUS,3:50
+2,Turnover foul,9.0,2,3,RUS,2.0,TIMOFEEVA A,2 - 3,218,RUS,3:38
+2,20 sec. exclusion in centre,7.0,2,3,RUS,2.0,SERZHANTOVA A,2 - 3,202,RUS,3:22
+2,Time-Out,,2,3,RUS,2.0,,2 - 3,202,AUS,3:22
+3,Extra player shot - Goal,2.0,2,3,RUS,2.0,GOFERS K,3 - 3,183,AUS,3:03
+3,Turnover foul,4.0,2,3,RUS,2.0,KARIMOVA E,3 - 3,169,RUS,2:49
+3,Steal,2.0,2,3,RUS,2.0,GOFERS K,3 - 3,169,AUS,2:49
+3,Turnover foul,3.0,2,3,RUS,2.0,BUCKLING H,3 - 3,152,AUS,2:32
+3,Steal,9.0,2,3,RUS,2.0,TIMOFEEVA A,3 - 3,152,RUS,2:32
+3,20 sec. exclusion in field,3.0,2,3,RUS,2.0,BUCKLING H,3 - 3,149,AUS,2:29
+3,Centre shot - Saved,3.0,2,3,RUS,2.0,PROKOFYEVA E,3 - 3,121,RUS,2:01
+3,5m shot - Saved,9.0,2,3,RUS,2.0,ARANCINI Z,3 - 3,100,AUS,1:40
+3,Turnover foul,9.0,2,3,RUS,2.0,TIMOFEEVA A,3 - 3,82,RUS,1:22
+3,Centre shot - Saved,2.0,2,3,RUS,2.0,GOFERS K,3 - 3,58,AUS,0:58
+8,Action shot - Goal,2.0,2,5,RUS,4.0,GOFERS K,8 - 5,172,AUS,2:52
+8,5m shot - Post,3.0,2,5,RUS,4.0,PROKOFYEVA E,8 - 5,149,RUS,2:29
+8,20 sec. exclusion in field,9.0,2,5,RUS,4.0,ARANCINI Z,8 - 5,117,AUS,1:57
+8,Time-Out,,2,5,RUS,4.0,,8 - 5,117,RUS,1:57
+8,Extra player shot - Blocked,5.0,2,5,RUS,4.0,BORISOVA M,8 - 5,98,RUS,1:38
+8,Time-Out,,2,5,RUS,2.0,,8 - 5,58,RUS,0:58
+8,Turnover foul,4.0,2,5,RUS,2.0,KARIMOVA E,8 - 5,44,RUS,0:44
+8,Steal,7.0,2,5,RUS,2.0,WEBSTER R,8 - 5,44,AUS,0:44
+8,Turnover foul,2.0,2,5,RUS,2.0,GOFERS K,8 - 5,31,AUS,0:31
+8,Steal,7.0,2,5,RUS,2.0,SERZHANTOVA A,8 - 5,31,RUS,0:31
+8,Turnover foul,8.0,2,5,RUS,2.0,SIMANOVICH A,8 - 5,13,RUS,0:13
+8,Turnover foul,9.0,2,5,RUS,2.0,ARANCINI Z,8 - 5,2,AUS,0:02
+8,Steal,5.0,2,5,RUS,2.0,BORISOVA M,8 - 5,2,RUS,0:02
+8,Starting goalkeeper,1.0,2,5,RUS,3.0,YANITSAS L,8 - 5,480,AUS,8:00
+8,Starting goalkeeper,13.0,2,5,RUS,3.0,KARNAUKH A,8 - 5,480,RUS,8:00
+8,Sprint won possession,4.0,2,5,RUS,3.0,KARIMOVA E,8 - 5,480,RUS,8:00
+8,5m shot - Blocked,3.0,2,5,RUS,3.0,PROKOFYEVA E,8 - 5,450,RUS,7:30
+8,20 sec. exclusion in centre,11.0,2,5,RUS,3.0,IVANOVA E,8 - 5,428,RUS,7:08
+8,Extra player shot - Missed,2.0,2,5,RUS,3.0,GOFERS K,8 - 5,417,AUS,6:57
+8,20 sec. exclusion in centre,3.0,2,5,RUS,3.0,BUCKLING H,8 - 5,399,AUS,6:39
+8,5m shot - Blocked,11.0,2,5,RUS,3.0,IVANOVA E,8 - 5,375,RUS,6:15
+8,Turnover foul,7.0,2,5,RUS,3.0,WEBSTER R,8 - 5,363,AUS,6:03
+8,Steal,5.0,2,5,RUS,3.0,BORISOVA M,8 - 5,363,RUS,6:03
+8,20 sec. exclusion in field,7.0,2,5,RUS,3.0,WEBSTER R,8 - 5,361,AUS,6:01
+8,Centre shot - Blocked,11.0,2,5,RUS,3.0,IVANOVA E,8 - 5,333,RUS,5:33
+4,Centre shot - Goal,7.0,2,3,RUS,3.0,WEBSTER R,4 - 3,304,AUS,5:04
+4,Turnover foul,9.0,2,3,RUS,3.0,TIMOFEEVA A,4 - 3,285,RUS,4:45
+4,Steal,3.0,2,3,RUS,3.0,BUCKLING H,4 - 3,285,AUS,4:45
+4,Action shot - Post,2.0,2,3,RUS,3.0,GOFERS K,4 - 3,265,AUS,4:25
+4,5m shot - Post,4.0,2,3,RUS,3.0,KARIMOVA E,4 - 3,241,RUS,4:01
+4,Action shot - Saved,2.0,2,3,RUS,3.0,GOFERS K,4 - 3,220,AUS,3:40
+4,Action shot - Missed,11.0,2,3,RUS,3.0,IVANOVA E,4 - 3,192,RUS,3:12
+4,20 sec. exclusion in field,9.0,2,3,RUS,3.0,TIMOFEEVA A,4 - 3,168,RUS,2:48
+4,Time-Out,,2,3,RUS,3.0,,4 - 3,168,AUS,2:48
+5,Action shot - Goal,7.0,2,3,RUS,3.0,WEBSTER R,5 - 3,144,AUS,2:24
+5,20 sec. exclusion in centre,12.0,2,3,RUS,3.0,STEERE M,5 - 3,124,AUS,2:04
+5,Yellow card,,2,3,RUS,3.0,Team Official,5 - 3,124,AUS,2:04
+5,Time-Out,,2,3,RUS,3.0,,5 - 3,124,RUS,2:04
+5,Action shot - Goal,12.0,2,4,RUS,3.0,RYZHKOVA D,5 - 4,99,RUS,1:39
+5,20 sec. exclusion in centre,12.0,2,4,RUS,3.0,RYZHKOVA D,5 - 4,89,RUS,1:29
+6,Centre shot - Goal,3.0,2,4,RUS,3.0,BUCKLING H,6 - 4,66,AUS,1:06
+6,Turnover foul,5.0,2,4,RUS,3.0,BORISOVA M,6 - 4,51,RUS,0:51
+6,Steal,2.0,2,4,RUS,3.0,GOFERS K,6 - 4,51,AUS,0:51
+6,5m shot - Saved,9.0,2,4,RUS,3.0,ARANCINI Z,6 - 4,20,AUS,0:20
+6,20 sec. exclusion in centre,9.0,2,4,RUS,3.0,ARANCINI Z,6 - 4,4,AUS,0:04
+6,Starting goalkeeper,1.0,2,4,RUS,4.0,YANITSAS L,6 - 4,480,AUS,8:00
+6,Starting goalkeeper,13.0,2,4,RUS,4.0,KARNAUKH A,6 - 4,480,RUS,8:00
+6,Sprint won possession,4.0,2,4,RUS,4.0,KARIMOVA E,6 - 4,480,RUS,8:00
+6,Action shot - Blocked,3.0,2,4,RUS,4.0,PROKOFYEVA E,6 - 4,462,RUS,7:42
+6,Turnover foul,3.0,2,4,RUS,4.0,BUCKLING H,6 - 4,447,AUS,7:27
+6,Steal,5.0,2,4,RUS,4.0,BORISOVA M,6 - 4,447,RUS,7:27
+6,20 sec. exclusion in centre,4.0,2,4,RUS,4.0,HALLIGAN B,6 - 4,426,AUS,7:06
+6,Extra player shot - Goal,4.0,2,5,RUS,4.0,KARIMOVA E,6 - 5,423,RUS,7:03
+7,Centre shot - Goal,5.0,2,5,RUS,4.0,BISHOP I,7 - 5,394,AUS,6:34
+7,5m shot - Saved,5.0,2,5,RUS,4.0,BORISOVA M,7 - 5,368,RUS,6:08
+7,Action shot - Blocked,4.0,2,5,RUS,4.0,HALLIGAN B,7 - 5,340,AUS,5:40
+7,20 sec. exclusion in field,3.0,2,5,RUS,4.0,BUCKLING H,7 - 5,320,AUS,5:20
+7,Exclusion with substitution,3.0,2,5,RUS,4.0,BUCKLING H,7 - 5,320,AUS,5:20
+7,Extra player shot - Missed,4.0,2,5,RUS,4.0,KARIMOVA E,7 - 5,299,RUS,4:59
+7,Turnover foul,7.0,2,5,RUS,4.0,WEBSTER R,7 - 5,272,AUS,4:32
+7,Steal,6.0,2,5,RUS,4.0,GORBUNOVA O,7 - 5,272,RUS,4:32
+7,Turnover foul,6.0,2,5,RUS,4.0,GORBUNOVA O,7 - 5,258,RUS,4:18
+7,Steal,5.0,2,5,RUS,4.0,BISHOP I,7 - 5,258,AUS,4:18
+7,5m shot - Missed,9.0,2,5,RUS,4.0,ARANCINI Z,7 - 5,231,AUS,3:51
+7,Action shot - Blocked,4.0,2,5,RUS,4.0,KARIMOVA E,7 - 5,207,RUS,3:27
+7,Action shot - Saved,5.0,2,5,RUS,4.0,BORISOVA M,7 - 5,194,RUS,3:14
+7,Action shot - Post,6.0,2,5,RUS,4.0,GORBUNOVA O,7 - 5,49,RUS,0:49
+7,20 sec. exclusion in field,9.0,2,5,RUS,4.0,TIMOFEEVA A,7 - 5,44,RUS,0:44
+7,Time-Out,,2,5,RUS,4.0,,7 - 5,44,AUS,0:44
+7,5m shot - Saved,7.0,2,5,RUS,4.0,WEBSTER R,7 - 5,21,AUS,0:21
+0,Starting goalkeeper,1.0,3,0,GRE,1.0,YANITSAS L,0 - 0,480,AUS,8:00
+0,Starting goalkeeper,13.0,3,0,GRE,1.0,DIAMANTOPOULOU C,0 - 0,480,GRE,8:00
+0,Sprint won possession,11.0,3,0,GRE,1.0,PLEVRITOU E,0 - 0,480,GRE,8:00
+0,20 sec. exclusion in centre,3.0,3,0,GRE,1.0,BUCKLING H,0 - 0,454,AUS,7:34
+0,Action shot - Goal,11.0,3,1,GRE,1.0,PLEVRITOU E,0 - 1,428,GRE,7:08
+1,5m shot - Goal,3.0,3,1,GRE,1.0,BUCKLING H,1 - 1,399,AUS,6:39
+1,Centre shot - Saved,7.0,3,1,GRE,1.0,ASIMAKI A,1 - 1,381,GRE,6:21
+1,Action shot - Saved,4.0,3,1,GRE,1.0,HALLIGAN B,1 - 1,363,AUS,6:03
+1,5m shot - Post,10.0,3,1,GRE,1.0,MANOLIOUDAKI T,1 - 1,335,GRE,5:35
+1,Turnover foul,2.0,3,1,GRE,1.0,GOFERS K,1 - 1,307,AUS,5:07
+1,Steal,6.0,3,1,GRE,1.0,AVRAMIDOU A,1 - 1,307,GRE,5:07
+1,Turnover foul,10.0,3,1,GRE,1.0,MANOLIOUDAKI T,1 - 1,289,GRE,4:49
+1,Steal,2.0,3,1,GRE,1.0,GOFERS K,1 - 1,289,AUS,4:49
+1,Turnover foul,3.0,3,1,GRE,1.0,BUCKLING H,1 - 1,284,AUS,4:44
+1,5m shot - Blocked,3.0,3,1,GRE,1.0,DIAMANTOPOULOU V,1 - 1,263,GRE,4:23
+1,20 sec. exclusion in field,3.0,3,1,GRE,1.0,DIAMANTOPOULOU V,1 - 1,254,GRE,4:14
+1,Time-Out,,3,1,GRE,1.0,,1 - 1,254,AUS,4:14
+2,Action shot - Goal,2.0,3,1,GRE,1.0,GOFERS K,2 - 1,229,AUS,3:49
+2,Action shot - Goal,11.0,3,2,GRE,1.0,PLEVRITOU E,2 - 2,202,GRE,3:22
+2,Turnover foul,2.0,3,2,GRE,1.0,GOFERS K,2 - 2,172,AUS,2:52
+2,Steal,2.0,3,2,GRE,1.0,TSOUKALA C,2 - 2,172,GRE,2:52
+2,Action shot - Saved,9.0,3,2,GRE,1.0,KOTSIA C,2 - 2,153,GRE,2:33
+2,Action shot - Saved,10.0,3,2,GRE,1.0,MANOLIOUDAKI T,2 - 2,103,GRE,1:43
+2,Turnover foul,12.0,3,2,GRE,1.0,XENAKI E,2 - 2,79,GRE,1:19
+2,20 sec. exclusion in field,12.0,3,2,GRE,1.0,XENAKI E,2 - 2,69,GRE,1:09
+2,Extra player shot - Blocked,7.0,3,2,GRE,1.0,WEBSTER R,2 - 2,48,AUS,0:48
+2,Turnover foul,2.0,3,2,GRE,1.0,TSOUKALA C,2 - 2,27,GRE,0:27
+2,Steal,1.0,3,2,GRE,1.0,YANITSAS L,2 - 2,27,AUS,0:27
+2,5m shot - Saved,5.0,3,2,GRE,1.0,BISHOP I,2 - 2,1,AUS,0:01
+2,Starting goalkeeper,1.0,3,2,GRE,2.0,YANITSAS L,2 - 2,480,AUS,8:00
+2,Starting goalkeeper,13.0,3,2,GRE,2.0,DIAMANTOPOULOU C,2 - 2,480,GRE,8:00
+2,Sprint won possession,11.0,3,2,GRE,2.0,PLEVRITOU E,2 - 2,480,GRE,8:00
+2,20 sec. exclusion in field,4.0,3,2,GRE,2.0,HALLIGAN B,2 - 2,466,AUS,7:46
+2,Action shot - Saved,4.0,3,2,GRE,2.0,ELEFTHERIADOU N,2 - 2,441,GRE,7:21
+2,Centre shot - Goal,7.0,3,3,GRE,2.0,ASIMAKI A,2 - 3,431,GRE,7:11
+2,Action shot - Saved,4.0,3,3,GRE,2.0,HALLIGAN B,2 - 3,403,AUS,6:43
+2,20 sec. exclusion in centre,2.0,3,3,GRE,2.0,GOFERS K,2 - 3,393,AUS,6:33
+2,Extra player shot - Goal,7.0,3,4,GRE,2.0,ASIMAKI A,2 - 4,378,GRE,6:18
+2,20 sec. exclusion in centre,2.0,3,4,GRE,2.0,TSOUKALA C,2 - 4,356,GRE,5:56
+3,Action shot - Goal,2.0,3,4,GRE,2.0,GOFERS K,3 - 4,332,AUS,5:32
+3,Action shot - Missed,10.0,3,4,GRE,2.0,MANOLIOUDAKI T,3 - 4,305,GRE,5:05
+3,Turnover foul,5.0,3,4,GRE,2.0,BISHOP I,3 - 4,277,AUS,4:37
+3,Steal,12.0,3,4,GRE,2.0,XENAKI E,3 - 4,277,GRE,4:37
+3,20 sec. exclusion in field,6.0,3,4,GRE,2.0,RIDGE A,3 - 4,262,AUS,4:22
+3,Centre shot - Goal,10.0,3,5,GRE,2.0,MANOLIOUDAKI T,3 - 5,238,GRE,3:58
+3,5m shot - Saved,2.0,3,5,GRE,2.0,GOFERS K,3 - 5,216,AUS,3:36
+3,Action shot - Post,2.0,3,5,GRE,2.0,TSOUKALA C,3 - 5,186,GRE,3:06
+3,5m shot - Saved,3.0,3,5,GRE,2.0,BUCKLING H,3 - 5,171,AUS,2:51
+3,Turnover foul,4.0,3,5,GRE,2.0,ELEFTHERIADOU N,3 - 5,156,GRE,2:36
+3,Steal,1.0,3,5,GRE,2.0,YANITSAS L,3 - 5,156,AUS,2:36
+4,Action shot - Goal,2.0,3,5,GRE,2.0,GOFERS K,4 - 5,126,AUS,2:06
+4,Penalty foul,12.0,3,5,GRE,2.0,STEERE M,4 - 5,112,AUS,1:52
+4,Penalty shot - Saved,11.0,3,5,GRE,2.0,PLEVRITOU E,4 - 5,112,GRE,1:52
+4,Turnover foul,7.0,3,5,GRE,2.0,ASIMAKI A,4 - 5,91,GRE,1:31
+4,Turnover foul,5.0,3,5,GRE,2.0,BISHOP I,4 - 5,62,AUS,1:02
+4,Time-Out,,3,5,GRE,2.0,,4 - 5,62,GRE,1:02
+4,Turnover foul,7.0,3,5,GRE,2.0,ASIMAKI A,4 - 5,43,GRE,0:43
+4,Time-Out,,3,5,GRE,2.0,,4 - 5,29,AUS,0:29
+4,20 sec. exclusion in field,3.0,3,5,GRE,2.0,DIAMANTOPOULOU V,4 - 5,18,GRE,0:18
+5,Extra player shot - Goal,4.0,3,5,GRE,2.0,HALLIGAN B,5 - 5,5,AUS,0:05
+5,5m shot - Saved,2.0,3,5,GRE,2.0,TSOUKALA C,5 - 5,1,GRE,0:01
+5,Starting goalkeeper,1.0,3,5,GRE,3.0,YANITSAS L,5 - 5,480,AUS,8:00
+5,Starting goalkeeper,13.0,3,5,GRE,3.0,DIAMANTOPOULOU C,5 - 5,480,GRE,8:00
+5,Sprint won possession,11.0,3,5,GRE,3.0,PLEVRITOU E,5 - 5,480,GRE,8:00
+5,5m shot - Saved,9.0,3,5,GRE,3.0,KOTSIA C,5 - 5,451,GRE,7:31
+5,Action shot - Post,3.0,3,5,GRE,3.0,BUCKLING H,5 - 5,434,AUS,7:14
+5,5m shot - Goal,10.0,3,6,GRE,3.0,MANOLIOUDAKI T,5 - 6,408,GRE,6:48
+5,Action shot - Blocked,5.0,3,6,GRE,3.0,BISHOP I,5 - 6,375,AUS,6:15
+5,Turnover foul,12.0,3,6,GRE,3.0,XENAKI E,5 - 6,353,GRE,5:53
+5,Centre shot - Saved,7.0,3,6,GRE,3.0,WEBSTER R,5 - 6,324,AUS,5:24
+5,20 sec. exclusion in field,11.0,3,6,GRE,3.0,PLEVRITOU E,5 - 6,319,GRE,5:19
+6,Action shot - Goal,7.0,3,6,GRE,3.0,WEBSTER R,6 - 6,294,AUS,4:54
+6,20 sec. exclusion in centre,6.0,3,6,GRE,3.0,RIDGE A,6 - 6,271,AUS,4:31
+6,Extra player shot - Saved,4.0,3,6,GRE,3.0,ELEFTHERIADOU N,6 - 6,261,GRE,4:21
+6,Action shot - Post,9.0,3,6,GRE,3.0,ARANCINI Z,6 - 6,235,AUS,3:55
+6,20 sec. exclusion in centre,12.0,3,6,GRE,3.0,STEERE M,6 - 6,218,AUS,3:38
+6,Action shot - Goal,12.0,3,7,GRE,3.0,XENAKI E,6 - 7,198,GRE,3:18
+6,5m shot - Saved,7.0,3,7,GRE,3.0,WEBSTER R,6 - 7,168,AUS,2:48
+6,Action shot - Saved,8.0,3,7,GRE,3.0,CHYDIRIOTI I,6 - 7,138,GRE,2:18
+6,20 sec. exclusion in field,7.0,3,7,GRE,3.0,WEBSTER R,6 - 7,136,AUS,2:16
+6,Action shot - Goal,6.0,3,8,GRE,3.0,AVRAMIDOU A,6 - 8,111,GRE,1:51
+6,20 sec. exclusion in centre,9.0,3,8,GRE,3.0,KOTSIA C,6 - 8,85,GRE,1:25
+7,Centre shot - Goal,3.0,3,8,GRE,3.0,BUCKLING H,7 - 8,61,AUS,1:01
+7,Centre shot - Saved,7.0,3,8,GRE,3.0,ASIMAKI A,7 - 8,32,GRE,0:32
+7,Action shot - Saved,5.0,3,8,GRE,3.0,BISHOP I,7 - 8,3,AUS,0:03
+7,Time-Out,,3,8,GRE,3.0,,7 - 8,3,GRE,0:03
+7,Yellow card,,3,8,GRE,3.0,Team Official,7 - 8,3,AUS,0:03
+7,Action shot - Missed,11.0,3,8,GRE,3.0,PLEVRITOU E,7 - 8,1,GRE,0:01
+7,Starting goalkeeper,1.0,3,8,GRE,4.0,YANITSAS L,7 - 8,480,AUS,8:00
+7,Starting goalkeeper,13.0,3,8,GRE,4.0,DIAMANTOPOULOU C,7 - 8,480,GRE,8:00
+7,Sprint won possession,11.0,3,8,GRE,4.0,PLEVRITOU E,7 - 8,480,GRE,8:00
+7,5m shot - Goal,11.0,3,9,GRE,4.0,PLEVRITOU E,7 - 9,452,GRE,7:32
+7,20 sec. exclusion in field,10.0,3,9,GRE,4.0,MANOLIOUDAKI T,7 - 9,422,GRE,7:02
+7,Yellow card,,3,9,GRE,4.0,Team Official,7 - 9,421,GRE,7:01
+8,Action shot - Goal,5.0,3,9,GRE,4.0,BISHOP I,8 - 9,397,AUS,6:37
+8,20 sec. exclusion in centre,6.0,3,9,GRE,4.0,RIDGE A,8 - 9,381,AUS,6:21
+8,Exclusion with substitution,6.0,3,9,GRE,4.0,RIDGE A,8 - 9,381,AUS,6:21
+8,Action shot - Goal,7.0,3,10,GRE,4.0,ASIMAKI A,8 - 10,358,GRE,5:58
+8,Action shot - Blocked,4.0,3,10,GRE,4.0,HALLIGAN B,8 - 10,328,AUS,5:28
+8,Turnover foul,12.0,3,10,GRE,4.0,XENAKI E,8 - 10,300,GRE,5:00
+8,Steal,3.0,3,10,GRE,4.0,BUCKLING H,8 - 10,300,AUS,5:00
+8,5m shot - Blocked,7.0,3,10,GRE,4.0,WEBSTER R,8 - 10,272,AUS,4:32
+8,5m shot - Blocked,2.0,3,10,GRE,4.0,GOFERS K,8 - 10,245,AUS,4:05
+8,Double exclusion,12.0,3,10,GRE,4.0,XENAKI E,8 - 10,221,GRE,3:41
+8,Double exclusion,7.0,3,10,GRE,4.0,WEBSTER R,8 - 10,221,AUS,3:41
+8,5m shot - Missed,2.0,3,10,GRE,4.0,TSOUKALA C,8 - 10,219,GRE,3:39
+8,Centre shot - Saved,4.0,3,10,GRE,4.0,HALLIGAN B,8 - 10,189,AUS,3:09
+8,5m shot - Saved,4.0,3,10,GRE,4.0,ELEFTHERIADOU N,8 - 10,168,GRE,2:48
+8,20 sec. exclusion in centre,3.0,3,10,GRE,4.0,BUCKLING H,8 - 10,157,AUS,2:37
+8,Action shot - Goal,8.0,3,11,GRE,4.0,CHYDIRIOTI I,8 - 11,134,GRE,2:14
+8,Turnover foul,5.0,3,11,GRE,4.0,BISHOP I,8 - 11,111,AUS,1:51
+8,Steal,7.0,3,11,GRE,4.0,ASIMAKI A,8 - 11,111,GRE,1:51
+8,Turnover foul,4.0,3,11,GRE,4.0,ELEFTHERIADOU N,8 - 11,92,GRE,1:32
+8,5m shot - Post,7.0,3,11,GRE,4.0,WEBSTER R,8 - 11,70,AUS,1:10
+8,Time-Out,,3,11,GRE,4.0,,8 - 11,70,GRE,1:10
+8,Turnover foul,12.0,3,11,GRE,4.0,XENAKI E,8 - 11,43,GRE,0:43
+8,Turnover foul,2.0,3,11,GRE,4.0,GOFERS K,8 - 11,22,AUS,0:22
+8,Steal,13.0,3,11,GRE,4.0,DIAMANTOPOULOU C,8 - 11,22,GRE,0:22
+8,Turnover foul,4.0,3,11,GRE,4.0,ELEFTHERIADOU N,8 - 11,4,GRE,0:04
+8,20 sec. exclusion in centre,4.0,3,11,GRE,4.0,ELEFTHERIADOU N,8 - 11,1,GRE,0:01
+0,Starting goalkeeper,1.0,4,0,FRA,1.0,COUNIL L,0 - 0,480,FRA,8:00
+0,Starting goalkeeper,1.0,4,0,FRA,1.0,YANITSAS L,0 - 0,480,AUS,8:00
+0,Sprint won possession,12.0,4,0,FRA,1.0,DAULE A,0 - 0,480,FRA,8:00
+0,Turnover foul,7.0,4,0,FRA,1.0,VALVERDE C,0 - 0,452,FRA,7:32
+0,Steal,2.0,4,0,FRA,1.0,GOFERS K,0 - 0,452,AUS,7:32
+1,5m shot - Goal,7.0,4,0,FRA,1.0,WEBSTER R,0 - 1,428,AUS,7:08
+1,5m shot - Post,5.0,4,0,FRA,1.0,GUILLET L,0 - 1,398,FRA,6:38
+1,5m shot - Post,3.0,4,0,FRA,1.0,BUCKLING H,0 - 1,382,AUS,6:22
+1,Penalty foul,7.0,4,0,FRA,1.0,VALVERDE C,0 - 1,341,FRA,5:41
+2,Penalty shot - Goal,7.0,4,0,FRA,1.0,WEBSTER R,0 - 2,341,AUS,5:41
+2,5m shot - Blocked,3.0,4,0,FRA,1.0,BACHELIER L,0 - 2,310,FRA,5:10
+3,Centre shot - Goal,9.0,4,0,FRA,1.0,ARANCINI Z,0 - 3,287,AUS,4:47
+3,5m shot - Saved,10.0,4,0,FRA,1.0,DESCHAMPT Y,0 - 3,257,FRA,4:17
+3,Action shot - Missed,7.0,4,0,FRA,1.0,WEBSTER R,0 - 3,230,AUS,3:50
+3,Action shot - Saved,5.0,4,0,FRA,1.0,GUILLET L,0 - 3,212,FRA,3:32
+3,Turnover foul,2.0,4,0,FRA,1.0,GOFERS K,0 - 3,187,AUS,3:07
+3,Steal,2.0,4,0,FRA,1.0,MILLOT E,0 - 3,187,FRA,3:07
+3,5m shot - Saved,2.0,4,0,FRA,1.0,MILLOT E,0 - 3,161,FRA,2:41
+4,Counter attack - Goal,2.0,4,0,FRA,1.0,GOFERS K,0 - 4,145,AUS,2:25
+4,5m shot - Saved,7.0,4,0,FRA,1.0,VALVERDE C,0 - 4,116,FRA,1:56
+4,Turnover foul,6.0,4,0,FRA,1.0,MAHIEU G,0 - 4,91,FRA,1:31
+4,Steal,7.0,4,0,FRA,1.0,WEBSTER R,0 - 4,91,AUS,1:31
+4,20 sec. exclusion in centre,12.0,4,0,FRA,1.0,DAULE A,0 - 4,71,FRA,1:11
+4,Time-Out,,4,0,FRA,1.0,,0 - 4,71,AUS,1:11
+5,Extra player shot - Goal,3.0,4,0,FRA,1.0,BUCKLING H,0 - 5,47,AUS,0:47
+5,20 sec. exclusion in centre,3.0,4,0,FRA,1.0,BUCKLING H,0 - 5,38,AUS,0:38
+5,Time-Out,,4,0,FRA,1.0,,0 - 5,38,FRA,0:38
+5,Extra player shot - Missed,6.0,4,0,FRA,1.0,MAHIEU G,0 - 5,13,FRA,0:13
+5,5m shot - Saved,5.0,4,0,FRA,1.0,BISHOP I,0 - 5,0,AUS,0:00
+5,Starting goalkeeper,1.0,4,0,FRA,2.0,COUNIL L,0 - 5,480,FRA,8:00
+5,Starting goalkeeper,1.0,4,0,FRA,2.0,YANITSAS L,0 - 5,480,AUS,8:00
+5,Sprint won possession,4.0,4,0,FRA,2.0,HALLIGAN B,0 - 5,476,AUS,7:56
+5,Turnover foul,6.0,4,0,FRA,2.0,RIDGE A,0 - 5,446,AUS,7:26
+5,Steal,8.0,4,0,FRA,2.0,BATTU A,0 - 5,446,FRA,7:26
+6,Action shot - Goal,7.0,4,0,FRA,2.0,WEBSTER R,0 - 6,400,AUS,6:40
+6,20 sec. exclusion in centre,12.0,4,0,FRA,2.0,STEERE M,0 - 6,385,AUS,6:25
+6,Turnover foul,11.0,4,0,FRA,2.0,BARBIEUX M,0 - 6,353,FRA,5:53
+6,Steal,1.0,4,0,FRA,2.0,YANITSAS L,0 - 6,353,AUS,5:53
+7,Action shot - Goal,4.0,4,0,FRA,2.0,HALLIGAN B,0 - 7,333,AUS,5:33
+7,5m shot - Missed,9.0,4,0,FRA,2.0,SACRE A,0 - 7,309,FRA,5:09
+8,Counter attack - Goal,2.0,4,0,FRA,2.0,GOFERS K,0 - 8,296,AUS,4:56
+8,20 sec. exclusion in centre,6.0,4,0,FRA,2.0,RIDGE A,0 - 8,282,AUS,4:42
+8,Extra player shot - Saved,4.0,4,0,FRA,2.0,SACRE A,0 - 8,279,FRA,4:39
+8,Extra player shot - Saved,5.0,4,0,FRA,2.0,GUILLET L,0 - 8,264,FRA,4:24
+8,Turnover foul,3.0,4,0,FRA,2.0,BACHELIER L,0 - 8,203,FRA,3:23
+8,Steal,11.0,4,0,FRA,2.0,BAXTER M,0 - 8,203,AUS,3:23
+8,5m shot - Saved,11.0,4,0,FRA,2.0,BAXTER M,0 - 8,178,AUS,2:58
+8,Action shot - Saved,3.0,4,0,FRA,2.0,BACHELIER L,0 - 8,153,FRA,2:33
+8,5m shot - Saved,12.0,4,0,FRA,2.0,STEERE M,0 - 8,124,AUS,2:04
+8,20 sec. exclusion in centre,4.0,4,0,FRA,2.0,HALLIGAN B,0 - 8,103,AUS,1:43
+8,Time-Out,,4,0,FRA,2.0,,0 - 8,103,FRA,1:43
+8,Turnover foul,7.0,4,0,FRA,2.0,VALVERDE C,0 - 8,75,FRA,1:15
+8,Steal,4.0,4,0,FRA,2.0,HALLIGAN B,0 - 8,75,AUS,1:15
+8,5m shot - Post,6.0,4,0,FRA,2.0,RIDGE A,0 - 8,47,AUS,0:47
+8,5m shot - Saved,7.0,4,0,FRA,2.0,VALVERDE C,0 - 8,25,FRA,0:25
+8,Turnover foul,8.0,4,0,FRA,2.0,BATTU A,0 - 8,17,FRA,0:17
+8,Steal,7.0,4,0,FRA,2.0,WEBSTER R,0 - 8,17,AUS,0:17
+9,5m shot - Goal,4.0,4,0,FRA,2.0,HALLIGAN B,0 - 9,1,AUS,0:01
+9,Starting goalkeeper,1.0,4,0,FRA,3.0,COUNIL L,0 - 9,480,FRA,8:00
+9,Starting goalkeeper,1.0,4,0,FRA,3.0,YANITSAS L,0 - 9,480,AUS,8:00
+9,Sprint won possession,2.0,4,0,FRA,3.0,GOFERS K,0 - 9,480,AUS,8:00
+9,Action shot - Saved,7.0,4,0,FRA,3.0,WEBSTER R,0 - 9,438,AUS,7:18
+9,Action shot - Missed,7.0,4,0,FRA,3.0,VALVERDE C,0 - 9,414,FRA,6:54
+9,Turnover foul,2.0,4,0,FRA,3.0,GOFERS K,0 - 9,389,AUS,6:29
+9,Steal,2.0,4,0,FRA,3.0,MILLOT E,0 - 9,389,FRA,6:29
+9,Action shot - Saved,2.0,4,0,FRA,3.0,MILLOT E,0 - 9,364,FRA,6:04
+9,Action shot - Missed,5.0,4,0,FRA,3.0,BISHOP I,0 - 9,345,AUS,5:45
+9,20 sec. exclusion in centre,6.0,4,0,FRA,3.0,RIDGE A,0 - 9,318,AUS,5:18
+9,Extra player shot - Goal,2.0,4,1,FRA,3.0,MILLOT E,1 - 9,299,FRA,4:59
+9,Turnover foul,7.0,4,1,FRA,3.0,WEBSTER R,1 - 9,269,AUS,4:29
+9,Steal,5.0,4,1,FRA,3.0,GUILLET L,1 - 9,269,FRA,4:29
+9,20 sec. exclusion in field,7.0,4,1,FRA,3.0,WEBSTER R,1 - 9,267,AUS,4:27
+9,20 sec. exclusion in field,9.0,4,1,FRA,3.0,SACRE A,1 - 9,232,FRA,3:52
+9,Extra player shot - Blocked,7.0,4,1,FRA,3.0,WEBSTER R,1 - 9,202,AUS,3:22
+9,5m shot - Post,12.0,4,1,FRA,3.0,STEERE M,1 - 9,171,AUS,2:51
+9,20 sec. exclusion in centre,3.0,4,1,FRA,3.0,BUCKLING H,1 - 9,142,AUS,2:22
+9,Time-Out,,4,1,FRA,3.0,,1 - 9,141,FRA,2:21
+9,Turnover foul,7.0,4,1,FRA,3.0,VALVERDE C,1 - 9,128,FRA,2:08
+9,Steal,2.0,4,1,FRA,3.0,GOFERS K,1 - 9,128,AUS,2:08
+9,20 sec. exclusion in centre,6.0,4,1,FRA,3.0,RIDGE A,1 - 9,68,AUS,1:08
+9,Exclusion with substitution,6.0,4,1,FRA,3.0,RIDGE A,1 - 9,68,AUS,1:08
+9,Extra player shot - Missed,4.0,4,1,FRA,3.0,SACRE A,1 - 9,44,FRA,0:44
+9,20 sec. exclusion in centre,8.0,4,1,FRA,3.0,BATTU A,1 - 9,24,FRA,0:24
+10,Extra player shot - Goal,9.0,4,1,FRA,3.0,ARANCINI Z,1 - 10,13,AUS,0:13
+10,Starting goalkeeper,1.0,4,1,FRA,4.0,COUNIL L,1 - 10,480,FRA,8:00
+10,Starting goalkeeper,1.0,4,1,FRA,4.0,YANITSAS L,1 - 10,480,AUS,8:00
+10,Sprint won possession,2.0,4,1,FRA,4.0,MILLOT E,1 - 10,480,FRA,8:00
+10,Turnover foul,3.0,4,1,FRA,4.0,BACHELIER L,1 - 10,451,FRA,7:31
+10,Steal,10.0,4,1,FRA,4.0,MIHAILOVIC L,1 - 10,451,AUS,7:31
+11,Action shot - Goal,3.0,4,1,FRA,4.0,BUCKLING H,1 - 11,436,AUS,7:16
+11,5m shot - Blocked,2.0,4,1,FRA,4.0,MILLOT E,1 - 11,407,FRA,6:47
+11,Goalkeeper substitution,13.0,4,1,FRA,4.0,HEDGES L,1 - 11,391,AUS,6:31
+12,Counter attack - Goal,10.0,4,1,FRA,4.0,MIHAILOVIC L,1 - 12,391,AUS,6:31
+12,Turnover foul,4.0,4,1,FRA,4.0,SACRE A,1 - 12,367,FRA,6:07
+12,Steal,4.0,4,1,FRA,4.0,HALLIGAN B,1 - 12,367,AUS,6:07
+13,Centre shot - Goal,4.0,4,1,FRA,4.0,HALLIGAN B,1 - 13,346,AUS,5:46
+13,5m shot - Goal,8.0,4,2,FRA,4.0,BATTU A,2 - 13,317,FRA,5:17
+14,Action shot - Goal,9.0,4,2,FRA,4.0,ARANCINI Z,2 - 14,290,AUS,4:50
+14,Turnover foul,7.0,4,2,FRA,4.0,VALVERDE C,2 - 14,262,FRA,4:22
+14,Steal,11.0,4,2,FRA,4.0,BAXTER M,2 - 14,262,AUS,4:22
+14,Centre shot - Saved,8.0,4,2,FRA,4.0,ZIMMERMAN J,2 - 14,240,AUS,4:00
+14,5m shot - Missed,7.0,4,2,FRA,4.0,VALVERDE C,2 - 14,219,FRA,3:39
+14,20 sec. exclusion in centre,9.0,4,2,FRA,4.0,SACRE A,2 - 14,194,FRA,3:14
+15,Extra player shot - Goal,9.0,4,2,FRA,4.0,ARANCINI Z,2 - 15,175,AUS,2:55
+15,20 sec. exclusion in centre,9.0,4,2,FRA,4.0,ARANCINI Z,2 - 15,162,AUS,2:42
+15,5m shot - Post,5.0,4,2,FRA,4.0,GUILLET L,2 - 15,131,FRA,2:11
+16,5m shot - Goal,11.0,4,2,FRA,4.0,BAXTER M,2 - 16,105,AUS,1:45
+16,20 sec. exclusion in centre,9.0,4,2,FRA,4.0,ARANCINI Z,2 - 16,78,AUS,1:18
+16,Extra player shot - Post,3.0,4,2,FRA,4.0,BACHELIER L,2 - 16,58,FRA,0:58
+16,5m shot - Missed,10.0,4,2,FRA,4.0,MIHAILOVIC L,2 - 16,33,AUS,0:33
+16,5m shot - Saved,3.0,4,2,FRA,4.0,BACHELIER L,2 - 16,3,FRA,0:03
+0,Starting goalkeeper,1.0,5,0,USA,1.0,STONE G,0 - 0,480,USA,8:00
+0,Starting goalkeeper,1.0,5,0,USA,1.0,YANITSAS L,0 - 0,480,AUS,8:00
+0,Sprint won possession,4.0,5,0,USA,1.0,FATTAL R,0 - 0,480,USA,8:00
+0,Turnover foul,3.0,5,0,USA,1.0,SEIDEMANN M,0 - 0,459,USA,7:39
+0,5m shot - Post,6.0,5,0,USA,1.0,STEFFENS M,0 - 0,409,USA,6:49
+0,5m shot - Post,11.0,5,0,USA,1.0,FISCHER M,0 - 0,349,USA,5:49
+0,Time-Out,,5,0,USA,1.0,,0 - 0,346,AUS,5:46
+0,Turnover foul,2.0,5,0,USA,1.0,GOFERS K,0 - 0,335,AUS,5:35
+0,Steal,8.0,5,0,USA,1.0,NEUSHUL K,0 - 0,335,USA,5:35
+0,Turnover foul,3.0,5,0,USA,1.0,SEIDEMANN M,0 - 0,312,USA,5:12
+0,Steal,2.0,5,0,USA,1.0,GOFERS K,0 - 0,312,AUS,5:12
+0,Turnover foul,4.0,5,0,USA,1.0,HALLIGAN B,0 - 0,282,AUS,4:42
+0,Steal,6.0,5,0,USA,1.0,STEFFENS M,0 - 0,282,USA,4:42
+0,Turnover foul,6.0,5,0,USA,1.0,STEFFENS M,0 - 0,267,USA,4:27
+0,Steal,2.0,5,0,USA,1.0,GOFERS K,0 - 0,267,AUS,4:27
+0,20 sec. exclusion in field,6.0,5,0,USA,1.0,STEFFENS M,0 - 0,243,USA,4:03
+0,Action shot - Blocked,7.0,5,0,USA,1.0,WEBSTER R,0 - 0,219,AUS,3:39
+0,Centre shot - Saved,2.0,5,0,USA,1.0,GOFERS K,0 - 0,193,AUS,3:13
+0,Action shot - Blocked,2.0,5,0,USA,1.0,MUSSELMAN M,0 - 0,174,USA,2:54
+0,Action shot - Post,2.0,5,0,USA,1.0,MUSSELMAN M,0 - 0,169,USA,2:49
+0,5m shot - Missed,3.0,5,0,USA,1.0,BUCKLING H,0 - 0,141,AUS,2:21
+0,5m shot - Post,4.0,5,0,USA,1.0,FATTAL R,0 - 0,114,USA,1:54
+0,Turnover foul,7.0,5,0,USA,1.0,WEBSTER R,0 - 0,98,AUS,1:38
+0,Turnover foul,3.0,5,0,USA,1.0,SEIDEMANN M,0 - 0,83,USA,1:23
+0,Steal,3.0,5,0,USA,1.0,BUCKLING H,0 - 0,83,AUS,1:23
+0,Action shot - Blocked,3.0,5,0,USA,1.0,BUCKLING H,0 - 0,56,AUS,0:56
+0,Time-Out,,5,0,USA,1.0,,0 - 0,26,USA,0:26
+0,Turnover foul,9.0,5,0,USA,1.0,FISCHER A,0 - 0,10,USA,0:10
+0,Steal,7.0,5,0,USA,1.0,WEBSTER R,0 - 0,10,AUS,0:10
+0,Turnover foul,7.0,5,0,USA,1.0,WEBSTER R,0 - 0,1,AUS,0:01
+0,Steal,6.0,5,0,USA,1.0,STEFFENS M,0 - 0,1,USA,0:01
+0,Starting goalkeeper,1.0,5,0,USA,2.0,STONE G,0 - 0,480,USA,8:00
+0,Starting goalkeeper,1.0,5,0,USA,2.0,YANITSAS L,0 - 0,480,AUS,8:00
+0,Sprint won possession,8.0,5,0,USA,2.0,NEUSHUL K,0 - 0,480,USA,8:00
+0,Turnover foul,12.0,5,0,USA,2.0,WILLIAMS A,0 - 0,451,USA,7:31
+0,Steal,7.0,5,0,USA,2.0,WEBSTER R,0 - 0,451,AUS,7:31
+0,Action shot - Missed,4.0,5,0,USA,2.0,HALLIGAN B,0 - 0,425,AUS,7:05
+0,Centre shot - Post,9.0,5,0,USA,2.0,FISCHER A,0 - 0,399,USA,6:39
+0,Centre shot - Saved,7.0,5,0,USA,2.0,WEBSTER R,0 - 0,371,AUS,6:11
+0,Turnover foul,6.0,5,0,USA,2.0,STEFFENS M,0 - 0,356,USA,5:56
+0,Steal,5.0,5,0,USA,2.0,BISHOP I,0 - 0,356,AUS,5:56
+0,Action shot - Post,8.0,5,0,USA,2.0,NEUSHUL K,0 - 0,314,USA,5:14
+0,Action shot - Post,7.0,5,0,USA,2.0,WEBSTER R,0 - 0,296,AUS,4:56
+0,Action shot - Saved,12.0,5,0,USA,2.0,WILLIAMS A,0 - 0,264,USA,4:24
+0,Action shot - Saved,2.0,5,0,USA,2.0,GOFERS K,0 - 0,233,AUS,3:53
+0,20 sec. exclusion in centre,4.0,5,0,USA,2.0,HALLIGAN B,0 - 0,209,AUS,3:29
+0,Extra player shot - Goal,7.0,5,1,USA,2.0,RANEY J,1 - 0,208,USA,3:28
+0,Action shot - Goal,7.0,5,2,USA,2.0,RANEY J,2 - 0,149,USA,2:29
+0,20 sec. exclusion in centre,7.0,5,2,USA,2.0,WEBSTER R,2 - 0,95,AUS,1:35
+0,Time-Out,,5,2,USA,2.0,,2 - 0,95,USA,1:35
+0,5m shot - Blocked,11.0,5,2,USA,2.0,FISCHER M,2 - 0,65,USA,1:05
+0,Action shot - Goal,2.0,5,3,USA,2.0,MUSSELMAN M,3 - 0,36,USA,0:36
+0,Time-Out,,5,3,USA,2.0,,3 - 0,35,AUS,0:35
+0,20 sec. exclusion in centre,2.0,5,3,USA,2.0,MUSSELMAN M,3 - 0,11,USA,0:11
+0,Extra player shot - Saved,4.0,5,3,USA,2.0,HALLIGAN B,3 - 0,1,AUS,0:01
+0,Starting goalkeeper,1.0,5,3,USA,3.0,STONE G,3 - 0,480,USA,8:00
+0,Starting goalkeeper,1.0,5,3,USA,3.0,YANITSAS L,3 - 0,480,AUS,8:00
+0,Sprint won possession,4.0,5,3,USA,3.0,FATTAL R,3 - 0,480,USA,8:00
+0,20 sec. exclusion in centre,5.0,5,3,USA,3.0,BISHOP I,3 - 0,454,AUS,7:34
+0,Extra player shot - Saved,2.0,5,3,USA,3.0,MUSSELMAN M,3 - 0,434,USA,7:14
+0,Action shot - Missed,2.0,5,3,USA,3.0,MUSSELMAN M,3 - 0,416,USA,6:56
+0,20 sec. exclusion in field,8.0,5,3,USA,3.0,NEUSHUL K,3 - 0,413,USA,6:53
+1,Action shot - Goal,2.0,5,3,USA,3.0,GOFERS K,3 - 1,387,AUS,6:27
+1,Turnover foul,3.0,5,3,USA,3.0,SEIDEMANN M,3 - 1,361,USA,6:01
+1,Steal,7.0,5,3,USA,3.0,WEBSTER R,3 - 1,361,AUS,6:01
+1,Turnover foul,5.0,5,3,USA,3.0,BISHOP I,3 - 1,346,AUS,5:46
+1,Steal,11.0,5,3,USA,3.0,FISCHER M,3 - 1,346,USA,5:46
+1,5m shot - Saved,5.0,5,3,USA,3.0,BISHOP I,3 - 1,308,AUS,5:08
+1,Action shot - Saved,8.0,5,3,USA,3.0,NEUSHUL K,3 - 1,276,USA,4:36
+1,5m shot - Saved,10.0,5,3,USA,3.0,MIHAILOVIC L,3 - 1,243,AUS,4:03
+1,Action shot - Saved,2.0,5,3,USA,3.0,MUSSELMAN M,3 - 1,223,USA,3:43
+1,Action shot - Goal,3.0,5,4,USA,3.0,SEIDEMANN M,4 - 1,182,USA,3:02
+1,20 sec. exclusion in centre,11.0,5,4,USA,3.0,FISCHER M,4 - 1,163,USA,2:43
+2,Action shot - Goal,2.0,5,4,USA,3.0,GOFERS K,4 - 2,137,AUS,2:17
+2,Action shot - Missed,11.0,5,4,USA,3.0,FISCHER M,4 - 2,114,USA,1:54
+2,Turnover foul,4.0,5,4,USA,3.0,HALLIGAN B,4 - 2,98,AUS,1:38
+2,Steal,7.0,5,4,USA,3.0,RANEY J,4 - 2,98,USA,1:38
+2,Centre shot - Saved,9.0,5,4,USA,3.0,FISCHER A,4 - 2,71,USA,1:11
+2,Action shot - Goal,10.0,5,5,USA,3.0,NEUSHUL J,5 - 2,70,USA,1:10
+2,Turnover foul,2.0,5,5,USA,3.0,GOFERS K,5 - 2,43,AUS,0:43
+2,5m shot - Saved,3.0,5,5,USA,3.0,SEIDEMANN M,5 - 2,15,USA,0:15
+2,Time-Out,,5,5,USA,3.0,,5 - 2,15,AUS,0:15
+2,Starting goalkeeper,1.0,5,5,USA,4.0,STONE G,5 - 2,480,USA,8:00
+2,Starting goalkeeper,1.0,5,5,USA,4.0,YANITSAS L,5 - 2,480,AUS,8:00
+2,Sprint won possession,4.0,5,5,USA,4.0,FATTAL R,5 - 2,480,USA,8:00
+2,Turnover foul,5.0,5,5,USA,4.0,BISHOP I,5 - 2,439,AUS,7:19
+2,Action shot - Saved,8.0,5,5,USA,4.0,NEUSHUL K,5 - 2,409,USA,6:49
+2,Action shot - Saved,5.0,5,5,USA,4.0,BISHOP I,5 - 2,377,AUS,6:17
+2,20 sec. exclusion in field,11.0,5,5,USA,4.0,FISCHER M,5 - 2,365,USA,6:05
+3,Action shot - Goal,2.0,5,5,USA,4.0,GOFERS K,5 - 3,342,AUS,5:42
+3,Action shot - Post,12.0,5,5,USA,4.0,WILLIAMS A,5 - 3,326,USA,5:26
+3,20 sec. exclusion in centre,3.0,5,5,USA,4.0,BUCKLING H,5 - 3,267,AUS,4:27
+3,Extra player shot - Goal,2.0,5,6,USA,4.0,MUSSELMAN M,6 - 3,248,USA,4:08
+3,Turnover foul,9.0,5,6,USA,4.0,ARANCINI Z,6 - 3,227,AUS,3:47
+3,Steal,1.0,5,6,USA,4.0,STONE G,6 - 3,227,USA,3:47
+3,Centre shot - Saved,3.0,5,6,USA,4.0,SEIDEMANN M,6 - 3,200,USA,3:20
+3,5m shot - Missed,7.0,5,6,USA,4.0,WEBSTER R,6 - 3,182,AUS,3:02
+3,Action shot - Goal,4.0,5,7,USA,4.0,FATTAL R,7 - 3,165,USA,2:45
+3,20 sec. exclusion in field,8.0,5,7,USA,4.0,NEUSHUL K,7 - 3,147,USA,2:27
+3,20 sec. exclusion in centre,6.0,5,7,USA,4.0,STEFFENS M,7 - 3,144,USA,2:24
+4,Extra player shot - Goal,2.0,5,7,USA,4.0,GOFERS K,7 - 4,130,AUS,2:10
+4,20 sec. exclusion in centre,3.0,5,7,USA,4.0,BUCKLING H,7 - 4,112,AUS,1:52
+4,Extra player shot - Saved,3.0,5,7,USA,4.0,SEIDEMANN M,7 - 4,103,USA,1:43
+4,Penalty foul,4.0,5,7,USA,4.0,FATTAL R,7 - 4,89,USA,1:29
+5,Penalty shot - Goal,7.0,5,7,USA,4.0,WEBSTER R,7 - 5,89,AUS,1:29
+5,Turnover foul,6.0,5,7,USA,4.0,STEFFENS M,7 - 5,67,USA,1:07
+5,20 sec. exclusion in field,4.0,5,7,USA,4.0,FATTAL R,7 - 5,67,USA,1:07
+5,Time-Out,,5,7,USA,4.0,,7 - 5,65,AUS,1:05
+5,Turnover foul,3.0,5,7,USA,4.0,BUCKLING H,7 - 5,37,AUS,0:37
+5,Steal,4.0,5,7,USA,4.0,FATTAL R,7 - 5,37,USA,0:37
+5,Time-Out,,5,7,USA,4.0,,7 - 5,27,USA,0:27
+5,5m shot - Missed,7.0,5,7,USA,4.0,WEBSTER R,7 - 5,1,AUS,0:01
+0,Starting goalkeeper,1.0,6,0,ITA,1.0,GORLERO G,0 - 0,480,ITA,8:00
+0,Starting goalkeeper,1.0,6,0,ITA,1.0,YANITSAS L,0 - 0,480,AUS,8:00
+0,Sprint won possession,2.0,6,0,ITA,1.0,GOFERS K,0 - 0,480,AUS,8:00
+0,Action shot - Missed,3.0,6,0,ITA,1.0,BUCKLING H,0 - 0,451,AUS,7:31
+0,5m shot - Goal,8.0,6,1,ITA,1.0,BIANCONI R,1 - 0,440,ITA,7:20
+1,Centre shot - Goal,7.0,6,1,ITA,1.0,WEBSTER R,1 - 1,420,AUS,7:00
+1,5m shot - Blocked,5.0,6,1,ITA,1.0,RADICCHI F,1 - 1,395,ITA,6:35
+1,5m shot - Blocked,5.0,6,1,ITA,1.0,BISHOP I,1 - 1,365,AUS,6:05
+1,Penalty foul,7.0,6,1,ITA,1.0,WEBSTER R,1 - 1,342,AUS,5:42
+1,Penalty shot - Goal,8.0,6,2,ITA,1.0,BIANCONI R,2 - 1,342,ITA,5:42
+1,20 sec. exclusion in centre,4.0,6,2,ITA,1.0,QUEIROLO E,2 - 1,323,ITA,5:23
+1,Action shot - Blocked,3.0,6,2,ITA,1.0,BUCKLING H,2 - 1,311,AUS,5:11
+1,20 sec. exclusion in centre,2.0,6,2,ITA,1.0,GOFERS K,2 - 1,285,AUS,4:45
+1,Extra player shot - Goal,6.0,6,3,ITA,1.0,AIELLO R,3 - 1,274,ITA,4:34
+1,Time-Out,,6,3,ITA,1.0,,3 - 1,274,AUS,4:34
+1,Turnover foul,7.0,6,3,ITA,1.0,WEBSTER R,3 - 1,245,AUS,4:05
+1,Steal,2.0,6,3,ITA,1.0,TABANI C,3 - 1,245,ITA,4:05
+1,5m shot - Goal,8.0,6,4,ITA,1.0,BIANCONI R,4 - 1,227,ITA,3:47
+1,5m shot - Goal,8.0,6,5,ITA,1.0,BIANCONI R,5 - 1,182,ITA,3:02
+2,Centre shot - Goal,3.0,6,5,ITA,1.0,BUCKLING H,5 - 2,171,AUS,2:51
+2,Centre shot - Missed,6.0,6,5,ITA,1.0,AIELLO R,5 - 2,151,ITA,2:31
+2,Action shot - Saved,7.0,6,5,ITA,1.0,WEBSTER R,5 - 2,129,AUS,2:09
+2,5m shot - Missed,11.0,6,5,ITA,1.0,COTTI A,5 - 2,105,ITA,1:45
+2,Turnover foul,7.0,6,5,ITA,1.0,WEBSTER R,5 - 2,86,AUS,1:26
+2,Centre shot - Saved,6.0,6,5,ITA,1.0,AIELLO R,5 - 2,65,ITA,1:05
+3,Action shot - Goal,11.0,6,5,ITA,1.0,BAXTER M,5 - 3,46,AUS,0:46
+3,5m shot - Saved,9.0,6,5,ITA,1.0,EMMOLO G,5 - 3,20,ITA,0:20
+3,Time-Out,,6,5,ITA,1.0,,5 - 3,1,ITA,0:01
+3,Starting goalkeeper,1.0,6,5,ITA,2.0,GORLERO G,5 - 3,480,ITA,8:00
+3,Starting goalkeeper,1.0,6,5,ITA,2.0,YANITSAS L,5 - 3,480,AUS,8:00
+3,Sprint won possession,8.0,6,5,ITA,2.0,BIANCONI R,5 - 3,480,ITA,8:00
+3,5m shot - Saved,4.0,6,5,ITA,2.0,QUEIROLO E,5 - 3,451,ITA,7:31
+3,Turnover foul,5.0,6,5,ITA,2.0,BISHOP I,5 - 3,433,AUS,7:13
+3,Steal,5.0,6,5,ITA,2.0,RADICCHI F,5 - 3,433,ITA,7:13
+3,5m shot - Goal,5.0,6,6,ITA,2.0,RADICCHI F,6 - 3,409,ITA,6:49
+3,5m shot - Missed,7.0,6,6,ITA,2.0,WEBSTER R,6 - 3,386,AUS,6:26
+3,5m shot - Blocked,3.0,6,6,ITA,2.0,GARIBOTTI A,6 - 3,365,ITA,6:05
+3,5m shot - Missed,6.0,6,6,ITA,2.0,RIDGE A,6 - 3,336,AUS,5:36
+3,Turnover foul,4.0,6,6,ITA,2.0,QUEIROLO E,6 - 3,323,ITA,5:23
+3,Steal,4.0,6,6,ITA,2.0,HALLIGAN B,6 - 3,323,AUS,5:23
+3,5m shot - Blocked,2.0,6,6,ITA,2.0,GOFERS K,6 - 3,296,AUS,4:56
+3,Turnover foul,6.0,6,6,ITA,2.0,AIELLO R,6 - 3,277,ITA,4:37
+3,Steal,2.0,6,6,ITA,2.0,GOFERS K,6 - 3,277,AUS,4:37
+3,5m shot - Blocked,4.0,6,6,ITA,2.0,HALLIGAN B,6 - 3,249,AUS,4:09
+3,Centre shot - Saved,7.0,6,6,ITA,2.0,WEBSTER R,6 - 3,228,AUS,3:48
+4,Centre shot - Goal,7.0,6,6,ITA,2.0,WEBSTER R,6 - 4,170,AUS,2:50
+4,20 sec. exclusion in field,3.0,6,6,ITA,2.0,BUCKLING H,6 - 4,148,AUS,2:28
+4,Extra player shot - Goal,5.0,6,7,ITA,2.0,RADICCHI F,7 - 4,129,ITA,2:09
+5,Centre shot - Goal,9.0,6,7,ITA,2.0,ARANCINI Z,7 - 5,108,AUS,1:48
+5,5m shot - Post,5.0,6,7,ITA,2.0,RADICCHI F,7 - 5,86,ITA,1:26
+5,Turnover foul,3.0,6,7,ITA,2.0,BUCKLING H,7 - 5,71,AUS,1:11
+5,20 sec. exclusion in centre,11.0,6,7,ITA,2.0,BAXTER M,7 - 5,51,AUS,0:51
+5,Time-Out,,6,7,ITA,2.0,,7 - 5,51,ITA,0:51
+5,Extra player shot - Missed,9.0,6,7,ITA,2.0,EMMOLO G,7 - 5,32,ITA,0:32
+5,Time-Out,,6,7,ITA,2.0,,7 - 5,27,AUS,0:27
+6,Centre shot - Goal,5.0,6,7,ITA,2.0,BISHOP I,7 - 6,10,AUS,0:10
+6,5m shot - Missed,9.0,6,7,ITA,2.0,EMMOLO G,7 - 6,1,ITA,0:01
+6,Starting goalkeeper,1.0,6,7,ITA,3.0,GORLERO G,7 - 6,480,ITA,8:00
+6,Starting goalkeeper,1.0,6,7,ITA,3.0,YANITSAS L,7 - 6,480,AUS,8:00
+6,Sprint won possession,2.0,6,7,ITA,3.0,GOFERS K,7 - 6,480,AUS,8:00
+7,5m shot - Goal,5.0,6,7,ITA,3.0,BISHOP I,7 - 7,452,AUS,7:32
+7,Time-Out,,6,7,ITA,4.0,,7 - 7,4,ITA,0:04
+14,Turnover foul,8.0,6,13,ITA,3.0,BIANCONI R,13 - 14,423,ITA,7:03
+14,Steal,5.0,6,13,ITA,3.0,BISHOP I,13 - 14,423,AUS,7:03
+14,Turnover foul,2.0,6,13,ITA,3.0,GOFERS K,13 - 14,394,AUS,6:34
+14,Steal,1.0,6,13,ITA,3.0,GORLERO G,13 - 14,394,ITA,6:34
+14,20 sec. exclusion in centre,3.0,6,13,ITA,3.0,BUCKLING H,13 - 14,367,AUS,6:07
+14,Extra player shot - Saved,6.0,6,13,ITA,3.0,AIELLO R,13 - 14,352,ITA,5:52
+8,5m shot - Goal,7.0,6,7,ITA,3.0,WEBSTER R,7 - 8,325,AUS,5:25
+8,20 sec. exclusion in field,2.0,6,7,ITA,3.0,GOFERS K,7 - 8,306,AUS,5:06
+8,Extra player shot - Post,8.0,6,7,ITA,3.0,BIANCONI R,7 - 8,295,ITA,4:55
+8,Centre shot - Goal,6.0,6,8,ITA,3.0,AIELLO R,8 - 8,253,ITA,4:13
+8,5m shot - Saved,4.0,6,8,ITA,3.0,HALLIGAN B,8 - 8,225,AUS,3:45
+8,5m shot - Missed,8.0,6,8,ITA,3.0,BIANCONI R,8 - 8,201,ITA,3:21
+8,20 sec. exclusion in centre,3.0,6,8,ITA,3.0,GARIBOTTI A,8 - 8,187,ITA,3:07
+8,Time-Out,,6,8,ITA,3.0,,8 - 8,187,AUS,3:07
+8,Turnover foul,3.0,6,8,ITA,3.0,BUCKLING H,8 - 8,163,AUS,2:43
+8,Steal,9.0,6,8,ITA,3.0,EMMOLO G,8 - 8,163,ITA,2:43
+8,5m shot - Saved,12.0,6,8,ITA,3.0,DARIO S,8 - 8,138,ITA,2:18
+8,Turnover foul,12.0,6,8,ITA,3.0,DARIO S,8 - 8,122,ITA,2:02
+8,Steal,5.0,6,8,ITA,3.0,BISHOP I,8 - 8,122,AUS,2:02
+8,Penalty foul,12.0,6,8,ITA,3.0,DARIO S,8 - 8,111,ITA,1:51
+9,Penalty shot - Goal,7.0,6,8,ITA,3.0,WEBSTER R,8 - 9,111,AUS,1:51
+9,5m shot - Saved,5.0,6,8,ITA,3.0,RADICCHI F,8 - 9,84,ITA,1:24
+9,Action shot - Saved,3.0,6,8,ITA,3.0,GARIBOTTI A,8 - 9,37,ITA,0:37
+9,Turnover foul,2.0,6,8,ITA,3.0,GOFERS K,8 - 9,10,AUS,0:10
+9,Steal,5.0,6,8,ITA,3.0,RADICCHI F,8 - 9,10,ITA,0:10
+9,Time-Out,,6,8,ITA,3.0,,8 - 9,10,ITA,0:10
+9,Turnover foul,4.0,6,8,ITA,3.0,QUEIROLO E,8 - 9,1,ITA,0:01
+9,Steal,2.0,6,8,ITA,3.0,GOFERS K,8 - 9,1,AUS,0:01
+9,Starting goalkeeper,1.0,6,8,ITA,4.0,GORLERO G,8 - 9,480,ITA,8:00
+9,Starting goalkeeper,1.0,6,8,ITA,4.0,YANITSAS L,8 - 9,480,AUS,8:00
+9,Sprint won possession,2.0,6,8,ITA,4.0,GOFERS K,8 - 9,480,AUS,8:00
+9,Centre shot - Post,7.0,6,8,ITA,4.0,WEBSTER R,8 - 9,451,AUS,7:31
+9,20 sec. exclusion in centre,5.0,6,8,ITA,4.0,BISHOP I,8 - 9,430,AUS,7:10
+9,Extra player shot - Goal,3.0,6,9,ITA,4.0,GARIBOTTI A,9 - 9,410,ITA,6:50
+9,Turnover foul,12.0,6,9,ITA,4.0,STEERE M,9 - 9,383,AUS,6:23
+9,Turnover foul,4.0,6,9,ITA,4.0,QUEIROLO E,9 - 9,368,ITA,6:08
+9,Steal,5.0,6,9,ITA,4.0,BISHOP I,9 - 9,368,AUS,6:08
+9,Turnover foul,12.0,6,9,ITA,4.0,STEERE M,9 - 9,355,AUS,5:55
+9,Steal,3.0,6,9,ITA,4.0,GARIBOTTI A,9 - 9,355,ITA,5:55
+9,Action shot - Saved,4.0,6,9,ITA,4.0,QUEIROLO E,9 - 9,335,ITA,5:35
+9,Action shot - Saved,3.0,6,9,ITA,4.0,BUCKLING H,9 - 9,308,AUS,5:08
+9,Turnover foul,8.0,6,9,ITA,4.0,BIANCONI R,9 - 9,280,ITA,4:40
+9,Steal,5.0,6,9,ITA,4.0,BISHOP I,9 - 9,280,AUS,4:40
+10,Action shot - Goal,3.0,6,9,ITA,4.0,BUCKLING H,9 - 10,255,AUS,4:15
+10,20 sec. exclusion in centre,6.0,6,9,ITA,4.0,RIDGE A,9 - 10,235,AUS,3:55
+10,5m shot - Saved,8.0,6,9,ITA,4.0,BIANCONI R,9 - 10,208,ITA,3:28
+10,20 sec. exclusion in field,2.0,6,9,ITA,4.0,GOFERS K,9 - 10,191,AUS,3:11
+10,Exclusion with substitution,2.0,6,9,ITA,4.0,GOFERS K,9 - 10,191,AUS,3:11
+10,Action shot - Goal,8.0,6,10,ITA,4.0,BIANCONI R,10 - 10,167,ITA,2:47
+10,Yellow card,,6,10,ITA,4.0,Team Official,10 - 10,167,AUS,2:47
+10,20 sec. exclusion in centre,2.0,6,10,ITA,4.0,TABANI C,10 - 10,153,ITA,2:33
+10,Action shot - Post,7.0,6,10,ITA,4.0,WEBSTER R,10 - 10,131,AUS,2:11
+10,5m shot - Blocked,8.0,6,10,ITA,4.0,BIANCONI R,10 - 10,104,ITA,1:44
+10,Penalty foul,4.0,6,10,ITA,4.0,HALLIGAN B,10 - 10,102,AUS,1:42
+10,Penalty shot - Goal,3.0,6,11,ITA,4.0,GARIBOTTI A,11 - 10,102,ITA,1:42
+10,20 sec. exclusion in centre,2.0,6,11,ITA,4.0,TABANI C,11 - 10,80,ITA,1:20
+10,Time-Out,,6,11,ITA,4.0,,11 - 10,80,AUS,1:20
+10,Centre shot - Saved,3.0,6,11,ITA,4.0,BUCKLING H,11 - 10,52,AUS,0:52
+10,5m shot - Missed,6.0,6,11,ITA,4.0,AIELLO R,11 - 10,25,ITA,0:25
+10,20 sec. exclusion in field,6.0,6,11,ITA,4.0,AIELLO R,11 - 10,5,ITA,0:05
+11,Extra player shot - Goal,4.0,6,11,ITA,4.0,HALLIGAN B,11 - 11,4,AUS,0:04
+0,Starting goalkeeper,1.0,7,0,GRE,1.0,YANITSAS L,0 - 0,480,AUS,8:00
+0,Starting goalkeeper,13.0,7,0,GRE,1.0,DIAMANTOPOULOU C,0 - 0,480,GRE,8:00
+0,Sprint won possession,11.0,7,0,GRE,1.0,PLEVRITOU E,0 - 0,480,GRE,8:00
+0,5m shot - Saved,11.0,7,0,GRE,1.0,PLEVRITOU E,0 - 0,454,GRE,7:34
+0,Turnover foul,5.0,7,0,GRE,1.0,BISHOP I,0 - 0,447,AUS,7:27
+0,Steal,6.0,7,0,GRE,1.0,AVRAMIDOU A,0 - 0,447,GRE,7:27
+0,5m shot - Missed,11.0,7,0,GRE,1.0,PLEVRITOU E,0 - 0,423,GRE,7:03
+0,5m shot - Saved,7.0,7,0,GRE,1.0,WEBSTER R,0 - 0,394,AUS,6:34
+0,20 sec. exclusion in centre,4.0,7,0,GRE,1.0,HALLIGAN B,0 - 0,368,AUS,6:08
+0,Turnover foul,11.0,7,0,GRE,1.0,PLEVRITOU E,0 - 0,351,GRE,5:51
+0,Steal,2.0,7,0,GRE,1.0,GOFERS K,0 - 0,351,AUS,5:51
+0,Centre shot - Saved,7.0,7,0,GRE,1.0,ASIMAKI A,0 - 0,304,GRE,5:04
+0,Action shot - Post,5.0,7,0,GRE,1.0,BISHOP I,0 - 0,289,AUS,4:49
+0,Turnover foul,7.0,7,0,GRE,1.0,WEBSTER R,0 - 0,261,AUS,4:21
+0,Centre shot - Post,7.0,7,0,GRE,1.0,ASIMAKI A,0 - 0,246,GRE,4:06
+0,20 sec. exclusion in centre,10.0,7,0,GRE,1.0,MANOLIOUDAKI T,0 - 0,224,GRE,3:44
+0,Extra player shot - Post,2.0,7,0,GRE,1.0,GOFERS K,0 - 0,207,AUS,3:27
+0,Turnover foul,7.0,7,0,GRE,1.0,ASIMAKI A,0 - 0,184,GRE,3:04
+0,Turnover foul,2.0,7,0,GRE,1.0,GOFERS K,0 - 0,168,AUS,2:48
+0,Steal,4.0,7,0,GRE,1.0,ELEFTHERIADOU N,0 - 0,168,GRE,2:48
+0,Action shot - Saved,2.0,7,0,GRE,1.0,TSOUKALA C,0 - 0,146,GRE,2:26
+0,20 sec. exclusion in centre,6.0,7,0,GRE,1.0,RIDGE A,0 - 0,137,AUS,2:17
+0,Centre shot - Saved,7.0,7,0,GRE,1.0,ASIMAKI A,0 - 0,114,GRE,1:54
+0,20 sec. exclusion in field,4.0,7,0,GRE,1.0,HALLIGAN B,0 - 0,111,AUS,1:51
+0,Time-Out,,7,0,GRE,1.0,,0 - 0,111,GRE,1:51
+0,Extra player shot - Goal,3.0,7,1,GRE,1.0,DIAMANTOPOULOU V,0 - 1,99,GRE,1:39
+0,Turnover foul,11.0,7,1,GRE,1.0,PLEVRITOU E,0 - 1,41,GRE,0:41
+0,Steal,2.0,7,1,GRE,1.0,GOFERS K,0 - 1,41,AUS,0:41
+0,Counter attack - Saved,9.0,7,1,GRE,1.0,ARANCINI Z,0 - 1,26,AUS,0:26
+0,Turnover foul,12.0,7,1,GRE,1.0,XENAKI E,0 - 1,1,GRE,0:01
+0,Steal,3.0,7,1,GRE,1.0,BUCKLING H,0 - 1,1,AUS,0:01
+0,Starting goalkeeper,1.0,7,1,GRE,2.0,YANITSAS L,0 - 1,480,AUS,8:00
+0,Starting goalkeeper,13.0,7,1,GRE,2.0,DIAMANTOPOULOU C,0 - 1,480,GRE,8:00
+0,Sprint won possession,2.0,7,1,GRE,2.0,GOFERS K,0 - 1,480,AUS,8:00
+0,Turnover foul,12.0,7,1,GRE,2.0,XENAKI E,0 - 1,429,GRE,7:09
+0,5m shot - Saved,9.0,7,1,GRE,2.0,ARANCINI Z,0 - 1,402,AUS,6:42
+0,Turnover foul,12.0,7,1,GRE,2.0,XENAKI E,0 - 1,375,GRE,6:15
+0,Turnover foul,2.0,7,1,GRE,2.0,GOFERS K,0 - 1,353,AUS,5:53
+0,Steal,6.0,7,1,GRE,2.0,AVRAMIDOU A,0 - 1,353,GRE,5:53
+0,Centre shot - Goal,12.0,7,2,GRE,2.0,XENAKI E,0 - 2,325,GRE,5:25
+0,20 sec. exclusion in centre,6.0,7,2,GRE,2.0,RIDGE A,0 - 2,281,AUS,4:41
+0,Extra player shot - Saved,12.0,7,2,GRE,2.0,XENAKI E,0 - 2,266,GRE,4:26
+0,20 sec. exclusion in field,8.0,7,2,GRE,2.0,CHYDIRIOTI I,0 - 2,250,GRE,4:10
+1,Action shot - Goal,11.0,7,2,GRE,2.0,BAXTER M,1 - 2,221,AUS,3:41
+1,Centre shot - Saved,7.0,7,2,GRE,2.0,ASIMAKI A,1 - 2,196,GRE,3:16
+1,Action shot - Saved,3.0,7,2,GRE,2.0,BUCKLING H,1 - 2,176,AUS,2:56
+1,Double exclusion,2.0,7,2,GRE,2.0,GOFERS K,1 - 2,161,AUS,2:41
+1,Double exclusion,11.0,7,2,GRE,2.0,PLEVRITOU E,1 - 2,161,GRE,2:41
+1,Penalty foul,12.0,7,2,GRE,2.0,STEERE M,1 - 2,154,AUS,2:34
+1,Penalty shot - Goal,2.0,7,3,GRE,2.0,TSOUKALA C,1 - 3,154,GRE,2:34
+1,Turnover foul,5.0,7,3,GRE,2.0,BISHOP I,1 - 3,135,AUS,2:15
+1,Steal,3.0,7,3,GRE,2.0,DIAMANTOPOULOU V,1 - 3,135,GRE,2:15
+1,Action shot - Saved,4.0,7,3,GRE,2.0,ELEFTHERIADOU N,1 - 3,114,GRE,1:54
+1,Action shot - Blocked,9.0,7,3,GRE,2.0,ARANCINI Z,1 - 3,87,AUS,1:27
+1,20 sec. exclusion in field,5.0,7,3,GRE,2.0,BISHOP I,1 - 3,74,AUS,1:14
+1,Time-Out,,7,3,GRE,2.0,,1 - 3,74,GRE,1:14
+1,Yellow card,,7,3,GRE,2.0,Team Official,1 - 3,74,AUS,1:14
+1,Action shot - Goal,6.0,7,4,GRE,2.0,AVRAMIDOU A,1 - 4,48,GRE,0:48
+1,Turnover foul,5.0,7,4,GRE,2.0,BISHOP I,1 - 4,31,AUS,0:31
+1,Steal,13.0,7,4,GRE,2.0,DIAMANTOPOULOU C,1 - 4,31,GRE,0:31
+1,Action shot - Goal,2.0,7,5,GRE,2.0,TSOUKALA C,1 - 5,3,GRE,0:03
+1,5m shot - Blocked,5.0,7,5,GRE,2.0,BISHOP I,1 - 5,1,AUS,0:01
+1,Starting goalkeeper,1.0,7,5,GRE,3.0,YANITSAS L,1 - 5,480,AUS,8:00
+1,Starting goalkeeper,13.0,7,5,GRE,3.0,DIAMANTOPOULOU C,1 - 5,480,GRE,8:00
+1,Sprint won possession,11.0,7,5,GRE,3.0,PLEVRITOU E,1 - 5,480,GRE,8:00
+1,20 sec. exclusion in centre,3.0,7,5,GRE,3.0,BUCKLING H,1 - 5,457,AUS,7:37
+1,Turnover foul,10.0,7,5,GRE,3.0,MANOLIOUDAKI T,1 - 5,439,GRE,7:19
+1,Steal,5.0,7,5,GRE,3.0,BISHOP I,1 - 5,439,AUS,7:19
+1,20 sec. exclusion in field,7.0,7,5,GRE,3.0,ASIMAKI A,1 - 5,420,GRE,7:00
+1,Action shot - Missed,2.0,7,5,GRE,3.0,GOFERS K,1 - 5,395,AUS,6:35
+1,Turnover foul,12.0,7,5,GRE,3.0,XENAKI E,1 - 5,369,GRE,6:09
+1,Steal,6.0,7,5,GRE,3.0,RIDGE A,1 - 5,369,AUS,6:09
+1,20 sec. exclusion in field,12.0,7,5,GRE,3.0,XENAKI E,1 - 5,366,GRE,6:06
+1,Time-Out,,7,5,GRE,3.0,,1 - 5,366,AUS,6:06
+1,Extra player shot - Missed,7.0,7,5,GRE,3.0,WEBSTER R,1 - 5,347,AUS,5:47
+1,5m shot - Goal,3.0,7,6,GRE,3.0,DIAMANTOPOULOU V,1 - 6,325,GRE,5:25
+1,Action shot - Saved,9.0,7,6,GRE,3.0,ARANCINI Z,1 - 6,296,AUS,4:56
+1,Turnover foul,7.0,7,6,GRE,3.0,ASIMAKI A,1 - 6,274,GRE,4:34
+2,Action shot - Goal,3.0,7,6,GRE,3.0,BUCKLING H,2 - 6,245,AUS,4:05
+2,5m shot - Goal,9.0,7,7,GRE,3.0,KOTSIA C,2 - 7,222,GRE,3:42
+2,Action shot - Post,9.0,7,7,GRE,3.0,ARANCINI Z,2 - 7,197,AUS,3:17
+2,20 sec. exclusion in centre,3.0,7,7,GRE,3.0,BUCKLING H,2 - 7,175,AUS,2:55
+2,Time-Out,,7,7,GRE,3.0,,2 - 7,175,GRE,2:55
+2,5m shot - Goal,2.0,7,8,GRE,3.0,TSOUKALA C,2 - 8,150,GRE,2:30
+3,Action shot - Goal,5.0,7,8,GRE,3.0,BISHOP I,3 - 8,129,AUS,2:09
+3,20 sec. exclusion in centre,12.0,7,8,GRE,3.0,STEERE M,3 - 8,104,AUS,1:44
+3,Extra player shot - Missed,12.0,7,8,GRE,3.0,XENAKI E,3 - 8,85,GRE,1:25
+4,Action shot - Goal,12.0,7,8,GRE,3.0,STEERE M,4 - 8,68,AUS,1:08
+4,20 sec. exclusion in field,5.0,7,8,GRE,3.0,BISHOP I,4 - 8,49,AUS,0:49
+4,Extra player shot - Saved,11.0,7,8,GRE,3.0,PLEVRITOU E,4 - 8,35,GRE,0:35
+4,20 sec. exclusion in centre,11.0,7,8,GRE,3.0,PLEVRITOU E,4 - 8,19,GRE,0:19
+4,Extra player shot - Blocked,5.0,7,8,GRE,3.0,BISHOP I,4 - 8,1,AUS,0:01
+4,Starting goalkeeper,1.0,7,8,GRE,4.0,YANITSAS L,4 - 8,480,AUS,8:00
+4,Starting goalkeeper,13.0,7,8,GRE,4.0,DIAMANTOPOULOU C,4 - 8,480,GRE,8:00
+4,Sprint won possession,2.0,7,8,GRE,4.0,GOFERS K,4 - 8,480,AUS,8:00
+4,5m shot - Missed,9.0,7,8,GRE,4.0,ARANCINI Z,4 - 8,451,AUS,7:31
+4,Turnover foul,7.0,7,8,GRE,4.0,ASIMAKI A,4 - 8,423,GRE,7:03
+4,Turnover foul,2.0,7,8,GRE,4.0,GOFERS K,4 - 8,394,AUS,6:34
+4,Steal,7.0,7,8,GRE,4.0,ASIMAKI A,4 - 8,394,GRE,6:34
+4,Action shot - Post,8.0,7,8,GRE,4.0,CHYDIRIOTI I,4 - 8,380,GRE,6:20
+5,Action shot - Goal,7.0,7,8,GRE,4.0,WEBSTER R,5 - 8,366,AUS,6:06
+5,Action shot - Saved,7.0,7,8,GRE,4.0,ASIMAKI A,5 - 8,335,GRE,5:35
+5,Action shot - Saved,2.0,7,8,GRE,4.0,GOFERS K,5 - 8,316,AUS,5:16
+5,Turnover foul,7.0,7,8,GRE,4.0,WEBSTER R,5 - 8,295,AUS,4:55
+5,Steal,13.0,7,8,GRE,4.0,DIAMANTOPOULOU C,5 - 8,295,GRE,4:55
+5,5m shot - Saved,6.0,7,8,GRE,4.0,AVRAMIDOU A,5 - 8,266,GRE,4:26
+5,5m shot - Saved,3.0,7,8,GRE,4.0,BUCKLING H,5 - 8,237,AUS,3:57
+5,Turnover foul,2.0,7,8,GRE,4.0,TSOUKALA C,5 - 8,209,GRE,3:29
+5,Steal,1.0,7,8,GRE,4.0,YANITSAS L,5 - 8,209,AUS,3:29
+6,Action shot - Goal,2.0,7,8,GRE,4.0,GOFERS K,6 - 8,195,AUS,3:15
+6,20 sec. exclusion in centre,3.0,7,8,GRE,4.0,BUCKLING H,6 - 8,177,AUS,2:57
+6,Exclusion with substitution,3.0,7,8,GRE,4.0,BUCKLING H,6 - 8,177,AUS,2:57
+6,Extra player shot - Saved,6.0,7,8,GRE,4.0,AVRAMIDOU A,6 - 8,158,GRE,2:38
+6,Turnover foul,12.0,7,8,GRE,4.0,STEERE M,6 - 8,134,AUS,2:14
+6,Steal,2.0,7,8,GRE,4.0,TSOUKALA C,6 - 8,134,GRE,2:14
+6,Centre shot - Saved,12.0,7,8,GRE,4.0,XENAKI E,6 - 8,105,GRE,1:45
+6,Time-Out,,7,8,GRE,4.0,,6 - 8,96,AUS,1:36
+6,Action shot - Saved,9.0,7,8,GRE,4.0,ARANCINI Z,6 - 8,74,AUS,1:14
+6,5m shot - Missed,11.0,7,8,GRE,4.0,PLEVRITOU E,6 - 8,45,GRE,0:45
+6,20 sec. exclusion in field,2.0,7,8,GRE,4.0,TSOUKALA C,6 - 8,29,GRE,0:29
+6,Extra player shot - Missed,5.0,7,8,GRE,4.0,BISHOP I,6 - 8,13,AUS,0:13
+6,5m shot - Missed,2.0,7,8,GRE,4.0,TSOUKALA C,6 - 8,1,GRE,0:01

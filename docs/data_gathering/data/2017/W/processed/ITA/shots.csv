@@ -1,0 +1,364 @@
+Period,Time,Action,Score,Team,Player,Cap,ITA,Opponent,Seconds,Game,Opponent name,Result,Goal
+1.0,7:35,Action shot,0 - 0,CAN,FOURNIER S,12.0,0,0,455,1,CAN,Saved,0
+1.0,7:06,Action shot,0 - 0,ITA,RADICCHI F,5.0,0,0,426,1,CAN,Post,0
+1.0,6:37,Centre shot,0 - 0,CAN,EGGENS M,5.0,0,0,397,1,CAN,Saved,0
+1.0,6:09,Action shot,0 - 0,ITA,RADICCHI F,5.0,0,0,369,1,CAN,Blocked,0
+1.0,5:46,Penalty shot,0 - 1,CAN,WRIGHT E,4.0,0,1,346,1,CAN,Goal,1
+1.0,5:19,Action shot,0 - 1,ITA,DARIO S,12.0,0,1,319,1,CAN,Saved,0
+1.0,4:51,Action shot,0 - 1,CAN,FOURNIER S,12.0,0,1,291,1,CAN,Saved,0
+1.0,4:23,Action shot,0 - 1,CAN,ROBINSON C,10.0,0,1,263,1,CAN,Saved,0
+1.0,4:15,Action shot,1 - 1,ITA,EMMOLO G,9.0,1,1,255,1,CAN,Goal,1
+1.0,3:55,Action shot,1 - 2,CAN,EGGENS M,5.0,1,2,235,1,CAN,Goal,1
+1.0,3:33,Action shot,1 - 2,ITA,TABANI C,2.0,1,2,213,1,CAN,Saved,0
+1.0,3:16,Action shot,1 - 2,ITA,BIANCONI R,8.0,1,2,196,1,CAN,Saved,0
+1.0,3:03,Action shot,1 - 2,CAN,CHRISTMAS K,6.0,1,2,183,1,CAN,Saved,0
+1.0,2:37,Action shot,1 - 2,ITA,BIANCONI R,8.0,1,2,157,1,CAN,Missed,0
+1.0,2:11,Action shot,1 - 2,CAN,EGGENS M,5.0,1,2,131,1,CAN,Saved,0
+1.0,2:02,Extra player shot,1 - 2,ITA,BIANCONI R,8.0,1,2,122,1,CAN,Saved,0
+1.0,1:36,Centre shot,1 - 2,CAN,ROBINSON C,10.0,1,2,96,1,CAN,Saved,0
+1.0,0:59,Action shot,1 - 2,ITA,GARIBOTTI A,3.0,1,2,59,1,CAN,Saved,0
+2.0,7:40,Action shot,1 - 2,CAN,EGGENS M,5.0,1,2,460,1,CAN,Saved,0
+2.0,7:12,Action shot,1 - 2,ITA,PICOZZI D,7.0,1,2,432,1,CAN,Missed,0
+2.0,6:15,Action shot,2 - 2,ITA,BIANCONI R,8.0,2,2,375,1,CAN,Goal,1
+2.0,4:55,Action shot,2 - 2,ITA,PICOZZI D,7.0,2,2,295,1,CAN,Saved,0
+2.0,4:28,Action shot,2 - 2,CAN,EGGENS M,5.0,2,2,268,1,CAN,Saved,0
+2.0,3:30,Action shot,2 - 2,CAN,ROBINSON C,10.0,2,2,210,1,CAN,Post,0
+2.0,3:05,5m shot,2 - 2,ITA,BIANCONI R,8.0,2,2,185,1,CAN,Saved,0
+2.0,2:19,Action shot,2 - 2,ITA,QUEIROLO E,4.0,2,2,139,1,CAN,Saved,0
+2.0,1:18,Action shot,2 - 2,ITA,PICOZZI D,7.0,2,2,78,1,CAN,Post,0
+2.0,0:34,Action shot,3 - 2,ITA,BIANCONI R,8.0,3,2,34,1,CAN,Goal,1
+2.0,0:08,Action shot,3 - 2,CAN,CHRISTMAS K,6.0,3,2,8,1,CAN,Missed,0
+2.0,0:01,Action shot,3 - 2,ITA,BIANCONI R,8.0,3,2,1,1,CAN,Saved,0
+3.0,6:47,Centre shot,4 - 2,ITA,QUEIROLO E,4.0,4,2,407,1,CAN,Goal,1
+3.0,5:42,Action shot,4 - 2,CAN,EGGENS M,5.0,4,2,342,1,CAN,Saved,0
+3.0,4:54,Extra player shot,4 - 2,ITA,BIANCONI R,8.0,4,2,294,1,CAN,Saved,0
+3.0,4:24,Action shot,4 - 2,CAN,FOURNIER S,12.0,4,2,264,1,CAN,Saved,0
+3.0,3:57,Action shot,4 - 2,CAN,McKELVEY H,9.0,4,2,237,1,CAN,Saved,0
+3.0,3:33,Action shot,5 - 2,ITA,BIANCONI R,8.0,5,2,213,1,CAN,Goal,1
+3.0,2:59,Centre shot,5 - 2,CAN,ALOGBO K,2.0,5,2,179,1,CAN,Saved,0
+3.0,2:47,Action shot,5 - 2,ITA,AIELLO R,6.0,5,2,167,1,CAN,Missed,0
+3.0,2:18,Extra player shot,5 - 2,CAN,WRIGHT E,4.0,5,2,138,1,CAN,Saved,0
+3.0,1:49,Action shot,5 - 2,ITA,TABANI C,2.0,5,2,109,1,CAN,Saved,0
+3.0,1:20,Action shot,5 - 2,CAN,ALOGBO K,2.0,5,2,80,1,CAN,Saved,0
+3.0,0:59,Action shot,6 - 2,ITA,PICOZZI D,7.0,6,2,59,1,CAN,Goal,1
+3.0,0:37,Action shot,6 - 2,CAN,BEKHAZI J,7.0,6,2,37,1,CAN,Saved,0
+3.0,0:10,Action shot,6 - 2,ITA,DARIO S,12.0,6,2,10,1,CAN,Saved,0
+3.0,0:01,Action shot,6 - 2,CAN,EGGENS M,5.0,6,2,1,1,CAN,Saved,0
+4.0,7:29,Extra player shot,6 - 3,CAN,McKEE K,11.0,6,3,449,1,CAN,Goal,1
+4.0,7:09,Action shot,6 - 3,ITA,GARIBOTTI A,3.0,6,3,429,1,CAN,Saved,0
+4.0,6:29,Action shot,6 - 3,CAN,CREVIER A,3.0,6,3,389,1,CAN,Saved,0
+4.0,6:03,Action shot,7 - 3,ITA,BIANCONI R,8.0,7,3,363,1,CAN,Goal,1
+4.0,5:19,Action shot,7 - 3,ITA,BIANCONI R,8.0,7,3,319,1,CAN,Blocked,0
+4.0,4:55,Penalty shot,8 - 3,ITA,AIELLO R,6.0,8,3,295,1,CAN,Goal,1
+4.0,4:36,Action shot,8 - 4,CAN,EGGENS M,5.0,8,4,276,1,CAN,Goal,1
+4.0,4:13,Action shot,9 - 4,ITA,GARIBOTTI A,3.0,9,4,253,1,CAN,Goal,1
+4.0,3:31,Extra player shot,9 - 4,ITA,GARIBOTTI A,3.0,9,4,211,1,CAN,Saved,0
+4.0,3:26,Action shot,9 - 4,CAN,EGGENS M,5.0,9,4,206,1,CAN,Post,0
+4.0,2:32,Action shot,9 - 4,CAN,ROBINSON C,10.0,9,4,152,1,CAN,Saved,0
+4.0,2:10,Action shot,9 - 4,CAN,WRIGHT E,4.0,9,4,130,1,CAN,Blocked,0
+4.0,1:19,Action shot,9 - 4,ITA,PALMIERI V,10.0,9,4,79,1,CAN,Saved,0
+4.0,1:02,Action shot,9 - 4,CAN,BEKHAZI J,7.0,9,4,62,1,CAN,Missed,0
+4.0,0:35,Extra player shot,10 - 4,ITA,COTTI A,11.0,10,4,35,1,CAN,Goal,1
+4.0,0:05,Action shot,10 - 4,CAN,EGGENS M,5.0,10,4,5,1,CAN,Blocked,0
+1.0,7:35,5m shot,0 - 0,BRA,DUARTE M,11.0,0,0,455,2,BRA,Saved,0
+1.0,7:18,Action shot,1 - 0,ITA,GARIBOTTI A,3.0,1,0,438,2,BRA,Goal,1
+1.0,6:56,5m shot,1 - 0,BRA,DIAS M,9.0,1,0,416,2,BRA,Missed,0
+1.0,6:36,5m shot,1 - 0,ITA,RADICCHI F,5.0,1,0,396,2,BRA,Post,0
+1.0,6:06,Action shot,1 - 0,BRA,ZABLITH M,3.0,1,0,366,2,BRA,Blocked,0
+1.0,5:50,Action shot,1 - 0,BRA,DUARTE M,11.0,1,0,350,2,BRA,Saved,0
+1.0,4:54,Extra player shot,2 - 0,ITA,AIELLO R,6.0,2,0,294,2,BRA,Goal,1
+1.0,4:27,Action shot,2 - 0,BRA,DIAS M,9.0,2,0,267,2,BRA,Post,0
+1.0,4:01,5m shot,3 - 0,ITA,RADICCHI F,5.0,3,0,241,2,BRA,Goal,1
+1.0,3:23,Action shot,3 - 1,BRA,DUARTE M,11.0,3,1,203,2,BRA,Goal,1
+1.0,2:39,5m shot,3 - 1,BRA,DUARTE M,11.0,3,1,159,2,BRA,Missed,0
+1.0,2:18,Centre shot,4 - 1,ITA,PALMIERI V,10.0,4,1,138,2,BRA,Goal,1
+1.0,1:33,Action shot,5 - 1,ITA,PALMIERI V,10.0,5,1,93,2,BRA,Goal,1
+1.0,1:07,Action shot,5 - 1,BRA,DUARTE M,11.0,5,1,67,2,BRA,Missed,0
+1.0,0:47,5m shot,5 - 1,ITA,DARIO S,12.0,5,1,47,2,BRA,Saved,0
+1.0,0:08,Extra player shot,5 - 1,BRA,BRUZZO M,8.0,5,1,8,2,BRA,Blocked,0
+2.0,7:21,Counter attack,6 - 1,ITA,EMMOLO G,9.0,6,1,441,2,BRA,Goal,1
+2.0,6:54,5m shot,6 - 2,BRA,ZABLITH M,3.0,6,2,414,2,BRA,Goal,1
+2.0,6:41,Extra player shot,7 - 2,ITA,AIELLO R,6.0,7,2,401,2,BRA,Goal,1
+2.0,6:20,Action shot,7 - 2,BRA,DUARTE M,11.0,7,2,380,2,BRA,Blocked,0
+2.0,6:00,Action shot,7 - 2,ITA,DARIO S,12.0,7,2,360,2,BRA,Missed,0
+2.0,5:22,Action shot,7 - 2,ITA,BIANCONI R,8.0,7,2,322,2,BRA,Post,0
+2.0,5:20,Action shot,8 - 2,ITA,RADICCHI F,5.0,8,2,320,2,BRA,Goal,1
+2.0,4:28,Extra player shot,8 - 2,ITA,EMMOLO G,9.0,8,2,268,2,BRA,Saved,0
+2.0,4:20,Action shot,9 - 2,ITA,QUEIROLO E,4.0,9,2,260,2,BRA,Goal,1
+2.0,3:56,5m shot,9 - 2,BRA,DIAS M,9.0,9,2,236,2,BRA,Saved,0
+2.0,3:30,5m shot,9 - 2,BRA,DIAS M,9.0,9,2,210,2,BRA,Saved,0
+2.0,2:14,Extra player shot,9 - 2,ITA,PICOZZI D,7.0,9,2,134,2,BRA,Saved,0
+2.0,1:57,Action shot,10 - 2,ITA,PALMIERI V,10.0,10,2,117,2,BRA,Goal,1
+2.0,1:34,5m shot,10 - 2,BRA,ZABLITH M,3.0,10,2,94,2,BRA,Saved,0
+2.0,1:19,Centre shot,11 - 2,ITA,PALMIERI V,10.0,11,2,79,2,BRA,Goal,1
+2.0,0:50,5m shot,11 - 2,BRA,BAHIA V,10.0,11,2,50,2,BRA,Missed,0
+2.0,0:02,Extra player shot,11 - 2,BRA,DUARTE M,11.0,11,2,2,2,BRA,Saved,0
+3.0,7:47,5m shot,11 - 2,BRA,DUARTE M,11.0,11,2,467,2,BRA,Saved,0
+3.0,7:30,Centre shot,12 - 2,ITA,AIELLO R,6.0,12,2,450,2,BRA,Goal,1
+3.0,7:03,5m shot,12 - 2,BRA,DUARTE M,11.0,12,2,423,2,BRA,Saved,0
+3.0,6:05,5m shot,12 - 2,ITA,RADICCHI F,5.0,12,2,365,2,BRA,Saved,0
+3.0,5:42,5m shot,12 - 2,ITA,RADICCHI F,5.0,12,2,342,2,BRA,Post,0
+3.0,5:07,Penalty shot,13 - 2,ITA,BIANCONI R,8.0,13,2,307,2,BRA,Goal,1
+3.0,4:37,5m shot,13 - 2,BRA,ZABLITH M,3.0,13,2,277,2,BRA,Saved,0
+3.0,4:19,5m shot,13 - 2,BRA,DUARTE M,11.0,13,2,259,2,BRA,Saved,0
+3.0,4:00,5m shot,14 - 2,ITA,PICOZZI D,7.0,14,2,240,2,BRA,Goal,1
+3.0,3:13,5m shot,14 - 2,ITA,PICOZZI D,7.0,14,2,193,2,BRA,Missed,0
+3.0,2:56,Action shot,14 - 3,BRA,ABLA D,2.0,14,3,176,2,BRA,Goal,1
+3.0,2:12,Action shot,14 - 3,BRA,ABLA D,2.0,14,3,132,2,BRA,Saved,0
+3.0,1:47,Centre shot,14 - 3,ITA,PALMIERI V,10.0,14,3,107,2,BRA,Saved,0
+3.0,1:14,Action shot,14 - 3,BRA,BELORIO L,12.0,14,3,74,2,BRA,Blocked,0
+3.0,1:02,Counter attack,15 - 3,ITA,EMMOLO G,9.0,15,3,62,2,BRA,Goal,1
+3.0,0:39,5m shot,15 - 3,BRA,DIAS M,9.0,15,3,39,2,BRA,Missed,0
+3.0,0:22,Action shot,15 - 3,ITA,TABANI C,2.0,15,3,22,2,BRA,Post,0
+4.0,7:31,5m shot,15 - 3,BRA,DIAS M,9.0,15,3,451,2,BRA,Saved,0
+4.0,7:04,5m shot,15 - 3,ITA,PALMIERI V,10.0,15,3,424,2,BRA,Missed,0
+4.0,6:36,5m shot,15 - 3,BRA,DIAS M,9.0,15,3,396,2,BRA,Blocked,0
+4.0,5:49,Action shot,15 - 3,BRA,DUARTE M,11.0,15,3,349,2,BRA,Saved,0
+4.0,5:26,Action shot,16 - 3,ITA,BIANCONI R,8.0,16,3,326,2,BRA,Goal,1
+4.0,5:04,5m shot,16 - 3,BRA,ZABLITH M,3.0,16,3,304,2,BRA,Missed,0
+4.0,4:38,Action shot,16 - 3,ITA,BIANCONI R,8.0,16,3,278,2,BRA,Post,0
+4.0,3:56,5m shot,17 - 3,ITA,EMMOLO G,9.0,17,3,236,2,BRA,Goal,1
+4.0,3:27,Centre shot,17 - 4,BRA,ZABLITH M,3.0,17,4,207,2,BRA,Goal,1
+4.0,3:11,Counter attack,17 - 4,BRA,FERREIRA S,7.0,17,4,191,2,BRA,Saved,0
+4.0,2:56,5m shot,18 - 4,ITA,EMMOLO G,9.0,18,4,176,2,BRA,Goal,1
+4.0,2:31,Action shot,18 - 4,BRA,DIAS M,9.0,18,4,151,2,BRA,Saved,0
+4.0,2:26,Centre shot,18 - 4,BRA,FERREIRA S,7.0,18,4,146,2,BRA,Saved,0
+4.0,1:32,5m shot,18 - 4,BRA,DIAS M,9.0,18,4,92,2,BRA,Missed,0
+4.0,0:22,5m shot,18 - 4,BRA,ABLA D,2.0,18,4,22,2,BRA,Saved,0
+1.0,7:34,Centre shot,0 - 1,CHN,XIONG D,4.0,0,1,454,3,CHN,Goal,1
+1.0,7:14,5m shot,0 - 1,ITA,BIANCONI R,8.0,0,1,434,3,CHN,Blocked,0
+1.0,6:59,Extra player shot,1 - 1,ITA,AIELLO R,6.0,1,1,419,3,CHN,Goal,1
+1.0,5:58,Penalty shot,1 - 2,CHN,ZHAO Z,9.0,1,2,358,3,CHN,Goal,1
+1.0,5:34,5m shot,1 - 2,ITA,BIANCONI R,8.0,1,2,334,3,CHN,Saved,0
+1.0,5:09,Action shot,1 - 2,CHN,NIU G,5.0,1,2,309,3,CHN,Saved,0
+1.0,4:48,5m shot,1 - 2,ITA,GARIBOTTI A,3.0,1,2,288,3,CHN,Post,0
+1.0,4:36,5m shot,1 - 2,ITA,EMMOLO G,9.0,1,2,276,3,CHN,Post,0
+1.0,4:11,5m shot,1 - 2,CHN,NIU G,5.0,1,2,251,3,CHN,Post,0
+1.0,3:52,Centre shot,1 - 2,ITA,AIELLO R,6.0,1,2,232,3,CHN,Post,0
+1.0,3:08,Extra player shot,2 - 2,ITA,GARIBOTTI A,3.0,2,2,188,3,CHN,Goal,1
+1.0,2:40,5m shot,2 - 2,CHN,ZHAO Z,9.0,2,2,160,3,CHN,Saved,0
+1.0,1:57,5m shot,2 - 2,CHN,ZHANG D,10.0,2,2,117,3,CHN,Saved,0
+1.0,1:22,5m shot,2 - 2,CHN,ZHAO Z,9.0,2,2,82,3,CHN,Blocked,0
+1.0,0:56,Extra player shot,3 - 2,ITA,PICOZZI D,7.0,3,2,56,3,CHN,Goal,1
+1.0,0:28,Action shot,3 - 2,CHN,ZHANG J,12.0,3,2,28,3,CHN,Saved,0
+1.0,0:12,5m shot,3 - 2,ITA,PICOZZI D,7.0,3,2,12,3,CHN,Post,0
+1.0,0:04,5m shot,3 - 2,CHN,ZHANG C,8.0,3,2,4,3,CHN,Saved,0
+2.0,7:29,5m shot,3 - 2,ITA,BIANCONI R,8.0,3,2,449,3,CHN,Post,0
+2.0,7:25,Action shot,4 - 2,ITA,AIELLO R,6.0,4,2,445,3,CHN,Goal,1
+2.0,6:41,Extra player shot,4 - 3,CHN,CHEN X,11.0,4,3,401,3,CHN,Goal,1
+2.0,6:09,Extra player shot,4 - 3,ITA,GARIBOTTI A,3.0,4,3,369,3,CHN,Saved,0
+2.0,5:40,Action shot,4 - 3,CHN,GUO N,6.0,4,3,340,3,CHN,Saved,0
+2.0,5:21,Centre shot,4 - 3,ITA,AIELLO R,6.0,4,3,321,3,CHN,Saved,0
+2.0,4:52,Action shot,4 - 3,CHN,NIU G,5.0,4,3,292,3,CHN,Saved,0
+2.0,4:33,5m shot,4 - 3,ITA,GARIBOTTI A,3.0,4,3,273,3,CHN,Saved,0
+2.0,4:20,Extra player shot,5 - 3,ITA,BIANCONI R,8.0,5,3,260,3,CHN,Goal,1
+2.0,3:50,Action shot,5 - 3,CHN,ZHANG D,10.0,5,3,230,3,CHN,Post,0
+2.0,2:58,Extra player shot,6 - 3,ITA,BIANCONI R,8.0,6,3,178,3,CHN,Goal,1
+2.0,2:25,5m shot,6 - 4,CHN,MEI X,3.0,6,4,145,3,CHN,Goal,1
+4.0,3:40,Counter attack,14 - 6,CHN,ZHANG C,8.0,14,6,220,3,CHN,Goal,1
+4.0,3:12,5m shot,14 - 6,ITA,QUEIROLO E,4.0,14,6,192,3,CHN,Saved,0
+4.0,2:54,Extra player shot,14 - 7,CHN,ZHANG J,12.0,14,7,174,3,CHN,Goal,1
+4.0,2:25,Extra player shot,15 - 7,ITA,PALMIERI V,10.0,15,7,145,3,CHN,Goal,1
+4.0,2:03,5m shot,15 - 7,CHN,NIU G,5.0,15,7,123,3,CHN,Saved,0
+2.0,1:48,5m shot,15 - 7,ITA,GARIBOTTI A,3.0,15,7,108,3,CHN,Saved,0
+2.0,1:31,Action shot,15 - 7,CHN,ZHANG C,8.0,15,7,91,3,CHN,Post,0
+2.0,1:14,5m shot,7 - 4,ITA,QUEIROLO E,4.0,7,4,74,3,CHN,Goal,1
+2.0,0:27,Centre shot,7 - 4,CHN,XIONG D,4.0,7,4,27,3,CHN,Saved,0
+2.0,0:03,Action shot,7 - 4,ITA,EMMOLO G,9.0,7,4,3,3,CHN,Saved,0
+3.0,7:47,5m shot,7 - 4,CHN,ZHAO Z,9.0,7,4,467,3,CHN,Saved,0
+3.0,7:26,Centre shot,8 - 4,ITA,AIELLO R,6.0,8,4,446,3,CHN,Goal,1
+3.0,6:56,Action shot,8 - 4,CHN,NIU G,5.0,8,4,416,3,CHN,Post,0
+3.0,6:42,Action shot,8 - 4,ITA,GARIBOTTI A,3.0,8,4,402,3,CHN,Post,0
+3.0,5:52,5m shot,8 - 4,ITA,QUEIROLO E,4.0,8,4,352,3,CHN,Saved,0
+3.0,5:16,Extra player shot,9 - 4,ITA,RADICCHI F,5.0,9,4,316,3,CHN,Goal,1
+3.0,4:31,Penalty shot,10 - 4,ITA,BIANCONI R,8.0,10,4,271,3,CHN,Goal,1
+3.0,3:40,5m shot,10 - 4,ITA,TABANI C,2.0,10,4,220,3,CHN,Post,0
+3.0,3:17,Centre shot,10 - 4,ITA,PALMIERI V,10.0,10,4,197,3,CHN,Post,0
+3.0,2:55,5m shot,10 - 4,CHN,ZHAO Z,9.0,10,4,175,3,CHN,Saved,0
+3.0,2:27,Action shot,11 - 4,ITA,TABANI C,2.0,11,4,147,3,CHN,Goal,1
+3.0,1:59,5m shot,11 - 4,CHN,ZHANG C,8.0,11,4,119,3,CHN,Saved,0
+3.0,1:38,Centre shot,12 - 4,ITA,PALMIERI V,10.0,12,4,98,3,CHN,Goal,1
+3.0,0:48,Extra player shot,13 - 4,ITA,COTTI A,11.0,13,4,48,3,CHN,Goal,1
+3.0,0:01,5m shot,13 - 4,ITA,GARIBOTTI A,3.0,13,4,1,3,CHN,Saved,0
+4.0,7:34,5m shot,13 - 4,ITA,EMMOLO G,9.0,13,4,454,3,CHN,Post,0
+4.0,6:47,5m shot,13 - 4,ITA,COTTI A,11.0,13,4,407,3,CHN,Post,0
+4.0,6:23,5m shot,13 - 4,CHN,BI Y,2.0,13,4,383,3,CHN,Post,0
+4.0,5:07,Extra player shot,13 - 5,CHN,CHEN X,11.0,13,5,307,3,CHN,Goal,1
+4.0,4:38,Centre shot,14 - 5,ITA,PALMIERI V,10.0,14,5,278,3,CHN,Goal,1
+4.0,4:15,5m shot,14 - 5,CHN,ZHANG J,12.0,14,5,255,3,CHN,Post,0
+4.0,1:09,5m shot,14 - 5,CHN,NIU G,5.0,14,5,69,3,CHN,Post,0
+4.0,0:54,Extra player shot,14 - 5,CHN,CHEN X,11.0,14,5,54,3,CHN,Post,0
+4.0,0:31,Centre shot,14 - 5,ITA,PALMIERI V,10.0,14,5,31,3,CHN,Saved,0
+4.0,0:04,Extra player shot,15 - 8,CHN,CHEN X,11.0,15,8,4,3,CHN,Goal,1
+4.0,0:02,5m shot,15 - 8,ITA,BIANCONI R,8.0,15,8,2,3,CHN,Saved,0
+1.0,7:35,Action shot,0 - 0,RUS,TOLKUNOVA T,10.0,0,0,455,4,RUS,Blocked,0
+1.0,7:15,Action shot,0 - 0,ITA,GARIBOTTI A,3.0,0,0,435,4,RUS,Post,0
+1.0,6:51,Action shot,0 - 0,RUS,GORBUNOVA O,6.0,0,0,411,4,RUS,Saved,0
+1.0,6:39,Action shot,0 - 0,RUS,RYZHKOVA D,12.0,0,0,399,4,RUS,Missed,0
+1.0,6:12,5m shot,0 - 0,ITA,RADICCHI F,5.0,0,0,372,4,RUS,Saved,0
+1.0,5:53,Action shot,0 - 0,ITA,GARIBOTTI A,3.0,0,0,353,4,RUS,Missed,0
+1.0,5:28,Action shot,0 - 0,RUS,GORBUNOVA O,6.0,0,0,328,4,RUS,Saved,0
+1.0,5:01,5m shot,0 - 0,ITA,EMMOLO G,9.0,0,0,301,4,RUS,Saved,0
+1.0,4:10,Action shot,0 - 0,ITA,RADICCHI F,5.0,0,0,250,4,RUS,Missed,0
+1.0,3:55,Action shot,0 - 0,RUS,RYZHKOVA D,12.0,0,0,235,4,RUS,Saved,0
+1.0,3:26,5m shot,0 - 0,ITA,QUEIROLO E,4.0,0,0,206,4,RUS,Post,0
+1.0,2:56,Action shot,0 - 0,RUS,SERZHANTOVA A,7.0,0,0,176,4,RUS,Post,0
+1.0,2:30,Action shot,0 - 0,ITA,BIANCONI R,8.0,0,0,150,4,RUS,Saved,0
+1.0,2:13,Action shot,0 - 1,RUS,SERZHANTOVA A,7.0,0,1,133,4,RUS,Goal,1
+1.0,1:46,Action shot,0 - 1,ITA,PALMIERI V,10.0,0,1,106,4,RUS,Saved,0
+1.0,0:55,Action shot,0 - 2,RUS,IVANOVA E,11.0,0,2,55,4,RUS,Goal,1
+1.0,0:32,5m shot,0 - 2,ITA,EMMOLO G,9.0,0,2,32,4,RUS,Saved,0
+1.0,0:05,Action shot,0 - 3,RUS,RYZHKOVA D,12.0,0,3,5,4,RUS,Goal,1
+1.0,0:01,5m shot,0 - 3,ITA,TABANI C,2.0,0,3,1,4,RUS,Saved,0
+2.0,7:04,Action shot,0 - 4,RUS,GORBUNOVA O,6.0,0,4,424,4,RUS,Goal,1
+2.0,6:25,Extra player shot,1 - 4,ITA,EMMOLO G,9.0,1,4,385,4,RUS,Goal,1
+2.0,5:36,5m shot,1 - 4,ITA,BIANCONI R,8.0,1,4,336,4,RUS,Blocked,0
+2.0,4:49,5m shot,1 - 4,ITA,BIANCONI R,8.0,1,4,289,4,RUS,Missed,0
+2.0,4:28,Action shot,1 - 4,RUS,SERZHANTOVA A,7.0,1,4,268,4,RUS,Post,0
+2.0,4:06,5m shot,1 - 4,ITA,GARIBOTTI A,3.0,1,4,246,4,RUS,Post,0
+2.0,2:42,Action shot,1 - 4,RUS,BORISOVA M,5.0,1,4,162,4,RUS,Blocked,0
+2.0,2:29,Action shot,2 - 4,ITA,BIANCONI R,8.0,2,4,149,4,RUS,Goal,1
+2.0,2:00,Action shot,2 - 4,RUS,GORBUNOVA O,6.0,2,4,120,4,RUS,Saved,0
+2.0,1:35,Action shot,2 - 4,ITA,DARIO S,12.0,2,4,95,4,RUS,Missed,0
+2.0,1:20,Action shot,2 - 4,RUS,PROKOFYEVA E,3.0,2,4,80,4,RUS,Post,0
+2.0,1:03,Action shot,3 - 4,ITA,QUEIROLO E,4.0,3,4,63,4,RUS,Goal,1
+2.0,0:33,Action shot,3 - 4,RUS,IVANOVA E,11.0,3,4,33,4,RUS,Saved,0
+2.0,0:07,Action shot,4 - 4,ITA,GARIBOTTI A,3.0,4,4,7,4,RUS,Goal,1
+2.0,0:01,5m shot,4 - 4,RUS,PROKOFYEVA E,3.0,4,4,1,4,RUS,Saved,0
+3.0,7:33,5m shot,4 - 4,RUS,GORBUNOVA O,6.0,4,4,453,4,RUS,Blocked,0
+3.0,7:19,Action shot,4 - 4,ITA,AIELLO R,6.0,4,4,439,4,RUS,Saved,0
+3.0,6:33,Action shot,4 - 4,ITA,BIANCONI R,8.0,4,4,393,4,RUS,Blocked,0
+3.0,6:12,Action shot,4 - 4,RUS,RYZHKOVA D,12.0,4,4,372,4,RUS,Post,0
+3.0,5:48,Action shot,5 - 4,ITA,EMMOLO G,9.0,5,4,348,4,RUS,Goal,1
+3.0,5:12,Extra player shot,5 - 5,RUS,BORISOVA M,5.0,5,5,312,4,RUS,Goal,1
+3.0,4:44,5m shot,5 - 5,ITA,GARIBOTTI A,3.0,5,5,284,4,RUS,Saved,0
+3.0,4:20,Action shot,5 - 5,RUS,GORBUNOVA O,6.0,5,5,260,4,RUS,Post,0
+3.0,3:58,Action shot,5 - 5,RUS,KARIMOVA E,4.0,5,5,238,4,RUS,Saved,0
+3.0,3:32,5m shot,6 - 5,ITA,GARIBOTTI A,3.0,6,5,212,4,RUS,Goal,1
+3.0,2:47,Extra player shot,7 - 5,ITA,EMMOLO G,9.0,7,5,167,4,RUS,Goal,1
+3.0,2:18,5m shot,7 - 5,RUS,PROKOFYEVA E,3.0,7,5,138,4,RUS,Post,0
+3.0,1:37,Centre shot,7 - 6,RUS,KARIMOVA E,4.0,7,6,97,4,RUS,Goal,1
+3.0,1:11,5m shot,7 - 6,ITA,BIANCONI R,8.0,7,6,71,4,RUS,Missed,0
+3.0,0:17,5m shot,7 - 6,RUS,BORISOVA M,5.0,7,6,17,4,RUS,Blocked,0
+3.0,0:14,Action shot,7 - 7,RUS,GORBUNOVA O,6.0,7,7,14,4,RUS,Goal,1
+3.0,0:01,Extra player shot,7 - 7,ITA,RADICCHI F,5.0,7,7,1,4,RUS,Post,0
+4.0,7:32,5m shot,7 - 8,RUS,IVANOVA E,11.0,7,8,452,4,RUS,Goal,1
+4.0,6:34,Action shot,7 - 9,RUS,IVANOVA E,11.0,7,9,394,4,RUS,Goal,1
+4.0,4:51,5m shot,7 - 9,RUS,KARIMOVA E,4.0,7,9,291,4,RUS,Post,0
+4.0,4:29,5m shot,7 - 9,ITA,QUEIROLO E,4.0,7,9,269,4,RUS,Saved,0
+4.0,3:41,Extra player shot,8 - 9,ITA,BIANCONI R,8.0,8,9,221,4,RUS,Goal,1
+4.0,2:49,5m shot,8 - 9,RUS,IVANOVA E,11.0,8,9,169,4,RUS,Saved,0
+4.0,2:21,Action shot,8 - 9,ITA,TABANI C,2.0,8,9,141,4,RUS,Saved,0
+4.0,1:26,Extra player shot,8 - 9,ITA,BIANCONI R,8.0,8,9,86,4,RUS,Saved,0
+4.0,0:02,Action shot,8 - 9,ITA,AIELLO R,6.0,8,9,2,4,RUS,Saved,0
+1.0,7:31,Action shot,0 - 0,AUS,BUCKLING H,3.0,0,0,451,5,AUS,Missed,0
+1.0,7:20,5m shot,1 - 0,ITA,BIANCONI R,8.0,1,0,440,5,AUS,Goal,1
+1.0,7:00,Centre shot,1 - 1,AUS,WEBSTER R,7.0,1,1,420,5,AUS,Goal,1
+1.0,6:35,5m shot,1 - 1,ITA,RADICCHI F,5.0,1,1,395,5,AUS,Blocked,0
+1.0,6:05,5m shot,1 - 1,AUS,BISHOP I,5.0,1,1,365,5,AUS,Blocked,0
+1.0,5:42,Penalty shot,2 - 1,ITA,BIANCONI R,8.0,2,1,342,5,AUS,Goal,1
+1.0,5:11,Action shot,2 - 1,AUS,BUCKLING H,3.0,2,1,311,5,AUS,Blocked,0
+1.0,4:34,Extra player shot,3 - 1,ITA,AIELLO R,6.0,3,1,274,5,AUS,Goal,1
+1.0,3:47,5m shot,4 - 1,ITA,BIANCONI R,8.0,4,1,227,5,AUS,Goal,1
+1.0,3:02,5m shot,5 - 1,ITA,BIANCONI R,8.0,5,1,182,5,AUS,Goal,1
+1.0,2:51,Centre shot,5 - 2,AUS,BUCKLING H,3.0,5,2,171,5,AUS,Goal,1
+1.0,2:31,Centre shot,5 - 2,ITA,AIELLO R,6.0,5,2,151,5,AUS,Missed,0
+1.0,2:09,Action shot,5 - 2,AUS,WEBSTER R,7.0,5,2,129,5,AUS,Saved,0
+1.0,1:45,5m shot,5 - 2,ITA,COTTI A,11.0,5,2,105,5,AUS,Missed,0
+1.0,1:05,Centre shot,5 - 2,ITA,AIELLO R,6.0,5,2,65,5,AUS,Saved,0
+1.0,0:46,Action shot,5 - 3,AUS,BAXTER M,11.0,5,3,46,5,AUS,Goal,1
+1.0,0:20,5m shot,5 - 3,ITA,EMMOLO G,9.0,5,3,20,5,AUS,Saved,0
+2.0,7:31,5m shot,5 - 3,ITA,QUEIROLO E,4.0,5,3,451,5,AUS,Saved,0
+2.0,6:49,5m shot,6 - 3,ITA,RADICCHI F,5.0,6,3,409,5,AUS,Goal,1
+2.0,6:26,5m shot,6 - 3,AUS,WEBSTER R,7.0,6,3,386,5,AUS,Missed,0
+2.0,6:05,5m shot,6 - 3,ITA,GARIBOTTI A,3.0,6,3,365,5,AUS,Blocked,0
+2.0,5:36,5m shot,6 - 3,AUS,RIDGE A,6.0,6,3,336,5,AUS,Missed,0
+2.0,4:56,5m shot,6 - 3,AUS,GOFERS K,2.0,6,3,296,5,AUS,Blocked,0
+2.0,4:09,5m shot,6 - 3,AUS,HALLIGAN B,4.0,6,3,249,5,AUS,Blocked,0
+2.0,3:48,Centre shot,6 - 3,AUS,WEBSTER R,7.0,6,3,228,5,AUS,Saved,0
+2.0,2:50,Centre shot,6 - 4,AUS,WEBSTER R,7.0,6,4,170,5,AUS,Goal,1
+2.0,2:09,Extra player shot,7 - 4,ITA,RADICCHI F,5.0,7,4,129,5,AUS,Goal,1
+2.0,1:48,Centre shot,7 - 5,AUS,ARANCINI Z,9.0,7,5,108,5,AUS,Goal,1
+2.0,1:26,5m shot,7 - 5,ITA,RADICCHI F,5.0,7,5,86,5,AUS,Post,0
+2.0,0:32,Extra player shot,7 - 5,ITA,EMMOLO G,9.0,7,5,32,5,AUS,Missed,0
+2.0,0:10,Centre shot,7 - 6,AUS,BISHOP I,5.0,7,6,10,5,AUS,Goal,1
+2.0,0:01,5m shot,7 - 6,ITA,EMMOLO G,9.0,7,6,1,5,AUS,Missed,0
+3.0,7:32,5m shot,7 - 7,AUS,BISHOP I,5.0,7,7,452,5,AUS,Goal,1
+3.0,5:52,Extra player shot,13 - 14,ITA,AIELLO R,6.0,13,14,352,5,AUS,Saved,0
+3.0,5:25,5m shot,7 - 8,AUS,WEBSTER R,7.0,7,8,325,5,AUS,Goal,1
+3.0,4:55,Extra player shot,7 - 8,ITA,BIANCONI R,8.0,7,8,295,5,AUS,Post,0
+3.0,4:13,Centre shot,8 - 8,ITA,AIELLO R,6.0,8,8,253,5,AUS,Goal,1
+3.0,3:45,5m shot,8 - 8,AUS,HALLIGAN B,4.0,8,8,225,5,AUS,Saved,0
+3.0,3:21,5m shot,8 - 8,ITA,BIANCONI R,8.0,8,8,201,5,AUS,Missed,0
+3.0,2:18,5m shot,8 - 8,ITA,DARIO S,12.0,8,8,138,5,AUS,Saved,0
+3.0,1:51,Penalty shot,8 - 9,AUS,WEBSTER R,7.0,8,9,111,5,AUS,Goal,1
+3.0,1:24,5m shot,8 - 9,ITA,RADICCHI F,5.0,8,9,84,5,AUS,Saved,0
+3.0,0:37,Action shot,8 - 9,ITA,GARIBOTTI A,3.0,8,9,37,5,AUS,Saved,0
+4.0,7:31,Centre shot,8 - 9,AUS,WEBSTER R,7.0,8,9,451,5,AUS,Post,0
+4.0,6:50,Extra player shot,9 - 9,ITA,GARIBOTTI A,3.0,9,9,410,5,AUS,Goal,1
+4.0,5:35,Action shot,9 - 9,ITA,QUEIROLO E,4.0,9,9,335,5,AUS,Saved,0
+4.0,5:08,Action shot,9 - 9,AUS,BUCKLING H,3.0,9,9,308,5,AUS,Saved,0
+4.0,4:15,Action shot,9 - 10,AUS,BUCKLING H,3.0,9,10,255,5,AUS,Goal,1
+4.0,3:28,5m shot,9 - 10,ITA,BIANCONI R,8.0,9,10,208,5,AUS,Saved,0
+4.0,2:47,Action shot,10 - 10,ITA,BIANCONI R,8.0,10,10,167,5,AUS,Goal,1
+4.0,2:11,Action shot,10 - 10,AUS,WEBSTER R,7.0,10,10,131,5,AUS,Post,0
+4.0,1:44,5m shot,10 - 10,ITA,BIANCONI R,8.0,10,10,104,5,AUS,Blocked,0
+4.0,1:42,Penalty shot,11 - 10,ITA,GARIBOTTI A,3.0,11,10,102,5,AUS,Goal,1
+4.0,0:52,Centre shot,11 - 10,AUS,BUCKLING H,3.0,11,10,52,5,AUS,Saved,0
+4.0,0:25,5m shot,11 - 10,ITA,AIELLO R,6.0,11,10,25,5,AUS,Missed,0
+4.0,0:04,Extra player shot,11 - 11,AUS,HALLIGAN B,4.0,11,11,4,5,AUS,Goal,1
+1.0,7:31,5m shot,0 - 0,ITA,RADICCHI F,5.0,0,0,451,6,HUN,Saved,0
+1.0,6:35,5m shot,0 - 0,ITA,BIANCONI R,8.0,0,0,395,6,HUN,Post,0
+1.0,6:12,Action shot,0 - 1,HUN,BUJKA B,10.0,0,1,372,6,HUN,Goal,1
+1.0,5:42,Extra player shot,1 - 1,ITA,BIANCONI R,8.0,1,1,342,6,HUN,Goal,1
+1.0,4:54,5m shot,1 - 1,ITA,RADICCHI F,5.0,1,1,294,6,HUN,Saved,0
+1.0,4:41,Action shot,1 - 1,HUN,KESZTHELYI R,8.0,1,1,281,6,HUN,Saved,0
+1.0,4:10,Extra player shot,1 - 2,HUN,SZILAGYI D,12.0,1,2,250,6,HUN,Goal,1
+1.0,3:08,Action shot,1 - 2,HUN,BUJKA B,10.0,1,2,188,6,HUN,Saved,0
+1.0,2:26,5m shot,1 - 2,ITA,EMMOLO G,9.0,1,2,146,6,HUN,Blocked,0
+1.0,1:57,5m shot,1 - 2,HUN,KESZTHELYI R,8.0,1,2,117,6,HUN,Saved,0
+1.0,1:13,Action shot,1 - 3,HUN,ANTAL D,3.0,1,3,73,6,HUN,Goal,1
+1.0,0:13,5m shot,2 - 3,ITA,BIANCONI R,8.0,2,3,13,6,HUN,Goal,1
+1.0,0:01,5m shot,2 - 3,HUN,BUJKA B,10.0,2,3,1,6,HUN,Post,0
+2.0,6:55,Counter attack,2 - 4,HUN,KESZTHELYI R,8.0,2,4,415,6,HUN,Goal,1
+2.0,6:33,5m shot,2 - 4,ITA,QUEIROLO E,4.0,2,4,393,6,HUN,Blocked,0
+2.0,6:10,5m shot,2 - 4,HUN,CZIGANY D,2.0,2,4,370,6,HUN,Saved,0
+2.0,5:21,Action shot,2 - 4,ITA,EMMOLO G,9.0,2,4,321,6,HUN,Saved,0
+2.0,5:14,Action shot,3 - 4,ITA,GARIBOTTI A,3.0,3,4,314,6,HUN,Goal,1
+2.0,4:09,5m shot,3 - 5,HUN,KESZTHELYI R,8.0,3,5,249,6,HUN,Goal,1
+2.0,3:44,5m shot,3 - 5,ITA,COTTI A,11.0,3,5,224,6,HUN,Saved,0
+2.0,2:51,5m shot,3 - 5,HUN,ILLES A,7.0,3,5,171,6,HUN,Post,0
+4.0,1:55,Action shot,3 - 5,HUN,SZILAGYI D,12.0,3,5,115,6,HUN,Saved,0
+2.0,1:47,Extra player shot,4 - 5,ITA,GARIBOTTI A,3.0,4,5,107,6,HUN,Goal,1
+2.0,1:19,Action shot,4 - 6,HUN,GURISATTI G,4.0,4,6,79,6,HUN,Goal,1
+2.0,0:52,5m shot,4 - 6,ITA,COTTI A,11.0,4,6,52,6,HUN,Saved,0
+2.0,0:36,Action shot,4 - 6,HUN,CZIGANY D,2.0,4,6,36,6,HUN,Post,0
+2.0,0:07,5m shot,4 - 6,HUN,KESZTHELYI R,8.0,4,6,7,6,HUN,Post,0
+2.0,0:01,5m shot,4 - 6,ITA,COTTI A,11.0,4,6,1,6,HUN,Missed,0
+3.0,7:21,Extra player shot,4 - 7,HUN,SZILAGYI D,12.0,4,7,441,6,HUN,Goal,1
+3.0,6:55,5m shot,4 - 7,ITA,GARIBOTTI A,3.0,4,7,415,6,HUN,Saved,0
+3.0,6:32,Action shot,4 - 7,HUN,KESZTHELYI R,8.0,4,7,392,6,HUN,Missed,0
+3.0,5:52,Action shot,4 - 7,ITA,GARIBOTTI A,3.0,4,7,352,6,HUN,Saved,0
+3.0,5:23,5m shot,4 - 7,HUN,SZILAGYI D,12.0,4,7,323,6,HUN,Post,0
+3.0,5:07,Penalty shot,5 - 7,ITA,BIANCONI R,8.0,5,7,307,6,HUN,Goal,1
+3.0,4:38,Action shot,5 - 7,HUN,BUJKA B,10.0,5,7,278,6,HUN,Blocked,0
+3.0,4:07,5m shot,5 - 7,ITA,TABANI C,2.0,5,7,247,6,HUN,Saved,0
+3.0,3:41,5m shot,5 - 7,HUN,CZIGANY D,2.0,5,7,221,6,HUN,Saved,0
+3.0,2:37,Action shot,5 - 7,ITA,QUEIROLO E,4.0,5,7,157,6,HUN,Blocked,0
+3.0,2:09,Action shot,5 - 7,ITA,TABANI C,2.0,5,7,129,6,HUN,Post,0
+3.0,1:20,Extra player shot,6 - 7,ITA,GARIBOTTI A,3.0,6,7,80,6,HUN,Goal,1
+3.0,0:44,Action shot,6 - 8,HUN,KESZTHELYI R,8.0,6,8,44,6,HUN,Goal,1
+3.0,0:16,Action shot,6 - 8,ITA,AIELLO R,6.0,6,8,16,6,HUN,Saved,0
+3.0,0:07,Action shot,6 - 8,HUN,SZUCS G,5.0,6,8,7,6,HUN,Missed,0
+4.0,7:40,5m shot,6 - 8,ITA,BIANCONI R,8.0,6,8,460,6,HUN,Post,0
+4.0,7:19,Action shot,6 - 8,HUN,SZILAGYI D,12.0,6,8,439,6,HUN,Post,0
+4.0,6:49,5m shot,6 - 8,ITA,EMMOLO G,9.0,6,8,409,6,HUN,Blocked,0
+4.0,5:36,Extra player shot,6 - 9,HUN,CSABAI D,11.0,6,9,336,6,HUN,Goal,1
+4.0,5:13,5m shot,7 - 9,ITA,GARIBOTTI A,3.0,7,9,313,6,HUN,Goal,1
+4.0,4:43,Action shot,7 - 10,HUN,CZIGANY D,2.0,7,10,283,6,HUN,Goal,1
+4.0,4:02,Extra player shot,7 - 10,ITA,PICOZZI D,7.0,7,10,242,6,HUN,Saved,0
+4.0,3:47,5m shot,7 - 10,ITA,BIANCONI R,8.0,7,10,227,6,HUN,Post,0
+4.0,3:18,5m shot,7 - 10,HUN,CZIGANY D,2.0,7,10,198,6,HUN,Missed,0
+4.0,3:10,Penalty shot,8 - 10,ITA,BIANCONI R,8.0,8,10,190,6,HUN,Goal,1
+4.0,2:39,Action shot,8 - 10,HUN,CZIGANY D,2.0,8,10,159,6,HUN,Missed,0
+4.0,0:44,5m shot,8 - 10,ITA,BIANCONI R,8.0,8,10,44,6,HUN,Saved,0
