@@ -273,7 +273,7 @@ var allShotSummaryDatas = [];
 var shotTypes = ["Total","Action shot","Centre shot","5m shot","Extra player shot"];
 var shotTypesDecode = ["All Shots","Action Shots","Centre Shots","Shots Outside 5m","Extra Player Shots"];
 
-var imgPath = "../d3/img/";
+var imgPath = "img/";
 
 //var allPoloDatas = [poloDataUSA, poloDataBRA, poloDataESP];
 //var allShotSummaryDatas = [shotSummaryUSA, shotSummaryBRA, shotSummaryESP];
@@ -1211,9 +1211,9 @@ var teamCodesDupe = teamCodes.slice(0);
 function loadFiles() {
 	if(teamCodesDupe.length > 0) {
 		var myTeamCode = teamCodesDupe.shift();
-		d3.json("../data_gathering/data/2017/W/processed/"+myTeamCode+"/shots.json", function(error, raw) {
+		d3.json("data_gathering/data/2017/W/processed/"+myTeamCode+"/shots.json", function(error, raw) {
 			allPoloDatas.push(raw);
-			d3.json("../data_gathering/data/2017/W/processed/"+myTeamCode+"/shot_summary.json", function(error, raw) {
+			d3.json("data_gathering/data/2017/W/processed/"+myTeamCode+"/shot_summary.json", function(error, raw) {
 				allShotSummaryDatas.push(raw);
 				loadFiles();
 			});
