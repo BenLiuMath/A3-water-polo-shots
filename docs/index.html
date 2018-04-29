@@ -21,7 +21,7 @@ ol {
   padding: 15 15 15px 15;
 }
 
-ol li 
+ol li
 {
     text-indent: 10px;
 }
@@ -31,7 +31,7 @@ ul{
   padding: 15 15 5px 15;
 }
 
-ul li 
+ul li
 {
     margin: 0px;
     padding: 0px;
@@ -273,7 +273,7 @@ var allShotSummaryDatas = [];
 var shotTypes = ["Total","Action shot","Centre shot","5m shot","Extra player shot"];
 var shotTypesDecode = ["All Shots","Action Shots","Centre Shots","Shots Outside 5m","Extra Player Shots"];
 
-var imgPath = "../d3/img/";
+var imgPath = "img/";
 
 //var allPoloDatas = [poloDataUSA, poloDataBRA, poloDataESP];
 //var allShotSummaryDatas = [shotSummaryUSA, shotSummaryBRA, shotSummaryESP];
@@ -519,7 +519,7 @@ function initializeScatterCharts() {
 			.attr("x2",scatterWidth)
 			.attr("y1",0)
 			.attr("y2",0);
-			
+
 		if(nn === 0) {
 			scatterChart.append("g")
 				.attr("class", "axis axis--y")
@@ -650,7 +650,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
     //console.log(totalShotsMade);
     if(totalShotsMade>0) {
 		ratios =  totalShotsAttempted / totalShotsMade;
-		
+
         var averageLines = chart.selectAll(".ratioLine")
             .data([{"ratio":ratios}])
             .on("mouseover", function(d) {
@@ -730,7 +730,7 @@ function filterScatterPlots() {
 for(var nn=0; nn<shotTypes.length; nn++) {
 	var chart = scatterCharts[nn];
 
-	
+
     var mydots = chart.selectAll(".scatterdot")
         .transition(d3.easeElasticOut(200))
 		.attr("fill", (d) => {
@@ -1177,10 +1177,10 @@ function togglePlayer(playerName) {
 
 function switchTeam(newTeam) {
 	initializeData(newTeam);
-	
+
 	scatterLegend.select("#legendPicture")
 		.attr("href", imgPath + currTeamCode + ".png");
-	
+
 	//console.log(JSON.stringify(poloData).replace(/},{/g,"},\n\n{"));
 	drawAll();
 }
@@ -1214,7 +1214,7 @@ function loadFiles() {
 		d3.json("../data_gathering/data/2017/W/processed/"+myTeamCode+"/shots.json", function(error, raw) {
 			allPoloDatas.push(raw);
 			d3.json("../data_gathering/data/2017/W/processed/"+myTeamCode+"/shot_summary.json", function(error, raw) {
-				allShotSummaryDatas.push(raw);	
+				allShotSummaryDatas.push(raw);
 				loadFiles();
 			});
 		});
@@ -1229,7 +1229,7 @@ teamCodes.forEach( function(teamCode) {
 	//console.log("teamcode:"+teamCode);
 	teamDecodes[teamCode] = teamCode;
 	d3.json("../data_gathering/data/2017/W/processed/"+teamCode+"/shots.json", function(error, raw) {
-	
+
 		//var dsv = d3.dsvFormat(',');
 		//console.log(error);
 		//var poloData = dsv.parse(raw);
@@ -1239,13 +1239,13 @@ teamCodes.forEach( function(teamCode) {
 		allPoloDatas.push(raw);
 		//console.log(JSON.stringify(allPoloDatas[0]).replace(/},{/g,"},\n\n{"));
 	});
-	
+
 	d3.json("../data_gathering/data/2017/W/processed/"+teamCode+"/shot_summary.json", function(error, raw) {
 		//var dsv = d3.dsvFormat(',');
 		//console.log(error);
 		//var shotSummaryData = dsv.parse(raw);
 		//console.log(shotSummaryData);
-		allShotSummaryDatas.push(raw);	
+		allShotSummaryDatas.push(raw);
 	});
 });
 */
@@ -1288,7 +1288,7 @@ teamSelect.addEventListener("change", function() {
 	Inspired by the baseball statistics example from class, our goal was to build an interactive graphic that allows the viewer to explore the contributions of different players on a team, as well as game patterns across team members. For the scope of this assignment, we decided to focus on offensive statistics, i.e. shots attempted (broken down by shot type) and shots scored. We visualize tournament data collected by Omega Timing during the 2017 FINAL Women's Water Polo World Championships.
     </p>
 
-    <p>For a given team, questions that viewers might want to explore in this dataset include: 
+    <p>For a given team, questions that viewers might want to explore in this dataset include:
 	<ol>
 	<li>Which players are the top scorers?</li>
 	<li>Which players perform particularly well at a given shot type?</li>
