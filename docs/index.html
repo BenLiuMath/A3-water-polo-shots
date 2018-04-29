@@ -16,7 +16,7 @@ body {
 a, a:visited { text-decoration: none; color: #7533f4; }
 a:hover { text-decoration: underline; color: #f4b014; }
 
-ol{
+ol {
   margin-left: 30px;
   padding: 15 15 15px 15;
 }
@@ -190,11 +190,6 @@ body {
   opacity: .25;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
 
 
 #roster { font-size:10pt; }
@@ -207,6 +202,9 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+#roster li {
+	text-indent: 0px;
 }
 
 #roster label {
@@ -275,6 +273,7 @@ var allShotSummaryDatas = [];
 var shotTypes = ["Total","Action shot","Centre shot","5m shot","Extra player shot"];
 var shotTypesDecode = ["All Shots","Action Shots","Centre Shots","Shots Outside 5m","Extra Player Shots"];
 
+var imgPath = "../d3/img/";
 
 //var allPoloDatas = [poloDataUSA, poloDataBRA, poloDataESP];
 //var allShotSummaryDatas = [shotSummaryUSA, shotSummaryBRA, shotSummaryESP];
@@ -492,7 +491,7 @@ function initializeScatterCharts() {
 			.attr("height", scatterHeight)
 			.attr("transform", `translate(${nn*(scatterWidth+scatterPadding)-30}, 10)`);
 
-	  scatterCharts[nn] = scatterChart;
+		scatterCharts[nn] = scatterChart;
 
 		scatterChart.append("g")
 			.attr("class", "axis axisX")
@@ -511,8 +510,17 @@ function initializeScatterCharts() {
 			.text(shotTypesDecode[nn]);
 
 		// Label first y-axis and give ticks
-
-	  if(nn === 0) {
+		var averageLines = scatterChart.selectAll(".ratioLine")
+            .data([{"ratio":0}])  // data is a singleton array with # shots made / # shots
+            .enter()
+            .append("line")
+            .attr("class","ratioLine")
+			.attr("x1",0)
+			.attr("x2",scatterWidth)
+			.attr("y1",0)
+			.attr("y2",0);
+			
+		if(nn === 0) {
 			scatterChart.append("g")
 				.attr("class", "axis axis--y")
 				.call(d3.axisLeft(probability)
@@ -569,36 +577,36 @@ function initializeScatterCharts() {
 			.style("text-anchor", "middle")
 			.text(scatterLegendVals[nn] + " players");
 		  }
-	  }
+		}
 
-	  scatterLegend.append("path")
-	  .attr("class","ratioLine")
-	  // draw a line at (0, ratio) to (x-axis-length, ratio)
-	  .attr("transform", `translate(0,${10+scatterLegendVals.length*20})`)
-	  .attr("d", "M " + -7 + " " + 0 + " L " + 7+ " " + 0);
+		scatterLegend.append("path")
+			.attr("class","ratioLine")
+			// draw a line at (0, ratio) to (x-axis-length, ratio)
+			.attr("transform", `translate(0,${10+scatterLegendVals.length*20})`)
+			.attr("d", "M " + -7 + " " + 0 + " L " + 7+ " " + 0);
 
-	  scatterLegend.append("text")
-	  .attr("transform",
-		"translate(" + (scatterWidth/6 + 25) + " ," +
-				 (10+scatterLegendVals.length*20-18) + ")")
-	  .attr("dy","2em")
-    .attr("dx", "1.5em")
-	  .style("text-anchor", "middle")
-	  .text("Team Avg.");
-    scatterLegend.append("image")
-      .attr("id", "legendPicture")
-      .attr("href", "img/" + currTeamCode + ".png")
-      .attr("height", "10px")
-      .attr("width", "16.6px")
-      .attr("x", 15)
-      .attr("y", 65);
+		scatterLegend.append("text")
+			.attr("transform",
+			"translate(" + (scatterWidth/6 + 25) + " ," +
+					 (10+scatterLegendVals.length*20-18) + ")")
+			.attr("dy","2em")
+			.attr("dx", "1.5em")
+			.style("text-anchor", "middle")
+			.text("Team Avg.");
+		scatterLegend.append("image")
+			.attr("id", "legendPicture")
+			.attr("href", imgPath + currTeamCode + ".png")
+			.attr("height", "10px")
+			.attr("width", "16.6px")
+			.attr("x", 15)
+			.attr("y", 65);
 }
 
-function filterScatterPlots() {
+function populateScatterPlots() {
 
 scatterLegend.append("image")
   .attr("id", "legendPicture")
-  .attr("href", "img/" + currTeamCode + ".png")
+  .attr("href", imgPath + currTeamCode + ".png")
   .attr("height", "10px")
   .attr("width", "16.6px")
   .attr("x", 15)
@@ -646,27 +654,17 @@ for(var nn=0; nn<shotTypes.length; nn++) {
     }
 
     // Remove existing lines
-    chart.selectAll(".ratioLine")
-        .style("opacity", 0.0)
-        .remove();
     //console.log(totalShotsMade);
     if(totalShotsMade>0) {
-    ratios =  totalShotsAttempted / totalShotsMade;
+		ratios =  totalShotsAttempted / totalShotsMade;
+		
         var averageLines = chart.selectAll(".ratioLine")
-            .data([ratios])  // data is a singleton array with # shots made / # shots
-            .enter()
-            .append("path")
-            .attr("class","ratioLine")
-            .style("opacity", 0.0)
-        // draw a line at (0, ratio) to (x-axis-length, ratio)
-            .attr("d", "M " + 0 + " " + probability(ratios) + " L " + scatterWidth + " " + probability(ratios))
+            .data([{"ratio":ratios}])
             .on("mouseover", function(d) {
                 tooltip.transition()
                 .duration(200)
                 .style("opacity", 1.0);
-                // currTeamCode stores the current team
-                // flags are 3:5 ratio by Wikipedia
-                tooltip.html((100*d).toFixed(2) + "%")
+                tooltip.html((100*d.ratio).toFixed(2) + "%")
                 .style("left", (d3.event.pageX -5) + "px")
                 .style("top", (d3.event.pageY -20) + "px");
             })
@@ -674,12 +672,15 @@ for(var nn=0; nn<shotTypes.length; nn++) {
                 tooltip.transition()
                 .duration(500)
                 .style("opacity", 0);
-            });
-
-        averageLines.transition()
-           .duration(200)
-           .style("opacity", 1.0);
-    }
+            })
+			.transition() // data is a singleton array with # shots made / # shots
+			.attr("y1", (d) => { return probability(d.ratio); } )
+			.attr("y2", (d) => { return probability(d.ratio); } )
+			.style("opacity", 1.0)
+    } else {
+		chart.selectAll(".ratioLine")
+			.style("opacity", 0.0)
+	}
 
 
 	function tooltipShow(d) {
@@ -728,6 +729,22 @@ for(var nn=0; nn<shotTypes.length; nn++) {
         .delay(100)
         .duration(200)
         .style("opacity",0.55);
+}
+}
+
+function filterScatterPlots() {
+for(var nn=0; nn<shotTypes.length; nn++) {
+	var chart = scatterCharts[nn];
+
+	
+    var mydots = chart.selectAll(".scatterdot")
+        .transition(d3.easeElasticOut(200))
+		.attr("fill", (d) => {
+			if(d.players.filter( (p) => { return playerFilter.includes(p);	}).length>0) {
+				return "#CCAA00";
+			} else {
+				return "darkblue";
+			}});
 }
 }
 
@@ -827,7 +844,7 @@ var timelineLegend = svgLegend.append("g")
 						gameFilter[num] = !gameFilter[num];
 						timelines[num]
 							.attr("opacity",(gameFilter[num]?1:.25));
-						filterScatterPlots();
+						populateScatterPlots();
 					})
 				})(nn));
 		timelines[nn] = timeline;
@@ -863,7 +880,7 @@ var timelineLegend = svgLegend.append("g")
 			.text("?");
 		timeline.append("image")
 			.attr("class","flagThis")
-			.attr("href", "img/" + currTeamCode + ".png")
+			.attr("href", imgPath + currTeamCode + ".png")
 			.attr("y", timelineHeight/1.95-20)
 			.attr("x",-timelineInternalPadding-lineLength*.9)
 			.attr("height", "20px");
@@ -878,7 +895,7 @@ var timelineLegend = svgLegend.append("g")
 			.text("?");
 		timeline.append("image")
 			.attr("class","flagOpponent")
-			.attr("href", "img/" + currTeamCode + ".png")
+			.attr("href", imgPath + currTeamCode + ".png")
 			.attr("y", timelineHeight/1.95)
 			.attr("x",-timelineInternalPadding-lineLength*.9)
 			.attr("height", "20px");
@@ -954,9 +971,9 @@ for(var nn=0; nn<6; nn++) {
 	if(gameNData.length==0) { // There is no n-th game; kill chart
 
 		timeline.selectAll(".flagThis")
-			.attr("href", "img/" + "BLANK" + ".png");
+			.attr("href", imgPath + "BLANK" + ".png");
 		timeline.selectAll(".flagOpponent")
-			.attr("href", "img/" + "BLANK" + ".png");
+			.attr("href", imgPath + "BLANK" + ".png");
 
 		timeline.selectAll(".teamnameThis")
 			.text("");
@@ -1004,9 +1021,9 @@ for(var nn=0; nn<6; nn++) {
 
 	// set flags, names on left
 	timeline.selectAll(".flagThis")
-		.attr("href", "img/" + currTeamCode + ".png");
+		.attr("href", imgPath + currTeamCode + ".png");
 	timeline.selectAll(".flagOpponent")
-		.attr("href", "img/" + otherTeam + ".png");
+		.attr("href", imgPath + otherTeam + ".png");
 
 	timeline.selectAll(".teamnameThis")
 		.text(currTeamCode);
@@ -1122,7 +1139,7 @@ for(var nn=0; nn<6; nn++) {
 				.style("opacity", 1.0);
 				tooltip.html(
           d.Action + ", " + d.Time + "<br>"
-          + ' <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'
+          + ' <img style="width:15px;height:9px;" src="../d3/img/' +  d.Team + '.png"></img>'
           + " #" + Math.round(d.Cap) + " " + toTitleCase(d.Player)
           // +" (" + d.Team +  ")"
           // + '  <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'    // use flag instead of team name
@@ -1171,7 +1188,7 @@ function switchTeam(newTeam) {
 }
 
 function drawAll() {
-	filterScatterPlots();
+	populateScatterPlots();
 	populateTimelines();
 }
 
