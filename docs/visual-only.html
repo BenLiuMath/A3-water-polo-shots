@@ -1,0 +1,1415 @@
+<!DOCTYPE HTML>
+<html xml:lang="en" lang="en">
+<head>
+  <title>CSE512 | A3 Women's Water Polo Offense Visualizer</title>
+  <style media="all">
+* { padding: 0; margin: 0; }
+
+body {
+  margin: 0 auto 0 auto;
+  padding: 0;
+  max-width: 1200px;
+  font-family: "Avenir", "Avenir Next", Helvetica Neue, Arial;
+  font-size: 20;
+}
+
+a, a:visited { text-decoration: none; color: #7533f4; }
+a:hover { text-decoration: underline; color: #f4b014; }
+
+ol {
+  margin-left: 30px;
+  padding: 15 15 15px 15;
+}
+
+ol li
+{
+    text-indent: 10px;
+}
+
+/* ul{
+  margin-left: 30px;
+  padding: 15 15 5px 15;
+}
+
+ul li
+{
+    margin: 0px;
+    padding: 0px;
+    text-indent: 10px;
+} */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #492a7c;
+  background-color: inherit;
+  font-weight: normal;
+  padding: 0 0 5px 0;
+  margin: 15px 0 0 0;
+  border: none;
+  clear: right;
+}
+h1 { font-size: 24pt; margin:  5px 0 10px 0; line-height: 28px; }
+h2 { font-size: 14pt; margin: 30px 0 15px 0; letter-spacing: 0.01em; border-bottom: 1px solid #ccc;  line-height: 20px;}
+h3 { font-size: 13pt; }
+h4 { font-size: 12pt; }
+h5 { font-size: 11pt; }
+p { margin: 0 0 10px 0; }
+
+.content {
+  margin: 0;
+  padding: 15px 20px;
+  background-color: #ffffff;
+}
+
+.title, .title h1, .title a {
+  color: #492a7c;
+  font-size: 16pt;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+.footer {
+  border-top: 1px solid #ccc;
+  margin-top: 30px;
+  padding-top: 4px;
+  text-align: right;
+  font-size: 12px;
+}
+.footer a {
+  color: #21346B;
+}
+.footer a:hover {
+  color: #ce3333;
+}
+  </style>
+<style>
+body {
+  font: 11px sans-serif;
+  font-family: Tahoma;
+  margin:0px;
+}
+
+#sidebar h1{
+  font-size: 14pt;
+}
+
+.axis {
+  font-size:10pt;
+}
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+.axisLabel {
+	font-size:12pt;
+	fill: black;
+	opacity: 1.0;
+}
+
+/* Shot Icons */
+.shotIcon {
+	shape-rendering: geometricPrecision;
+	stroke-width:1.5px;
+}
+.shotIconFocalTeam {
+    stroke:#4056a1;
+    fill:#4056a1;
+}
+.shotIconOpponentTeam {
+    stroke:#F4634D;
+    fill:#F4634D;
+}
+.shotIconFocalPlayer {
+    stroke: #CCAA00;
+    fill: #CCAA00;
+}
+.shotIconMiss {
+    fill:transparent !important;
+}
+
+.ratioLine {
+	stroke: rosybrown;
+	shape-rendering: crispEdges;
+	stroke-width:4px;
+}
+
+.scatterdot {
+	stroke: none;
+	//fill: darkblue;
+	opacity:.55;
+	shape-rendering: geometricPrecision;
+}
+
+.legend {
+  background-color: coral;
+}
+
+.scatterdotLegend {
+	stroke: none;
+	fill: darkblue;
+	opacity:.55;
+	shape-rendering: geometricPrecision;
+}
+
+.teamnameThis, .teamnameOpponent {
+	font-size:12pt;
+	font-weight:bold;
+	font-style:italic;
+}
+
+.finalScoreThis {
+  font-size:12pt;
+  font-weight:bold;
+  fill: #4056a1;
+}
+
+.finalScoreOpponent {
+  font-size:12pt;
+  font-weight:bold;
+  fill: #f13c20;
+  opacity:0.8;
+}
+
+.tooltip {
+  position: absolute;
+  background: cornsilk;
+  pointer-events: none;
+  padding:5px;
+  border: BlanchedAlmond 1px solid;
+}
+
+.areaWin {
+  fill: #4056a1;
+  opacity:.25;
+}
+
+.areaLose {
+  fill: #f13c20;
+  opacity: .25;
+}
+
+
+
+#roster { font-size:10pt; }
+#roster input {
+    opacity:0.5;
+    display:none;
+}
+
+#roster ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#roster li {
+	text-indent: 0px;
+}
+
+#roster label {
+    cursor:pointer;
+    display:inline;
+}
+#roster label:hover {
+    color:#4056a1;
+}
+#roster label::before{
+    display:inline-block;
+    width:15px;
+    content: " ";
+}
+#roster input[type=checkbox]:checked + label::before {
+    content: "\25CF";
+    color:#CCAA00;
+}
+</style>
+</head>
+<body>
+<div class="content">
+
+  <section class="title">
+    Women's Water Polo Visualizer -
+    <i>2017 FINA World Championships</i>
+  </section>
+
+  <section>
+<svg id="poloVis"></svg>
+
+<div id="sidebar" style="display:inline-block; vertical-align:top; ">
+
+<br>
+<svg id="legends"></svg>
+
+<!-- <h1>Women's Water Polo</h1>
+<h5>2017 FINA World Championships</h5> -->
+
+<h5><i>Getting Started</i></h5>
+
+<br/>
+Select a team:
+<br/><br/>
+<select id="teamSelector"></select>
+
+<br/><br/>
+and click one or more timelines to the left <br/>to show data for those games.
+<br/><br/><br/>
+ You can also select a player to highlight <br/>their contributions to the offense:
+<br/><br/>
+<div id="roster"></div>
+
+<br/><br/>
+<b>Hover over data points to see details!<b>
+
+</div>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+
+<script>
+
+var teamCodes = ["FRA","USA","ESP","NED","CHN","AUS","GRE","CAN","KAZ","NZL","JPN","HUN","RSA","ITA","RUS","BRA"];
+var teamDecodes = {"USA":"United States", "RUS":"Russia", "NZL":"New Zealand", "ESP":"Spain", "BRA":"Brazil"};
+var allPoloDatas = [];
+var allShotSummaryDatas = [];
+
+
+// data and lookup
+var shotTypes = ["Total","Action shot","Centre shot","5m shot","Extra player shot"];
+var shotTypesDecode = ["All Shots","Action Shots","Centre Shots","Shots Outside 5m","Extra Player Shots"];
+
+var imgPath = "img/";
+
+//var allPoloDatas = [poloDataUSA, poloDataBRA, poloDataESP];
+//var allShotSummaryDatas = [shotSummaryUSA, shotSummaryBRA, shotSummaryESP];
+
+// Sizing and Styling
+{
+var margin = {top: 10, right: 80, bottom: 60, left: 110};
+
+var scatterWidth, scatterHeight = 150;
+var scatterPadding = 30;
+var scatterTimelinePadding = 100;
+
+var timelineHeight = 60;
+var timelineQuarterWidth = 160;
+var timelineInternalPadding = 20;
+var timelineVerticalPadding = 5;
+var timelineWidth = 4*timelineQuarterWidth + 3*timelineInternalPadding;
+
+var widthFull = margin.left + margin.right + 4*timelineQuarterWidth + 3*timelineInternalPadding;
+var heightFull = margin.top + margin.bottom + scatterHeight + (timelineHeight+timelineVerticalPadding)*6 + scatterTimelinePadding;
+
+scatterWidth = (timelineWidth - 4*scatterPadding)/5;
+
+// var USAColor = "darkblue";
+// var OpponentColor = "#999999";
+}
+
+
+/**
+* Elements
+*/
+{
+var teamSelect = document.getElementById("teamSelector");
+
+var svg = d3.select("#poloVis")
+    .attr("width", widthFull)
+    .attr("height", heightFull)
+	//.attr("style","background:red;")
+	.append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var svgLegend = d3.select("#legends")
+    .attr("width", 220)
+    .attr("height", 100)
+	//.attr("style","background:red;")
+	.append("g")
+    .attr("transform", "translate(" + 10 + "," + (margin.top) + ")");
+
+// var title =  svg.append("text")
+//             .attr("x", (widthFull / 2) - margin.left)
+//             .attr("y", -20)
+//             .attr("text-anchor", "middle")
+//             .style("font-size", "32px")
+//             .text("Women's Water Polo at the 2017 FINA World Championships");
+
+var tooltip = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+}
+
+
+
+/**
+* State
+*/
+{
+var currTeam = 0;
+var currTeamCode = teamCodes[currTeam];
+
+var numGames = 0;
+var gameFilter = [0,0,0,0,0,0];
+
+var poloData;
+var shotData;
+
+//console.log(JSON.stringify(shotData).replace(/},{/g,"},\n\n{"));
+var playerSelectOpts = {};
+var players = [];
+var playerFilter = [];
+}
+
+
+
+/**
+* Initialize data and state variables
+*/
+{
+function initializeData(newTeam) {
+	playerFilter = [];
+	currTeam = newTeam;
+	currTeamCode = teamCodes[newTeam];
+	poloData = allPoloDatas[newTeam];
+	shotData = allShotSummaryDatas[newTeam];
+	numGames = d3.max(poloData.map( (d) => { return d.Game; }));
+
+	players = d3.nest()
+	.key( (d) => { return d.Player; } )
+	.entries(shotData)
+	.map( (d) => {
+		return d.key;
+	});
+	populateSelectors();
+}
+
+function populateSelectors() {
+
+	var roster = document.getElementById("roster");
+	roster.innerHTML = "";
+    var ul = document.createElement("ul");
+    roster.append(ul);
+
+	players.forEach( function(player) {
+
+        var li = document.createElement("li");
+        var check = document.createElement("input");
+        check.type="checkbox";
+        check.id="toggle"+player;
+        li.appendChild(check);
+        var lab = document.createElement("label");
+        lab.htmlFor="toggle"+player;
+        lab.appendChild(document.createTextNode(toTitleCase(player)));
+        lab.addEventListener("click", function() {
+			togglePlayer(player);
+		});
+        li.appendChild(lab);
+        ul.appendChild(li);
+	});
+}
+}
+
+/**
+* Data filtering and processing functions
+*/
+{
+function toTitleCase(text) {
+  // Assumes data comes in the form "LASTNAME FIRSTINITIAL"
+  [token1, token2, token3] = text.split(" ")
+  if(token3)
+  {
+    return token3.charAt(0).toUpperCase() + ". " + token2.charAt(0).toUpperCase() + token2.substr(1).toLowerCase()
+            + " " + token1.charAt(0).toUpperCase() + token1.substr(1).toLowerCase();
+  }
+  else {
+    return token2.charAt(0).toUpperCase() + ". " + token1.charAt(0).toUpperCase() + token1.substr(1).toLowerCase();
+  }
+}
+
+function aggregateShotDataByPlayer(data) {
+	var shotDataAggregatedByPlayer = d3.nest()
+	.key( (d) => { return d.Player; } )
+	.rollup( (v) => { var obj = {};
+		shotTypes.forEach( (mykey) => {
+			obj[mykey+" attempted"] = d3.sum(v, (d) => { return d[mykey+" attempted"]; });
+			obj[mykey+" made"] = d3.sum(v, (d) => { return d[mykey+" made"]; });
+		})
+		return obj;
+		})
+	.entries(data)
+	.map( (d) => {
+		var obj = d.value;
+		obj.Player = d.key;
+		return obj;
+	});
+	return shotDataAggregatedByPlayer;
+}
+
+function groupPlayerShotStatistics(data,shotType) {
+	var shotDataGrouped = d3.nest()
+	.key( (d) => { return [d[shotType+" attempted"],d[shotType+" made"]]; } )
+	.rollup( (v) => {
+		var res = [];
+		v.forEach(function(e) { res.push(e.Player); })
+		return res;
+	})
+	.entries(data)
+	.map((e) => { var obj = {};
+		var coord = e.key; coord = coord.split(",");
+		coord[0] = parseInt(coord[0]);
+		coord[1] = parseInt(coord[1]);
+		obj.coord = coord;
+		var players = e.value;
+		obj.players = players;
+		obj.numPlayers = players.length;
+		return obj;
+	});
+	return shotDataGrouped;
+}
+}
+
+/**
+* Scatter charts
+*/
+{
+// probability function for plotting y-values on the charts
+var probability = d3.scaleLinear().rangeRound([scatterHeight,0])
+	.domain([-.1, 1.1]);
+
+var ratios = 0;
+
+var scatterCharts = [];
+var scatterGroup = svg.append("g")
+	.attr("transform", `translate(0, 0)`);
+
+function initializeScatterCharts() {
+	for(var nn=0; nn<shotTypes.length; nn++) {
+
+		// shot function for plotting x-vlaues on the charts
+		var shots = d3.scaleLinear().rangeRound([0, scatterWidth]);
+			//.domain(lim);
+
+		var scatterChart = scatterGroup.append("g")
+			.attr("class", "scatterChart")
+			.attr("width", scatterWidth)
+			.attr("height", scatterHeight)
+			.attr("transform", `translate(${nn*(scatterWidth+scatterPadding)-30}, 10)`);
+
+		scatterCharts[nn] = scatterChart;
+
+		scatterChart.append("g")
+			.attr("class", "axis axisX")
+			.attr("transform", `translate(0, ${scatterHeight})`)
+			.call(d3.axisBottom(shots)
+				.tickFormat(d3.format("d"))
+				.ticks(0).tickSizeOuter(0));
+
+		scatterChart.append("text")
+			.attr("class","axisLabel")
+			.attr("transform",
+				"translate(" + (scatterWidth/2) + " ," +
+							   (scatterHeight + 12) + ")")
+			.attr("dy","1.5em")
+			.style("text-anchor", "middle")
+			.text(shotTypesDecode[nn]);
+
+		// Label first y-axis and give ticks
+		var averageLines = scatterChart.selectAll(".ratioLine")
+            .data([{"ratio":0}])  // data is a singleton array with # shots made / # shots
+            .enter()
+            .append("line")
+            .attr("class","ratioLine")
+			.attr("x1",0)
+			.attr("x2",scatterWidth)
+			.attr("y1",0)
+			.attr("y2",0);
+
+		if(nn === 0) {
+			scatterChart.append("g")
+				.attr("class", "axis axis--y")
+				.call(d3.axisLeft(probability)
+					.ticks(3)
+					.tickFormat(d3.format(".0%"))
+					.tickSizeOuter(0));
+
+			scatterChart.append("text")
+			.attr("class", "axisLabel")
+			.attr("transform", "rotate(-90)")
+				  .attr("y",-65)
+				  .attr("x",0 - (scatterHeight / 2))
+				  .attr("dy", "1em")
+				  .style("text-anchor", "middle")
+				  .text("Success");
+		} else {
+			scatterChart.append("g")
+				.attr("class", "axis axis--y")
+				.call(d3.axisLeft(probability).ticks(0).tickSizeOuter(0));
+		}
+		//console.log(JSON.stringify(mydata).replace(/},{/g,"},\n\n{"));
+	}
+
+	//  Scatterplot legend
+	var scatterLegendVals = [1,2,4];
+	scatterLegend = svgLegend.append("g")
+	  // .attr("class", " ")
+	  .attr("width", scatterWidth/3)
+	  .attr("height", scatterHeight)
+	  .attr("transform", `translate(${0}, 0)`);
+
+	for(var nn=0; nn<scatterLegendVals.length; nn++) {
+		scatterLegend.append("circle")
+		.attr("class", "scatterdotLegend")
+		.attr("r",4*Math.sqrt(scatterLegendVals[nn]))
+		.attr("transform", `translate(0,${nn*20})`);
+
+			if(scatterLegendVals[nn]===1) {
+			scatterLegend.append("text")
+			// .attr("class","axisLabel")
+			.attr("transform",
+			  "translate(" + (scatterWidth/6 + 15) + " ," +
+					   (nn*20-18) + ")")
+			.attr("dy","2em")
+			.style("text-anchor", "middle")
+			.text(scatterLegendVals[nn] + " player");
+		  } else {
+			scatterLegend.append("text")
+			// .attr("class","axisLabel")
+			.attr("transform",
+			  "translate(" + (scatterWidth/6 + 15) + " ," +
+					   (nn*20-18) + ")")
+			.attr("dy","2em")
+			.style("text-anchor", "middle")
+			.text(scatterLegendVals[nn] + " players");
+		  }
+		}
+
+		scatterLegend.append("path")
+			.attr("class","ratioLine")
+			// draw a line at (0, ratio) to (x-axis-length, ratio)
+			.attr("transform", `translate(0,${10+scatterLegendVals.length*20})`)
+			.attr("d", "M " + -7 + " " + 0 + " L " + 7+ " " + 0);
+
+		scatterLegend.append("text")
+			.attr("transform",
+			"translate(" + (scatterWidth/6 + 25) + " ," +
+					 (10+scatterLegendVals.length*20-18) + ")")
+			.attr("dy","2em")
+			.attr("dx", "1.5em")
+			.style("text-anchor", "middle")
+			.text("Team Avg.");
+		scatterLegend.append("image")
+			.attr("id", "legendPicture")
+			.attr("href", imgPath + currTeamCode + ".png")
+			.attr("height", "10px")
+			.attr("width", "16.6px")
+			.attr("x", 15)
+			.attr("y", 65);
+}
+
+function populateScatterPlots() {
+
+// Iterate over each of the scatterplots
+for(var nn=0; nn<shotTypes.length; nn++) {
+	var chart = scatterCharts[nn];
+
+	// get data
+	var myShotData = aggregateShotDataByPlayer(shotData.filter((d) => { return gameFilter[d.Game-1]; }));
+	var myGroupedData = groupPlayerShotStatistics(myShotData,shotTypes[nn]);
+	var myData = myGroupedData.filter( (d) => {
+			return d.coord[0]>0;
+		});
+
+	// Update axis limits
+	var shotextent = d3.extent(myData, (d) => { return d.coord[0];});
+	shotextent[0] = Math.min(shotextent[0],0);
+
+	var shotrange = shotextent[1] - shotextent[0];
+	var lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
+
+	// Establish y-scale
+	var shots = d3.scaleLinear()
+		.rangeRound([0, scatterWidth])
+		.domain(lim);
+
+
+	chart.select(".axisX")
+		.transition()
+        .duration(200)
+		.call(d3.axisBottom(shots)
+			.tickFormat(d3.format("d")).ticks(2).tickSizeOuter(0));
+
+    // Average lines
+    var totalShotsMade = 0;
+    var totalShotsAttempted = 0;
+    var maxShotsMade = 1;
+    for (var i = myData.length - 1; i >= 0; i--) {
+        if (maxShotsMade < myData[i].coord[0]) {
+            maxShotsMade = myData[i].coord[0];
+        }
+        totalShotsMade += myData[i].coord[0];
+        totalShotsAttempted += myData[i].coord[1];
+    }
+
+    // Remove existing lines
+    //console.log(totalShotsMade);
+    if(totalShotsMade>0) {
+		ratios =  totalShotsAttempted / totalShotsMade;
+
+        var averageLines = chart.selectAll(".ratioLine")
+            .data([{"ratio":ratios}])
+            .on("mouseover", function(d) {
+                tooltip.transition()
+                .duration(200)
+                .style("opacity", 1.0);
+                tooltip.html("Team: " + (100*d.ratio).toFixed(2) + "%")
+                .style("left", (d3.event.pageX +2) + "px")
+                .style("top", (d3.event.pageY -20) + "px");
+            })
+            .on("mouseout", function(d) {
+                tooltip.transition()
+                .duration(500)
+                .style("opacity", 0);
+            })
+			.transition() // data is a singleton array with # shots made / # shots
+			.attr("y1", (d) => { return probability(d.ratio); } )
+			.attr("y2", (d) => { return probability(d.ratio); } )
+			.style("opacity", 1.0)
+    } else {
+		chart.selectAll(".ratioLine")
+			.style("opacity", 0.0)
+	}
+
+
+	function tooltipShow(d) {
+		tooltip.transition()
+            .duration(200)
+            .style("opacity", 1.0);
+            tooltip.html("Made: " + d.coord[1]+"/"+d.coord[0]+'<ul><li>' + d.players.map(toTitleCase).join('</li><li>')+"</li></ul>")
+            .style("left", (d3.event.pageX + 5) + "px")
+            .style("top", (d3.event.pageY - 28) + "px");
+	}
+	function tooltipHide(d) {
+			tooltip.transition()
+			.duration(500)
+			.style("opacity", 0);
+		}
+
+    chart.selectAll(".scatterdot")
+        .attr("class","dotsToRemove")
+        .transition()
+        .duration(200)
+        .style("opacity",0)
+		.remove();
+
+    var mydots = chart.selectAll(".scatterdot")
+		.data(myData)
+
+	mydots.enter()
+		.append("circle")
+        .style("opacity",0)
+		.attr("class", "scatterdot")
+		.attr("r", (d) => { return 4*Math.sqrt(d.numPlayers); })
+		.attr("cx", (d) => {
+			return shots(d.coord[0]);
+		})
+		.attr("cy", (d) => {
+			return probability(d.coord[1]/d.coord[0]);
+		})
+		.on("mouseover", tooltipShow)
+		.on("mouseout", tooltipHide)
+		.attr("fill", (d) => {
+			if(d.players.filter( (p) => { return playerFilter.includes(p);	}).length>0) {
+				return "#CCAA00";
+			} else {
+				return "darkblue";
+			}})
+        .transition()
+        .delay(100)
+        .duration(200)
+        .style("opacity",0.55);
+}
+}
+
+function filterScatterPlots() {
+for(var nn=0; nn<shotTypes.length; nn++) {
+	var chart = scatterCharts[nn];
+
+
+    var mydots = chart.selectAll(".scatterdot")
+        .transition(d3.easeElasticOut(200))
+		.attr("fill", (d) => {
+			if(d.players.filter( (p) => { return playerFilter.includes(p);	}).length>0) {
+				return "#CCAA00";
+			} else {
+				return "darkblue";
+			}});
+}
+}
+
+
+}
+
+/**
+* Timelines
+*/
+{
+var shotIconDisplayLevel = .25;
+
+var gameTime = d3.scaleLinear()
+	.rangeRound([0, timelineWidth])
+	.domain([0,8.0*60.0*4.0]);
+var quarterTime = d3.scaleLinear()
+	.rangeRound([0, timelineQuarterWidth])
+	.domain([8*60,0]);
+
+var success = d3.scaleLinear()
+    .rangeRound([timelineHeight,0])
+    .domain([-1,1]);
+
+var timelines = [];
+var quarters = [];
+var timelineGroup = svg.append("g")
+	.attr("transform", `translate(0, ${scatterHeight+scatterTimelinePadding})`);
+
+function initializeTimelines() {
+	// Quarter labels
+	for(var quarterNum=1; quarterNum<=4; quarterNum++) {
+		timelineGroup.append("text")
+			.attr("class","axisLabel")
+			.attr("y",0)
+			.attr("x",timelineQuarterWidth/2 + (quarterNum-1)*(timelineQuarterWidth+timelineInternalPadding))
+			.attr("dy","-.5em")
+			.style("text-anchor", "middle")
+			.text("Quarter "+quarterNum);
+	}
+
+//  Timeline legend
+
+var timelineLegend = svgLegend.append("g")
+  // .attr("class", "legend")
+  // .attr("width", timelineWidth)
+  // .attr("height", timelineHeight)
+  .attr("transform", `translate(${120}, 0)`);
+
+  var timelineLegendVertSpace = 17;
+  var timelineLegendVertStart = -19;
+  var timelineLegendHorizSpace = 45;
+
+// missed shot icon
+    timelineLegend.append("circle")
+    .attr("class","shotIcon shotIconMiss shotIconFocalTeam")
+    .attr("cx", 0)
+    .attr("cy", 0)
+    .attr("r", 4); // change to 6 if want to reflect focal player
+
+    timelineLegend.append("text")
+    // .attr("class","axisLabel")
+    .attr("transform",
+      `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart})`)
+    .attr("dy","2em")
+    .style("text-anchor", "middle")
+    .text(" shot - missed");
+
+    // goal icon
+    timelineLegend.append("circle")
+    .attr("class","shotIcon shotIconFocalTeam")
+    .attr("cx", 0)
+    .attr("cy", timelineLegendVertSpace)
+    .attr("r", 4); // change to 6 if want to reflect focal player
+
+    timelineLegend.append("text")
+    // .attr("class","axisLabel")
+    .attr("transform",
+      `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart+1*timelineLegendVertSpace})`)
+    .attr("dy","2em")
+    .style("text-anchor", "middle")
+    .text(" shot - scored");
+
+    // Score area plots, for legend
+    const areaWinLegData = [{"x":"0", "y":"-10"},
+        {"x":"10", "y":"-15"},
+        {"x":"20", "y":"-15"}
+      ];
+
+    var areaWinLeg = d3.area()
+      .curve(d3.curveStepAfter)
+      .x( function(d) { return d.x; } )
+      .y0(0)
+      .y1( function(d) { return d.y; } );
+
+     timelineLegend.append("path")
+      .datum(areaWinLegData)
+      .attr("class","areaWin")
+      .attr("d", areaWinLeg)
+      .attr("transform",
+        `translate(-10, ${timelineLegendVertStart+4*timelineLegendVertSpace})`);
+
+      const areaLoseLegData = [{"x":"0", "y":"5"},
+          {"x":"5", "y":"10"},
+          {"x":"20", "y":"10"}
+        ];
+
+      var areaLoseLeg = d3.area()
+        .curve(d3.curveStepAfter)
+        .x( function(d) { return d.x; } )
+        .y0(0)
+        .y1( function(d) { return d.y; } );
+
+       timelineLegend.append("path")
+        .datum(areaLoseLegData)
+        .attr("class","areaLose")
+        .attr("d", areaLoseLeg)
+        .attr("transform",
+          `translate(-10, ${5+timelineLegendVertStart+4*timelineLegendVertSpace})`);
+
+      timelineLegend.append("text")
+          // .attr("class","axisLabel")
+          .attr("transform",
+            `translate(${2+timelineLegendHorizSpace}, ${timelineLegendVertStart+3*timelineLegendVertSpace - 7})`)
+          .attr("dy","2em")
+          .style("text-anchor", "middle")
+          .text("team 1 score");
+
+        timelineLegend.append("text")
+            // .attr("class","axisLabel")
+            .attr("transform",
+              `translate(${2 + timelineLegendHorizSpace}, ${timelineLegendVertStart+3*timelineLegendVertSpace + 10})`)
+            .attr("dy","2em")
+            .style("text-anchor", "middle")
+            .text("team 2 score");
+
+
+	for(var nn=0; nn<6; nn++) {
+		gameNum = nn+1;
+
+		var timeline = timelineGroup.append("g")
+			.attr("class","timeline")
+			.attr("transform", `translate(0, ${(gameNum-1)*(timelineHeight+timelineVerticalPadding)})`)
+			.attr("opacity",(gameFilter[nn]?1:.25))
+			.on("click", (function makeClickFunction(num) {
+				return (function() {
+						gameFilter[num] = !gameFilter[num];
+						timelines[num]
+							.attr("opacity",(gameFilter[num]?1:.25));
+						populateScatterPlots();
+					})
+				})(nn));
+		timelines[nn] = timeline;
+		quarters[nn] = [];
+
+		timeline.append("rect")
+			.attr("class","backdrop")
+			.attr("x",0)
+			.attr("y",0)
+			.attr("width",timelineWidth)
+			.attr("height",timelineHeight)
+			.attr("fill",'white');
+
+		var lineLength = 80;
+    // Add game number to the timelines
+    timeline.append("text")
+      .attr("class","axisLabel")
+      .attr("y",timelineHeight/1.5)
+      .attr("x",-timelineInternalPadding - lineLength)
+      .attr("dy","-.2em")
+      .style("text-anchor", "middle")
+      .text(gameNum);
+		/*
+		  Add flags and team names
+		*/
+		// first, USA
+		timeline.append("text")
+			.attr("class","teamnameThis")
+			.attr("y",timelineHeight/2)
+			.attr("x",-timelineInternalPadding-lineLength/4)
+			.attr("dy","-.2em")
+			.style("text-anchor", "middle")
+			.text("?");
+		timeline.append("image")
+			.attr("class","flagThis")
+			.attr("href", imgPath + currTeamCode + ".png")
+			.attr("y", timelineHeight/1.95-20)
+			.attr("x",-timelineInternalPadding-lineLength*.9)
+			.attr("height", "20px");
+
+		// now add the other team
+		timeline.append("text")
+			.attr("class","teamnameOpponent")
+			.attr("y",timelineHeight/2)
+			.attr("x",-timelineInternalPadding-lineLength/4)
+			.attr("dy", "1.2em")
+			.style("text-anchor", "middle")
+			.text("?");
+		timeline.append("image")
+			.attr("class","flagOpponent")
+			.attr("href", imgPath + currTeamCode + ".png")
+			.attr("y", timelineHeight/1.95)
+			.attr("x",-timelineInternalPadding-lineLength*.9)
+			.attr("height", "20px");
+		timeline.append("line")
+			.attr("style","shape-rendering: crispEdges")
+			.attr("x1",-timelineInternalPadding)
+			.attr("x2",-timelineInternalPadding-lineLength*.9)
+			.attr("y1",timelineHeight/2+1)
+			.attr("y2",timelineHeight/2+1)
+			.attr("stroke","black")
+			.attr("stroke-width",1);
+
+		// Final scores
+		timeline.append("text")
+			.attr("class","finalScoreThis")
+			.attr("y",timelineHeight/2)
+			.attr("x",timelineWidth+timelineInternalPadding)
+			.attr("dy","-.4em")
+			.style("text-anchor", "middle")
+			.text("?");
+			//.text(endingScore[0]);
+		timeline.append("text")
+			.attr("class","finalScoreOpponent")
+			.attr("y",timelineHeight/2)
+			.attr("x",timelineWidth+timelineInternalPadding)
+			.attr("dy", "1.2em")
+			.style("text-anchor", "middle")
+			.text("?");
+			//.text(endingScore[1]);
+
+		for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
+			//console.log("Quarter:"+quarterNum);
+
+	// persistent elements
+
+			// Add timeline for this quarter
+			var quarter = timeline.append("g")
+				.attr("class","quarter")
+				.attr("width", timelineQuarterWidth)
+				.attr("height", timelineHeight)
+				.attr("transform", `translate(${(timelineQuarterWidth+timelineInternalPadding)*(quarterNum-1)}, 0)`);
+			quarters[nn].push(quarter);
+			// Axis
+			quarter.append("g")
+				.attr("class", "axis axis--x")
+				.attr("transform", `translate(0, ${timelineHeight/2})`)
+				.call(d3.axisBottom(quarterTime).ticks(0).tickSizeOuter(0));
+
+			var scoreLineWin = quarter.append("path")
+				.attr("class", "areaWin");
+
+			var scoreLineLose = quarter.append("path")
+				.attr("class", "areaLose");
+		}
+	}
+}
+
+function populateTimelines() {
+//console.clear();
+
+
+for(var nn=0; nn<6; nn++) {
+	var timeline = timelines[nn];
+
+
+	gameNum = nn+1;
+	var gameNData = poloData.filter(isGameN);
+	//console.log(JSON.stringify(poloData).replace(/},{/g,"},\n\n{"));
+	function isGameN(d) {
+		return (d.Game===gameNum);
+	}
+
+	if(gameNData.length==0) { // There is no n-th game; kill chart
+
+		timeline.selectAll(".flagThis")
+			.attr("href", imgPath + "BLANK" + ".png");
+		timeline.selectAll(".flagOpponent")
+			.attr("href", imgPath + "BLANK" + ".png");
+
+		timeline.selectAll(".teamnameThis")
+			.text("");
+		timeline.selectAll(".teamnameOpponent")
+			.text("");
+		for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
+
+			//console.log("\n\nQuarter: "+quarterNum);
+			var quarter = quarters[nn][quarterNum-1];
+			var dots = quarter.selectAll(".shotIcon")
+				.data(gameNData);
+				dots.exit()
+					.remove();
+
+			var areaWin = d3.area()
+				.curve(d3.curveStepAfter)
+				.x(0)
+				.y0(0)
+				.y1(0);
+
+			var areaLose = d3.area()
+				.curve(d3.curveStepAfter)
+				.x(0)
+				.y0(0)
+				.y1(0);
+
+			var scoreLineWin = quarter.selectAll(".areaWin")
+				.data([{}])
+				.attr("d", areaWin);
+
+			var scoreLineLose = quarter.selectAll(".areaLose")
+				.data([{}])
+				.attr("d", areaLose);
+
+			}
+			timeline.selectAll(".finalScoreThis")
+				.text("");
+			timeline.selectAll(".finalScoreOpponent")
+				.text("");
+			continue; // do not proceed further, exit iteration of loop
+	}
+
+	var otherTeam = gameNData[0]["Opponent name"];
+	//console.log(gameNData.length);
+
+	// set flags, names on left
+	timeline.selectAll(".flagThis")
+		.attr("href", imgPath + currTeamCode + ".png");
+	timeline.selectAll(".flagOpponent")
+		.attr("href", imgPath + otherTeam + ".png");
+
+	timeline.selectAll(".teamnameThis")
+		.text(currTeamCode);
+	timeline.selectAll(".teamnameOpponent")
+		.text(otherTeam);
+
+	var maxScore = d3.max(poloData, (d) => {
+		if(d.Game===gameNum) {
+			//return Math.abs(d[currTeamCode] - d.Opponent);
+			return Math.max(d[currTeamCode], d.Opponent);
+		} else {
+			return 0;
+		}
+	});
+	var beginningScore = [0,0];
+	var endingScore = [0,0];
+	for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
+		//console.log("\n\nQuarter: "+quarterNum);
+		var quarter = quarters[nn][quarterNum-1];
+
+		// Data-dependent elements
+
+		var gameNData = poloData.filter(isGameN);
+		//console.log(JSON.stringify(gameNData).replace(/},{/g,"},\n\n{"));
+		function isGameN(d) {
+			return (d.Game===gameNum && d.Period===quarterNum);
+		}
+		var myGoals = poloData.filter( (d) => {
+			return d.Game===gameNum && d.Period===quarterNum && d.Goal===1;
+		}).sort( (d1,d2) => { return d2.Seconds-d1.Seconds; });
+		//console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
+
+		function getScoreAtLastGoal(min,d) {
+			//console.log(JSON.stringify(d));
+			//console.log(currTeamCode+":"+[d[currTeamCode],d.Opponent]);
+			if(d.Seconds < min[0]) {
+				return [d.Seconds,[d[currTeamCode],d.Opponent]];
+			} else {
+				return min;
+			}
+		}
+		//console.log(JSON.stringify(myGoals).replace(/},{/g,"},\n\n{"));
+		//console.log("Beginning score: "+beginningScore);
+		endingScore = myGoals.reduce(getScoreAtLastGoal,[8*60,beginningScore]);
+		//console.log("Ending score: "+endingScore);
+		endingScore = endingScore[1];
+
+		myGoals.push({[currTeamCode]:endingScore[0],"Opponent":endingScore[1],"Seconds":0});
+		myGoals.unshift({[currTeamCode]:beginningScore[0],"Opponent":beginningScore[1],"Seconds":8*60});
+
+		//console.log(beginningScore+" : "+endingScore);
+
+// Area plots!
+		var areaWin = d3.area()
+			.curve(d3.curveStepAfter)
+			.x( (d) => { return quarterTime(d.Seconds); })
+			.y0( (d) => { return success(0); })
+			.y1( (d) => { return success(d3.max([(d[currTeamCode])/maxScore,0])); });
+			//.y1( (d) => { return success(d3.max([(d[currTeamCode] - d.Opponent)/maxScore,0])); });
+
+		var areaLose = d3.area()
+			.curve(d3.curveStepAfter)
+			.x( (d) => { return quarterTime(d.Seconds); })
+			.y0( (d) => { return success(0); })
+			.y1( (d) => { return success(-d3.max([(d.Opponent)/maxScore,0])); });
+			//.y1( (d) => { return success(d3.min([(D[currTeamCode] - d.Opponent)/maxScore,0])); });
+
+		var scoreLineWin = quarter.selectAll(".areaWin")
+			.data([myGoals])
+			.attr("d", areaWin);
+
+		var scoreLineLose = quarter.selectAll(".areaLose")
+			.data([myGoals])
+			.attr("d", areaLose);
+
+
+//  Shot icons
+
+        function classNames(d) {
+            res = "shotIcon";
+            if(playerFilter.includes(d.Player)) {
+                res += " shotIconFocalPlayer";
+            } else {
+                if(d.Team===currTeamCode) {
+                    res += " shotIconFocalTeam";
+                } else {
+                    res += " shotIconOpponentTeam";
+                }
+            }
+            if(d.Goal===0) {
+                res += " shotIconMiss";
+            }
+            return res;
+        }
+
+		quarter.selectAll(".shotIcon").remove();
+		var dots = quarter.selectAll(".shotIcon")
+			.data(gameNData);
+
+		dots.enter()
+			.append("circle")
+			.attr("class",classNames)
+			.attr("cx", (d) => { return quarterTime(d.Seconds); })
+			.attr("cy", (d) => {
+				var mysign = (d.Team===currTeamCode?1:-1);
+				var isGoal = (d.Goal===1);
+			return success(mysign*shotIconDisplayLevel);
+			})
+			.attr("r", (d) => { return (playerFilter.includes(d.Player)?6:4); })
+			.on("mouseover", function(d) {
+				tooltip.transition()
+				.duration(200)
+				.style("opacity", 1.0);
+				tooltip.html(
+          d.Action + ", " + d.Time + "<br>"
+          + ' <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'
+          + " #" + Math.round(d.Cap) + " " + toTitleCase(d.Player)
+          // +" (" + d.Team +  ")"
+          // + '  <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'    // use flag instead of team name
+        )
+				.style("left", (d3.event.pageX - 5) + "px")
+				.style("top", (d3.event.pageY - 50) + "px");
+			})
+			.on("mouseout", function(d) {
+				tooltip.transition()
+				.duration(500)
+				.style("opacity", 0);
+			});
+
+		beginningScore = endingScore;
+	}
+	//console.log("ending: "+endingScore +";"+endingScore[0]);
+	// set final scores on right
+	timeline.selectAll(".finalScoreThis")
+		.text(endingScore[0]);
+	timeline.selectAll(".finalScoreOpponent")
+		.text(endingScore[1]);
+}
+}
+
+}
+
+/**
+* Control methods
+*/
+{
+function togglePlayer(playerName) {
+	var ind = playerFilter.indexOf(playerName);
+	if(ind>-1) {
+		playerFilter.splice(ind,1);
+	} else {
+		playerFilter.push(playerName);
+	}
+	filterScatterPlots();
+	populateTimelines();
+}
+
+function switchTeam(newTeam) {
+	initializeData(newTeam);
+
+	scatterLegend.select("#legendPicture")
+		.attr("href", imgPath + currTeamCode + ".png");
+
+	//console.log(JSON.stringify(poloData).replace(/},{/g,"},\n\n{"));
+	drawAll();
+}
+
+function drawAll() {
+	populateScatterPlots();
+	populateTimelines();
+}
+
+function init() {
+	//console.log(JSON.stringify(allPoloDatas[0]).replace(/},{/g,"},\n\n{"));
+	//console.log(JSON.stringify(allShotSummaryDatas[0]).replace(/},{/g,"},\n\n{"));
+	for(var ii=0; ii<teamCodes.length; ii++) {
+		var opt = document.createElement("option");
+		opt.text = teamCodes[ii];
+		teamSelect.add(opt);
+	}
+	teamSelect.options[0].selected = true;
+
+	initializeScatterCharts();
+	initializeTimelines();
+	switchTeam(0);
+}
+}
+
+var teamCodesDupe = teamCodes.slice(0);
+
+function loadFiles() {
+	if(teamCodesDupe.length > 0) {
+		var myTeamCode = teamCodesDupe.shift();
+		d3.json("data_gathering/data/2017/W/processed/"+myTeamCode+"/shots.json", function(error, raw) {
+			allPoloDatas.push(raw);
+			d3.json("data_gathering/data/2017/W/processed/"+myTeamCode+"/shot_summary.json", function(error, raw) {
+				allShotSummaryDatas.push(raw);
+				loadFiles();
+			});
+		});
+	} else {
+		init();
+	}
+}
+loadFiles();
+
+/*
+teamCodes.forEach( function(teamCode) {
+	//console.log("teamcode:"+teamCode);
+	teamDecodes[teamCode] = teamCode;
+	d3.json("../data_gathering/data/2017/W/processed/"+teamCode+"/shots.json", function(error, raw) {
+
+		//var dsv = d3.dsvFormat(',');
+		//console.log(error);
+		//var poloData = dsv.parse(raw);
+		//console.log(teamCode);
+		//console.log(JSON.stringify(raw).replace(/},{/g,"},\n\n{"));
+		//console.log(JSON.stringify(poloData).replace(/},{/g,"},\n\n{"));
+		allPoloDatas.push(raw);
+		//console.log(JSON.stringify(allPoloDatas[0]).replace(/},{/g,"},\n\n{"));
+	});
+
+	d3.json("../data_gathering/data/2017/W/processed/"+teamCode+"/shot_summary.json", function(error, raw) {
+		//var dsv = d3.dsvFormat(',');
+		//console.log(error);
+		//var shotSummaryData = dsv.parse(raw);
+		//console.log(shotSummaryData);
+		allShotSummaryDatas.push(raw);
+	});
+});
+*/
+
+//setTimeout(init,5000);
+
+teamSelect.addEventListener("change", function() {
+	var newTeam = teamSelect.selectedIndex;
+	switchTeam(newTeam);
+  // console.log("Current team is " + currTeamCode);
+});
+
+
+</script>
+
+  </section>
+
+  <section>
+    <p>
+      <strong>Designed &amp; Built By</strong>: Brian DeSilva, Abraham Engle, Benjamin Liu, Kellie MacPhee
+    </p>
+  </section>
+
+  <section>
+    <p>
+      <strong>Data Source</strong>: <a href="http://www.omegatiming.com/Sport?sport=AQ">Omega Timing</a>
+    </p>
+  </section>
+
+  <!-- <section>
+    <h2>Design Rationale</h2>
+    <p>
+      <em>[How did you choose your particular visual encodings and interaction techniques? What alternatives did you consider and how did you arrive at your ultimate choices?]</em>
+    </p>
+    <p>
+	Although water polo statistics are widely kept at the level of national and international competition, these statistics are nearly always presented in tables, and unlike in other sports, few effective visualizations of these statistics have been developed. For example, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3737929/">this paper</a> contains interesting statistic analyses of water polo success based on the <a href="http://www.omegatiming.com/Sport?sport=AQ">Omega Timing data</a> from several FINA World Championships, but lacks any visual representation of its results.
+    </p>
+
+    <p>
+	Inspired by the baseball statistics example from class, our goal was to build an interactive graphic that allows the viewer to explore the contributions of different players on a team, as well as game patterns across team members. For the scope of this assignment, we decided to focus on offensive statistics, i.e. shots attempted (broken down by shot type) and shots scored. We visualize tournament data collected by Omega Timing during the 2017 FINAL Women's Water Polo World Championships.
+    </p>
+
+    <p>For a given team, questions that viewers might want to explore in this dataset include:
+	<ol>
+	<li>Which players are the top scorers?</li>
+	<li>Which players perform particularly well at a given shot type?</li>
+	<li>How did a particular player perform at the various shot types?</li>
+	<li>How does the team-wide accuracy, and number of shots taken, vary by shot type?</li>
+	<li>How did shots and goals evolve over the course of the game? For example, are more shots taken when the score is close?</li>
+	</ol>
+    </p><p>Each of these questions might be addressed for a given game, or over the course of several games in the tournament. We now explain how our design decisions were guided by these considerations.
+    </p>
+
+    <h4>Scatterplots</h3>
+
+    <p>At the top of the dashboard are several scatterplots showing <strong>number of shots taken</strong> vs. <strong>success rate</strong> (i.e. number of goals / number of shots, as a percentage). Each dot corresponds to one or more players; dots are sized according to the number of players they represent. Design considerations included:
+	<ul>
+	<li><strong>Color</strong>:
+	<li><strong>Dot Size</strong>:
+	<li><strong>Axes</strong>:
+	<li><strong>Team Average Bar</strong>: shows what the overall shooting accuracy of the team was, and also serves as a reference to pick out which players are above average on the team.
+	<li><strong>Percentages on y-axis</strong>: we originally plotted number of goals on the y-axis, but then all player dots fall below the 45 degree line. In order to more effectively use the space, we switched to percentage accuracy as the measure of success. This also makes it easy to pick out which players have high accuracy, as opposed to which players simply take more shots.
+	<li><strong>Small Multiples</strong>: we use small multiples to simultaneously view various shot types. The choice to break shots down by type is motivated by the fact that certain shot types are expected to have higher accuracy (e.g. extra player shots), and certain players take more of one type of shot than others (e.g. centre shots are usually restricted to only a few players on the team).
+	<li><strong>Tooltips</strong>: hovering over a dot in the scatter plot shows the player corresponding to that statistic, as well as the exact ratio of shots/goals that led to that dot. If viewers notice that one dot appears to be an outlier, they can easily pick out who it corresponds to.
+	</ul>
+    </p>
+
+
+
+
+
+
+    <h4>Timelines</h3>
+
+
+
+
+
+
+	<ul>
+	<li>Color: blue/grey easily distinguishable, grey for opponent shots/goals because naturally seems like background
+	<li>Small multiples of timelines and scatter plots: simple to understand the rest after understanding one</li>
+	<li>Scatterplots: can see individual players, can brush to connect them (compare performance on various shot types)</li>
+	<li>Timelines: strip plots to visualize when the most action was occurring, when goals were scored. To avoid clutter, show the details of shots as tooltips (name, number, shot type, exact time). Exact time not as important as sequential nature and rough time in quarter, so generally okay to leave out details on the time axis.</li>
+	</ul>
+  </section>
+
+  <section>
+    <h2>Design &amp; Development Process</h2>
+    <p>
+      <em>[Add: An overview of your design and development process. Describe how the work was split among the team members. Include a commentary on the development process, including answers to the following questions: Roughly how much time did you spend developing your application (in people-hours)? What aspects took the most time?]</em>
+    </p>
+	<ul>
+	<li> Data wrangling - Brian </li>
+	<li> Design prototyping - Kellie and everyone (Kellie for water polo knowledge and drawing up designs, everyone for discussing and planning those designs)</li>
+	<li> D3 static visualization - Ben </li>
+	<li> Interactive components - </li>
+	</ul> -->
+
+  </section>
+
+  <div class="footer">
+    <a href="https://cse512-18s.github.io/">CSE 512 Data Visualization</a> -
+    <a href="http://www.washington.edu">University of Washington</a>
+  </div>
+
+</div>
+</body>
+</html>
