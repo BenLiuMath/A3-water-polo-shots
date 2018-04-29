@@ -604,13 +604,6 @@ function initializeScatterCharts() {
 
 function populateScatterPlots() {
 
-scatterLegend.append("image")
-  .attr("id", "legendPicture")
-  .attr("href", imgPath + currTeamCode + ".png")
-  .attr("height", "10px")
-  .attr("width", "16.6px")
-  .attr("x", 15)
-  .attr("y", 65);
 // Iterate over each of the scatterplots
 for(var nn=0; nn<shotTypes.length; nn++) {
 	var chart = scatterCharts[nn];
@@ -702,6 +695,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
         .transition()
         .duration(200)
         .style("opacity",0)
+		.remove();
 
     var mydots = chart.selectAll(".scatterdot")
 		.data(myData)
@@ -1183,6 +1177,10 @@ function togglePlayer(playerName) {
 
 function switchTeam(newTeam) {
 	initializeData(newTeam);
+	
+	scatterLegend.select("#legendPicture")
+		.attr("href", imgPath + currTeamCode + ".png");
+	
 	//console.log(JSON.stringify(poloData).replace(/},{/g,"},\n\n{"));
 	drawAll();
 }
