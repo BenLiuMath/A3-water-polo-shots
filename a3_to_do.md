@@ -15,7 +15,11 @@ Whole group:
 
 - Remove extra bars for last game for teams with fewer than 6 games (move quarter labels up)
 
-- Add game numbers to the left by flags
+- ~~Add game numbers to the left by flags~~
+
+- Increase font size in the writeup
+
+- 
 
 
 
@@ -26,5 +30,5 @@ Questions to address in writeup:
 - Why filtering by player? Why drop-down menu instead of click-on?
 - Why filtering by game?
 - Why we chose not to handle tie breakers for this assignment
-
+- Color considerations: how we decided on the colors we did.
 - Link to glossary of water polo terms?

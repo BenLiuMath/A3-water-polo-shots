@@ -6,19 +6,19 @@
 * { padding: 0; margin: 0; }
 
 body {
-	margin: 0 auto 0 auto;
-	padding: 0;
-	max-width: 1200px;
-	font-family: "Avenir", "Avenir Next", Helvetica Neue, Arial;
-	font-size: 0.95em;
+  margin: 0 auto 0 auto;
+  padding: 0;
+  max-width: 1200px;
+  font-family: "Avenir", "Avenir Next", Helvetica Neue, Arial;
+  font-size: 20;
 }
 
 a, a:visited { text-decoration: none; color: #7533f4; }
 a:hover { text-decoration: underline; color: #f4b014; }
 
 ol {
-	margin-left: 30px;
-	padding: 15 15 15px 15;
+  margin-left: 30px;
+  padding: 15 15 15px 15;
 }
 
 ol li
@@ -27,8 +27,8 @@ ol li
 }
 
 /* ul{
-	margin-left: 30px;
-	padding: 15 15 5px 15;
+  margin-left: 30px;
+  padding: 15 15 5px 15;
 }
 
 ul li
@@ -45,13 +45,13 @@ ul {
 }
 
 h1, h2, h3, h4, h5 {
-	color: #492a7c;
-	background-color: inherit;
-	font-weight: normal;
-	padding: 0 0 5px 0;
-	margin: 15px 0 0 0;
-	border: none;
-	clear: right;
+  color: #492a7c;
+  background-color: inherit;
+  font-weight: normal;
+  padding: 0 0 5px 0;
+  margin: 15px 0 0 0;
+  border: none;
+  clear: right;
 }
 h1 { font-size: 24pt; margin:  5px 0 10px 0; line-height: 28px; }
 h2 { font-size: 14pt; margin: 30px 0 15px 0; letter-spacing: 0.01em; border-bottom: 1px solid #ccc;  line-height: 20px;}
@@ -61,45 +61,45 @@ h5 { font-size: 11pt; }
 p { margin: 0 0 10px 0; }
 
 .content {
-	margin: 0;
-	padding: 15px 20px;
-	background-color: #ffffff;
+  margin: 0;
+  padding: 15px 20px;
+  background-color: #ffffff;
 }
 
 .title, .title h1, .title a {
-	color: #492a7c;
-	font-size: 24pt;
-	margin-bottom: 20px;
-	margin-top: 5px;
+  color: #492a7c;
+  font-size: 16pt;
+  margin-bottom: 20px;
+  margin-top: 5px;
 }
 
 .footer {
-	border-top: 1px solid #ccc;
-	margin-top: 30px;
-	padding-top: 4px;
-	text-align: right;
-	font-size: 12px;
+  border-top: 1px solid #ccc;
+  margin-top: 30px;
+  padding-top: 4px;
+  text-align: right;
+  font-size: 12px;
 }
 .footer a {
-	color: #21346B;
+  color: #21346B;
 }
 .footer a:hover {
-	color: #ce3333;
+  color: #ce3333;
 }
   </style>
 <style>
 body {
-	font: 11px sans-serif;
-	font-family: Tahoma;
-	margin:0px;
+  font: 11px sans-serif;
+  font-family: Tahoma;
+  margin:0px;
 }
 
 #sidebar h1{
-	font-size: 18pt;
+  font-size: 14pt;
 }
 
 .axis {
-	font-size:10pt;
+  font-size:10pt;
 }
 .axis path,
 .axis line {
@@ -149,7 +149,7 @@ body {
 }
 
 .legend {
-	background-color: coral;
+  background-color: coral;
 }
 
 .scatterdotLegend {
@@ -166,34 +166,34 @@ body {
 }
 
 .finalScoreThis {
-	font-size:12pt;
-	font-weight:bold;
-	fill: #4056a1;
+  font-size:12pt;
+  font-weight:bold;
+  fill: #4056a1;
 }
 
 .finalScoreOpponent {
-	font-size:12pt;
-	font-weight:bold;
-	fill: #f13c20;
-	opacity:0.8;
+  font-size:12pt;
+  font-weight:bold;
+  fill: #f13c20;
+  opacity:0.8;
 }
 
 .tooltip {
-	position: absolute;
-	background: cornsilk;
-	pointer-events: none;
-	padding:5px;
-	border: BlanchedAlmond 1px solid;
+  position: absolute;
+  background: cornsilk;
+  pointer-events: none;
+  padding:5px;
+  border: BlanchedAlmond 1px solid;
 }
 
 .areaWin {
-	fill: #4056a1;
-	opacity:.25;
+  fill: #4056a1;
+  opacity:.25;
 }
 
 .areaLose {
-	fill: #f13c20;
-	opacity: .25;
+  fill: #f13c20;
+  opacity: .25;
 }
 
 
@@ -234,11 +234,12 @@ body {
 <body>
 <div class="content">
 
-<section class="title">
-<a href="#">Women's Water Polo Offense Visualizer</a>
-</section>
+  <section class="title">
+    Women's Water Polo Visualizer -
+    <i>2017 FINA World Championships</i>
+  </section>
 
-<section>
+  <section>
 <svg id="poloVis"></svg>
 
 <div id="sidebar" style="display:inline-block; vertical-align:top; ">
@@ -246,23 +247,25 @@ body {
 <br>
 <svg id="legends"></svg>
 
-<h1>Women's Water Polo</h1>
-<h3>2017 FINA World Championships</h3>
+<!-- <h1>Women's Water Polo</h1>
+<h5>2017 FINA World Championships</h5> -->
 
+<h5><i>Getting Started</i></h5>
+
+<br/>
 Select a team:
 <br/><br/>
 <select id="teamSelector"></select>
 
 <br/><br/>
-Select a player to highlight their contributions:
+and click one or more timelines to the left <br/>to show data for those games.
+<br/><br/><br/>
+ You can also select a player to highlight <br/>their contributions to the offense:
 <br/><br/>
 <div id="roster"></div>
 
 <br/><br/>
-Hover over data to see details.
-
-<br/><br/>
-Click on a timeline to view data for that game.
+<b>Hover over data points to see details!<b>
 
 </div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -270,24 +273,7 @@ Click on a timeline to view data for that game.
 <script>
 
 var teamCodes = ["FRA","USA","ESP","NED","CHN","AUS","GRE","CAN","KAZ","NZL","JPN","HUN","RSA","ITA","RUS","BRA"];
-var teamDecodes = {
-"FRA":"France",
-"USA":"United States",
-"ESP":"Spain",
-"NED":"Netherlands",
-"CHN":"China",
-"AUS":"Australia",
-"GRE":"Greenland",
-"CAN":"Canada",
-"KAZ":"Kazakhstan",
-"NZL":"New Zealand",
-"JPN":"Japan",
-"HUN":"Hungary",
-"RSA":"South Africa",
-"ITA":"Italy",
-"RUS":"Russia",
-"BRA":"Brazil"
-};
+var teamDecodes = {"USA":"United States", "RUS":"Russia", "NZL":"New Zealand", "ESP":"Spain", "BRA":"Brazil"};
 var allPoloDatas = [];
 var allShotSummaryDatas = [];
 
@@ -340,7 +326,7 @@ var svg = d3.select("#poloVis")
 
 var svgLegend = d3.select("#legends")
     .attr("width", 220)
-    .attr("height", 120)
+    .attr("height", 100)
 	//.attr("style","background:red;")
 	.append("g")
     .attr("transform", "translate(" + 10 + "," + (margin.top) + ")");
@@ -615,7 +601,7 @@ function initializeScatterCharts() {
 			.attr("dy","2em")
 			.attr("dx", "1.5em")
 			.style("text-anchor", "middle")
-			.text("Team avg.");
+			.text("Team Avg.");
 		scatterLegend.append("image")
 			.attr("id", "legendPicture")
 			.attr("href", imgPath + currTeamCode + ".png")
@@ -827,7 +813,7 @@ var timelineLegend = svgLegend.append("g")
       `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart})`)
     .attr("dy","2em")
     .style("text-anchor", "middle")
-    .text(" Shot - missed");
+    .text(" shot - missed");
 
     // goal icon
     timelineLegend.append("circle")
@@ -842,7 +828,7 @@ var timelineLegend = svgLegend.append("g")
       `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart+1*timelineLegendVertSpace})`)
     .attr("dy","2em")
     .style("text-anchor", "middle")
-    .text(" Shot - scored");
+    .text(" shot - scored");
 
     // Score area plots, for legend
     const areaWinLegData = [{"x":"0", "y":"-10"},
@@ -887,7 +873,7 @@ var timelineLegend = svgLegend.append("g")
             `translate(${2+timelineLegendHorizSpace}, ${timelineLegendVertStart+3*timelineLegendVertSpace - 7})`)
           .attr("dy","2em")
           .style("text-anchor", "middle")
-          .text("Team 1 score");
+          .text("team 1 score");
 
         timelineLegend.append("text")
             // .attr("class","axisLabel")
@@ -895,7 +881,7 @@ var timelineLegend = svgLegend.append("g")
               `translate(${2 + timelineLegendHorizSpace}, ${timelineLegendVertStart+3*timelineLegendVertSpace + 10})`)
             .attr("dy","2em")
             .style("text-anchor", "middle")
-            .text("Team 2 score");
+            .text("team 2 score");
 
 
 	for(var nn=0; nn<6; nn++) {
@@ -1267,7 +1253,7 @@ function init() {
 	//console.log(JSON.stringify(allShotSummaryDatas[0]).replace(/},{/g,"},\n\n{"));
 	for(var ii=0; ii<teamCodes.length; ii++) {
 		var opt = document.createElement("option");
-		opt.text = teamDecodes[teamCodes[ii]];
+		opt.text = teamCodes[ii];
 		teamSelect.add(opt);
 	}
 	teamSelect.options[0].selected = true;
@@ -1337,7 +1323,7 @@ teamSelect.addEventListener("change", function() {
 
   <section>
     <p>
-      <strong>Designed &amp; Built By</strong>: Brian de Silva, Abraham Engle, Benjamin Liu, Kellie MacPhee
+      <strong>Designed &amp; Built By</strong>: Brian DeSilva, Abraham Engle, Benjamin Liu, Kellie MacPhee
     </p>
   </section>
 
@@ -1347,7 +1333,7 @@ teamSelect.addEventListener("change", function() {
     </p>
   </section>
 
-  <section>
+  <!-- <section>
     <h2>Design Rationale</h2>
     <p>
       <em>[How did you choose your particular visual encodings and interaction techniques? What alternatives did you consider and how did you arrive at your ultimate choices?]</em>
@@ -1371,7 +1357,7 @@ teamSelect.addEventListener("change", function() {
     </p><p>Each of these questions might be addressed for a given game, or over the course of several games in the tournament. We now explain how our design decisions were guided by these considerations.
     </p>
 
-    <h3>Scatterplots</h3>
+    <h4>Scatterplots</h3>
 
     <p>At the top of the dashboard are several scatterplots showing <strong>number of shots taken</strong> vs. <strong>success rate</strong> (i.e. number of goals / number of shots, as a percentage). Each dot corresponds to one or more players; dots are sized according to the number of players they represent. Design considerations included:
 	<ul>
@@ -1390,7 +1376,7 @@ teamSelect.addEventListener("change", function() {
 
 
 
-    <h3>Timelines</h3>
+    <h4>Timelines</h3>
 
 
 
@@ -1415,16 +1401,7 @@ teamSelect.addEventListener("change", function() {
 	<li> Design prototyping - Kellie and everyone (Kellie for water polo knowledge and drawing up designs, everyone for discussing and planning those designs)</li>
 	<li> D3 static visualization - Ben </li>
 	<li> Interactive components - </li>
-	</ul>
-
-	<h3>Data wrangling</h3>
-	<p>
-		The data that powers our visualization is derived from the "Play by play" documents provided by <a href="http://waterpolo.sportresult.com/WCH2017/res.asp">Omega</a>. Corresponding to each game is a pdf file with a table listing important actions taken by players on either team and when the actions were taken. Since a great number of games are catalogued on Omega's website, we wanted to automate as much of the data collection process as possible. We also reasoned that going through the trouble of automating things for this assignment could save us time in the future should we decide to expand upon our visualization for the final project. <br><br>
-
-		Automating the extraction of data from the pdfs proved difficult. Getting this step working smoothly took roughly 12 hours. We used a <a href="https://github.com/chezou/tabula-py">python wrapper</a> of a tool called <a href="http://tabula.technology/">Tabula</a> for pulling the tables from the pdf files. This software was useful because it interfaced nicely with Pandas, but it produced somewhat unpredictable output when the tables in the pdf files continued for more than a page. Transforming the output of Tabula into a standardized set of tables took a condiserable amount of effort. <br><br>
-
-		Additional work had to be done to map the raw tables pulled from the pdf files into something our visualization could use directly. We wrote code to automatically produce files summarizing when shots were taken for each team, files summarizing how many attempts and goals players on the teams made in different games, a list of all the teams that played in a tournament in a given year, and others. To ensure reproducibility and future ease-of-use, the work flow was encapsulated in a comprehensive Make file. Writing and testing this code required around 13 hours.
-	</p>
+	</ul> -->
 
   </section>
 
