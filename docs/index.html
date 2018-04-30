@@ -204,7 +204,17 @@ body {
 	opacity: .25;
 }
 
-
+#welcome {
+	position:absolute;
+	top:400px;
+	left:20px;
+	line-height:200px;
+	width:770px;
+	height:200px;
+	text-align:center;
+	font-size:36pt;
+	background:lightgray;
+}
 
 #roster { font-size:10pt; }
 #roster input {
@@ -241,7 +251,6 @@ body {
 </head>
 <body>
 <div class="content">
-
 <section class="title">
 <a href="#">Women's Water Polo Offense Visualizer - <i>2017 FINA World Championships</i></a>
 </section>
@@ -295,6 +304,12 @@ Select a player to highlight their contributions:
 </section>
 
 </div>
+
+
+<div id="welcome">
+Click a timeline to get started!
+</div>
+
 <script src="https://d3js.org/d3.v4.min.js"></script>
 
 <script>
@@ -857,34 +872,31 @@ var timelineLegend = svgLegend.append("g")
   var timelineLegendHorizSpace = 45;
 
 // missed shot icon
-    timelineLegend.append("circle")
-    .attr("class","shotIcon shotIconMiss shotIconFocalTeam")
-    .attr("cx", 0)
-    .attr("cy", 0)
-    .attr("r", 4); // change to 6 if want to reflect focal player
+	timelineLegend.append("circle")
+		.attr("class","shotIcon shotIconMiss shotIconFocalTeam")
+		.attr("cx", 0)
+		.attr("cy", 0)
+		.attr("r", 4); // change to 6 if want to reflect focal player
 
     timelineLegend.append("text")
-    // .attr("class","axisLabel")
-    .attr("transform",
-      `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart})`)
-    .attr("dy","2em")
-    .style("text-anchor", "middle")
-    .text(" shot - missed");
+		.attr("transform",
+		  `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart})`)
+		.attr("dy","2em")
+		.style("text-anchor", "middle")
+		.text(" shot - missed");
 
     // goal icon
     timelineLegend.append("circle")
-    .attr("class","shotIcon shotIconFocalTeam")
-    .attr("cx", 0)
-    .attr("cy", timelineLegendVertSpace)
-    .attr("r", 4); // change to 6 if want to reflect focal player
+		.attr("class","shotIcon shotIconFocalTeam")
+		.attr("cx", 0)
+		.attr("cy", timelineLegendVertSpace)
+		.attr("r", 4); // change to 6 if want to reflect focal player
 
     timelineLegend.append("text")
-    // .attr("class","axisLabel")
-    .attr("transform",
-      `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart+1*timelineLegendVertSpace})`)
-    .attr("dy","2em")
-    .style("text-anchor", "middle")
-    .text(" shot - scored");
+		.attr("transform",`translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart+1*timelineLegendVertSpace})`)
+		.attr("dy","2em")
+		.style("text-anchor", "middle")
+		.text(" shot - scored");
 
     // Score area plots, for legend
     const areaWinLegData = [{"x":"0", "y":"-10"},
@@ -893,10 +905,10 @@ var timelineLegend = svgLegend.append("g")
       ];
 
     var areaWinLeg = d3.area()
-      .curve(d3.curveStepAfter)
-      .x( function(d) { return d.x; } )
-      .y0(0)
-      .y1( function(d) { return d.y; } );
+		.curve(d3.curveStepAfter)
+		.x( function(d) { return d.x; } )
+		.y0(0)
+		.y1( function(d) { return d.y; } );
 
      timelineLegend.append("path")
       .datum(areaWinLegData)
@@ -916,20 +928,20 @@ var timelineLegend = svgLegend.append("g")
         .y0(0)
         .y1( function(d) { return d.y; } );
 
-       timelineLegend.append("path")
+		timelineLegend.append("path")
         .datum(areaLoseLegData)
         .attr("class","areaLose")
         .attr("d", areaLoseLeg)
         .attr("transform",
           `translate(-10, ${5+timelineLegendVertStart+4*timelineLegendVertSpace})`);
 
-      timelineLegend.append("text")
+		timelineLegend.append("text")
           // .attr("class","axisLabel")
-          .attr("transform",
-            `translate(${2+timelineLegendHorizSpace}, ${timelineLegendVertStart+3*timelineLegendVertSpace - 7})`)
-          .attr("dy","2em")
-          .style("text-anchor", "middle")
-          .text("team 1 score");
+		.attr("transform",
+		`translate(${2+timelineLegendHorizSpace}, ${timelineLegendVertStart+3*timelineLegendVertSpace - 7})`)
+		.attr("dy","2em")
+		.style("text-anchor", "middle")
+		.text("team 1 score");
 
         timelineLegend.append("text")
             // .attr("class","axisLabel")
@@ -969,12 +981,12 @@ var timelineLegend = svgLegend.append("g")
 		var lineLength = 80;
     // Add game number to the timelines
     timeline.append("text")
-      .attr("class","axisLabel")
-      .attr("y",timelineHeight/1.5)
-      .attr("x",-timelineInternalPadding - lineLength)
-      .attr("dy","-.2em")
-      .style("text-anchor", "middle")
-      .text(gameNum);
+		.attr("class","axisLabel")
+		.attr("y",timelineHeight/1.5)
+		.attr("x",-timelineInternalPadding - lineLength)
+		.attr("dy","-.2em")
+		.style("text-anchor", "middle")
+		.text(gameNum);
 		/*
 		  Add flags and team names
 		*/
@@ -1305,6 +1317,12 @@ function drawAll() {
 }
 
 function init() {
+	d3.select("#welcome")
+		.transition()
+		.delay(1000)
+		.duration(1000)
+		.style("opacity",0)
+		.remove();
 	//console.log(JSON.stringify(allPoloDatas[0]).replace(/},{/g,"},\n\n{"));
 	//console.log(JSON.stringify(allShotSummaryDatas[0]).replace(/},{/g,"},\n\n{"));
 	for(var ii=0; ii<teamCodes.length; ii++) {
