@@ -292,6 +292,14 @@ Select a player to highlight their contributions:
 <br/>
 
 <section>
+<object data="img/waterpolo2.svg" type="image/svg+xml">
+  <img src="yourfallback.jpg" />
+ 
+</object>
+ <p>Source: <a href="http://rio.admin.olympics.com.au/sports/water-polo"> International Olympic Committee</a></p>
+</section>
+
+<!--<section>
   <p>
     <strong>Designed &amp; Built By</strong>: Brian DeSilva, Abe<br/>Engle, Ben Liu, and Kellie MacPhee.
   </p>
@@ -301,7 +309,7 @@ Select a player to highlight their contributions:
   <p>
     <strong>Data Source</strong>: <a href="http://www.omegatiming.com/Sport?sport=AQ">Omega Timing</a>
   </p>
-</section>
+</section>-->
 
 </div>
 
@@ -1368,6 +1376,20 @@ teamSelect.addEventListener("change", function() {
 
   </section>
 
+
+<section>
+  <p>
+    <strong>Designed &amp; Built By</strong>: Brian DeSilva, Abe<br/>Engle, Ben Liu, and Kellie MacPhee.
+  </p>
+</section>
+
+<section>
+  <p>
+    <strong>Data Source</strong>: <a href="http://www.omegatiming.com/Sport?sport=AQ">Omega Timing</a>
+  </p>
+</section>
+
+
 <section>
     <h2>Design Rationale</h2>
     <p>
@@ -1470,9 +1492,9 @@ teamSelect.addEventListener("change", function() {
 		Additional work had to be done to map the raw tables pulled from the pdf files into something our visualization could use directly. We wrote code to automatically produce files summarizing when shots were taken for each team, files summarizing how many attempts and goals players on the teams made in different games, a list of all the teams that played in a tournament in a given year, and others. To ensure reproducibility and future ease-of-use, the work flow was encapsulated in a comprehensive Make file. Writing and testing this code required around 13 hours.
 	</p>
 
-	<h4>ABE: Vega static visualization, flags, team average bars</h4>
+	<h4>ABE: Vega static visualization, flags (interactivity in legend and on timelines), string processing, interactive team average bars</h4>
 	<p>
-		The beginning stages of the development process involved choosing to do this assignment in D3 or Vega. We drafted static visualizations in both languages but moved forward only in D3. This visualization took about 3 hours to create.
+		The beginning stages of the development process involved choosing to do this assignment in D3 or Vega. We drafted static visualizations in both languages but moved forward only in D3. This visualization took about 3 hours to create. The most challenging part of the assignment to me was understanding how Javascript and web programming worked and how general interactivity worked in D3. Integrating code to make flags change when new teams are selected and average bars reposition and recalculate when new players were selected took most of my time. I spent about 12 hours on the interactivity portion of the assignment.
 	</p>
 
   <h4>BEN: tons of things in D3</h4>
