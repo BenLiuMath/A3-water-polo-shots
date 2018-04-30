@@ -303,37 +303,22 @@ var imgPath = "img/";
 
 // Sizing and Styling
 {
-var marginTimeline = {top:0, right: 80, bottom:0, left:110};
-var marginScatter = {top:30, right: 80, bottom:50, left:70};
+var margin = {top: 10, right: 80, bottom: 60, left: 110};
 
+var scatterWidth, scatterHeight = 150;
+var scatterPadding = 30;
+var scatterTimelinePadding = 100;
 
-var scatterWidth, scatterHeight;
-var scatterTimelinePadding = 130;
-
-var scatterAxesPositions = [[0,   0,   280, 210],
-							[340, 0,   140, 80],
-							[340, 130, 140, 80],
-							[540, 0,   140, 80],
-							[540, 130, 140, 80]];
-scatterHeight = scatterAxesPositions[0][3];
-scatterWidth = scatterAxesPositions[4][2] + scatterAxesPositions[4][3];
-
-var scatterOuterBoxHeight = scatterHeight + marginScatter.top + marginScatter.bottom;
-var scatterOuterBoxWidth = marginScatter.left + marginScatter.right + scatterWidth;
-
-var timelineHeight = 50;
-var timelineQuarterWidth = 140;
+var timelineHeight = 60;
+var timelineQuarterWidth = 160;
 var timelineInternalPadding = 20;
 var timelineVerticalPadding = 5;
 var timelineWidth = 4*timelineQuarterWidth + 3*timelineInternalPadding;
 
-var timelineOuterBoxHeight = marginTimeline.top + marginTimeline.bottom + (timelineHeight+timelineVerticalPadding)*6;
-var timelineOuterBoxWidth = marginTimeline.left + marginTimeline.right + timelineWidth;
+var widthFull = margin.left + margin.right + 4*timelineQuarterWidth + 3*timelineInternalPadding;
+var heightFull = margin.top + margin.bottom + scatterHeight + (timelineHeight+timelineVerticalPadding)*6 + scatterTimelinePadding;
 
-var widthFull = Math.max(scatterOuterBoxWidth, timelineOuterBoxWidth)
-
-var heightFull = scatterOuterBoxHeight + marginTimeline.top+marginTimeline.bottom + timelineOuterBoxHeight;
-
+scatterWidth = (timelineWidth - 4*scatterPadding)/5;
 
 // var USAColor = "darkblue";
 // var OpponentColor = "#999999";
@@ -351,14 +336,14 @@ var svg = d3.select("#poloVis")
     .attr("height", heightFull)
 	//.attr("style","background:red;")
 	.append("g")
-    .attr("transform", `translate(0, 0)`);
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 var svgLegend = d3.select("#legends")
     .attr("width", 220)
     .attr("height", 120)
 	//.attr("style","background:red;")
 	.append("g")
-    .attr("transform", "translate(" + 10 + "," + (marginScatter.top) + ")");
+    .attr("transform", "translate(" + 10 + "," + (margin.top) + ")");
 
 // var title =  svg.append("text")
 //             .attr("x", (widthFull / 2) - margin.left)
@@ -372,6 +357,8 @@ var tooltip = d3.select("body").append("div")
     .style("opacity", 0);
 
 }
+
+
 
 /**
 * State
@@ -391,6 +378,8 @@ var playerSelectOpts = {};
 var players = [];
 var playerFilter = [];
 }
+
+
 
 /**
 * Initialize data and state variables
@@ -503,49 +492,46 @@ function groupPlayerShotStatistics(data,shotType) {
 */
 {
 // probability function for plotting y-values on the charts
+var probability = d3.scaleLinear().rangeRound([scatterHeight,0])
+	.domain([-.1, 1.1]);
+
+var ratios = 0;
 
 var scatterCharts = [];
 var scatterGroup = svg.append("g")
-	.attr("transform", `translate(${marginScatter.left}, ${marginScatter.top})`);
+	.attr("transform", `translate(0, 0)`);
 
 function initializeScatterCharts() {
-	for(var nn=0; nn<5; nn++) {
-		
-		var mypos = scatterAxesPositions[nn];
-		var xoff = mypos[0];
-		var yoff = mypos[1];
-		var mywidth = mypos[2];
-		var myheight = mypos[3];
-		
+	for(var nn=0; nn<shotTypes.length; nn++) {
+
 		// shot function for plotting x-vlaues on the charts
-		var shots = d3.scaleLinear().rangeRound([0, mywidth]);
+		var shots = d3.scaleLinear().rangeRound([0, scatterWidth]);
 			//.domain(lim);
-		
+
 		var scatterChart = scatterGroup.append("g")
 			.attr("class", "scatterChart")
-			.attr("width", mypos[2])
-			.attr("height", mypos[3])
-			.attr("transform", `translate(${xoff}, ${yoff})`);
+			.attr("width", scatterWidth)
+			.attr("height", scatterHeight)
+			.attr("transform", `translate(${nn*(scatterWidth+scatterPadding)-30}, 10)`);
+
+		scatterCharts[nn] = scatterChart;
 
 		scatterChart.append("g")
 			.attr("class", "axis axisX")
-			.attr("transform", `translate(0, ${myheight})`)
+			.attr("transform", `translate(0, ${scatterHeight})`)
 			.call(d3.axisBottom(shots)
 				.tickFormat(d3.format("d"))
 				.ticks(0).tickSizeOuter(0));
 
 		scatterChart.append("text")
 			.attr("class","axisLabel")
-			.attr("transform",`translate(${mywidth/2},0)`)
-			.attr("dy","-.1em")
+			.attr("transform",
+				"translate(" + (scatterWidth/2) + " ," +
+							   (scatterHeight + 12) + ")")
+			.attr("dy","1.5em")
 			.style("text-anchor", "middle")
 			.text(shotTypesDecode[nn]);
 
-		var probability = d3.scaleLinear().rangeRound([myheight,0])
-			.domain([-.1, 1.1]);
-
-		scatterCharts[nn] = [scatterChart,probability];
-		
 		// Label first y-axis and give ticks
 		var averageLines = scatterChart.selectAll(".ratioLine")
             .data([{"ratio":0}])  // data is a singleton array with # shots made / # shots
@@ -553,7 +539,7 @@ function initializeScatterCharts() {
             .append("line")
             .attr("class","ratioLine")
 			.attr("x1",0)
-			.attr("x2",mywidth)
+			.attr("x2",scatterWidth)
 			.attr("y1",0)
 			.attr("y2",0);
 
@@ -569,15 +555,14 @@ function initializeScatterCharts() {
 			.attr("class", "axisLabel")
 			.attr("transform", "rotate(-90)")
 				  .attr("y",-65)
-				  .attr("x",0 - (myheight / 2))
+				  .attr("x",0 - (scatterHeight / 2))
 				  .attr("dy", "1em")
 				  .style("text-anchor", "middle")
 				  .text("Success");
 		} else {
 			scatterChart.append("g")
 				.attr("class", "axis axis--y")
-				.call(d3.axisLeft(probability).ticks(3)
-					.tickFormat(d3.format(".0%")).tickSizeOuter(0));
+				.call(d3.axisLeft(probability).ticks(0).tickSizeOuter(0));
 		}
 		//console.log(JSON.stringify(mydata).replace(/},{/g,"},\n\n{"));
 	}
@@ -586,8 +571,8 @@ function initializeScatterCharts() {
 	var scatterLegendVals = [1,2,4];
 	scatterLegend = svgLegend.append("g")
 	  // .attr("class", " ")
-	  .attr("width", mywidth/3)
-	  .attr("height", myheight)
+	  .attr("width", scatterWidth/3)
+	  .attr("height", scatterHeight)
 	  .attr("transform", `translate(${0}, 0)`);
 
 	for(var nn=0; nn<scatterLegendVals.length; nn++) {
@@ -600,7 +585,7 @@ function initializeScatterCharts() {
 			scatterLegend.append("text")
 			// .attr("class","axisLabel")
 			.attr("transform",
-			  "translate(" + (mywidth/6 + 15) + " ," +
+			  "translate(" + (scatterWidth/6 + 15) + " ," +
 					   (nn*20-18) + ")")
 			.attr("dy","2em")
 			.style("text-anchor", "middle")
@@ -609,7 +594,7 @@ function initializeScatterCharts() {
 			scatterLegend.append("text")
 			// .attr("class","axisLabel")
 			.attr("transform",
-			  "translate(" + (mywidth/6 + 15) + " ," +
+			  "translate(" + (scatterWidth/6 + 15) + " ," +
 					   (nn*20-18) + ")")
 			.attr("dy","2em")
 			.style("text-anchor", "middle")
@@ -625,12 +610,12 @@ function initializeScatterCharts() {
 
 		scatterLegend.append("text")
 			.attr("transform",
-			"translate(" + (mywidth/6 + 25) + " ," +
+			"translate(" + (scatterWidth/6 + 25) + " ," +
 					 (10+scatterLegendVals.length*20-18) + ")")
 			.attr("dy","2em")
 			.attr("dx", "1.5em")
 			.style("text-anchor", "middle")
-			.text("Team Avg.");
+			.text("Team avg.");
 		scatterLegend.append("image")
 			.attr("id", "legendPicture")
 			.attr("href", imgPath + currTeamCode + ".png")
@@ -643,8 +628,8 @@ function initializeScatterCharts() {
 function populateScatterPlots() {
 
 // Iterate over each of the scatterplots
-for(var nn=0; nn<scatterCharts.length; nn++) {
-	var chart = scatterCharts[nn][0];
+for(var nn=0; nn<shotTypes.length; nn++) {
+	var chart = scatterCharts[nn];
 
 	// get data
 	var myShotData = aggregateShotDataByPlayer(shotData.filter((d) => { return gameFilter[d.Game-1]; }));
@@ -662,7 +647,7 @@ for(var nn=0; nn<scatterCharts.length; nn++) {
 
 	// Establish y-scale
 	var shots = d3.scaleLinear()
-		.rangeRound([0, scatterAxesPositions[nn][2]])
+		.rangeRound([0, scatterWidth])
 		.domain(lim);
 
 
@@ -683,7 +668,7 @@ for(var nn=0; nn<scatterCharts.length; nn++) {
         totalShotsMade += myData[i].coord[0];
         totalShotsAttempted += myData[i].coord[1];
     }
-	var probability = scatterCharts[nn][1];
+
     // Remove existing lines
     //console.log(totalShotsMade);
     if(totalShotsMade>0) {
@@ -766,7 +751,8 @@ for(var nn=0; nn<scatterCharts.length; nn++) {
 
 function filterScatterPlots() {
 for(var nn=0; nn<shotTypes.length; nn++) {
-	var chart = scatterCharts[nn][0];
+	var chart = scatterCharts[nn];
+
 
     var mydots = chart.selectAll(".scatterdot")
         .transition(d3.easeElasticOut(200))
@@ -778,6 +764,8 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 			}});
 }
 }
+
+
 }
 
 /**
@@ -800,7 +788,7 @@ var success = d3.scaleLinear()
 var timelines = [];
 var quarters = [];
 var timelineGroup = svg.append("g")
-	.attr("transform", `translate(${marginTimeline.left}, ${scatterOuterBoxHeight+marginTimeline.top})`);
+	.attr("transform", `translate(0, ${scatterHeight+scatterTimelinePadding})`);
 
 function initializeTimelines() {
 	// Quarter labels
@@ -839,7 +827,7 @@ var timelineLegend = svgLegend.append("g")
       `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart})`)
     .attr("dy","2em")
     .style("text-anchor", "middle")
-    .text(" shot - missed");
+    .text(" Shot - missed");
 
     // goal icon
     timelineLegend.append("circle")
@@ -854,7 +842,7 @@ var timelineLegend = svgLegend.append("g")
       `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart+1*timelineLegendVertSpace})`)
     .attr("dy","2em")
     .style("text-anchor", "middle")
-    .text(" shot - scored");
+    .text(" Shot - scored");
 
     // Score area plots, for legend
     const areaWinLegData = [{"x":"0", "y":"-10"},
@@ -899,7 +887,7 @@ var timelineLegend = svgLegend.append("g")
             `translate(${2+timelineLegendHorizSpace}, ${timelineLegendVertStart+3*timelineLegendVertSpace - 7})`)
           .attr("dy","2em")
           .style("text-anchor", "middle")
-          .text("team 1 score");
+          .text("Team 1 score");
 
         timelineLegend.append("text")
             // .attr("class","axisLabel")
@@ -907,7 +895,7 @@ var timelineLegend = svgLegend.append("g")
               `translate(${2 + timelineLegendHorizSpace}, ${timelineLegendVertStart+3*timelineLegendVertSpace + 10})`)
             .attr("dy","2em")
             .style("text-anchor", "middle")
-            .text("team 2 score");
+            .text("Team 2 score");
 
 
 	for(var nn=0; nn<6; nn++) {
@@ -1291,6 +1279,7 @@ function init() {
 }
 
 var teamCodesDupe = teamCodes.slice(0);
+
 function loadFiles() {
 	if(teamCodesDupe.length > 0) {
 		var myTeamCode = teamCodesDupe.shift();
@@ -1307,6 +1296,32 @@ function loadFiles() {
 }
 loadFiles();
 
+/*
+teamCodes.forEach( function(teamCode) {
+	//console.log("teamcode:"+teamCode);
+	teamDecodes[teamCode] = teamCode;
+	d3.json("../data_gathering/data/2017/W/processed/"+teamCode+"/shots.json", function(error, raw) {
+
+		//var dsv = d3.dsvFormat(',');
+		//console.log(error);
+		//var poloData = dsv.parse(raw);
+		//console.log(teamCode);
+		//console.log(JSON.stringify(raw).replace(/},{/g,"},\n\n{"));
+		//console.log(JSON.stringify(poloData).replace(/},{/g,"},\n\n{"));
+		allPoloDatas.push(raw);
+		//console.log(JSON.stringify(allPoloDatas[0]).replace(/},{/g,"},\n\n{"));
+	});
+
+	d3.json("../data_gathering/data/2017/W/processed/"+teamCode+"/shot_summary.json", function(error, raw) {
+		//var dsv = d3.dsvFormat(',');
+		//console.log(error);
+		//var shotSummaryData = dsv.parse(raw);
+		//console.log(shotSummaryData);
+		allShotSummaryDatas.push(raw);
+	});
+});
+*/
+
 //setTimeout(init,5000);
 
 teamSelect.addEventListener("change", function() {
@@ -1322,7 +1337,7 @@ teamSelect.addEventListener("change", function() {
 
   <section>
     <p>
-      <strong>Designed &amp; Built By</strong>: Brian DeSilva, Abraham Engle, Benjamin Liu, Kellie MacPhee
+      <strong>Designed &amp; Built By</strong>: Brian de Silva, Abraham Engle, Benjamin Liu, Kellie MacPhee
     </p>
   </section>
 
@@ -1356,7 +1371,8 @@ teamSelect.addEventListener("change", function() {
     </p><p>Each of these questions might be addressed for a given game, or over the course of several games in the tournament. We now explain how our design decisions were guided by these considerations.
     </p>
 
-    <h4>Scatterplots</h3>
+    <h3>Scatterplots</h3>
+	<li>Scatterplots: can see individual players, can brush to connect them (compare performance on various shot types)</li>
 
     <p>At the top of the dashboard are several scatterplots showing <strong>number of shots taken</strong> vs. <strong>success rate</strong> (i.e. number of goals / number of shots, as a percentage). Each dot corresponds to one or more players; dots are sized according to the number of players they represent. Design considerations included:
 	<ul>
@@ -1375,18 +1391,13 @@ teamSelect.addEventListener("change", function() {
 
 
 
-    <h4>Timelines</h3>
-
-
-
-
-
+    <h3>Timelines</h3>
+	<p>We chose strip plots as a way to visualize shot attempts and successes as each game progressed. Rather than a single strip plot per game, we chose to separate them by quarter. One advantage of this separation is to more easily distinguish playing strategies at the quarterly level. A blue/red color encoding for current team selected and their opponent parallels the color choice of the current team in the scatterplots and makes clear the contrast between the two teams. This contrast is furthered by having the strip plot of shot events on a shared horizontal time axis but separated vertically. To help consolidate information, a tooltip is available for each event on the strip plot indicating player name, cap number, and time of event. We used the standard timing conventions of the sport: times are kept at the quartery level and count down from 8:00 to 0:00. We felt the exact game time is not as important as sequential nature and rough time in quarter, so generally okay to leave out details on the time axis.</p>
 
 	<ul>
 	<li>Color: blue/grey easily distinguishable, grey for opponent shots/goals because naturally seems like background
 	<li>Small multiples of timelines and scatter plots: simple to understand the rest after understanding one</li>
-	<li>Scatterplots: can see individual players, can brush to connect them (compare performance on various shot types)</li>
-	<li>Timelines: strip plots to visualize when the most action was occurring, when goals were scored. To avoid clutter, show the details of shots as tooltips (name, number, shot type, exact time). Exact time not as important as sequential nature and rough time in quarter, so generally okay to leave out details on the time axis.</li>
+	<li>Timelines: strip plots to visualize when the most action was occurring, when goals were scored. To avoid clutter, show the details of shots as tooltips (name, number, shot type, exact time). </li>
 	</ul>
   </section>
 
@@ -1398,9 +1409,24 @@ teamSelect.addEventListener("change", function() {
 	<ul>
 	<li> Data wrangling - Brian </li>
 	<li> Design prototyping - Kellie and everyone (Kellie for water polo knowledge and drawing up designs, everyone for discussing and planning those designs)</li>
-	<li> D3 static visualization - Ben </li>
-	<li> Interactive components - </li>
+	<li> D3 static visualization - Ben</li>
+	<li> Interactive components - Everyone?</li>
+	<li> Vega static visualization - Abe</li>
 	</ul>
+
+	<h3>Data wrangling</h3>
+	<p>
+		The data that powers our visualization is derived from the "Play by play" documents provided by <a href="http://waterpolo.sportresult.com/WCH2017/res.asp">Omega</a>. Corresponding to each game is a pdf file with a table listing important actions taken by players on either team and when the actions were taken. Since a great number of games are catalogued on Omega's website, we wanted to automate as much of the data collection process as possible. We also reasoned that going through the trouble of automating things for this assignment could save us time in the future should we decide to expand upon our visualization for the final project. <br><br>
+
+		Automating the extraction of data from the pdfs proved difficult. Getting this step working smoothly took roughly 12 hours. We used a <a href="https://github.com/chezou/tabula-py">python wrapper</a> of a tool called <a href="http://tabula.technology/">Tabula</a> for pulling the tables from the pdf files. This software was useful because it interfaced nicely with Pandas, but it produced somewhat unpredictable output when the tables in the pdf files continued for more than a page. Transforming the output of Tabula into a standardized set of tables took a condiserable amount of effort. <br><br>
+
+		Additional work had to be done to map the raw tables pulled from the pdf files into something our visualization could use directly. We wrote code to automatically produce files summarizing when shots were taken for each team, files summarizing how many attempts and goals players on the teams made in different games, a list of all the teams that played in a tournament in a given year, and others. To ensure reproducibility and future ease-of-use, the work flow was encapsulated in a comprehensive Make file. Writing and testing this code required around 13 hours.
+	</p>
+
+	<h3>Vega static visualization</h3>
+	<p>
+		The beginning stages of the development process involved choosing to do this assignment in D3 or Vega. We drafted static visualizations in both languages but moved forward only in D3. This visualization took about 3 hours to create.
+	</p>
 
   </section>
 
