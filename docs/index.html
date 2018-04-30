@@ -598,7 +598,7 @@ function initializeScatterCharts() {
 			.attr("dy","2em")
 			.attr("dx", "1.5em")
 			.style("text-anchor", "middle")
-			.text("Team Avg.");
+			.text("Team avg.");
 		scatterLegend.append("image")
 			.attr("id", "legendPicture")
 			.attr("href", imgPath + currTeamCode + ".png")
@@ -810,7 +810,7 @@ var timelineLegend = svgLegend.append("g")
       `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart})`)
     .attr("dy","2em")
     .style("text-anchor", "middle")
-    .text(" shot - missed");
+    .text(" Shot - missed");
 
     // goal icon
     timelineLegend.append("circle")
@@ -825,7 +825,7 @@ var timelineLegend = svgLegend.append("g")
       `translate(${timelineLegendHorizSpace}, ${timelineLegendVertStart+1*timelineLegendVertSpace})`)
     .attr("dy","2em")
     .style("text-anchor", "middle")
-    .text(" shot - scored");
+    .text(" Shot - scored");
 
     // Score area plots, for legend
     const areaWinLegData = [{"x":"0", "y":"-10"},
@@ -870,7 +870,7 @@ var timelineLegend = svgLegend.append("g")
             `translate(${2+timelineLegendHorizSpace}, ${timelineLegendVertStart+3*timelineLegendVertSpace - 7})`)
           .attr("dy","2em")
           .style("text-anchor", "middle")
-          .text("team 1 score");
+          .text("Team 1 score");
 
         timelineLegend.append("text")
             // .attr("class","axisLabel")
@@ -878,7 +878,7 @@ var timelineLegend = svgLegend.append("g")
               `translate(${2 + timelineLegendHorizSpace}, ${timelineLegendVertStart+3*timelineLegendVertSpace + 10})`)
             .attr("dy","2em")
             .style("text-anchor", "middle")
-            .text("team 2 score");
+            .text("Team 2 score");
 
 
 	for(var nn=0; nn<6; nn++) {
