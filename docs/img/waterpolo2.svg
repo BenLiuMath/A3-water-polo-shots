@@ -631,13 +631,13 @@
 		</g>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 248.2009 67.5045)" class="st88 st89">5m line</text>
+		<text transform="matrix(1.5 0 0 1.5 238.2009 67.5045)" class="st88 st89">5m line</text>
 	</g>
 	<!--<g>
 		<text transform="matrix(1 0 0 1 203.0619 51.9352)" class="st88 st89">Mid pool line</text>
 	</g>-->
 	<g>
-		<text transform="matrix(1 0 0 1 83.0322 155.4782)" class="st88 st89">Center area</text>
+		<text transform="matrix(1.5 0 0 1.5 63.0322 155.4782)" class="st88 st89">Center area</text>
 	</g>
 	<g>
 		<circle class="st90" cx="211" cy="118" r="1.1"/>
