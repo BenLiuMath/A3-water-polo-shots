@@ -1395,7 +1395,7 @@ teamSelect.addEventListener("change", function() {
     but it was difficult to tell how many players were represented in a given dot with this encoding. Dot size better shows where there are significant groups of players coalescing.</li>
 	<li>The dots for the chosen team are <strong>blue</strong> both in the scatterplots and in the timelines, reinforcing the fact that these correspond to the same team.
 	<li>The <strong>team average bar in brown</strong> shows the team-wide shooting accuracy, providing a reference to identify above-average players.
-    It also provides aggregate information that isn't easily obtained from the individual dots. </li>
+    It also provides aggregate information that isn't easily obtained from the individual dots. We chose brown becuase it is distinguishable from blue for color-blind viewers.</li>
 	<li>The choice to use <strong>percentages</strong> on the y-axis</strong> was motivated by the fact that when we originally plotted the number of goals on the y-axis instead, all of the dots fall below the 45 degree line.
     Percentages fill the plots and make use of  the space more effectively, while also making it easy to pick out which players have high accuracy, as opposed to which players simply take more shots.</li>
 	<li><strong>Tooltips</strong> containing player names and number of shots taken vs. made appear when the viewr hovers over a dot in the scatter plot.
@@ -1410,13 +1410,31 @@ teamSelect.addEventListener("change", function() {
 
 
     <h4>Timelines</h4>
-	<p>We chose strip plots as a way to visualize shot attempts and successes as each game progressed. Rather than a single strip plot per game, we chose to separate them by quarter. One advantage of this separation is to more easily distinguish playing strategies at the quarterly level. A blue/red color encoding for current team selected and their opponent parallels the color choice of the current team in the scatterplots and makes clear the contrast between the two teams. This contrast is furthered by having the strip plot of shot events on a shared horizontal time axis but separated vertically. To help consolidate information, a tooltip is available for each event on the strip plot indicating player name, cap number, and time of event. We used the standard timing conventions of the sport: times are kept at the quartery level and count down from 8:00 to 0:00. We felt the exact game time is not as important as sequential nature and rough time in quarter, so generally okay to leave out details on the time axis.</p>
+	<p>In the lower portion of the dashboard are six timelines, broken up by quarter, which show when all of the shots and goals occurred throughout each game.
+    The area plots show the number of goals that each team has at any given time (normalized by the maximum score over the two teams), so that the viewers
+    can see how the goals are accumulating over time.
 
-	<ul>
-	<li>Color: blue/grey easily distinguishable, grey for opponent shots/goals because naturally seems like background
-	<li>Small multiples of timelines and scatter plots: simple to understand the rest after understanding one</li>
-	<li>Timelines: strip plots to visualize when the most action was occurring, when goals were scored. To avoid clutter, show the details of shots as tooltips (name, number, shot type, exact time). </li>
-	</ul>
+    More specific considerations for the timelines include:
+  </p>
+
+	<ol>
+    <li>We chose <strong>strip plots</strong> as a way to visualize shot attempts and successes as each game progressed, since this is a time series characterized by a binary variable.
+      Empty/filled circles echo the shape of a water polo ball, and correspond to missed/made shots.</li>
+    <li>In the timelines as well, we utilize <strong>small multiples</strong> so that comparisons across games can easily be made by the viewer.</li>
+    <li>Rather than a single strip plot per game, we chose to <strong>separate them by quarter</strong>. One advantage of this separation is to more easily distinguish playing strategies at the quarterly level.Becuase of the distinct breaks between quarters, visually chunking time in this way is intuitive.
+      Shots that occur at the very end of Quarter 1 and the very beginning of Quarter 2, for example, should not be depicted as adjacent in time, since the playing time is not continuous.</li>
+	<li>A <strong>blue/red color encoding</strong> for current team selected and their opponent parallels the color choice of the current team in the scatterplots and makes clear the contrast between the two teams.
+    This contrast is furthered by having the strip plot of shot events on a shared horizontal time axis but separated vertically.
+    We chose blue and red becuase they are easily distinguishable for common forms of color blindness, and because these colors appear frequently in the country flags, which makes for a pleasant visual aesthetic without too many clashing colors.</li>
+	<li>To help consolidate information, a <strong>tooltip</strong> is available for each event on the strip plot indicating player name, cap number, and time of event.
+    We used the standard timing conventions of the sport: times are kept at the quartery level and count down from 8:00 to 0:00.
+    The country flags are added to the tooltips to make it clear which team you are selecting, since the dots appear close together.
+    We felt the exact game time is not as important as sequential nature and rough time in quarter, so generally okay to leave out details on the time axis.</li>
+    <li>Timlines are grayed out until selected. A nice interactive element here is that <strong>clicking on a timeline</strong> adds that game's data to the scatterplots, along with showing the timeline.</li>
+    <li>Finally, the score of the game at the end of the fourth quarter is shown to the right of the timeline.
+      One thing to note is that games which appear to end in a tie actually went into a penalty shootout after the fourth quarter.
+      We decided for the scope of this assignment, though, to only show shots and goals that occurred during active play.</li>
+</ol>
   </section>
 
   <section>
@@ -1424,15 +1442,8 @@ teamSelect.addEventListener("change", function() {
     <p>
       <em>[Add: An overview of your design and development process. Describe how the work was split among the team members. Include a commentary on the development process, including answers to the following questions: Roughly how much time did you spend developing your application (in people-hours)? What aspects took the most time?]</em>
     </p>
-	<ul>
-	<li> Data wrangling - Brian </li>
-	<li> Design prototyping - Kellie and everyone (Kellie for water polo knowledge and drawing up designs, everyone for discussing and planning those designs)</li>
-	<li> D3 static visualization - Ben</li>
-	<li> Interactive components - Everyone?</li>
-	<li> Vega static visualization - Abe</li>
-	</ul>
 
-	<h3>Data wrangling</h3>
+	<h4>BRIAN: data wrangling</h4>
 	<p>
 		The data that powers our visualization is derived from the "Play by play" documents provided by <a href="http://waterpolo.sportresult.com/WCH2017/res.asp">Omega</a>. Corresponding to each game is a pdf file with a table listing important actions taken by players on either team and when the actions were taken. Since a great number of games are catalogued on Omega's website, we wanted to automate as much of the data collection process as possible. We also reasoned that going through the trouble of automating things for this assignment could save us time in the future should we decide to expand upon our visualization for the final project. <br><br>
 
@@ -1441,10 +1452,24 @@ teamSelect.addEventListener("change", function() {
 		Additional work had to be done to map the raw tables pulled from the pdf files into something our visualization could use directly. We wrote code to automatically produce files summarizing when shots were taken for each team, files summarizing how many attempts and goals players on the teams made in different games, a list of all the teams that played in a tournament in a given year, and others. To ensure reproducibility and future ease-of-use, the work flow was encapsulated in a comprehensive Make file. Writing and testing this code required around 13 hours.
 	</p>
 
-	<h3>Vega static visualization</h3>
+	<h4>ABE: Vega static visualization, flags, team average bars</h4>
 	<p>
 		The beginning stages of the development process involved choosing to do this assignment in D3 or Vega. We drafted static visualizations in both languages but moved forward only in D3. This visualization took about 3 hours to create.
 	</p>
+
+  <h4>BEN: tons of things in D3</h4>
+	<p>
+
+
+  </p>
+
+  <h4>KELLIE: drawing up sketches of our designs, general water polo knowledge, the legend, help with the layout, a good portion of the write-up, misc. other tasks</h4>
+	<p>
+    Our initial design discussions, plus drawing up sketches of the details of these designs, and making revisions as we went along, totaled about 6 hours.
+    Working on the overall layout of the graphic, including placement of the legend, the instructions on the right side, spacing between different items, and color choices, took about 3 hours.
+    Putting the legend together took about 5 hours. Miscellaneous other tasks, including getting everything up and running on GitHub pages, and writing up our design rationale, took about 6 hours.
+    Of these tasks, the legend was the most time-consuming individual task, largely because of frustrations with understanding D3.
+  </p>
 
   </section>
 
