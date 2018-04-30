@@ -68,9 +68,16 @@ p { margin: 0 0 10px 0; }
 
 .title, .title h1, .title a {
 	color: #492a7c;
-	font-size: 24pt;
+	font-size: 20pt;
 	margin-bottom: 20px;
 	margin-top: 5px;
+}
+
+.instructions {
+  color: #492a7c;
+  font-size: 11pt;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 .footer {
@@ -235,7 +242,7 @@ body {
 <div class="content">
 
 <section class="title">
-<a href="#">Women's Water Polo Offense Visualizer</a>
+<a href="#">Women's Water Polo Offense Visualizer - <i>2017 FINA World Championships</i></a>
 </section>
 
 <section>
@@ -246,23 +253,45 @@ body {
 <br>
 <svg id="legends"></svg>
 
-<h1>Women's Water Polo</h1>
-<h3>2017 FINA World Championships</h3>
-
+<!-- <h1>Women's Water Polo</h1>
+<h3>2017 FINA World Championships</h3> -->
+<!-- <br/> -->
+<section class="instructions">
 Select a team:
-<br/><br/>
+</section>
+<!-- <br/><br/> -->
 <select id="teamSelector"></select>
+<section class="instructions">
+and click on one or more timelines <br/>(to the left) to view data for those<br/>games.
+<!-- </section>
 
-<br/><br/>
+<section class="instructions"> -->
+<br><br>
+<i>Hover over data points for details!</i>
+<br><br>
+You can also select a player <br/>to highlight their contributions:
+</section>
+
+<!-- <br/><br/>
 Select a player to highlight their contributions:
-<br/><br/>
+<br/><br/> -->
 <div id="roster"></div>
 
-<br/><br/>
-Hover over data to see details.
+<br/>
+<hr>
+<br/>
 
-<br/><br/>
-Click on a timeline to view data for that game.
+<section>
+  <p>
+    <strong>Designed &amp; Built By</strong>: Brian DeSilva, Abe<br/>Engle, Ben Liu, and Kellie MacPhee.
+  </p>
+</section>
+
+<section>
+  <p>
+    <strong>Data Source</strong>: <a href="http://www.omegatiming.com/Sport?sport=AQ">Omega Timing</a>
+  </p>
+</section>
 
 </div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -332,7 +361,7 @@ var timelineOuterBoxWidth = marginTimeline.left + marginTimeline.right + timelin
 
 var widthFull = Math.max(scatterOuterBoxWidth, timelineOuterBoxWidth)
 
-var heightFull = scatterOuterBoxHeight + marginTimeline.top+marginTimeline.bottom + timelineOuterBoxHeight;
+var heightFull = scatterOuterBoxHeight + marginTimeline.top+marginTimeline.bottom + timelineOuterBoxHeight + 20;
 
 
 // var USAColor = "darkblue";
@@ -355,10 +384,10 @@ var svg = d3.select("#poloVis")
 
 var svgLegend = d3.select("#legends")
     .attr("width", 220)
-    .attr("height", 120)
+    .attr("height", 100)
 	//.attr("style","background:red;")
 	.append("g")
-    .attr("transform", "translate(" + 10 + "," + (marginScatter.top) + ")");
+    .attr("transform", "translate(" + 10 + "," + (marginScatter.top - 20) + ")");
 
 // var title =  svg.append("text")
 //             .attr("x", (widthFull / 2) - margin.left)
@@ -510,17 +539,17 @@ var scatterGroup = svg.append("g")
 
 function initializeScatterCharts() {
 	for(var nn=0; nn<5; nn++) {
-		
+
 		var mypos = scatterAxesPositions[nn];
 		var xoff = mypos[0];
 		var yoff = mypos[1];
 		var mywidth = mypos[2];
 		var myheight = mypos[3];
-		
+
 		// shot function for plotting x-vlaues on the charts
 		var shots = d3.scaleLinear().rangeRound([0, mywidth]);
 			//.domain(lim);
-		
+
 		var scatterChart = scatterGroup.append("g")
 			.attr("class", "scatterChart")
 			.attr("width", mypos[2])
@@ -545,7 +574,7 @@ function initializeScatterCharts() {
 			.domain([-.1, 1.1]);
 
 		scatterCharts[nn] = [scatterChart,probability];
-		
+
 		// Label first y-axis and give ticks
 		var averageLines = scatterChart.selectAll(".ratioLine")
             .data([{"ratio":0}])  // data is a singleton array with # shots made / # shots
@@ -1318,18 +1347,6 @@ teamSelect.addEventListener("change", function() {
 
 </script>
 
-  </section>
-
-  <section>
-    <p>
-      <strong>Designed &amp; Built By</strong>: Brian DeSilva, Abraham Engle, Benjamin Liu, Kellie MacPhee
-    </p>
-  </section>
-
-  <section>
-    <p>
-      <strong>Data Source</strong>: <a href="http://www.omegatiming.com/Sport?sport=AQ">Omega Timing</a>
-    </p>
   </section>
 
   <section>
