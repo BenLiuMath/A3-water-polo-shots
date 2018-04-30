@@ -27,19 +27,11 @@ ol li
     margin: 5px 0;
 }
 
-/* ul{
-	margin-left: 30px;
-	padding: 15 15 5px 15;
+li {
+margin-left:30px;
 }
 
-ul li
-{
-    margin: 0px;
-    padding: 0px;
-    text-indent: 10px;
-} */
-
-ul {
+#tooltip ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -1319,8 +1311,8 @@ function drawAll() {
 function init() {
 	d3.select("#welcome")
 		.transition()
-		.delay(1000)
-		.duration(1000)
+		.delay(3000)
+		.duration(500)
 		.style("opacity",0)
 		.remove();
 	//console.log(JSON.stringify(allPoloDatas[0]).replace(/},{/g,"},\n\n{"));
@@ -1475,8 +1467,29 @@ teamSelect.addEventListener("change", function() {
 		The beginning stages of the development process involved choosing to do this assignment in D3 or Vega. We drafted static visualizations in both languages but moved forward only in D3. This visualization took about 3 hours to create.
 	</p>
 
-  <h4>BEN: tons of things in D3</h4>
-	<p>
+  <h4>BEN</h4>
+  <h5>D3 static visualization</h5>
+  After meeting in-person we developed a prototype static visualization. The initial visualization was crude and did not incorporate intentional design choices, but gave us a better idea of sizes and proportions of elements and the appearance of marks. The development of this initial version took about 8-10 hours, including learning D3 without any prior knowledge apart from attending the tutorial and being very familiar with JavaScript.
+  
+  Revisions on the original design included
+  <ul>
+  <li>
+  Splitting the timelines into individual quarters.
+  </li>
+  <li>
+  Adding area plots to denote the scores of the two teams.
+  </li>
+  <li>
+  Switching the appearance of the timelines from a strip plot or barcode plot to open circles for missed shots and filled circles for goals.
+  </li>
+  <li>
+  Aggregating all players with the same number of shots made / attempted into larger circles that aggregate all relevant players.
+  </li>
+  </ul>
+  
+  <h5>Data update and redraw</h5>
+  
+  <h5>Code integrity</h5>
 
 
   </p>
