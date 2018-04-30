@@ -1349,7 +1349,7 @@ teamSelect.addEventListener("change", function() {
 
   </section>
 
-  <section>
+<section>
     <h2>Design Rationale</h2>
     <p>
       <em>[How did you choose your particular visual encodings and interaction techniques? What alternatives did you consider and how did you arrive at your ultimate choices?]</em>
@@ -1373,7 +1373,8 @@ teamSelect.addEventListener("change", function() {
     </p><p>Each of these questions might be addressed for a given game, or over the course of several games in the tournament. We now explain how our design decisions were guided by these considerations.
     </p>
 
-    <h4>Scatterplots</h3>
+    <h3>Scatterplots</h3>
+	<li>Scatterplots: can see individual players, can brush to connect them (compare performance on various shot types)</li>
 
     <p>At the top of the dashboard are several scatterplots showing <strong>number of shots taken</strong> vs. <strong>success rate</strong> (i.e. number of goals / number of shots, as a percentage). Each dot corresponds to one or more players; dots are sized according to the number of players they represent. Design considerations included:
 	<ul>
@@ -1392,18 +1393,13 @@ teamSelect.addEventListener("change", function() {
 
 
 
-    <h4>Timelines</h3>
-
-
-
-
-
+    <h3>Timelines</h3>
+	<p>We chose strip plots as a way to visualize shot attempts and successes as each game progressed. Rather than a single strip plot per game, we chose to separate them by quarter. One advantage of this separation is to more easily distinguish playing strategies at the quarterly level. A blue/red color encoding for current team selected and their opponent parallels the color choice of the current team in the scatterplots and makes clear the contrast between the two teams. This contrast is furthered by having the strip plot of shot events on a shared horizontal time axis but separated vertically. To help consolidate information, a tooltip is available for each event on the strip plot indicating player name, cap number, and time of event. We used the standard timing conventions of the sport: times are kept at the quartery level and count down from 8:00 to 0:00. We felt the exact game time is not as important as sequential nature and rough time in quarter, so generally okay to leave out details on the time axis.</p>
 
 	<ul>
 	<li>Color: blue/grey easily distinguishable, grey for opponent shots/goals because naturally seems like background
 	<li>Small multiples of timelines and scatter plots: simple to understand the rest after understanding one</li>
-	<li>Scatterplots: can see individual players, can brush to connect them (compare performance on various shot types)</li>
-	<li>Timelines: strip plots to visualize when the most action was occurring, when goals were scored. To avoid clutter, show the details of shots as tooltips (name, number, shot type, exact time). Exact time not as important as sequential nature and rough time in quarter, so generally okay to leave out details on the time axis.</li>
+	<li>Timelines: strip plots to visualize when the most action was occurring, when goals were scored. To avoid clutter, show the details of shots as tooltips (name, number, shot type, exact time). </li>
 	</ul>
   </section>
 
@@ -1415,9 +1411,24 @@ teamSelect.addEventListener("change", function() {
 	<ul>
 	<li> Data wrangling - Brian </li>
 	<li> Design prototyping - Kellie and everyone (Kellie for water polo knowledge and drawing up designs, everyone for discussing and planning those designs)</li>
-	<li> D3 static visualization - Ben </li>
-	<li> Interactive components - </li>
+	<li> D3 static visualization - Ben</li>
+	<li> Interactive components - Everyone?</li>
+	<li> Vega static visualization - Abe</li>
 	</ul>
+
+	<h3>Data wrangling</h3>
+	<p>
+		The data that powers our visualization is derived from the "Play by play" documents provided by <a href="http://waterpolo.sportresult.com/WCH2017/res.asp">Omega</a>. Corresponding to each game is a pdf file with a table listing important actions taken by players on either team and when the actions were taken. Since a great number of games are catalogued on Omega's website, we wanted to automate as much of the data collection process as possible. We also reasoned that going through the trouble of automating things for this assignment could save us time in the future should we decide to expand upon our visualization for the final project. <br><br>
+
+		Automating the extraction of data from the pdfs proved difficult. Getting this step working smoothly took roughly 12 hours. We used a <a href="https://github.com/chezou/tabula-py">python wrapper</a> of a tool called <a href="http://tabula.technology/">Tabula</a> for pulling the tables from the pdf files. This software was useful because it interfaced nicely with Pandas, but it produced somewhat unpredictable output when the tables in the pdf files continued for more than a page. Transforming the output of Tabula into a standardized set of tables took a condiserable amount of effort. <br><br>
+
+		Additional work had to be done to map the raw tables pulled from the pdf files into something our visualization could use directly. We wrote code to automatically produce files summarizing when shots were taken for each team, files summarizing how many attempts and goals players on the teams made in different games, a list of all the teams that played in a tournament in a given year, and others. To ensure reproducibility and future ease-of-use, the work flow was encapsulated in a comprehensive Make file. Writing and testing this code required around 13 hours.
+	</p>
+
+	<h3>Vega static visualization</h3>
+	<p>
+		The beginning stages of the development process involved choosing to do this assignment in D3 or Vega. We drafted static visualizations in both languages but moved forward only in D3. This visualization took about 3 hours to create.
+	</p>
 
   </section>
 
