@@ -6,19 +6,19 @@
 * { padding: 0; margin: 0; }
 
 body {
-  margin: 0 auto 0 auto;
-  padding: 0;
-  max-width: 1200px;
-  font-family: "Avenir", "Avenir Next", Helvetica Neue, Arial;
-  font-size: 0.95em;
+	margin: 0 auto 0 auto;
+	padding: 0;
+	max-width: 1200px;
+	font-family: "Avenir", "Avenir Next", Helvetica Neue, Arial;
+	font-size: 0.95em;
 }
 
 a, a:visited { text-decoration: none; color: #7533f4; }
 a:hover { text-decoration: underline; color: #f4b014; }
 
 ol {
-  margin-left: 30px;
-  padding: 15 15 15px 15;
+	margin-left: 30px;
+	padding: 15 15 15px 15;
 }
 
 ol li
@@ -27,8 +27,8 @@ ol li
 }
 
 /* ul{
-  margin-left: 30px;
-  padding: 15 15 5px 15;
+	margin-left: 30px;
+	padding: 15 15 5px 15;
 }
 
 ul li
@@ -45,13 +45,13 @@ ul {
 }
 
 h1, h2, h3, h4, h5 {
-  color: #492a7c;
-  background-color: inherit;
-  font-weight: normal;
-  padding: 0 0 5px 0;
-  margin: 15px 0 0 0;
-  border: none;
-  clear: right;
+	color: #492a7c;
+	background-color: inherit;
+	font-weight: normal;
+	padding: 0 0 5px 0;
+	margin: 15px 0 0 0;
+	border: none;
+	clear: right;
 }
 h1 { font-size: 24pt; margin:  5px 0 10px 0; line-height: 28px; }
 h2 { font-size: 14pt; margin: 30px 0 15px 0; letter-spacing: 0.01em; border-bottom: 1px solid #ccc;  line-height: 20px;}
@@ -61,45 +61,45 @@ h5 { font-size: 11pt; }
 p { margin: 0 0 10px 0; }
 
 .content {
-  margin: 0;
-  padding: 15px 20px;
-  background-color: #ffffff;
+	margin: 0;
+	padding: 15px 20px;
+	background-color: #ffffff;
 }
 
 .title, .title h1, .title a {
-  color: #492a7c;
-  font-size: 24pt;
-  margin-bottom: 20px;
-  margin-top: 5px;
+	color: #492a7c;
+	font-size: 24pt;
+	margin-bottom: 20px;
+	margin-top: 5px;
 }
 
 .footer {
-  border-top: 1px solid #ccc;
-  margin-top: 30px;
-  padding-top: 4px;
-  text-align: right;
-  font-size: 12px;
+	border-top: 1px solid #ccc;
+	margin-top: 30px;
+	padding-top: 4px;
+	text-align: right;
+	font-size: 12px;
 }
 .footer a {
-  color: #21346B;
+	color: #21346B;
 }
 .footer a:hover {
-  color: #ce3333;
+	color: #ce3333;
 }
   </style>
 <style>
 body {
-  font: 11px sans-serif;
-  font-family: Tahoma;
-  margin:0px;
+	font: 11px sans-serif;
+	font-family: Tahoma;
+	margin:0px;
 }
 
 #sidebar h1{
-  font-size: 14pt;
+	font-size: 18pt;
 }
 
 .axis {
-  font-size:10pt;
+	font-size:10pt;
 }
 .axis path,
 .axis line {
@@ -149,7 +149,7 @@ body {
 }
 
 .legend {
-  background-color: coral;
+	background-color: coral;
 }
 
 .scatterdotLegend {
@@ -166,34 +166,34 @@ body {
 }
 
 .finalScoreThis {
-  font-size:12pt;
-  font-weight:bold;
-  fill: #4056a1;
+	font-size:12pt;
+	font-weight:bold;
+	fill: #4056a1;
 }
 
 .finalScoreOpponent {
-  font-size:12pt;
-  font-weight:bold;
-  fill: #f13c20;
-  opacity:0.8;
+	font-size:12pt;
+	font-weight:bold;
+	fill: #f13c20;
+	opacity:0.8;
 }
 
 .tooltip {
-  position: absolute;
-  background: cornsilk;
-  pointer-events: none;
-  padding:5px;
-  border: BlanchedAlmond 1px solid;
+	position: absolute;
+	background: cornsilk;
+	pointer-events: none;
+	padding:5px;
+	border: BlanchedAlmond 1px solid;
 }
 
 .areaWin {
-  fill: #4056a1;
-  opacity:.25;
+	fill: #4056a1;
+	opacity:.25;
 }
 
 .areaLose {
-  fill: #f13c20;
-  opacity: .25;
+	fill: #f13c20;
+	opacity: .25;
 }
 
 
@@ -234,11 +234,11 @@ body {
 <body>
 <div class="content">
 
-  <section class="title">
-    <a href="/">Women's Water Polo Offense Visualizer</a>
-  </section>
+<section class="title">
+<a href="#">Women's Water Polo Offense Visualizer</a>
+</section>
 
-  <section>
+<section>
 <svg id="poloVis"></svg>
 
 <div id="sidebar" style="display:inline-block; vertical-align:top; ">
@@ -270,7 +270,24 @@ Click on a timeline to view data for that game.
 <script>
 
 var teamCodes = ["FRA","USA","ESP","NED","CHN","AUS","GRE","CAN","KAZ","NZL","JPN","HUN","RSA","ITA","RUS","BRA"];
-var teamDecodes = {"USA":"United States", "RUS":"Russia", "NZL":"New Zealand", "ESP":"Spain", "BRA":"Brazil"};
+var teamDecodes = {
+"FRA":"France",
+"USA":"United States",
+"ESP":"Spain",
+"NED":"Netherlands",
+"CHN":"China",
+"AUS":"Australia",
+"GRE":"Greenland",
+"CAN":"Canada",
+"KAZ":"Kazakhstan",
+"NZL":"New Zealand",
+"JPN":"Japan",
+"HUN":"Hungary",
+"RSA":"South Africa",
+"ITA":"Italy",
+"RUS":"Russia",
+"BRA":"Brazil"
+};
 var allPoloDatas = [];
 var allShotSummaryDatas = [];
 
@@ -1250,7 +1267,7 @@ function init() {
 	//console.log(JSON.stringify(allShotSummaryDatas[0]).replace(/},{/g,"},\n\n{"));
 	for(var ii=0; ii<teamCodes.length; ii++) {
 		var opt = document.createElement("option");
-		opt.text = teamCodes[ii];
+		opt.text = teamDecodes[teamCodes[ii]];
 		teamSelect.add(opt);
 	}
 	teamSelect.options[0].selected = true;
