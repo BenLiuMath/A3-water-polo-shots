@@ -3,7 +3,7 @@
 Team Members:
 
 - Kellie MacPhee
-- Brian DeSilva
+- Brian de Silva
 - Abe Engle
 - Ben Liu
 
