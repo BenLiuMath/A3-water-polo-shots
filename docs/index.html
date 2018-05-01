@@ -143,7 +143,6 @@ body {
 
 .scatterdot {
 	stroke: none;
-	//fill: darkblue;
 	opacity:.55;
 	shape-rendering: geometricPrecision;
 }
@@ -154,8 +153,8 @@ body {
 
 .scatterdotLegend {
 	stroke: none;
-	fill: darkblue;
-	opacity:.55;
+	fill: #4056a1;
+	opacity:.7;
 	shape-rendering: geometricPrecision;
 }
 
@@ -653,7 +652,7 @@ function initializeScatterCharts() {
 			.attr("dy","2em")
 			.style("text-anchor", "middle")
 			.text(scatterLegendVals[nn] + " player");
-		  } else {
+		} else {
 			scatterLegend.append("text")
 			// .attr("class","axisLabel")
 			.attr("transform",
@@ -662,8 +661,8 @@ function initializeScatterCharts() {
 			.attr("dy","2em")
 			.style("text-anchor", "middle")
 			.text(scatterLegendVals[nn] + " players");
-		  }
 		}
+	}
 
 		scatterLegend.append("path")
 			.attr("class","ratioLine")
@@ -706,7 +705,7 @@ for(var nn=0; nn<scatterCharts.length; nn++) {
 	shotextent[0] = Math.min(shotextent[0],0);
 
 	var shotrange = shotextent[1] - shotextent[0];
-	var lim = [shotextent[0]-.15*shotrange, shotextent[1]+.15*shotrange];
+	var lim = [shotextent[0]-.05*shotrange, shotextent[1]+.05*shotrange];
 
 	// Establish y-scale
 	var shots = d3.scaleLinear()
@@ -808,12 +807,12 @@ for(var nn=0; nn<scatterCharts.length; nn++) {
 			if(d.players.filter( (p) => { return playerFilter.includes(p);	}).length>0) {
 				return "#41b6c4";
 			} else {
-				return "darkblue";
+				return "#4056a1";
 			}})
         .transition()
         .delay(100)
         .duration(200)
-        .style("opacity",0.55);
+        .style("opacity",.7);
 }
 }
 
@@ -827,7 +826,7 @@ for(var nn=0; nn<shotTypes.length; nn++) {
 			if(d.players.filter( (p) => { return playerFilter.includes(p);	}).length>0) {
 				return "#41b6c4";
 			} else {
-				return "darkblue";
+				return "#4056a1";
 			}});
 }
 }
