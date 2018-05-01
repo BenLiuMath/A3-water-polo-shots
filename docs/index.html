@@ -1403,114 +1403,144 @@ teamSelect.addEventListener("change", function() {
 
 
 <section>
-  <p>
-    <strong>Designed &amp; Built By:</strong> Brian de Silva, Abe Engle, Ben Liu, and Kellie MacPhee
-  </p>
+	<p>
+		<strong>Designed &amp; Built By:</strong> Brian de Silva, Abe Engle, Ben Liu, and Kellie MacPhee
+	</p>
 </section>
 
 <section>
-  <p>
-    <strong>Data Source</strong>: <a href="http://www.omegatiming.com/Sport?sport=AQ">Omega Timing</a>
-  </p>
+	<p>
+		<strong>Data Source</strong>: <a href="http://www.omegatiming.com/Sport?sport=AQ">Omega Timing</a>
+	</p>
 </section>
 
 
 <section>
-    <h2>Design Rationale</h2>
-    <p>
-      Although water polo statistics are widely kept at the level of national and international competition, they are nearly always presented in tables, and unlike in other sports, few effective visualizations of these statistics have been developed.
-      For example, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3737929/">this paper</a> contains interesting statistic analyses of water polo success based on the <a href="http://www.omegatiming.com/Sport?sport=AQ">Omega Timing data</a> from several FINA World Championships, but lacks any visual representation of its results.
-    	Inspired by the baseball statistics example from class, our goal was to build an interactive graphic that allows the viewer to explore the contributions of different players on a team, as well as team-wide patterns.
-      For the scope of this assignment, we decided to focus on offensive statistics, i.e. shots attempted (broken down by shot type) and shots scored.
-      We visualize tournament data collected by Omega Timing during the 2017 FINA Women's Water Polo World Championships, which includes teams from 16 different countries.
-        </p>
+	<h2>Design Rationale</h2>
+	<p>
+		Although water polo statistics are widely kept at the level of national and international competition, they are nearly always presented in tables, and unlike in other sports, few effective visualizations of these statistics have been developed.
+		For example, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3737929/">this paper</a> contains interesting statistic analyses of water polo success based on the <a href="http://www.omegatiming.com/Sport?sport=AQ">Omega Timing data</a> from several FINA World Championships, but lacks any visual representation of its results.
+		Inspired by the baseball statistics example from class, our goal was to build an interactive graphic that allows the viewer to explore the contributions of different players on a team, as well as team-wide patterns.
+		For the scope of this assignment, we decided to focus on offensive statistics, i.e. shots attempted (broken down by shot type) and shots scored.
+		We visualize tournament data collected by Omega Timing during the 2017 FINA Women's Water Polo World Championships, which includes teams from 16 different countries.
+	</p>
 
-        <p>For a given team/country in this tournament, questions that the audience (water polo fans, players, coaches) might want to explore include:
-    	<ol>
-    	<li>Which players are the top scorers?</li>
-    	<li>Which players perform particularly well at a given shot type?</li>
-    	<li>How did a particular player perform at the various shot types?</li>
-    	<li>How does the team-wide accuracy vary by shot type?</li>
-    	<li>How did shots and goals evolve over the course of the game? (For example, are more shots taken when the score is close? Did the winning team build up its lead steadily or finish strongly at the end?)</li>
-    	</ol>
-        </p><p>Each of these questions might be addressed for a given game, or over the course of several games in the tournament. We now explain how our design decisions were guided by these considerations.
-        </p>
+	<p>
+		For a given team/country in this tournament, questions that the audience (water polo fans, players, coaches) might want to explore include:
+		<ol>
+			<li>
+				Which players are the top scorers?
+			</li>
+			<li>
+				Which players perform particularly well at a given shot type?
+			</li>
+			<li>
+				How did a particular player perform at the various shot types?
+			</li>
+			<li>
+				How does the team-wide accuracy vary by shot type?
+			</li>
+			<li>
+				How did shots and goals evolve over the course of the game? (For example, are more shots taken when the score is close? Did the winning team build up its lead steadily or finish strongly at the end?)
+			</li>
+		</ol>
+	</p>
+	<p>
+		Each of these questions might be addressed for a given game, or over the course of several games in the tournament. We now explain how our design decisions were guided by these considerations.
+	</p>
 
-    <h4>Scatterplots</h4>
+	<h4>Scatterplots</h4>
 
-    <p>At the top of the dashboard are five scatterplots showing <strong>number of shots taken</strong> vs. <strong>success rate</strong> (i.e. number of goals / number of shots, as a percentage).
-      Each dot corresponds to one or more players; dots are sized according to the number of players they represent.
-      The purpose of these scatterplots is to easily pick out exceptional players (in terms of high number of shots and/or high succes rate on shots), and to visualize how the team performs at various types of shots.
-      For example, we expect to see a high conversion rate for extra player shots (which occur when a major foul is committed and a player is temporarily removed from the game for 20 seconds, giving the other team a 6-on-5 opportunity).
-      Similarly, we expect to see a low conversion rate for shots taken more than 5m away from the goal.
-      However, different players excel at different types of shots: for example, the centre shots are typically only taken by a small subset of the players on the team, who often have a high success rate at this type of shot.
-      With this in mind, we decided to show plots both for "all shots" and for individual shot types, allowing viewers to both "roll up" and "drill down" depending on their interests.
-      Four different shot types are plotted - six were present in the data, but the other two (counter attack and penalty shots) were sufficiently rare that they would have added very little to the visualization.
+	<p>
+		At the top of the dashboard are five scatterplots showing <strong>number of shots taken</strong> vs. <strong>success rate</strong> (i.e. number of goals / number of shots, as a percentage).
+		Each dot corresponds to one or more players; dots are sized according to the number of players they represent.
+		The purpose of these scatterplots is to easily pick out exceptional players (in terms of high number of shots and/or high succes rate on shots), and to visualize how the team performs at various types of shots.
+		For example, we expect to see a high conversion rate for extra player shots (which occur when a major foul is committed and a player is temporarily removed from the game for 20 seconds, giving the other team a 6-on-5 opportunity).
+		Similarly, we expect to see a low conversion rate for shots taken more than 5m away from the goal.
+		However, different players excel at different types of shots: for example, the centre shots are typically only taken by a small subset of the players on the team, who often have a high success rate at this type of shot.
+		With this in mind, we decided to show plots both for "all shots" and for individual shot types, allowing viewers to both "roll up" and "drill down" depending on their interests.
+		Four different shot types are plotted - six were present in the data, but the other two (counter attack and penalty shots) were sufficiently rare that they would have added very little to the visualization.
 
-      More specific considerations for the scatterplots include:
+		More specific considerations for the scatterplots include:
+		<ol>
+			<li>
+				<strong>Small multiples</strong> allow the viewer to easily understand and navigate between multiple plots.
+				The "all shots" plot is larger than the others, emphazing that this is the "big picture" plot while the others show specifics.
+			</li>
+			<li>
+				<strong>Dot size</strong> is used as an encoding for the number of players with a given number of shots and success rate.
+				This choice was in response to the fact that with a traditional scatterplot, we saw significant overplotting
+				(since the variables we are working with, i.e. number of shots and number of goals, are discrete).
+				We experimented with simply lessening the opacity (rather than changing the dot size) to make overplotting more evident,
+				but it was difficult to tell how many players were represented in a given dot with this encoding. Dot size better shows where there are significant groups of players coalescing. We also experimented with adding a small random perturbation to each point so that multiple points occupying the same position could be seen, but we decided that this gave the impression of variability in players' shot success percentages that was not actually present in the data. Furthermore, varying the dot size looks more visually appealing.
+			</li>
+			<li>
+				The dots for the chosen team are <strong>blue</strong> both in the scatterplots and in the timelines, reinforcing the fact that these correspond to the same team.
+			</li>
+			<li>
+				The <strong>team average bar in brown</strong> shows the team-wide shooting accuracy, providing a reference to identify above-average players.
+				It also provides aggregate information that isn't easily obtained from the individual dots. We chose brown because it is distinguishable from blue for color-blind viewers.
+			</li>
+			<li>
+				The choice to use <strong>percentages</strong> on the y-axis</strong> was motivated by the fact that when we originally plotted the number of goals on the y-axis instead, all of the dots fall below the 45 degree line.
+				Percentages fill the plots and make use of  the space more effectively, while also making it easy to pick out which players have high accuracy, as opposed to which players simply take more shots.
+			</li>
+			<li>
+				<strong>Tooltips</strong> containing player names and number of shots taken vs. made appear when the viewer hovers over a dot in the scatter plot.
+				This allows viewers  to obtain more information about outliers in the plots, without the need for cluttering the plots with more information. The tooltips also make it easy to identify individual players who may then be selected on the roster to the right of the graphic for further investigation.
+				The tooltips fade in and out to make their appearance and disappearance more natural.
+			</li>
+			<li>
+				We implemented <strong>transitions</strong> so that when the scatterplot data is updated (due to a change in either the team selected or the games selected),
+				the viewer's sense of object permanence isn't violated by a sudden change.
+				The brown team average lines move linearly as they update, but the dots themselves fade out and then back in, since they can correspond to completely different groups of players when the data changes.
+				(This is true even when the team stays the same, due to our encoding of multiple players with a single, larger dot.)
+			</li>
+		</ol>
+	</p>
+
+
+	<h4>Timelines</h4>
+	<p>
+		In the lower portion of the dashboard are six timelines, broken up by quarter, which show when all of the shots and goals occurred throughout each game.
+		The area plots show the number of goals that each team has at any given time (normalized by the maximum score over the two teams), so that the viewers
+		can see how the goals are accumulating over time.
+
+		More specific considerations for the timelines include:
+	</p>
+
 	<ol>
-	    <li>
-	    	<strong>Small multiples</strong> allow the viewer to easily understand and navigate between multiple plots.
-		    The "all shots" plot is larger than the others, emphazing that this is the "big picture" plot while the others show specifics.
-	  	</li>
 		<li>
-			<strong>Dot size</strong> is used as an encoding for the number of players with a given number of shots and success rate.
-		    This choice was in response to the fact that with a traditional scatterplot, we saw significant overplotting
-		    (since the variables we are working with, i.e. number of shots and number of goals, are discrete).
-		    We experimented with simply lessening the opacity (rather than changing the dot size) to make overplotting more evident,
-		    but it was difficult to tell how many players were represented in a given dot with this encoding. Dot size better shows where there are significant groups of players coalescing. We also experimented with adding a small random perturbation to each point so that multiple points occupying the same position could be seen, but we decided that this gave the impression of variability in players' shot success percentages that was not actually present in the data. Furthermore, varying the dot size looks more visually appealing.
+			We chose <strong>strip plots</strong> as a way to visualize shot attempts and successes as each game progressed, since this is a time series characterized by a binary variable.
+			Empty/filled circles echo the shape of a water polo ball, and intuitively correspond to missed/made shots.
 		</li>
 		<li>
-			The dots for the chosen team are <strong>blue</strong> both in the scatterplots and in the timelines, reinforcing the fact that these correspond to the same team.
-		<li>
-			The <strong>team average bar in brown</strong> shows the team-wide shooting accuracy, providing a reference to identify above-average players.
-			It also provides aggregate information that isn't easily obtained from the individual dots. We chose brown because it is distinguishable from blue for color-blind viewers.
+			In the timelines as well, we utilize <strong>small multiples</strong> so that comparisons across games can easily be made by the viewer.
 		</li>
 		<li>
-			The choice to use <strong>percentages</strong> on the y-axis</strong> was motivated by the fact that when we originally plotted the number of goals on the y-axis instead, all of the dots fall below the 45 degree line.
-		    Percentages fill the plots and make use of  the space more effectively, while also making it easy to pick out which players have high accuracy, as opposed to which players simply take more shots.
+			Rather than a single strip plot per game, we chose to <strong>separate them by quarter</strong>. One advantage of this separation is to more easily distinguish playing strategies at the quarterly level.Becuase of the distinct breaks between quarters, visually chunking time in this way is intuitive.
+			Shots that occur at the very end of Quarter 1 and the very beginning of Quarter 2, for example, should not be depicted as adjacent in time, since the playing time is not continuous.
 		</li>
 		<li>
-			<strong>Tooltips</strong> containing player names and number of shots taken vs. made appear when the viewer hovers over a dot in the scatter plot.
-		    This allows viewers  to obtain more information about outliers in the plots, without the need for cluttering the plots with more information. The tooltips also make it easy to identify individual players who may then be selected on the roster to the right of the graphic for further investigation.
-	    The tooltips fade in and out to make their appearance and disappearance more natural.
+			A <strong>blue/red color encoding</strong> for current team selected and their opponent parallels the color choice of the current team in the scatterplots and makes clear the contrast between the two teams.
+			This contrast is furthered by having the strip plot of shot events on a shared horizontal time axis but separated vertically.
+			We chose blue and red becuase they are easily distinguishable for common forms of color blindness, and because these colors appear frequently in the country flags, which makes for a pleasant visual aesthetic without too many clashing colors.
 		</li>
-	    <li>
-	    	We implemented <strong>transitions</strong> so that when the scatterplot data is updated (due to a change in either the team selected or the games selected),
-			the viewer's sense of object permanence isn't violated by a sudden change.
-			The brown team average lines move linearly as they update, but the dots themselves fade out and then back in, since they can correspond to completely different groups of players when the data changes.
-			(This is true even when the team stays the same, due to our encoding of multiple players with a single, larger dot.)
-	  	</li>
-    </ol>
-    </p>
-
-
-    <h4>Timelines</h4>
-	<p>In the lower portion of the dashboard are six timelines, broken up by quarter, which show when all of the shots and goals occurred throughout each game.
-    The area plots show the number of goals that each team has at any given time (normalized by the maximum score over the two teams), so that the viewers
-    can see how the goals are accumulating over time.
-
-    More specific considerations for the timelines include:
-  	</p>
-
-	<ol>
-    <li>We chose <strong>strip plots</strong> as a way to visualize shot attempts and successes as each game progressed, since this is a time series characterized by a binary variable.
-      Empty/filled circles echo the shape of a water polo ball, and intuitively correspond to missed/made shots.</li>
-    <li>In the timelines as well, we utilize <strong>small multiples</strong> so that comparisons across games can easily be made by the viewer.</li>
-    <li>Rather than a single strip plot per game, we chose to <strong>separate them by quarter</strong>. One advantage of this separation is to more easily distinguish playing strategies at the quarterly level.Becuase of the distinct breaks between quarters, visually chunking time in this way is intuitive.
-      Shots that occur at the very end of Quarter 1 and the very beginning of Quarter 2, for example, should not be depicted as adjacent in time, since the playing time is not continuous.</li>
-	<li>A <strong>blue/red color encoding</strong> for current team selected and their opponent parallels the color choice of the current team in the scatterplots and makes clear the contrast between the two teams.
-    This contrast is furthered by having the strip plot of shot events on a shared horizontal time axis but separated vertically.
-    We chose blue and red becuase they are easily distinguishable for common forms of color blindness, and because these colors appear frequently in the country flags, which makes for a pleasant visual aesthetic without too many clashing colors.</li>
-	<li>To help consolidate information, a <strong>tooltip</strong> is available for each event on the strip plot indicating player name, cap number, and time of event.
-    We used the standard timing conventions of the sport: times are kept at the quarterly level and count down from 8:00 to 0:00.
-    The country flags are added to the tooltips to make it clear which team you are selecting, since the dots appear close together.
-    We felt the exact game time is not as important as sequential nature and rough time in quarter, so generally okay to leave out details on the time axis.</li>
-    <li>Timlines are grayed out until selected. A nice interactive element here is that <strong>clicking on a timeline</strong> adds that game's data to the scatterplots, along with showing the timeline.</li>
-    <li>Finally, the score of the game at the end of the fourth quarter is shown to the right of the timeline.
-      One thing to note is that games which appear to end in a tie actually went into a penalty shootout after the fourth quarter.
-      We decided for the scope of this assignment, though, to only show shots and goals that occurred during active play.
-      In the future, we might incorporate information about the shootouts.</li>
+		<li>
+			To help consolidate information, a <strong>tooltip</strong> is available for each event on the strip plot indicating player name, cap number, and time of event.
+			We used the standard timing conventions of the sport: times are kept at the quarterly level and count down from 8:00 to 0:00.
+			The country flags are added to the tooltips to make it clear which team you are selecting, since the dots appear close together.
+			We felt the exact game time is not as important as sequential nature and rough time in quarter, so generally okay to leave out details on the time axis.
+		</li>
+		<li>
+			Timlines are grayed out until selected. A nice interactive element here is that <strong>clicking on a timeline</strong> adds that game's data to the scatterplots, along with showing the timeline.
+		</li>
+		<li>
+			Finally, the score of the game at the end of the fourth quarter is shown to the right of the timeline.
+			One thing to note is that games which appear to end in a tie actually went into a penalty shootout after the fourth quarter.
+			We decided for the scope of this assignment, though, to only show shots and goals that occurred during active play.
+			In the future, we might incorporate information about the shootouts.
+		</li>
 	</ol>
 
 	<h4>Other interactive elements</h4>
@@ -1525,10 +1555,10 @@ teamSelect.addEventListener("change", function() {
 	</ol>
 
 
-  </section>
+</section>
 
-  <section>
-    <h2>Design &amp; Development Process</h2>
+<section>
+	<h2>Design &amp; Development Process</h2>
 
 	<h4>Brian: data wrangling</h4>
 	<p>
@@ -1546,116 +1576,116 @@ teamSelect.addEventListener("change", function() {
 		The beginning stages of the development process involved choosing to do this assignment in D3 or Vega. We drafted static visualizations in both languages but moved forward only in D3. This visualization took about 3 hours to create. The most challenging part of the assignment to me was understanding how Javascript and web programming worked and how general interactivity worked in D3. Integrating code to make flags change when new teams are selected and average bars reposition and recalculate when new players were selected took most of my time. I spent about 12 hours on the interactivity portion of the assignment.
 	</p>
 
-  <h4>Ben</h4>
+	<h4>Ben</h4>
 
-  Ben was the most familiar with JavaScript and so did most of the early development work and focused on three main tasks:
+	Ben was the most familiar with JavaScript and so did most of the early development work and focused on three main tasks:
 
-  <h5>D3 static visualization</h5>
-  After meeting in-person we developed a prototype static visualization. The initial visualization was crude and did not incorporate intentional design choices, but gave us a better idea of sizes and proportions of elements and the appearance of marks. The development of this initial version took about 8-10 hours, including learning the basics of D3 without any prior knowledge apart from attending the tutorial and being very familiar with JavaScript.
+	<h5>D3 static visualization</h5>
+	After meeting in-person we developed a prototype static visualization. The initial visualization was crude and did not incorporate intentional design choices, but gave us a better idea of sizes and proportions of elements and the appearance of marks. The development of this initial version took about 8-10 hours, including learning the basics of D3 without any prior knowledge apart from attending the tutorial and being very familiar with JavaScript.
 
-  Revisions on the original design included
-  <ul>
-  <li>
-  Splitting the timelines into individual quarters.
-  </li>
-  <li>
-  Adding area plots to denote the scores of the two teams.
-  </li>
-  <li>
-  Switching the appearance of the timelines from a strip plot or barcode plot to open circles for missed shots and filled circles for goals.
-  </li>
-  <li>
-  Aggregating all players with the same number of shots made / attempted into larger circles that aggregate all relevant players.
-  </li>
-  </ul>
+	Revisions on the original design included
+	<ul>
+		<li>
+			Splitting the timelines into individual quarters.
+		</li>
+		<li>
+			Adding area plots to denote the scores of the two teams.
+		</li>
+		<li>
+			Switching the appearance of the timelines from a strip plot or barcode plot to open circles for missed shots and filled circles for goals.
+		</li>
+		<li>
+			Aggregating all players with the same number of shots made / attempted into larger circles that aggregate all relevant players.
+		</li>
+	</ul>
 
-  <h5>Data update and redraw</h5>
-  Our visualization requires redrawing for a number of reasons:
-  <ul>
-  <li>
-  The visualization is team-centric: it displays data for a single team. To learn about multiple teams, the user chooses a different team, which refreshes the data set and redraws the visualization.
-  </li>
-  <li>
-  The scatter plots only show data for those timelines that are selected.
-  </li>
-  <li>
-  Selecting players in the team roster list udpates the scatter plots and timelines to highlight data marks that correspond to the selected players.
-  </li>
-  </ul>
-  Some specific implementation details include:
-  <ul>
-  <li>
-  Scatter chart dots are removed rather than updated. Updates cause the dots to move in space, which gives the false impression that players are moving. In principle we would like to update the dots by updating their sizes, but this is difficult in practice because the number and order of the dots changes with the data. Points corresponding to single players could move, but not all points correspond to individual players.
-  </li>
-  <li>
-  Average shot success lines are updated so that they move between old and new position, so that they do not produce a distracting flash.
-  </li>
-  <li>
-  Marks on the scatter charts and timelines are updated when player selections are altered so that the symbols do not produce a distracting flash.
-  </li>
-  </ul>
+	<h5>Data update and redraw</h5>
+	Our visualization requires redrawing for a number of reasons:
+	<ul>
+		<li>
+			The visualization is team-centric: it displays data for a single team. To learn about multiple teams, the user chooses a different team, which refreshes the data set and redraws the visualization.
+		</li>
+		<li>
+			The scatter plots only show data for those timelines that are selected.
+		</li>
+		<li>
+			Selecting players in the team roster list udpates the scatter plots and timelines to highlight data marks that correspond to the selected players.
+		</li>
+	</ul>
+	Some specific implementation details include:
+	<ul>
+		<li>
+			Scatter chart dots are removed rather than updated. Updates cause the dots to move in space, which gives the false impression that players are moving. In principle we would like to update the dots by updating their sizes, but this is difficult in practice because the number and order of the dots changes with the data. Points corresponding to single players could move, but not all points correspond to individual players.
+		</li>
+		<li>
+			Average shot success lines are updated so that they move between old and new position, so that they do not produce a distracting flash.
+		</li>
+		<li>
+			Marks on the scatter charts and timelines are updated when player selections are altered so that the symbols do not produce a distracting flash.
+		</li>
+	</ul>
 
-  Many of these features were developed in parallel with the code maintenance described below. Around 6 hours were spent puzzling out how to properly handle data updates.
+	Many of these features were developed in parallel with the code maintenance described below. Around 6 hours were spent puzzling out how to properly handle data updates.
 
-  <h5>Code integrity</h5>
-<p>
-  As with all software development, maintaining good code structure is vital for the development, maintenance, and longevity of the project. After the initial prototyping was done, all members of the team began contributing to and modifying the visualization. A good deal of time was spent modifying, modularizing, and refactoring code. This was an ongoing process that accounted for around 6 hours.
-</p>
-
-<h5>Sources and code references</h5>
-<ul>
-<li>
-Scatter plot with tool tip -
-<a href="http://bl.ocks.org/weiglemc/6185069">http://bl.ocks.org/weiglemc/6185069</a>
-</li>
-<li>
-Scatter plot cross-matrix -
-<a href="https://bl.ocks.org/mbostock/4063663">https://bl.ocks.org/mbostock/4063663</a>
-</li>
-<li>
-Grouping data -
-<a href="http://learnjsdata.com/group_data.html">http://learnjsdata.com/group_data.html</a>
-</li>
-<li>
-How to load data in v4 -
-<a href="https://fabiofranchino.com/blog/d3js-v4-round2/">https://fabiofranchino.com/blog/d3js-v4-round2/</a>
-</li>
-<li>
-Multiple line plots
-<a href="http://bl.ocks.org/d3noob/5987480#data1.csv">http://bl.ocks.org/d3noob/5987480#data1.csv</a>
-</li>
-<li>
-Filled area plot
-<a href="https://bl.ocks.org/d3noob/119a138ef9bd1d8f0a8d57ea72355252">https://bl.ocks.org/d3noob/119a138ef9bd1d8f0a8d57ea72355252</a>
-</li>
-<li>
-Create select menu options
-<a href="http://bl.ocks.org/jfreels/6734823">http://bl.ocks.org/jfreels/6734823</a>
-</li>
-</ul>
-
-  <h4>Kellie: design, general water polo knowledge, legend, layout, misc. other tasks</h4>
+	<h5>Code integrity</h5>
 	<p>
-    Kellie was the only team member with water polo experience, and thus took the lead on the inital design discussions and served as a reference throughout.
-    Our initial design discussions, plus drawing up sketches of the details of these designs (and then making revisions as we went along), totaled about 6 hours of work.
-    Working on the overall layout of the graphic, including the side-bar on the right, as well as misc. visual decisions such as color choices, totaled about 3 hours.
-    Putting the legend together took about 5 hours, and was the most time-consuming individual task, largely because of frustrations with learning D3.
-     Miscellaneous other tasks, including getting everything up and running on GitHub pages, and writing up our design rationale, totaled about 6 hours and rounded out Kellie's contributions to the project.
-  </p>
+		As with all software development, maintaining good code structure is vital for the development, maintenance, and longevity of the project. After the initial prototyping was done, all members of the team began contributing to and modifying the visualization. A good deal of time was spent modifying, modularizing, and refactoring code. This was an ongoing process that accounted for around 6 hours.
+	</p>
 
-  <p>
-    We shared a prototype of this visualization with several U.W. water polo players, and got strong positive feedback which was encouraging!
-    We're hoping to share a polished version with the water polo community after wrapping up this assignment, and incorporating feedback from the peer review.
-  </p>
+	<h5>Sources and code references</h5>
+	<ul>
+		<li>
+			Scatter plot with tool tip -
+			<a href="http://bl.ocks.org/weiglemc/6185069">http://bl.ocks.org/weiglemc/6185069</a>
+		</li>
+		<li>
+			Scatter plot cross-matrix -
+			<a href="https://bl.ocks.org/mbostock/4063663">https://bl.ocks.org/mbostock/4063663</a>
+		</li>
+		<li>
+			Grouping data -
+			<a href="http://learnjsdata.com/group_data.html">http://learnjsdata.com/group_data.html</a>
+		</li>
+		<li>
+			How to load data in v4 -
+			<a href="https://fabiofranchino.com/blog/d3js-v4-round2/">https://fabiofranchino.com/blog/d3js-v4-round2/</a>
+		</li>
+		<li>
+			Multiple line plots
+			<a href="http://bl.ocks.org/d3noob/5987480#data1.csv">http://bl.ocks.org/d3noob/5987480#data1.csv</a>
+		</li>
+		<li>
+			Filled area plot
+			<a href="https://bl.ocks.org/d3noob/119a138ef9bd1d8f0a8d57ea72355252">https://bl.ocks.org/d3noob/119a138ef9bd1d8f0a8d57ea72355252</a>
+		</li>
+		<li>
+			Create select menu options
+			<a href="http://bl.ocks.org/jfreels/6734823">http://bl.ocks.org/jfreels/6734823</a>
+		</li>
+	</ul>
+
+	<h4>Kellie: design, general water polo knowledge, legend, layout, misc. other tasks</h4>
+	<p>
+		Kellie was the only team member with water polo experience, and thus took the lead on the inital design discussions and served as a reference throughout.
+		Our initial design discussions, plus drawing up sketches of the details of these designs (and then making revisions as we went along), totaled about 6 hours of work.
+		Working on the overall layout of the graphic, including the side-bar on the right, as well as misc. visual decisions such as color choices, totaled about 3 hours.
+		Putting the legend together took about 5 hours, and was the most time-consuming individual task, largely because of frustrations with learning D3.
+		Miscellaneous other tasks, including getting everything up and running on GitHub pages, and writing up our design rationale, totaled about 6 hours and rounded out Kellie's contributions to the project.
+	</p>
+
+	<p>
+		We shared a prototype of this visualization with several U.W. water polo players, and got strong positive feedback which was encouraging!
+		We're hoping to share a polished version with the water polo community after wrapping up this assignment, and incorporating feedback from the peer review.
+	</p>
 
 
 
-  </section>
+</section>
 
-  <div class="footer">
-    <a href="https://cse512-18s.github.io/">CSE 512 Data Visualization</a> -
-    <a href="http://www.washington.edu">University of Washington</a>
-  </div>
+	<div class="footer">
+		<a href="https://cse512-18s.github.io/">CSE 512 Data Visualization</a> -
+		<a href="http://www.washington.edu">University of Washington</a>
+	</div>
 
 </div>
 </body>
