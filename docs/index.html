@@ -210,6 +210,8 @@ body {
 	cursor:pointer;
 }
 
+.timeline { cursor:pointer; }
+
 #roster { font-size:10pt; }
 #roster input {
     opacity:0.5;
@@ -341,6 +343,7 @@ var allShotSummaryDatas = [];
 var shotTypes = ["Total","Action shot","Centre shot","5m shot","Extra player shot"];
 var shotTypesDecode = ["All Shots","Action Shots","Centre Shots","Shots Outside 5m","Extra Player Shots"];
 
+var dataPath = "data_gathering/data/2017/W/processed/";
 var imgPath = "img/";
 
 //var allPoloDatas = [poloDataUSA, poloDataBRA, poloDataESP];
@@ -843,7 +846,7 @@ var quarterTime = d3.scaleLinear()
 	.rangeRound([0, timelineQuarterWidth])
 	.domain([8*60,0]);
 
-var success = d3.scaleLinear()
+var score = d3.scaleLinear()
     .rangeRound([timelineHeight,0])
     .domain([-1,1]);
 
@@ -1079,8 +1082,6 @@ var timelineLegend = svgLegend.append("g")
 }
 
 function populateTimelines() {
-//console.clear();
-
 
 for(var nn=0; nn<6; nn++) {
 	var timeline = timelines[nn];
@@ -1205,16 +1206,16 @@ for(var nn=0; nn<6; nn++) {
 		var areaWin = d3.area()
 			.curve(d3.curveStepAfter)
 			.x( (d) => { return quarterTime(d.Seconds); })
-			.y0( (d) => { return success(0); })
-			.y1( (d) => { return success(d3.max([(d[currTeamCode])/maxScore,0])); });
-			//.y1( (d) => { return success(d3.max([(d[currTeamCode] - d.Opponent)/maxScore,0])); });
+			.y0( (d) => { return score(0); })
+			.y1( (d) => { return score(d3.max([(d[currTeamCode])/maxScore,0])); });
+			//.y1( (d) => { return score(d3.max([(d[currTeamCode] - d.Opponent)/maxScore,0])); });
 
 		var areaLose = d3.area()
 			.curve(d3.curveStepAfter)
 			.x( (d) => { return quarterTime(d.Seconds); })
-			.y0( (d) => { return success(0); })
-			.y1( (d) => { return success(-d3.max([(d.Opponent)/maxScore,0])); });
-			//.y1( (d) => { return success(d3.min([(D[currTeamCode] - d.Opponent)/maxScore,0])); });
+			.y0( (d) => { return score(0); })
+			.y1( (d) => { return score(-d3.max([(d.Opponent)/maxScore,0])); });
+			//.y1( (d) => { return score(d3.min([(D[currTeamCode] - d.Opponent)/maxScore,0])); });
 
 		var scoreLineWin = quarter.selectAll(".areaWin")
 			.data([myGoals])
@@ -1255,7 +1256,7 @@ for(var nn=0; nn<6; nn++) {
 			.attr("cy", (d) => {
 				var mysign = (d.Team===currTeamCode?1:-1);
 				var isGoal = (d.Goal===1);
-			return success(mysign*shotIconDisplayLevel);
+			return score(mysign*shotIconDisplayLevel);
 			})
 			.attr("r", (d) => { return (playerFilter.includes(d.Player)?6:4); })
 			.on("mouseover", function(d) {
@@ -1350,9 +1351,9 @@ var teamCodesDupe = teamCodes.slice(0);
 function loadFiles() {
 	if(teamCodesDupe.length > 0) {
 		var myTeamCode = teamCodesDupe.shift();
-		d3.json("data_gathering/data/2017/W/processed/"+myTeamCode+"/shots.json", function(error, raw) {
+		d3.json(dataPath+myTeamCode+"/shots.json", function(error, raw) {
 			allPoloDatas.push(raw);
-			d3.json("data_gathering/data/2017/W/processed/"+myTeamCode+"/shot_summary.json", function(error, raw) {
+			d3.json(dataPath+myTeamCode+"/shot_summary.json", function(error, raw) {
 				allShotSummaryDatas.push(raw);
 				loadFiles();
 			});
@@ -1577,9 +1578,41 @@ teamSelect.addEventListener("change", function() {
   Many of these features were developed in parallel with the code maintenance described below. Around 6 hours were spent puzzling out how to properly handle data updates.
   
   <h5>Code integrity</h5>
+<p>
   As with all software development, maintaining good code structure is vital for the development, maintenance, and longevity of the project. After the initial prototyping was done, all members of the team began contributing to and modifying the visualization. A good deal of time was spent modifying, modularizing, and refactoring code. This was an ongoing process that accounted for around 6 hours.
+</p>
 
-  </p>
+<h5>Sources and code references</h5>
+<ul>
+<li>
+Scatter plot with tool tip - 
+<a href="http://bl.ocks.org/weiglemc/6185069">http://bl.ocks.org/weiglemc/6185069</a>
+</li>
+<li>
+Scatter plot cross-matrix - 
+<a href="https://bl.ocks.org/mbostock/4063663">https://bl.ocks.org/mbostock/4063663</a>
+</li>
+<li>
+Grouping data - 
+<a href="http://learnjsdata.com/group_data.html">http://learnjsdata.com/group_data.html</a>
+</li>
+<li>
+How to load data in v4 - 
+<a href="https://fabiofranchino.com/blog/d3js-v4-round2/">https://fabiofranchino.com/blog/d3js-v4-round2/</a>
+</li>
+<li>
+Multiple line plots
+<a href="http://bl.ocks.org/d3noob/5987480#data1.csv">http://bl.ocks.org/d3noob/5987480#data1.csv</a>
+</li>
+<li>
+Filled area plot
+<a href="https://bl.ocks.org/d3noob/119a138ef9bd1d8f0a8d57ea72355252">https://bl.ocks.org/d3noob/119a138ef9bd1d8f0a8d57ea72355252</a>
+</li>
+<li>
+Create select menu options
+<a href="http://bl.ocks.org/jfreels/6734823">http://bl.ocks.org/jfreels/6734823</a>
+</li>
+</ul>
 
   <h4>KELLIE: drawing up sketches of our designs, general water polo knowledge, the legend, help with the layout, a good portion of the write-up, misc. other tasks</h4>
 	<p>
