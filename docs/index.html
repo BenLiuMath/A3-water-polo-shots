@@ -258,7 +258,7 @@ body {
 <body>
 <div class="content">
 <section class="title">
-<a href="#">Women's Water Polo Offense Visualizer - <i>2017 FINA World Championships</i></a>
+<a href="https://github.com/cse512-18s/A3-water-polo-shots">Women's Water Polo Offense Visualizer - <i>2017 FINA World Championships</i></a>
 </section>
 
 <section>
@@ -352,6 +352,8 @@ var allShotSummaryDatas = [];
 // data and lookup
 var shotTypes = ["Total","Action shot","Centre shot","5m shot","Extra player shot"];
 var shotTypesDecode = ["All Shots","Action Shots","Centre Shots","Shots Outside 5m","Extra Player Shots"];
+// maybe remove 2
+var shotTypesDecode2 = ["All Shots","Action Shots","Center Shots","Shots Outside 5m","Extra Player Shots"];
 
 var dataPath = "data_gathering/data/2017/W/processed/";
 var imgPath = "img/";
@@ -501,6 +503,16 @@ function populateSelectors() {
 * Data filtering and processing functions
 */
 {
+function toCenterShot(text)
+{
+	if (text == "Centre shot")
+    {
+    	return "Center shot";
+    }
+    else { return text;
+    }
+}
+
 function toTitleCase(text) {
   // Assumes data comes in the form "LASTNAME FIRSTINITIAL"
   [token1, token2, token3] = text.split(" ")
@@ -597,7 +609,8 @@ function initializeScatterCharts() {
 			.attr("transform",`translate(${mywidth/2},0)`)
 			.attr("dy","-.1em")
 			.style("text-anchor", "middle")
-			.text(shotTypesDecode[nn]);
+			// .text(shotTypesDecode[nn]);
+			.text(shotTypesDecode2[nn]); // maybe remove
 
 		var probability = d3.scaleLinear().rangeRound([myheight,0])
 			.domain([-.1, 1.1]);
@@ -1274,7 +1287,8 @@ for(var nn=0; nn<6; nn++) {
 				.duration(200)
 				.style("opacity", 1.0);
 				tooltip.html(
-          d.Action + ", " + d.Time + "<br>"
+          toCenterShot(d.Action) + ", " + d.Time + "<br>"
+          //d.Action + ", " + d.Time + "<br>"
           + ' <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'
           + " #" + Math.round(d.Cap) + " " + toTitleCase(d.Player)
           // +" (" + d.Team +  ")"
@@ -1403,9 +1417,6 @@ teamSelect.addEventListener("change", function() {
 
 <section>
     <h2>Design Rationale</h2>
-    <!-- <p>
-      <em>[How did you choose your particular visual encodings and interaction techniques? What alternatives did you consider and how did you arrive at your ultimate choices?]</em>
-    </p> -->
     <p>
       Although water polo statistics are widely kept at the level of national and international competition, they are nearly always presented in tables, and unlike in other sports, few effective visualizations of these statistics have been developed.
       For example, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3737929/">this paper</a> contains interesting statistic analyses of water polo success based on the <a href="http://www.omegatiming.com/Sport?sport=AQ">Omega Timing data</a> from several FINA World Championships, but lacks any visual representation of its results.
@@ -1517,9 +1528,6 @@ teamSelect.addEventListener("change", function() {
 
   <section>
     <h2>Design &amp; Development Process</h2>
-    <!-- <p>
-      <em>[Add: An overview of your design and development process. Describe how the work was split among the team members. Include a commentary on the development process, including answers to the following questions: Roughly how much time did you spend developing your application (in people-hours)? What aspects took the most time?]</em>
-    </p> -->
 
 	<h4>Brian: data wrangling</h4>
 	<p>
