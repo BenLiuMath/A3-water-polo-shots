@@ -1445,8 +1445,9 @@ teamSelect.addEventListener("change", function() {
       Similarly, we expect to see a low conversion rate for shots taken more than 5m away from the goal.
       However, different players excel at different types of shots: for example, the centre shots are typically only taken by a small subset of the players on the team, who often have a high success rate at this type of shot.
       With this in mind, we decided to show plots both for "all shots" and for individual shot types, allowing viewers to both "roll up" and "drill down" depending on their interests.
+      Four different shot types are plotted - six were present in the data, but the other two (counter attack and penalty shots) were sufficiently rare that they would have added very little to the visualization.
 
-      More specific considerations include:
+      More specific considerations for the scatterplots include:
 	<ol>
 	    <li>
 	    	<strong>Small multiples</strong> allow the viewer to easily understand and navigate between multiple plots.
