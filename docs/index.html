@@ -75,7 +75,7 @@ p { margin: 0 0 10px 0; }
 }
 
 .instructions {
-  color: #492a7c;
+  color: black;
   font-size: 11pt;
   margin-bottom: 10px;
   margin-top: 10px;
@@ -272,7 +272,7 @@ Select a team:
 <!-- <br/><br/> -->
 <select id="teamSelector"></select>
 <section class="instructions">
-and click on one or more timelines <br/>(to the left) to view data for those<br/>games.
+and click on one or more timelines <br/>(left) to view data for those games.
 <!-- </section>
 
 <section class="instructions"> -->
@@ -359,7 +359,7 @@ var marginScatter = {top:30, right: 80, bottom:50, left:70};
 
 
 var scatterWidth, scatterHeight;
-var scatterTimelinePadding = 130;
+var scatterTimelinePadding = 150;
 
 var scatterAxesPositions = [[0,   0,   280, 210],
 							[340, 0,   140, 80],
@@ -851,7 +851,7 @@ var success = d3.scaleLinear()
 var timelines = [];
 var quarters = [];
 var timelineGroup = svg.append("g")
-	.attr("transform", `translate(${marginTimeline.left}, ${scatterOuterBoxHeight+marginTimeline.top})`);
+	.attr("transform", `translate(${marginTimeline.left}, ${scatterOuterBoxHeight+marginTimeline.top+20})`);
 
 function initializeTimelines() {
 	// Quarter labels
@@ -1377,7 +1377,7 @@ teamSelect.addEventListener("change", function() {
 
 <section>
   <p>
-    <strong>Designed &amp; Built By</strong>: Brian DeSilva, Abe<br/>Engle, Ben Liu, and Kellie MacPhee.
+    <strong>Designed &amp; Built By:</strong> Brian DeSilva, Abe Engle, Ben Liu, and Kellie MacPhee
   </p>
 </section>
 
