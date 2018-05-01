@@ -200,12 +200,14 @@ body {
 	position:absolute;
 	top:400px;
 	left:20px;
-	line-height:200px;
 	width:770px;
 	height:200px;
+	line-height:200px;
+	background:#CCCCCC;
 	text-align:center;
 	font-size:36pt;
-	background:lightgray;
+	opacity:0.7;
+	cursor:pointer;
 }
 
 #roster { font-size:10pt; }
@@ -353,11 +355,11 @@ var marginScatter = {top:30, right: 80, bottom:50, left:70};
 var scatterWidth, scatterHeight;
 var scatterTimelinePadding = 130;
 
-var scatterAxesPositions = [[0,   0,   280, 210],
-							[340, 0,   140, 80],
-							[340, 130, 140, 80],
-							[540, 0,   140, 80],
-							[540, 130, 140, 80]];
+var scatterAxesPositions = [[0,   0,   280, 270],
+							[340, 0,   140, 110],
+							[340, 160, 140, 110],
+							[540, 0,   140, 110],
+							[540, 160, 140, 110]];
 scatterHeight = scatterAxesPositions[0][3];
 scatterWidth = scatterAxesPositions[4][2] + scatterAxesPositions[4][3];
 
