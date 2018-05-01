@@ -352,6 +352,8 @@ var allShotSummaryDatas = [];
 // data and lookup
 var shotTypes = ["Total","Action shot","Centre shot","5m shot","Extra player shot"];
 var shotTypesDecode = ["All Shots","Action Shots","Centre Shots","Shots Outside 5m","Extra Player Shots"];
+// maybe remove 2
+var shotTypesDecode2 = ["All Shots","Action Shots","Center Shots","Shots Outside 5m","Extra Player Shots"];
 
 var dataPath = "data_gathering/data/2017/W/processed/";
 var imgPath = "img/";
@@ -501,6 +503,16 @@ function populateSelectors() {
 * Data filtering and processing functions
 */
 {
+function toCenterShot(text) 
+{
+	if (text == "Centre shot") 
+    {
+    	return "Center shot";
+    }
+    else { return text; 
+    } 
+}
+
 function toTitleCase(text) {
   // Assumes data comes in the form "LASTNAME FIRSTINITIAL"
   [token1, token2, token3] = text.split(" ")
@@ -597,7 +609,8 @@ function initializeScatterCharts() {
 			.attr("transform",`translate(${mywidth/2},0)`)
 			.attr("dy","-.1em")
 			.style("text-anchor", "middle")
-			.text(shotTypesDecode[nn]);
+			// .text(shotTypesDecode[nn]);
+			.text(shotTypesDecode2[nn]); // maybe remove
 
 		var probability = d3.scaleLinear().rangeRound([myheight,0])
 			.domain([-.1, 1.1]);
@@ -1274,7 +1287,8 @@ for(var nn=0; nn<6; nn++) {
 				.duration(200)
 				.style("opacity", 1.0);
 				tooltip.html(
-          d.Action + ", " + d.Time + "<br>"
+          toCenterShot(d.Action) + ", " + d.Time + "<br>"
+          //d.Action + ", " + d.Time + "<br>"
           + ' <img style="width:15px;height:9px;" src="img/' +  d.Team + '.png"></img>'
           + " #" + Math.round(d.Cap) + " " + toTitleCase(d.Player)
           // +" (" + d.Team +  ")"
