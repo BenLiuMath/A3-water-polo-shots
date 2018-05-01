@@ -710,20 +710,17 @@ for(var nn=0; nn<scatterCharts.length; nn++) {
 		.rangeRound([0, scatterAxesPositions[nn][2]])
 		.domain(lim);
 
-
-	chart.select(".axisX")
-		.transition()
-        .duration(200)
-		.call(d3.axisBottom(shots)
-			.tickFormat(d3.format("d")).ticks(2).tickSizeOuter(0));
-
     // Average lines
     var totalShotsMade = 0;
     var totalShotsAttempted = 0;
     var maxShotsMade = 1;
+    var maxAttemptsMade = 1;
     for (var i = myData.length - 1; i >= 0; i--) {
         if (maxShotsMade < myData[i].coord[0]) {
             maxShotsMade = myData[i].coord[0];
+        }
+        if (maxAttemptsMade < myData[i].coord[1]) {
+            maxAttemptsMade = myData[i].coord[1];
         }
         totalShotsMade += myData[i].coord[0];
         totalShotsAttempted += myData[i].coord[1];
@@ -731,6 +728,14 @@ for(var nn=0; nn<scatterCharts.length; nn++) {
 	var probability = scatterCharts[nn][1];
     // Remove existing lines
     //console.log(totalShotsMade);
+
+	chart.select(".axisX")
+		.transition()
+        .duration(200)
+		.call(d3.axisBottom(shots)
+			.tickFormat(d3.format("d")).ticks(Math.min(3, maxAttemptsMade)).tickSizeOuter(0));
+
+
     if(totalShotsMade>0) {
 		ratios =  totalShotsAttempted / totalShotsMade;
 
