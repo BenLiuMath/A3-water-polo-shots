@@ -1379,7 +1379,7 @@ teamSelect.addEventListener("change", function() {
 
 <section>
   <p>
-    <strong>Designed &amp; Built By:</strong> Brian DeSilva, Abe Engle, Ben Liu, and Kellie MacPhee
+    <strong>Designed &amp; Built By:</strong> Brian de Silva, Abe Engle, Ben Liu, and Kellie MacPhee
   </p>
 </section>
 
@@ -1426,25 +1426,38 @@ teamSelect.addEventListener("change", function() {
 
       More specific considerations include:
 	<ol>
-    <li><strong>Small multiples</strong> allow the viewer to easily understand and navigate between multiple plots.
-      The "all shots" plot is larger than the others, emphazing that this is the "big picture" plot while the others show specifics. </li>
-	<li><strong>Dot size</strong> is used as an encoding for the number of players with a given number of shots and success rate.
-    This choice was in response to the fact that with a traditional scatterplot, we saw significant overplotting
-    (since the variables we are working with, i.e. number of shots and number of goals, are discrete).
-    We experimented with simply lessening the opacity (rather than changing the dot size) to make overplotting more evident,
-    but it was difficult to tell how many players were represented in a given dot with this encoding. Dot size better shows where there are significant groups of players coalescing.</li>
-	<li>The dots for the chosen team are <strong>blue</strong> both in the scatterplots and in the timelines, reinforcing the fact that these correspond to the same team.
-	<li>The <strong>team average bar in brown</strong> shows the team-wide shooting accuracy, providing a reference to identify above-average players.
-    It also provides aggregate information that isn't easily obtained from the individual dots. We chose brown becuase it is distinguishable from blue for color-blind viewers.</li>
-	<li>The choice to use <strong>percentages</strong> on the y-axis</strong> was motivated by the fact that when we originally plotted the number of goals on the y-axis instead, all of the dots fall below the 45 degree line.
-    Percentages fill the plots and make use of  the space more effectively, while also making it easy to pick out which players have high accuracy, as opposed to which players simply take more shots.</li>
-	<li><strong>Tooltips</strong> containing player names and number of shots taken vs. made appear when the viewr hovers over a dot in the scatter plot.
-    This allows viewers  to obtain more information about outliers in the plots, without the need for cluttering the plots with more information.
-    The tooltips fade in and out to make their appearance and disappearance more natural.</li>
-    <li>We implemented <strong>transitions</strong> so that when the scatterplot data is updated (due to a change in either the team selected or the games selected),
-      the viewer's sense of object permanence isn't violated by a sudden change.
-      The brown team average lines move linearly as they update, but the dots themselves fade out and then back in, since they can correspond to completely different groups of players when the data changes.
-      (This is true even when the team stays the same, due to our encoding of multiple players with a single, larger dot.)</li>
+	    <li>
+	    	<strong>Small multiples</strong> allow the viewer to easily understand and navigate between multiple plots.
+		    The "all shots" plot is larger than the others, emphazing that this is the "big picture" plot while the others show specifics. 
+	  	</li>
+		<li>
+			<strong>Dot size</strong> is used as an encoding for the number of players with a given number of shots and success rate.
+		    This choice was in response to the fact that with a traditional scatterplot, we saw significant overplotting
+		    (since the variables we are working with, i.e. number of shots and number of goals, are discrete).
+		    We experimented with simply lessening the opacity (rather than changing the dot size) to make overplotting more evident,
+		    but it was difficult to tell how many players were represented in a given dot with this encoding. Dot size better shows where there are significant groups of players coalescing. We also experimented with adding a small random perturbation to each point so that multiple points occupying the same position could be seen, but we decided that this gave the impression of variability in players' shot success percentages that was not actually present in the data. Furthermore, varying the dot size looks more visually appealing.
+		</li>
+		<li>
+			The dots for the chosen team are <strong>blue</strong> both in the scatterplots and in the timelines, reinforcing the fact that these correspond to the same team.
+		<li>
+			The <strong>team average bar in brown</strong> shows the team-wide shooting accuracy, providing a reference to identify above-average players.
+			It also provides aggregate information that isn't easily obtained from the individual dots. We chose brown because it is distinguishable from blue for color-blind viewers.
+		</li>
+		<li>
+			The choice to use <strong>percentages</strong> on the y-axis</strong> was motivated by the fact that when we originally plotted the number of goals on the y-axis instead, all of the dots fall below the 45 degree line.
+		    Percentages fill the plots and make use of  the space more effectively, while also making it easy to pick out which players have high accuracy, as opposed to which players simply take more shots.
+		</li>
+		<li>
+			<strong>Tooltips</strong> containing player names and number of shots taken vs. made appear when the viewer hovers over a dot in the scatter plot.
+		    This allows viewers  to obtain more information about outliers in the plots, without the need for cluttering the plots with more information. The tooltips also make it easy to identify individual players who may the be selected on the roster to the right of the graphic for further investigation.
+	    The tooltips fade in and out to make their appearance and disappearance more natural.
+		</li>
+	    <li>
+	    	We implemented <strong>transitions</strong> so that when the scatterplot data is updated (due to a change in either the team selected or the games selected),
+			the viewer's sense of object permanence isn't violated by a sudden change.
+			The brown team average lines move linearly as they update, but the dots themselves fade out and then back in, since they can correspond to completely different groups of players when the data changes.
+			(This is true even when the team stays the same, due to our encoding of multiple players with a single, larger dot.)
+	  	</li>
     </ol>
     </p>
 
@@ -1455,11 +1468,11 @@ teamSelect.addEventListener("change", function() {
     can see how the goals are accumulating over time.
 
     More specific considerations for the timelines include:
-  </p>
+  	</p>
 
 	<ol>
     <li>We chose <strong>strip plots</strong> as a way to visualize shot attempts and successes as each game progressed, since this is a time series characterized by a binary variable.
-      Empty/filled circles echo the shape of a water polo ball, and correspond to missed/made shots.</li>
+      Empty/filled circles echo the shape of a water polo ball, and intuitively correspond to missed/made shots.</li>
     <li>In the timelines as well, we utilize <strong>small multiples</strong> so that comparisons across games can easily be made by the viewer.</li>
     <li>Rather than a single strip plot per game, we chose to <strong>separate them by quarter</strong>. One advantage of this separation is to more easily distinguish playing strategies at the quarterly level.Becuase of the distinct breaks between quarters, visually chunking time in this way is intuitive.
       Shots that occur at the very end of Quarter 1 and the very beginning of Quarter 2, for example, should not be depicted as adjacent in time, since the playing time is not continuous.</li>
@@ -1474,7 +1487,20 @@ teamSelect.addEventListener("change", function() {
     <li>Finally, the score of the game at the end of the fourth quarter is shown to the right of the timeline.
       One thing to note is that games which appear to end in a tie actually went into a penalty shootout after the fourth quarter.
       We decided for the scope of this assignment, though, to only show shots and goals that occurred during active play.</li>
-</ol>
+	</ol>
+
+	<h4>Other interactive elements</h4>
+	We added extra interactive features to deepen the level of analysis that is possible using our visualization.
+	<ol>
+		<li>
+			A <strong>team selection</strong> dropdown menu allows one to pick the team whose games are shown in the timelines and scatter plots. We decided that a dropdown menu was the appropriate tool for facilitating interaction because there are a large number of teams, meaning a full list would take up valuable page space, and because we expect users to cycle through teams relatively rarely.
+		</li>
+		<li>
+			An interactive <strong>player roster</strong> lists all the players on the selected team and helps the user visualize their contributions to the team. Clicking a player toggles a light blue dot next to their name and causes their shots to be highlighted in the same shade of blue in all the timelines and in the scatterplots. To further increase the emphasis on their shots, all their associated circles are enlarged in the timeline. Multiple player selections are also supported. The reasons we chose a light blue coloring were threefold. First, we wanted the hue to be blue to reinforce the idea that the player is on the team shown on top of the timelines; both are shades of blue. Second, we wanted the color to visually stand out from the other colors so it was obvious which events were being highlighted. Finally, we attempted to choose a color that is easily distinguishable from the others for color blind individuals.
+		</li>
+	</ol>
+
+
   </section>
 
   <section>
@@ -1483,13 +1509,16 @@ teamSelect.addEventListener("change", function() {
       <em>[Add: An overview of your design and development process. Describe how the work was split among the team members. Include a commentary on the development process, including answers to the following questions: Roughly how much time did you spend developing your application (in people-hours)? What aspects took the most time?]</em>
     </p>
 
-	<h4>BRIAN: data wrangling</h4>
+	<h4>Brian: data wrangling</h4>
 	<p>
-		The data that powers our visualization is derived from the "Play by play" documents provided by <a href="http://waterpolo.sportresult.com/WCH2017/res.asp">Omega</a>. Corresponding to each game is a pdf file with a table listing important actions taken by players on either team and when the actions were taken. Since a great number of games are catalogued on Omega's website, we wanted to automate as much of the data collection process as possible. We also reasoned that going through the trouble of automating things for this assignment could save us time in the future should we decide to expand upon our visualization for the final project.</p>
+		The data that powers our visualization is derived from the "Play by play" documents provided by <a href="http://waterpolo.sportresult.com/WCH2017/res.asp">Omega</a>. Corresponding to each game is a pdf file with a table listing important actions taken by players on either team and when the actions were taken. Since a great number of games are catalogued on Omega's website, we wanted to automate as much of the data collection process as possible. We also reasoned that going through the trouble of automating things for this assignment could save us time in the future should we decide to expand upon our visualization for the final project.
+	</p>
 	<p>
-		Automating the extraction of data from the pdfs proved difficult. Getting this step working smoothly took roughly 12 hours. We used a <a href="https://github.com/chezou/tabula-py">python wrapper</a> of a tool called <a href="http://tabula.technology/">Tabula</a> for pulling the tables from the pdf files. This software was useful because it interfaced nicely with Pandas, but it produced somewhat unpredictable output when the tables in the pdf files continued for more than a page. Transforming the output of Tabula into a standardized set of tables took a condiserable amount of effort.</p>
+		Automating the extraction of data from the pdfs proved difficult. Getting this step working smoothly took roughly 12 hours. We used a <a href="https://github.com/chezou/tabula-py">python wrapper</a> of a tool called <a href="http://tabula.technology/">Tabula</a> for pulling the tables from the pdf files. This software was useful because it interfaced nicely with Pandas, but it produced somewhat unpredictable output when the tables in the pdf files continued for more than a page. Transforming the output of Tabula into a standardized set of tables took a condiserable amount of effort.
+	</p>
 	<p>
-		Additional work had to be done to map the raw tables pulled from the pdf files into something our visualization could use directly. We wrote code to automatically produce files summarizing when shots were taken for each team, files summarizing how many attempts and goals players on the teams made in different games, a list of all the teams that played in a tournament in a given year, and others. To ensure reproducibility and future ease-of-use, the work flow was encapsulated in a comprehensive Make file. Writing and testing this code required around 13 hours.</p>
+		Additional work had to be done to map the raw tables pulled from the pdf files into something our visualization could use directly. We wrote code to automatically produce files summarizing when shots were taken for each team, files summarizing how many attempts and goals players on the teams made in different games, a list of all the teams that played in a tournament in a given year, and others. To ensure reproducibility and future ease-of-use, the work flow was encapsulated in a comprehensive Make file. Writing and testing this code required around 13 hours.
+	</p>
 
 	<h4>ABE: Vega static visualization, flags (interactivity in legend and on timelines), string processing, interactive team average bars</h4>
 	<p>
