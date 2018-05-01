@@ -131,8 +131,14 @@ body {
     stroke: #41b6c4;
     fill: #41b6c4;
 }
-.shotIconMiss {
-    fill:transparent !important;
+.shotIconFocalTeam.shotIconMiss {
+    fill:transparent;
+}
+.shotIconOpponentTeam.shotIconMiss {
+    fill:transparent;
+}
+.shotIconFocalPlayer.shotIconMiss {
+    fill:transparent;
 }
 
 .ratioLine {
@@ -158,13 +164,13 @@ body {
 	shape-rendering: geometricPrecision;
 }
 
-.teamnameThis, .teamnameOpponent {
+.teamNameFocalTeam, .teamNameOpponent {
 	font-size:12pt;
 	font-weight:bold;
 	font-style:italic;
 }
 
-.finalScoreThis {
+.finalScoreFocalTeam {
 	font-size:12pt;
 	font-weight:bold;
 	fill: #4056a1;
@@ -999,14 +1005,14 @@ var timelineLegend = svgLegend.append("g")
 		*/
 		// first, USA
 		timeline.append("text")
-			.attr("class","teamnameThis")
+			.attr("class","teamNameFocalTeam")
 			.attr("y",timelineHeight/2)
 			.attr("x",-timelineInternalPadding-lineLength/4)
 			.attr("dy","-.2em")
 			.style("text-anchor", "middle")
 			.text("?");
 		timeline.append("image")
-			.attr("class","flagThis")
+			.attr("class","flagFocalTeam")
 			.attr("href", imgPath + currTeamCode + ".png")
 			.attr("y", timelineHeight/1.95-20)
 			.attr("x",-timelineInternalPadding-lineLength*.9)
@@ -1014,7 +1020,7 @@ var timelineLegend = svgLegend.append("g")
 
 		// now add the other team
 		timeline.append("text")
-			.attr("class","teamnameOpponent")
+			.attr("class","teamNameOpponent")
 			.attr("y",timelineHeight/2)
 			.attr("x",-timelineInternalPadding-lineLength/4)
 			.attr("dy", "1.2em")
@@ -1037,7 +1043,7 @@ var timelineLegend = svgLegend.append("g")
 
 		// Final scores
 		timeline.append("text")
-			.attr("class","finalScoreThis")
+			.attr("class","finalScoreFocalTeam")
 			.attr("y",timelineHeight/2)
 			.attr("x",timelineWidth+timelineInternalPadding)
 			.attr("dy","-.4em")
@@ -1095,14 +1101,14 @@ for(var nn=0; nn<6; nn++) {
 
 	if(gameNData.length==0) { // There is no n-th game; kill chart
 
-		timeline.selectAll(".flagThis")
+		timeline.selectAll(".flagFocalTeam")
 			.attr("href", imgPath + "BLANK" + ".png");
 		timeline.selectAll(".flagOpponent")
 			.attr("href", imgPath + "BLANK" + ".png");
 
-		timeline.selectAll(".teamnameThis")
+		timeline.selectAll(".teamNameFocalTeam")
 			.text("");
-		timeline.selectAll(".teamnameOpponent")
+		timeline.selectAll(".teamNameOpponent")
 			.text("");
 		for(var quarterNum=1; quarterNum <= 4; quarterNum++) {
 
@@ -1134,7 +1140,7 @@ for(var nn=0; nn<6; nn++) {
 				.attr("d", areaLose);
 
 			}
-			timeline.selectAll(".finalScoreThis")
+			timeline.selectAll(".finalScoreFocalTeam")
 				.text("");
 			timeline.selectAll(".finalScoreOpponent")
 				.text("");
@@ -1145,14 +1151,14 @@ for(var nn=0; nn<6; nn++) {
 	//console.log(gameNData.length);
 
 	// set flags, names on left
-	timeline.selectAll(".flagThis")
+	timeline.selectAll(".flagFocalTeam")
 		.attr("href", imgPath + currTeamCode + ".png");
 	timeline.selectAll(".flagOpponent")
 		.attr("href", imgPath + otherTeam + ".png");
 
-	timeline.selectAll(".teamnameThis")
+	timeline.selectAll(".teamNameFocalTeam")
 		.text(currTeamCode);
-	timeline.selectAll(".teamnameOpponent")
+	timeline.selectAll(".teamNameOpponent")
 		.text(otherTeam);
 
 	var maxScore = d3.max(poloData, (d) => {
@@ -1282,7 +1288,7 @@ for(var nn=0; nn<6; nn++) {
 	}
 	//console.log("ending: "+endingScore +";"+endingScore[0]);
 	// set final scores on right
-	timeline.selectAll(".finalScoreThis")
+	timeline.selectAll(".finalScoreFocalTeam")
 		.text(endingScore[0]);
 	timeline.selectAll(".finalScoreOpponent")
 		.text(endingScore[1]);
