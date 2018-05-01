@@ -93,9 +93,9 @@
 	.st87{fill:none;stroke:#FDF165;stroke-miterlimit:10;}
 	.st88{font-family:'Antenna-Regular';}
 	.st89{font-size:12px;}
-	.st90{fill:none;stroke:#FFFFFF;stroke-width:2;}
+	.st90{fill:none;stroke:#000000;stroke-width:2;}
 	.st91{fill:none;stroke:#4E4F50;stroke-width:0.5;}
-	.st92{fill:none;stroke:#393A35;stroke-width:0.5;stroke-dasharray:3,2;}
+	.st92{fill:none;stroke:#000000;stroke-width:0.5;}
 </style>
 <g>
 	<g>
@@ -631,13 +631,13 @@
 		</g>
 	</g>
 	<g>
-		<text transform="matrix(1.5 0 0 1.5 238.2009 67.5045)" class="st88 st89">5m line</text>
+		<text transform="matrix(1.5 0 0 1.5 243.2009 67.5045)" class="st88 st89">5m line</text>
 	</g>
 	<!--<g>
 		<text transform="matrix(1 0 0 1 203.0619 51.9352)" class="st88 st89">Mid pool line</text>
 	</g>-->
 	<g>
-		<text transform="matrix(1.5 0 0 1.5 63.0322 155.4782)" class="st88 st89">Center area</text>
+		<text transform="matrix(1.5 0 0 1.5 58.0322 155.4782)" class="st88 st89">Center area</text>
 	</g>
 	<g>
 		<circle class="st90" cx="211" cy="118" r="1.1"/>
@@ -671,8 +671,8 @@
 		<circle class="st91" cx="234.5" cy="96.5" r="1.1"/>
 	</g>
 	<g>
-		<polyline class="st90" points="234.4,94.6 234.4,64.5 240.7,64.5 		"/>
-		<polyline class="st92" points="234.4,94.6 234.4,64.5 240.7,64.5 		"/>
+		<polyline class="st90" stroke="black" points="234.4,94.6 234.4,64.5 240.7,64.5 		"/>
+		<polyline class="st92" stroke="black" points="234.4,94.6 234.4,64.5 240.7,64.5 		"/>
 	</g>
 	<g>
 		<polyline class="st90" points="234.4,94.6 234.4,64.5 240.7,64.5 		"/>
