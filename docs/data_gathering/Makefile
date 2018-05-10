@@ -7,19 +7,20 @@ include variables.mk
 include paths.mk
 
 
+## all_team_data		: Generates data files for every team in $(TEAM_LIST_FILE).
+.PHONY : all_team_data
+all_team_data : 
+	make team_data --no-print-directory; \
+	while read TEAM_NAME; do \
+	sed -i -e "/TEAM = [A-Z]\{3\}/s/ [A-Z]\{3\}/ $$TEAM_NAME/g" paths.mk ; \
+	make team_data --no-print-directory; \
+	done < $(TEAM_LIST_FILE)
+
 
 ## team_data 			: Generates all data files that need to be updated for the specified team
 .PHONY : team_data
 team_data : $(SHOT_SUMMARY_FILE) $(ALL_ACTIONS_FILE)
 
-## all_team_data		: Generates data files for every team in $(TEAM_LIST_FILE).
-# For technical reasons, this cannot be run until $(TEAM_LIST_FILE) has been created
-.PHONY : all_team_data
-all_team_data : 
-	while read TEAM_NAME; do \
-	sed -i -e "/TEAM = [A-Z]\{3\}/s/ [A-Z]\{3\}/ $$TEAM_NAME/g" paths.mk ; \
-	make team_data --no-print-directory; \
-	done < $(TEAM_LIST_FILE)
 
 ## download_pdfs		: Fetches the pdfs of the appropriate year and sex from Omega's website
 .PHONY : download_pdfs
