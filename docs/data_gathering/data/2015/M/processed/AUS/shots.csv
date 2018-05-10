@@ -1,0 +1,353 @@
+AUS,Action,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time,Result,Goal
+1,Extra player shot,11.0,1,0,JPN,1.0,HOWDEN R,0 - 1,390,AUS,6:30,Goal,1
+1,5m shot,9.0,1,0,JPN,1.0,TAKEI K,0 - 1,360,JPN,6:00,Saved,0
+1,Action shot,2.0,1,0,JPN,1.0,ADACHI S,0 - 1,316,JPN,5:16,Saved,0
+1,Action shot,8.0,1,0,JPN,1.0,YOUNGER A,0 - 1,288,AUS,4:48,Blocked,0
+1,Action shot,7.0,1,0,JPN,1.0,SHIMIZU Y,0 - 1,276,JPN,4:36,Saved,0
+2,Extra player shot,8.0,1,0,JPN,1.0,YOUNGER A,0 - 2,242,AUS,4:02,Goal,1
+2,Extra player shot,8.0,1,0,JPN,1.0,KADONO Y,0 - 2,212,JPN,3:32,Post,0
+2,5m shot,6.0,1,0,JPN,1.0,GILCHRIST J,0 - 2,144,AUS,2:24,Saved,0
+2,5m shot,8.0,1,0,JPN,1.0,KADONO Y,0 - 2,117,JPN,1:57,Saved,0
+2,5m shot,3.0,1,0,JPN,1.0,ARAI A,0 - 2,75,JPN,1:15,Saved,0
+2,Action shot,5.0,1,0,JPN,1.0,POWER N,0 - 2,57,AUS,0:57,Saved,0
+2,Action shot,10.0,1,0,JPN,1.0,EMERY M,0 - 2,21,AUS,0:21,Saved,0
+2,Extra player shot,9.0,1,0,JPN,1.0,TAKEI K,0 - 2,0,JPN,0:00,Missed,0
+2,Extra player shot,11.0,1,1,JPN,2.0,OKAWA K,1 - 2,423,JPN,7:03,Goal,1
+3,Extra player shot,9.0,1,1,JPN,2.0,SWIFT J,1 - 3,389,AUS,6:29,Goal,1
+3,5m shot,4.0,1,1,JPN,2.0,SHIGA M,1 - 3,362,JPN,6:02,Post,0
+4,Extra player shot,2.0,1,1,JPN,2.0,CAMPBELL R,1 - 4,279,AUS,4:39,Goal,1
+4,Extra player shot,2.0,1,2,JPN,2.0,ADACHI S,2 - 4,202,JPN,3:22,Goal,1
+4,Action shot,7.0,1,2,JPN,2.0,SHIMIZU Y,2 - 4,149,JPN,2:29,Post,0
+4,Centre shot,7.0,1,2,JPN,2.0,SHIMIZU Y,2 - 4,97,JPN,1:37,Saved,0
+4,Action shot,6.0,1,2,JPN,2.0,GILCHRIST J,2 - 4,30,AUS,0:30,Post,0
+5,Extra player shot,2.0,1,2,JPN,3.0,CAMPBELL R,2 - 5,451,AUS,7:31,Goal,1
+5,Action shot,2.0,1,2,JPN,3.0,ADACHI S,2 - 5,406,JPN,6:46,Saved,0
+5,Extra player shot,2.0,1,2,JPN,3.0,CAMPBELL R,2 - 5,362,AUS,6:02,Post,0
+5,Counter attack,8.0,1,2,JPN,3.0,YOUNGER A,2 - 5,306,AUS,5:06,Saved,0
+5,Centre shot,6.0,1,2,JPN,3.0,IIDA A,2 - 5,281,JPN,4:41,Saved,0
+5,Extra player shot,4.0,1,3,JPN,3.0,SHIGA M,3 - 5,232,JPN,3:52,Goal,1
+5,Extra player shot,6.0,1,3,JPN,3.0,GILCHRIST J,3 - 5,200,AUS,3:20,Saved,0
+6,Action shot,2.0,1,3,JPN,3.0,CAMPBELL R,3 - 6,192,AUS,3:12,Goal,1
+6,5m shot,11.0,1,3,JPN,3.0,OKAWA K,3 - 6,160,JPN,2:40,Post,0
+6,Action shot,9.0,1,3,JPN,3.0,SWIFT J,3 - 6,55,AUS,0:55,Saved,0
+7,Action shot,11.0,1,3,JPN,3.0,HOWDEN R,3 - 7,7,AUS,0:07,Goal,1
+7,5m shot,11.0,1,3,JPN,3.0,OKAWA K,3 - 7,1,JPN,0:01,Saved,0
+7,5m shot,4.0,1,3,JPN,4.0,SHIGA M,3 - 7,429,JPN,7:09,Missed,0
+7,Extra player shot,12.0,1,3,JPN,4.0,HAZUI S,3 - 7,380,JPN,6:20,Post,0
+7,Action shot,9.0,1,3,JPN,4.0,TAKEI K,3 - 7,356,JPN,5:56,Post,0
+7,Action shot,12.0,1,3,JPN,4.0,HAZUI S,3 - 7,353,JPN,5:53,Blocked,0
+7,Action shot,2.0,1,3,JPN,4.0,ADACHI S,3 - 7,304,JPN,5:04,Missed,0
+8,Action shot,6.0,1,3,JPN,4.0,GILCHRIST J,3 - 8,288,AUS,4:48,Goal,1
+9,Penalty shot,8.0,1,3,JPN,4.0,YOUNGER A,3 - 9,236,AUS,3:56,Goal,1
+9,Extra player shot,9.0,1,4,JPN,4.0,TAKEI K,4 - 9,201,JPN,3:21,Goal,1
+9,Extra player shot,4.0,1,4,JPN,4.0,SHIGA M,4 - 9,153,JPN,2:33,Missed,0
+10,Action shot,4.0,1,4,JPN,4.0,COTTERILL J,4 - 10,102,AUS,1:42,Goal,1
+10,5m shot,12.0,1,4,JPN,4.0,MARTIN T,4 - 10,10,AUS,0:10,Post,0
+0,5m shot,8.0,2,0,MNE,1.0,YOUNGER A,0 - 0,450,AUS,7:30,Saved,0
+0,5m shot,9.0,2,0,MNE,1.0,IVOVIC A,0 - 0,422,MNE,7:02,Saved,0
+0,Action shot,8.0,2,0,MNE,1.0,YOUNGER A,0 - 0,389,AUS,6:29,Saved,0
+0,5m shot,7.0,2,0,MNE,1.0,ROACH A,0 - 0,317,AUS,5:17,Post,0
+0,Action shot,2.0,2,0,MNE,1.0,BRGULJAN D,0 - 0,296,MNE,4:56,Saved,0
+0,Penalty shot,7.0,2,1,MNE,1.0,JANOVIC M,0 - 1,274,MNE,4:34,Goal,1
+0,5m shot,7.0,2,1,MNE,1.0,JANOVIC M,0 - 1,229,MNE,3:49,Post,0
+0,5m shot,8.0,2,1,MNE,1.0,YOUNGER A,0 - 1,199,AUS,3:19,Saved,0
+0,5m shot,6.0,2,1,MNE,1.0,RADOVIC A,0 - 1,192,MNE,3:12,Post,0
+0,5m shot,2.0,2,1,MNE,1.0,BRGULJAN D,0 - 1,134,MNE,2:14,Missed,0
+0,5m shot,11.0,2,1,MNE,1.0,HOWDEN R,0 - 1,108,AUS,1:48,Blocked,0
+0,Extra player shot,9.0,2,2,MNE,1.0,IVOVIC A,0 - 2,47,MNE,0:47,Goal,1
+0,Extra player shot,11.0,2,2,MNE,1.0,HOWDEN R,0 - 2,3,AUS,0:03,Saved,0
+0,Action shot,6.0,2,2,MNE,1.0,GILCHRIST J,0 - 2,1,AUS,0:01,Saved,0
+0,Action shot,9.0,2,2,MNE,2.0,SWIFT J,0 - 2,452,AUS,7:32,Saved,0
+0,Action shot,3.0,2,2,MNE,2.0,PASKOVIC V,0 - 2,443,MNE,7:23,Missed,0
+0,5m shot,6.0,2,2,MNE,2.0,GILCHRIST J,0 - 2,360,AUS,6:00,Missed,0
+0,Action shot,6.0,2,2,MNE,2.0,GILCHRIST J,0 - 2,301,AUS,5:01,Missed,0
+0,5m shot,2.0,2,2,MNE,2.0,CAMPBELL R,0 - 2,254,AUS,4:14,Saved,0
+0,5m shot,2.0,2,3,MNE,2.0,BRGULJAN D,0 - 3,231,MNE,3:51,Goal,1
+0,Action shot,10.0,2,3,MNE,2.0,MURISIC N,0 - 3,174,MNE,2:54,Saved,0
+1,Action shot,4.0,2,3,MNE,2.0,COTTERILL J,1 - 3,153,AUS,2:33,Goal,1
+1,Extra player shot,12.0,2,3,MNE,2.0,JOKIC P,1 - 3,63,MNE,1:03,Post,0
+1,5m shot,2.0,2,3,MNE,2.0,CAMPBELL R,1 - 3,32,AUS,0:32,Post,0
+2,5m shot,8.0,2,3,MNE,3.0,YOUNGER A,2 - 3,452,AUS,7:32,Goal,1
+2,Action shot,2.0,2,3,MNE,3.0,CAMPBELL R,2 - 3,397,AUS,6:37,Saved,0
+2,Action shot,6.0,2,3,MNE,3.0,GILCHRIST J,2 - 3,359,AUS,5:59,Saved,0
+2,Action shot,2.0,2,3,MNE,3.0,CAMPBELL R,2 - 3,317,AUS,5:17,Blocked,0
+2,Extra player shot,5.0,2,4,MNE,3.0,BRGULJAN D,2 - 4,275,MNE,4:35,Goal,1
+2,5m shot,2.0,2,4,MNE,3.0,BRGULJAN D,2 - 4,217,MNE,3:37,Blocked,0
+2,5m shot,8.0,2,4,MNE,3.0,YOUNGER A,2 - 4,191,AUS,3:11,Post,0
+2,5m shot,7.0,2,4,MNE,3.0,JANOVIC M,2 - 4,169,MNE,2:49,Saved,0
+2,Extra player shot,11.0,2,4,MNE,3.0,KLIKOVAC F,2 - 4,136,MNE,2:16,Saved,0
+2,5m shot,3.0,2,4,MNE,3.0,FORD G,2 - 4,107,AUS,1:47,Missed,0
+2,Centre shot,9.0,2,4,MNE,3.0,IVOVIC A,2 - 4,87,MNE,1:27,Saved,0
+2,5m shot,9.0,2,4,MNE,3.0,IVOVIC A,2 - 4,28,MNE,0:28,Saved,0
+3,Action shot,8.0,2,4,MNE,4.0,YOUNGER A,3 - 4,463,AUS,7:43,Goal,1
+3,Action shot,7.0,2,4,MNE,4.0,JANOVIC M,3 - 4,435,MNE,7:15,Saved,0
+4,Action shot,7.0,2,4,MNE,4.0,ROACH A,4 - 4,415,AUS,6:55,Goal,1
+4,Action shot,5.0,2,4,MNE,4.0,BRGULJAN D,4 - 4,392,MNE,6:32,Saved,0
+5,Extra player shot,8.0,2,4,MNE,4.0,YOUNGER A,5 - 4,353,AUS,5:53,Goal,1
+5,5m shot,6.0,2,4,MNE,4.0,RADOVIC A,5 - 4,328,MNE,5:28,Saved,0
+5,5m shot,7.0,2,4,MNE,4.0,ROACH A,5 - 4,290,AUS,4:50,Missed,0
+5,5m shot,6.0,2,4,MNE,4.0,RADOVIC A,5 - 4,265,MNE,4:25,Saved,0
+5,Action shot,2.0,2,4,MNE,4.0,CAMPBELL R,5 - 4,239,AUS,3:59,Blocked,0
+5,Action shot,8.0,2,4,MNE,4.0,YOUNGER A,5 - 4,211,AUS,3:31,Saved,0
+5,5m shot,6.0,2,4,MNE,4.0,RADOVIC A,5 - 4,158,MNE,2:38,Blocked,0
+5,5m shot,9.0,2,4,MNE,4.0,IVOVIC A,5 - 4,109,MNE,1:49,Blocked,0
+5,5m shot,8.0,2,4,MNE,4.0,YOUNGER A,5 - 4,82,AUS,1:22,Post,0
+5,5m shot,7.0,2,5,MNE,4.0,JANOVIC M,5 - 5,22,MNE,0:22,Goal,1
+1,Action shot,11.0,3,0,SRB,1.0,HOWDEN R,0 - 1,452,AUS,7:32,Goal,1
+1,Action shot,10.0,3,0,SRB,1.0,FILIPOVIC F,0 - 1,431,SRB,7:11,Saved,0
+1,Centre shot,7.0,3,1,SRB,1.0,NIKIC S,1 - 1,422,SRB,7:02,Goal,1
+1,5m shot,5.0,3,2,SRB,1.0,CUK M,2 - 1,390,SRB,6:30,Goal,1
+1,5m shot,2.0,3,2,SRB,1.0,CAMPBELL R,2 - 1,365,AUS,6:05,Post,0
+1,Action shot,10.0,3,2,SRB,1.0,FILIPOVIC F,2 - 1,341,SRB,5:41,Saved,0
+1,Action shot,11.0,3,2,SRB,1.0,HOWDEN R,2 - 1,313,AUS,5:13,Saved,0
+1,5m shot,2.0,3,2,SRB,1.0,CAMPBELL R,2 - 1,261,AUS,4:21,Saved,0
+1,Action shot,10.0,3,2,SRB,1.0,FILIPOVIC F,2 - 1,236,SRB,3:56,Missed,0
+1,Counter attack,8.0,3,2,SRB,1.0,YOUNGER A,2 - 1,219,AUS,3:39,Saved,0
+1,Extra player shot,6.0,3,3,SRB,1.0,PIJETLOVIC D,3 - 1,190,SRB,3:10,Goal,1
+2,Action shot,5.0,3,3,SRB,1.0,POWER N,3 - 2,159,AUS,2:39,Goal,1
+2,Action shot,2.0,3,3,SRB,1.0,MANDIC D,3 - 2,136,SRB,2:16,Saved,0
+2,Counter attack,6.0,3,3,SRB,1.0,GILCHRIST J,3 - 2,114,AUS,1:54,Missed,0
+2,Action shot,6.0,3,3,SRB,1.0,PIJETLOVIC D,3 - 2,94,SRB,1:34,Saved,0
+2,5m shot,11.0,3,3,SRB,1.0,PRLAINOVIC A,3 - 2,68,SRB,1:08,Blocked,0
+2,Action shot,5.0,3,3,SRB,1.0,POWER N,3 - 2,5,AUS,0:05,Missed,0
+2,5m shot,10.0,3,3,SRB,1.0,FILIPOVIC F,3 - 2,2,SRB,0:02,Missed,0
+3,Action shot,8.0,3,3,SRB,2.0,YOUNGER A,3 - 3,462,AUS,7:42,Goal,1
+3,Action shot,5.0,3,3,SRB,2.0,CUK M,3 - 3,422,SRB,7:02,Saved,0
+3,Extra player shot,7.0,3,3,SRB,2.0,NIKIC S,3 - 3,356,SRB,5:56,Saved,0
+3,Action shot,3.0,3,3,SRB,2.0,GOCIC Z,3 - 3,307,SRB,5:07,Missed,0
+3,Action shot,5.0,3,3,SRB,2.0,POWER N,3 - 3,289,AUS,4:49,Blocked,0
+3,Action shot,7.0,3,3,SRB,2.0,ROACH A,3 - 3,277,AUS,4:37,Post,0
+3,Action shot,10.0,3,4,SRB,2.0,FILIPOVIC F,4 - 3,251,SRB,4:11,Goal,1
+3,5m shot,7.0,3,4,SRB,2.0,ROACH A,4 - 3,180,AUS,3:00,Blocked,0
+3,5m shot,2.0,3,4,SRB,2.0,MANDIC D,4 - 3,155,SRB,2:35,Saved,0
+4,Action shot,12.0,3,4,SRB,2.0,MARTIN T,4 - 4,131,AUS,2:11,Goal,1
+4,5m shot,8.0,3,5,SRB,2.0,ALEKSIC M,5 - 4,101,SRB,1:41,Goal,1
+4,5m shot,8.0,3,5,SRB,3.0,ALEKSIC M,5 - 4,425,SRB,7:05,Missed,0
+4,Action shot,12.0,3,6,SRB,3.0,MITROVIC S,6 - 4,380,SRB,6:20,Goal,1
+5,Extra player shot,9.0,3,6,SRB,3.0,SWIFT J,6 - 5,335,AUS,5:35,Goal,1
+5,Action shot,12.0,3,6,SRB,3.0,MITROVIC S,6 - 5,316,SRB,5:16,Saved,0
+6,Action shot,4.0,3,6,SRB,3.0,COTTERILL J,6 - 6,286,AUS,4:46,Goal,1
+6,5m shot,11.0,3,6,SRB,3.0,PRLAINOVIC A,6 - 6,250,SRB,4:10,Saved,0
+7,Counter attack,8.0,3,6,SRB,3.0,YOUNGER A,6 - 7,235,AUS,3:55,Goal,1
+7,Action shot,3.0,3,6,SRB,3.0,GOCIC Z,6 - 7,217,SRB,3:37,Saved,0
+7,5m shot,6.0,3,6,SRB,3.0,GILCHRIST J,6 - 7,165,AUS,2:45,Saved,0
+8,5m shot,8.0,3,6,SRB,3.0,YOUNGER A,6 - 8,139,AUS,2:19,Goal,1
+8,Action shot,10.0,3,6,SRB,3.0,FILIPOVIC F,6 - 8,64,SRB,1:04,Saved,0
+8,Extra player shot,8.0,3,6,SRB,3.0,ALEKSIC M,6 - 8,1,SRB,0:01,Saved,0
+8,Action shot,9.0,3,6,SRB,4.0,SWIFT J,6 - 8,456,AUS,7:36,Post,0
+8,Extra player shot,8.0,3,7,SRB,4.0,ALEKSIC M,7 - 8,427,SRB,7:07,Goal,1
+8,Action shot,11.0,3,7,SRB,4.0,HOWDEN R,7 - 8,404,AUS,6:44,Post,0
+8,Action shot,12.0,3,7,SRB,4.0,MITROVIC S,7 - 8,388,SRB,6:28,Saved,0
+8,Extra player shot,10.0,3,7,SRB,4.0,FILIPOVIC F,7 - 8,360,SRB,6:00,Blocked,0
+8,5m shot,11.0,3,7,SRB,4.0,HOWDEN R,7 - 8,332,AUS,5:32,Post,0
+8,Action shot,12.0,3,8,SRB,4.0,MITROVIC S,8 - 8,311,SRB,5:11,Goal,1
+8,5m shot,2.0,3,8,SRB,4.0,CAMPBELL R,8 - 8,283,AUS,4:43,Saved,0
+8,Action shot,3.0,3,9,SRB,4.0,GOCIC Z,9 - 8,258,SRB,4:18,Goal,1
+8,5m shot,10.0,3,10,SRB,4.0,FILIPOVIC F,10 - 8,206,SRB,3:26,Goal,1
+8,Extra player shot,8.0,3,10,SRB,4.0,YOUNGER A,10 - 8,170,AUS,2:50,Saved,0
+8,Action shot,11.0,3,10,SRB,4.0,PRLAINOVIC A,10 - 8,146,SRB,2:26,Missed,0
+9,Extra player shot,9.0,3,10,SRB,4.0,SWIFT J,10 - 9,96,AUS,1:36,Goal,1
+9,5m shot,8.0,3,10,SRB,4.0,ALEKSIC M,10 - 9,73,SRB,1:13,Blocked,0
+9,Action shot,4.0,3,10,SRB,4.0,COTTERILL J,10 - 9,44,AUS,0:44,Post,0
+9,5m shot,11.0,3,10,SRB,4.0,PRLAINOVIC A,10 - 9,13,SRB,0:13,Missed,0
+0,Centre shot,9.0,4,0,RSA,1.0,SWIFT J,0 - 0,399,AUS,6:39,Saved,0
+0,5m shot,10.0,4,0,RSA,1.0,LE ROUX P,0 - 0,372,RSA,6:12,Saved,0
+0,Centre shot,9.0,4,0,RSA,1.0,SWIFT J,0 - 0,351,AUS,5:51,Saved,0
+0,Extra player shot,6.0,4,0,RSA,1.0,GILCHRIST J,0 - 0,322,AUS,5:22,Saved,0
+1,Action shot,2.0,4,0,RSA,1.0,CAMPBELL R,0 - 1,314,AUS,5:14,Goal,1
+2,Counter attack,10.0,4,0,RSA,1.0,EMERY M,0 - 2,285,AUS,4:45,Goal,1
+3,Counter attack,10.0,4,0,RSA,1.0,EMERY M,0 - 3,254,AUS,4:14,Goal,1
+3,Action shot,10.0,4,0,RSA,1.0,LE ROUX P,0 - 3,234,RSA,3:54,Saved,0
+3,Action shot,11.0,4,0,RSA,1.0,HOWDEN R,0 - 3,216,AUS,3:36,Saved,0
+3,Action shot,2.0,4,1,RSA,1.0,LE ROUX E,1 - 3,178,RSA,2:58,Goal,1
+4,Extra player shot,8.0,4,1,RSA,1.0,YOUNGER A,1 - 4,138,AUS,2:18,Goal,1
+4,Action shot,7.0,4,1,RSA,1.0,ROACH A,1 - 4,96,AUS,1:36,Post,0
+5,Counter attack,7.0,4,1,RSA,1.0,ROACH A,1 - 5,50,AUS,0:50,Goal,1
+5,5m shot,8.0,4,1,RSA,1.0,WINGATE-PEARSE J,1 - 5,21,RSA,0:21,Saved,0
+6,Penalty shot,6.0,4,1,RSA,2.0,GILCHRIST J,1 - 6,464,AUS,7:44,Goal,1
+6,Counter attack,5.0,4,1,RSA,2.0,POWER N,1 - 6,419,AUS,6:59,Saved,0
+6,Counter attack,12.0,4,1,RSA,2.0,MARTIN T,1 - 6,374,AUS,6:14,Saved,0
+7,Centre shot,12.0,4,1,RSA,2.0,MARTIN T,1 - 7,322,AUS,5:22,Goal,1
+7,5m shot,2.0,4,1,RSA,2.0,LE ROUX E,1 - 7,278,RSA,4:38,Saved,0
+8,Action shot,8.0,4,1,RSA,2.0,YOUNGER A,1 - 8,264,AUS,4:24,Goal,1
+8,Action shot,11.0,4,1,RSA,2.0,MOLYNEUX N,1 - 8,193,RSA,3:13,Blocked,0
+9,Action shot,7.0,4,1,RSA,2.0,ROACH A,1 - 9,171,AUS,2:51,Goal,1
+9,5m shot,11.0,4,1,RSA,2.0,MOLYNEUX N,1 - 9,144,RSA,2:24,Missed,0
+9,5m shot,5.0,4,1,RSA,2.0,HOCK N,1 - 9,97,RSA,1:37,Saved,0
+10,Extra player shot,12.0,4,1,RSA,2.0,MARTIN T,1 - 10,58,AUS,0:58,Goal,1
+10,Penalty shot,11.0,4,1,RSA,2.0,MOLYNEUX N,1 - 10,31,RSA,0:31,Post,0
+11,Action shot,10.0,4,1,RSA,2.0,EMERY M,1 - 11,3,AUS,0:03,Goal,1
+11,5m shot,10.0,4,1,RSA,3.0,LE ROUX P,1 - 11,422,RSA,7:02,Blocked,0
+11,Action shot,5.0,4,1,RSA,3.0,POWER N,1 - 11,403,AUS,6:43,Post,0
+11,Action shot,2.0,4,1,RSA,3.0,LE ROUX E,1 - 11,326,RSA,5:26,Saved,0
+11,Action shot,12.0,4,1,RSA,3.0,MARTIN T,1 - 11,312,AUS,5:12,Blocked,0
+11,5m shot,2.0,4,1,RSA,3.0,CAMPBELL R,1 - 11,260,AUS,4:20,Missed,0
+11,5m shot,2.0,4,1,RSA,3.0,LE ROUX E,1 - 11,168,RSA,2:48,Missed,0
+12,Extra player shot,8.0,4,1,RSA,3.0,YOUNGER A,1 - 12,145,AUS,2:25,Goal,1
+13,Action shot,3.0,4,1,RSA,3.0,FORD G,1 - 13,61,AUS,1:01,Goal,1
+13,5m shot,4.0,4,1,RSA,3.0,BADENHORST I,1 - 13,31,RSA,0:31,Saved,0
+13,Action shot,6.0,4,1,RSA,3.0,GILCHRIST J,1 - 13,19,AUS,0:19,Missed,0
+13,5m shot,12.0,4,1,RSA,3.0,BOHATA W,1 - 13,4,RSA,0:04,Missed,0
+13,5m shot,4.0,4,1,RSA,4.0,BADENHORST I,1 - 13,421,RSA,7:01,Blocked,0
+13,5m shot,2.0,4,1,RSA,4.0,CAMPBELL R,1 - 13,394,AUS,6:34,Saved,0
+13,5m shot,4.0,4,1,RSA,4.0,BADENHORST I,1 - 13,363,RSA,6:03,Missed,0
+13,5m shot,10.0,4,1,RSA,4.0,LE ROUX P,1 - 13,343,RSA,5:43,Missed,0
+13,Action shot,6.0,4,1,RSA,4.0,GILCHRIST J,1 - 13,299,AUS,4:59,Saved,0
+14,Extra player shot,9.0,4,1,RSA,4.0,SWIFT J,1 - 14,231,AUS,3:51,Goal,1
+14,Action shot,8.0,4,1,RSA,4.0,YOUNGER A,1 - 14,186,AUS,3:06,Saved,0
+15,Counter attack,8.0,4,1,RSA,4.0,YOUNGER A,1 - 15,90,AUS,1:30,Goal,1
+15,5m shot,8.0,4,1,RSA,4.0,WINGATE-PEARSE J,1 - 15,59,RSA,0:59,Blocked,0
+15,Centre shot,10.0,4,1,RSA,4.0,LE ROUX P,1 - 15,59,RSA,0:59,Saved,0
+16,Counter attack,6.0,4,1,RSA,4.0,GILCHRIST J,1 - 16,38,AUS,0:38,Goal,1
+17,Counter attack,7.0,4,1,RSA,4.0,ROACH A,1 - 17,3,AUS,0:03,Goal,1
+17,5m shot,4.0,4,1,RSA,4.0,BADENHORST I,1 - 17,0,RSA,0:00,Missed,0
+0,Centre shot,10.0,5,0,GRE,1.0,KOLOMVOS C,0 - 0,425,GRE,7:05,Post,0
+0,Action shot,3.0,5,0,GRE,1.0,FORD G,0 - 0,348,AUS,5:48,Blocked,0
+0,5m shot,6.0,5,0,GRE,1.0,PONTIKEAS K,0 - 0,318,GRE,5:18,Saved,0
+0,Action shot,2.0,5,0,GRE,1.0,CAMPBELL R,0 - 0,298,AUS,4:58,Saved,0
+0,Counter attack,7.0,5,0,GRE,1.0,AFROUDAKIS C,0 - 0,285,GRE,4:45,Saved,0
+0,5m shot,8.0,5,0,GRE,1.0,YOUNGER A,0 - 0,255,AUS,4:15,Blocked,0
+0,Extra player shot,12.0,5,0,GRE,1.0,VLACHOPOULOS A,0 - 0,145,GRE,2:25,Saved,0
+0,5m shot,7.0,5,1,GRE,1.0,AFROUDAKIS C,1 - 0,70,GRE,1:10,Goal,1
+0,5m shot,8.0,5,1,GRE,1.0,DELAKAS E,1 - 0,22,GRE,0:22,Blocked,0
+1,Extra player shot,8.0,5,1,GRE,2.0,YOUNGER A,1 - 1,446,AUS,7:26,Goal,1
+1,Extra player shot,5.0,5,2,GRE,2.0,FOUNTOULIS I,2 - 1,376,GRE,6:16,Goal,1
+1,Action shot,6.0,5,2,GRE,2.0,GILCHRIST J,2 - 1,345,AUS,5:45,Saved,0
+1,Action shot,11.0,5,2,GRE,2.0,GOUNAS A,2 - 1,294,GRE,4:54,Blocked,0
+1,Action shot,11.0,5,2,GRE,2.0,HOWDEN R,2 - 1,256,AUS,4:16,Saved,0
+1,Action shot,7.0,5,2,GRE,2.0,AFROUDAKIS C,2 - 1,229,GRE,3:49,Saved,0
+1,Extra player shot,9.0,5,2,GRE,2.0,MOURIKIS K,2 - 1,195,GRE,3:15,Missed,0
+2,Extra player shot,7.0,5,2,GRE,2.0,ROACH A,2 - 2,161,AUS,2:41,Goal,1
+2,Extra player shot,9.0,5,2,GRE,2.0,MOURIKIS K,2 - 2,114,GRE,1:54,Saved,0
+3,5m shot,8.0,5,2,GRE,2.0,YOUNGER A,2 - 3,91,AUS,1:31,Goal,1
+3,Action shot,4.0,5,2,GRE,2.0,GENIDOUNIAS K,2 - 3,63,GRE,1:03,Blocked,0
+3,Action shot,7.0,5,2,GRE,2.0,ROACH A,2 - 3,47,AUS,0:47,Saved,0
+3,5m shot,12.0,5,2,GRE,2.0,VLACHOPOULOS A,2 - 3,23,GRE,0:23,Post,0
+3,Penalty shot,7.0,5,2,GRE,2.0,AFROUDAKIS C,2 - 3,5,GRE,0:05,Post,0
+4,Action shot,9.0,5,2,GRE,3.0,SWIFT J,2 - 4,453,AUS,7:33,Goal,1
+4,Extra player shot,10.0,5,3,GRE,3.0,KOLOMVOS C,3 - 4,421,GRE,7:01,Goal,1
+4,Action shot,5.0,5,3,GRE,3.0,FOUNTOULIS I,3 - 4,365,GRE,6:05,Saved,0
+4,Counter attack,8.0,5,3,GRE,3.0,YOUNGER A,3 - 4,316,AUS,5:16,Saved,0
+4,Action shot,12.0,5,3,GRE,3.0,MARTIN T,3 - 4,282,AUS,4:42,Saved,0
+4,Centre shot,4.0,5,3,GRE,3.0,COTTERILL J,3 - 4,207,AUS,3:27,Post,0
+4,5m shot,4.0,5,4,GRE,3.0,GENIDOUNIAS K,4 - 4,144,GRE,2:24,Goal,1
+4,Action shot,4.0,5,4,GRE,3.0,COTTERILL J,4 - 4,118,AUS,1:58,Saved,0
+4,Extra player shot,11.0,5,5,GRE,3.0,GOUNAS A,5 - 4,82,GRE,1:22,Goal,1
+4,Action shot,5.0,5,5,GRE,3.0,POWER N,5 - 4,63,AUS,1:03,Saved,0
+4,5m shot,2.0,5,5,GRE,3.0,MYLONAKIS E,5 - 4,33,GRE,0:33,Saved,0
+4,Extra player shot,6.0,5,5,GRE,3.0,GILCHRIST J,5 - 4,2,AUS,0:02,Saved,0
+4,5m shot,8.0,5,5,GRE,4.0,DELAKAS E,5 - 4,450,GRE,7:30,Blocked,0
+4,Action shot,11.0,5,5,GRE,4.0,HOWDEN R,5 - 4,426,AUS,7:06,Saved,0
+4,Action shot,11.0,5,5,GRE,4.0,HOWDEN R,5 - 4,376,AUS,6:16,Saved,0
+4,Action shot,9.0,5,5,GRE,4.0,SWIFT J,5 - 4,350,AUS,5:50,Saved,0
+4,5m shot,7.0,5,5,GRE,4.0,ROACH A,5 - 4,301,AUS,5:01,Saved,0
+4,5m shot,5.0,5,5,GRE,4.0,FOUNTOULIS I,5 - 4,269,GRE,4:29,Saved,0
+4,Action shot,2.0,5,5,GRE,4.0,CAMPBELL R,5 - 4,240,AUS,4:00,Saved,0
+4,5m shot,7.0,5,5,GRE,4.0,AFROUDAKIS C,5 - 4,210,GRE,3:30,Saved,0
+4,Extra player shot,8.0,5,5,GRE,4.0,YOUNGER A,5 - 4,163,AUS,2:43,Post,0
+5,Extra player shot,7.0,5,5,GRE,4.0,ROACH A,5 - 5,163,AUS,2:43,Goal,1
+5,Centre shot,9.0,5,5,GRE,4.0,MOURIKIS K,5 - 5,135,GRE,2:15,Saved,0
+6,Action shot,8.0,5,5,GRE,4.0,YOUNGER A,5 - 6,113,AUS,1:53,Goal,1
+6,Extra player shot,4.0,5,6,GRE,4.0,GENIDOUNIAS K,6 - 6,67,GRE,1:07,Goal,1
+7,Centre shot,5.0,5,6,GRE,4.0,POWER N,6 - 7,38,AUS,0:38,Goal,1
+7,Extra player shot,5.0,5,7,GRE,4.0,FOUNTOULIS I,7 - 7,4,GRE,0:04,Goal,1
+0,5m shot,7.0,6,0,MNE,1.0,ROACH A,0 - 0,452,AUS,7:32,Missed,0
+0,5m shot,2.0,6,0,MNE,1.0,CAMPBELL R,0 - 0,393,AUS,6:33,Saved,0
+0,5m shot,7.0,6,0,MNE,1.0,JANOVIC M,0 - 0,364,MNE,6:04,Blocked,0
+0,5m shot,11.0,6,0,MNE,1.0,HOWDEN R,0 - 0,335,AUS,5:35,Saved,0
+0,5m shot,6.0,6,1,MNE,1.0,RADOVIC A,1 - 0,312,MNE,5:12,Goal,1
+1,Action shot,7.0,6,1,MNE,1.0,ROACH A,1 - 1,273,AUS,4:33,Goal,1
+1,5m shot,6.0,6,2,MNE,1.0,RADOVIC A,2 - 1,245,MNE,4:05,Goal,1
+1,Centre shot,12.0,6,2,MNE,1.0,MARTIN T,2 - 1,225,AUS,3:45,Saved,0
+1,Action shot,5.0,6,3,MNE,1.0,BRGULJAN D,3 - 1,151,MNE,2:31,Goal,1
+1,Extra player shot,2.0,6,4,MNE,1.0,BRGULJAN D,4 - 1,61,MNE,1:01,Goal,1
+1,5m shot,10.0,6,4,MNE,1.0,EMERY M,4 - 1,34,AUS,0:34,Post,0
+1,Extra player shot,5.0,6,5,MNE,2.0,BRGULJAN D,5 - 1,443,MNE,7:23,Goal,1
+1,Action shot,11.0,6,5,MNE,2.0,HOWDEN R,5 - 1,396,AUS,6:36,Saved,0
+1,Action shot,3.0,6,5,MNE,2.0,PASKOVIC V,5 - 1,327,MNE,5:27,Blocked,0
+1,Action shot,9.0,6,5,MNE,2.0,IVOVIC A,5 - 1,283,MNE,4:43,Saved,0
+2,Extra player shot,4.0,6,5,MNE,2.0,COTTERILL J,5 - 2,185,AUS,3:05,Goal,1
+2,Extra player shot,10.0,6,5,MNE,2.0,EMERY M,5 - 2,122,AUS,2:02,Blocked,0
+2,Extra player shot,10.0,6,5,MNE,2.0,MURISIC N,5 - 2,81,MNE,1:21,Saved,0
+2,Extra player shot,7.0,6,5,MNE,2.0,ROACH A,5 - 2,55,AUS,0:55,Missed,0
+2,Action shot,9.0,6,5,MNE,2.0,IVOVIC A,5 - 2,14,MNE,0:14,Post,0
+2,5m shot,8.0,6,5,MNE,2.0,YOUNGER A,5 - 2,0,AUS,0:00,Saved,0
+2,5m shot,7.0,6,5,MNE,3.0,JANOVIC M,5 - 2,451,MNE,7:31,Saved,0
+3,Extra player shot,2.0,6,5,MNE,3.0,CAMPBELL R,5 - 3,417,AUS,6:57,Goal,1
+3,5m shot,6.0,6,5,MNE,3.0,RADOVIC A,5 - 3,395,MNE,6:35,Post,0
+4,Centre shot,2.0,6,5,MNE,3.0,CAMPBELL R,5 - 4,336,AUS,5:36,Goal,1
+4,Penalty shot,6.0,6,5,MNE,3.0,RADOVIC A,5 - 4,314,MNE,5:14,Saved,0
+4,Counter attack,7.0,6,6,MNE,3.0,JANOVIC M,6 - 4,281,MNE,4:41,Goal,1
+5,Action shot,8.0,6,6,MNE,3.0,YOUNGER A,6 - 5,253,AUS,4:13,Goal,1
+5,Penalty shot,9.0,6,7,MNE,3.0,IVOVIC A,7 - 5,232,MNE,3:52,Goal,1
+6,5m shot,8.0,6,7,MNE,3.0,YOUNGER A,7 - 6,206,AUS,3:26,Goal,1
+6,Action shot,7.0,6,8,MNE,3.0,JANOVIC M,8 - 6,127,MNE,2:07,Goal,1
+6,Action shot,3.0,6,9,MNE,3.0,PASKOVIC V,9 - 6,47,MNE,0:47,Goal,1
+6,5m shot,6.0,6,9,MNE,4.0,GILCHRIST J,9 - 6,356,AUS,5:56,Missed,0
+6,Extra player shot,5.0,6,9,MNE,4.0,BRGULJAN D,9 - 6,326,MNE,5:26,Saved,0
+7,Counter attack,4.0,6,9,MNE,4.0,COTTERILL J,9 - 7,306,AUS,5:06,Goal,1
+7,5m shot,7.0,6,10,MNE,4.0,JANOVIC M,10 - 7,290,MNE,4:50,Goal,1
+7,5m shot,8.0,6,10,MNE,4.0,YOUNGER A,10 - 7,268,AUS,4:28,Saved,0
+7,Action shot,7.0,6,10,MNE,4.0,JANOVIC M,10 - 7,221,MNE,3:41,Blocked,0
+7,5m shot,4.0,6,10,MNE,4.0,COTTERILL J,10 - 7,194,AUS,3:14,Saved,0
+8,Extra player shot,12.0,6,10,MNE,4.0,MARTIN T,10 - 8,174,AUS,2:54,Goal,1
+8,Penalty shot,7.0,6,11,MNE,4.0,JANOVIC M,11 - 8,102,MNE,1:42,Goal,1
+8,Extra player shot,2.0,6,11,MNE,4.0,CAMPBELL R,11 - 8,83,AUS,1:23,Missed,0
+8,5m shot,6.0,6,11,MNE,4.0,RADOVIC A,11 - 8,18,MNE,0:18,Saved,0
+8,5m shot,8.0,6,11,MNE,4.0,YOUNGER A,11 - 8,2,AUS,0:02,Saved,0
+1,Extra player shot,4.0,7,0,USA,1.0,COTTERILL J,1 - 0,455,AUS,7:35,Goal,1
+1,5m shot,11.0,7,0,USA,1.0,HOWDEN R,1 - 0,405,AUS,6:45,Saved,0
+2,Extra player shot,3.0,7,0,USA,1.0,FORD G,2 - 0,337,AUS,5:37,Goal,1
+2,Extra player shot,8.0,7,1,USA,1.0,AZEVEDO T,2 - 1,299,USA,4:59,Goal,1
+2,Action shot,7.0,7,1,USA,1.0,SAMUELS J,2 - 1,253,USA,4:13,Saved,0
+2,Counter attack,2.0,7,1,USA,1.0,CAMPBELL R,2 - 1,233,AUS,3:53,Missed,0
+2,5m shot,8.0,7,1,USA,1.0,YOUNGER A,2 - 1,183,AUS,3:03,Saved,0
+2,Action shot,2.0,7,1,USA,1.0,VAVIC N,2 - 1,155,USA,2:35,Post,0
+3,Counter attack,8.0,7,1,USA,1.0,YOUNGER A,3 - 1,139,AUS,2:19,Goal,1
+3,Extra player shot,10.0,7,2,USA,1.0,BONANNI B,3 - 2,97,USA,1:37,Goal,1
+3,Action shot,4.0,7,2,USA,1.0,COTTERILL J,3 - 2,69,AUS,1:09,Saved,0
+3,Action shot,6.0,7,2,USA,1.0,CUPIDO L,3 - 2,51,USA,0:51,Blocked,0
+3,Extra player shot,8.0,7,2,USA,2.0,YOUNGER A,3 - 2,449,AUS,7:29,Saved,0
+3,Action shot,9.0,7,2,USA,2.0,SWIFT J,3 - 2,438,AUS,7:18,Saved,0
+3,Action shot,4.0,7,2,USA,2.0,KIMBELL J,3 - 2,394,USA,6:34,Post,0
+3,Extra player shot,6.0,7,2,USA,2.0,CUPIDO L,3 - 2,333,USA,5:33,Missed,0
+3,5m shot,4.0,7,2,USA,2.0,COTTERILL J,3 - 2,311,AUS,5:11,Blocked,0
+3,Extra player shot,2.0,7,2,USA,2.0,CAMPBELL R,3 - 2,279,AUS,4:39,Saved,0
+3,Extra player shot,9.0,7,2,USA,2.0,BOWEN A,3 - 2,260,USA,4:20,Saved,0
+3,Action shot,2.0,7,2,USA,2.0,CAMPBELL R,3 - 2,231,AUS,3:51,Blocked,0
+3,Penalty shot,8.0,7,3,USA,2.0,AZEVEDO T,3 - 3,219,USA,3:39,Goal,1
+3,Extra player shot,7.0,7,3,USA,2.0,ROACH A,3 - 3,199,AUS,3:19,Saved,0
+3,Extra player shot,4.0,7,3,USA,2.0,COTTERILL J,3 - 3,187,AUS,3:07,Missed,0
+3,Extra player shot,2.0,7,4,USA,2.0,VAVIC N,3 - 4,160,USA,2:40,Goal,1
+3,Action shot,2.0,7,4,USA,2.0,CAMPBELL R,3 - 4,135,AUS,2:15,Saved,0
+3,5m shot,5.0,7,4,USA,2.0,ROELSE A,3 - 4,92,USA,1:32,Post,0
+3,5m shot,4.0,7,4,USA,2.0,COTTERILL J,3 - 4,62,AUS,1:02,Saved,0
+3,Extra player shot,7.0,7,4,USA,2.0,SAMUELS J,3 - 4,12,USA,0:12,Post,0
+3,Action shot,2.0,7,4,USA,2.0,VAVIC N,3 - 4,2,USA,0:02,Saved,0
+3,5m shot,7.0,7,4,USA,2.0,SAMUELS J,3 - 4,0,USA,0:00,Saved,0
+3,Counter attack,11.0,7,4,USA,3.0,HOWDEN R,3 - 4,412,AUS,6:52,Saved,0
+3,Extra player shot,8.0,7,5,USA,3.0,AZEVEDO T,3 - 5,371,USA,6:11,Goal,1
+3,5m shot,8.0,7,5,USA,3.0,AZEVEDO T,3 - 5,313,USA,5:13,Blocked,0
+3,5m shot,3.0,7,5,USA,3.0,FORD G,3 - 5,286,AUS,4:46,Post,0
+3,Action shot,10.0,7,6,USA,3.0,BONANNI B,3 - 6,238,USA,3:58,Goal,1
+3,5m shot,6.0,7,6,USA,3.0,GILCHRIST J,3 - 6,208,AUS,3:28,Blocked,0
+3,Extra player shot,9.0,7,7,USA,3.0,BOWEN A,3 - 7,175,USA,2:55,Goal,1
+3,Action shot,8.0,7,7,USA,3.0,YOUNGER A,3 - 7,160,AUS,2:40,Post,0
+3,Extra player shot,9.0,7,7,USA,3.0,BOWEN A,3 - 7,130,USA,2:10,Post,0
+3,Counter attack,2.0,7,7,USA,3.0,CAMPBELL R,3 - 7,110,AUS,1:50,Missed,0
+3,Centre shot,12.0,7,8,USA,3.0,MANN J,3 - 8,109,USA,1:49,Goal,1
+3,Action shot,7.0,7,8,USA,3.0,ROACH A,3 - 8,56,AUS,0:56,Saved,0
+4,Extra player shot,5.0,7,8,USA,3.0,POWER N,4 - 8,30,AUS,0:30,Goal,1
+4,Action shot,10.0,7,8,USA,3.0,BONANNI B,4 - 8,0,USA,0:00,Saved,0
+4,Action shot,11.0,7,8,USA,4.0,HOWDEN R,4 - 8,457,AUS,7:37,Missed,0
+4,5m shot,9.0,7,9,USA,4.0,BOWEN A,4 - 9,432,USA,7:12,Goal,1
+4,5m shot,8.0,7,10,USA,4.0,AZEVEDO T,4 - 10,388,USA,6:28,Goal,1
+5,Extra player shot,8.0,7,10,USA,4.0,YOUNGER A,5 - 10,369,AUS,6:09,Goal,1
+5,Action shot,12.0,7,10,USA,4.0,MARTIN T,5 - 10,317,AUS,5:17,Saved,0
+5,Action shot,2.0,7,10,USA,4.0,VAVIC N,5 - 10,299,USA,4:59,Saved,0
+5,Counter attack,12.0,7,10,USA,4.0,MARTIN T,5 - 10,229,AUS,3:49,Saved,0
+5,Action shot,7.0,7,10,USA,4.0,ROACH A,5 - 10,182,AUS,3:02,Saved,0
+6,Action shot,2.0,7,10,USA,4.0,CAMPBELL R,6 - 10,174,AUS,2:54,Goal,1
+6,Extra player shot,5.0,7,10,USA,4.0,POWER N,6 - 10,96,AUS,1:36,Saved,0
+6,5m shot,10.0,7,10,USA,4.0,BONANNI B,6 - 10,40,USA,0:40,Saved,0
+6,Action shot,8.0,7,10,USA,4.0,YOUNGER A,6 - 10,31,AUS,0:31,Blocked,0

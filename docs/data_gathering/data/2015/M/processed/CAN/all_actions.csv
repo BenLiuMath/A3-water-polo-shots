@@ -1,0 +1,758 @@
+Action,CAN,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,0,1.0,1,0,CRO,1.0,PAVIC J,0 - 0,480,CRO,8:00
+Starting goalkeeper,0,13.0,1,0,CRO,1.0,ALEKSIC D,0 - 0,480,CAN,8:00
+Sprint won possession,0,8.0,1,0,CRO,1.0,GRAHAM K,0 - 0,480,CAN,8:00
+Turnover foul,0,3.0,1,0,CRO,1.0,VIKALO O,0 - 0,453,CAN,7:33
+Turnover foul,0,2.0,1,0,CRO,1.0,BURIC D,0 - 0,434,CRO,7:14
+Steal,0,13.0,1,0,CRO,1.0,ALEKSIC D,0 - 0,434,CAN,7:14
+Turnover foul,0,3.0,1,0,CRO,1.0,VIKALO O,0 - 0,403,CAN,6:43
+Steal,0,7.0,1,0,CRO,1.0,MUSLIM P,0 - 0,403,CRO,6:43
+Penalty foul,0,2.0,1,0,CRO,1.0,KUDABA C,0 - 0,387,CAN,6:27
+Penalty shot - Goal,0,9.0,1,1,CRO,1.0,SUKNO S,1 - 0,387,CRO,6:27
+5m shot - Missed,0,2.0,1,1,CRO,1.0,KUDABA C,1 - 0,365,CAN,6:05
+Penalty foul,0,4.0,1,1,CRO,1.0,CONSTANTIN-BICARI,1 - 0,342,CAN,5:42
+Penalty shot - Saved,0,5.0,1,1,CRO,1.0,JOKOVIC M,1 - 0,342,CRO,5:42
+Turnover foul,0,5.0,1,1,CRO,1.0,JOKOVIC M,1 - 0,338,CRO,5:38
+5m shot - Goal,1,8.0,1,1,CRO,1.0,GRAHAM K,1 - 1,313,CAN,5:13
+Centre shot - Goal,1,4.0,1,2,CRO,1.0,LONCAR L,2 - 1,289,CRO,4:49
+Time-Out,1,,1,2,CRO,1.0,,2 - 1,289,CAN,4:49
+Centre shot - Saved,1,2.0,1,2,CRO,1.0,KUDABA C,2 - 1,268,CAN,4:28
+Turnover foul,1,10.0,1,2,CRO,1.0,CONWAY J,2 - 1,235,CAN,3:55
+Steal,1,8.0,1,2,CRO,1.0,BUSLJE A,2 - 1,235,CRO,3:55
+20 sec. exclusion in centre,1,8.0,1,2,CRO,1.0,GRAHAM K,2 - 1,230,CAN,3:50
+Time-Out,1,,1,2,CRO,1.0,,2 - 1,230,CRO,3:50
+Action shot - Goal,1,12.0,1,3,CRO,1.0,OBRADOVIC P,3 - 1,208,CRO,3:28
+Action shot - Missed,1,2.0,1,3,CRO,1.0,KUDABA C,3 - 1,178,CAN,2:58
+20 sec. exclusion in field,1,3.0,1,3,CRO,1.0,PETKOVIC A,3 - 1,139,CRO,2:19
+Extra player shot - Goal,2,10.0,1,3,CRO,1.0,CONWAY J,3 - 2,118,CAN,1:58
+Turnover foul,2,3.0,1,3,CRO,1.0,PETKOVIC A,3 - 2,90,CRO,1:30
+Turnover foul,2,11.0,1,3,CRO,1.0,TORAKIS G,3 - 2,67,CAN,1:07
+Steal,2,8.0,1,3,CRO,1.0,BUSLJE A,3 - 2,67,CRO,1:07
+Turnover foul,2,10.0,1,3,CRO,1.0,PASKVALIN F,3 - 2,40,CRO,0:40
+Steal,2,13.0,1,3,CRO,1.0,ALEKSIC D,3 - 2,40,CAN,0:40
+Turnover foul,2,5.0,1,3,CRO,1.0,BOYD J,3 - 2,19,CAN,0:19
+Action shot - Goal,2,6.0,1,4,CRO,1.0,BUKIC L,4 - 2,8,CRO,0:08
+5m shot - Blocked,2,11.0,1,4,CRO,1.0,TORAKIS G,4 - 2,0,CAN,0:00
+Starting goalkeeper,2,1.0,1,4,CRO,2.0,PAVIC J,4 - 2,480,CRO,8:00
+Starting goalkeeper,2,13.0,1,4,CRO,2.0,ALEKSIC D,4 - 2,480,CAN,8:00
+Sprint won possession,2,6.0,1,4,CRO,2.0,BUKIC L,4 - 2,480,CRO,8:00
+Turnover foul,2,12.0,1,4,CRO,2.0,OBRADOVIC P,4 - 2,451,CRO,7:31
+Steal,2,13.0,1,4,CRO,2.0,ALEKSIC D,4 - 2,451,CAN,7:31
+Centre shot - Saved,2,3.0,1,4,CRO,2.0,VIKALO O,4 - 2,394,CAN,6:34
+Action shot - Goal,3,3.0,1,4,CRO,2.0,VIKALO O,4 - 3,390,CAN,6:30
+Action shot - Goal,3,2.0,1,5,CRO,2.0,BURIC D,5 - 3,363,CRO,6:03
+5m shot - Saved,3,8.0,1,5,CRO,2.0,GRAHAM K,5 - 3,331,CAN,5:31
+Centre shot - Goal,3,7.0,1,6,CRO,2.0,MUSLIM P,6 - 3,320,CRO,5:20
+20 sec. exclusion in centre,3,2.0,1,6,CRO,2.0,BURIC D,6 - 3,303,CRO,5:03
+Extra player shot - Goal,4,10.0,1,6,CRO,2.0,CONWAY J,6 - 4,283,CAN,4:43
+Centre shot - Goal,4,4.0,1,7,CRO,2.0,LONCAR L,7 - 4,253,CRO,4:13
+Turnover foul,4,4.0,1,7,CRO,2.0,CONSTANTIN-BICARI,7 - 4,228,CAN,3:48
+Steal,4,6.0,1,7,CRO,2.0,BUKIC L,7 - 4,228,CRO,3:48
+Centre shot - Goal,4,6.0,1,8,CRO,2.0,BUKIC L,8 - 4,214,CRO,3:34
+5m shot - Saved,4,11.0,1,8,CRO,2.0,TORAKIS G,8 - 4,183,CAN,3:03
+Centre shot - Goal,4,10.0,1,9,CRO,2.0,PASKVALIN F,9 - 4,161,CRO,2:41
+Time-Out,4,,1,9,CRO,2.0,,9 - 4,161,CAN,2:41
+5m shot - Saved,4,8.0,1,9,CRO,2.0,GRAHAM K,9 - 4,134,CAN,2:14
+5m shot - Goal,4,3.0,1,10,CRO,2.0,PETKOVIC A,10 - 4,114,CRO,1:54
+Goalkeeper substitution,4,1.0,1,10,CRO,2.0,RANDALL R,10 - 4,114,CAN,1:54
+Action shot - Saved,4,5.0,1,10,CRO,2.0,BOYD J,10 - 4,93,CAN,1:33
+Turnover foul,4,5.0,1,10,CRO,2.0,BOYD J,10 - 4,74,CAN,1:14
+Steal,4,1.0,1,10,CRO,2.0,PAVIC J,10 - 4,74,CRO,1:14
+5m shot - Post,4,9.0,1,10,CRO,2.0,SUKNO S,10 - 4,60,CRO,1:00
+5m shot - Saved,4,11.0,1,10,CRO,2.0,TORAKIS G,10 - 4,37,CAN,0:37
+Action shot - Post,4,3.0,1,10,CRO,2.0,VIKALO O,10 - 4,6,CAN,0:06
+Time-Out,4,,1,10,CRO,2.0,,10 - 4,6,CRO,0:06
+Starting goalkeeper,4,1.0,1,10,CRO,3.0,PAVIC J,10 - 4,480,CRO,8:00
+Starting goalkeeper,4,1.0,1,10,CRO,3.0,RANDALL R,10 - 4,480,CAN,8:00
+Sprint won possession,4,8.0,1,10,CRO,3.0,GRAHAM K,10 - 4,480,CAN,8:00
+Turnover foul,4,5.0,1,10,CRO,3.0,BOYD J,10 - 4,451,CAN,7:31
+Steal,4,9.0,1,10,CRO,3.0,SUKNO S,10 - 4,451,CRO,7:31
+Action shot - Post,4,12.0,1,10,CRO,3.0,OBRADOVIC P,10 - 4,432,CRO,7:12
+5m shot - Saved,4,8.0,1,10,CRO,3.0,GRAHAM K,10 - 4,403,CAN,6:43
+Centre shot - Saved,4,4.0,1,10,CRO,3.0,CONSTANTIN-BICARI,10 - 4,375,CAN,6:15
+Turnover foul,4,12.0,1,10,CRO,3.0,OBRADOVIC P,10 - 4,349,CRO,5:49
+Centre shot - Saved,4,11.0,1,10,CRO,3.0,SETKA A,10 - 4,302,CRO,5:02
+Turnover foul,4,7.0,1,10,CRO,3.0,TASCHEREAU A,10 - 4,284,CAN,4:44
+Steal,4,9.0,1,10,CRO,3.0,SUKNO S,10 - 4,284,CRO,4:44
+Action shot - Goal,4,7.0,1,11,CRO,3.0,MUSLIM P,11 - 4,264,CRO,4:24
+Turnover foul,4,2.0,1,11,CRO,3.0,KUDABA C,11 - 4,238,CAN,3:58
+Steal,4,8.0,1,11,CRO,3.0,BUSLJE A,11 - 4,238,CRO,3:58
+Centre shot - Post,4,11.0,1,11,CRO,3.0,SETKA A,11 - 4,227,CRO,3:47
+20 sec. exclusion in centre,4,6.0,1,11,CRO,3.0,BUKIC L,11 - 4,201,CRO,3:21
+Extra player shot - Saved,4,5.0,1,11,CRO,3.0,BOYD J,11 - 4,192,CAN,3:12
+Centre shot - Saved,4,3.0,1,11,CRO,3.0,VIKALO O,11 - 4,165,CAN,2:45
+20 sec. exclusion in centre,4,8.0,1,11,CRO,3.0,GRAHAM K,11 - 4,150,CAN,2:30
+Time-Out,4,,1,11,CRO,3.0,,11 - 4,150,CRO,2:30
+Extra player shot - Saved,4,6.0,1,11,CRO,3.0,BUKIC L,11 - 4,142,CRO,2:22
+5m shot - Missed,4,5.0,1,11,CRO,3.0,BOYD J,11 - 4,103,CAN,1:43
+5m shot - Saved,4,5.0,1,11,CRO,3.0,JOKOVIC M,11 - 4,69,CRO,1:09
+5m shot - Saved,4,5.0,1,11,CRO,3.0,BOYD J,11 - 4,42,CAN,0:42
+Action shot - Blocked,4,8.0,1,11,CRO,3.0,BUSLJE A,11 - 4,16,CRO,0:16
+Time-Out,4,,1,11,CRO,3.0,,11 - 4,16,CAN,0:16
+Turnover foul,4,4.0,1,11,CRO,3.0,CONSTANTIN-BICARI,11 - 4,5,CAN,0:05
+Steal,4,6.0,1,11,CRO,3.0,BUKIC L,11 - 4,5,CRO,0:05
+5m shot - Saved,4,6.0,1,11,CRO,3.0,BUKIC L,11 - 4,0,CRO,0:00
+Starting goalkeeper,4,1.0,1,11,CRO,4.0,PAVIC J,11 - 4,480,CRO,8:00
+Starting goalkeeper,4,1.0,1,11,CRO,4.0,RANDALL R,11 - 4,480,CAN,8:00
+Sprint won possession,4,8.0,1,11,CRO,4.0,GRAHAM K,11 - 4,480,CAN,8:00
+Turnover foul,4,8.0,1,11,CRO,4.0,GRAHAM K,11 - 4,443,CAN,7:23
+Turnover foul,4,7.0,1,11,CRO,4.0,MUSLIM P,11 - 4,430,CRO,7:10
+Action shot - Missed,4,4.0,1,11,CRO,4.0,CONSTANTIN-BICARI,11 - 4,425,CAN,7:05
+Turnover foul,4,7.0,1,11,CRO,4.0,MUSLIM P,11 - 4,408,CRO,6:48
+Steal,4,1.0,1,11,CRO,4.0,RANDALL R,11 - 4,408,CAN,6:48
+20 sec. exclusion in centre,4,4.0,1,11,CRO,4.0,LONCAR L,11 - 4,391,CRO,6:31
+Action shot - Saved,4,8.0,1,11,CRO,4.0,GRAHAM K,11 - 4,367,CAN,6:07
+Action shot - Saved,4,7.0,1,11,CRO,4.0,MUSLIM P,11 - 4,350,CRO,5:50
+Turnover foul,4,8.0,1,11,CRO,4.0,BUSLJE A,11 - 4,335,CRO,5:35
+Steal,4,8.0,1,11,CRO,4.0,GRAHAM K,11 - 4,335,CAN,5:35
+20 sec. exclusion in centre,4,11.0,1,11,CRO,4.0,TORAKIS G,11 - 4,321,CAN,5:21
+Action shot - Goal,5,4.0,1,11,CRO,4.0,CONSTANTIN-BICARI,11 - 5,290,CAN,4:50
+Turnover foul,5,4.0,1,11,CRO,4.0,LONCAR L,11 - 5,270,CRO,4:30
+5m shot - Goal,6,2.0,1,11,CRO,4.0,KUDABA C,11 - 6,245,CAN,4:05
+Action shot - Goal,6,12.0,1,12,CRO,4.0,OBRADOVIC P,12 - 6,230,CRO,3:50
+5m shot - Blocked,6,2.0,1,12,CRO,4.0,KUDABA C,12 - 6,202,CAN,3:22
+Turnover foul,6,5.0,1,12,CRO,4.0,BOYD J,12 - 6,178,CAN,2:58
+Steal,6,9.0,1,12,CRO,4.0,SUKNO S,12 - 6,178,CRO,2:58
+Turnover foul,6,3.0,1,12,CRO,4.0,PETKOVIC A,12 - 6,153,CRO,2:33
+Steal,6,8.0,1,12,CRO,4.0,GRAHAM K,12 - 6,153,CAN,2:33
+Counter attack - Goal,7,10.0,1,12,CRO,4.0,CONWAY J,12 - 7,146,CAN,2:26
+Centre shot - Saved,7,7.0,1,12,CRO,4.0,MUSLIM P,12 - 7,129,CRO,2:09
+5m shot - Saved,7,5.0,1,12,CRO,4.0,BOYD J,12 - 7,108,CAN,1:48
+Time-Out,7,,1,12,CRO,4.0,,12 - 7,107,CRO,1:47
+Turnover foul,7,2.0,1,12,CRO,4.0,BURIC D,12 - 7,78,CRO,1:18
+Steal,7,1.0,1,12,CRO,4.0,RANDALL R,12 - 7,78,CAN,1:18
+5m shot - Saved,7,5.0,1,12,CRO,4.0,BOYD J,12 - 7,55,CAN,0:55
+Turnover foul,7,9.0,1,12,CRO,4.0,SUKNO S,12 - 7,28,CRO,0:28
+Time-Out,7,,1,12,CRO,4.0,,12 - 7,28,CAN,0:28
+Turnover foul,7,2.0,1,12,CRO,4.0,KUDABA C,12 - 7,2,CAN,0:02
+Starting goalkeeper,0,1.0,2,0,CHN,1.0,WU H,0 - 0,480,CHN,8:00
+Starting goalkeeper,0,1.0,2,0,CHN,1.0,RANDALL R,0 - 0,480,CAN,8:00
+Sprint won possession,0,8.0,2,0,CHN,1.0,GRAHAM K,0 - 0,480,CAN,8:00
+Turnover foul,0,12.0,2,0,CHN,1.0,MCELROY J,0 - 0,455,CAN,7:35
+Turnover foul,0,8.0,2,0,CHN,1.0,GRAHAM K,0 - 0,417,CAN,6:57
+5m shot - Post,0,11.0,2,0,CHN,1.0,ZHANG C,0 - 0,395,CHN,6:35
+Action shot - Post,0,4.0,2,0,CHN,1.0,CONSTANTIN-BICARI,0 - 0,372,CAN,6:12
+5m shot - Missed,0,5.0,2,0,CHN,1.0,LU W,0 - 0,352,CHN,5:52
+Action shot - Missed,0,5.0,2,0,CHN,1.0,BOYD J,0 - 0,335,CAN,5:35
+Centre shot - Saved,0,6.0,2,0,CHN,1.0,LI L,0 - 0,320,CHN,5:20
+5m shot - Blocked,0,2.0,2,0,CHN,1.0,TAN F,0 - 0,294,CHN,4:54
+Turnover foul,0,2.0,2,0,CHN,1.0,TAN F,0 - 0,290,CHN,4:50
+Action shot - Saved,0,10.0,2,0,CHN,1.0,CONWAY J,0 - 0,265,CAN,4:25
+Time-Out,0,,2,0,CHN,1.0,,0 - 0,261,CHN,4:21
+Turnover foul,0,3.0,2,0,CHN,1.0,HU Z,0 - 0,252,CHN,4:12
+Action shot - Saved,0,8.0,2,0,CHN,1.0,GRAHAM K,0 - 0,241,CAN,4:01
+5m shot - Post,0,11.0,2,0,CHN,1.0,ZHANG C,0 - 0,212,CHN,3:32
+Turnover foul,0,12.0,2,0,CHN,1.0,LIANG N,0 - 0,183,CHN,3:03
+20 sec. exclusion in centre,0,7.0,2,0,CHN,1.0,CHEN Z,0 - 0,155,CHN,2:35
+Extra player shot - Goal,1,2.0,2,0,CHN,1.0,KUDABA C,0 - 1,138,CAN,2:18
+5m shot - Blocked,1,3.0,2,0,CHN,1.0,HU Z,0 - 1,114,CHN,1:54
+5m shot - Goal,2,12.0,2,0,CHN,1.0,MCELROY J,0 - 2,97,CAN,1:37
+5m shot - Blocked,2,4.0,2,0,CHN,1.0,DONG T,0 - 2,73,CHN,1:13
+20 sec. exclusion in centre,2,2.0,2,0,CHN,1.0,TAN F,0 - 2,65,CHN,1:05
+Action shot - Goal,3,12.0,2,0,CHN,1.0,MCELROY J,0 - 3,42,CAN,0:42
+5m shot - Saved,3,2.0,2,0,CHN,1.0,TAN F,0 - 3,17,CHN,0:17
+Time-Out,3,,2,0,CHN,1.0,,0 - 3,16,CAN,0:16
+Turnover foul,3,12.0,2,0,CHN,1.0,MCELROY J,0 - 3,4,CAN,0:04
+Steal,3,5.0,2,0,CHN,1.0,LU W,0 - 3,4,CHN,0:04
+Starting goalkeeper,3,1.0,2,0,CHN,2.0,WU H,0 - 3,480,CHN,8:00
+Starting goalkeeper,3,1.0,2,0,CHN,2.0,RANDALL R,0 - 3,480,CAN,8:00
+Sprint won possession,3,8.0,2,0,CHN,2.0,GRAHAM K,0 - 3,480,CAN,8:00
+5m shot - Saved,3,8.0,2,0,CHN,2.0,GRAHAM K,0 - 3,456,CAN,7:36
+Turnover foul,3,1.0,2,0,CHN,2.0,WU H,0 - 3,450,CHN,7:30
+Action shot - Goal,4,4.0,2,0,CHN,2.0,CONSTANTIN-BICARI,0 - 4,441,CAN,7:21
+Action shot - Saved,4,12.0,2,0,CHN,2.0,LIANG N,0 - 4,420,CHN,7:00
+Turnover foul,4,12.0,2,0,CHN,2.0,MCELROY J,0 - 4,402,CAN,6:42
+5m shot - Saved,4,6.0,2,0,CHN,2.0,LI L,0 - 4,383,CHN,6:23
+5m shot - Saved,4,5.0,2,0,CHN,2.0,BOYD J,0 - 4,360,CAN,6:00
+Action shot - Saved,4,7.0,2,0,CHN,2.0,TASCHEREAU A,0 - 4,344,CAN,5:44
+Penalty foul,4,8.0,2,0,CHN,2.0,LI L,0 - 4,322,CHN,5:22
+Penalty shot - Goal,5,12.0,2,0,CHN,2.0,MCELROY J,0 - 5,322,CAN,5:22
+Action shot - Saved,5,10.0,2,0,CHN,2.0,CONWAY J,0 - 5,293,CAN,4:53
+Turnover foul,5,4.0,2,0,CHN,2.0,DONG T,0 - 5,269,CHN,4:29
+5m shot - Post,5,5.0,2,0,CHN,2.0,BOYD J,0 - 5,246,CAN,4:06
+Turnover foul,5,3.0,2,0,CHN,2.0,HU Z,0 - 5,227,CHN,3:47
+5m shot - Goal,6,5.0,2,0,CHN,2.0,BOYD J,0 - 6,205,CAN,3:25
+Action shot - Saved,6,3.0,2,0,CHN,2.0,HU Z,0 - 6,184,CHN,3:04
+Turnover foul,6,4.0,2,0,CHN,2.0,CONSTANTIN-BICARI,0 - 6,164,CAN,2:44
+5m shot - Saved,6,11.0,2,0,CHN,2.0,ZHANG C,0 - 6,138,CHN,2:18
+Time-Out,6,,2,0,CHN,2.0,,0 - 6,129,CAN,2:09
+Turnover foul,6,10.0,2,0,CHN,2.0,CONWAY J,0 - 6,106,CAN,1:46
+20 sec. exclusion in centre,6,9.0,2,0,CHN,2.0,HALAJIAN M,0 - 6,88,CAN,1:28
+Time-Out,6,,2,0,CHN,2.0,,0 - 6,88,CHN,1:28
+Action shot - Blocked,6,6.0,2,0,CHN,2.0,LI L,0 - 6,61,CHN,1:01
+Turnover foul,6,12.0,2,0,CHN,2.0,MCELROY J,0 - 6,32,CAN,0:32
+Turnover foul,6,10.0,2,0,CHN,2.0,CHEN J,0 - 6,20,CHN,0:20
+Action shot - Saved,6,8.0,2,0,CHN,2.0,GRAHAM K,0 - 6,5,CAN,0:05
+Action shot - Saved,6,10.0,2,0,CHN,2.0,CONWAY J,0 - 6,1,CAN,0:01
+Starting goalkeeper,6,1.0,2,0,CHN,3.0,WU H,0 - 6,480,CHN,8:00
+Starting goalkeeper,6,1.0,2,0,CHN,3.0,RANDALL R,0 - 6,480,CAN,8:00
+Sprint won possession,6,8.0,2,0,CHN,3.0,GRAHAM K,0 - 6,480,CAN,8:00
+20 sec. exclusion in centre,6,6.0,2,0,CHN,3.0,LI L,0 - 6,460,CHN,7:40
+Action shot - Saved,6,12.0,2,0,CHN,3.0,MCELROY J,0 - 6,447,CAN,7:27
+5m shot - Missed,6,3.0,2,0,CHN,3.0,HU Z,0 - 6,426,CHN,7:06
+Action shot - Saved,6,4.0,2,0,CHN,3.0,CONSTANTIN-BICARI,0 - 6,411,CAN,6:51
+20 sec. exclusion in centre,6,8.0,2,0,CHN,3.0,GRAHAM K,0 - 6,394,CAN,6:34
+Extra player shot - Goal,6,2.0,2,1,CHN,3.0,TAN F,1 - 6,372,CHN,6:12
+Turnover foul,6,2.0,2,1,CHN,3.0,KUDABA C,1 - 6,348,CAN,5:48
+Steal,6,11.0,2,1,CHN,3.0,ZHANG C,1 - 6,341,CHN,5:41
+5m shot - Missed,6,2.0,2,1,CHN,3.0,TAN F,1 - 6,326,CHN,5:26
+20 sec. exclusion in field,6,12.0,2,1,CHN,3.0,LIANG N,1 - 6,322,CHN,5:22
+Time-Out,6,,2,1,CHN,3.0,,1 - 6,322,CAN,5:22
+Extra player shot - Saved,6,10.0,2,1,CHN,3.0,CONWAY J,1 - 6,285,CAN,4:45
+Action shot - Saved,6,12.0,2,1,CHN,3.0,MCELROY J,1 - 6,276,CAN,4:36
+20 sec. exclusion in centre,6,2.0,2,1,CHN,3.0,KUDABA C,1 - 6,275,CAN,4:35
+Extra player shot - Saved,6,11.0,2,1,CHN,3.0,ZHANG C,1 - 6,255,CHN,4:15
+Action shot - Goal,7,3.0,2,1,CHN,3.0,VIKALO O,1 - 7,231,CAN,3:51
+5m shot - Saved,7,3.0,2,1,CHN,3.0,HU Z,1 - 7,209,CHN,3:29
+5m shot - Saved,7,6.0,2,1,CHN,3.0,LI L,1 - 7,185,CHN,3:05
+Turnover foul,7,8.0,2,1,CHN,3.0,GRAHAM K,1 - 7,163,CAN,2:43
+Steal,7,3.0,2,1,CHN,3.0,HU Z,1 - 7,163,CHN,2:43
+Time-Out,7,,2,1,CHN,3.0,,1 - 7,163,CHN,2:43
+Turnover foul,7,3.0,2,1,CHN,3.0,HU Z,1 - 7,151,CHN,2:31
+5m shot - Saved,7,5.0,2,1,CHN,3.0,BOYD J,1 - 7,128,CAN,2:08
+Turnover foul,7,5.0,2,1,CHN,3.0,BOYD J,1 - 7,116,CAN,1:56
+Steal,7,4.0,2,1,CHN,3.0,DONG T,1 - 7,116,CHN,1:56
+5m shot - Saved,7,12.0,2,1,CHN,3.0,LIANG N,1 - 7,90,CHN,1:30
+Turnover foul,7,5.0,2,1,CHN,3.0,BOYD J,1 - 7,64,CAN,1:04
+Steal,7,4.0,2,1,CHN,3.0,DONG T,1 - 7,64,CHN,1:04
+5m shot - Post,7,3.0,2,1,CHN,3.0,HU Z,1 - 7,38,CHN,0:38
+Turnover foul,7,10.0,2,1,CHN,3.0,CONWAY J,1 - 7,12,CAN,0:12
+Starting goalkeeper,7,1.0,2,1,CHN,4.0,WU H,1 - 7,480,CHN,8:00
+Starting goalkeeper,7,1.0,2,1,CHN,4.0,RANDALL R,1 - 7,480,CAN,8:00
+Sprint won possession,7,3.0,2,1,CHN,4.0,HU Z,1 - 7,480,CHN,8:00
+20 sec. exclusion in centre,7,8.0,2,1,CHN,4.0,GRAHAM K,1 - 7,463,CAN,7:43
+Extra player shot - Saved,7,11.0,2,1,CHN,4.0,ZHANG C,1 - 7,443,CHN,7:23
+Turnover foul,7,10.0,2,1,CHN,4.0,CONWAY J,1 - 7,417,CAN,6:57
+5m shot - Saved,7,2.0,2,1,CHN,4.0,TAN F,1 - 7,400,CHN,6:40
+5m shot - Saved,7,10.0,2,1,CHN,4.0,CHEN J,1 - 7,342,CHN,5:42
+Turnover foul,7,11.0,2,1,CHN,4.0,TORAKIS G,1 - 7,310,CAN,5:10
+5m shot - Saved,7,12.0,2,1,CHN,4.0,LIANG N,1 - 7,285,CHN,4:45
+Time-Out,7,,2,1,CHN,4.0,,1 - 7,283,CAN,4:43
+Turnover foul,7,8.0,2,1,CHN,4.0,GRAHAM K,1 - 7,257,CAN,4:17
+Turnover foul,7,12.0,2,1,CHN,4.0,LIANG N,1 - 7,244,CHN,4:04
+Action shot - Saved,7,9.0,2,1,CHN,4.0,HALAJIAN M,1 - 7,230,CAN,3:50
+20 sec. exclusion in centre,7,12.0,2,1,CHN,4.0,MCELROY J,1 - 7,210,CAN,3:30
+Extra player shot - Missed,7,2.0,2,1,CHN,4.0,TAN F,1 - 7,191,CHN,3:11
+Turnover foul,7,8.0,2,1,CHN,4.0,GRAHAM K,1 - 7,180,CAN,3:00
+Steal,7,4.0,2,1,CHN,4.0,DONG T,1 - 7,180,CHN,3:00
+20 sec. exclusion in centre,7,5.0,2,1,CHN,4.0,LU W,1 - 7,136,CHN,2:16
+Extra player shot - Post,7,12.0,2,1,CHN,4.0,MCELROY J,1 - 7,119,CAN,1:59
+Action shot - Goal,8,2.0,2,1,CHN,4.0,KUDABA C,1 - 8,113,CAN,1:53
+Action shot - Goal,8,2.0,2,2,CHN,4.0,TAN F,2 - 8,95,CHN,1:35
+Action shot - Saved,8,8.0,2,2,CHN,4.0,GRAHAM K,2 - 8,67,CAN,1:07
+Turnover foul,8,2.0,2,2,CHN,4.0,TAN F,2 - 8,51,CHN,0:51
+Turnover foul,8,2.0,2,2,CHN,4.0,KUDABA C,2 - 8,29,CAN,0:29
+Time-Out,8,,2,2,CHN,4.0,,2 - 8,29,CHN,0:29
+Yellow card,8,,2,2,CHN,4.0,Team Official,2 - 8,29,CHN,0:29
+5m shot - Saved,8,2.0,2,2,CHN,4.0,TAN F,2 - 8,11,CHN,0:11
+Starting goalkeeper,0,1.0,3,0,BRA,1.0,ANTONELLI V,0 - 0,480,BRA,8:00
+Starting goalkeeper,0,1.0,3,0,BRA,1.0,RANDALL R,0 - 0,480,CAN,8:00
+Sprint won possession,0,8.0,3,0,BRA,1.0,GRAHAM K,0 - 0,480,CAN,8:00
+Turnover foul,0,12.0,3,0,BRA,1.0,MCELROY J,0 - 0,452,CAN,7:32
+5m shot - Saved,0,6.0,3,0,BRA,1.0,GOMES B,0 - 0,424,BRA,7:04
+20 sec. exclusion in field,0,8.0,3,0,BRA,1.0,GRAHAM K,0 - 0,402,CAN,6:42
+Action shot - Blocked,0,2.0,3,0,BRA,1.0,CRIVELLA J,0 - 0,376,BRA,6:16
+20 sec. exclusion in field,0,6.0,3,0,BRA,1.0,GOMES B,0 - 0,361,BRA,6:01
+Extra player shot - Blocked,0,12.0,3,0,BRA,1.0,MCELROY J,0 - 0,341,CAN,5:41
+Turnover foul,0,12.0,3,0,BRA,1.0,VRLIC J,0 - 0,319,BRA,5:19
+Action shot - Goal,1,2.0,3,0,BRA,1.0,KUDABA C,0 - 1,304,CAN,5:04
+Action shot - Saved,1,7.0,3,0,BRA,1.0,DELGADO A,0 - 1,274,BRA,4:34
+20 sec. exclusion in centre,1,2.0,3,0,BRA,1.0,CRIVELLA J,0 - 1,251,BRA,4:11
+Extra player shot - Missed,1,5.0,3,0,BRA,1.0,BOYD J,0 - 1,235,CAN,3:55
+Action shot - Blocked,1,7.0,3,0,BRA,1.0,DELGADO A,0 - 1,209,BRA,3:29
+Turnover foul,1,10.0,3,0,BRA,1.0,PERRONE F,0 - 1,194,BRA,3:14
+Steal,1,1.0,3,0,BRA,1.0,RANDALL R,0 - 1,194,CAN,3:14
+Counter attack - Saved,1,5.0,3,0,BRA,1.0,BOYD J,0 - 1,175,CAN,2:55
+Action shot - Blocked,1,10.0,3,0,BRA,1.0,PERRONE F,0 - 1,150,BRA,2:30
+Centre shot - Goal,2,4.0,3,0,BRA,1.0,CONSTANTIN-BICARI,0 - 2,130,CAN,2:10
+5m shot - Saved,2,10.0,3,0,BRA,1.0,PERRONE F,0 - 2,104,BRA,1:44
+5m shot - Goal,3,12.0,3,0,BRA,1.0,MCELROY J,0 - 3,84,CAN,1:24
+Turnover foul,3,2.0,3,0,BRA,1.0,CRIVELLA J,0 - 3,54,BRA,0:54
+Turnover foul,3,3.0,3,0,BRA,1.0,VIKALO O,0 - 3,31,CAN,0:31
+20 sec. exclusion in field,3,12.0,3,0,BRA,1.0,MCELROY J,0 - 3,31,CAN,0:31
+Time-Out,3,,3,0,BRA,1.0,,0 - 3,31,BRA,0:31
+Extra player shot - Blocked,3,10.0,3,0,BRA,1.0,PERRONE F,0 - 3,7,BRA,0:07
+Action shot - Post,3,10.0,3,0,BRA,1.0,PERRONE F,0 - 3,1,BRA,0:01
+Time-Out,3,,3,0,BRA,1.0,,0 - 3,1,CAN,0:01
+Starting goalkeeper,3,1.0,3,0,BRA,2.0,ANTONELLI V,0 - 3,480,BRA,8:00
+Starting goalkeeper,3,1.0,3,0,BRA,2.0,RANDALL R,0 - 3,480,CAN,8:00
+Sprint won possession,3,8.0,3,0,BRA,2.0,GRAHAM K,0 - 3,480,CAN,8:00
+Turnover foul,3,2.0,3,0,BRA,2.0,KUDABA C,0 - 3,451,CAN,7:31
+Steal,3,10.0,3,0,BRA,2.0,PERRONE F,0 - 3,451,BRA,7:31
+20 sec. exclusion in centre,3,2.0,3,0,BRA,2.0,KUDABA C,0 - 3,433,CAN,7:13
+Extra player shot - Post,3,6.0,3,0,BRA,2.0,GOMES B,0 - 3,413,BRA,6:53
+Action shot - Goal,4,5.0,3,0,BRA,2.0,BOYD J,0 - 4,397,CAN,6:37
+Action shot - Saved,4,2.0,3,0,BRA,2.0,CRIVELLA J,0 - 4,374,BRA,6:14
+Turnover foul,4,4.0,3,0,BRA,2.0,CONSTANTIN-BICARI,0 - 4,354,CAN,5:54
+20 sec. exclusion in field,4,4.0,3,0,BRA,2.0,CONSTANTIN-BICARI,0 - 4,337,CAN,5:37
+Extra player shot - Goal,4,8.0,3,1,BRA,2.0,SILVA F,1 - 4,318,BRA,5:18
+20 sec. exclusion in field,4,4.0,3,1,BRA,2.0,GONZALEZ I,1 - 4,310,BRA,5:10
+Action shot - Saved,4,10.0,3,1,BRA,2.0,CONWAY J,1 - 4,282,CAN,4:42
+20 sec. exclusion in centre,4,7.0,3,1,BRA,2.0,TASCHEREAU A,1 - 4,261,CAN,4:21
+Action shot - Goal,4,8.0,3,2,BRA,2.0,SILVA F,2 - 4,238,BRA,3:58
+5m shot - Missed,4,5.0,3,2,BRA,2.0,BOYD J,2 - 4,214,CAN,3:34
+Turnover foul,4,6.0,3,2,BRA,2.0,GOMES B,2 - 4,194,BRA,3:14
+20 sec. exclusion in field,4,11.0,3,2,BRA,2.0,GUIMARAES G,2 - 4,175,BRA,2:55
+Time-Out,4,,3,2,BRA,2.0,,2 - 4,175,CAN,2:55
+Extra player shot - Goal,5,10.0,3,2,BRA,2.0,CONWAY J,2 - 5,155,CAN,2:35
+5m shot - Saved,5,10.0,3,2,BRA,2.0,PERRONE F,2 - 5,127,BRA,2:07
+Counter attack - Goal,6,5.0,3,2,BRA,2.0,BOYD J,2 - 6,104,CAN,1:44
+Penalty foul,6,8.0,3,2,BRA,2.0,GRAHAM K,2 - 6,84,CAN,1:24
+Penalty shot - Saved,6,6.0,3,2,BRA,2.0,GOMES B,2 - 6,84,BRA,1:24
+5m shot - Saved,6,8.0,3,2,BRA,2.0,GRAHAM K,2 - 6,52,CAN,0:52
+20 sec. exclusion in centre,6,8.0,3,2,BRA,2.0,GRAHAM K,2 - 6,35,CAN,0:35
+Exclusion with substitution,6,8.0,3,2,BRA,2.0,GRAHAM K,2 - 6,35,CAN,0:35
+Extra player shot - Goal,6,6.0,3,3,BRA,2.0,GOMES B,3 - 6,16,BRA,0:16
+5m shot - Missed,6,10.0,3,3,BRA,2.0,PERRONE F,3 - 6,1,BRA,0:01
+Starting goalkeeper,6,1.0,3,3,BRA,3.0,ANTONELLI V,3 - 6,480,BRA,8:00
+Starting goalkeeper,6,1.0,3,3,BRA,3.0,RANDALL R,3 - 6,480,CAN,8:00
+Sprint won possession,6,7.0,3,3,BRA,3.0,DELGADO A,3 - 6,480,BRA,8:00
+Turnover foul,6,2.0,3,3,BRA,3.0,CRIVELLA J,3 - 6,454,BRA,7:34
+Counter attack - Goal,7,12.0,3,3,BRA,3.0,MCELROY J,3 - 7,442,CAN,7:22
+5m shot - Missed,7,5.0,3,3,BRA,3.0,SALEMI P,3 - 7,418,BRA,6:58
+5m shot - Blocked,7,7.0,3,3,BRA,3.0,TASCHEREAU A,3 - 7,389,CAN,6:29
+Turnover foul,7,5.0,3,3,BRA,3.0,SALEMI P,3 - 7,365,BRA,6:05
+Steal,7,7.0,3,3,BRA,3.0,TASCHEREAU A,3 - 7,365,CAN,6:05
+Turnover foul,7,11.0,3,3,BRA,3.0,TORAKIS G,3 - 7,340,CAN,5:40
+Steal,7,10.0,3,3,BRA,3.0,PERRONE F,3 - 7,340,BRA,5:40
+Action shot - Saved,7,6.0,3,3,BRA,3.0,GOMES B,3 - 7,315,BRA,5:15
+Turnover foul,7,5.0,3,3,BRA,3.0,BOYD J,3 - 7,291,CAN,4:51
+Steal,7,5.0,3,3,BRA,3.0,SALEMI P,3 - 7,291,BRA,4:51
+Action shot - Blocked,7,7.0,3,3,BRA,3.0,DELGADO A,3 - 7,269,BRA,4:29
+Turnover foul,7,12.0,3,3,BRA,3.0,VRLIC J,3 - 7,255,BRA,4:15
+Time-Out,7,,3,3,BRA,3.0,,3 - 7,255,CAN,4:15
+20 sec. exclusion in field,7,5.0,3,3,BRA,3.0,SALEMI P,3 - 7,245,BRA,4:05
+Yellow card,7,,3,3,BRA,3.0,Team Official,3 - 7,245,BRA,4:05
+Extra player shot - Saved,7,5.0,3,3,BRA,3.0,BOYD J,3 - 7,227,CAN,3:47
+5m shot - Saved,7,5.0,3,3,BRA,3.0,SALEMI P,3 - 7,197,BRA,3:17
+Turnover foul,7,12.0,3,3,BRA,3.0,MCELROY J,3 - 7,183,CAN,3:03
+Steal,7,7.0,3,3,BRA,3.0,DELGADO A,3 - 7,183,BRA,3:03
+Counter attack - Goal,7,10.0,3,4,BRA,3.0,PERRONE F,4 - 7,169,BRA,2:49
+20 sec. exclusion in field,7,5.0,3,4,BRA,3.0,SALEMI P,4 - 7,159,BRA,2:39
+Extra player shot - Goal,8,3.0,3,4,BRA,3.0,VIKALO O,4 - 8,141,CAN,2:21
+Action shot - Blocked,8,7.0,3,4,BRA,3.0,DELGADO A,4 - 8,119,BRA,1:59
+20 sec. exclusion in field,8,6.0,3,4,BRA,3.0,LAPINS D,4 - 8,110,CAN,1:50
+Extra player shot - Goal,8,3.0,3,5,BRA,3.0,GOMES G,5 - 8,95,BRA,1:35
+20 sec. exclusion in field,8,7.0,3,5,BRA,3.0,DELGADO A,5 - 8,84,BRA,1:24
+Extra player shot - Blocked,8,5.0,3,5,BRA,3.0,BOYD J,5 - 8,59,CAN,0:59
+Turnover foul,8,11.0,3,5,BRA,3.0,GUIMARAES G,5 - 8,44,BRA,0:44
+Steal,8,10.0,3,5,BRA,3.0,CONWAY J,5 - 8,44,CAN,0:44
+20 sec. exclusion in centre,8,3.0,3,5,BRA,3.0,GOMES G,5 - 8,20,BRA,0:20
+Extra player shot - Goal,9,7.0,3,5,BRA,3.0,TASCHEREAU A,5 - 9,1,CAN,0:01
+Starting goalkeeper,9,1.0,3,5,BRA,4.0,ANTONELLI V,5 - 9,480,BRA,8:00
+Starting goalkeeper,9,1.0,3,5,BRA,4.0,RANDALL R,5 - 9,480,CAN,8:00
+Sprint won possession,9,7.0,3,5,BRA,4.0,DELGADO A,5 - 9,480,BRA,8:00
+Centre shot - Saved,9,12.0,3,5,BRA,4.0,VRLIC J,5 - 9,458,BRA,7:38
+Turnover foul,9,7.0,3,5,BRA,4.0,TASCHEREAU A,5 - 9,432,CAN,7:12
+Action shot - Saved,9,2.0,3,5,BRA,4.0,CRIVELLA J,5 - 9,409,BRA,6:49
+Turnover foul,9,4.0,3,5,BRA,4.0,CONSTANTIN-BICARI,5 - 9,386,CAN,6:26
+Turnover foul,9,12.0,3,5,BRA,4.0,VRLIC J,5 - 9,379,BRA,6:19
+Action shot - Missed,9,5.0,3,5,BRA,4.0,BOYD J,5 - 9,350,CAN,5:50
+Action shot - Missed,9,9.0,3,5,BRA,4.0,ROCHA B,5 - 9,332,BRA,5:32
+Double exclusion,9,12.0,3,5,BRA,4.0,VRLIC J,5 - 9,332,BRA,5:32
+Double exclusion,9,2.0,3,5,BRA,4.0,KUDABA C,5 - 9,332,CAN,5:32
+Action shot - Saved,9,7.0,3,5,BRA,4.0,DELGADO A,5 - 9,271,BRA,4:31
+5m shot - Missed,9,10.0,3,5,BRA,4.0,CONWAY J,5 - 9,252,CAN,4:12
+Action shot - Saved,9,7.0,3,5,BRA,4.0,DELGADO A,5 - 9,238,BRA,3:58
+20 sec. exclusion in field,9,2.0,3,5,BRA,4.0,CRIVELLA J,5 - 9,218,BRA,3:38
+Extra player shot - Saved,9,12.0,3,5,BRA,4.0,MCELROY J,5 - 9,195,CAN,3:15
+20 sec. exclusion in field,9,9.0,3,5,BRA,4.0,ROCHA B,5 - 9,181,BRA,3:01
+Time-Out,9,,3,5,BRA,4.0,,5 - 9,181,CAN,3:01
+Action shot - Goal,10,6.0,3,5,BRA,4.0,LAPINS D,5 - 10,158,CAN,2:38
+Action shot - Goal,10,12.0,3,6,BRA,4.0,VRLIC J,6 - 10,127,BRA,2:07
+Turnover foul,10,12.0,3,6,BRA,4.0,VRLIC J,6 - 10,45,BRA,0:45
+Turnover foul,10,2.0,3,6,BRA,4.0,KUDABA C,6 - 10,20,CAN,0:20
+Steal,10,1.0,3,6,BRA,4.0,ANTONELLI V,6 - 10,20,BRA,0:20
+Time-Out,10,,3,6,BRA,4.0,,6 - 10,20,BRA,0:20
+Action shot - Saved,10,12.0,3,6,BRA,4.0,VRLIC J,6 - 10,12,BRA,0:12
+Starting goalkeeper,0,1.0,4,0,ITA,1.0,RANDALL R,0 - 0,480,CAN,8:00
+Starting goalkeeper,0,1.0,4,0,ITA,1.0,TEMPESTI S,0 - 0,480,ITA,8:00
+Sprint won possession,0,4.0,4,0,ITA,1.0,FIGLIOLI P,0 - 0,480,ITA,8:00
+Turnover foul,0,7.0,4,0,ITA,1.0,GIACOPPO M,0 - 0,451,ITA,7:31
+5m shot - Post,0,2.0,4,0,ITA,1.0,KUDABA C,0 - 0,432,CAN,7:12
+Turnover foul,0,5.0,4,0,ITA,1.0,GIORGETTI A,0 - 0,404,ITA,6:44
+Turnover foul,0,2.0,4,0,ITA,1.0,KUDABA C,0 - 0,377,CAN,6:17
+Steal,0,2.0,4,0,ITA,1.0,DI FULVIO F,0 - 0,377,ITA,6:17
+Turnover foul,0,11.0,4,0,ITA,1.0,AICARDI M,0 - 0,341,ITA,5:41
+Turnover foul,0,5.0,4,0,ITA,1.0,BOYD J,0 - 0,338,CAN,5:38
+Turnover foul,0,2.0,4,0,ITA,1.0,DI FULVIO F,0 - 0,308,ITA,5:08
+Action shot - Missed,0,2.0,4,0,ITA,1.0,KUDABA C,0 - 0,296,CAN,4:56
+Turnover foul,0,11.0,4,0,ITA,1.0,AICARDI M,0 - 0,279,ITA,4:39
+Turnover foul,0,10.0,4,0,ITA,1.0,CONWAY J,0 - 0,251,CAN,4:11
+Turnover foul,0,9.0,4,0,ITA,1.0,GITTO N,0 - 0,231,ITA,3:51
+5m shot - Saved,0,8.0,4,0,ITA,1.0,GRAHAM K,0 - 0,215,CAN,3:35
+5m shot - Blocked,0,2.0,4,0,ITA,1.0,KUDABA C,0 - 0,188,CAN,3:08
+20 sec. exclusion in centre,0,2.0,4,0,ITA,1.0,KUDABA C,0 - 0,173,CAN,2:53
+Extra player shot - Goal,0,9.0,4,1,ITA,1.0,GITTO N,0 - 1,160,ITA,2:40
+Time-Out,0,,4,1,ITA,1.0,,0 - 1,160,CAN,2:40
+20 sec. exclusion in centre,0,7.0,4,1,ITA,1.0,GIACOPPO M,0 - 1,147,ITA,2:27
+Extra player shot - Saved,0,12.0,4,1,ITA,1.0,MCELROY J,0 - 1,133,CAN,2:13
+Action shot - Blocked,0,4.0,4,1,ITA,1.0,FIGLIOLI P,0 - 1,108,ITA,1:48
+Action shot - Saved,0,8.0,4,1,ITA,1.0,GRAHAM K,0 - 1,80,CAN,1:20
+Counter attack - Saved,0,8.0,4,1,ITA,1.0,PRESCIUTTI N,0 - 1,55,ITA,0:55
+5m shot - Saved,0,8.0,4,1,ITA,1.0,GRAHAM K,0 - 1,37,CAN,0:37
+Time-Out,0,,4,1,ITA,1.0,,0 - 1,37,ITA,0:37
+Centre shot - Goal,0,5.0,4,2,ITA,1.0,GIORGETTI A,0 - 2,20,ITA,0:20
+5m shot - Post,0,10.0,4,2,ITA,1.0,CONWAY J,0 - 2,5,CAN,0:05
+5m shot - Saved,0,2.0,4,2,ITA,1.0,DI FULVIO F,0 - 2,0,ITA,0:00
+Starting goalkeeper,0,1.0,4,2,ITA,2.0,RANDALL R,0 - 2,480,CAN,8:00
+Starting goalkeeper,0,1.0,4,2,ITA,2.0,TEMPESTI S,0 - 2,480,ITA,8:00
+Sprint won possession,0,10.0,4,2,ITA,2.0,LUONGO S,0 - 2,480,ITA,8:00
+Turnover foul,0,11.0,4,2,ITA,2.0,AICARDI M,0 - 2,451,ITA,7:31
+Penalty foul,0,9.0,4,2,ITA,2.0,GITTO N,0 - 2,439,ITA,7:19
+Penalty shot - Saved,0,10.0,4,2,ITA,2.0,CONWAY J,0 - 2,439,CAN,7:19
+Turnover foul,0,2.0,4,2,ITA,2.0,DI FULVIO F,0 - 2,410,ITA,6:50
+5m shot - Saved,0,11.0,4,2,ITA,2.0,TORAKIS G,0 - 2,381,CAN,6:21
+5m shot - Goal,1,11.0,4,2,ITA,2.0,TORAKIS G,1 - 2,361,CAN,6:01
+20 sec. exclusion in centre,1,2.0,4,2,ITA,2.0,KUDABA C,1 - 2,341,CAN,5:41
+Extra player shot - Saved,1,3.0,4,2,ITA,2.0,VELOTTO A,1 - 2,319,ITA,5:19
+20 sec. exclusion in centre,1,12.0,4,2,ITA,2.0,BARALDI F,1 - 2,303,ITA,5:03
+Turnover foul,1,5.0,4,2,ITA,2.0,BOYD J,1 - 2,281,CAN,4:41
+5m shot - Missed,1,5.0,4,2,ITA,2.0,GIORGETTI A,1 - 2,265,ITA,4:25
+Turnover foul,1,11.0,4,2,ITA,2.0,TORAKIS G,1 - 2,239,CAN,3:59
+Steal,1,11.0,4,2,ITA,2.0,AICARDI M,1 - 2,239,ITA,3:59
+5m shot - Post,1,10.0,4,2,ITA,2.0,LUONGO S,1 - 2,220,ITA,3:40
+Turnover foul,1,7.0,4,2,ITA,2.0,GIACOPPO M,1 - 2,192,ITA,3:12
+20 sec. exclusion in centre,1,3.0,4,2,ITA,2.0,VELOTTO A,1 - 2,172,ITA,2:52
+Time-Out,1,,4,2,ITA,2.0,,1 - 2,172,CAN,2:52
+Action shot - Saved,1,10.0,4,2,ITA,2.0,CONWAY J,1 - 2,149,CAN,2:29
+5m shot - Post,1,11.0,4,2,ITA,2.0,TORAKIS G,1 - 2,124,CAN,2:04
+Centre shot - Goal,1,11.0,4,3,ITA,2.0,AICARDI M,1 - 3,97,ITA,1:37
+5m shot - Post,1,5.0,4,3,ITA,2.0,BOYD J,1 - 3,70,CAN,1:10
+20 sec. exclusion in centre,1,8.0,4,3,ITA,2.0,GRAHAM K,1 - 3,45,CAN,0:45
+Time-Out,1,,4,3,ITA,2.0,,1 - 3,45,ITA,0:45
+Turnover foul,1,6.0,4,3,ITA,2.0,FONDELLI A,1 - 3,18,ITA,0:18
+Steal,1,8.0,4,3,ITA,2.0,GRAHAM K,1 - 3,18,CAN,0:18
+5m shot - Post,1,8.0,4,3,ITA,2.0,GRAHAM K,1 - 3,2,CAN,0:02
+Starting goalkeeper,1,1.0,4,3,ITA,3.0,RANDALL R,1 - 3,480,CAN,8:00
+Starting goalkeeper,1,1.0,4,3,ITA,3.0,TEMPESTI S,1 - 3,480,ITA,8:00
+Sprint won possession,1,4.0,4,3,ITA,3.0,FIGLIOLI P,1 - 3,480,ITA,8:00
+Turnover foul,1,10.0,4,3,ITA,3.0,LUONGO S,1 - 3,452,ITA,7:32
+5m shot - Saved,1,5.0,4,3,ITA,3.0,BOYD J,1 - 3,429,CAN,7:09
+Turnover foul,1,5.0,4,3,ITA,3.0,BOYD J,1 - 3,406,CAN,6:46
+5m shot - Missed,1,10.0,4,3,ITA,3.0,LUONGO S,1 - 3,382,ITA,6:22
+20 sec. exclusion in centre,1,4.0,4,3,ITA,3.0,FIGLIOLI P,1 - 3,372,ITA,6:12
+Extra player shot - Saved,1,5.0,4,3,ITA,3.0,BOYD J,1 - 3,350,CAN,5:50
+Turnover foul,1,10.0,4,3,ITA,3.0,LUONGO S,1 - 3,335,ITA,5:35
+Turnover foul,1,4.0,4,3,ITA,3.0,CONSTANTIN-BICARI,1 - 3,317,CAN,5:17
+Turnover foul,1,12.0,4,3,ITA,3.0,BARALDI F,1 - 3,293,ITA,4:53
+5m shot - Blocked,1,11.0,4,3,ITA,3.0,TORAKIS G,1 - 3,264,CAN,4:24
+Time-Out,1,,4,3,ITA,3.0,,1 - 3,264,ITA,4:24
+Action shot - Saved,1,11.0,4,3,ITA,3.0,AICARDI M,1 - 3,243,ITA,4:03
+20 sec. exclusion in centre,1,7.0,4,3,ITA,3.0,GIACOPPO M,1 - 3,230,ITA,3:50
+Extra player shot - Goal,2,2.0,4,3,ITA,3.0,KUDABA C,2 - 3,214,CAN,3:34
+Action shot - Saved,2,5.0,4,3,ITA,3.0,GIORGETTI A,2 - 3,191,ITA,3:11
+Turnover foul,2,3.0,4,3,ITA,3.0,VIKALO O,2 - 3,179,CAN,2:59
+20 sec. exclusion in centre,2,6.0,4,3,ITA,3.0,FONDELLI A,2 - 3,175,ITA,2:55
+Time-Out,2,,4,3,ITA,3.0,,2 - 3,172,CAN,2:52
+Turnover foul,2,7.0,4,3,ITA,3.0,TASCHEREAU A,2 - 3,159,CAN,2:39
+Steal,2,2.0,4,3,ITA,3.0,DI FULVIO F,2 - 3,159,ITA,2:39
+20 sec. exclusion in centre,2,7.0,4,3,ITA,3.0,TASCHEREAU A,2 - 3,154,CAN,2:34
+Action shot - Goal,2,5.0,4,4,ITA,3.0,GIORGETTI A,2 - 4,132,ITA,2:12
+Yellow card,2,,4,4,ITA,3.0,Team Official,2 - 4,132,CAN,2:12
+Turnover foul,2,8.0,4,4,ITA,3.0,GRAHAM K,2 - 4,118,CAN,1:58
+5m shot - Goal,2,4.0,4,5,ITA,3.0,FIGLIOLI P,2 - 5,95,ITA,1:35
+Turnover foul,2,2.0,4,5,ITA,3.0,DI FULVIO F,2 - 5,37,ITA,0:37
+Action shot - Missed,2,10.0,4,5,ITA,3.0,CONWAY J,2 - 5,1,CAN,0:01
+Starting goalkeeper,2,1.0,4,5,ITA,4.0,RANDALL R,2 - 5,480,CAN,8:00
+Starting goalkeeper,2,1.0,4,5,ITA,4.0,TEMPESTI S,2 - 5,480,ITA,8:00
+Sprint won possession,2,4.0,4,5,ITA,4.0,FIGLIOLI P,2 - 5,480,ITA,8:00
+5m shot - Post,2,9.0,4,5,ITA,4.0,GITTO N,2 - 5,451,ITA,7:31
+Double exclusion,2,11.0,4,5,ITA,4.0,TORAKIS G,2 - 5,448,CAN,7:28
+Double exclusion,2,11.0,4,5,ITA,4.0,AICARDI M,2 - 5,448,ITA,7:28
+20 sec. exclusion in centre,2,9.0,4,5,ITA,4.0,GITTO N,2 - 5,430,ITA,7:10
+Extra player shot - Post,2,12.0,4,5,ITA,4.0,MCELROY J,2 - 5,421,CAN,7:01
+20 sec. exclusion in centre,2,11.0,4,5,ITA,4.0,TORAKIS G,2 - 5,410,CAN,6:50
+Extra player shot - Goal,2,9.0,4,6,ITA,4.0,GITTO N,2 - 6,393,ITA,6:33
+5m shot - Saved,2,5.0,4,6,ITA,4.0,BOYD J,2 - 6,370,CAN,6:10
+Action shot - Blocked,2,8.0,4,6,ITA,4.0,GRAHAM K,2 - 6,351,CAN,5:51
+Action shot - Goal,2,12.0,4,7,ITA,4.0,BARALDI F,2 - 7,324,ITA,5:24
+20 sec. exclusion in centre,2,3.0,4,7,ITA,4.0,VELOTTO A,2 - 7,305,ITA,5:05
+Penalty foul,2,11.0,4,7,ITA,4.0,AICARDI M,2 - 7,300,ITA,5:00
+Exclusion with substitution,2,11.0,4,7,ITA,4.0,AICARDI M,2 - 7,300,ITA,5:00
+Yellow card,2,,4,7,ITA,4.0,Team Official,2 - 7,296,ITA,4:56
+Penalty shot - Saved,2,12.0,4,7,ITA,4.0,MCELROY J,2 - 7,296,CAN,4:56
+5m shot - Saved,2,9.0,4,7,ITA,4.0,HALAJIAN M,2 - 7,279,CAN,4:39
+Turnover foul,2,2.0,4,7,ITA,4.0,KUDABA C,2 - 7,273,CAN,4:33
+5m shot - Post,2,6.0,4,7,ITA,4.0,FONDELLI A,2 - 7,245,ITA,4:05
+Turnover foul,2,8.0,4,7,ITA,4.0,GRAHAM K,2 - 7,217,CAN,3:37
+Steal,2,6.0,4,7,ITA,4.0,FONDELLI A,2 - 7,217,ITA,3:37
+Turnover foul,2,10.0,4,7,ITA,4.0,LUONGO S,2 - 7,190,ITA,3:10
+Steal,2,1.0,4,7,ITA,4.0,RANDALL R,2 - 7,190,CAN,3:10
+Turnover foul,2,8.0,4,7,ITA,4.0,GRAHAM K,2 - 7,175,CAN,2:55
+5m shot - Saved,2,10.0,4,7,ITA,4.0,LUONGO S,2 - 7,149,ITA,2:29
+Time-Out,2,,4,7,ITA,4.0,,2 - 7,145,CAN,2:25
+Turnover foul,2,10.0,4,7,ITA,4.0,CONWAY J,2 - 7,119,CAN,1:59
+Steal,2,3.0,4,7,ITA,4.0,VELOTTO A,2 - 7,119,ITA,1:59
+Turnover foul,2,12.0,4,7,ITA,4.0,BARALDI F,2 - 7,97,ITA,1:37
+Action shot - Missed,2,7.0,4,7,ITA,4.0,TASCHEREAU A,2 - 7,72,CAN,1:12
+Time-Out,2,,4,7,ITA,4.0,,2 - 7,72,ITA,1:12
+Goalkeeper substitution,2,13.0,4,7,ITA,4.0,DEL LUNGO M,2 - 7,72,ITA,1:12
+20 sec. exclusion in centre,2,7.0,4,7,ITA,4.0,TASCHEREAU A,2 - 7,52,CAN,0:52
+Extra player shot - Goal,2,3.0,4,8,ITA,4.0,VELOTTO A,2 - 8,52,ITA,0:52
+20 sec. exclusion in centre,2,11.0,4,8,ITA,4.0,TORAKIS G,2 - 8,32,CAN,0:32
+Exclusion with substitution,2,11.0,4,8,ITA,4.0,TORAKIS G,2 - 8,32,CAN,0:32
+Action shot - Post,2,6.0,4,8,ITA,4.0,FONDELLI A,2 - 8,8,ITA,0:08
+Starting goalkeeper,0,1.0,5,0,KAZ,1.0,RANDALL R,0 - 0,480,CAN,8:00
+Starting goalkeeper,0,1.0,5,0,KAZ,1.0,FEDOROV A,0 - 0,480,KAZ,8:00
+Sprint won possession,0,8.0,5,0,KAZ,1.0,GRAHAM K,0 - 0,480,CAN,8:00
+5m shot - Missed,0,2.0,5,0,KAZ,1.0,KUDABA C,0 - 0,453,CAN,7:33
+20 sec. exclusion in centre,0,2.0,5,0,KAZ,1.0,KUDABA C,0 - 0,433,CAN,7:13
+Action shot - Goal,0,3.0,5,1,KAZ,1.0,AXENOV A,0 - 1,410,KAZ,6:50
+Action shot - Goal,1,4.0,5,1,KAZ,1.0,CONSTANTIN-BICARI,1 - 1,391,CAN,6:31
+Turnover foul,1,2.0,5,1,KAZ,1.0,GUBAREV S,1 - 1,367,KAZ,6:07
+20 sec. exclusion in centre,1,8.0,5,1,KAZ,1.0,KOLIADENKO A,1 - 1,338,KAZ,5:38
+Extra player shot - Missed,1,12.0,5,1,KAZ,1.0,MCELROY J,1 - 1,322,CAN,5:22
+5m shot - Missed,1,2.0,5,1,KAZ,1.0,GUBAREV S,1 - 1,294,KAZ,4:54
+Action shot - Missed,1,3.0,5,1,KAZ,1.0,VIKALO O,1 - 1,278,CAN,4:38
+Turnover foul,1,5.0,5,1,KAZ,1.0,USHAKOV V,1 - 1,260,KAZ,4:20
+Steal,1,5.0,5,1,KAZ,1.0,BOYD J,1 - 1,260,CAN,4:20
+Counter attack - Saved,1,5.0,5,1,KAZ,1.0,BOYD J,1 - 1,246,CAN,4:06
+Turnover foul,1,12.0,5,1,KAZ,1.0,PEKOVICH B,1 - 1,211,KAZ,3:31
+Steal,1,1.0,5,1,KAZ,1.0,RANDALL R,1 - 1,209,CAN,3:29
+Counter attack - Saved,1,8.0,5,1,KAZ,1.0,GRAHAM K,1 - 1,205,CAN,3:25
+Action shot - Saved,1,6.0,5,1,KAZ,1.0,SHMIDER A,1 - 1,169,KAZ,2:49
+5m shot - Saved,1,5.0,5,1,KAZ,1.0,BOYD J,1 - 1,152,CAN,2:32
+Turnover foul,1,3.0,5,1,KAZ,1.0,VIKALO O,1 - 1,133,CAN,2:13
+Steal,1,6.0,5,1,KAZ,1.0,SHMIDER A,1 - 1,133,KAZ,2:13
+5m shot - Goal,1,3.0,5,2,KAZ,1.0,AXENOV A,1 - 2,107,KAZ,1:47
+Turnover foul,1,8.0,5,2,KAZ,1.0,GRAHAM K,1 - 2,84,CAN,1:24
+Steal,1,1.0,5,2,KAZ,1.0,FEDOROV A,1 - 2,84,KAZ,1:24
+Turnover foul,1,7.0,5,2,KAZ,1.0,SHAKENOV M,1 - 2,58,KAZ,0:58
+Steal,1,8.0,5,2,KAZ,1.0,GRAHAM K,1 - 2,58,CAN,0:58
+Turnover foul,1,8.0,5,2,KAZ,1.0,GRAHAM K,1 - 2,31,CAN,0:31
+Steal,1,1.0,5,2,KAZ,1.0,FEDOROV A,1 - 2,31,KAZ,0:31
+Time-Out,1,,5,2,KAZ,1.0,,1 - 2,31,KAZ,0:31
+20 sec. exclusion in centre,1,11.0,5,2,KAZ,1.0,TORAKIS G,1 - 2,18,CAN,0:18
+Extra player shot - Post,1,3.0,5,2,KAZ,1.0,AXENOV A,1 - 2,6,KAZ,0:06
+Time-Out,1,,5,2,KAZ,1.0,,1 - 2,6,CAN,0:06
+Action shot - Saved,1,10.0,5,2,KAZ,1.0,CONWAY J,1 - 2,1,CAN,0:01
+Starting goalkeeper,1,1.0,5,2,KAZ,2.0,RANDALL R,1 - 2,480,CAN,8:00
+Starting goalkeeper,1,1.0,5,2,KAZ,2.0,FEDOROV A,1 - 2,480,KAZ,8:00
+Sprint won possession,1,8.0,5,2,KAZ,2.0,GRAHAM K,1 - 2,480,CAN,8:00
+5m shot - Saved,1,12.0,5,2,KAZ,2.0,MCELROY J,1 - 2,459,CAN,7:39
+20 sec. exclusion in field,1,11.0,5,2,KAZ,2.0,TORAKIS G,1 - 2,444,CAN,7:24
+Turnover foul,1,4.0,5,2,KAZ,2.0,PILIPENKO R,1 - 2,419,KAZ,6:59
+Steal,1,8.0,5,2,KAZ,2.0,GRAHAM K,1 - 2,419,CAN,6:59
+Action shot - Saved,1,10.0,5,2,KAZ,2.0,CONWAY J,1 - 2,386,CAN,6:26
+Action shot - Missed,1,2.0,5,2,KAZ,2.0,GUBAREV S,1 - 2,366,KAZ,6:06
+Counter attack - Saved,1,8.0,5,2,KAZ,2.0,GRAHAM K,1 - 2,350,CAN,5:50
+20 sec. exclusion in centre,1,10.0,5,2,KAZ,2.0,CONWAY J,1 - 2,326,CAN,5:26
+Extra player shot - Missed,1,4.0,5,2,KAZ,2.0,PILIPENKO R,1 - 2,307,KAZ,5:07
+Action shot - Goal,2,8.0,5,2,KAZ,2.0,GRAHAM K,2 - 2,285,CAN,4:45
+Action shot - Saved,2,12.0,5,2,KAZ,2.0,PEKOVICH B,2 - 2,263,KAZ,4:23
+20 sec. exclusion in centre,2,6.0,5,2,KAZ,2.0,SHMIDER A,2 - 2,245,KAZ,4:05
+Extra player shot - Goal,3,10.0,5,2,KAZ,2.0,CONWAY J,3 - 2,236,CAN,3:56
+20 sec. exclusion in centre,3,4.0,5,2,KAZ,2.0,CONSTANTIN-BICARI,3 - 2,224,CAN,3:44
+Extra player shot - Saved,3,5.0,5,2,KAZ,2.0,USHAKOV V,3 - 2,197,KAZ,3:17
+Penalty foul,3,8.0,5,2,KAZ,2.0,KOLIADENKO A,3 - 2,192,KAZ,3:12
+Penalty shot - Goal,4,10.0,5,2,KAZ,2.0,CONWAY J,4 - 2,192,CAN,3:12
+Turnover foul,4,12.0,5,2,KAZ,2.0,PEKOVICH B,4 - 2,174,KAZ,2:54
+Counter attack - Goal,5,10.0,5,2,KAZ,2.0,CONWAY J,5 - 2,164,CAN,2:44
+Time-Out,5,,5,2,KAZ,2.0,,5 - 2,161,KAZ,2:41
+20 sec. exclusion in centre,5,2.0,5,2,KAZ,2.0,KUDABA C,5 - 2,150,CAN,2:30
+Extra player shot - Missed,5,12.0,5,2,KAZ,2.0,PEKOVICH B,5 - 2,129,KAZ,2:09
+Turnover foul,5,10.0,5,2,KAZ,2.0,CONWAY J,5 - 2,122,CAN,2:02
+Steal,5,12.0,5,2,KAZ,2.0,PEKOVICH B,5 - 2,122,KAZ,2:02
+Action shot - Post,5,9.0,5,2,KAZ,2.0,UKUMANOV R,5 - 2,99,KAZ,1:39
+20 sec. exclusion in centre,5,3.0,5,2,KAZ,2.0,AXENOV A,5 - 2,82,KAZ,1:22
+Time-Out,5,,5,2,KAZ,2.0,,5 - 2,82,CAN,1:22
+Centre shot - Missed,5,11.0,5,2,KAZ,4.0,TORAKIS G,5 - 2,1,CAN,0:01
+Action shot - Saved,5,10.0,5,2,KAZ,2.0,CONWAY J,5 - 2,59,CAN,0:59
+5m shot - Blocked,5,5.0,5,2,KAZ,2.0,USHAKOV V,5 - 2,37,KAZ,0:37
+20 sec. exclusion in centre,5,7.0,5,2,KAZ,2.0,SHAKENOV M,5 - 2,21,KAZ,0:21
+Extra player shot - Goal,6,12.0,5,2,KAZ,2.0,MCELROY J,6 - 2,17,CAN,0:17
+5m shot - Saved,6,9.0,5,2,KAZ,2.0,UKUMANOV R,6 - 2,1,KAZ,0:01
+Starting goalkeeper,6,1.0,5,2,KAZ,3.0,RANDALL R,6 - 2,480,CAN,8:00
+Starting goalkeeper,6,1.0,5,2,KAZ,3.0,FEDOROV A,6 - 2,480,KAZ,8:00
+Sprint won possession,6,8.0,5,2,KAZ,3.0,GRAHAM K,6 - 2,480,CAN,8:00
+Turnover foul,6,12.0,5,2,KAZ,3.0,MCELROY J,6 - 2,460,CAN,7:40
+20 sec. exclusion in centre,6,8.0,5,2,KAZ,3.0,GRAHAM K,6 - 2,447,CAN,7:27
+Extra player shot - Blocked,6,3.0,5,2,KAZ,3.0,AXENOV A,6 - 2,424,KAZ,7:04
+5m shot - Saved,6,11.0,5,2,KAZ,3.0,TORAKIS G,6 - 2,402,CAN,6:42
+Turnover foul,6,11.0,5,2,KAZ,3.0,TORAKIS G,6 - 2,376,CAN,6:16
+Steal,6,5.0,5,2,KAZ,3.0,USHAKOV V,6 - 2,376,KAZ,6:16
+Counter attack - Goal,6,3.0,5,3,KAZ,3.0,AXENOV A,6 - 3,360,KAZ,6:00
+Action shot - Post,6,10.0,5,3,KAZ,3.0,CONWAY J,6 - 3,340,CAN,5:40
+20 sec. exclusion in centre,6,7.0,5,3,KAZ,3.0,TASCHEREAU A,6 - 3,315,CAN,5:15
+Extra player shot - Goal,6,4.0,5,4,KAZ,3.0,PILIPENKO R,6 - 4,308,KAZ,5:08
+Time-Out,6,,5,4,KAZ,3.0,,6 - 4,308,CAN,5:08
+Action shot - Missed,6,8.0,5,4,KAZ,3.0,GRAHAM K,6 - 4,277,CAN,4:37
+Action shot - Saved,6,5.0,5,4,KAZ,3.0,USHAKOV V,6 - 4,258,KAZ,4:18
+Turnover foul,6,4.0,5,4,KAZ,3.0,CONSTANTIN-BICARI,6 - 4,245,CAN,4:05
+Turnover foul,6,6.0,5,4,KAZ,3.0,SHMIDER A,6 - 4,216,KAZ,3:36
+20 sec. exclusion in centre,6,5.0,5,4,KAZ,3.0,USHAKOV V,6 - 4,195,KAZ,3:15
+Extra player shot - Goal,7,3.0,5,4,KAZ,3.0,VIKALO O,7 - 4,178,CAN,2:58
+5m shot - Post,7,3.0,5,4,KAZ,3.0,AXENOV A,7 - 4,160,KAZ,2:40
+Turnover foul,7,6.0,5,4,KAZ,3.0,LAPINS D,7 - 4,135,CAN,2:15
+Steal,7,1.0,5,4,KAZ,3.0,FEDOROV A,7 - 4,135,KAZ,2:15
+5m shot - Post,7,3.0,5,4,KAZ,3.0,AXENOV A,7 - 4,111,KAZ,1:51
+5m shot - Goal,8,10.0,5,4,KAZ,3.0,CONWAY J,8 - 4,99,CAN,1:39
+20 sec. exclusion in centre,8,12.0,5,4,KAZ,3.0,MCELROY J,8 - 4,81,CAN,1:21
+Extra player shot - Blocked,8,2.0,5,4,KAZ,3.0,GUBAREV S,8 - 4,63,KAZ,1:03
+5m shot - Saved,8,2.0,5,4,KAZ,3.0,KUDABA C,8 - 4,36,CAN,0:36
+Centre shot - Goal,8,12.0,5,5,KAZ,3.0,PEKOVICH B,8 - 5,15,KAZ,0:15
+Turnover foul,8,5.0,5,5,KAZ,3.0,BOYD J,8 - 5,2,CAN,0:02
+Starting goalkeeper,8,1.0,5,5,KAZ,4.0,RANDALL R,8 - 5,480,CAN,8:00
+Starting goalkeeper,8,1.0,5,5,KAZ,4.0,FEDOROV A,8 - 5,480,KAZ,8:00
+Sprint won possession,8,8.0,5,5,KAZ,4.0,GRAHAM K,8 - 5,480,CAN,8:00
+Turnover foul,8,2.0,5,5,KAZ,4.0,KUDABA C,8 - 5,449,CAN,7:29
+5m shot - Saved,8,7.0,5,5,KAZ,4.0,SHAKENOV M,8 - 5,429,KAZ,7:09
+Centre shot - Saved,8,3.0,5,5,KAZ,4.0,AXENOV A,8 - 5,409,KAZ,6:49
+20 sec. exclusion in centre,8,11.0,5,5,KAZ,4.0,MANAFOV R,8 - 5,389,KAZ,6:29
+Action shot - Blocked,8,10.0,5,5,KAZ,4.0,CONWAY J,8 - 5,375,CAN,6:15
+20 sec. exclusion in centre,8,12.0,5,5,KAZ,4.0,MCELROY J,8 - 5,351,CAN,5:51
+Action shot - Missed,8,9.0,5,5,KAZ,4.0,UKUMANOV R,8 - 5,327,KAZ,5:27
+Turnover foul,8,4.0,5,5,KAZ,4.0,CONSTANTIN-BICARI,8 - 5,303,CAN,5:03
+Turnover foul,8,7.0,5,5,KAZ,4.0,SHAKENOV M,8 - 5,284,KAZ,4:44
+Steal,8,8.0,5,5,KAZ,4.0,GRAHAM K,8 - 5,284,CAN,4:44
+Time-Out,8,,5,5,KAZ,4.0,,8 - 5,284,CAN,4:44
+Action shot - Saved,8,12.0,5,5,KAZ,4.0,MCELROY J,8 - 5,264,CAN,4:24
+Action shot - Missed,8,12.0,5,5,KAZ,4.0,PEKOVICH B,8 - 5,238,KAZ,3:58
+Turnover foul,8,8.0,5,5,KAZ,4.0,GRAHAM K,8 - 5,210,CAN,3:30
+Turnover foul,8,5.0,5,5,KAZ,4.0,USHAKOV V,8 - 5,210,KAZ,3:30
+20 sec. exclusion in centre,8,3.0,5,5,KAZ,4.0,AXENOV A,8 - 5,196,KAZ,3:16
+Extra player shot - Goal,9,12.0,5,5,KAZ,4.0,MCELROY J,9 - 5,191,CAN,3:11
+Time-Out,9,,5,5,KAZ,4.0,,9 - 5,191,KAZ,3:11
+Action shot - Saved,9,12.0,5,5,KAZ,4.0,PEKOVICH B,9 - 5,173,KAZ,2:53
+Action shot - Goal,9,2.0,5,6,KAZ,4.0,GUBAREV S,9 - 6,159,KAZ,2:39
+Action shot - Saved,9,10.0,5,6,KAZ,4.0,CONWAY J,9 - 6,128,CAN,2:08
+Centre shot - Goal,9,2.0,5,7,KAZ,4.0,GUBAREV S,9 - 7,118,KAZ,1:58
+5m shot - Saved,9,11.0,5,7,KAZ,4.0,TORAKIS G,9 - 7,93,CAN,1:33
+Turnover foul,9,12.0,5,7,KAZ,4.0,PEKOVICH B,9 - 7,76,KAZ,1:16
+Turnover foul,9,8.0,5,7,KAZ,4.0,GRAHAM K,9 - 7,49,CAN,0:49
+Turnover foul,9,9.0,5,7,KAZ,4.0,UKUMANOV R,9 - 7,28,KAZ,0:28
+Starting goalkeeper,0,1.0,6,0,BRA,1.0,RANDALL R,0 - 0,480,CAN,8:00
+Starting goalkeeper,0,1.0,6,0,BRA,1.0,ANTONELLI V,0 - 0,480,BRA,8:00
+Sprint won possession,0,8.0,6,0,BRA,1.0,GRAHAM K,0 - 0,480,CAN,8:00
+Turnover foul,0,10.0,6,0,BRA,1.0,CONWAY J,0 - 0,451,CAN,7:31
+5m shot - Post,0,6.0,6,0,BRA,1.0,GOMES B,0 - 0,424,BRA,7:04
+Action shot - Post,0,5.0,6,0,BRA,1.0,BOYD J,0 - 0,397,CAN,6:37
+Turnover foul,0,8.0,6,0,BRA,1.0,SILVA F,0 - 0,377,BRA,6:17
+Action shot - Post,0,4.0,6,0,BRA,1.0,CONSTANTIN-BICARI,0 - 0,339,CAN,5:39
+Turnover foul,0,2.0,6,0,BRA,1.0,KUDABA C,0 - 0,324,CAN,5:24
+Steal,0,12.0,6,0,BRA,1.0,VRLIC J,0 - 0,324,BRA,5:24
+Turnover foul,0,10.0,6,0,BRA,1.0,PERRONE F,0 - 0,305,BRA,5:05
+Steal,0,8.0,6,0,BRA,1.0,GRAHAM K,0 - 0,305,CAN,5:05
+Centre shot - Missed,0,5.0,6,0,BRA,1.0,BOYD J,0 - 0,286,CAN,4:46
+5m shot - Missed,0,10.0,6,0,BRA,1.0,PERRONE F,0 - 0,260,BRA,4:20
+Turnover foul,0,4.0,6,0,BRA,1.0,CONSTANTIN-BICARI,0 - 0,239,CAN,3:59
+Steal,0,6.0,6,0,BRA,1.0,GOMES B,0 - 0,239,BRA,3:59
+Action shot - Saved,0,8.0,6,0,BRA,1.0,SILVA F,0 - 0,223,BRA,3:43
+Turnover foul,0,7.0,6,0,BRA,1.0,DELGADO A,0 - 0,205,BRA,3:25
+Action shot - Goal,1,2.0,6,0,BRA,1.0,KUDABA C,1 - 0,188,CAN,3:08
+20 sec. exclusion in centre,1,11.0,6,0,BRA,1.0,TORAKIS G,1 - 0,166,CAN,2:46
+Extra player shot - Missed,1,4.0,6,0,BRA,1.0,GONZALEZ I,1 - 0,146,BRA,2:26
+Turnover foul,1,3.0,6,0,BRA,1.0,VIKALO O,1 - 0,120,CAN,2:00
+Action shot - Goal,1,10.0,6,1,BRA,1.0,PERRONE F,1 - 1,94,BRA,1:34
+Penalty foul,1,9.0,6,1,BRA,1.0,ROCHA B,1 - 1,68,BRA,1:08
+Penalty shot - Goal,2,10.0,6,1,BRA,1.0,CONWAY J,2 - 1,68,CAN,1:08
+Action shot - Saved,2,3.0,6,1,BRA,1.0,GOMES G,2 - 1,43,BRA,0:43
+Action shot - Saved,2,3.0,6,1,BRA,1.0,GOMES G,2 - 1,28,BRA,0:28
+Action shot - Goal,2,11.0,6,2,BRA,1.0,GUIMARAES G,2 - 2,3,BRA,0:03
+Time-Out,2,,6,2,BRA,1.0,,2 - 2,3,CAN,0:03
+Starting goalkeeper,2,1.0,6,2,BRA,2.0,RANDALL R,2 - 2,480,CAN,8:00
+Starting goalkeeper,2,1.0,6,2,BRA,2.0,ANTONELLI V,2 - 2,480,BRA,8:00
+Sprint won possession,2,8.0,6,2,BRA,2.0,GRAHAM K,2 - 2,480,CAN,8:00
+Turnover foul,2,8.0,6,2,BRA,2.0,GRAHAM K,2 - 2,453,CAN,7:33
+Steal,2,1.0,6,2,BRA,2.0,ANTONELLI V,2 - 2,453,BRA,7:33
+Action shot - Saved,2,7.0,6,2,BRA,2.0,DELGADO A,2 - 2,427,BRA,7:07
+5m shot - Saved,2,12.0,6,2,BRA,2.0,MCELROY J,2 - 2,401,CAN,6:41
+Turnover foul,2,10.0,6,2,BRA,2.0,PERRONE F,2 - 2,372,BRA,6:12
+20 sec. exclusion in field,2,12.0,6,2,BRA,2.0,VRLIC J,2 - 2,358,BRA,5:58
+Extra player shot - Goal,3,2.0,6,2,BRA,2.0,KUDABA C,3 - 2,345,CAN,5:45
+Turnover foul,3,7.0,6,2,BRA,2.0,DELGADO A,3 - 2,320,BRA,5:20
+Steal,3,5.0,6,2,BRA,2.0,BOYD J,3 - 2,320,CAN,5:20
+20 sec. exclusion in centre,3,2.0,6,2,BRA,2.0,CRIVELLA J,3 - 2,303,BRA,5:03
+Extra player shot - Post,3,5.0,6,2,BRA,2.0,BOYD J,3 - 2,295,CAN,4:55
+Action shot - Saved,3,8.0,6,2,BRA,2.0,SILVA F,3 - 2,266,BRA,4:26
+Action shot - Blocked,3,10.0,6,2,BRA,2.0,CONWAY J,3 - 2,236,CAN,3:56
+Action shot - Goal,3,12.0,6,3,BRA,2.0,VRLIC J,3 - 3,213,BRA,3:33
+Turnover foul,3,2.0,6,3,BRA,2.0,KUDABA C,3 - 3,196,CAN,3:16
+Steal,3,11.0,6,3,BRA,2.0,GUIMARAES G,3 - 3,196,BRA,3:16
+Counter attack - Saved,3,11.0,6,3,BRA,2.0,GUIMARAES G,3 - 3,185,BRA,3:05
+20 sec. exclusion in centre,3,8.0,6,3,BRA,2.0,SILVA F,3 - 3,167,BRA,2:47
+Extra player shot - Saved,3,3.0,6,3,BRA,2.0,VIKALO O,3 - 3,147,CAN,2:27
+5m shot - Saved,3,10.0,6,3,BRA,2.0,PERRONE F,3 - 3,120,BRA,2:00
+5m shot - Saved,3,10.0,6,3,BRA,2.0,PERRONE F,3 - 3,115,BRA,1:55
+Time-Out,3,,6,3,BRA,2.0,,3 - 3,113,CAN,1:53
+Turnover foul,3,8.0,6,3,BRA,2.0,GRAHAM K,3 - 3,93,CAN,1:33
+Action shot - Saved,3,11.0,6,3,BRA,2.0,GUIMARAES G,3 - 3,76,BRA,1:16
+5m shot - Saved,3,2.0,6,3,BRA,2.0,KUDABA C,3 - 3,47,CAN,0:47
+Time-Out,3,,6,3,BRA,2.0,,3 - 3,44,BRA,0:44
+20 sec. exclusion in centre,3,11.0,6,3,BRA,2.0,TORAKIS G,3 - 3,21,CAN,0:21
+Turnover foul,3,10.0,6,3,BRA,2.0,PERRONE F,3 - 3,0,BRA,0:00
+Steal,3,11.0,6,3,BRA,2.0,TORAKIS G,3 - 3,0,CAN,0:00
+5m shot - Missed,3,11.0,6,3,BRA,2.0,TORAKIS G,3 - 3,0,CAN,0:00
+Starting goalkeeper,3,1.0,6,3,BRA,3.0,RANDALL R,3 - 3,480,CAN,8:00
+Starting goalkeeper,3,1.0,6,3,BRA,3.0,ANTONELLI V,3 - 3,480,BRA,8:00
+Time-Out,3,,6,3,BRA,4.0,,3 - 3,80,BRA,1:20
+Extra player shot - Post,3,10.0,6,3,BRA,4.0,PERRONE F,3 - 3,54,BRA,0:54
+20 sec. exclusion in centre,3,3.0,6,3,BRA,4.0,GOMES G,3 - 3,38,BRA,0:38
+Time-Out,3,,6,3,BRA,4.0,,3 - 3,38,CAN,0:38
+Action shot - Saved,3,4.0,6,3,BRA,4.0,CONSTANTIN-BICARI,3 - 3,16,CAN,0:16
+Action shot - Saved,3,10.0,6,3,BRA,4.0,PERRONE F,3 - 3,2,BRA,0:02
+Sprint won possession,8,8.0,6,7,BRA,3.0,GRAHAM K,8 - 7,480,CAN,8:00
+Action shot - Goal,4,10.0,6,3,BRA,3.0,CONWAY J,4 - 3,452,CAN,7:32
+Turnover foul,4,2.0,6,3,BRA,3.0,CRIVELLA J,4 - 3,436,BRA,7:16
+Steal,4,4.0,6,3,BRA,3.0,CONSTANTIN-BICARI,4 - 3,436,CAN,7:16
+Turnover foul,4,4.0,6,3,BRA,3.0,CONSTANTIN-BICARI,4 - 3,420,CAN,7:00
+Steal,4,10.0,6,3,BRA,3.0,PERRONE F,4 - 3,420,BRA,7:00
+Penalty foul,4,2.0,6,3,BRA,3.0,KUDABA C,4 - 3,398,CAN,6:38
+Penalty shot - Goal,4,7.0,6,4,BRA,3.0,DELGADO A,4 - 4,398,BRA,6:38
+20 sec. exclusion in centre,4,2.0,6,4,BRA,3.0,CRIVELLA J,4 - 4,379,BRA,6:19
+Action shot - Saved,4,4.0,6,4,BRA,3.0,CONSTANTIN-BICARI,4 - 4,357,CAN,5:57
+Turnover foul,4,10.0,6,4,BRA,3.0,CONWAY J,4 - 4,352,CAN,5:52
+Turnover foul,4,1.0,6,4,BRA,3.0,ANTONELLI V,4 - 4,329,BRA,5:29
+Steal,4,5.0,6,4,BRA,3.0,BOYD J,4 - 4,329,CAN,5:29
+Turnover foul,4,10.0,6,4,BRA,3.0,CONWAY J,4 - 4,306,CAN,5:06
+Steal,4,1.0,6,4,BRA,3.0,ANTONELLI V,4 - 4,306,BRA,5:06
+20 sec. exclusion in centre,4,12.0,6,4,BRA,3.0,MCELROY J,4 - 4,288,CAN,4:48
+Yellow card,4,,6,4,BRA,3.0,Team Official,4 - 4,281,CAN,4:41
+Extra player shot - Saved,4,12.0,6,4,BRA,3.0,VRLIC J,4 - 4,258,BRA,4:18
+20 sec. exclusion in centre,4,8.0,6,4,BRA,3.0,SILVA F,4 - 4,240,BRA,4:00
+Action shot - Saved,4,10.0,6,4,BRA,3.0,CONWAY J,4 - 4,215,CAN,3:35
+Centre shot - Goal,4,12.0,6,5,BRA,3.0,VRLIC J,4 - 5,208,BRA,3:28
+Turnover foul,4,10.0,6,5,BRA,3.0,CONWAY J,4 - 5,183,CAN,3:03
+Steal,4,5.0,6,5,BRA,3.0,SALEMI P,4 - 5,183,BRA,3:03
+Action shot - Missed,4,4.0,6,5,BRA,3.0,GONZALEZ I,4 - 5,162,BRA,2:42
+Turnover foul,4,8.0,6,5,BRA,3.0,GRAHAM K,4 - 5,141,CAN,2:21
+Turnover foul,4,5.0,6,5,BRA,3.0,SALEMI P,4 - 5,116,BRA,1:56
+20 sec. exclusion in centre,4,5.0,6,5,BRA,3.0,SALEMI P,4 - 5,116,BRA,1:56
+Extra player shot - Saved,4,3.0,6,5,BRA,3.0,VIKALO O,4 - 5,98,CAN,1:38
+20 sec. exclusion in centre,4,7.0,6,5,BRA,3.0,TASCHEREAU A,4 - 5,75,CAN,1:15
+Time-Out,4,,6,5,BRA,3.0,,4 - 5,75,BRA,1:15
+Action shot - Saved,4,7.0,6,5,BRA,3.0,DELGADO A,4 - 5,52,BRA,0:52
+Turnover foul,4,3.0,6,5,BRA,3.0,VIKALO O,4 - 5,32,CAN,0:32
+20 sec. exclusion in field,4,7.0,6,5,BRA,3.0,TASCHEREAU A,4 - 5,19,CAN,0:19
+Extra player shot - Goal,4,7.0,6,6,BRA,3.0,DELGADO A,4 - 6,5,BRA,0:05
+Time-Out,4,,6,6,BRA,3.0,,4 - 6,5,CAN,0:05
+Action shot - Goal,5,4.0,6,6,BRA,3.0,CONSTANTIN-BICARI,5 - 6,1,CAN,0:01
+Starting goalkeeper,5,1.0,6,6,BRA,4.0,RANDALL R,5 - 6,480,CAN,8:00
+Starting goalkeeper,5,1.0,6,6,BRA,4.0,ANTONELLI V,5 - 6,480,BRA,8:00
+Sprint won possession,5,8.0,6,6,BRA,4.0,GRAHAM K,5 - 6,480,CAN,8:00
+Turnover foul,5,12.0,6,6,BRA,4.0,MCELROY J,5 - 6,460,CAN,7:40
+Steal,5,2.0,6,6,BRA,4.0,CRIVELLA J,5 - 6,460,BRA,7:40
+Turnover foul,5,11.0,6,6,BRA,4.0,GUIMARAES G,5 - 6,444,BRA,7:24
+Steal,5,1.0,6,6,BRA,4.0,RANDALL R,5 - 6,444,CAN,7:24
+Turnover foul,5,5.0,6,6,BRA,4.0,BOYD J,5 - 6,415,CAN,6:55
+20 sec. exclusion in centre,5,5.0,6,6,BRA,4.0,BOYD J,5 - 6,397,CAN,6:37
+Action shot - Saved,5,12.0,6,6,BRA,4.0,VRLIC J,5 - 6,378,BRA,6:18
+Action shot - Saved,5,2.0,6,6,BRA,4.0,CRIVELLA J,5 - 6,372,BRA,6:12
+20 sec. exclusion in field,5,9.0,6,6,BRA,4.0,ROCHA B,5 - 6,370,BRA,6:10
+Action shot - Goal,6,5.0,6,6,BRA,4.0,BOYD J,6 - 6,348,CAN,5:48
+Action shot - Goal,6,7.0,6,7,BRA,4.0,DELGADO A,6 - 7,321,BRA,5:21
+Turnover foul,6,8.0,6,7,BRA,4.0,GRAHAM K,6 - 7,299,CAN,4:59
+Steal,6,6.0,6,7,BRA,4.0,GOMES B,6 - 7,299,BRA,4:59
+Action shot - Blocked,6,7.0,6,7,BRA,4.0,DELGADO A,6 - 7,272,BRA,4:32
+Turnover foul,6,5.0,6,7,BRA,4.0,SALEMI P,6 - 7,247,BRA,4:07
+20 sec. exclusion in centre,6,8.0,6,7,BRA,4.0,SILVA F,6 - 7,228,BRA,3:48
+Exclusion with substitution,6,8.0,6,7,BRA,4.0,SILVA F,6 - 7,228,BRA,3:48
+Centre shot - Goal,7,12.0,6,7,BRA,4.0,MCELROY J,7 - 7,207,CAN,3:27
+Turnover foul,7,10.0,6,7,BRA,4.0,PERRONE F,7 - 7,182,BRA,3:02
+Turnover foul,7,4.0,6,7,BRA,4.0,CONSTANTIN-BICARI,7 - 7,162,CAN,2:42
+Steal,7,10.0,6,7,BRA,4.0,PERRONE F,7 - 7,162,BRA,2:42
+20 sec. exclusion in centre,7,8.0,6,7,BRA,4.0,GRAHAM K,7 - 7,140,CAN,2:20
+Extra player shot - Saved,7,10.0,6,7,BRA,4.0,PERRONE F,7 - 7,128,BRA,2:08
+5m shot - Missed,7,8.0,6,7,BRA,4.0,GRAHAM K,7 - 7,104,CAN,1:44
+20 sec. exclusion in centre,7,12.0,6,7,BRA,4.0,MCELROY J,7 - 7,80,CAN,1:20

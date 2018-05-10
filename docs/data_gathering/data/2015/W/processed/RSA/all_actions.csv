@@ -1,0 +1,660 @@
+Action,Cap,Game,Opponent,Opponent name,Period,Player,RSA,Score,Seconds,Team,Time
+Starting goalkeeper,1.0,1,0,NED,1.0,THOMAS R,0,0 - 0,480,RSA,8:00
+Starting goalkeeper,13.0,1,0,NED,1.0,WILLEMSZ D,0,0 - 0,480,NED,8:00
+Sprint won possession,4.0,1,0,NED,1.0,VAN DER SLOOT C,0,0 - 0,480,NED,8:00
+Action shot - Goal,11.0,1,1,NED,1.0,KLAASSEN L,0,0 - 1,454,NED,7:34
+Turnover foul,12.0,1,1,NED,1.0,WHITE K,0,0 - 1,424,RSA,7:04
+Steal,5.0,1,1,NED,1.0,GENEE A,0,0 - 1,424,NED,7:04
+Action shot - Saved,11.0,1,1,NED,1.0,KLAASSEN L,0,0 - 1,411,NED,6:51
+Action shot - Post,7.0,1,1,NED,1.0,NIJHUIS M,0,0 - 1,385,NED,6:25
+Centre shot - Goal,4.0,1,1,NED,1.0,VERSFELD R,1,1 - 1,360,RSA,6:00
+20 sec. exclusion in centre,3.0,1,1,NED,1.0,PALEY K,1,1 - 1,337,RSA,5:37
+Extra player shot - Goal,4.0,1,2,NED,1.0,VAN DER SLOOT C,1,1 - 2,336,NED,5:36
+Action shot - Goal,11.0,1,3,NED,1.0,KLAASSEN L,1,1 - 3,292,NED,4:52
+Turnover foul,10.0,1,3,NED,1.0,KILLEEN L,1,1 - 3,269,RSA,4:29
+Steal,10.0,1,3,NED,1.0,VAN TOORN I,1,1 - 3,269,NED,4:29
+Centre shot - Goal,12.0,1,4,NED,1.0,VAN DER MOLEN L,1,1 - 4,251,NED,4:11
+Turnover foul,12.0,1,4,NED,1.0,WHITE K,1,1 - 4,223,RSA,3:43
+Turnover foul,3.0,1,4,NED,1.0,GENEE D,1,1 - 4,202,NED,3:22
+Steal,12.0,1,4,NED,1.0,WHITE K,1,1 - 4,202,RSA,3:22
+Time-Out,,1,4,NED,1.0,,1,1 - 4,202,RSA,3:22
+Turnover foul,5.0,1,4,NED,1.0,SCHOOLING M,1,1 - 4,188,RSA,3:08
+Steal,4.0,1,4,NED,1.0,VAN DER SLOOT C,1,1 - 4,188,NED,3:08
+Action shot - Goal,4.0,1,5,NED,1.0,VAN DER SLOOT C,1,1 - 5,171,NED,2:51
+Turnover foul,11.0,1,5,NED,1.0,O'HANLON D,1,1 - 5,136,RSA,2:16
+Turnover foul,6.0,1,5,NED,1.0,HALLENDORFF A,1,1 - 5,86,RSA,1:26
+Counter attack - Goal,8.0,1,6,NED,1.0,SEVENICH V,1,1 - 6,69,NED,1:09
+Turnover foul,10.0,1,6,NED,1.0,KILLEEN L,1,1 - 6,44,RSA,0:44
+Steal,7.0,1,6,NED,1.0,NIJHUIS M,1,1 - 6,44,NED,0:44
+Action shot - Saved,3.0,1,6,NED,1.0,GENEE D,1,1 - 6,24,NED,0:24
+Starting goalkeeper,1.0,1,6,NED,2.0,THOMAS R,1,1 - 6,480,RSA,8:00
+Starting goalkeeper,13.0,1,6,NED,2.0,WILLEMSZ D,1,1 - 6,480,NED,8:00
+Sprint won possession,6.0,1,6,NED,2.0,STOMPHORST N,1,1 - 6,480,NED,8:00
+Centre shot - Missed,9.0,1,6,NED,2.0,MEGENS M,1,1 - 6,463,NED,7:43
+Centre shot - Saved,10.0,1,6,NED,2.0,VAN TOORN I,1,1 - 6,416,NED,6:56
+Action shot - Goal,7.0,1,7,NED,2.0,NIJHUIS M,1,1 - 7,384,NED,6:24
+5m shot - Saved,10.0,1,7,NED,2.0,KILLEEN L,1,1 - 7,356,RSA,5:56
+20 sec. exclusion in field,7.0,1,7,NED,2.0,KAY K,1,1 - 7,351,RSA,5:51
+Extra player shot - Goal,4.0,1,8,NED,2.0,VAN DER SLOOT C,1,1 - 8,343,NED,5:43
+Turnover foul,12.0,1,8,NED,2.0,WHITE K,1,1 - 8,315,RSA,5:15
+Steal,11.0,1,8,NED,2.0,KLAASSEN L,1,1 - 8,315,NED,5:15
+Turnover foul,4.0,1,8,NED,2.0,VAN DER SLOOT C,1,1 - 8,302,NED,5:02
+Steal,5.0,1,8,NED,2.0,SCHOOLING M,1,1 - 8,302,RSA,5:02
+Turnover foul,5.0,1,8,NED,2.0,SCHOOLING M,1,1 - 8,281,RSA,4:41
+Steal,9.0,1,8,NED,2.0,MEGENS M,1,1 - 8,281,NED,4:41
+Centre shot - Missed,11.0,1,8,NED,2.0,KLAASSEN L,1,1 - 8,263,NED,4:23
+Time-Out,,1,8,NED,2.0,,1,1 - 8,263,RSA,4:23
+Turnover foul,2.0,1,8,NED,2.0,PARKES M,1,1 - 8,244,RSA,4:04
+Steal,4.0,1,8,NED,2.0,VAN DER SLOOT C,1,1 - 8,244,NED,4:04
+Action shot - Saved,7.0,1,8,NED,2.0,NIJHUIS M,1,1 - 8,228,NED,3:48
+Turnover foul,5.0,1,8,NED,2.0,SCHOOLING M,1,1 - 8,204,RSA,3:24
+Action shot - Goal,11.0,1,9,NED,2.0,KLAASSEN L,1,1 - 9,195,NED,3:15
+Turnover foul,10.0,1,9,NED,2.0,KILLEEN L,1,1 - 9,167,RSA,2:47
+Turnover foul,2.0,1,9,NED,2.0,SMIT M,1,1 - 9,154,NED,2:34
+Steal,1.0,1,9,NED,2.0,THOMAS R,1,1 - 9,154,RSA,2:34
+Turnover foul,6.0,1,9,NED,2.0,HALLENDORFF A,1,1 - 9,125,RSA,2:05
+20 sec. exclusion in centre,10.0,1,9,NED,2.0,KILLEEN L,1,1 - 9,119,RSA,1:59
+Extra player shot - Goal,4.0,1,10,NED,2.0,VAN DER SLOOT C,1,1 - 10,117,NED,1:57
+Turnover foul,2.0,1,10,NED,2.0,PARKES M,1,1 - 10,88,RSA,1:28
+Action shot - Post,4.0,1,10,NED,2.0,VAN DER SLOOT C,1,1 - 10,70,NED,1:10
+Action shot - Goal,2.0,1,11,NED,2.0,SMIT M,1,1 - 11,20,NED,0:20
+Starting goalkeeper,1.0,1,11,NED,3.0,THOMAS R,1,1 - 11,480,RSA,8:00
+Starting goalkeeper,1.0,1,11,NED,3.0,AARTS L,1,1 - 11,480,NED,8:00
+Sprint won possession,6.0,1,11,NED,3.0,STOMPHORST N,1,1 - 11,480,NED,8:00
+Action shot - Saved,5.0,1,11,NED,3.0,GENEE A,1,1 - 11,448,NED,7:28
+Turnover foul,3.0,1,11,NED,3.0,PALEY K,1,1 - 11,429,RSA,7:09
+Steal,5.0,1,11,NED,3.0,GENEE A,1,1 - 11,429,NED,7:09
+Action shot - Saved,11.0,1,11,NED,3.0,KLAASSEN L,1,1 - 11,414,NED,6:54
+Turnover foul,3.0,1,11,NED,3.0,PALEY K,1,1 - 11,384,RSA,6:24
+Action shot - Post,11.0,1,11,NED,3.0,KLAASSEN L,1,1 - 11,372,NED,6:12
+Turnover foul,3.0,1,11,NED,3.0,PALEY K,1,1 - 11,358,RSA,5:58
+Centre shot - Post,12.0,1,11,NED,3.0,VAN DER MOLEN L,1,1 - 11,348,NED,5:48
+Centre shot - Goal,5.0,1,12,NED,3.0,GENEE A,1,1 - 12,345,NED,5:45
+20 sec. exclusion in field,9.0,1,12,NED,3.0,MEGENS M,1,1 - 12,323,NED,5:23
+Extra player shot - Saved,7.0,1,12,NED,3.0,NIJHUIS M,1,1 - 12,318,NED,5:18
+Action shot - Saved,9.0,1,12,NED,3.0,MEGENS M,1,1 - 12,289,NED,4:49
+Centre shot - Saved,12.0,1,12,NED,3.0,WHITE K,1,1 - 12,259,RSA,4:19
+20 sec. exclusion in field,12.0,1,12,NED,3.0,WHITE K,1,1 - 12,259,RSA,4:19
+Centre shot - Goal,9.0,1,13,NED,3.0,MEGENS M,1,1 - 13,233,NED,3:53
+Turnover foul,4.0,1,13,NED,3.0,VERSFELD R,1,1 - 13,208,RSA,3:28
+20 sec. exclusion in field,11.0,1,13,NED,3.0,O'HANLON D,1,1 - 13,207,RSA,3:27
+Extra player shot - Post,5.0,1,13,NED,3.0,GENEE A,1,1 - 13,199,NED,3:19
+Centre shot - Saved,5.0,1,13,NED,3.0,GENEE A,1,1 - 13,179,NED,2:59
+Centre shot - Saved,7.0,1,13,NED,3.0,KAY K,1,1 - 13,155,RSA,2:35
+Time-Out,,1,13,NED,3.0,,1,1 - 13,151,NED,2:31
+Turnover foul,5.0,1,13,NED,3.0,GENEE A,1,1 - 13,125,NED,2:05
+Turnover foul,12.0,1,13,NED,3.0,WHITE K,1,1 - 13,98,RSA,1:38
+5m shot - Goal,11.0,1,14,NED,3.0,KLAASSEN L,1,1 - 14,76,NED,1:16
+20 sec. exclusion in centre,10.0,1,14,NED,3.0,KILLEEN L,1,1 - 14,32,RSA,0:32
+Turnover foul,12.0,1,14,NED,3.0,WHITE K,1,1 - 14,0,RSA,0:00
+Steal,2.0,1,14,NED,3.0,SMIT M,1,1 - 14,0,NED,0:00
+Starting goalkeeper,13.0,1,14,NED,4.0,GASCOIGNE A,1,1 - 14,480,RSA,8:00
+Starting goalkeeper,1.0,1,14,NED,4.0,AARTS L,1,1 - 14,480,NED,8:00
+Sprint won possession,6.0,1,14,NED,4.0,HALLENDORFF A,1,1 - 14,480,RSA,8:00
+Action shot - Post,9.0,1,14,NED,4.0,MEGENS M,1,1 - 14,446,NED,7:26
+Turnover foul,11.0,1,14,NED,4.0,O'HANLON D,1,1 - 14,429,RSA,7:09
+Steal,11.0,1,14,NED,4.0,KLAASSEN L,1,1 - 14,429,NED,7:09
+20 sec. exclusion in centre,5.0,1,14,NED,4.0,SCHOOLING M,1,1 - 14,407,RSA,6:47
+Extra player shot - Goal,11.0,1,15,NED,4.0,KLAASSEN L,1,1 - 15,396,NED,6:36
+Turnover foul,11.0,1,15,NED,4.0,O'HANLON D,1,1 - 15,378,RSA,6:18
+Steal,9.0,1,15,NED,4.0,MEGENS M,1,1 - 15,378,NED,6:18
+Centre shot - Goal,2.0,1,16,NED,4.0,SMIT M,1,1 - 16,366,NED,6:06
+Turnover foul,11.0,1,16,NED,4.0,O'HANLON D,1,1 - 16,350,RSA,5:50
+Steal,9.0,1,16,NED,4.0,MEGENS M,1,1 - 16,350,NED,5:50
+20 sec. exclusion in field,11.0,1,16,NED,4.0,O'HANLON D,1,1 - 16,348,RSA,5:48
+Extra player shot - Goal,12.0,1,17,NED,4.0,VAN DER MOLEN L,1,1 - 17,327,NED,5:27
+20 sec. exclusion in field,5.0,1,17,NED,4.0,SCHOOLING M,1,1 - 17,301,RSA,5:01
+Centre shot - Post,12.0,1,17,NED,4.0,VAN DER MOLEN L,1,1 - 17,293,NED,4:53
+Time-Out,,1,17,NED,4.0,,1,1 - 17,283,RSA,4:43
+Turnover foul,5.0,1,17,NED,4.0,SCHOOLING M,1,1 - 17,264,RSA,4:24
+Action shot - Goal,8.0,1,18,NED,4.0,SEVENICH V,1,1 - 18,249,NED,4:09
+20 sec. exclusion in field,4.0,1,18,NED,4.0,VAN DER SLOOT C,1,1 - 18,228,NED,3:48
+20 sec. exclusion in centre,6.0,1,18,NED,4.0,STOMPHORST N,1,1 - 18,209,NED,3:29
+Extra player shot - Blocked,6.0,1,18,NED,4.0,HALLENDORFF A,1,1 - 18,186,RSA,3:06
+Turnover foul,3.0,1,18,NED,4.0,GENEE D,1,1 - 18,166,NED,2:46
+Action shot - Missed,7.0,1,18,NED,4.0,KAY K,1,1 - 18,152,RSA,2:32
+Action shot - Goal,2.0,1,19,NED,4.0,SMIT M,1,1 - 19,142,NED,2:22
+Turnover foul,7.0,1,19,NED,4.0,KAY K,1,1 - 19,123,RSA,2:03
+20 sec. exclusion in centre,7.0,1,19,NED,4.0,KAY K,1,1 - 19,108,RSA,1:48
+Turnover foul,12.0,1,19,NED,4.0,WHITE K,1,1 - 19,83,RSA,1:23
+5m shot - Goal,11.0,1,20,NED,4.0,KLAASSEN L,1,1 - 20,73,NED,1:13
+Turnover foul,4.0,1,20,NED,4.0,VERSFELD R,1,1 - 20,47,RSA,0:47
+5m shot - Goal,7.0,1,21,NED,4.0,NIJHUIS M,1,1 - 21,33,NED,0:33
+Turnover foul,6.0,1,21,NED,4.0,HALLENDORFF A,1,1 - 21,9,RSA,0:09
+5m shot - Goal,10.0,1,22,NED,4.0,VAN TOORN I,1,1 - 22,2,NED,0:02
+Starting goalkeeper,1.0,2,0,AUS,1.0,YANITSAS L,0,0 - 0,480,AUS,8:00
+Starting goalkeeper,1.0,2,0,AUS,1.0,THOMAS R,0,0 - 0,480,RSA,8:00
+Sprint won possession,12.0,2,0,AUS,1.0,ZAGAME N,0,0 - 0,480,AUS,8:00
+Action shot - Goal,3.0,2,1,AUS,1.0,BUCKLING H,0,1 - 0,463,AUS,7:43
+Turnover foul,4.0,2,1,AUS,1.0,VERSFELD R,0,1 - 0,437,RSA,7:17
+Penalty foul,4.0,2,1,AUS,1.0,VERSFELD R,0,1 - 0,433,RSA,7:13
+Penalty shot - Goal,7.0,2,2,AUS,1.0,WEBSTER R,0,2 - 0,433,AUS,7:13
+Turnover foul,3.0,2,2,AUS,1.0,PALEY K,0,2 - 0,406,RSA,6:46
+Action shot - Post,7.0,2,2,AUS,1.0,WEBSTER R,0,2 - 0,392,AUS,6:32
+Turnover foul,6.0,2,2,AUS,1.0,HALLENDORFF A,0,2 - 0,366,RSA,6:06
+Steal,9.0,2,2,AUS,1.0,ARANCINI Z,0,2 - 0,366,AUS,6:06
+Counter attack - Saved,3.0,2,2,AUS,1.0,BUCKLING H,0,2 - 0,353,AUS,5:53
+Turnover foul,4.0,2,2,AUS,1.0,VERSFELD R,0,2 - 0,329,RSA,5:29
+Steal,11.0,2,2,AUS,1.0,HALLIGAN B,0,2 - 0,324,AUS,5:24
+Turnover foul,4.0,2,2,AUS,1.0,LINCOLN-SMITH H,0,2 - 0,319,AUS,5:19
+5m shot - Missed,11.0,2,2,AUS,1.0,O'HANLON D,0,2 - 0,299,RSA,4:59
+Centre shot - Goal,4.0,2,3,AUS,1.0,LINCOLN-SMITH H,0,3 - 0,275,AUS,4:35
+Turnover foul,8.0,2,3,AUS,1.0,MCGHIE G,0,3 - 0,237,AUS,3:57
+Steal,7.0,2,3,AUS,1.0,KAY K,0,3 - 0,237,RSA,3:57
+5m shot - Saved,7.0,2,3,AUS,1.0,KAY K,0,3 - 0,206,RSA,3:26
+Centre shot - Saved,9.0,2,3,AUS,1.0,ARANCINI Z,0,3 - 0,195,AUS,3:15
+Turnover foul,7.0,2,3,AUS,1.0,KAY K,0,3 - 0,170,RSA,2:50
+Steal,10.0,2,3,AUS,1.0,SOUTHERN A,0,3 - 0,170,AUS,2:50
+5m shot - Goal,10.0,2,4,AUS,1.0,SOUTHERN A,0,4 - 0,160,AUS,2:40
+Time-Out,,2,4,AUS,1.0,,0,4 - 0,160,RSA,2:40
+Turnover foul,11.0,2,4,AUS,1.0,O'HANLON D,0,4 - 0,146,RSA,2:26
+Steal,10.0,2,4,AUS,1.0,SOUTHERN A,0,4 - 0,146,AUS,2:26
+Counter attack - Goal,9.0,2,5,AUS,1.0,ARANCINI Z,0,5 - 0,138,AUS,2:18
+Turnover foul,5.0,2,5,AUS,1.0,SCHOOLING M,0,5 - 0,105,RSA,1:45
+Steal,5.0,2,5,AUS,1.0,GOFERS K,0,5 - 0,105,AUS,1:45
+Turnover foul,5.0,2,5,AUS,1.0,GOFERS K,0,5 - 0,87,AUS,1:27
+Steal,12.0,2,5,AUS,1.0,WHITE K,0,5 - 0,87,RSA,1:27
+Turnover foul,7.0,2,5,AUS,1.0,KAY K,0,5 - 0,62,RSA,1:02
+Action shot - Goal,10.0,2,6,AUS,1.0,SOUTHERN A,0,6 - 0,45,AUS,0:45
+Turnover foul,7.0,2,6,AUS,1.0,KAY K,0,6 - 0,27,RSA,0:27
+Action shot - Saved,4.0,2,6,AUS,1.0,LINCOLN-SMITH H,0,6 - 0,10,AUS,0:10
+Starting goalkeeper,13.0,2,6,AUS,2.0,WAKEFIELD K,0,6 - 0,480,AUS,8:00
+Starting goalkeeper,1.0,2,6,AUS,2.0,THOMAS R,0,6 - 0,480,RSA,8:00
+Sprint won possession,5.0,2,6,AUS,2.0,GOFERS K,0,6 - 0,480,AUS,8:00
+5m shot - Post,5.0,2,6,AUS,2.0,GOFERS K,0,6 - 0,453,AUS,7:33
+5m shot - Post,12.0,2,6,AUS,2.0,WHITE K,0,6 - 0,425,RSA,7:05
+20 sec. exclusion in centre,11.0,2,6,AUS,2.0,O'HANLON D,0,6 - 0,400,RSA,6:40
+Extra player shot - Post,3.0,2,6,AUS,2.0,PALEY K,0,6 - 0,383,RSA,6:23
+Action shot - Saved,12.0,2,6,AUS,2.0,ZAGAME N,0,6 - 0,372,AUS,6:12
+Action shot - Saved,7.0,2,6,AUS,2.0,WEBSTER R,0,6 - 0,327,AUS,5:27
+Turnover foul,5.0,2,6,AUS,2.0,GOFERS K,0,6 - 0,275,AUS,4:35
+Steal,3.0,2,6,AUS,2.0,PALEY K,0,6 - 0,275,RSA,4:35
+Turnover foul,6.0,2,6,AUS,2.0,HALLENDORFF A,0,6 - 0,244,RSA,4:04
+Steal,5.0,2,6,AUS,2.0,GOFERS K,0,6 - 0,244,AUS,4:04
+Counter attack - Goal,4.0,2,7,AUS,2.0,LINCOLN-SMITH H,0,7 - 0,234,AUS,3:54
+Turnover foul,6.0,2,7,AUS,2.0,HALLENDORFF A,0,7 - 0,215,RSA,3:35
+20 sec. exclusion in centre,2.0,2,7,AUS,2.0,PARKES M,0,7 - 0,198,RSA,3:18
+Extra player shot - Goal,10.0,2,8,AUS,2.0,SOUTHERN A,0,8 - 0,188,AUS,3:08
+Time-Out,,2,8,AUS,2.0,,0,8 - 0,179,RSA,2:59
+Turnover foul,10.0,2,8,AUS,2.0,KILLEEN L,0,8 - 0,158,RSA,2:38
+5m shot - Missed,6.0,2,8,AUS,2.0,KNOX B,0,8 - 0,133,AUS,2:13
+Centre shot - Goal,4.0,2,8,AUS,2.0,VERSFELD R,1,8 - 1,114,RSA,1:54
+Turnover foul,2.0,2,8,AUS,2.0,BEADSWORTH G,1,8 - 1,87,AUS,1:27
+Turnover foul,7.0,2,8,AUS,2.0,KAY K,1,8 - 1,66,RSA,1:06
+Steal,6.0,2,8,AUS,2.0,KNOX B,1,8 - 1,66,AUS,1:06
+5m shot - Saved,6.0,2,8,AUS,2.0,KNOX B,1,8 - 1,49,AUS,0:49
+Centre shot - Missed,4.0,2,8,AUS,2.0,VERSFELD R,1,8 - 1,37,RSA,0:37
+20 sec. exclusion in centre,10.0,2,8,AUS,2.0,KILLEEN L,1,8 - 1,18,RSA,0:18
+Extra player shot - Goal,2.0,2,9,AUS,2.0,BEADSWORTH G,1,9 - 1,9,AUS,0:09
+Starting goalkeeper,13.0,2,9,AUS,3.0,WAKEFIELD K,1,9 - 1,480,AUS,8:00
+Starting goalkeeper,1.0,2,9,AUS,3.0,THOMAS R,1,9 - 1,480,RSA,8:00
+Sprint won possession,7.0,2,9,AUS,3.0,KAY K,1,9 - 1,480,RSA,8:00
+Action shot - Goal,5.0,2,10,AUS,3.0,GOFERS K,1,10 - 1,444,AUS,7:24
+20 sec. exclusion in field,7.0,2,10,AUS,3.0,KAY K,1,10 - 1,429,RSA,7:09
+Turnover foul,5.0,2,10,AUS,3.0,GOFERS K,1,10 - 1,417,AUS,6:57
+Turnover foul,7.0,2,10,AUS,3.0,KAY K,1,10 - 1,394,RSA,6:34
+Steal,12.0,2,10,AUS,3.0,ZAGAME N,1,10 - 1,394,AUS,6:34
+Counter attack - Goal,12.0,2,11,AUS,3.0,ZAGAME N,1,11 - 1,391,AUS,6:31
+Turnover foul,5.0,2,11,AUS,3.0,SCHOOLING M,1,11 - 1,364,RSA,6:04
+Action shot - Blocked,3.0,2,11,AUS,3.0,PALEY K,1,11 - 1,348,RSA,5:48
+Penalty foul,3.0,2,11,AUS,3.0,PALEY K,1,11 - 1,304,RSA,5:04
+Penalty shot - Goal,5.0,2,12,AUS,3.0,GOFERS K,1,12 - 1,304,AUS,5:04
+Turnover foul,10.0,2,12,AUS,3.0,KILLEEN L,1,12 - 1,286,RSA,4:46
+Steal,4.0,2,12,AUS,3.0,LINCOLN-SMITH H,1,12 - 1,286,AUS,4:46
+Counter attack - Goal,4.0,2,13,AUS,3.0,LINCOLN-SMITH H,1,13 - 1,272,AUS,4:32
+Turnover foul,11.0,2,13,AUS,3.0,O'HANLON D,1,13 - 1,249,RSA,4:09
+Steal,8.0,2,13,AUS,3.0,MCGHIE G,1,13 - 1,249,AUS,4:09
+5m shot - Missed,5.0,2,13,AUS,3.0,GOFERS K,1,13 - 1,227,AUS,3:47
+Turnover foul,6.0,2,13,AUS,3.0,HALLENDORFF A,1,13 - 1,197,RSA,3:17
+20 sec. exclusion in centre,5.0,2,13,AUS,3.0,SCHOOLING M,1,13 - 1,180,RSA,3:00
+Extra player shot - Goal,5.0,2,14,AUS,3.0,GOFERS K,1,14 - 1,173,AUS,2:53
+5m shot - Post,7.0,2,14,AUS,3.0,KAY K,1,14 - 1,148,RSA,2:28
+5m shot - Saved,10.0,2,14,AUS,3.0,SOUTHERN A,1,14 - 1,127,AUS,2:07
+Time-Out,,2,14,AUS,3.0,,1,14 - 1,127,RSA,2:07
+5m shot - Missed,11.0,2,14,AUS,3.0,O'HANLON D,1,14 - 1,108,RSA,1:48
+Action shot - Goal,10.0,2,15,AUS,3.0,SOUTHERN A,1,15 - 1,96,AUS,1:36
+20 sec. exclusion in field,12.0,2,15,AUS,3.0,WHITE K,1,15 - 1,66,RSA,1:06
+Extra player shot - Saved,10.0,2,15,AUS,3.0,SOUTHERN A,1,15 - 1,42,AUS,0:42
+5m shot - Saved,12.0,2,15,AUS,3.0,WHITE K,1,15 - 1,31,RSA,0:31
+Counter attack - Goal,10.0,2,16,AUS,3.0,SOUTHERN A,1,16 - 1,23,AUS,0:23
+5m shot - Missed,12.0,2,16,AUS,3.0,WHITE K,1,16 - 1,1,RSA,0:01
+Starting goalkeeper,13.0,2,16,AUS,4.0,WAKEFIELD K,1,16 - 1,480,AUS,8:00
+Starting goalkeeper,1.0,2,16,AUS,4.0,THOMAS R,1,16 - 1,480,RSA,8:00
+Sprint won possession,12.0,2,16,AUS,4.0,ZAGAME N,1,16 - 1,480,AUS,8:00
+Turnover foul,9.0,2,16,AUS,4.0,ARANCINI Z,1,16 - 1,451,AUS,7:31
+Steal,10.0,2,16,AUS,4.0,KILLEEN L,1,16 - 1,451,RSA,7:31
+Turnover foul,11.0,2,16,AUS,4.0,O'HANLON D,1,16 - 1,422,RSA,7:02
+Steal,4.0,2,16,AUS,4.0,LINCOLN-SMITH H,1,16 - 1,422,AUS,7:02
+Counter attack - Post,11.0,2,16,AUS,4.0,HALLIGAN B,1,16 - 1,405,AUS,6:45
+5m shot - Goal,8.0,2,17,AUS,4.0,MCGHIE G,1,17 - 1,378,AUS,6:18
+Turnover foul,4.0,2,17,AUS,4.0,VERSFELD R,1,17 - 1,349,RSA,5:49
+Steal,3.0,2,17,AUS,4.0,BUCKLING H,1,17 - 1,349,AUS,5:49
+Action shot - Goal,3.0,2,18,AUS,4.0,BUCKLING H,1,18 - 1,325,AUS,5:25
+5m shot - Saved,12.0,2,18,AUS,4.0,WHITE K,1,18 - 1,297,RSA,4:57
+5m shot - Missed,8.0,2,18,AUS,4.0,MCGHIE G,1,18 - 1,270,AUS,4:30
+Turnover foul,5.0,2,18,AUS,4.0,SCHOOLING M,1,18 - 1,243,RSA,4:03
+Steal,3.0,2,18,AUS,4.0,BUCKLING H,1,18 - 1,243,AUS,4:03
+Counter attack - Saved,12.0,2,18,AUS,4.0,ZAGAME N,1,18 - 1,236,AUS,3:56
+Time-Out,,2,18,AUS,4.0,,1,18 - 1,232,RSA,3:52
+Goalkeeper substitution,13.0,2,18,AUS,4.0,GASCOIGNE A,1,18 - 1,208,RSA,3:28
+Action shot - Blocked,2.0,2,18,AUS,4.0,PARKES M,1,18 - 1,204,RSA,3:24
+20 sec. exclusion in centre,3.0,2,18,AUS,4.0,PALEY K,1,18 - 1,181,RSA,3:01
+Extra player shot - Goal,2.0,2,19,AUS,4.0,BEADSWORTH G,1,19 - 1,169,AUS,2:49
+Turnover foul,2.0,2,19,AUS,4.0,PARKES M,1,19 - 1,139,RSA,2:19
+Steal,2.0,2,19,AUS,4.0,BEADSWORTH G,1,19 - 1,139,AUS,2:19
+Turnover foul,5.0,2,19,AUS,4.0,GOFERS K,1,19 - 1,127,AUS,2:07
+Steal,13.0,2,19,AUS,4.0,GASCOIGNE A,1,19 - 1,127,RSA,2:07
+5m shot - Missed,7.0,2,19,AUS,4.0,WEBSTER R,1,19 - 1,74,AUS,1:14
+5m shot - Saved,12.0,2,19,AUS,4.0,WHITE K,1,19 - 1,40,RSA,0:40
+Turnover foul,2.0,2,19,AUS,4.0,BEADSWORTH G,1,19 - 1,9,AUS,0:09
+Starting goalkeeper,1.0,3,0,GRE,1.0,THOMAS R,0,0 - 0,480,RSA,8:00
+Starting goalkeeper,1.0,3,0,GRE,1.0,KOUVDOU E,0,0 - 0,480,GRE,8:00
+Sprint won possession,9.0,3,0,GRE,1.0,CHARALAMPIDI I,0,0 - 0,480,GRE,8:00
+Action shot - Goal,8.0,3,1,GRE,1.0,ROUMPESI A,0,0 - 1,458,GRE,7:38
+Centre shot - Goal,4.0,3,1,GRE,1.0,VERSFELD R,1,1 - 1,443,RSA,7:23
+Action shot - Saved,9.0,3,1,GRE,1.0,CHARALAMPIDI I,1,1 - 1,419,GRE,6:59
+Turnover foul,7.0,3,1,GRE,1.0,ASIMAKI A,1,1 - 1,403,GRE,6:43
+Steal,6.0,3,1,GRE,1.0,HALLENDORFF A,1,1 - 1,403,RSA,6:43
+Turnover foul,7.0,3,1,GRE,1.0,KAY K,1,1 - 1,377,RSA,6:17
+Centre shot - Goal,7.0,3,2,GRE,1.0,ASIMAKI A,1,1 - 2,367,GRE,6:07
+5m shot - Missed,12.0,3,2,GRE,1.0,WHITE K,1,1 - 2,339,RSA,5:39
+Turnover foul,11.0,3,2,GRE,1.0,PLEVRITOU E,1,1 - 2,315,GRE,5:15
+5m shot - Missed,7.0,3,2,GRE,1.0,KAY K,1,1 - 2,291,RSA,4:51
+Action shot - Goal,7.0,3,3,GRE,1.0,ASIMAKI A,1,1 - 3,281,GRE,4:41
+Turnover foul,10.0,3,3,GRE,1.0,KILLEEN L,1,1 - 3,254,RSA,4:14
+20 sec. exclusion in centre,10.0,3,3,GRE,1.0,KILLEEN L,1,1 - 3,237,RSA,3:57
+Extra player shot - Saved,6.0,3,3,GRE,1.0,AVRAMIDOU A,1,1 - 3,221,GRE,3:41
+Turnover foul,3.0,3,3,GRE,1.0,PALEY K,1,1 - 3,201,RSA,3:21
+Action shot - Post,3.0,3,3,GRE,1.0,CHARALAMPIDI S,1,1 - 3,183,GRE,3:03
+Time-Out,,3,3,GRE,1.0,,1,1 - 3,183,RSA,3:03
+5m shot - Missed,12.0,3,3,GRE,1.0,WHITE K,1,1 - 3,168,RSA,2:48
+Counter attack - Goal,3.0,3,4,GRE,1.0,CHARALAMPIDI S,1,1 - 4,160,GRE,2:40
+20 sec. exclusion in field,3.0,3,4,GRE,1.0,PALEY K,1,1 - 4,141,RSA,2:21
+Extra player shot - Goal,3.0,3,5,GRE,1.0,CHARALAMPIDI S,1,1 - 5,132,GRE,2:12
+Action shot - Saved,3.0,3,5,GRE,1.0,PALEY K,1,1 - 5,105,RSA,1:45
+Turnover foul,3.0,3,5,GRE,1.0,CHARALAMPIDI S,1,1 - 5,92,GRE,1:32
+Steal,12.0,3,5,GRE,1.0,WHITE K,1,1 - 5,92,RSA,1:32
+5m shot - Missed,12.0,3,5,GRE,1.0,WHITE K,1,1 - 5,68,RSA,1:08
+Action shot - Saved,2.0,3,5,GRE,1.0,TSOUKALA C,1,1 - 5,43,GRE,0:43
+Turnover foul,2.0,3,5,GRE,1.0,PARKES M,1,1 - 5,14,RSA,0:14
+20 sec. exclusion in centre,5.0,3,5,GRE,1.0,SCHOOLING M,1,1 - 5,5,RSA,0:05
+Starting goalkeeper,13.0,3,5,GRE,2.0,GASCOIGNE A,1,1 - 5,480,RSA,8:00
+Starting goalkeeper,1.0,3,5,GRE,2.0,KOUVDOU E,1,1 - 5,480,GRE,8:00
+Sprint won possession,11.0,3,5,GRE,2.0,PLEVRITOU E,1,1 - 5,480,GRE,8:00
+Action shot - Goal,6.0,3,6,GRE,2.0,AVRAMIDOU A,1,1 - 6,454,GRE,7:34
+Turnover foul,10.0,3,6,GRE,2.0,KILLEEN L,1,1 - 6,429,RSA,7:09
+Action shot - Goal,7.0,3,7,GRE,2.0,ASIMAKI A,1,1 - 7,408,GRE,6:48
+Turnover foul,4.0,3,7,GRE,2.0,VERSFELD R,1,1 - 7,380,RSA,6:20
+Steal,10.0,3,7,GRE,2.0,MANOLIOUDAKI T,1,1 - 7,380,GRE,6:20
+Turnover foul,10.0,3,7,GRE,2.0,MANOLIOUDAKI T,1,1 - 7,351,GRE,5:51
+Steal,10.0,3,7,GRE,2.0,KILLEEN L,1,1 - 7,351,RSA,5:51
+5m shot - Missed,12.0,3,7,GRE,2.0,WHITE K,1,1 - 7,331,RSA,5:31
+Action shot - Goal,4.0,3,8,GRE,2.0,KOTSIA C,1,1 - 8,319,GRE,5:19
+Turnover foul,12.0,3,8,GRE,2.0,WHITE K,1,1 - 8,295,RSA,4:55
+Steal,7.0,3,8,GRE,2.0,ASIMAKI A,1,1 - 8,295,GRE,4:55
+Action shot - Goal,7.0,3,9,GRE,2.0,ASIMAKI A,1,1 - 9,276,GRE,4:36
+Turnover foul,4.0,3,9,GRE,2.0,VERSFELD R,1,1 - 9,254,RSA,4:14
+Penalty foul,10.0,3,9,GRE,2.0,KILLEEN L,1,1 - 9,243,RSA,4:03
+Penalty shot - Post,11.0,3,9,GRE,2.0,PLEVRITOU E,1,1 - 9,243,GRE,4:03
+Turnover foul,12.0,3,9,GRE,2.0,WHITE K,1,1 - 9,216,RSA,3:36
+5m shot - Post,11.0,3,9,GRE,2.0,PLEVRITOU E,1,1 - 9,198,GRE,3:18
+Time-Out,,3,9,GRE,2.0,,1,1 - 9,198,RSA,3:18
+Turnover foul,7.0,3,9,GRE,2.0,KAY K,1,1 - 9,173,RSA,2:53
+Double exclusion,5.0,3,9,GRE,2.0,SCHOOLING M,1,1 - 9,171,RSA,2:51
+Double exclusion,12.0,3,9,GRE,2.0,XENAKI E,1,1 - 9,171,GRE,2:51
+Extra player shot - Goal,9.0,3,10,GRE,2.0,CHARALAMPIDI I,1,1 - 10,159,GRE,2:39
+20 sec. exclusion in centre,11.0,3,10,GRE,2.0,PLEVRITOU E,1,1 - 10,123,GRE,2:03
+Action shot - Goal,12.0,3,10,GRE,2.0,WHITE K,2,2 - 10,95,RSA,1:35
+Action shot - Goal,2.0,3,11,GRE,2.0,TSOUKALA C,2,2 - 11,68,GRE,1:08
+Turnover foul,3.0,3,11,GRE,2.0,PALEY K,2,2 - 11,44,RSA,0:44
+Action shot - Saved,11.0,3,11,GRE,2.0,PLEVRITOU E,2,2 - 11,14,GRE,0:14
+Starting goalkeeper,13.0,3,11,GRE,3.0,GASCOIGNE A,2,2 - 11,480,RSA,8:00
+Starting goalkeeper,13.0,3,11,GRE,3.0,DIAMANTOPOULOU C,2,2 - 11,480,GRE,8:00
+Sprint won possession,6.0,3,11,GRE,3.0,AVRAMIDOU A,2,2 - 11,480,GRE,8:00
+Turnover foul,7.0,3,11,GRE,3.0,ASIMAKI A,2,2 - 11,468,GRE,7:48
+Turnover foul,7.0,3,11,GRE,3.0,KAY K,2,2 - 11,448,RSA,7:28
+Action shot - Saved,8.0,3,11,GRE,3.0,ROUMPESI A,2,2 - 11,421,GRE,7:01
+Turnover foul,7.0,3,11,GRE,3.0,KAY K,2,2 - 11,394,RSA,6:34
+Steal,2.0,3,11,GRE,3.0,TSOUKALA C,2,2 - 11,394,GRE,6:34
+Centre shot - Goal,7.0,3,12,GRE,3.0,ASIMAKI A,2,2 - 12,371,GRE,6:11
+Turnover foul,12.0,3,12,GRE,3.0,WHITE K,2,2 - 12,346,RSA,5:46
+Steal,6.0,3,12,GRE,3.0,AVRAMIDOU A,2,2 - 12,346,GRE,5:46
+Action shot - Blocked,2.0,3,12,GRE,3.0,TSOUKALA C,2,2 - 12,323,GRE,5:23
+Centre shot - Saved,7.0,3,12,GRE,3.0,ASIMAKI A,2,2 - 12,274,GRE,4:34
+Penalty foul,10.0,3,12,GRE,3.0,MANOLIOUDAKI T,2,2 - 12,255,GRE,4:15
+Penalty shot - Goal,12.0,3,12,GRE,3.0,WHITE K,3,3 - 12,255,RSA,4:15
+Action shot - Missed,2.0,3,12,GRE,3.0,TSOUKALA C,3,3 - 12,240,GRE,4:00
+Turnover foul,7.0,3,12,GRE,3.0,KAY K,3,3 - 12,223,RSA,3:43
+Steal,7.0,3,12,GRE,3.0,ASIMAKI A,3,3 - 12,223,GRE,3:43
+Action shot - Blocked,2.0,3,12,GRE,3.0,TSOUKALA C,3,3 - 12,202,GRE,3:22
+Turnover foul,4.0,3,12,GRE,3.0,VERSFELD R,3,3 - 12,174,RSA,2:54
+Turnover foul,7.0,3,12,GRE,3.0,ASIMAKI A,3,3 - 12,160,GRE,2:40
+5m shot - Missed,12.0,3,12,GRE,3.0,WHITE K,3,3 - 12,134,RSA,2:14
+Action shot - Goal,10.0,3,13,GRE,3.0,MANOLIOUDAKI T,3,3 - 13,112,GRE,1:52
+Action shot - Missed,7.0,3,13,GRE,3.0,KAY K,3,3 - 13,94,RSA,1:34
+Centre shot - Goal,12.0,3,14,GRE,3.0,XENAKI E,3,3 - 14,71,GRE,1:11
+5m shot - Blocked,5.0,3,14,GRE,3.0,PLEVRITOU M,3,3 - 14,67,GRE,1:07
+Turnover foul,6.0,3,14,GRE,3.0,HALLENDORFF A,3,3 - 14,49,RSA,0:49
+Centre shot - Goal,12.0,3,15,GRE,3.0,XENAKI E,3,3 - 15,29,GRE,0:29
+Turnover foul,12.0,3,15,GRE,3.0,WHITE K,3,3 - 15,6,RSA,0:06
+Steal,4.0,3,15,GRE,3.0,KOTSIA C,3,3 - 15,6,GRE,0:06
+5m shot - Saved,11.0,3,15,GRE,3.0,PLEVRITOU E,3,3 - 15,1,GRE,0:01
+Starting goalkeeper,13.0,3,15,GRE,4.0,GASCOIGNE A,3,3 - 15,480,RSA,8:00
+Starting goalkeeper,13.0,3,15,GRE,4.0,DIAMANTOPOULOU C,3,3 - 15,480,GRE,8:00
+Sprint won possession,9.0,3,15,GRE,4.0,CHARALAMPIDI I,3,3 - 15,480,GRE,8:00
+5m shot - Post,5.0,3,15,GRE,4.0,PLEVRITOU M,3,3 - 15,452,GRE,7:32
+Turnover foul,12.0,3,15,GRE,4.0,WHITE K,3,3 - 15,433,RSA,7:13
+Action shot - Saved,11.0,3,15,GRE,4.0,PLEVRITOU E,3,3 - 15,406,GRE,6:46
+Turnover foul,5.0,3,15,GRE,4.0,SCHOOLING M,3,3 - 15,388,RSA,6:28
+Steal,11.0,3,15,GRE,4.0,PLEVRITOU E,3,3 - 15,388,GRE,6:28
+Turnover foul,11.0,3,15,GRE,4.0,PLEVRITOU E,3,3 - 15,379,GRE,6:19
+Steal,7.0,3,15,GRE,4.0,KAY K,3,3 - 15,379,RSA,6:19
+Counter attack - Goal,4.0,3,15,GRE,4.0,VERSFELD R,4,4 - 15,374,RSA,6:14
+Action shot - Blocked,3.0,3,15,GRE,4.0,CHARALAMPIDI S,4,4 - 15,346,GRE,5:46
+Turnover foul,5.0,3,15,GRE,4.0,SCHOOLING M,4,4 - 15,317,RSA,5:17
+5m shot - Goal,5.0,3,16,GRE,4.0,PLEVRITOU M,4,4 - 16,298,GRE,4:58
+Turnover foul,3.0,3,16,GRE,4.0,PALEY K,4,4 - 16,283,RSA,4:43
+Counter attack - Goal,11.0,3,17,GRE,4.0,PLEVRITOU E,4,4 - 17,271,GRE,4:31
+20 sec. exclusion in field,5.0,3,17,GRE,4.0,PLEVRITOU M,4,4 - 17,254,GRE,4:14
+Turnover foul,12.0,3,17,GRE,4.0,WHITE K,4,4 - 17,225,RSA,3:45
+Steal,11.0,3,17,GRE,4.0,PLEVRITOU E,4,4 - 17,225,GRE,3:45
+Action shot - Goal,11.0,3,18,GRE,4.0,PLEVRITOU E,4,4 - 18,201,GRE,3:21
+5m shot - Saved,12.0,3,18,GRE,4.0,WHITE K,4,4 - 18,171,RSA,2:51
+5m shot - Post,3.0,3,18,GRE,4.0,CHARALAMPIDI S,4,4 - 18,152,GRE,2:32
+Turnover foul,12.0,3,18,GRE,4.0,WHITE K,4,4 - 18,123,RSA,2:03
+20 sec. exclusion in centre,12.0,3,18,GRE,4.0,WHITE K,4,4 - 18,108,RSA,1:48
+Extra player shot - Goal,4.0,3,19,GRE,4.0,KOTSIA C,4,4 - 19,97,GRE,1:37
+Time-Out,,3,19,GRE,4.0,,4,4 - 19,97,RSA,1:37
+Turnover foul,12.0,3,19,GRE,4.0,WHITE K,4,4 - 19,77,RSA,1:17
+Steal,9.0,3,19,GRE,4.0,CHARALAMPIDI I,4,4 - 19,77,GRE,1:17
+5m shot - Post,5.0,3,19,GRE,4.0,PLEVRITOU M,4,4 - 19,56,GRE,0:56
+Turnover foul,12.0,3,19,GRE,4.0,WHITE K,4,4 - 19,24,RSA,0:24
+Steal,11.0,3,19,GRE,4.0,PLEVRITOU E,4,4 - 19,24,GRE,0:24
+Action shot - Goal,11.0,3,20,GRE,4.0,PLEVRITOU E,4,4 - 20,5,GRE,0:05
+Starting goalkeeper,1.0,4,0,NZL,1.0,MILLAR B,0,0 - 0,480,NZL,8:00
+Starting goalkeeper,1.0,4,0,NZL,1.0,THOMAS R,0,0 - 0,480,RSA,8:00
+Sprint won possession,6.0,4,0,NZL,1.0,LANDRY S,0,0 - 0,480,NZL,8:00
+Turnover foul,4.0,4,0,NZL,1.0,LEWIS D,0,0 - 0,463,NZL,7:43
+Steal,6.0,4,0,NZL,1.0,HALLENDORFF A,0,0 - 0,463,RSA,7:43
+Action shot - Saved,7.0,4,0,NZL,1.0,KAY K,0,0 - 0,434,RSA,7:14
+5m shot - Missed,12.0,4,0,NZL,1.0,MYLES J,0,0 - 0,414,NZL,6:54
+Turnover foul,7.0,4,0,NZL,1.0,KAY K,0,0 - 0,387,RSA,6:27
+Steal,1.0,4,0,NZL,1.0,MILLAR B,0,0 - 0,387,NZL,6:27
+Centre shot - Saved,2.0,4,0,NZL,1.0,LEWIS N,0,0 - 0,367,NZL,6:07
+Turnover foul,9.0,4,0,NZL,1.0,STONEMAN E,0,0 - 0,348,NZL,5:48
+Steal,6.0,4,0,NZL,1.0,HALLENDORFF A,0,0 - 0,348,RSA,5:48
+Turnover foul,12.0,4,0,NZL,1.0,WHITE K,0,0 - 0,319,RSA,5:19
+Steal,6.0,4,0,NZL,1.0,LANDRY S,0,0 - 0,319,NZL,5:19
+Turnover foul,2.0,4,0,NZL,1.0,LEWIS N,0,0 - 0,301,NZL,5:01
+Turnover foul,5.0,4,0,NZL,1.0,SCHOOLING M,0,0 - 0,271,RSA,4:31
+5m shot - Goal,9.0,4,1,NZL,1.0,STONEMAN E,0,1 - 0,250,NZL,4:10
+Turnover foul,12.0,4,1,NZL,1.0,WHITE K,0,1 - 0,233,RSA,3:53
+Counter attack - Missed,4.0,4,1,NZL,1.0,LEWIS D,0,1 - 0,221,NZL,3:41
+Time-Out,,4,1,NZL,1.0,,0,1 - 0,221,RSA,3:41
+20 sec. exclusion in centre,10.0,4,1,NZL,1.0,DANCE L,0,1 - 0,210,NZL,3:30
+Action shot - Saved,6.0,4,1,NZL,1.0,HALLENDORFF A,0,1 - 0,185,RSA,3:05
+Turnover foul,3.0,4,1,NZL,1.0,PATTISON S,0,1 - 0,162,NZL,2:42
+Turnover foul,10.0,4,1,NZL,1.0,KILLEEN L,0,1 - 0,149,RSA,2:29
+Turnover foul,9.0,4,1,NZL,1.0,STONEMAN E,0,1 - 0,123,NZL,2:03
+Turnover foul,12.0,4,1,NZL,1.0,WHITE K,0,1 - 0,107,RSA,1:47
+Centre shot - Post,4.0,4,1,NZL,1.0,LEWIS D,0,1 - 0,90,NZL,1:30
+5m shot - Post,3.0,4,1,NZL,1.0,PALEY K,0,1 - 0,65,RSA,1:05
+Turnover foul,4.0,4,1,NZL,1.0,LEWIS D,0,1 - 0,45,NZL,0:45
+Steal,5.0,4,1,NZL,1.0,SCHOOLING M,0,1 - 0,45,RSA,0:45
+Turnover foul,5.0,4,1,NZL,1.0,SCHOOLING M,0,1 - 0,31,RSA,0:31
+20 sec. exclusion in centre,2.0,4,1,NZL,1.0,PARKES M,0,1 - 0,31,RSA,0:31
+Time-Out,,4,1,NZL,1.0,,0,1 - 0,31,NZL,0:31
+Extra player shot - Goal,12.0,4,2,NZL,1.0,MYLES J,0,2 - 0,14,NZL,0:14
+20 sec. exclusion in centre,8.0,4,2,NZL,1.0,LOPES DA SILVA C,0,2 - 0,2,NZL,0:02
+Starting goalkeeper,1.0,4,2,NZL,2.0,MILLAR B,0,2 - 0,480,NZL,8:00
+Starting goalkeeper,1.0,4,2,NZL,2.0,THOMAS R,0,2 - 0,480,RSA,8:00
+Sprint won possession,6.0,4,2,NZL,2.0,LANDRY S,0,2 - 0,480,NZL,8:00
+20 sec. exclusion in centre,4.0,4,2,NZL,2.0,VERSFELD R,0,2 - 0,454,RSA,7:34
+Extra player shot - Goal,11.0,4,3,NZL,2.0,HUDSON K,0,3 - 0,440,NZL,7:20
+Turnover foul,6.0,4,3,NZL,2.0,HALLENDORFF A,0,3 - 0,426,RSA,7:06
+5m shot - Saved,4.0,4,3,NZL,2.0,LEWIS D,0,3 - 0,416,NZL,6:56
+5m shot - Post,6.0,4,3,NZL,2.0,LANDRY S,0,3 - 0,398,NZL,6:38
+Action shot - Missed,5.0,4,3,NZL,2.0,SCHOOLING M,0,3 - 0,372,RSA,6:12
+20 sec. exclusion in centre,11.0,4,3,NZL,2.0,HUDSON K,0,3 - 0,357,NZL,5:57
+Turnover foul,2.0,4,3,NZL,2.0,LEWIS N,0,3 - 0,353,NZL,5:53
+Turnover foul,5.0,4,3,NZL,2.0,SCHOOLING M,0,3 - 0,330,RSA,5:30
+20 sec. exclusion in centre,2.0,4,3,NZL,2.0,PARKES M,0,3 - 0,314,RSA,5:14
+Extra player shot - Saved,2.0,4,3,NZL,2.0,LEWIS N,0,3 - 0,310,NZL,5:10
+5m shot - Missed,2.0,4,3,NZL,2.0,PARKES M,0,3 - 0,286,RSA,4:46
+5m shot - Missed,6.0,4,3,NZL,2.0,LANDRY S,0,3 - 0,268,NZL,4:28
+Turnover foul,6.0,4,3,NZL,2.0,HALLENDORFF A,0,3 - 0,239,RSA,3:59
+Steal,1.0,4,3,NZL,2.0,MILLAR B,0,3 - 0,239,NZL,3:59
+Counter attack - Saved,6.0,4,3,NZL,2.0,LANDRY S,0,3 - 0,225,NZL,3:45
+Yellow card,,4,3,NZL,2.0,Team Official,0,3 - 0,225,RSA,3:45
+Turnover foul,8.0,4,3,NZL,2.0,LOPES DA SILVA C,0,3 - 0,213,NZL,3:33
+Steal,5.0,4,3,NZL,2.0,SCHOOLING M,0,3 - 0,213,RSA,3:33
+5m shot - Saved,11.0,4,3,NZL,2.0,O'HANLON D,0,3 - 0,197,RSA,3:17
+Turnover foul,12.0,4,3,NZL,2.0,WHITE K,0,3 - 0,179,RSA,2:59
+Action shot - Post,2.0,4,3,NZL,2.0,LEWIS N,0,3 - 0,159,NZL,2:39
+Time-Out,,4,3,NZL,2.0,,0,3 - 0,153,RSA,2:33
+Centre shot - Saved,7.0,4,3,NZL,2.0,KAY K,0,3 - 0,136,RSA,2:16
+Action shot - Missed,10.0,4,3,NZL,2.0,DANCE L,0,3 - 0,111,NZL,1:51
+Action shot - Saved,3.0,4,3,NZL,2.0,PALEY K,0,3 - 0,90,RSA,1:30
+Turnover foul,12.0,4,3,NZL,4.0,MYLES J,0,3 - 0,214,NZL,3:34
+Steal,5.0,4,3,NZL,4.0,SCHOOLING M,0,3 - 0,214,RSA,3:34
+Time-Out,,4,3,NZL,4.0,,0,3 - 0,214,RSA,3:34
+5m shot - Post,10.0,4,3,NZL,4.0,KILLEEN L,0,3 - 0,188,RSA,3:08
+Action shot - Saved,4.0,4,3,NZL,4.0,LEWIS D,0,3 - 0,172,NZL,2:52
+20 sec. exclusion in centre,7.0,4,3,NZL,4.0,KAY K,0,3 - 0,170,RSA,2:50
+Extra player shot - Goal,12.0,4,11,NZL,4.0,MYLES J,3,11 - 3,151,NZL,2:31
+5m shot - Saved,10.0,4,11,NZL,4.0,KILLEEN L,3,11 - 3,126,RSA,2:06
+Counter attack - Saved,4.0,4,11,NZL,4.0,LEWIS D,3,11 - 3,117,NZL,1:57
+5m shot - Saved,10.0,4,11,NZL,2.0,DANCE L,3,11 - 3,69,NZL,1:09
+20 sec. exclusion in centre,4.0,4,11,NZL,2.0,VERSFELD R,3,11 - 3,64,RSA,1:04
+Extra player shot - Goal,7.0,4,4,NZL,2.0,CHASE M,0,4 - 0,48,NZL,0:48
+Action shot - Saved,12.0,4,4,NZL,2.0,WHITE K,0,4 - 0,21,RSA,0:21
+Time-Out,,4,4,NZL,2.0,,0,4 - 0,20,NZL,0:20
+20 sec. exclusion in centre,10.0,4,4,NZL,2.0,KILLEEN L,0,4 - 0,17,RSA,0:17
+Extra player shot - Saved,3.0,4,4,NZL,2.0,PATTISON S,0,4 - 0,1,NZL,0:01
+Starting goalkeeper,1.0,4,4,NZL,3.0,MILLAR B,0,4 - 0,480,NZL,8:00
+Starting goalkeeper,1.0,4,4,NZL,3.0,THOMAS R,0,4 - 0,480,RSA,8:00
+Sprint won possession,6.0,4,4,NZL,3.0,LANDRY S,0,4 - 0,480,NZL,8:00
+Action shot - Blocked,2.0,4,4,NZL,3.0,LEWIS N,0,4 - 0,454,NZL,7:34
+Turnover foul,12.0,4,4,NZL,3.0,WHITE K,0,4 - 0,426,RSA,7:06
+Steal,8.0,4,4,NZL,3.0,LOPES DA SILVA C,0,4 - 0,426,NZL,7:06
+5m shot - Blocked,2.0,4,4,NZL,3.0,LEWIS N,0,4 - 0,402,NZL,6:42
+20 sec. exclusion in centre,12.0,4,4,NZL,3.0,MYLES J,0,4 - 0,395,NZL,6:35
+Extra player shot - Goal,7.0,4,4,NZL,3.0,KAY K,1,4 - 1,377,RSA,6:17
+Action shot - Saved,10.0,4,4,NZL,3.0,DANCE L,1,4 - 1,363,NZL,6:03
+20 sec. exclusion in centre,7.0,4,4,NZL,3.0,CHASE M,1,4 - 1,361,NZL,6:01
+Time-Out,,4,4,NZL,3.0,,1,4 - 1,361,RSA,6:01
+Extra player shot - Missed,7.0,4,4,NZL,3.0,KAY K,1,4 - 1,340,RSA,5:40
+5m shot - Saved,4.0,4,4,NZL,3.0,LEWIS D,1,4 - 1,316,NZL,5:16
+Action shot - Goal,10.0,4,5,NZL,3.0,DANCE L,1,5 - 1,310,NZL,5:10
+Turnover foul,7.0,4,5,NZL,3.0,KAY K,1,5 - 1,296,RSA,4:56
+Steal,4.0,4,5,NZL,3.0,LEWIS D,1,5 - 1,296,NZL,4:56
+Turnover foul,11.0,4,5,NZL,3.0,HUDSON K,1,5 - 1,267,NZL,4:27
+Steal,5.0,4,5,NZL,3.0,SCHOOLING M,1,5 - 1,267,RSA,4:27
+20 sec. exclusion in centre,11.0,4,5,NZL,3.0,HUDSON K,1,5 - 1,258,NZL,4:18
+Centre shot - Goal,12.0,4,5,NZL,3.0,WHITE K,2,5 - 2,235,RSA,3:55
+Turnover foul,10.0,4,5,NZL,3.0,DANCE L,2,5 - 2,209,NZL,3:29
+20 sec. exclusion in centre,10.0,4,5,NZL,3.0,DANCE L,2,5 - 2,194,NZL,3:14
+20 sec. exclusion in centre,7.0,4,5,NZL,3.0,CHASE M,2,5 - 2,176,NZL,2:56
+Extra player shot - Goal,3.0,4,5,NZL,3.0,PALEY K,3,5 - 3,174,RSA,2:54
+Time-Out,,4,5,NZL,3.0,,3,5 - 3,174,NZL,2:54
+Action shot - Saved,12.0,4,5,NZL,3.0,MYLES J,3,5 - 3,156,NZL,2:36
+20 sec. exclusion in centre,2.0,4,5,NZL,3.0,PARKES M,3,5 - 3,156,RSA,2:36
+Exclusion with substitution,2.0,4,5,NZL,3.0,PARKES M,3,5 - 3,156,RSA,2:36
+Extra player shot - Missed,2.0,4,5,NZL,3.0,LEWIS N,3,5 - 3,142,NZL,2:22
+5m shot - Saved,4.0,4,5,NZL,3.0,VERSFELD R,3,5 - 3,111,RSA,1:51
+Action shot - Blocked,4.0,4,5,NZL,3.0,LEWIS D,3,5 - 3,94,NZL,1:34
+5m shot - Goal,12.0,4,6,NZL,3.0,MYLES J,3,6 - 3,86,NZL,1:26
+Turnover foul,12.0,4,6,NZL,3.0,WHITE K,3,6 - 3,57,RSA,0:57
+Turnover foul,7.0,4,6,NZL,3.0,CHASE M,3,6 - 3,35,NZL,0:35
+Centre shot - Saved,2.0,4,6,NZL,3.0,LEWIS N,3,6 - 3,32,NZL,0:32
+Centre shot - Goal,2.0,4,7,NZL,3.0,LEWIS N,3,7 - 3,31,NZL,0:31
+Turnover foul,10.0,4,7,NZL,3.0,KILLEEN L,3,7 - 3,19,RSA,0:19
+Steal,4.0,4,7,NZL,3.0,LEWIS D,3,7 - 3,19,NZL,0:19
+20 sec. exclusion in centre,12.0,4,7,NZL,3.0,WHITE K,3,7 - 3,20,RSA,0:20
+Extra player shot - Goal,4.0,4,8,NZL,3.0,LEWIS D,3,8 - 3,12,NZL,0:12
+5m shot - Saved,3.0,4,8,NZL,3.0,PALEY K,3,8 - 3,0,RSA,0:00
+Starting goalkeeper,1.0,4,8,NZL,4.0,MILLAR B,3,8 - 3,480,NZL,8:00
+Starting goalkeeper,1.0,4,8,NZL,4.0,THOMAS R,3,8 - 3,480,RSA,8:00
+Sprint won possession,11.0,4,8,NZL,4.0,O'HANLON D,3,8 - 3,480,RSA,8:00
+Turnover foul,7.0,4,8,NZL,4.0,KAY K,3,8 - 3,465,RSA,7:45
+Counter attack - Saved,10.0,4,8,NZL,4.0,DANCE L,3,8 - 3,458,NZL,7:38
+Action shot - Saved,7.0,4,8,NZL,4.0,KAY K,3,8 - 3,444,RSA,7:24
+Turnover foul,8.0,4,8,NZL,4.0,LOPES DA SILVA C,3,8 - 3,415,NZL,6:55
+Turnover foul,3.0,4,8,NZL,4.0,PALEY K,3,8 - 3,399,RSA,6:39
+Turnover foul,6.0,4,8,NZL,4.0,LANDRY S,3,8 - 3,380,NZL,6:20
+5m shot - Goal,11.0,4,9,NZL,4.0,HUDSON K,3,9 - 3,322,NZL,5:22
+Turnover foul,6.0,4,9,NZL,4.0,HALLENDORFF A,3,9 - 3,298,RSA,4:58
+Steal,4.0,4,9,NZL,4.0,LEWIS D,3,9 - 3,298,NZL,4:58
+Action shot - Goal,4.0,4,10,NZL,4.0,LEWIS D,3,10 - 3,280,NZL,4:40
+20 sec. exclusion in centre,3.0,4,10,NZL,4.0,PATTISON S,3,10 - 3,256,NZL,4:16
+Action shot - Saved,7.0,4,10,NZL,4.0,KAY K,3,10 - 3,234,RSA,3:54
+Turnover foul,10.0,4,10,NZL,4.0,KILLEEN L,3,10 - 3,87,RSA,1:27
+Steal,4.0,4,10,NZL,4.0,LEWIS D,3,10 - 3,87,NZL,1:27
+Counter attack - Saved,4.0,4,10,NZL,4.0,LEWIS D,3,10 - 3,77,NZL,1:17
+Action shot - Saved,7.0,4,10,NZL,4.0,KAY K,3,10 - 3,53,RSA,0:53
+Time-Out,,4,10,NZL,4.0,,3,10 - 3,50,NZL,0:50
+Action shot - Saved,8.0,4,10,NZL,4.0,LOPES DA SILVA C,3,10 - 3,37,NZL,0:37
+20 sec. exclusion in centre,12.0,4,10,NZL,4.0,MYLES J,3,10 - 3,16,NZL,0:16
+Extra player shot - Post,12.0,4,10,NZL,4.0,WHITE K,3,10 - 3,5,RSA,0:05
+Starting goalkeeper,1.0,5,0,JPN,1.0,THOMAS R,0,0 - 0,480,RSA,8:00
+Starting goalkeeper,1.0,5,0,JPN,1.0,MIURA R,0,0 - 0,480,JPN,8:00
+Sprint won possession,6.0,5,0,JPN,1.0,HALLENDORFF A,0,0 - 0,480,RSA,8:00
+Turnover foul,11.0,5,0,JPN,1.0,O'HANLON D,0,0 - 0,456,RSA,7:36
+Steal,7.0,5,0,JPN,1.0,NAKANO Y,0,0 - 0,456,JPN,7:36
+Action shot - Missed,4.0,5,0,JPN,1.0,MAGARIYAMA S,0,0 - 0,447,JPN,7:27
+Turnover foul,11.0,5,0,JPN,1.0,O'HANLON D,0,0 - 0,429,RSA,7:09
+Steal,7.0,5,0,JPN,1.0,NAKANO Y,0,0 - 0,429,JPN,7:09
+20 sec. exclusion in centre,4.0,5,0,JPN,1.0,VERSFELD R,0,0 - 0,409,RSA,6:49
+Extra player shot - Goal,6.0,5,1,JPN,1.0,TAKAHASHI A,0,0 - 1,395,JPN,6:35
+20 sec. exclusion in field,10.0,5,1,JPN,1.0,MORI T,0,0 - 1,375,JPN,6:15
+Turnover foul,6.0,5,1,JPN,1.0,TAKAHASHI A,0,0 - 1,330,JPN,5:30
+Steal,7.0,5,1,JPN,1.0,KAY K,0,0 - 1,330,RSA,5:30
+Action shot - Saved,4.0,5,1,JPN,1.0,VERSFELD R,0,0 - 1,310,RSA,5:10
+Action shot - Saved,5.0,5,1,JPN,1.0,NAKATA M,0,0 - 1,303,JPN,5:03
+Turnover foul,4.0,5,1,JPN,1.0,MAGARIYAMA S,0,0 - 1,286,JPN,4:46
+Steal,5.0,5,1,JPN,1.0,SCHOOLING M,0,0 - 1,286,RSA,4:46
+Action shot - Saved,4.0,5,1,JPN,1.0,VERSFELD R,0,0 - 1,257,RSA,4:17
+5m shot - Saved,10.0,5,1,JPN,1.0,MORI T,0,0 - 1,235,JPN,3:55
+Turnover foul,6.0,5,1,JPN,1.0,HALLENDORFF A,0,0 - 1,211,RSA,3:31
+Counter attack - Goal,8.0,5,2,JPN,1.0,HASHIGUCHI M,0,0 - 2,205,JPN,3:25
+Turnover foul,10.0,5,2,JPN,1.0,MORI T,0,0 - 2,160,JPN,2:40
+Steal,10.0,5,2,JPN,1.0,KILLEEN L,0,0 - 2,160,RSA,2:40
+Time-Out,,5,2,JPN,1.0,,0,0 - 2,160,RSA,2:40
+20 sec. exclusion in centre,5.0,5,2,JPN,1.0,NAKATA M,0,0 - 2,150,JPN,2:30
+5m shot - Blocked,12.0,5,2,JPN,1.0,WHITE K,0,0 - 2,125,RSA,2:05
+5m shot - Saved,7.0,5,2,JPN,1.0,NAKANO Y,0,0 - 2,105,JPN,1:45
+Turnover foul,3.0,5,2,JPN,1.0,PALEY K,0,0 - 2,79,RSA,1:19
+Action shot - Saved,8.0,5,2,JPN,1.0,HASHIGUCHI M,0,0 - 2,64,JPN,1:04
+Turnover foul,6.0,5,2,JPN,1.0,TAKAHASHI A,0,0 - 2,51,JPN,0:51
+Steal,12.0,5,2,JPN,1.0,WHITE K,0,0 - 2,51,RSA,0:51
+Action shot - Saved,3.0,5,2,JPN,1.0,PALEY K,0,0 - 2,32,RSA,0:32
+20 sec. exclusion in field,3.0,5,2,JPN,1.0,PALEY K,0,0 - 2,32,RSA,0:32
+Time-Out,,5,2,JPN,1.0,,0,0 - 2,32,JPN,0:32
+Turnover foul,10.0,5,2,JPN,1.0,MORI T,0,0 - 2,13,JPN,0:13
+Steal,5.0,5,2,JPN,1.0,SCHOOLING M,0,0 - 2,13,RSA,0:13
+Starting goalkeeper,1.0,5,2,JPN,2.0,THOMAS R,0,0 - 2,480,RSA,8:00
+Starting goalkeeper,1.0,5,2,JPN,2.0,MIURA R,0,0 - 2,480,JPN,8:00
+Sprint won possession,6.0,5,2,JPN,2.0,HALLENDORFF A,0,0 - 2,480,RSA,8:00
+Turnover foul,6.0,5,2,JPN,2.0,HALLENDORFF A,0,0 - 2,451,RSA,7:31
+Steal,6.0,5,2,JPN,2.0,TAKAHASHI A,0,0 - 2,451,JPN,7:31
+Action shot - Missed,6.0,5,2,JPN,2.0,TAKAHASHI A,0,0 - 2,424,JPN,7:04
+Turnover foul,5.0,5,2,JPN,2.0,SCHOOLING M,0,0 - 2,406,RSA,6:46
+Steal,10.0,5,2,JPN,2.0,MORI T,0,0 - 2,406,JPN,6:46
+Counter attack - Post,4.0,5,2,JPN,2.0,MAGARIYAMA S,0,0 - 2,389,JPN,6:29
+Turnover foul,10.0,5,2,JPN,2.0,KILLEEN L,0,0 - 2,372,RSA,6:12
+Counter attack - Saved,8.0,5,2,JPN,2.0,HASHIGUCHI M,0,0 - 2,358,JPN,5:58
+20 sec. exclusion in centre,6.0,5,2,JPN,2.0,TAKAHASHI A,0,0 - 2,345,JPN,5:45
+Action shot - Post,12.0,5,2,JPN,2.0,WHITE K,0,0 - 2,318,RSA,5:18
+Action shot - Goal,7.0,5,3,JPN,2.0,NAKANO Y,0,0 - 3,296,JPN,4:56
+Turnover foul,10.0,5,3,JPN,2.0,KILLEEN L,0,0 - 3,273,RSA,4:33
+Steal,2.0,5,3,JPN,2.0,SAKANOUE C,0,0 - 3,273,JPN,4:33
+Turnover foul,9.0,5,3,JPN,2.0,HOSOYA K,0,0 - 3,253,JPN,4:13
+Steal,2.0,5,3,JPN,2.0,PARKES M,0,0 - 3,253,RSA,4:13
+Action shot - Missed,7.0,5,3,JPN,2.0,KAY K,0,0 - 3,229,RSA,3:49
+Turnover foul,3.0,5,3,JPN,2.0,KAZAMA Y,0,0 - 3,204,JPN,3:24
+Steal,11.0,5,3,JPN,2.0,O'HANLON D,0,0 - 3,204,RSA,3:24
+Action shot - Missed,4.0,5,3,JPN,2.0,VERSFELD R,0,0 - 3,178,RSA,2:58
+5m shot - Saved,3.0,5,3,JPN,2.0,KAZAMA Y,0,0 - 3,165,JPN,2:45
+Turnover foul,10.0,5,3,JPN,2.0,KILLEEN L,0,0 - 3,140,RSA,2:20
+Steal,2.0,5,3,JPN,2.0,SAKANOUE C,0,0 - 3,140,JPN,2:20
+Action shot - Saved,8.0,5,3,JPN,2.0,HASHIGUCHI M,0,0 - 3,119,JPN,1:59
+Time-Out,,5,3,JPN,2.0,,0,0 - 3,119,RSA,1:59
+Turnover foul,7.0,5,3,JPN,2.0,KAY K,0,0 - 3,112,RSA,1:52
+Extra player shot - Saved,7.0,5,3,JPN,4.0,KAY K,0,0 - 3,171,RSA,2:51
+Turnover foul,12.0,5,3,JPN,4.0,SUZUKI K,0,0 - 3,159,JPN,2:39
+Steal,6.0,5,3,JPN,4.0,HALLENDORFF A,0,0 - 3,159,RSA,2:39
+Counter attack - Goal,12.0,5,15,JPN,4.0,WHITE K,6,6 - 15,145,RSA,2:25
+Turnover foul,7.0,5,15,JPN,4.0,NAKANO Y,6,6 - 15,120,JPN,2:00
+20 sec. exclusion in field,6.0,5,15,JPN,4.0,TAKAHASHI A,6,6 - 15,119,JPN,1:59
+Exclusion with substitution,6.0,5,15,JPN,4.0,TAKAHASHI A,6,6 - 15,119,JPN,1:59
+Action shot - Saved,10.0,5,15,JPN,2.0,MORI T,6,6 - 15,94,JPN,1:34
+Turnover foul,7.0,5,15,JPN,2.0,KAY K,6,6 - 15,87,RSA,1:27
+Counter attack - Goal,7.0,5,4,JPN,2.0,NAKANO Y,0,0 - 4,78,JPN,1:18
+Turnover foul,7.0,5,4,JPN,2.0,KAY K,0,0 - 4,60,RSA,1:00
+Action shot - Missed,7.0,5,4,JPN,2.0,NAKANO Y,0,0 - 4,47,JPN,0:47
+Turnover foul,4.0,5,4,JPN,2.0,VERSFELD R,0,0 - 4,30,RSA,0:30
+Action shot - Saved,10.0,5,4,JPN,2.0,MORI T,0,0 - 4,14,JPN,0:14
+5m shot - Saved,12.0,5,4,JPN,2.0,WHITE K,0,0 - 4,0,RSA,0:00
+Starting goalkeeper,1.0,5,4,JPN,3.0,THOMAS R,0,0 - 4,480,RSA,8:00
+Starting goalkeeper,13.0,5,4,JPN,3.0,UMEDA Y,0,0 - 4,480,JPN,8:00
+Sprint won possession,11.0,5,4,JPN,3.0,O'HANLON D,0,0 - 4,480,RSA,8:00
+Action shot - Goal,4.0,5,4,JPN,3.0,VERSFELD R,1,1 - 4,455,RSA,7:35
+5m shot - Missed,11.0,5,4,JPN,3.0,TOKUMOTO M,1,1 - 4,429,JPN,7:09
+Turnover foul,7.0,5,4,JPN,3.0,KAY K,1,1 - 4,423,RSA,7:03
+Counter attack - Goal,11.0,5,5,JPN,3.0,TOKUMOTO M,1,1 - 5,413,JPN,6:53
+Turnover foul,7.0,5,5,JPN,3.0,KAY K,1,1 - 5,398,RSA,6:38
+Counter attack - Goal,2.0,5,6,JPN,3.0,SAKANOUE C,1,1 - 6,386,JPN,6:26
+Action shot - Saved,7.0,5,6,JPN,3.0,KAY K,1,1 - 6,365,RSA,6:05
+20 sec. exclusion in centre,11.0,5,6,JPN,3.0,TOKUMOTO M,1,1 - 6,363,JPN,6:03
+Action shot - Goal,11.0,5,6,JPN,3.0,O'HANLON D,2,2 - 6,341,RSA,5:41
+Turnover foul,7.0,5,6,JPN,3.0,NAKANO Y,2,2 - 6,319,JPN,5:19
+Steal,12.0,5,6,JPN,3.0,WHITE K,2,2 - 6,319,RSA,5:19
+Turnover foul,12.0,5,6,JPN,3.0,WHITE K,2,2 - 6,312,RSA,5:12
+Counter attack - Saved,5.0,5,6,JPN,3.0,NAKATA M,2,2 - 6,303,JPN,5:03
+Counter attack - Goal,8.0,5,7,JPN,3.0,HASHIGUCHI M,2,2 - 7,298,JPN,4:58
+Turnover foul,10.0,5,7,JPN,3.0,KILLEEN L,2,2 - 7,274,RSA,4:34
+Steal,7.0,5,7,JPN,3.0,NAKANO Y,2,2 - 7,274,JPN,4:34
+Counter attack - Goal,7.0,5,8,JPN,3.0,NAKANO Y,2,2 - 8,264,JPN,4:24
+Turnover foul,12.0,5,8,JPN,3.0,WHITE K,2,2 - 8,249,RSA,4:09
+Steal,4.0,5,8,JPN,3.0,MAGARIYAMA S,2,2 - 8,249,JPN,4:09
+Counter attack - Goal,2.0,5,9,JPN,3.0,SAKANOUE C,2,2 - 9,237,JPN,3:57
+Turnover foul,3.0,5,9,JPN,3.0,PALEY K,2,2 - 9,204,RSA,3:24
+Action shot - Goal,10.0,5,10,JPN,3.0,MORI T,2,2 - 10,186,JPN,3:06
+Turnover foul,12.0,5,10,JPN,3.0,WHITE K,2,2 - 10,161,RSA,2:41
+Steal,8.0,5,10,JPN,3.0,HASHIGUCHI M,2,2 - 10,161,JPN,2:41
+Centre shot - Saved,8.0,5,10,JPN,3.0,HASHIGUCHI M,2,2 - 10,136,JPN,2:16
+Action shot - Goal,7.0,5,11,JPN,3.0,NAKANO Y,2,2 - 11,124,JPN,2:04
+Action shot - Saved,3.0,5,11,JPN,3.0,PALEY K,2,2 - 11,98,RSA,1:38
+5m shot - Goal,5.0,5,12,JPN,3.0,NAKATA M,2,2 - 12,78,JPN,1:18
+Centre shot - Post,7.0,5,12,JPN,3.0,KAY K,2,2 - 12,61,RSA,1:01
+Centre shot - Goal,7.0,5,12,JPN,3.0,KAY K,3,3 - 12,55,RSA,0:55
+5m shot - Saved,12.0,5,12,JPN,3.0,SUZUKI K,3,3 - 12,32,JPN,0:32
+20 sec. exclusion in centre,2.0,5,12,JPN,3.0,SAKANOUE C,3,3 - 12,7,JPN,0:07
+Extra player shot - Missed,7.0,5,12,JPN,3.0,KAY K,3,3 - 12,1,RSA,0:01
+Starting goalkeeper,13.0,5,12,JPN,4.0,GASCOIGNE A,3,3 - 12,480,RSA,8:00
+Starting goalkeeper,1.0,5,12,JPN,4.0,MIURA R,3,3 - 12,480,JPN,8:00
+Sprint won possession,6.0,5,12,JPN,4.0,HALLENDORFF A,3,3 - 12,480,RSA,8:00
+Turnover foul,11.0,5,12,JPN,4.0,O'HANLON D,3,3 - 12,451,RSA,7:31
+5m shot - Goal,10.0,5,13,JPN,4.0,MORI T,3,3 - 13,422,JPN,7:02
+Centre shot - Saved,7.0,5,13,JPN,4.0,KAY K,3,3 - 13,406,RSA,6:46
+Turnover foul,8.0,5,13,JPN,4.0,HASHIGUCHI M,3,3 - 13,387,JPN,6:27
+Steal,5.0,5,13,JPN,4.0,SCHOOLING M,3,3 - 13,387,RSA,6:27
+20 sec. exclusion in centre,6.0,5,13,JPN,4.0,TAKAHASHI A,3,3 - 13,375,JPN,6:15
+Extra player shot - Goal,12.0,5,13,JPN,4.0,WHITE K,4,4 - 13,358,RSA,5:58
+Turnover foul,10.0,5,13,JPN,4.0,MORI T,4,4 - 13,344,JPN,5:44
+Steal,12.0,5,13,JPN,4.0,WHITE K,4,4 - 13,344,RSA,5:44
+Turnover foul,12.0,5,13,JPN,4.0,WHITE K,4,4 - 13,322,RSA,5:22
+5m shot - Post,4.0,5,13,JPN,4.0,MAGARIYAMA S,4,4 - 13,311,JPN,5:11
+Action shot - Goal,6.0,5,13,JPN,4.0,HALLENDORFF A,5,5 - 13,289,RSA,4:49
+20 sec. exclusion in centre,11.0,5,13,JPN,4.0,O'HANLON D,5,5 - 13,272,RSA,4:32
+Action shot - Goal,9.0,5,14,JPN,4.0,HOSOYA K,5,5 - 14,250,JPN,4:10
+Turnover foul,5.0,5,14,JPN,4.0,SCHOOLING M,5,5 - 14,233,RSA,3:53
+Counter attack - Goal,6.0,5,15,JPN,4.0,TAKAHASHI A,5,5 - 15,221,JPN,3:41
+20 sec. exclusion in centre,11.0,5,15,JPN,4.0,TOKUMOTO M,5,5 - 15,201,JPN,3:21
+Extra player shot - Goal,5.0,5,15,JPN,4.0,SCHOOLING M,7,7 - 15,99,RSA,1:39
+Turnover foul,2.0,5,15,JPN,4.0,SAKANOUE C,7,7 - 15,70,JPN,1:10
+Steal,6.0,5,15,JPN,4.0,HALLENDORFF A,7,7 - 15,70,RSA,1:10
+Turnover foul,3.0,5,15,JPN,4.0,PALEY K,7,7 - 15,45,RSA,0:45
+Turnover foul,8.0,5,15,JPN,4.0,HASHIGUCHI M,7,7 - 15,33,JPN,0:33
+Turnover foul,12.0,5,15,JPN,4.0,WHITE K,7,7 - 15,19,RSA,0:19
+Counter attack - Saved,4.0,5,15,JPN,4.0,MAGARIYAMA S,7,7 - 15,6,JPN,0:06

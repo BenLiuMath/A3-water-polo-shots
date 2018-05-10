@@ -1,0 +1,650 @@
+Action,Cap,Game,NZL,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,1.0,1,0,0,CAN,1.0,GAUDREAULT J,0 - 0,480,CAN,8:00
+Starting goalkeeper,1.0,1,0,0,CAN,1.0,MILLAR B,0 - 0,480,NZL,8:00
+Sprint won possession,5.0,1,0,0,CAN,1.0,EGGENS M,0 - 0,480,CAN,8:00
+Centre shot - Goal,10.0,1,0,1,CAN,1.0,ROBINSON C,1 - 0,450,CAN,7:30
+Turnover foul,10.0,1,0,1,CAN,1.0,ROBINSON C,1 - 0,424,CAN,7:04
+Steal,8.0,1,0,1,CAN,1.0,LOPES DA SILVA C,1 - 0,424,NZL,7:04
+Penalty foul,11.0,1,0,1,CAN,1.0,HUDSON K,1 - 0,409,NZL,6:49
+Penalty shot - Goal,5.0,1,0,2,CAN,1.0,EGGENS M,2 - 0,409,CAN,6:49
+Turnover foul,2.0,1,0,2,CAN,1.0,LEWIS N,2 - 0,380,NZL,6:20
+Centre shot - Missed,3.0,1,0,2,CAN,1.0,MONTON K,2 - 0,367,CAN,6:07
+Action shot - Saved,9.0,1,0,2,CAN,1.0,STONEMAN E,2 - 0,344,NZL,5:44
+20 sec. exclusion in centre,9.0,1,0,2,CAN,1.0,STONEMAN E,2 - 0,327,NZL,5:27
+Extra player shot - Goal,11.0,1,0,3,CAN,1.0,VALIN S,3 - 0,312,CAN,5:12
+Action shot - Saved,4.0,1,0,3,CAN,1.0,LEWIS D,3 - 0,283,NZL,4:43
+Turnover foul,7.0,1,0,3,CAN,1.0,BEKHAZI J,3 - 0,254,CAN,4:14
+5m shot - Missed,12.0,1,0,3,CAN,1.0,MYLES J,3 - 0,238,NZL,3:58
+20 sec. exclusion in centre,2.0,1,0,3,CAN,1.0,LEWIS N,3 - 0,216,NZL,3:36
+Action shot - Post,7.0,1,0,3,CAN,1.0,BEKHAZI J,3 - 0,206,CAN,3:26
+5m shot - Saved,6.0,1,0,3,CAN,1.0,LANDRY S,3 - 0,182,NZL,3:02
+Action shot - Saved,4.0,1,0,3,CAN,1.0,WRIGHT E,3 - 0,155,CAN,2:35
+Action shot - Post,4.0,1,0,3,CAN,1.0,LEWIS D,3 - 0,137,NZL,2:17
+Turnover foul,7.0,1,0,3,CAN,1.0,BEKHAZI J,3 - 0,102,CAN,1:42
+Time-Out,,1,0,3,CAN,1.0,,3 - 0,102,NZL,1:42
+20 sec. exclusion in centre,8.0,1,0,3,CAN,1.0,FOURNIER S,3 - 0,93,CAN,1:33
+Extra player shot - Goal,11.0,1,1,3,CAN,1.0,HUDSON K,3 - 1,78,NZL,1:18
+Action shot - Goal,8.0,1,1,4,CAN,1.0,FOURNIER S,4 - 1,57,CAN,0:57
+5m shot - Blocked,9.0,1,1,4,CAN,1.0,STONEMAN E,4 - 1,33,NZL,0:33
+Time-Out,,1,1,4,CAN,1.0,,4 - 1,33,CAN,0:33
+Centre shot - Goal,9.0,1,1,5,CAN,1.0,EGGENS C,5 - 1,16,CAN,0:16
+5m shot - Blocked,,1,1,5,CAN,1.0,,5 - 1,1,4,0:01
+Starting goalkeeper,1.0,1,1,5,CAN,2.0,GAUDREAULT J,5 - 1,480,CAN,8:00
+Starting goalkeeper,1.0,1,1,5,CAN,2.0,MILLAR B,5 - 1,480,NZL,8:00
+Sprint won possession,4.0,1,1,5,CAN,2.0,LEWIS D,5 - 1,480,NZL,8:00
+5m shot - Saved,11.0,1,1,5,CAN,2.0,HUDSON K,5 - 1,451,NZL,7:31
+5m shot - Goal,10.0,1,1,6,CAN,2.0,ROBINSON C,6 - 1,436,CAN,7:16
+20 sec. exclusion in centre,5.0,1,1,6,CAN,2.0,EGGENS M,6 - 1,419,CAN,6:59
+Extra player shot - Goal,10.0,1,2,6,CAN,2.0,DANCE L,6 - 2,402,NZL,6:42
+Action shot - Saved,4.0,1,2,6,CAN,2.0,LEWIS D,6 - 2,343,NZL,5:43
+5m shot - Goal,8.0,1,2,7,CAN,2.0,FOURNIER S,7 - 2,334,CAN,5:34
+20 sec. exclusion in field,12.0,1,2,7,CAN,2.0,MYLES J,7 - 2,323,NZL,5:23
+Centre shot - Goal,2.0,1,3,7,CAN,2.0,LEWIS N,7 - 3,277,NZL,4:37
+20 sec. exclusion in centre,6.0,1,3,7,CAN,2.0,LANDRY S,7 - 3,257,NZL,4:17
+5m shot - Saved,7.0,1,3,7,CAN,2.0,BEKHAZI J,7 - 3,214,CAN,3:34
+5m shot - Saved,5.0,1,3,7,CAN,2.0,EGGENS M,7 - 3,195,CAN,3:15
+20 sec. exclusion in field,6.0,1,3,7,CAN,2.0,LANDRY S,7 - 3,191,NZL,3:11
+Centre shot - Missed,10.0,1,3,7,CAN,2.0,ROBINSON C,7 - 3,177,CAN,2:57
+Turnover foul,5.0,1,3,7,CAN,2.0,EGGENS M,7 - 3,138,CAN,2:18
+20 sec. exclusion in field,9.0,1,3,7,CAN,2.0,EGGENS C,7 - 3,121,CAN,2:01
+Extra player shot - Goal,12.0,1,4,7,CAN,2.0,MYLES J,7 - 4,108,NZL,1:48
+Centre shot - Saved,2.0,1,4,7,CAN,2.0,ALOGBO K,7 - 4,87,CAN,1:27
+5m shot - Missed,12.0,1,4,7,CAN,2.0,MYLES J,7 - 4,64,NZL,1:04
+Time-Out,,1,4,7,CAN,2.0,,7 - 4,63,CAN,1:03
+Action shot - Saved,10.0,1,4,7,CAN,2.0,ROBINSON C,7 - 4,46,CAN,0:46
+Time-Out,,1,4,7,CAN,2.0,,7 - 4,45,NZL,0:45
+Turnover foul,2.0,1,4,7,CAN,2.0,LEWIS N,7 - 4,24,NZL,0:24
+Centre shot - Post,2.0,1,4,7,CAN,2.0,ALOGBO K,7 - 4,5,CAN,0:05
+Starting goalkeeper,1.0,1,4,7,CAN,3.0,GAUDREAULT J,7 - 4,480,CAN,8:00
+Starting goalkeeper,1.0,1,4,7,CAN,3.0,MILLAR B,7 - 4,480,NZL,8:00
+Sprint won possession,12.0,1,4,7,CAN,3.0,PERREAULT D,7 - 4,480,CAN,8:00
+Action shot - Saved,7.0,1,4,7,CAN,3.0,BEKHAZI J,7 - 4,452,CAN,7:32
+20 sec. exclusion in field,7.0,1,4,7,CAN,3.0,BEKHAZI J,7 - 4,440,CAN,7:20
+Action shot - Blocked,8.0,1,4,7,CAN,3.0,FOURNIER S,7 - 4,412,CAN,6:52
+Turnover foul,2.0,1,4,7,CAN,3.0,LEWIS N,7 - 4,393,NZL,6:33
+Action shot - Goal,8.0,1,4,8,CAN,3.0,FOURNIER S,8 - 4,387,CAN,6:27
+20 sec. exclusion in centre,9.0,1,4,8,CAN,3.0,EGGENS C,8 - 4,377,CAN,6:17
+Turnover foul,8.0,1,4,8,CAN,3.0,FOURNIER S,8 - 4,336,CAN,5:36
+Turnover foul,9.0,1,4,8,CAN,3.0,STONEMAN E,8 - 4,303,NZL,5:03
+Steal,5.0,1,4,8,CAN,3.0,EGGENS M,8 - 4,303,CAN,5:03
+Centre shot - Saved,5.0,1,4,8,CAN,3.0,EGGENS M,8 - 4,289,CAN,4:49
+5m shot - Saved,9.0,1,4,8,CAN,3.0,STONEMAN E,8 - 4,262,NZL,4:22
+Turnover foul,11.0,1,4,8,CAN,3.0,VALIN S,8 - 4,230,CAN,3:50
+5m shot - Goal,12.0,1,5,8,CAN,3.0,MYLES J,8 - 5,217,NZL,3:37
+Turnover foul,10.0,1,5,8,CAN,3.0,ROBINSON C,8 - 5,181,CAN,3:01
+Turnover foul,5.0,1,5,8,CAN,3.0,LEWIS S,8 - 5,150,NZL,2:30
+Action shot - Goal,7.0,1,5,9,CAN,3.0,BEKHAZI J,9 - 5,132,CAN,2:12
+5m shot - Goal,6.0,1,6,9,CAN,3.0,LANDRY S,9 - 6,91,NZL,1:31
+Centre shot - Goal,2.0,1,6,10,CAN,3.0,ALOGBO K,10 - 6,71,CAN,1:11
+5m shot - Saved,10.0,1,6,10,CAN,3.0,DANCE L,10 - 6,43,NZL,0:43
+Action shot - Goal,5.0,1,6,11,CAN,3.0,EGGENS M,11 - 6,18,CAN,0:18
+Time-Out,,1,6,11,CAN,3.0,,11 - 6,18,NZL,0:18
+Action shot - Blocked,11.0,1,6,11,CAN,3.0,HUDSON K,11 - 6,2,NZL,0:02
+Starting goalkeeper,1.0,1,6,11,CAN,4.0,GAUDREAULT J,11 - 6,480,CAN,8:00
+Starting goalkeeper,1.0,1,6,11,CAN,4.0,MILLAR B,11 - 6,480,NZL,8:00
+Sprint won possession,5.0,1,6,11,CAN,4.0,EGGENS M,11 - 6,480,CAN,8:00
+20 sec. exclusion in centre,4.0,1,6,11,CAN,4.0,LEWIS D,11 - 6,466,NZL,7:46
+Penalty foul,1.0,1,6,11,CAN,4.0,MILLAR B,11 - 6,438,NZL,7:18
+Penalty shot - Goal,5.0,1,6,12,CAN,4.0,EGGENS M,12 - 6,438,CAN,7:18
+Turnover foul,6.0,1,6,12,CAN,4.0,LANDRY S,12 - 6,421,NZL,7:01
+Steal,3.0,1,6,12,CAN,4.0,MONTON K,12 - 6,421,CAN,7:01
+Action shot - Post,11.0,1,6,12,CAN,4.0,VALIN S,12 - 6,393,CAN,6:33
+20 sec. exclusion in field,7.0,1,6,12,CAN,4.0,BEKHAZI J,12 - 6,374,CAN,6:14
+5m shot - Post,11.0,1,6,12,CAN,4.0,VALIN S,12 - 6,329,CAN,5:29
+Turnover foul,8.0,1,6,12,CAN,4.0,LOPES DA SILVA C,12 - 6,298,NZL,4:58
+Steal,10.0,1,6,12,CAN,4.0,ROBINSON C,12 - 6,298,CAN,4:58
+Action shot - Saved,11.0,1,6,12,CAN,4.0,VALIN S,12 - 6,279,CAN,4:39
+20 sec. exclusion in field,12.0,1,6,12,CAN,4.0,MYLES J,12 - 6,268,NZL,4:28
+Extra player shot - Goal,11.0,1,6,13,CAN,4.0,VALIN S,13 - 6,258,CAN,4:18
+20 sec. exclusion in field,12.0,1,6,13,CAN,4.0,PERREAULT D,13 - 6,245,CAN,4:05
+5m shot - Blocked,6.0,1,6,13,CAN,4.0,MCKEE K,13 - 6,228,CAN,3:48
+Action shot - Saved,5.0,1,6,13,CAN,4.0,EGGENS M,13 - 6,197,CAN,3:17
+Centre shot - Goal,3.0,1,6,14,CAN,4.0,MONTON K,14 - 6,180,CAN,3:00
+Turnover foul,9.0,1,6,14,CAN,4.0,STONEMAN E,14 - 6,153,NZL,2:33
+Turnover foul,2.0,1,6,14,CAN,4.0,ALOGBO K,14 - 6,127,CAN,2:07
+Steal,10.0,1,6,14,CAN,4.0,DANCE L,14 - 6,127,NZL,2:07
+Action shot - Saved,9.0,1,6,14,CAN,4.0,STONEMAN E,14 - 6,103,NZL,1:43
+Turnover foul,6.0,1,6,14,CAN,4.0,LANDRY S,14 - 6,96,NZL,1:36
+Counter attack - Saved,10.0,1,6,14,CAN,4.0,DANCE L,14 - 6,92,NZL,1:32
+20 sec. exclusion in field,3.0,1,6,14,CAN,4.0,PATTISON S,14 - 6,81,NZL,1:21
+Time-Out,,1,6,14,CAN,4.0,,14 - 6,81,CAN,1:21
+Extra player shot - Goal,6.0,1,6,15,CAN,4.0,MCKEE K,15 - 6,65,CAN,1:05
+20 sec. exclusion in field,7.0,1,6,15,CAN,4.0,BEKHAZI J,15 - 6,51,CAN,0:51
+Double exclusion,7.0,1,6,15,CAN,4.0,BEKHAZI J,15 - 6,51,CAN,0:51
+Time-Out,,1,6,15,CAN,4.0,,15 - 6,51,NZL,0:51
+5m shot - Saved,12.0,1,6,15,CAN,4.0,MYLES J,15 - 6,31,NZL,0:31
+Starting goalkeeper,1.0,2,0,0,ESP,1.0,ESTER L,0 - 0,480,ESP,8:00
+Starting goalkeeper,13.0,2,0,0,ESP,1.0,CURNOW K,0 - 0,480,NZL,8:00
+Sprint won possession,6.0,2,0,0,ESP,1.0,PAREJA J,0 - 0,480,ESP,8:00
+Turnover foul,6.0,2,0,0,ESP,1.0,PAREJA J,0 - 0,465,ESP,7:45
+20 sec. exclusion in centre,4.0,2,0,0,ESP,1.0,LEWIS D,0 - 0,459,NZL,7:39
+Extra player shot - Missed,10.0,2,0,0,ESP,1.0,TARRAGO R,0 - 0,436,ESP,7:16
+20 sec. exclusion in centre,5.0,2,0,0,ESP,1.0,ORTIZ M,0 - 0,420,ESP,7:00
+Extra player shot - Post,8.0,2,0,0,ESP,1.0,LOPES DA SILVA C,0 - 0,399,NZL,6:39
+Turnover foul,8.0,2,0,0,ESP,1.0,PENA P,0 - 0,382,ESP,6:22
+Steal,12.0,2,0,0,ESP,1.0,MYLES J,0 - 0,382,NZL,6:22
+5m shot - Post,12.0,2,0,0,ESP,1.0,MYLES J,0 - 0,352,NZL,5:52
+5m shot - Goal,10.0,2,0,1,ESP,1.0,TARRAGO R,1 - 0,328,ESP,5:28
+Turnover foul,12.0,2,0,1,ESP,1.0,MYLES J,1 - 0,308,NZL,5:08
+5m shot - Missed,3.0,2,0,1,ESP,1.0,ESPAR A,1 - 0,281,ESP,4:41
+20 sec. exclusion in centre,2.0,2,0,1,ESP,1.0,BACH M,1 - 0,271,ESP,4:31
+Extra player shot - Saved,2.0,2,0,1,ESP,1.0,LEWIS N,1 - 0,249,NZL,4:09
+5m shot - Post,12.0,2,0,1,ESP,1.0,LOPEZ L,1 - 0,224,ESP,3:44
+20 sec. exclusion in field,7.0,2,0,1,ESP,1.0,ESPAR C,1 - 0,220,ESP,3:40
+Time-Out,,2,0,1,ESP,1.0,,1 - 0,218,NZL,3:38
+Extra player shot - Saved,8.0,2,0,1,ESP,1.0,LOPES DA SILVA C,1 - 0,189,NZL,3:09
+Action shot - Blocked,3.0,2,0,1,ESP,1.0,ESPAR A,1 - 0,173,ESP,2:53
+Turnover foul,10.0,2,0,1,ESP,1.0,DANCE L,1 - 0,145,NZL,2:25
+Steal,3.0,2,0,1,ESP,1.0,ESPAR A,1 - 0,145,ESP,2:25
+Turnover foul,4.0,2,0,1,ESP,1.0,LEITON P,1 - 0,116,ESP,1:56
+Turnover foul,12.0,2,0,1,ESP,1.0,MYLES J,1 - 0,103,NZL,1:43
+Action shot - Goal,3.0,2,0,2,ESP,1.0,ESPAR A,2 - 0,79,ESP,1:19
+20 sec. exclusion in centre,7.0,2,0,2,ESP,1.0,ESPAR C,2 - 0,65,ESP,1:05
+Extra player shot - Blocked,12.0,2,0,2,ESP,1.0,MYLES J,2 - 0,53,NZL,0:53
+Time-Out,,2,0,2,ESP,1.0,,2 - 0,50,ESP,0:50
+20 sec. exclusion in centre,5.0,2,0,2,ESP,1.0,LEWIS S,2 - 0,34,NZL,0:34
+Extra player shot - Goal,12.0,2,0,3,ESP,1.0,LOPEZ L,3 - 0,28,ESP,0:28
+20 sec. exclusion in centre,12.0,2,0,3,ESP,1.0,LOPEZ L,3 - 0,13,ESP,0:13
+Starting goalkeeper,1.0,2,0,3,ESP,2.0,ESTER L,3 - 0,480,ESP,8:00
+Starting goalkeeper,13.0,2,0,3,ESP,2.0,CURNOW K,3 - 0,480,NZL,8:00
+Sprint won possession,6.0,2,0,3,ESP,2.0,PAREJA J,3 - 0,480,ESP,8:00
+20 sec. exclusion in centre,9.0,2,0,3,ESP,2.0,STONEMAN E,3 - 0,463,NZL,7:43
+Extra player shot - Goal,11.0,2,0,4,ESP,2.0,GARCIA M,4 - 0,446,ESP,7:26
+5m shot - Missed,4.0,2,0,4,ESP,2.0,LEWIS D,4 - 0,416,NZL,6:56
+Action shot - Missed,4.0,2,0,4,ESP,2.0,LEITON P,4 - 0,404,ESP,6:44
+5m shot - Post,12.0,2,0,4,ESP,2.0,MYLES J,4 - 0,379,NZL,6:19
+5m shot - Goal,10.0,2,0,5,ESP,2.0,TARRAGO R,5 - 0,353,ESP,5:53
+5m shot - Saved,6.0,2,0,5,ESP,2.0,LANDRY S,5 - 0,338,NZL,5:38
+20 sec. exclusion in centre,4.0,2,0,5,ESP,2.0,LEWIS D,5 - 0,337,NZL,5:37
+Extra player shot - Goal,6.0,2,0,6,ESP,2.0,PAREJA J,6 - 0,317,ESP,5:17
+Turnover foul,8.0,2,0,6,ESP,2.0,LOPES DA SILVA C,6 - 0,296,NZL,4:56
+Steal,9.0,2,0,6,ESP,2.0,FORCA J,6 - 0,296,ESP,4:56
+Counter attack - Goal,6.0,2,0,7,ESP,2.0,PAREJA J,7 - 0,284,ESP,4:44
+Turnover foul,6.0,2,0,7,ESP,2.0,LANDRY S,7 - 0,266,NZL,4:26
+Steal,12.0,2,0,7,ESP,2.0,LOPEZ L,7 - 0,266,ESP,4:26
+5m shot - Saved,12.0,2,0,7,ESP,2.0,LOPEZ L,7 - 0,254,ESP,4:14
+5m shot - Saved,7.0,2,0,7,ESP,2.0,CHASE M,7 - 0,222,NZL,3:42
+Turnover foul,9.0,2,0,7,ESP,2.0,FORCA J,7 - 0,207,ESP,3:27
+20 sec. exclusion in centre,7.0,2,0,7,ESP,2.0,CHASE M,7 - 0,182,NZL,3:02
+Turnover foul,11.0,2,0,7,ESP,2.0,HUDSON K,7 - 0,180,NZL,3:00
+Extra player shot - Goal,12.0,2,0,8,ESP,2.0,LOPEZ L,8 - 0,170,ESP,2:50
+20 sec. exclusion in centre,8.0,2,0,8,ESP,2.0,PENA P,8 - 0,143,ESP,2:23
+Extra player shot - Goal,8.0,2,1,8,ESP,2.0,LOPES DA SILVA C,8 - 1,124,NZL,2:04
+Turnover foul,8.0,2,1,8,ESP,2.0,PENA P,8 - 1,100,ESP,1:40
+5m shot - Saved,11.0,2,1,8,ESP,2.0,HUDSON K,8 - 1,72,NZL,1:12
+20 sec. exclusion in centre,11.0,2,1,8,ESP,2.0,HUDSON K,8 - 1,48,NZL,0:48
+Extra player shot - Goal,10.0,2,1,9,ESP,2.0,TARRAGO R,9 - 1,33,ESP,0:33
+Time-Out,,2,1,9,ESP,2.0,,9 - 1,33,NZL,0:33
+Turnover foul,12.0,2,1,9,ESP,2.0,MYLES J,9 - 1,21,NZL,0:21
+Steal,4.0,2,1,9,ESP,2.0,LEITON P,9 - 1,21,ESP,0:21
+5m shot - Saved,3.0,2,1,9,ESP,4.0,ESPAR A,9 - 1,121,ESP,2:01
+5m shot - Goal,10.0,2,2,22,ESP,4.0,TARRAGO R,22 - 2,63,ESP,1:03
+Turnover foul,3.0,2,2,22,ESP,4.0,PATTISON S,22 - 2,52,NZL,0:52
+20 sec. exclusion in centre,3.0,2,2,22,ESP,4.0,PATTISON S,22 - 2,42,NZL,0:42
+20 sec. exclusion in centre,8.0,2,2,22,ESP,2.0,LOPES DA SILVA C,22 - 2,9,NZL,0:09
+Extra player shot - Goal,10.0,2,1,10,ESP,2.0,TARRAGO R,10 - 1,4,ESP,0:04
+Starting goalkeeper,1.0,2,1,10,ESP,3.0,ESTER L,10 - 1,480,ESP,8:00
+Starting goalkeeper,1.0,2,1,10,ESP,3.0,MILLAR B,10 - 1,480,NZL,8:00
+Sprint won possession,6.0,2,1,10,ESP,3.0,PAREJA J,10 - 1,480,ESP,8:00
+Action shot - Saved,6.0,2,1,10,ESP,3.0,PAREJA J,10 - 1,456,ESP,7:36
+Turnover foul,11.0,2,1,10,ESP,3.0,HUDSON K,10 - 1,426,NZL,7:06
+Steal,5.0,2,1,10,ESP,3.0,ORTIZ M,10 - 1,426,ESP,7:06
+20 sec. exclusion in centre,12.0,2,1,10,ESP,3.0,MYLES J,10 - 1,415,NZL,6:55
+Extra player shot - Saved,8.0,2,1,10,ESP,3.0,PENA P,10 - 1,395,ESP,6:35
+5m shot - Saved,11.0,2,1,10,ESP,3.0,HUDSON K,10 - 1,367,NZL,6:07
+20 sec. exclusion in centre,8.0,2,1,10,ESP,3.0,LOPES DA SILVA C,10 - 1,359,NZL,5:59
+Centre shot - Goal,12.0,2,1,11,ESP,3.0,LOPEZ L,11 - 1,335,ESP,5:35
+20 sec. exclusion in centre,5.0,2,1,11,ESP,3.0,ORTIZ M,11 - 1,310,ESP,5:10
+Extra player shot - Goal,4.0,2,2,11,ESP,3.0,LEWIS D,11 - 2,297,NZL,4:57
+5m shot - Missed,12.0,2,2,11,ESP,3.0,LOPEZ L,11 - 2,268,ESP,4:28
+5m shot - Saved,11.0,2,2,11,ESP,3.0,HUDSON K,11 - 2,240,NZL,4:00
+Centre shot - Goal,4.0,2,2,12,ESP,3.0,LEITON P,12 - 2,215,ESP,3:35
+Goalkeeper substitution,13.0,2,2,12,ESP,3.0,HERRERA P,12 - 2,213,ESP,3:33
+Turnover foul,4.0,2,2,12,ESP,3.0,LEWIS D,12 - 2,197,NZL,3:17
+Steal,2.0,2,2,12,ESP,3.0,BACH M,12 - 2,197,ESP,3:17
+Turnover foul,5.0,2,2,12,ESP,3.0,LEWIS S,12 - 2,188,NZL,3:08
+Steal,2.0,2,2,12,ESP,3.0,BACH M,12 - 2,188,ESP,3:08
+20 sec. exclusion in centre,5.0,2,2,12,ESP,3.0,LEWIS S,12 - 2,168,NZL,2:48
+Extra player shot - Goal,9.0,2,2,13,ESP,3.0,FORCA J,13 - 2,165,ESP,2:45
+Centre shot - Saved,11.0,2,2,13,ESP,3.0,GARCIA M,13 - 2,114,ESP,1:54
+5m shot - Post,3.0,2,2,13,ESP,3.0,PATTISON S,13 - 2,83,NZL,1:23
+20 sec. exclusion in centre,5.0,2,2,13,ESP,3.0,LEWIS S,13 - 2,70,NZL,1:10
+Exclusion with substitution,5.0,2,2,13,ESP,3.0,LEWIS S,13 - 2,70,NZL,1:10
+Extra player shot - Post,11.0,2,2,13,ESP,3.0,GARCIA M,13 - 2,67,ESP,1:07
+Extra player shot - Goal,2.0,2,2,14,ESP,3.0,BACH M,14 - 2,61,ESP,1:01
+20 sec. exclusion in centre,2.0,2,2,14,ESP,3.0,BACH M,14 - 2,42,ESP,0:42
+Time-Out,,2,2,14,ESP,3.0,,14 - 2,42,NZL,0:42
+Action shot - Goal,7.0,2,2,15,ESP,3.0,ESPAR C,15 - 2,42,ESP,0:42
+Centre shot - Saved,2.0,2,2,15,ESP,3.0,LEWIS N,15 - 2,20,NZL,0:20
+Starting goalkeeper,13.0,2,2,15,ESP,4.0,HERRERA P,15 - 2,480,ESP,8:00
+Starting goalkeeper,1.0,2,2,15,ESP,4.0,MILLAR B,15 - 2,480,NZL,8:00
+Sprint won possession,6.0,2,2,15,ESP,4.0,PAREJA J,15 - 2,480,ESP,8:00
+Turnover foul,8.0,2,2,15,ESP,4.0,PENA P,15 - 2,457,ESP,7:37
+Turnover foul,12.0,2,2,15,ESP,4.0,MYLES J,15 - 2,431,NZL,7:11
+Steal,8.0,2,2,15,ESP,4.0,PENA P,15 - 2,431,ESP,7:11
+Action shot - Goal,9.0,2,2,16,ESP,4.0,FORCA J,16 - 2,416,ESP,6:56
+Exclusion with substitution,5.0,2,2,16,ESP,4.0,ORTIZ M,16 - 2,405,ESP,6:45
+20 sec. exclusion in centre,5.0,2,2,16,ESP,4.0,ORTIZ M,16 - 2,405,ESP,6:45
+Centre shot - Missed,12.0,2,2,16,ESP,4.0,MYLES J,16 - 2,381,NZL,6:21
+Action shot - Goal,7.0,2,2,17,ESP,4.0,ESPAR C,17 - 2,361,ESP,6:01
+Exclusion with substitution,2.0,2,2,17,ESP,4.0,BACH M,17 - 2,345,ESP,5:45
+20 sec. exclusion in centre,2.0,2,2,17,ESP,4.0,BACH M,17 - 2,345,ESP,5:45
+Extra player shot - Saved,12.0,2,2,17,ESP,4.0,MYLES J,17 - 2,322,NZL,5:22
+20 sec. exclusion in centre,6.0,2,2,17,ESP,4.0,LANDRY S,17 - 2,306,NZL,5:06
+Extra player shot - Goal,4.0,2,2,18,ESP,4.0,LEITON P,18 - 2,302,ESP,5:02
+20 sec. exclusion in centre,10.0,2,2,18,ESP,4.0,TARRAGO R,18 - 2,290,ESP,4:50
+Extra player shot - Saved,11.0,2,2,18,ESP,4.0,HUDSON K,18 - 2,274,NZL,4:34
+Turnover foul,12.0,2,2,18,ESP,4.0,LOPEZ L,18 - 2,263,ESP,4:23
+Steal,11.0,2,2,18,ESP,4.0,HUDSON K,18 - 2,263,NZL,4:23
+Penalty foul,3.0,2,2,18,ESP,4.0,PATTISON S,18 - 2,245,NZL,4:05
+Penalty shot - Goal,10.0,2,2,19,ESP,4.0,TARRAGO R,19 - 2,245,ESP,4:05
+5m shot - Post,8.0,2,2,19,ESP,4.0,LOPES DA SILVA C,19 - 2,227,NZL,3:47
+Counter attack - Goal,9.0,2,2,20,ESP,4.0,FORCA J,20 - 2,216,ESP,3:36
+20 sec. exclusion in centre,11.0,2,2,20,ESP,4.0,GARCIA M,20 - 2,203,ESP,3:23
+Turnover foul,10.0,2,2,20,ESP,4.0,DANCE L,20 - 2,183,NZL,3:03
+Penalty foul,10.0,2,2,20,ESP,4.0,DANCE L,20 - 2,171,NZL,2:51
+Penalty shot - Goal,12.0,2,2,21,ESP,4.0,LOPEZ L,21 - 2,171,ESP,2:51
+5m shot - Missed,4.0,2,2,21,ESP,4.0,LEWIS D,21 - 2,145,NZL,2:25
+Extra player shot - Goal,11.0,2,2,23,ESP,4.0,GARCIA M,23 - 2,30,ESP,0:30
+Turnover foul,3.0,2,2,23,ESP,4.0,PATTISON S,23 - 2,14,NZL,0:14
+Steal,10.0,2,2,23,ESP,4.0,TARRAGO R,23 - 2,14,ESP,0:14
+20 sec. exclusion in centre,12.0,2,2,23,ESP,4.0,MYLES J,23 - 2,6,NZL,0:06
+Starting goalkeeper,1.0,3,0,0,KAZ,1.0,ZHARKIMBAYEVA A,0 - 0,480,KAZ,8:00
+Starting goalkeeper,1.0,3,0,0,KAZ,1.0,MILLAR B,0 - 0,480,NZL,8:00
+Sprint won possession,5.0,3,0,0,KAZ,1.0,ZAKIROVA K,0 - 0,480,KAZ,8:00
+Turnover foul,7.0,3,0,0,KAZ,1.0,MYRZABEKOVA Z,0 - 0,465,KAZ,7:45
+Action shot - Saved,4.0,3,0,0,KAZ,1.0,LEWIS D,0 - 0,452,NZL,7:32
+5m shot - Goal,4.0,3,0,1,KAZ,1.0,TUROVA A,1 - 0,429,KAZ,7:09
+Turnover foul,6.0,3,0,1,KAZ,1.0,LANDRY S,1 - 0,409,NZL,6:49
+Penalty foul,4.0,3,0,1,KAZ,1.0,LEWIS D,1 - 0,392,NZL,6:32
+Penalty shot - Goal,11.0,3,0,2,KAZ,1.0,MIRSHINA A,2 - 0,392,KAZ,6:32
+Action shot - Saved,6.0,3,0,2,KAZ,1.0,LANDRY S,2 - 0,376,NZL,6:16
+5m shot - Post,5.0,3,0,2,KAZ,1.0,ZAKIROVA K,2 - 0,347,KAZ,5:47
+Turnover foul,12.0,3,0,2,KAZ,1.0,MYLES J,2 - 0,326,NZL,5:26
+Steal,5.0,3,0,2,KAZ,1.0,ZAKIROVA K,2 - 0,326,KAZ,5:26
+5m shot - Missed,8.0,3,0,2,KAZ,1.0,SAICHUK O,2 - 0,296,KAZ,4:56
+5m shot - Saved,12.0,3,0,2,KAZ,1.0,MYLES J,2 - 0,280,NZL,4:40
+Centre shot - Saved,8.0,3,0,2,KAZ,1.0,LOPES DA SILVA C,2 - 0,278,NZL,4:38
+Action shot - Goal,7.0,3,0,3,KAZ,1.0,MYRZABEKOVA Z,3 - 0,256,KAZ,4:16
+5m shot - Missed,4.0,3,0,3,KAZ,1.0,LEWIS D,3 - 0,233,NZL,3:53
+Turnover foul,11.0,3,0,3,KAZ,1.0,MIRSHINA A,3 - 0,216,KAZ,3:36
+Action shot - Saved,10.0,3,0,3,KAZ,1.0,DANCE L,3 - 0,188,NZL,3:08
+20 sec. exclusion in field,9.0,3,0,3,KAZ,1.0,STONEMAN E,3 - 0,174,NZL,2:54
+Time-Out,,3,0,3,KAZ,1.0,,3 - 0,174,KAZ,2:54
+Turnover foul,7.0,3,0,3,KAZ,1.0,MYRZABEKOVA Z,3 - 0,147,KAZ,2:27
+Penalty foul,10.0,3,0,3,KAZ,1.0,ROGA D,3 - 0,133,KAZ,2:13
+Penalty shot - Saved,11.0,3,0,3,KAZ,1.0,HUDSON K,3 - 0,133,NZL,2:13
+20 sec. exclusion in centre,9.0,3,0,3,KAZ,1.0,STONEMAN E,3 - 0,119,NZL,1:59
+Extra player shot - Missed,8.0,3,0,3,KAZ,1.0,SAICHUK O,3 - 0,99,KAZ,1:39
+Time-Out,,3,0,3,KAZ,1.0,,3 - 0,97,NZL,1:37
+20 sec. exclusion in field,2.0,3,0,3,KAZ,1.0,LEWIS N,3 - 0,83,NZL,1:23
+Extra player shot - Saved,8.0,3,0,3,KAZ,1.0,SAICHUK O,3 - 0,58,KAZ,0:58
+20 sec. exclusion in field,11.0,3,0,3,KAZ,1.0,MIRSHINA A,3 - 0,28,KAZ,0:28
+Extra player shot - Missed,4.0,3,0,3,KAZ,1.0,LEWIS D,3 - 0,8,NZL,0:08
+Starting goalkeeper,1.0,3,0,3,KAZ,2.0,ZHARKIMBAYEVA A,3 - 0,480,KAZ,8:00
+Starting goalkeeper,1.0,3,0,3,KAZ,2.0,MILLAR B,3 - 0,480,NZL,8:00
+Sprint won possession,3.0,3,0,3,KAZ,2.0,AKILBAYEVA A,3 - 0,480,KAZ,8:00
+Turnover foul,12.0,3,0,3,KAZ,2.0,MUSSAROVA A,3 - 0,449,KAZ,7:29
+20 sec. exclusion in centre,12.0,3,0,3,KAZ,2.0,MUSSAROVA A,3 - 0,441,KAZ,7:21
+Extra player shot - Post,6.0,3,0,3,KAZ,2.0,LANDRY S,3 - 0,422,NZL,7:02
+20 sec. exclusion in centre,6.0,3,0,3,KAZ,2.0,LANDRY S,3 - 0,404,NZL,6:44
+Extra player shot - Goal,3.0,3,0,4,KAZ,2.0,AKILBAYEVA A,4 - 0,389,KAZ,6:29
+Turnover foul,8.0,3,0,4,KAZ,2.0,LOPES DA SILVA C,4 - 0,366,NZL,6:06
+Steal,4.0,3,0,4,KAZ,2.0,TUROVA A,4 - 0,366,KAZ,6:06
+Action shot - Goal,3.0,3,0,5,KAZ,2.0,AKILBAYEVA A,5 - 0,348,KAZ,5:48
+5m shot - Saved,12.0,3,0,5,KAZ,2.0,MYLES J,5 - 0,335,NZL,5:35
+Turnover foul,2.0,3,0,5,KAZ,2.0,LEWIS N,5 - 0,323,NZL,5:23
+Steal,2.0,3,0,5,KAZ,2.0,YEGEMBERDIYEVA A,5 - 0,323,KAZ,5:23
+20 sec. exclusion in centre,12.0,3,0,5,KAZ,2.0,MYLES J,5 - 0,305,NZL,5:05
+Time-Out,,3,0,5,KAZ,2.0,,5 - 0,305,KAZ,5:05
+Extra player shot - Missed,11.0,3,0,5,KAZ,2.0,MIRSHINA A,5 - 0,287,KAZ,4:47
+Action shot - Blocked,8.0,3,0,5,KAZ,2.0,LOPES DA SILVA C,5 - 0,264,NZL,4:24
+Action shot - Goal,3.0,3,0,6,KAZ,2.0,AKILBAYEVA A,6 - 0,240,KAZ,4:00
+Time-Out,,3,0,6,KAZ,2.0,,6 - 0,240,NZL,4:00
+Goalkeeper substitution,13.0,3,0,6,KAZ,2.0,CURNOW K,6 - 0,240,NZL,4:00
+Turnover foul,11.0,3,0,6,KAZ,2.0,HUDSON K,6 - 0,212,NZL,3:32
+Turnover foul,2.0,3,0,6,KAZ,2.0,YEGEMBERDIYEVA A,6 - 0,185,KAZ,3:05
+Turnover foul,8.0,3,0,6,KAZ,2.0,LOPES DA SILVA C,6 - 0,176,NZL,2:56
+20 sec. exclusion in field,8.0,3,0,6,KAZ,2.0,LOPES DA SILVA C,6 - 0,179,NZL,2:59
+20 sec. exclusion in field,4.0,3,0,6,KAZ,2.0,TUROVA A,6 - 0,130,KAZ,2:10
+Action shot - Saved,11.0,3,0,6,KAZ,2.0,HUDSON K,6 - 0,67,NZL,1:07
+Counter attack - Goal,12.0,3,0,7,KAZ,2.0,MUSSAROVA A,7 - 0,60,KAZ,1:00
+20 sec. exclusion in centre,2.0,3,0,7,KAZ,2.0,YEGEMBERDIYEVA A,7 - 0,48,KAZ,0:48
+Action shot - Saved,6.0,3,0,7,KAZ,2.0,LANDRY S,7 - 0,25,NZL,0:25
+5m shot - Saved,11.0,3,0,7,KAZ,2.0,MIRSHINA A,7 - 0,1,KAZ,0:01
+Starting goalkeeper,1.0,3,0,7,KAZ,3.0,ZHARKIMBAYEVA A,7 - 0,480,KAZ,8:00
+Steal,4.0,3,0,7,KAZ,4.0,TUROVA A,7 - 0,68,KAZ,1:08
+Centre shot - Goal,8.0,3,4,14,KAZ,4.0,SAICHUK O,14 - 4,53,KAZ,0:53
+Starting goalkeeper,13.0,3,4,14,KAZ,3.0,CURNOW K,14 - 4,480,NZL,8:00
+Sprint won possession,4.0,3,4,14,KAZ,3.0,LEWIS D,14 - 4,480,NZL,8:00
+20 sec. exclusion in centre,4.0,3,4,14,KAZ,3.0,TUROVA A,14 - 4,459,KAZ,7:39
+Extra player shot - Saved,4.0,3,4,14,KAZ,3.0,LEWIS D,14 - 4,456,NZL,7:36
+Extra player shot - Goal,4.0,3,1,7,KAZ,3.0,LEWIS D,7 - 1,441,NZL,7:21
+5m shot - Goal,2.0,3,1,8,KAZ,3.0,YEGEMBERDIYEVA A,8 - 1,425,KAZ,7:05
+Turnover foul,4.0,3,1,8,KAZ,3.0,LEWIS D,8 - 1,412,NZL,6:52
+Steal,2.0,3,1,8,KAZ,3.0,YEGEMBERDIYEVA A,8 - 1,412,KAZ,6:52
+Action shot - Saved,3.0,3,1,8,KAZ,3.0,AKILBAYEVA A,8 - 1,390,KAZ,6:30
+Turnover foul,12.0,3,1,8,KAZ,3.0,MYLES J,8 - 1,368,NZL,6:08
+Steal,2.0,3,1,8,KAZ,3.0,YEGEMBERDIYEVA A,8 - 1,368,KAZ,6:08
+20 sec. exclusion in centre,10.0,3,1,8,KAZ,3.0,DANCE L,8 - 1,341,NZL,5:41
+Extra player shot - Saved,2.0,3,1,8,KAZ,3.0,YEGEMBERDIYEVA A,8 - 1,328,KAZ,5:28
+Turnover foul,2.0,3,1,8,KAZ,3.0,LEWIS N,8 - 1,305,NZL,5:05
+Turnover foul,11.0,3,1,8,KAZ,3.0,MIRSHINA A,8 - 1,280,KAZ,4:40
+Steal,13.0,3,1,8,KAZ,3.0,CURNOW K,8 - 1,280,NZL,4:40
+Turnover foul,6.0,3,1,8,KAZ,3.0,LANDRY S,8 - 1,259,NZL,4:19
+Action shot - Goal,3.0,3,1,9,KAZ,3.0,AKILBAYEVA A,9 - 1,248,KAZ,4:08
+Action shot - Blocked,2.0,3,1,9,KAZ,3.0,LEWIS N,9 - 1,228,NZL,3:48
+Action shot - Saved,7.0,3,1,9,KAZ,3.0,MYRZABEKOVA Z,9 - 1,212,KAZ,3:32
+Turnover foul,10.0,3,1,9,KAZ,3.0,ROGA D,9 - 1,194,KAZ,3:14
+Steal,6.0,3,1,9,KAZ,3.0,LANDRY S,9 - 1,194,NZL,3:14
+Turnover foul,11.0,3,1,9,KAZ,3.0,HUDSON K,9 - 1,177,NZL,2:57
+Time-Out,,3,1,9,KAZ,3.0,,9 - 1,175,KAZ,2:55
+5m shot - Goal,11.0,3,1,10,KAZ,3.0,MIRSHINA A,10 - 1,165,KAZ,2:45
+5m shot - Saved,12.0,3,1,10,KAZ,3.0,MYLES J,10 - 1,155,NZL,2:35
+Action shot - Saved,2.0,3,1,10,KAZ,3.0,LEWIS N,10 - 1,143,NZL,2:23
+20 sec. exclusion in field,7.0,3,1,10,KAZ,3.0,CHASE M,10 - 1,122,NZL,2:02
+Action shot - Blocked,8.0,3,1,10,KAZ,3.0,SAICHUK O,10 - 1,93,KAZ,1:33
+Time-Out,,3,1,10,KAZ,3.0,,10 - 1,93,NZL,1:33
+20 sec. exclusion in field,12.0,3,1,10,KAZ,3.0,MUSSAROVA A,10 - 1,75,KAZ,1:15
+Action shot - Saved,8.0,3,1,10,KAZ,3.0,LOPES DA SILVA C,10 - 1,48,NZL,0:48
+Action shot - Goal,5.0,3,1,11,KAZ,3.0,ZAKIROVA K,11 - 1,22,KAZ,0:22
+Centre shot - Missed,2.0,3,1,11,KAZ,3.0,LEWIS N,11 - 1,2,NZL,0:02
+Starting goalkeeper,1.0,3,1,11,KAZ,4.0,ZHARKIMBAYEVA A,11 - 1,480,KAZ,8:00
+Starting goalkeeper,1.0,3,1,11,KAZ,4.0,MILLAR B,11 - 1,480,NZL,8:00
+Sprint won possession,3.0,3,1,11,KAZ,4.0,AKILBAYEVA A,11 - 1,480,KAZ,8:00
+Action shot - Saved,10.0,3,1,11,KAZ,4.0,ROGA D,11 - 1,455,KAZ,7:35
+Counter attack - Goal,4.0,3,2,11,KAZ,4.0,LEWIS D,11 - 2,445,NZL,7:25
+5m shot - Missed,2.0,3,2,11,KAZ,4.0,YEGEMBERDIYEVA A,11 - 2,415,KAZ,6:55
+Centre shot - Goal,4.0,3,3,11,KAZ,4.0,LEWIS D,11 - 3,404,NZL,6:44
+Action shot - Saved,11.0,3,3,11,KAZ,4.0,MIRSHINA A,11 - 3,388,KAZ,6:28
+Turnover foul,7.0,3,3,11,KAZ,4.0,MYRZABEKOVA Z,11 - 3,379,KAZ,6:19
+Steal,2.0,3,3,11,KAZ,4.0,LEWIS N,11 - 3,379,NZL,6:19
+Turnover foul,8.0,3,3,11,KAZ,4.0,LOPES DA SILVA C,11 - 3,361,NZL,6:01
+Steal,12.0,3,3,11,KAZ,4.0,MUSSAROVA A,11 - 3,361,KAZ,6:01
+Counter attack - Post,11.0,3,3,11,KAZ,4.0,MIRSHINA A,11 - 3,356,KAZ,5:56
+Action shot - Post,8.0,3,3,11,KAZ,4.0,LOPES DA SILVA C,11 - 3,328,NZL,5:28
+Centre shot - Saved,7.0,3,3,11,KAZ,4.0,MYRZABEKOVA Z,11 - 3,306,KAZ,5:06
+Action shot - Goal,8.0,3,4,11,KAZ,4.0,LOPES DA SILVA C,11 - 4,294,NZL,4:54
+Action shot - Goal,3.0,3,4,12,KAZ,4.0,AKILBAYEVA A,12 - 4,282,KAZ,4:42
+Action shot - Saved,6.0,3,4,12,KAZ,4.0,LANDRY S,12 - 4,255,NZL,4:15
+20 sec. exclusion in field,6.0,3,4,12,KAZ,4.0,LANDRY S,12 - 4,255,NZL,4:15
+Time-Out,,3,4,12,KAZ,4.0,,12 - 4,255,KAZ,4:15
+Extra player shot - Goal,3.0,3,4,13,KAZ,4.0,AKILBAYEVA A,13 - 4,239,KAZ,3:59
+5m shot - Saved,9.0,3,4,13,KAZ,4.0,STONEMAN E,13 - 4,210,NZL,3:30
+Action shot - Blocked,11.0,3,4,13,KAZ,4.0,MIRSHINA A,13 - 4,184,KAZ,3:04
+5m shot - Saved,7.0,3,4,13,KAZ,4.0,CHASE M,13 - 4,160,NZL,2:40
+Turnover foul,11.0,3,4,13,KAZ,4.0,MIRSHINA A,13 - 4,132,KAZ,2:12
+Time-Out,,3,4,13,KAZ,4.0,,13 - 4,132,NZL,2:12
+Turnover foul,10.0,3,4,13,KAZ,4.0,DANCE L,13 - 4,120,NZL,2:00
+20 sec. exclusion in field,10.0,3,4,13,KAZ,4.0,DANCE L,13 - 4,112,NZL,1:52
+Extra player shot - Post,5.0,3,4,13,KAZ,4.0,ZAKIROVA K,13 - 4,90,KAZ,1:30
+Turnover foul,4.0,3,4,13,KAZ,4.0,LEWIS D,13 - 4,68,NZL,1:08
+Action shot - Post,2.0,3,4,13,KAZ,4.0,LEWIS N,13 - 4,31,NZL,0:31
+Turnover foul,6.0,3,4,13,KAZ,4.0,TIKHONOVA O,13 - 4,3,KAZ,0:03
+Starting goalkeeper,1.0,4,0,0,RSA,1.0,MILLAR B,0 - 0,480,NZL,8:00
+Starting goalkeeper,1.0,4,0,0,RSA,1.0,THOMAS R,0 - 0,480,RSA,8:00
+Sprint won possession,6.0,4,0,0,RSA,1.0,LANDRY S,0 - 0,480,NZL,8:00
+Turnover foul,4.0,4,0,0,RSA,1.0,LEWIS D,0 - 0,463,NZL,7:43
+Steal,6.0,4,0,0,RSA,1.0,HALLENDORFF A,0 - 0,463,RSA,7:43
+Action shot - Saved,7.0,4,0,0,RSA,1.0,KAY K,0 - 0,434,RSA,7:14
+5m shot - Missed,12.0,4,0,0,RSA,1.0,MYLES J,0 - 0,414,NZL,6:54
+Turnover foul,7.0,4,0,0,RSA,1.0,KAY K,0 - 0,387,RSA,6:27
+Steal,1.0,4,0,0,RSA,1.0,MILLAR B,0 - 0,387,NZL,6:27
+Centre shot - Saved,2.0,4,0,0,RSA,1.0,LEWIS N,0 - 0,367,NZL,6:07
+Turnover foul,9.0,4,0,0,RSA,1.0,STONEMAN E,0 - 0,348,NZL,5:48
+Steal,6.0,4,0,0,RSA,1.0,HALLENDORFF A,0 - 0,348,RSA,5:48
+Turnover foul,12.0,4,0,0,RSA,1.0,WHITE K,0 - 0,319,RSA,5:19
+Steal,6.0,4,0,0,RSA,1.0,LANDRY S,0 - 0,319,NZL,5:19
+Turnover foul,2.0,4,0,0,RSA,1.0,LEWIS N,0 - 0,301,NZL,5:01
+Turnover foul,5.0,4,0,0,RSA,1.0,SCHOOLING M,0 - 0,271,RSA,4:31
+5m shot - Goal,9.0,4,1,0,RSA,1.0,STONEMAN E,1 - 0,250,NZL,4:10
+Turnover foul,12.0,4,1,0,RSA,1.0,WHITE K,1 - 0,233,RSA,3:53
+Counter attack - Missed,4.0,4,1,0,RSA,1.0,LEWIS D,1 - 0,221,NZL,3:41
+Time-Out,,4,1,0,RSA,1.0,,1 - 0,221,RSA,3:41
+20 sec. exclusion in centre,10.0,4,1,0,RSA,1.0,DANCE L,1 - 0,210,NZL,3:30
+Action shot - Saved,6.0,4,1,0,RSA,1.0,HALLENDORFF A,1 - 0,185,RSA,3:05
+Turnover foul,3.0,4,1,0,RSA,1.0,PATTISON S,1 - 0,162,NZL,2:42
+Turnover foul,10.0,4,1,0,RSA,1.0,KILLEEN L,1 - 0,149,RSA,2:29
+Turnover foul,9.0,4,1,0,RSA,1.0,STONEMAN E,1 - 0,123,NZL,2:03
+Turnover foul,12.0,4,1,0,RSA,1.0,WHITE K,1 - 0,107,RSA,1:47
+Centre shot - Post,4.0,4,1,0,RSA,1.0,LEWIS D,1 - 0,90,NZL,1:30
+5m shot - Post,3.0,4,1,0,RSA,1.0,PALEY K,1 - 0,65,RSA,1:05
+Turnover foul,4.0,4,1,0,RSA,1.0,LEWIS D,1 - 0,45,NZL,0:45
+Steal,5.0,4,1,0,RSA,1.0,SCHOOLING M,1 - 0,45,RSA,0:45
+Turnover foul,5.0,4,1,0,RSA,1.0,SCHOOLING M,1 - 0,31,RSA,0:31
+20 sec. exclusion in centre,2.0,4,1,0,RSA,1.0,PARKES M,1 - 0,31,RSA,0:31
+Time-Out,,4,1,0,RSA,1.0,,1 - 0,31,NZL,0:31
+Extra player shot - Goal,12.0,4,2,0,RSA,1.0,MYLES J,2 - 0,14,NZL,0:14
+20 sec. exclusion in centre,8.0,4,2,0,RSA,1.0,LOPES DA SILVA C,2 - 0,2,NZL,0:02
+Starting goalkeeper,1.0,4,2,0,RSA,2.0,MILLAR B,2 - 0,480,NZL,8:00
+Starting goalkeeper,1.0,4,2,0,RSA,2.0,THOMAS R,2 - 0,480,RSA,8:00
+Sprint won possession,6.0,4,2,0,RSA,2.0,LANDRY S,2 - 0,480,NZL,8:00
+20 sec. exclusion in centre,4.0,4,2,0,RSA,2.0,VERSFELD R,2 - 0,454,RSA,7:34
+Extra player shot - Goal,11.0,4,3,0,RSA,2.0,HUDSON K,3 - 0,440,NZL,7:20
+Turnover foul,6.0,4,3,0,RSA,2.0,HALLENDORFF A,3 - 0,426,RSA,7:06
+5m shot - Saved,4.0,4,3,0,RSA,2.0,LEWIS D,3 - 0,416,NZL,6:56
+5m shot - Post,6.0,4,3,0,RSA,2.0,LANDRY S,3 - 0,398,NZL,6:38
+Action shot - Missed,5.0,4,3,0,RSA,2.0,SCHOOLING M,3 - 0,372,RSA,6:12
+20 sec. exclusion in centre,11.0,4,3,0,RSA,2.0,HUDSON K,3 - 0,357,NZL,5:57
+Turnover foul,2.0,4,3,0,RSA,2.0,LEWIS N,3 - 0,353,NZL,5:53
+Turnover foul,5.0,4,3,0,RSA,2.0,SCHOOLING M,3 - 0,330,RSA,5:30
+20 sec. exclusion in centre,2.0,4,3,0,RSA,2.0,PARKES M,3 - 0,314,RSA,5:14
+Extra player shot - Saved,2.0,4,3,0,RSA,2.0,LEWIS N,3 - 0,310,NZL,5:10
+5m shot - Missed,2.0,4,3,0,RSA,2.0,PARKES M,3 - 0,286,RSA,4:46
+5m shot - Missed,6.0,4,3,0,RSA,2.0,LANDRY S,3 - 0,268,NZL,4:28
+Turnover foul,6.0,4,3,0,RSA,2.0,HALLENDORFF A,3 - 0,239,RSA,3:59
+Steal,1.0,4,3,0,RSA,2.0,MILLAR B,3 - 0,239,NZL,3:59
+Counter attack - Saved,6.0,4,3,0,RSA,2.0,LANDRY S,3 - 0,225,NZL,3:45
+Yellow card,,4,3,0,RSA,2.0,Team Official,3 - 0,225,RSA,3:45
+Turnover foul,8.0,4,3,0,RSA,2.0,LOPES DA SILVA C,3 - 0,213,NZL,3:33
+Steal,5.0,4,3,0,RSA,2.0,SCHOOLING M,3 - 0,213,RSA,3:33
+5m shot - Saved,11.0,4,3,0,RSA,2.0,O'HANLON D,3 - 0,197,RSA,3:17
+Turnover foul,12.0,4,3,0,RSA,2.0,WHITE K,3 - 0,179,RSA,2:59
+Action shot - Post,2.0,4,3,0,RSA,2.0,LEWIS N,3 - 0,159,NZL,2:39
+Time-Out,,4,3,0,RSA,2.0,,3 - 0,153,RSA,2:33
+Centre shot - Saved,7.0,4,3,0,RSA,2.0,KAY K,3 - 0,136,RSA,2:16
+Action shot - Missed,10.0,4,3,0,RSA,2.0,DANCE L,3 - 0,111,NZL,1:51
+Action shot - Saved,3.0,4,3,0,RSA,2.0,PALEY K,3 - 0,90,RSA,1:30
+Turnover foul,12.0,4,3,0,RSA,4.0,MYLES J,3 - 0,214,NZL,3:34
+Steal,5.0,4,3,0,RSA,4.0,SCHOOLING M,3 - 0,214,RSA,3:34
+Time-Out,,4,3,0,RSA,4.0,,3 - 0,214,RSA,3:34
+5m shot - Post,10.0,4,3,0,RSA,4.0,KILLEEN L,3 - 0,188,RSA,3:08
+Action shot - Saved,4.0,4,3,0,RSA,4.0,LEWIS D,3 - 0,172,NZL,2:52
+20 sec. exclusion in centre,7.0,4,3,0,RSA,4.0,KAY K,3 - 0,170,RSA,2:50
+Extra player shot - Goal,12.0,4,11,3,RSA,4.0,MYLES J,11 - 3,151,NZL,2:31
+5m shot - Saved,10.0,4,11,3,RSA,4.0,KILLEEN L,11 - 3,126,RSA,2:06
+Counter attack - Saved,4.0,4,11,3,RSA,4.0,LEWIS D,11 - 3,117,NZL,1:57
+5m shot - Saved,10.0,4,11,3,RSA,2.0,DANCE L,11 - 3,69,NZL,1:09
+20 sec. exclusion in centre,4.0,4,11,3,RSA,2.0,VERSFELD R,11 - 3,64,RSA,1:04
+Extra player shot - Goal,7.0,4,4,0,RSA,2.0,CHASE M,4 - 0,48,NZL,0:48
+Action shot - Saved,12.0,4,4,0,RSA,2.0,WHITE K,4 - 0,21,RSA,0:21
+Time-Out,,4,4,0,RSA,2.0,,4 - 0,20,NZL,0:20
+20 sec. exclusion in centre,10.0,4,4,0,RSA,2.0,KILLEEN L,4 - 0,17,RSA,0:17
+Extra player shot - Saved,3.0,4,4,0,RSA,2.0,PATTISON S,4 - 0,1,NZL,0:01
+Starting goalkeeper,1.0,4,4,0,RSA,3.0,MILLAR B,4 - 0,480,NZL,8:00
+Starting goalkeeper,1.0,4,4,0,RSA,3.0,THOMAS R,4 - 0,480,RSA,8:00
+Sprint won possession,6.0,4,4,0,RSA,3.0,LANDRY S,4 - 0,480,NZL,8:00
+Action shot - Blocked,2.0,4,4,0,RSA,3.0,LEWIS N,4 - 0,454,NZL,7:34
+Turnover foul,12.0,4,4,0,RSA,3.0,WHITE K,4 - 0,426,RSA,7:06
+Steal,8.0,4,4,0,RSA,3.0,LOPES DA SILVA C,4 - 0,426,NZL,7:06
+5m shot - Blocked,2.0,4,4,0,RSA,3.0,LEWIS N,4 - 0,402,NZL,6:42
+20 sec. exclusion in centre,12.0,4,4,0,RSA,3.0,MYLES J,4 - 0,395,NZL,6:35
+Extra player shot - Goal,7.0,4,4,1,RSA,3.0,KAY K,4 - 1,377,RSA,6:17
+Action shot - Saved,10.0,4,4,1,RSA,3.0,DANCE L,4 - 1,363,NZL,6:03
+20 sec. exclusion in centre,7.0,4,4,1,RSA,3.0,CHASE M,4 - 1,361,NZL,6:01
+Time-Out,,4,4,1,RSA,3.0,,4 - 1,361,RSA,6:01
+Extra player shot - Missed,7.0,4,4,1,RSA,3.0,KAY K,4 - 1,340,RSA,5:40
+5m shot - Saved,4.0,4,4,1,RSA,3.0,LEWIS D,4 - 1,316,NZL,5:16
+Action shot - Goal,10.0,4,5,1,RSA,3.0,DANCE L,5 - 1,310,NZL,5:10
+Turnover foul,7.0,4,5,1,RSA,3.0,KAY K,5 - 1,296,RSA,4:56
+Steal,4.0,4,5,1,RSA,3.0,LEWIS D,5 - 1,296,NZL,4:56
+Turnover foul,11.0,4,5,1,RSA,3.0,HUDSON K,5 - 1,267,NZL,4:27
+Steal,5.0,4,5,1,RSA,3.0,SCHOOLING M,5 - 1,267,RSA,4:27
+20 sec. exclusion in centre,11.0,4,5,1,RSA,3.0,HUDSON K,5 - 1,258,NZL,4:18
+Centre shot - Goal,12.0,4,5,2,RSA,3.0,WHITE K,5 - 2,235,RSA,3:55
+Turnover foul,10.0,4,5,2,RSA,3.0,DANCE L,5 - 2,209,NZL,3:29
+20 sec. exclusion in centre,10.0,4,5,2,RSA,3.0,DANCE L,5 - 2,194,NZL,3:14
+20 sec. exclusion in centre,7.0,4,5,2,RSA,3.0,CHASE M,5 - 2,176,NZL,2:56
+Extra player shot - Goal,3.0,4,5,3,RSA,3.0,PALEY K,5 - 3,174,RSA,2:54
+Time-Out,,4,5,3,RSA,3.0,,5 - 3,174,NZL,2:54
+Action shot - Saved,12.0,4,5,3,RSA,3.0,MYLES J,5 - 3,156,NZL,2:36
+20 sec. exclusion in centre,2.0,4,5,3,RSA,3.0,PARKES M,5 - 3,156,RSA,2:36
+Exclusion with substitution,2.0,4,5,3,RSA,3.0,PARKES M,5 - 3,156,RSA,2:36
+Extra player shot - Missed,2.0,4,5,3,RSA,3.0,LEWIS N,5 - 3,142,NZL,2:22
+5m shot - Saved,4.0,4,5,3,RSA,3.0,VERSFELD R,5 - 3,111,RSA,1:51
+Action shot - Blocked,4.0,4,5,3,RSA,3.0,LEWIS D,5 - 3,94,NZL,1:34
+5m shot - Goal,12.0,4,6,3,RSA,3.0,MYLES J,6 - 3,86,NZL,1:26
+Turnover foul,12.0,4,6,3,RSA,3.0,WHITE K,6 - 3,57,RSA,0:57
+Turnover foul,7.0,4,6,3,RSA,3.0,CHASE M,6 - 3,35,NZL,0:35
+Centre shot - Saved,2.0,4,6,3,RSA,3.0,LEWIS N,6 - 3,32,NZL,0:32
+Centre shot - Goal,2.0,4,7,3,RSA,3.0,LEWIS N,7 - 3,31,NZL,0:31
+Turnover foul,10.0,4,7,3,RSA,3.0,KILLEEN L,7 - 3,19,RSA,0:19
+Steal,4.0,4,7,3,RSA,3.0,LEWIS D,7 - 3,19,NZL,0:19
+20 sec. exclusion in centre,12.0,4,7,3,RSA,3.0,WHITE K,7 - 3,20,RSA,0:20
+Extra player shot - Goal,4.0,4,8,3,RSA,3.0,LEWIS D,8 - 3,12,NZL,0:12
+5m shot - Saved,3.0,4,8,3,RSA,3.0,PALEY K,8 - 3,0,RSA,0:00
+Starting goalkeeper,1.0,4,8,3,RSA,4.0,MILLAR B,8 - 3,480,NZL,8:00
+Starting goalkeeper,1.0,4,8,3,RSA,4.0,THOMAS R,8 - 3,480,RSA,8:00
+Sprint won possession,11.0,4,8,3,RSA,4.0,O'HANLON D,8 - 3,480,RSA,8:00
+Turnover foul,7.0,4,8,3,RSA,4.0,KAY K,8 - 3,465,RSA,7:45
+Counter attack - Saved,10.0,4,8,3,RSA,4.0,DANCE L,8 - 3,458,NZL,7:38
+Action shot - Saved,7.0,4,8,3,RSA,4.0,KAY K,8 - 3,444,RSA,7:24
+Turnover foul,8.0,4,8,3,RSA,4.0,LOPES DA SILVA C,8 - 3,415,NZL,6:55
+Turnover foul,3.0,4,8,3,RSA,4.0,PALEY K,8 - 3,399,RSA,6:39
+Turnover foul,6.0,4,8,3,RSA,4.0,LANDRY S,8 - 3,380,NZL,6:20
+5m shot - Goal,11.0,4,9,3,RSA,4.0,HUDSON K,9 - 3,322,NZL,5:22
+Turnover foul,6.0,4,9,3,RSA,4.0,HALLENDORFF A,9 - 3,298,RSA,4:58
+Steal,4.0,4,9,3,RSA,4.0,LEWIS D,9 - 3,298,NZL,4:58
+Action shot - Goal,4.0,4,10,3,RSA,4.0,LEWIS D,10 - 3,280,NZL,4:40
+20 sec. exclusion in centre,3.0,4,10,3,RSA,4.0,PATTISON S,10 - 3,256,NZL,4:16
+Action shot - Saved,7.0,4,10,3,RSA,4.0,KAY K,10 - 3,234,RSA,3:54
+Turnover foul,10.0,4,10,3,RSA,4.0,KILLEEN L,10 - 3,87,RSA,1:27
+Steal,4.0,4,10,3,RSA,4.0,LEWIS D,10 - 3,87,NZL,1:27
+Counter attack - Saved,4.0,4,10,3,RSA,4.0,LEWIS D,10 - 3,77,NZL,1:17
+Action shot - Saved,7.0,4,10,3,RSA,4.0,KAY K,10 - 3,53,RSA,0:53
+Time-Out,,4,10,3,RSA,4.0,,10 - 3,50,NZL,0:50
+Action shot - Saved,8.0,4,10,3,RSA,4.0,LOPES DA SILVA C,10 - 3,37,NZL,0:37
+20 sec. exclusion in centre,12.0,4,10,3,RSA,4.0,MYLES J,10 - 3,16,NZL,0:16
+Extra player shot - Post,12.0,4,10,3,RSA,4.0,WHITE K,10 - 3,5,RSA,0:05
+Starting goalkeeper,1.0,5,0,0,FRA,1.0,MILLAR B,0 - 0,480,NZL,8:00
+Starting goalkeeper,1.0,5,0,0,FRA,1.0,DERENTY L,0 - 0,480,FRA,8:00
+Sprint won possession,5.0,5,0,0,FRA,1.0,GUILLET L,0 - 0,480,FRA,8:00
+Action shot - Goal,8.0,5,0,1,FRA,1.0,TARDY M,0 - 1,452,FRA,7:32
+Action shot - Saved,2.0,5,0,1,FRA,1.0,LEWIS N,0 - 1,435,NZL,7:15
+Action shot - Missed,2.0,5,0,1,FRA,1.0,MILLOT E,0 - 1,414,FRA,6:54
+5m shot - Saved,6.0,5,0,1,FRA,1.0,LANDRY S,0 - 1,387,NZL,6:27
+Action shot - Saved,12.0,5,0,1,FRA,1.0,MYLES J,0 - 1,375,NZL,6:15
+5m shot - Saved,2.0,5,0,1,FRA,1.0,MILLOT E,0 - 1,345,FRA,5:45
+5m shot - Blocked,12.0,5,0,1,FRA,1.0,MYLES J,0 - 1,318,NZL,5:18
+5m shot - Blocked,12.0,5,0,1,FRA,1.0,JASKOVA M,0 - 1,287,FRA,4:47
+5m shot - Saved,8.0,5,0,1,FRA,1.0,LOPES DA SILVA C,0 - 1,266,NZL,4:26
+5m shot - Saved,3.0,5,0,1,FRA,1.0,BACHELIER L,0 - 1,236,FRA,3:56
+20 sec. exclusion in centre,3.0,5,0,1,FRA,1.0,BACHELIER L,0 - 1,226,FRA,3:46
+Extra player shot - Goal,12.0,5,1,1,FRA,1.0,MYLES J,1 - 1,207,NZL,3:27
+20 sec. exclusion in field,4.0,5,1,1,FRA,1.0,LEWIS D,1 - 1,199,NZL,3:19
+Action shot - Saved,2.0,5,1,1,FRA,1.0,MILLOT E,1 - 1,173,FRA,2:53
+Turnover foul,3.0,5,1,1,FRA,1.0,BACHELIER L,1 - 1,155,FRA,2:35
+Steal,12.0,5,1,1,FRA,1.0,MYLES J,1 - 1,155,NZL,2:35
+5m shot - Missed,10.0,5,1,1,FRA,1.0,DANCE L,1 - 1,139,NZL,2:19
+20 sec. exclusion in centre,9.0,5,1,1,FRA,1.0,STONEMAN E,1 - 1,126,NZL,2:06
+Time-Out,,5,1,1,FRA,1.0,,1 - 1,126,FRA,2:06
+Extra player shot - Blocked,2.0,5,1,1,FRA,1.0,MILLOT E,1 - 1,104,FRA,1:44
+Action shot - Missed,10.0,5,1,1,FRA,1.0,DANCE L,1 - 1,82,NZL,1:22
+5m shot - Saved,5.0,5,1,1,FRA,1.0,LEWIS S,1 - 1,66,NZL,1:06
+Time-Out,,5,1,1,FRA,1.0,,1 - 1,66,NZL,1:06
+5m shot - Post,12.0,5,1,1,FRA,1.0,MYLES J,1 - 1,53,NZL,0:53
+5m shot - Goal,2.0,5,1,2,FRA,1.0,MILLOT E,1 - 2,27,FRA,0:27
+Turnover foul,12.0,5,1,2,FRA,1.0,MYLES J,1 - 2,3,NZL,0:03
+Steal,2.0,5,1,2,FRA,1.0,MILLOT E,1 - 2,3,FRA,0:03
+5m shot - Saved,5.0,5,1,2,FRA,1.0,GUILLET L,1 - 2,0,FRA,0:00
+Starting goalkeeper,1.0,5,1,2,FRA,2.0,MILLAR B,1 - 2,480,NZL,8:00
+Starting goalkeeper,1.0,5,1,2,FRA,2.0,DERENTY L,1 - 2,480,FRA,8:00
+Sprint won possession,4.0,5,1,2,FRA,2.0,LEWIS D,1 - 2,480,NZL,8:00
+20 sec. exclusion in centre,3.0,5,1,2,FRA,2.0,BACHELIER L,1 - 2,458,FRA,7:38
+Extra player shot - Goal,4.0,5,2,2,FRA,2.0,LEWIS D,2 - 2,449,NZL,7:29
+Turnover foul,5.0,5,2,2,FRA,2.0,GUILLET L,2 - 2,410,FRA,6:50
+Centre shot - Post,8.0,5,2,2,FRA,2.0,LOPES DA SILVA C,2 - 2,394,NZL,6:34
+Turnover foul,8.0,5,2,2,FRA,2.0,TARDY M,2 - 2,372,FRA,6:12
+Steal,1.0,5,2,2,FRA,2.0,MILLAR B,2 - 2,372,NZL,6:12
+Turnover foul,7.0,5,2,2,FRA,2.0,CHASE M,2 - 2,343,NZL,5:43
+Steal,8.0,5,2,2,FRA,2.0,TARDY M,2 - 2,343,FRA,5:43
+5m shot - Missed,7.0,5,2,2,FRA,2.0,BARBIEUX M,2 - 2,320,FRA,5:20
+5m shot - Post,9.0,5,2,2,FRA,2.0,STONEMAN E,2 - 2,291,NZL,4:51
+Action shot - Goal,6.0,5,2,3,FRA,2.0,MAHIEU G,2 - 3,267,FRA,4:27
+5m shot - Post,6.0,5,2,3,FRA,2.0,LANDRY S,2 - 3,243,NZL,4:03
+Action shot - Goal,10.0,5,3,3,FRA,2.0,DANCE L,3 - 3,237,NZL,3:57
+Action shot - Missed,3.0,5,3,3,FRA,2.0,BACHELIER L,3 - 3,217,FRA,3:37
+Turnover foul,10.0,5,3,3,FRA,2.0,DANCE L,3 - 3,191,NZL,3:11
+Steal,2.0,5,3,3,FRA,2.0,MILLOT E,3 - 3,191,FRA,3:11
+Action shot - Post,2.0,5,3,3,FRA,2.0,MILLOT E,3 - 3,172,FRA,2:52
+Turnover foul,12.0,5,3,3,FRA,2.0,MYLES J,3 - 3,148,NZL,2:28
+Steal,4.0,5,3,3,FRA,2.0,SACRE A,3 - 3,148,FRA,2:28
+5m shot - Saved,2.0,5,3,3,FRA,2.0,MILLOT E,3 - 3,119,FRA,1:59
+5m shot - Missed,6.0,5,3,3,FRA,2.0,LANDRY S,3 - 3,97,NZL,1:37
+20 sec. exclusion in field,10.0,5,3,3,FRA,2.0,DANCE L,3 - 3,97,NZL,1:37
+Time-Out,,5,3,3,FRA,2.0,,3 - 3,97,FRA,1:37
+Action shot - Post,12.0,5,3,3,FRA,2.0,JASKOVA M,3 - 3,68,FRA,1:08
+Turnover foul,12.0,5,3,3,FRA,2.0,MYLES J,3 - 3,56,NZL,0:56
+20 sec. exclusion in field,8.0,5,3,3,FRA,2.0,LOPES DA SILVA C,3 - 3,55,NZL,0:55
+Turnover foul,2.0,5,3,3,FRA,2.0,MILLOT E,3 - 3,31,FRA,0:31
+Steal,4.0,5,3,3,FRA,2.0,LEWIS D,3 - 3,31,NZL,0:31
+Time-Out,,5,3,3,FRA,2.0,,3 - 3,30,NZL,0:30
+Action shot - Goal,3.0,5,4,3,FRA,2.0,PATTISON S,4 - 3,14,NZL,0:14
+5m shot - Goal,5.0,5,4,4,FRA,2.0,GUILLET L,4 - 4,1,FRA,0:01
+Starting goalkeeper,1.0,5,4,4,FRA,3.0,MILLAR B,4 - 4,480,NZL,8:00
+Starting goalkeeper,1.0,5,4,4,FRA,3.0,DERENTY L,4 - 4,480,FRA,8:00
+Sprint won possession,4.0,5,4,4,FRA,3.0,SACRE A,4 - 4,480,FRA,8:00
+Action shot - Saved,4.0,5,4,4,FRA,3.0,SACRE A,4 - 4,452,FRA,7:32
+Turnover foul,3.0,5,4,4,FRA,3.0,PATTISON S,4 - 4,424,NZL,7:04
+Steal,2.0,5,4,4,FRA,3.0,MILLOT E,4 - 4,424,FRA,7:04
+Turnover foul,5.0,5,4,4,FRA,3.0,GUILLET L,4 - 4,406,FRA,6:46
+Steal,6.0,5,4,4,FRA,3.0,LANDRY S,4 - 4,406,NZL,6:46
+5m shot - Blocked,8.0,5,4,4,FRA,3.0,LOPES DA SILVA C,4 - 4,384,NZL,6:24
+5m shot - Goal,2.0,5,4,5,FRA,3.0,MILLOT E,4 - 5,361,FRA,6:01
+Turnover foul,2.0,5,4,5,FRA,3.0,LEWIS N,4 - 5,342,NZL,5:42
+Action shot - Saved,5.0,5,4,5,FRA,3.0,GUILLET L,4 - 5,327,FRA,5:27
+Turnover foul,3.0,5,4,5,FRA,3.0,BACHELIER L,4 - 5,305,FRA,5:05
+20 sec. exclusion in centre,5.0,5,4,5,FRA,3.0,GUILLET L,4 - 5,287,FRA,4:47
+Turnover foul,4.0,5,4,5,FRA,3.0,LEWIS D,4 - 5,267,NZL,4:27
+Steal,2.0,5,4,5,FRA,3.0,MILLOT E,4 - 5,267,FRA,4:27
+5m shot - Missed,2.0,5,4,5,FRA,3.0,MILLOT E,4 - 5,246,FRA,4:06
+Turnover foul,12.0,5,4,5,FRA,3.0,MYLES J,4 - 5,219,NZL,3:39
+Steal,1.0,5,4,5,FRA,3.0,DERENTY L,4 - 5,219,FRA,3:39
+20 sec. exclusion in centre,9.0,5,4,5,FRA,3.0,STONEMAN E,4 - 5,201,NZL,3:21
+Extra player shot - Saved,3.0,5,4,5,FRA,3.0,BACHELIER L,4 - 5,185,FRA,3:05
+5m shot - Goal,6.0,5,5,5,FRA,3.0,LANDRY S,5 - 5,173,NZL,2:53
+20 sec. exclusion in centre,11.0,5,5,5,FRA,3.0,HUDSON K,5 - 5,147,NZL,2:27
+5m shot - Post,2.0,5,5,5,FRA,3.0,MILLOT E,5 - 5,126,FRA,2:06
+5m shot - Blocked,6.0,5,5,5,FRA,3.0,LANDRY S,5 - 5,99,NZL,1:39
+Turnover foul,8.0,5,5,5,FRA,3.0,TARDY M,5 - 5,77,FRA,1:17
+Steal,4.0,5,5,5,FRA,3.0,LEWIS D,5 - 5,77,NZL,1:17
+Action shot - Saved,8.0,5,5,5,FRA,3.0,LOPES DA SILVA C,5 - 5,54,NZL,0:54
+20 sec. exclusion in centre,8.0,5,5,5,FRA,3.0,LOPES DA SILVA C,5 - 5,38,NZL,0:38
+Extra player shot - Goal,8.0,5,5,6,FRA,3.0,TARDY M,5 - 6,19,FRA,0:19
+Time-Out,,5,5,6,FRA,3.0,,5 - 6,19,NZL,0:19
+Turnover foul,2.0,5,5,6,FRA,3.0,LEWIS N,5 - 6,7,NZL,0:07
+Time-Out,,5,5,6,FRA,3.0,,5 - 6,7,FRA,0:07
+5m shot - Missed,4.0,5,5,6,FRA,3.0,SACRE A,5 - 6,1,FRA,0:01
+Starting goalkeeper,1.0,5,5,6,FRA,4.0,MILLAR B,5 - 6,480,NZL,8:00
+Starting goalkeeper,1.0,5,5,6,FRA,4.0,DERENTY L,5 - 6,480,FRA,8:00
+Sprint won possession,6.0,5,5,6,FRA,4.0,LANDRY S,5 - 6,480,NZL,8:00
+20 sec. exclusion in centre,7.0,5,5,6,FRA,4.0,BARBIEUX M,5 - 6,468,FRA,7:48
+Extra player shot - Goal,8.0,5,6,6,FRA,4.0,LOPES DA SILVA C,6 - 6,453,NZL,7:33
+Turnover foul,5.0,5,6,6,FRA,4.0,GUILLET L,6 - 6,437,FRA,7:17
+5m shot - Missed,6.0,5,6,6,FRA,4.0,LANDRY S,6 - 6,410,NZL,6:50
+5m shot - Saved,12.0,5,6,6,FRA,4.0,MYLES J,6 - 6,358,NZL,5:58
+5m shot - Missed,4.0,5,6,6,FRA,4.0,SACRE A,6 - 6,333,FRA,5:33
+20 sec. exclusion in centre,8.0,5,6,6,FRA,4.0,TARDY M,6 - 6,306,FRA,5:06
+Extra player shot - Post,2.0,5,6,6,FRA,4.0,LEWIS N,6 - 6,287,NZL,4:47
+Turnover foul,5.0,5,6,6,FRA,4.0,GUILLET L,6 - 6,258,FRA,4:18
+Steal,6.0,5,6,6,FRA,4.0,LANDRY S,6 - 6,258,NZL,4:18
+Turnover foul,6.0,5,6,6,FRA,4.0,LANDRY S,6 - 6,242,NZL,4:02
+20 sec. exclusion in centre,12.0,5,6,6,FRA,4.0,MYLES J,6 - 6,217,NZL,3:37
+Centre shot - Saved,4.0,5,6,6,FRA,4.0,SACRE A,6 - 6,196,FRA,3:16
+Counter attack - Saved,8.0,5,6,6,FRA,4.0,LOPES DA SILVA C,6 - 6,179,NZL,2:59
+Turnover foul,8.0,5,6,6,FRA,4.0,TARDY M,6 - 6,150,FRA,2:30
+5m shot - Saved,12.0,5,6,6,FRA,4.0,MYLES J,6 - 6,124,NZL,2:04
+5m shot - Goal,12.0,5,7,6,FRA,4.0,MYLES J,7 - 6,105,NZL,1:45
+5m shot - Missed,2.0,5,7,6,FRA,4.0,MILLOT E,7 - 6,77,FRA,1:17
+5m shot - Saved,2.0,5,7,6,FRA,4.0,MILLOT E,7 - 6,19,FRA,0:19
+Time-Out,,5,7,6,FRA,4.0,,7 - 6,15,FRA,0:15

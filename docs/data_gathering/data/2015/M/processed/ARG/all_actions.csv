@@ -1,0 +1,655 @@
+ARG,Action,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+0,Starting goalkeeper,1.0,1,0,RSA,1.0,FLATSCHER D,0 - 0,480,RSA,8:00
+0,Starting goalkeeper,1.0,1,0,RSA,1.0,MALNERO D,0 - 0,480,ARG,8:00
+0,Sprint won possession,11.0,1,0,RSA,1.0,MOLYNEUX N,0 - 0,480,RSA,8:00
+0,20 sec. exclusion in centre,9.0,1,0,RSA,1.0,CARABANTES I,0 - 0,462,ARG,7:42
+0,Turnover foul,3.0,1,0,RSA,1.0,CARD D,0 - 0,436,RSA,7:16
+0,20 sec. exclusion in centre,3.0,1,0,RSA,1.0,CARD D,0 - 0,415,RSA,6:55
+0,Extra player shot - Post,9.0,1,0,RSA,1.0,CARABANTES I,0 - 0,388,ARG,6:28
+0,Penalty foul,5.0,1,0,RSA,1.0,LOPEZ E,0 - 0,375,ARG,6:15
+0,Penalty shot - Goal,10.0,1,1,RSA,1.0,LE ROUX P,1 - 0,375,RSA,6:15
+0,5m shot - Saved,6.0,1,1,RSA,1.0,BULGHERONI T,1 - 0,343,ARG,5:43
+0,20 sec. exclusion in centre,12.0,1,1,RSA,1.0,YANEZ G,1 - 0,327,ARG,5:27
+0,Extra player shot - Goal,2.0,1,2,RSA,1.0,LE ROUX E,2 - 0,304,RSA,5:04
+0,5m shot - Post,2.0,1,2,RSA,1.0,VEICH R,2 - 0,292,ARG,4:52
+0,20 sec. exclusion in centre,9.0,1,2,RSA,1.0,CARABANTES I,2 - 0,273,ARG,4:33
+0,Extra player shot - Goal,6.0,1,3,RSA,1.0,DE CARVALHO J,3 - 0,252,RSA,4:12
+0,Turnover foul,2.0,1,3,RSA,1.0,VEICH R,3 - 0,238,ARG,3:58
+0,Steal,10.0,1,3,RSA,1.0,LE ROUX P,3 - 0,238,RSA,3:58
+0,Centre shot - Saved,11.0,1,3,RSA,1.0,MOLYNEUX N,3 - 0,221,RSA,3:41
+0,Action shot - Goal,3.0,1,4,RSA,1.0,CARD D,4 - 0,221,RSA,3:41
+0,Time-Out,,1,4,RSA,1.0,,4 - 0,221,ARG,3:41
+0,20 sec. exclusion in centre,11.0,1,4,RSA,1.0,MOLYNEUX N,4 - 0,209,RSA,3:29
+1,Extra player shot - Goal,12.0,1,4,RSA,1.0,YANEZ G,4 - 1,207,ARG,3:27
+1,20 sec. exclusion in centre,4.0,1,4,RSA,1.0,MONUTTI A,4 - 1,188,ARG,3:08
+1,Time-Out,,1,4,RSA,1.0,,4 - 1,188,RSA,3:08
+1,Extra player shot - Goal,4.0,1,5,RSA,1.0,BADENHORST I,5 - 1,170,RSA,2:50
+1,Turnover foul,12.0,1,5,RSA,1.0,YANEZ G,5 - 1,145,ARG,2:25
+1,Centre shot - Saved,10.0,1,5,RSA,1.0,LE ROUX P,5 - 1,129,RSA,2:09
+1,20 sec. exclusion in centre,7.0,1,5,RSA,1.0,JAGGA D,5 - 1,120,RSA,2:00
+1,Centre shot - Post,11.0,1,5,RSA,1.0,MOLYNEUX N,5 - 1,71,RSA,1:11
+1,Penalty foul,4.0,1,5,RSA,1.0,MONUTTI A,5 - 1,71,ARG,1:11
+1,Penalty shot - Goal,2.0,1,6,RSA,1.0,LE ROUX E,6 - 1,71,RSA,1:11
+2,5m shot - Goal,2.0,1,6,RSA,1.0,VEICH R,6 - 2,51,ARG,0:51
+2,5m shot - Blocked,9.0,1,6,RSA,1.0,CARABANTES I,6 - 2,13,ARG,0:13
+2,20 sec. exclusion in centre,9.0,1,6,RSA,1.0,WHYTE D,6 - 2,6,RSA,0:06
+2,Starting goalkeeper,1.0,1,6,RSA,2.0,FLATSCHER D,6 - 2,480,RSA,8:00
+2,Starting goalkeeper,1.0,1,6,RSA,2.0,MALNERO D,6 - 2,480,ARG,8:00
+2,Sprint won possession,11.0,1,6,RSA,2.0,MOLYNEUX N,6 - 2,480,RSA,8:00
+2,Turnover foul,11.0,1,6,RSA,2.0,MOLYNEUX N,6 - 2,451,RSA,7:31
+3,Action shot - Goal,12.0,1,6,RSA,2.0,YANEZ G,6 - 3,433,ARG,7:13
+3,5m shot - Missed,10.0,1,6,RSA,2.0,LE ROUX P,6 - 3,409,RSA,6:49
+3,Action shot - Saved,12.0,1,6,RSA,2.0,YANEZ G,6 - 3,381,ARG,6:21
+3,Turnover foul,12.0,1,6,RSA,2.0,YANEZ G,6 - 3,367,ARG,6:07
+3,Turnover foul,10.0,1,6,RSA,2.0,LE ROUX P,6 - 3,350,RSA,5:50
+3,Turnover foul,9.0,1,6,RSA,2.0,CARABANTES I,6 - 3,342,ARG,5:42
+3,Action shot - Saved,11.0,1,6,RSA,2.0,MOLYNEUX N,6 - 3,325,RSA,5:25
+3,20 sec. exclusion in centre,6.0,1,6,RSA,2.0,DE CARVALHO J,6 - 3,302,RSA,5:02
+3,Turnover foul,12.0,1,6,RSA,2.0,YANEZ G,6 - 3,288,ARG,4:48
+3,Turnover foul,6.0,1,6,RSA,2.0,DE CARVALHO J,6 - 3,267,RSA,4:27
+3,Steal,6.0,1,6,RSA,2.0,BULGHERONI T,6 - 3,267,ARG,4:27
+3,20 sec. exclusion in field,10.0,1,6,RSA,2.0,LE ROUX P,6 - 3,254,RSA,4:14
+3,Turnover foul,12.0,1,6,RSA,2.0,YANEZ G,6 - 3,227,ARG,3:47
+3,Steal,2.0,1,6,RSA,2.0,LE ROUX E,6 - 3,227,RSA,3:47
+3,Time-Out,,1,6,RSA,2.0,,6 - 3,227,RSA,3:47
+3,20 sec. exclusion in centre,5.0,1,6,RSA,2.0,LOPEZ E,6 - 3,209,ARG,3:29
+3,Extra player shot - Goal,5.0,1,7,RSA,2.0,HOCK N,7 - 3,198,RSA,3:18
+3,5m shot - Post,12.0,1,7,RSA,2.0,YANEZ G,7 - 3,179,ARG,2:59
+3,Turnover foul,5.0,1,7,RSA,2.0,HOCK N,7 - 3,151,RSA,2:31
+3,Steal,9.0,1,7,RSA,2.0,CARABANTES I,7 - 3,151,ARG,2:31
+3,20 sec. exclusion in centre,2.0,1,7,RSA,2.0,LE ROUX E,7 - 3,133,RSA,2:13
+3,Time-Out,,1,7,RSA,2.0,,7 - 3,133,ARG,2:13
+4,Extra player shot - Goal,2.0,1,7,RSA,2.0,VEICH R,7 - 4,111,ARG,1:51
+4,Action shot - Blocked,5.0,1,7,RSA,2.0,HOCK N,7 - 4,86,RSA,1:26
+4,5m shot - Blocked,12.0,1,7,RSA,2.0,YANEZ G,7 - 4,58,ARG,0:58
+4,5m shot - Post,2.0,1,7,RSA,2.0,LE ROUX E,7 - 4,17,RSA,0:17
+4,5m shot - Saved,9.0,1,7,RSA,2.0,CARABANTES I,7 - 4,7,ARG,0:07
+4,20 sec. exclusion in centre,2.0,1,7,RSA,2.0,VEICH R,7 - 4,0,ARG,0:00
+4,5m shot - Missed,10.0,1,7,RSA,2.0,LE ROUX P,7 - 4,0,RSA,0:00
+4,Starting goalkeeper,1.0,1,7,RSA,3.0,FLATSCHER D,7 - 4,480,RSA,8:00
+4,Starting goalkeeper,1.0,1,7,RSA,3.0,MALNERO D,7 - 4,480,ARG,8:00
+4,Sprint won possession,11.0,1,7,RSA,3.0,DEMARCHI F,7 - 4,480,ARG,8:00
+4,20 sec. exclusion in centre,11.0,1,7,RSA,3.0,MOLYNEUX N,7 - 4,438,RSA,7:18
+4,Extra player shot - Saved,12.0,1,7,RSA,3.0,YANEZ G,7 - 4,416,ARG,6:56
+4,5m shot - Saved,11.0,1,7,RSA,3.0,DEMARCHI F,7 - 4,364,ARG,6:04
+4,20 sec. exclusion in field,2.0,1,7,RSA,3.0,LE ROUX E,7 - 4,338,RSA,5:38
+4,Extra player shot - Blocked,6.0,1,7,RSA,3.0,BULGHERONI T,7 - 4,314,ARG,5:14
+4,20 sec. exclusion in centre,3.0,1,7,RSA,3.0,CARD D,7 - 4,301,RSA,5:01
+4,Centre shot - Saved,2.0,1,7,RSA,3.0,VEICH R,7 - 4,294,ARG,4:54
+4,Penalty foul,2.0,1,7,RSA,3.0,VEICH R,7 - 4,265,ARG,4:25
+4,Penalty shot - Goal,10.0,1,8,RSA,3.0,LE ROUX P,8 - 4,265,RSA,4:25
+4,20 sec. exclusion in field,7.0,1,8,RSA,3.0,JAGGA D,8 - 4,255,RSA,4:15
+4,Extra player shot - Post,11.0,1,8,RSA,3.0,DEMARCHI F,8 - 4,241,ARG,4:01
+4,Turnover foul,12.0,1,8,RSA,3.0,YANEZ G,8 - 4,203,ARG,3:23
+4,5m shot - Saved,8.0,1,8,RSA,3.0,WINGATE-PEARSE J,8 - 4,170,RSA,2:50
+4,20 sec. exclusion in centre,12.0,1,8,RSA,3.0,BOHATA W,8 - 4,150,RSA,2:30
+4,Time-Out,,1,8,RSA,3.0,,8 - 4,150,ARG,2:30
+4,Turnover foul,9.0,1,8,RSA,3.0,CARABANTES I,8 - 4,128,ARG,2:08
+4,Steal,8.0,1,8,RSA,3.0,WINGATE-PEARSE J,8 - 4,128,RSA,2:08
+4,Action shot - Post,4.0,1,8,RSA,3.0,BADENHORST I,8 - 4,105,RSA,1:45
+4,Turnover foul,9.0,1,8,RSA,3.0,CARABANTES I,8 - 4,90,ARG,1:30
+4,Time-Out,,1,8,RSA,3.0,,8 - 4,90,RSA,1:30
+4,Turnover foul,9.0,1,8,RSA,3.0,WHYTE D,8 - 4,62,RSA,1:02
+4,Steal,6.0,1,8,RSA,3.0,BULGHERONI T,8 - 4,62,ARG,1:02
+5,Action shot - Goal,6.0,1,8,RSA,3.0,BULGHERONI T,8 - 5,41,ARG,0:41
+5,5m shot - Saved,2.0,1,8,RSA,3.0,LE ROUX E,8 - 5,13,RSA,0:13
+5,Turnover foul,7.0,1,8,RSA,3.0,JAGGA D,8 - 5,2,RSA,0:02
+5,Steal,2.0,1,8,RSA,3.0,VEICH R,8 - 5,2,ARG,0:02
+5,5m shot - Missed,2.0,1,8,RSA,3.0,VEICH R,8 - 5,1,ARG,0:01
+5,Starting goalkeeper,1.0,1,8,RSA,4.0,FLATSCHER D,8 - 5,480,RSA,8:00
+5,Starting goalkeeper,1.0,1,8,RSA,4.0,MALNERO D,8 - 5,480,ARG,8:00
+5,Sprint won possession,11.0,1,8,RSA,4.0,MOLYNEUX N,8 - 5,480,RSA,8:00
+6,5m shot - Goal,12.0,1,8,RSA,4.0,YANEZ G,8 - 6,427,ARG,7:07
+6,Turnover foul,7.0,1,8,RSA,4.0,JAGGA D,8 - 6,397,RSA,6:37
+6,Steal,11.0,1,8,RSA,4.0,DEMARCHI F,8 - 6,397,ARG,6:37
+6,5m shot - Saved,12.0,1,8,RSA,4.0,YANEZ G,8 - 6,377,ARG,6:17
+6,Centre shot - Goal,10.0,1,9,RSA,4.0,LE ROUX P,9 - 6,356,RSA,5:56
+6,5m shot - Post,2.0,1,9,RSA,4.0,VEICH R,9 - 6,326,ARG,5:26
+6,Turnover foul,10.0,1,9,RSA,4.0,LE ROUX P,9 - 6,302,RSA,5:02
+6,Steal,11.0,1,9,RSA,4.0,DEMARCHI F,9 - 6,302,ARG,5:02
+6,Turnover foul,2.0,1,9,RSA,4.0,VEICH R,9 - 6,279,ARG,4:39
+6,Steal,10.0,1,9,RSA,4.0,LE ROUX P,9 - 6,279,RSA,4:39
+6,5m shot - Blocked,6.0,1,9,RSA,4.0,BULGHERONI T,9 - 6,228,ARG,3:48
+6,Time-Out,,1,9,RSA,4.0,,9 - 6,228,RSA,3:48
+6,Turnover foul,10.0,1,9,RSA,4.0,LE ROUX P,9 - 6,199,RSA,3:19
+6,Counter attack - Saved,11.0,1,9,RSA,4.0,DEMARCHI F,9 - 6,190,ARG,3:10
+6,5m shot - Saved,9.0,1,9,RSA,4.0,CARABANTES I,9 - 6,138,ARG,2:18
+6,Time-Out,,1,9,RSA,4.0,,9 - 6,137,ARG,2:17
+6,20 sec. exclusion in field,10.0,1,9,RSA,4.0,LE ROUX P,9 - 6,118,RSA,1:58
+6,Action shot - Saved,8.0,1,9,RSA,4.0,CORSI E,9 - 6,93,ARG,1:33
+6,Action shot - Saved,6.0,1,9,RSA,4.0,BULGHERONI T,9 - 6,47,ARG,0:47
+6,Counter attack - Goal,2.0,1,10,RSA,4.0,LE ROUX E,10 - 6,39,RSA,0:39
+6,Turnover foul,2.0,1,10,RSA,4.0,VEICH R,10 - 6,16,ARG,0:16
+6,Steal,11.0,1,10,RSA,4.0,MOLYNEUX N,10 - 6,16,RSA,0:16
+0,Starting goalkeeper,13.0,2,0,KAZ,1.0,SHLEMOV V,0 - 0,480,KAZ,8:00
+0,Starting goalkeeper,1.0,2,0,KAZ,1.0,MALNERO D,0 - 0,480,ARG,8:00
+0,Sprint won possession,6.0,2,0,KAZ,1.0,BULGHERONI T,0 - 0,480,ARG,8:00
+0,Turnover foul,6.0,2,0,KAZ,1.0,BULGHERONI T,0 - 0,451,ARG,7:31
+0,20 sec. exclusion in centre,2.0,2,0,KAZ,1.0,VEICH R,0 - 0,439,ARG,7:19
+0,20 sec. exclusion in centre,8.0,2,0,KAZ,1.0,KOLIADENKO A,0 - 0,398,KAZ,6:38
+1,Extra player shot - Goal,6.0,2,0,KAZ,1.0,BULGHERONI T,0 - 1,380,ARG,6:20
+1,Action shot - Goal,6.0,2,1,KAZ,1.0,SHMIDER A,1 - 1,355,KAZ,5:55
+1,Turnover foul,6.0,2,1,KAZ,1.0,SHMIDER A,1 - 1,319,KAZ,5:19
+1,Steal,6.0,2,1,KAZ,1.0,BULGHERONI T,1 - 1,319,ARG,5:19
+1,20 sec. exclusion in centre,4.0,2,1,KAZ,1.0,PILIPENKO R,1 - 1,310,KAZ,5:10
+1,Extra player shot - Saved,12.0,2,1,KAZ,1.0,YANEZ G,1 - 1,293,ARG,4:53
+1,Action shot - Goal,3.0,2,2,KAZ,1.0,AXENOV A,2 - 1,280,KAZ,4:40
+1,Action shot - Saved,11.0,2,2,KAZ,1.0,DEMARCHI F,2 - 1,253,ARG,4:13
+1,Action shot - Goal,4.0,2,3,KAZ,1.0,PILIPENKO R,3 - 1,233,KAZ,3:53
+1,Action shot - Saved,5.0,2,3,KAZ,1.0,LOPEZ E,3 - 1,205,ARG,3:25
+1,Counter attack - Goal,3.0,2,4,KAZ,1.0,AXENOV A,4 - 1,194,KAZ,3:14
+1,Time-Out,,2,4,KAZ,1.0,,4 - 1,194,ARG,3:14
+1,Turnover foul,9.0,2,4,KAZ,1.0,CARABANTES I,4 - 1,178,ARG,2:58
+1,Steal,2.0,2,4,KAZ,1.0,GUBAREV S,4 - 1,178,KAZ,2:58
+1,Turnover foul,2.0,2,4,KAZ,1.0,GUBAREV S,4 - 1,154,KAZ,2:34
+1,Steal,9.0,2,4,KAZ,1.0,CARABANTES I,4 - 1,154,ARG,2:34
+1,Turnover foul,12.0,2,4,KAZ,1.0,YANEZ G,4 - 1,142,ARG,2:22
+1,Steal,13.0,2,4,KAZ,1.0,SHLEMOV V,4 - 1,142,KAZ,2:22
+1,20 sec. exclusion in centre,8.0,2,4,KAZ,1.0,CORSI E,4 - 1,130,ARG,2:10
+1,Time-Out,,2,4,KAZ,1.0,,4 - 1,130,KAZ,2:10
+1,Extra player shot - Saved,3.0,2,4,KAZ,1.0,AXENOV A,4 - 1,107,KAZ,1:47
+1,Turnover foul,12.0,2,4,KAZ,1.0,YANEZ G,4 - 1,97,ARG,1:37
+2,Counter attack - Goal,12.0,2,4,KAZ,1.0,YANEZ G,4 - 2,96,ARG,1:36
+2,5m shot - Post,9.0,2,4,KAZ,1.0,UKUMANOV R,4 - 2,69,KAZ,1:09
+2,Turnover foul,12.0,2,4,KAZ,1.0,YANEZ G,4 - 2,57,ARG,0:57
+2,20 sec. exclusion in centre,4.0,2,4,KAZ,1.0,MONUTTI A,4 - 2,57,ARG,0:57
+2,Extra player shot - Goal,7.0,2,5,KAZ,1.0,SHAKENOV M,5 - 2,36,KAZ,0:36
+2,5m shot - Missed,12.0,2,5,KAZ,1.0,YANEZ G,5 - 2,13,ARG,0:13
+2,Turnover foul,7.0,2,5,KAZ,1.0,SHAKENOV M,5 - 2,13,KAZ,0:13
+2,20 sec. exclusion in centre,6.0,2,5,KAZ,1.0,SHMIDER A,5 - 2,2,KAZ,0:02
+2,Starting goalkeeper,13.0,2,5,KAZ,2.0,SHLEMOV V,5 - 2,480,KAZ,8:00
+2,Starting goalkeeper,1.0,2,5,KAZ,2.0,MALNERO D,5 - 2,480,ARG,8:00
+2,Sprint won possession,7.0,2,5,KAZ,2.0,SHAKENOV M,5 - 2,480,KAZ,8:00
+2,Action shot - Post,6.0,2,5,KAZ,2.0,SHMIDER A,5 - 2,451,KAZ,7:31
+2,5m shot - Missed,2.0,2,5,KAZ,2.0,VEICH R,5 - 2,422,ARG,7:02
+2,5m shot - Saved,2.0,2,5,KAZ,2.0,GUBAREV S,5 - 2,397,KAZ,6:37
+2,Turnover foul,11.0,2,5,KAZ,2.0,MANAFOV R,5 - 2,386,KAZ,6:26
+2,Turnover foul,7.0,2,5,KAZ,2.0,MONTANE J,5 - 2,371,ARG,6:11
+2,20 sec. exclusion in field,11.0,2,5,KAZ,2.0,DEMARCHI F,5 - 2,352,ARG,5:52
+2,Extra player shot - Post,6.0,2,5,KAZ,2.0,SHMIDER A,5 - 2,345,KAZ,5:45
+2,Extra player shot - Goal,6.0,2,6,KAZ,2.0,SHMIDER A,6 - 2,334,KAZ,5:34
+2,20 sec. exclusion in field,8.0,2,6,KAZ,2.0,KOLIADENKO A,6 - 2,315,KAZ,5:15
+2,Extra player shot - Saved,12.0,2,6,KAZ,2.0,YANEZ G,6 - 2,295,ARG,4:55
+3,Extra player shot - Goal,2.0,2,6,KAZ,2.0,VEICH R,6 - 3,295,ARG,4:55
+3,20 sec. exclusion in field,9.0,2,6,KAZ,2.0,UKUMANOV R,6 - 3,269,KAZ,4:29
+3,Time-Out,,2,6,KAZ,2.0,,6 - 3,268,ARG,4:28
+3,Action shot - Post,12.0,2,6,KAZ,2.0,YANEZ G,6 - 3,242,ARG,4:02
+3,Turnover foul,7.0,2,6,KAZ,2.0,SHAKENOV M,6 - 3,237,KAZ,3:57
+4,5m shot - Goal,9.0,2,6,KAZ,2.0,CARABANTES I,6 - 4,232,ARG,3:52
+4,5m shot - Goal,3.0,2,7,KAZ,2.0,AXENOV A,7 - 4,211,KAZ,3:31
+4,Turnover foul,4.0,2,7,KAZ,2.0,MONUTTI A,7 - 4,184,ARG,3:04
+4,Steal,10.0,2,7,KAZ,2.0,MEDVEDEV Y,7 - 4,184,KAZ,3:04
+4,20 sec. exclusion in centre,12.0,2,7,KAZ,2.0,YANEZ G,7 - 4,161,ARG,2:41
+4,Action shot - Saved,12.0,2,7,KAZ,2.0,YANEZ G,7 - 4,120,ARG,2:00
+4,Action shot - Goal,3.0,2,8,KAZ,2.0,AXENOV A,8 - 4,76,KAZ,1:16
+4,Action shot - Saved,9.0,2,8,KAZ,2.0,CARABANTES I,8 - 4,52,ARG,0:52
+4,20 sec. exclusion in centre,11.0,2,8,KAZ,2.0,DEMARCHI F,8 - 4,34,ARG,0:34
+4,Time-Out,,2,8,KAZ,2.0,,8 - 4,34,KAZ,0:34
+4,Extra player shot - Post,6.0,2,8,KAZ,4.0,BULGHERONI T,8 - 4,111,ARG,1:51
+4,Action shot - Saved,12.0,2,8,KAZ,4.0,PEKOVICH B,8 - 4,88,KAZ,1:28
+4,Turnover foul,3.0,2,8,KAZ,4.0,AXENOV A,8 - 4,40,KAZ,0:40
+4,Extra player shot - Saved,12.0,2,8,KAZ,2.0,PEKOVICH B,8 - 4,14,KAZ,0:14
+5,Counter attack - Goal,12.0,2,8,KAZ,2.0,YANEZ G,8 - 5,4,ARG,0:04
+5,Starting goalkeeper,13.0,2,8,KAZ,3.0,SHLEMOV V,8 - 5,480,KAZ,8:00
+5,Starting goalkeeper,1.0,2,8,KAZ,3.0,MALNERO D,8 - 5,480,ARG,8:00
+5,Sprint won possession,6.0,2,8,KAZ,3.0,BULGHERONI T,8 - 5,480,ARG,8:00
+5,Turnover foul,11.0,2,8,KAZ,3.0,DEMARCHI F,8 - 5,451,ARG,7:31
+5,Steal,13.0,2,8,KAZ,3.0,SHLEMOV V,8 - 5,451,KAZ,7:31
+5,20 sec. exclusion in centre,2.0,2,8,KAZ,3.0,VEICH R,8 - 5,431,ARG,7:11
+5,Extra player shot - Goal,12.0,2,9,KAZ,3.0,PEKOVICH B,9 - 5,420,KAZ,7:00
+5,Turnover foul,6.0,2,9,KAZ,3.0,BULGHERONI T,9 - 5,392,ARG,6:32
+5,Centre shot - Goal,12.0,2,10,KAZ,3.0,PEKOVICH B,10 - 5,371,KAZ,6:11
+5,20 sec. exclusion in field,3.0,2,10,KAZ,3.0,AXENOV A,10 - 5,347,KAZ,5:47
+5,Extra player shot - Blocked,2.0,2,10,KAZ,3.0,VEICH R,10 - 5,322,ARG,5:22
+5,20 sec. exclusion in field,11.0,2,10,KAZ,3.0,DEMARCHI F,10 - 5,307,ARG,5:07
+5,Exclusion with substitution,11.0,2,10,KAZ,3.0,DEMARCHI F,10 - 5,307,ARG,5:07
+5,Turnover foul,11.0,2,10,KAZ,3.0,MANAFOV R,10 - 5,302,KAZ,5:02
+5,Action shot - Missed,2.0,2,10,KAZ,3.0,GUBAREV S,10 - 5,253,KAZ,4:13
+5,5m shot - Saved,2.0,2,10,KAZ,3.0,GUBAREV S,10 - 5,213,KAZ,3:33
+5,20 sec. exclusion in centre,6.0,2,10,KAZ,3.0,BULGHERONI T,10 - 5,204,ARG,3:24
+5,Time-Out,,2,10,KAZ,3.0,,10 - 5,207,KAZ,3:27
+5,Extra player shot - Goal,2.0,2,11,KAZ,3.0,GUBAREV S,11 - 5,184,KAZ,3:04
+5,Goalkeeper substitution,13.0,2,11,KAZ,3.0,TESTA F,11 - 5,184,ARG,3:04
+5,Goalkeeper substitution,1.0,2,11,KAZ,3.0,MALNERO D,11 - 5,181,ARG,3:01
+5,Turnover foul,5.0,2,11,KAZ,3.0,LOPEZ E,11 - 5,151,ARG,2:31
+5,Steal,7.0,2,11,KAZ,3.0,SHAKENOV M,11 - 5,151,KAZ,2:31
+5,Counter attack - Saved,2.0,2,11,KAZ,3.0,GUBAREV S,11 - 5,143,KAZ,2:23
+5,Turnover foul,9.0,2,11,KAZ,3.0,CARABANTES I,11 - 5,124,ARG,2:04
+5,Counter attack - Goal,2.0,2,12,KAZ,3.0,GUBAREV S,12 - 5,114,KAZ,1:54
+5,Time-Out,,2,12,KAZ,3.0,,12 - 5,114,ARG,1:54
+5,Action shot - Blocked,12.0,2,12,KAZ,3.0,YANEZ G,12 - 5,102,ARG,1:42
+5,Action shot - Saved,10.0,2,12,KAZ,3.0,MEDVEDEV Y,12 - 5,86,KAZ,1:26
+5,Action shot - Goal,12.0,2,13,KAZ,3.0,PEKOVICH B,13 - 5,86,KAZ,1:26
+5,20 sec. exclusion in centre,10.0,2,13,KAZ,3.0,MEDVEDEV Y,13 - 5,64,KAZ,1:04
+6,Extra player shot - Goal,12.0,2,13,KAZ,3.0,YANEZ G,13 - 6,60,ARG,1:00
+6,Action shot - Saved,7.0,2,13,KAZ,3.0,SHAKENOV M,13 - 6,35,KAZ,0:35
+6,20 sec. exclusion in centre,7.0,2,13,KAZ,3.0,MONTANE J,13 - 6,23,ARG,0:23
+6,Extra player shot - Saved,3.0,2,13,KAZ,3.0,AXENOV A,13 - 6,3,KAZ,0:03
+6,Starting goalkeeper,13.0,2,13,KAZ,4.0,SHLEMOV V,13 - 6,480,KAZ,8:00
+6,Starting goalkeeper,1.0,2,13,KAZ,4.0,MALNERO D,13 - 6,480,ARG,8:00
+6,Sprint won possession,6.0,2,13,KAZ,4.0,BULGHERONI T,13 - 6,480,ARG,8:00
+6,5m shot - Missed,5.0,2,13,KAZ,4.0,USHAKOV V,13 - 6,428,KAZ,7:08
+6,Turnover foul,5.0,2,13,KAZ,4.0,LOPEZ E,13 - 6,404,ARG,6:44
+6,Action shot - Saved,5.0,2,13,KAZ,4.0,USHAKOV V,13 - 6,397,KAZ,6:37
+6,20 sec. exclusion in centre,5.0,2,13,KAZ,4.0,LOPEZ E,13 - 6,384,ARG,6:24
+6,Extra player shot - Saved,6.0,2,13,KAZ,4.0,SHMIDER A,13 - 6,376,KAZ,6:16
+6,Turnover foul,8.0,2,13,KAZ,4.0,CORSI E,13 - 6,355,ARG,5:55
+6,Action shot - Missed,5.0,2,13,KAZ,4.0,USHAKOV V,13 - 6,338,KAZ,5:38
+6,Turnover foul,9.0,2,13,KAZ,4.0,CARABANTES I,13 - 6,312,ARG,5:12
+6,20 sec. exclusion in field,2.0,2,13,KAZ,4.0,VEICH R,13 - 6,312,ARG,5:12
+6,Exclusion with substitution,2.0,2,13,KAZ,4.0,VEICH R,13 - 6,312,ARG,5:12
+6,Time-Out,,2,13,KAZ,4.0,,13 - 6,312,KAZ,5:12
+6,Extra player shot - Goal,12.0,2,14,KAZ,4.0,PEKOVICH B,14 - 6,291,KAZ,4:51
+6,20 sec. exclusion in centre,6.0,2,14,KAZ,4.0,SHMIDER A,14 - 6,262,KAZ,4:22
+6,Extra player shot - Missed,9.0,2,14,KAZ,4.0,CARABANTES I,14 - 6,238,ARG,3:58
+6,20 sec. exclusion in field,10.0,2,14,KAZ,4.0,DASZCZYK J,14 - 6,238,ARG,3:58
+6,Action shot - Goal,6.0,2,15,KAZ,4.0,SHMIDER A,15 - 6,215,KAZ,3:35
+6,20 sec. exclusion in field,2.0,2,15,KAZ,4.0,GUBAREV S,15 - 6,193,KAZ,3:13
+6,Time-Out,,2,15,KAZ,4.0,,15 - 6,193,ARG,3:13
+6,20 sec. exclusion in centre,12.0,2,15,KAZ,4.0,PEKOVICH B,15 - 6,184,KAZ,3:04
+6,Extra player shot - Post,12.0,2,15,KAZ,4.0,YANEZ G,15 - 6,169,ARG,2:49
+6,Turnover foul,9.0,2,15,KAZ,4.0,UKUMANOV R,15 - 6,153,KAZ,2:33
+6,Steal,7.0,2,15,KAZ,4.0,MONTANE J,15 - 6,153,ARG,2:33
+6,20 sec. exclusion in field,8.0,2,15,KAZ,4.0,KOLIADENKO A,15 - 6,135,KAZ,2:15
+6,Exclusion with substitution,8.0,2,15,KAZ,4.0,KOLIADENKO A,15 - 6,135,KAZ,2:15
+6,Steal,9.0,2,15,KAZ,4.0,CARABANTES I,15 - 6,40,ARG,0:40
+7,Action shot - Goal,6.0,2,15,KAZ,4.0,BULGHERONI T,15 - 7,18,ARG,0:18
+0,Starting goalkeeper,1.0,3,0,HUN,1.0,NAGY V,0 - 0,480,HUN,8:00
+0,Starting goalkeeper,1.0,3,0,HUN,1.0,MALNERO D,0 - 0,480,ARG,8:00
+0,Sprint won possession,6.0,3,0,HUN,1.0,BULGHERONI T,0 - 0,480,ARG,8:00
+0,Action shot - Saved,5.0,3,0,HUN,1.0,LOPEZ E,0 - 0,452,ARG,7:32
+0,20 sec. exclusion in centre,9.0,3,0,HUN,1.0,VARGA D,0 - 0,448,HUN,7:28
+1,Action shot - Goal,5.0,3,0,HUN,1.0,LOPEZ E,0 - 1,432,ARG,7:12
+1,Turnover foul,3.0,3,0,HUN,1.0,MADARAS N,0 - 1,411,HUN,6:51
+1,Turnover foul,12.0,3,0,HUN,1.0,YANEZ G,0 - 1,398,ARG,6:38
+1,Steal,2.0,3,0,HUN,1.0,GOR-NAGY M,0 - 1,398,HUN,6:38
+1,Action shot - Goal,8.0,3,1,HUN,1.0,SZIVOS M,1 - 1,381,HUN,6:21
+1,5m shot - Missed,2.0,3,1,HUN,1.0,VEICH R,1 - 1,353,ARG,5:53
+1,Action shot - Goal,12.0,3,2,HUN,1.0,HARAI B,2 - 1,339,HUN,5:39
+1,Action shot - Missed,9.0,3,2,HUN,1.0,CARABANTES I,2 - 1,315,ARG,5:15
+1,20 sec. exclusion in centre,12.0,3,2,HUN,1.0,YANEZ G,2 - 1,295,ARG,4:55
+1,Extra player shot - Goal,3.0,3,3,HUN,1.0,MADARAS N,3 - 1,281,HUN,4:41
+1,Turnover foul,12.0,3,3,HUN,1.0,YANEZ G,3 - 1,253,ARG,4:13
+1,Counter attack - Goal,4.0,3,4,HUN,1.0,ERDELYI B,4 - 1,247,HUN,4:07
+1,Turnover foul,9.0,3,4,HUN,1.0,CARABANTES I,4 - 1,215,ARG,3:35
+1,20 sec. exclusion in centre,4.0,3,4,HUN,1.0,MONUTTI A,4 - 1,188,ARG,3:08
+1,Extra player shot - Goal,7.0,3,5,HUN,1.0,ANGYAL D,5 - 1,187,HUN,3:07
+1,20 sec. exclusion in centre,4.0,3,5,HUN,1.0,ERDELYI B,5 - 1,163,HUN,2:43
+1,Action shot - Post,8.0,3,5,HUN,1.0,CORSI E,5 - 1,136,ARG,2:16
+1,Turnover foul,4.0,3,5,HUN,1.0,ERDELYI B,5 - 1,117,HUN,1:57
+2,Action shot - Goal,11.0,3,5,HUN,1.0,DEMARCHI F,5 - 2,101,ARG,1:41
+2,20 sec. exclusion in centre,9.0,3,5,HUN,1.0,CARABANTES I,5 - 2,80,ARG,1:20
+2,Time-Out,,3,5,HUN,1.0,,5 - 2,46,ARG,0:46
+2,5m shot - Missed,8.0,3,5,HUN,1.0,CORSI E,5 - 2,28,ARG,0:28
+2,Time-Out,,3,5,HUN,1.0,,5 - 2,28,HUN,0:28
+2,20 sec. exclusion in centre,10.0,3,5,HUN,1.0,DASZCZYK J,5 - 2,10,ARG,0:10
+2,Extra player shot - Goal,6.0,3,6,HUN,1.0,HOSNYANSZKY N,6 - 2,1,HUN,0:01
+2,Starting goalkeeper,1.0,3,6,HUN,2.0,NAGY V,6 - 2,480,HUN,8:00
+2,Starting goalkeeper,1.0,3,6,HUN,2.0,MALNERO D,6 - 2,480,ARG,8:00
+2,Sprint won possession,4.0,3,6,HUN,2.0,ERDELYI B,6 - 2,480,HUN,8:00
+2,5m shot - Saved,9.0,3,6,HUN,2.0,VARGA D,6 - 2,454,HUN,7:34
+2,Turnover foul,11.0,3,6,HUN,2.0,BEDO K,6 - 2,429,HUN,7:09
+2,Steal,12.0,3,6,HUN,2.0,YANEZ G,6 - 2,429,ARG,7:09
+2,5m shot - Post,2.0,3,6,HUN,2.0,VEICH R,6 - 2,402,ARG,6:42
+2,Turnover foul,3.0,3,6,HUN,2.0,MADARAS N,6 - 2,383,HUN,6:23
+2,Turnover foul,11.0,3,6,HUN,2.0,DEMARCHI F,6 - 2,363,ARG,6:03
+2,Turnover foul,11.0,3,6,HUN,2.0,BEDO K,6 - 2,348,HUN,5:48
+2,5m shot - Post,9.0,3,6,HUN,2.0,CARABANTES I,6 - 2,320,ARG,5:20
+2,20 sec. exclusion in centre,11.0,3,6,HUN,2.0,DEMARCHI F,6 - 2,301,ARG,5:01
+2,Action shot - Missed,7.0,3,6,HUN,2.0,ANGYAL D,6 - 2,272,HUN,4:32
+2,5m shot - Saved,12.0,3,6,HUN,2.0,YANEZ G,6 - 2,264,ARG,4:24
+2,Centre shot - Goal,8.0,3,7,HUN,2.0,SZIVOS M,7 - 2,248,HUN,4:08
+2,20 sec. exclusion in centre,4.0,3,7,HUN,2.0,ERDELYI B,7 - 2,227,HUN,3:47
+2,Time-Out,,3,7,HUN,2.0,,7 - 2,227,ARG,3:47
+2,5m shot - Blocked,9.0,3,7,HUN,2.0,CARABANTES I,7 - 2,205,ARG,3:25
+2,20 sec. exclusion in centre,4.0,3,7,HUN,2.0,MONUTTI A,7 - 2,187,ARG,3:07
+2,Turnover foul,12.0,3,7,HUN,2.0,YANEZ G,7 - 2,136,ARG,2:16
+2,Steal,1.0,3,7,HUN,2.0,NAGY V,7 - 2,136,HUN,2:16
+2,20 sec. exclusion in centre,10.0,3,7,HUN,2.0,DASZCZYK J,7 - 2,114,ARG,1:54
+2,Time-Out,,3,7,HUN,2.0,,7 - 2,114,HUN,1:54
+2,Extra player shot - Goal,8.0,3,8,HUN,2.0,SZIVOS M,8 - 2,93,HUN,1:33
+2,5m shot - Saved,9.0,3,8,HUN,2.0,CARABANTES I,8 - 2,61,ARG,1:01
+2,Penalty foul,2.0,3,8,HUN,2.0,VEICH R,8 - 2,42,ARG,0:42
+2,Penalty shot - Goal,5.0,3,9,HUN,2.0,VAMOS M,9 - 2,42,HUN,0:42
+3,Action shot - Goal,12.0,3,9,HUN,2.0,YANEZ G,9 - 3,20,ARG,0:20
+3,5m shot - Saved,10.0,3,9,HUN,2.0,VARGA D,9 - 3,0,HUN,0:00
+3,5m shot - Saved,8.0,3,9,HUN,2.0,SZIVOS M,9 - 3,0,HUN,0:00
+3,Starting goalkeeper,1.0,3,9,HUN,3.0,NAGY V,9 - 3,480,HUN,8:00
+3,Starting goalkeeper,1.0,3,9,HUN,3.0,MALNERO D,9 - 3,480,ARG,8:00
+3,Sprint won possession,10.0,3,9,HUN,3.0,VARGA D,9 - 3,480,HUN,8:00
+3,Action shot - Goal,10.0,3,10,HUN,3.0,VARGA D,10 - 3,453,HUN,7:33
+3,Turnover foul,9.0,3,10,HUN,3.0,CARABANTES I,10 - 3,418,ARG,6:58
+3,Turnover foul,3.0,3,10,HUN,3.0,MADARAS N,10 - 3,398,HUN,6:38
+4,Action shot - Goal,5.0,3,10,HUN,3.0,LOPEZ E,10 - 4,382,ARG,6:22
+4,Action shot - Goal,12.0,3,11,HUN,3.0,HARAI B,11 - 4,361,HUN,6:01
+4,5m shot - Saved,11.0,3,11,HUN,3.0,DEMARCHI F,11 - 4,338,ARG,5:38
+4,Action shot - Blocked,10.0,3,11,HUN,3.0,VARGA D,11 - 4,317,HUN,5:17
+4,20 sec. exclusion in centre,4.0,3,11,HUN,3.0,MONUTTI A,11 - 4,317,ARG,5:17
+4,Exclusion with substitution,4.0,3,11,HUN,3.0,MONUTTI A,11 - 4,317,ARG,5:17
+4,Extra player shot - Goal,5.0,3,12,HUN,3.0,VAMOS M,12 - 4,299,HUN,4:59
+4,Double exclusion,5.0,3,12,HUN,3.0,VAMOS M,12 - 4,276,HUN,4:36
+4,Double exclusion,9.0,3,12,HUN,3.0,CARABANTES I,12 - 4,276,ARG,4:36
+4,Extra player shot - Goal,9.0,3,13,HUN,3.0,VARGA D,13 - 4,247,HUN,4:07
+4,5m shot - Saved,2.0,3,13,HUN,3.0,VEICH R,13 - 4,224,ARG,3:44
+4,20 sec. exclusion in centre,8.0,3,13,HUN,3.0,CORSI E,13 - 4,201,ARG,3:21
+4,Turnover foul,9.0,3,13,HUN,3.0,VARGA D,13 - 4,187,HUN,3:07
+4,5m shot - Saved,9.0,3,13,HUN,3.0,CARABANTES I,13 - 4,159,ARG,2:39
+4,20 sec. exclusion in centre,11.0,3,13,HUN,3.0,BEDO K,13 - 4,159,HUN,2:39
+4,Time-Out,,3,13,HUN,3.0,,13 - 4,159,ARG,2:39
+4,Turnover foul,7.0,3,13,HUN,3.0,MONTANE J,13 - 4,139,ARG,2:19
+4,Steal,7.0,3,13,HUN,3.0,ANGYAL D,13 - 4,139,HUN,2:19
+4,5m shot - Goal,6.0,3,14,HUN,3.0,HOSNYANSZKY N,14 - 4,111,HUN,1:51
+4,Turnover foul,7.0,3,14,HUN,3.0,MONTANE J,14 - 4,82,ARG,1:22
+4,Action shot - Saved,11.0,3,14,HUN,3.0,BEDO K,14 - 4,67,HUN,1:07
+4,5m shot - Missed,12.0,3,14,HUN,3.0,YANEZ G,14 - 4,36,ARG,0:36
+4,Time-Out,,3,14,HUN,3.0,,14 - 4,36,HUN,0:36
+4,20 sec. exclusion in centre,2.0,3,14,HUN,3.0,VEICH R,14 - 4,17,ARG,0:17
+4,Extra player shot - Goal,4.0,3,15,HUN,3.0,ERDELYI B,15 - 4,3,HUN,0:03
+4,5m shot - Blocked,2.0,3,15,HUN,3.0,VEICH R,15 - 4,1,ARG,0:01
+4,Starting goalkeeper,1.0,3,15,HUN,4.0,NAGY V,15 - 4,480,HUN,8:00
+4,Starting goalkeeper,1.0,3,15,HUN,4.0,MALNERO D,15 - 4,480,ARG,8:00
+4,Sprint won possession,10.0,3,15,HUN,4.0,VARGA D,15 - 4,480,HUN,8:00
+4,Action shot - Saved,12.0,3,15,HUN,4.0,HARAI B,15 - 4,463,HUN,7:43
+4,Turnover foul,5.0,3,15,HUN,4.0,LOPEZ E,15 - 4,436,ARG,7:16
+4,Steal,3.0,3,15,HUN,4.0,MADARAS N,15 - 4,436,HUN,7:16
+4,Action shot - Goal,10.0,3,16,HUN,4.0,VARGA D,16 - 4,422,HUN,7:02
+4,Turnover foul,9.0,3,16,HUN,4.0,CARABANTES I,16 - 4,392,ARG,6:32
+4,Steal,2.0,3,16,HUN,4.0,GOR-NAGY M,16 - 4,392,HUN,6:32
+4,Action shot - Goal,5.0,3,17,HUN,4.0,VAMOS M,17 - 4,374,HUN,6:14
+4,Turnover foul,8.0,3,17,HUN,4.0,CORSI E,17 - 4,351,ARG,5:51
+4,Action shot - Post,8.0,3,17,HUN,4.0,SZIVOS M,17 - 4,333,HUN,5:33
+4,Action shot - Saved,12.0,3,17,HUN,4.0,YANEZ G,17 - 4,304,ARG,5:04
+4,Action shot - Saved,3.0,3,17,HUN,4.0,MADARAS N,17 - 4,279,HUN,4:39
+4,Turnover foul,12.0,3,17,HUN,4.0,YANEZ G,17 - 4,246,ARG,4:06
+4,Turnover foul,4.0,3,17,HUN,4.0,ERDELYI B,17 - 4,226,HUN,3:46
+4,Steal,8.0,3,17,HUN,4.0,CORSI E,17 - 4,226,ARG,3:46
+4,Time-Out,,3,17,HUN,4.0,,17 - 4,226,ARG,3:46
+4,Action shot - Saved,2.0,3,17,HUN,4.0,VEICH R,17 - 4,202,ARG,3:22
+4,Action shot - Saved,11.0,3,17,HUN,4.0,BEDO K,17 - 4,176,HUN,2:56
+4,Action shot - Post,2.0,3,17,HUN,4.0,VEICH R,17 - 4,157,ARG,2:37
+4,Action shot - Goal,5.0,3,18,HUN,4.0,VAMOS M,18 - 4,137,HUN,2:17
+4,Action shot - Goal,10.0,3,19,HUN,4.0,VARGA D,19 - 4,89,HUN,1:29
+4,Turnover foul,2.0,3,19,HUN,4.0,VEICH R,19 - 4,55,ARG,0:55
+4,Steal,9.0,3,19,HUN,4.0,VARGA D,19 - 4,55,HUN,0:55
+4,Counter attack - Goal,10.0,3,20,HUN,4.0,VARGA D,20 - 4,41,HUN,0:41
+4,Steal,10.0,3,20,HUN,4.0,VARGA D,20 - 4,25,HUN,0:25
+4,Turnover foul,10.0,3,20,HUN,4.0,DASZCZYK J,20 - 4,25,ARG,0:25
+4,Counter attack - Goal,10.0,3,21,HUN,4.0,VARGA D,21 - 4,14,HUN,0:14
+0,Starting goalkeeper,1.0,4,0,JPN,1.0,MALNERO D,0 - 0,480,ARG,8:00
+0,Starting goalkeeper,1.0,4,0,JPN,1.0,TANAMURA K,0 - 0,480,JPN,8:00
+0,Sprint won possession,4.0,4,0,JPN,1.0,SHIGA M,0 - 0,480,JPN,8:00
+0,Turnover foul,6.0,4,0,JPN,1.0,IIDA A,0 - 0,451,JPN,7:31
+0,Steal,2.0,4,0,JPN,1.0,VEICH R,0 - 0,451,ARG,7:31
+0,Turnover foul,9.0,4,0,JPN,1.0,CARABANTES I,0 - 0,427,ARG,7:07
+0,Steal,6.0,4,0,JPN,1.0,IIDA A,0 - 0,427,JPN,7:07
+0,Turnover foul,6.0,4,0,JPN,1.0,IIDA A,0 - 0,408,JPN,6:48
+0,Turnover foul,1.0,4,0,JPN,1.0,MALNERO D,0 - 0,398,ARG,6:38
+0,Counter attack - Post,9.0,4,0,JPN,1.0,TAKEI K,0 - 0,392,JPN,6:32
+0,Turnover foul,2.0,4,0,JPN,1.0,VEICH R,0 - 0,364,ARG,6:04
+0,Counter attack - Goal,9.0,4,1,JPN,1.0,TAKEI K,0 - 1,356,JPN,5:56
+0,Turnover foul,11.0,4,1,JPN,1.0,DEMARCHI F,0 - 1,330,ARG,5:30
+0,Action shot - Goal,4.0,4,2,JPN,1.0,SHIGA M,0 - 2,316,JPN,5:16
+0,Turnover foul,2.0,4,2,JPN,1.0,VEICH R,0 - 2,294,ARG,4:54
+0,Steal,11.0,4,2,JPN,1.0,OKAWA K,0 - 2,294,JPN,4:54
+0,Counter attack - Goal,6.0,4,3,JPN,1.0,IIDA A,0 - 3,285,JPN,4:45
+0,Turnover foul,9.0,4,3,JPN,1.0,CARABANTES I,0 - 3,262,ARG,4:22
+0,Time-Out,,4,3,JPN,1.0,,0 - 3,262,JPN,4:22
+0,20 sec. exclusion in centre,12.0,4,3,JPN,1.0,YANEZ G,0 - 3,262,ARG,4:22
+0,Exclusion with substitution,12.0,4,3,JPN,1.0,YANEZ G,0 - 3,262,ARG,4:22
+0,Extra player shot - Saved,2.0,4,3,JPN,1.0,ADACHI S,0 - 3,244,JPN,4:04
+0,Turnover foul,9.0,4,3,JPN,1.0,CARABANTES I,0 - 3,224,ARG,3:44
+0,Steal,12.0,4,3,JPN,1.0,HAZUI S,0 - 3,224,JPN,3:44
+0,Action shot - Blocked,11.0,4,3,JPN,1.0,OKAWA K,0 - 3,199,JPN,3:19
+0,Time-Out,,4,3,JPN,1.0,,0 - 3,199,ARG,3:19
+0,Turnover foul,2.0,4,3,JPN,1.0,VEICH R,0 - 3,183,ARG,3:03
+0,Steal,4.0,4,3,JPN,1.0,SHIGA M,0 - 3,183,JPN,3:03
+0,Turnover foul,4.0,4,3,JPN,1.0,SHIGA M,0 - 3,168,JPN,2:48
+0,20 sec. exclusion in centre,4.0,4,3,JPN,1.0,MONUTTI A,0 - 3,125,ARG,2:05
+0,Centre shot - Post,2.0,4,3,JPN,1.0,ADACHI S,0 - 3,101,JPN,1:41
+0,Action shot - Goal,11.0,4,4,JPN,1.0,OKAWA K,0 - 4,98,JPN,1:38
+0,Turnover foul,7.0,4,4,JPN,1.0,MONTANE J,0 - 4,70,ARG,1:10
+0,5m shot - Post,8.0,4,4,JPN,1.0,KADONO Y,0 - 4,43,JPN,0:43
+0,Double exclusion,5.0,4,4,JPN,1.0,YANASE A,0 - 4,43,JPN,0:43
+0,Double exclusion,11.0,4,4,JPN,1.0,DEMARCHI F,0 - 4,42,ARG,0:42
+0,5m shot - Post,10.0,4,4,JPN,1.0,DASZCZYK J,0 - 4,5,ARG,0:05
+0,Starting goalkeeper,1.0,4,4,JPN,2.0,MALNERO D,0 - 4,480,ARG,8:00
+0,Starting goalkeeper,1.0,4,4,JPN,2.0,TANAMURA K,0 - 4,480,JPN,8:00
+0,Sprint won possession,2.0,4,4,JPN,2.0,ADACHI S,0 - 4,480,JPN,8:00
+0,Turnover foul,3.0,4,4,JPN,2.0,ARAI A,0 - 4,455,JPN,7:35
+0,Turnover foul,3.0,4,4,JPN,2.0,ARAI A,0 - 4,426,JPN,7:06
+0,Turnover foul,4.0,4,4,JPN,2.0,MONUTTI A,0 - 4,391,ARG,6:31
+0,20 sec. exclusion in centre,11.0,4,4,JPN,2.0,DEMARCHI F,0 - 4,391,ARG,6:31
+0,Extra player shot - Saved,6.0,4,4,JPN,2.0,IIDA A,0 - 4,383,JPN,6:23
+0,Turnover foul,9.0,4,4,JPN,2.0,CARABANTES I,0 - 4,352,ARG,5:52
+0,Turnover foul,4.0,4,4,JPN,2.0,SHIGA M,0 - 4,335,JPN,5:35
+1,Action shot - Goal,9.0,4,4,JPN,2.0,CARABANTES I,1 - 4,316,ARG,5:16
+1,Turnover foul,11.0,4,4,JPN,2.0,OKAWA K,1 - 4,295,JPN,4:55
+1,Steal,2.0,4,4,JPN,2.0,VEICH R,1 - 4,295,ARG,4:55
+2,Action shot - Goal,11.0,4,4,JPN,2.0,DEMARCHI F,2 - 4,271,ARG,4:31
+2,Turnover foul,10.0,4,4,JPN,2.0,YASUDA K,2 - 4,246,JPN,4:06
+2,Steal,8.0,4,4,JPN,2.0,CORSI E,2 - 4,246,ARG,4:06
+2,Time-Out,,4,4,JPN,2.0,,2 - 4,246,ARG,4:06
+2,5m shot - Blocked,9.0,4,4,JPN,2.0,CARABANTES I,2 - 4,227,ARG,3:47
+2,Action shot - Saved,12.0,4,4,JPN,2.0,HAZUI S,2 - 4,213,JPN,3:33
+2,Action shot - Saved,11.0,4,4,JPN,2.0,DEMARCHI F,2 - 4,185,ARG,3:05
+2,20 sec. exclusion in centre,8.0,4,4,JPN,2.0,KADONO Y,2 - 4,142,JPN,2:22
+2,5m shot - Saved,11.0,4,4,JPN,2.0,DEMARCHI F,2 - 4,114,ARG,1:54
+2,Action shot - Goal,9.0,4,5,JPN,2.0,TAKEI K,2 - 5,99,JPN,1:39
+2,20 sec. exclusion in centre,4.0,4,5,JPN,2.0,SHIGA M,2 - 5,76,JPN,1:16
+2,Centre shot - Saved,8.0,4,5,JPN,2.0,CORSI E,2 - 5,53,ARG,0:53
+2,Turnover foul,2.0,4,5,JPN,2.0,VEICH R,2 - 5,43,ARG,0:43
+2,Centre shot - Goal,2.0,4,6,JPN,2.0,ADACHI S,2 - 6,35,JPN,0:35
+2,20 sec. exclusion in centre,2.0,4,6,JPN,4.0,VEICH R,2 - 6,86,ARG,1:26
+2,Exclusion with substitution,2.0,4,6,JPN,4.0,VEICH R,2 - 6,86,ARG,1:26
+6,Extra player shot - Goal,5.0,4,14,JPN,4.0,YANASE A,6 - 14,83,JPN,1:23
+6,Action shot - Missed,3.0,4,14,JPN,4.0,GALIMBERTI T,6 - 14,53,ARG,0:53
+6,Turnover foul,2.0,4,14,JPN,2.0,VEICH R,6 - 14,4,ARG,0:04
+6,Steal,3.0,4,14,JPN,2.0,ARAI A,6 - 14,4,JPN,0:04
+6,Starting goalkeeper,1.0,4,14,JPN,3.0,MALNERO D,6 - 14,480,ARG,8:00
+6,Starting goalkeeper,13.0,4,14,JPN,3.0,FUKUSHIMA T,6 - 14,480,JPN,8:00
+6,Sprint won possession,2.0,4,14,JPN,3.0,ADACHI S,6 - 14,480,JPN,8:00
+6,Turnover foul,12.0,4,14,JPN,3.0,HAZUI S,6 - 14,456,JPN,7:36
+6,Turnover foul,9.0,4,14,JPN,3.0,CARABANTES I,6 - 14,433,ARG,7:13
+2,5m shot - Goal,12.0,4,7,JPN,3.0,HAZUI S,2 - 7,422,JPN,7:02
+3,Action shot - Goal,9.0,4,7,JPN,3.0,CARABANTES I,3 - 7,397,ARG,6:37
+3,20 sec. exclusion in centre,2.0,4,7,JPN,3.0,VEICH R,3 - 7,378,ARG,6:18
+3,Extra player shot - Goal,7.0,4,8,JPN,3.0,SHIMIZU Y,3 - 8,378,JPN,6:18
+3,Turnover foul,8.0,4,8,JPN,3.0,CORSI E,3 - 8,352,ARG,5:52
+3,Steal,5.0,4,8,JPN,3.0,YANASE A,3 - 8,352,JPN,5:52
+3,Centre shot - Goal,6.0,4,9,JPN,3.0,IIDA A,3 - 9,345,JPN,5:45
+3,Turnover foul,3.0,4,9,JPN,3.0,GALIMBERTI T,3 - 9,315,ARG,5:15
+3,Turnover foul,3.0,4,9,JPN,3.0,ARAI A,3 - 9,288,JPN,4:48
+3,Steal,10.0,4,9,JPN,3.0,DASZCZYK J,3 - 9,286,ARG,4:46
+3,Action shot - Saved,9.0,4,9,JPN,3.0,CARABANTES I,3 - 9,251,ARG,4:11
+3,Turnover foul,6.0,4,9,JPN,3.0,IIDA A,3 - 9,234,JPN,3:54
+3,Turnover foul,2.0,4,9,JPN,3.0,VEICH R,3 - 9,210,ARG,3:30
+3,Steal,13.0,4,9,JPN,3.0,FUKUSHIMA T,3 - 9,210,JPN,3:30
+3,20 sec. exclusion in centre,11.0,4,9,JPN,3.0,OKAWA K,3 - 9,207,JPN,3:27
+3,Exclusion with substitution,11.0,4,9,JPN,3.0,OKAWA K,3 - 9,207,JPN,3:27
+3,Time-Out,,4,9,JPN,3.0,,3 - 9,207,ARG,3:27
+3,Turnover foul,10.0,4,9,JPN,3.0,DASZCZYK J,3 - 9,183,ARG,3:03
+3,Turnover foul,4.0,4,9,JPN,3.0,SHIGA M,3 - 9,159,JPN,2:39
+3,20 sec. exclusion in centre,3.0,4,9,JPN,3.0,ARAI A,3 - 9,145,JPN,2:25
+3,Centre shot - Saved,9.0,4,9,JPN,3.0,CARABANTES I,3 - 9,122,ARG,2:02
+3,20 sec. exclusion in centre,8.0,4,9,JPN,3.0,CORSI E,3 - 9,107,ARG,1:47
+3,Extra player shot - Goal,4.0,4,10,JPN,3.0,SHIGA M,3 - 10,103,JPN,1:43
+3,20 sec. exclusion in centre,10.0,4,10,JPN,3.0,YASUDA K,3 - 10,78,JPN,1:18
+4,Extra player shot - Goal,11.0,4,10,JPN,3.0,DEMARCHI F,4 - 10,69,ARG,1:09
+4,Turnover foul,4.0,4,10,JPN,3.0,SHIGA M,4 - 10,48,JPN,0:48
+4,Steal,9.0,4,10,JPN,3.0,CARABANTES I,4 - 10,48,ARG,0:48
+4,5m shot - Saved,2.0,4,10,JPN,3.0,VEICH R,4 - 10,21,ARG,0:21
+4,Time-Out,,4,10,JPN,3.0,,4 - 10,20,JPN,0:20
+4,20 sec. exclusion in centre,2.0,4,10,JPN,3.0,VEICH R,4 - 10,20,ARG,0:20
+4,Extra player shot - Post,8.0,4,10,JPN,3.0,KADONO Y,4 - 10,5,JPN,0:05
+4,Starting goalkeeper,1.0,4,10,JPN,4.0,MALNERO D,4 - 10,480,ARG,8:00
+4,Starting goalkeeper,13.0,4,10,JPN,4.0,FUKUSHIMA T,4 - 10,480,JPN,8:00
+4,Sprint won possession,2.0,4,10,JPN,4.0,ADACHI S,4 - 10,480,JPN,8:00
+4,Turnover foul,2.0,4,10,JPN,4.0,ADACHI S,4 - 10,457,JPN,7:37
+4,Turnover foul,8.0,4,10,JPN,4.0,CORSI E,4 - 10,426,ARG,7:06
+4,5m shot - Goal,9.0,4,11,JPN,4.0,TAKEI K,4 - 11,398,JPN,6:38
+4,Turnover foul,2.0,4,11,JPN,4.0,VEICH R,4 - 11,380,ARG,6:20
+4,Turnover foul,12.0,4,11,JPN,4.0,HAZUI S,4 - 11,362,JPN,6:02
+4,5m shot - Saved,11.0,4,11,JPN,4.0,DEMARCHI F,4 - 11,330,ARG,5:30
+4,Action shot - Goal,9.0,4,12,JPN,4.0,TAKEI K,4 - 12,322,JPN,5:22
+4,Turnover foul,5.0,4,12,JPN,4.0,LOPEZ E,4 - 12,291,ARG,4:51
+4,Action shot - Saved,3.0,4,12,JPN,4.0,ARAI A,4 - 12,277,JPN,4:37
+5,Action shot - Goal,9.0,4,12,JPN,4.0,CARABANTES I,5 - 12,256,ARG,4:16
+5,Turnover foul,10.0,4,12,JPN,4.0,YASUDA K,5 - 12,239,JPN,3:59
+5,20 sec. exclusion in centre,6.0,4,12,JPN,4.0,IIDA A,5 - 12,239,JPN,3:59
+5,Time-Out,,4,12,JPN,4.0,,5 - 12,239,ARG,3:59
+5,Action shot - Saved,8.0,4,12,JPN,4.0,CORSI E,5 - 12,213,ARG,3:33
+5,Turnover foul,2.0,4,12,JPN,4.0,ADACHI S,5 - 12,193,JPN,3:13
+5,Steal,2.0,4,12,JPN,4.0,VEICH R,5 - 12,193,ARG,3:13
+5,Turnover foul,9.0,4,12,JPN,4.0,CARABANTES I,5 - 12,186,ARG,3:06
+5,Counter attack - Goal,10.0,4,13,JPN,4.0,YASUDA K,5 - 13,173,JPN,2:53
+5,Action shot - Saved,8.0,4,13,JPN,4.0,CORSI E,5 - 13,147,ARG,2:27
+5,20 sec. exclusion in centre,8.0,4,13,JPN,4.0,CORSI E,5 - 13,142,ARG,2:22
+5,Time-Out,,4,13,JPN,4.0,,5 - 13,142,JPN,2:22
+5,Extra player shot - Saved,8.0,4,13,JPN,4.0,KADONO Y,5 - 13,118,JPN,1:58
+6,Counter attack - Goal,11.0,4,13,JPN,4.0,DEMARCHI F,6 - 13,109,ARG,1:49
+6,Turnover foul,8.0,4,13,JPN,4.0,KADONO Y,6 - 13,35,JPN,0:35
+6,Turnover foul,9.0,4,13,JPN,4.0,CARABANTES I,6 - 13,30,ARG,0:30
+6,5m shot - Saved,11.0,4,13,JPN,4.0,DEMARCHI F,6 - 13,2,ARG,0:02
+0,Starting goalkeeper,1.0,5,0,CHN,1.0,WU H,0 - 0,480,CHN,8:00
+0,Starting goalkeeper,1.0,5,0,CHN,1.0,MALNERO D,0 - 0,480,ARG,8:00
+0,Sprint won possession,5.0,5,0,CHN,1.0,LU W,0 - 0,480,CHN,8:00
+0,Turnover foul,10.0,5,0,CHN,1.0,CHEN J,0 - 0,454,CHN,7:34
+0,Turnover foul,12.0,5,0,CHN,1.0,YANEZ G,0 - 0,426,ARG,7:06
+0,Turnover foul,5.0,5,0,CHN,1.0,LU W,0 - 0,411,CHN,6:51
+0,Steal,8.0,5,0,CHN,1.0,CORSI E,0 - 0,411,ARG,6:51
+0,Turnover foul,11.0,5,0,CHN,1.0,DEMARCHI F,0 - 0,396,ARG,6:36
+0,Steal,4.0,5,0,CHN,1.0,DONG T,0 - 0,396,CHN,6:36
+0,20 sec. exclusion in field,11.0,5,0,CHN,1.0,DEMARCHI F,0 - 0,396,ARG,6:36
+0,Action shot - Goal,11.0,5,1,CHN,1.0,ZHANG C,1 - 0,370,CHN,6:10
+0,Turnover foul,2.0,5,1,CHN,1.0,VEICH R,1 - 0,344,ARG,5:44
+0,Steal,2.0,5,1,CHN,1.0,TAN F,1 - 0,344,CHN,5:44
+0,20 sec. exclusion in centre,10.0,5,1,CHN,1.0,DASZCZYK J,1 - 0,323,ARG,5:23
+0,Extra player shot - Goal,6.0,5,2,CHN,1.0,LI L,2 - 0,305,CHN,5:05
+0,20 sec. exclusion in centre,6.0,5,2,CHN,1.0,LI L,2 - 0,277,CHN,4:37
+0,Turnover foul,2.0,5,2,CHN,1.0,VEICH R,2 - 0,254,ARG,4:14
+0,Action shot - Goal,12.0,5,3,CHN,1.0,LIANG N,3 - 0,227,CHN,3:47
+0,Time-Out,,5,3,CHN,1.0,,3 - 0,227,ARG,3:47
+0,5m shot - Saved,9.0,5,3,CHN,1.0,CARABANTES I,3 - 0,202,ARG,3:22
+0,5m shot - Goal,11.0,5,4,CHN,1.0,ZHANG C,4 - 0,184,CHN,3:04
+0,Action shot - Saved,11.0,5,4,CHN,1.0,DEMARCHI F,4 - 0,162,ARG,2:42
+0,Counter attack - Goal,9.0,5,5,CHN,1.0,XIE Z,5 - 0,151,CHN,2:31
+1,5m shot - Goal,12.0,5,5,CHN,1.0,YANEZ G,5 - 1,137,ARG,2:17
+1,Action shot - Saved,4.0,5,5,CHN,1.0,DONG T,5 - 1,111,CHN,1:51
+1,20 sec. exclusion in centre,8.0,5,5,CHN,1.0,LI L,5 - 1,95,CHN,1:35
+2,Extra player shot - Goal,12.0,5,5,CHN,1.0,YANEZ G,5 - 2,89,ARG,1:29
+2,20 sec. exclusion in centre,2.0,5,5,CHN,1.0,VEICH R,5 - 2,65,ARG,1:05
+2,Action shot - Post,9.0,5,5,CHN,1.0,XIE Z,5 - 2,41,CHN,0:41
+2,5m shot - Blocked,11.0,5,5,CHN,1.0,ZHANG C,5 - 2,26,CHN,0:26
+2,Centre shot - Goal,12.0,5,6,CHN,1.0,LIANG N,6 - 2,12,CHN,0:12
+2,5m shot - Saved,2.0,5,6,CHN,1.0,VEICH R,6 - 2,0,ARG,0:00
+2,Starting goalkeeper,1.0,5,6,CHN,2.0,WU H,6 - 2,480,CHN,8:00
+2,Starting goalkeeper,1.0,5,6,CHN,2.0,MALNERO D,6 - 2,480,ARG,8:00
+2,Sprint won possession,8.0,5,6,CHN,2.0,CORSI E,6 - 2,480,ARG,8:00
+2,20 sec. exclusion in centre,5.0,5,6,CHN,2.0,LU W,6 - 2,455,CHN,7:35
+3,Centre shot - Goal,2.0,5,6,CHN,2.0,VEICH R,6 - 3,442,ARG,7:22
+3,Action shot - Blocked,10.0,5,6,CHN,2.0,CHEN J,6 - 3,422,CHN,7:02
+3,5m shot - Goal,5.0,5,7,CHN,2.0,LU W,7 - 3,375,CHN,6:15
+3,20 sec. exclusion in centre,12.0,5,7,CHN,2.0,LIANG N,7 - 3,347,CHN,5:47
+4,5m shot - Goal,9.0,5,7,CHN,2.0,CARABANTES I,7 - 4,325,ARG,5:25
+4,5m shot - Blocked,2.0,5,7,CHN,2.0,TAN F,7 - 4,302,CHN,5:02
+4,5m shot - Saved,12.0,5,7,CHN,2.0,YANEZ G,7 - 4,280,ARG,4:40
+4,Turnover foul,2.0,5,7,CHN,2.0,VEICH R,7 - 4,263,ARG,4:23
+4,Counter attack - Missed,5.0,5,7,CHN,2.0,LU W,7 - 4,254,CHN,4:14
+4,Turnover foul,2.0,5,7,CHN,2.0,VEICH R,7 - 4,235,ARG,3:55
+4,Steal,2.0,5,7,CHN,2.0,TAN F,7 - 4,235,CHN,3:55
+4,Counter attack - Saved,2.0,5,7,CHN,2.0,TAN F,7 - 4,224,CHN,3:44
+4,5m shot - Saved,6.0,5,7,CHN,2.0,LI L,7 - 4,204,CHN,3:24
+4,20 sec. exclusion in field,6.0,5,7,CHN,2.0,LI L,7 - 4,195,CHN,3:15
+5,Extra player shot - Goal,12.0,5,7,CHN,2.0,YANEZ G,7 - 5,190,ARG,3:10
+5,Turnover foul,10.0,5,7,CHN,2.0,CHEN J,7 - 5,163,CHN,2:43
+5,20 sec. exclusion in centre,5.0,5,7,CHN,2.0,LU W,7 - 5,139,CHN,2:19
+5,Time-Out,,5,7,CHN,2.0,,7 - 5,139,ARG,2:19
+5,Turnover foul,2.0,5,7,CHN,2.0,VEICH R,7 - 5,127,ARG,2:07
+5,Counter attack - Goal,4.0,5,8,CHN,2.0,DONG T,8 - 5,114,CHN,1:54
+5,Turnover foul,9.0,5,8,CHN,2.0,CARABANTES I,8 - 5,87,ARG,1:27
+5,Steal,9.0,5,8,CHN,2.0,XIE Z,8 - 5,87,CHN,1:27
+5,Counter attack - Goal,4.0,5,9,CHN,2.0,DONG T,9 - 5,75,CHN,1:15
+6,5m shot - Goal,12.0,5,9,CHN,2.0,YANEZ G,9 - 6,60,ARG,1:00
+6,5m shot - Saved,3.0,5,9,CHN,2.0,HU Z,9 - 6,36,CHN,0:36
+6,Turnover foul,11.0,5,9,CHN,2.0,ZHANG C,9 - 6,26,CHN,0:26
+6,Steal,8.0,5,9,CHN,2.0,CORSI E,9 - 6,26,ARG,0:26
+6,5m shot - Missed,9.0,5,9,CHN,2.0,CARABANTES I,9 - 6,8,ARG,0:08
+8,Extra player shot - Goal,2.0,5,15,CHN,4.0,TAN F,15 - 8,134,CHN,2:14
+8,5m shot - Blocked,2.0,5,15,CHN,4.0,VEICH R,15 - 8,109,ARG,1:49
+8,Turnover foul,7.0,5,15,CHN,4.0,CHEN Z,15 - 8,86,CHN,1:26
+8,Steal,12.0,5,15,CHN,4.0,YANEZ G,15 - 8,86,ARG,1:26
+8,Time-Out,,5,15,CHN,4.0,,15 - 8,86,ARG,1:26
+8,Goalkeeper substitution,1.0,5,15,CHN,4.0,WU H,15 - 8,86,CHN,1:26
+8,Goalkeeper substitution,13.0,5,15,CHN,4.0,LIANG Z,15 - 8,86,CHN,1:26
+8,20 sec. exclusion in centre,9.0,5,15,CHN,4.0,XIE Z,15 - 8,75,CHN,1:15
+8,5m shot - Missed,11.0,5,15,CHN,2.0,ZHANG C,15 - 8,0,CHN,0:00
+8,Starting goalkeeper,1.0,5,15,CHN,3.0,WU H,15 - 8,480,CHN,8:00
+8,Starting goalkeeper,13.0,5,15,CHN,3.0,TESTA F,15 - 8,480,ARG,8:00
+8,Sprint won possession,3.0,5,15,CHN,3.0,HU Z,15 - 8,480,CHN,8:00
+8,5m shot - Post,2.0,5,15,CHN,3.0,TAN F,15 - 8,451,CHN,7:31
+7,5m shot - Goal,9.0,5,9,CHN,3.0,CARABANTES I,9 - 7,421,ARG,7:01
+7,Action shot - Saved,12.0,5,9,CHN,3.0,LIANG N,9 - 7,404,CHN,6:44
+7,Turnover foul,11.0,5,9,CHN,3.0,DEMARCHI F,9 - 7,401,ARG,6:41
+7,Turnover foul,3.0,5,9,CHN,3.0,HU Z,9 - 7,390,CHN,6:30
+7,Steal,9.0,5,9,CHN,3.0,CARABANTES I,9 - 7,390,ARG,6:30
+7,Turnover foul,11.0,5,9,CHN,3.0,DEMARCHI F,9 - 7,374,ARG,6:14
+7,Steal,1.0,5,9,CHN,3.0,WU H,9 - 7,374,CHN,6:14
+7,Counter attack - Goal,4.0,5,10,CHN,3.0,DONG T,10 - 7,360,CHN,6:00
+7,Turnover foul,5.0,5,10,CHN,3.0,LOPEZ E,10 - 7,339,ARG,5:39
+7,Turnover foul,2.0,5,10,CHN,3.0,TAN F,10 - 7,314,CHN,5:14
+7,Steal,10.0,5,10,CHN,3.0,DASZCZYK J,10 - 7,314,ARG,5:14
+7,20 sec. exclusion in field,10.0,5,10,CHN,3.0,CHEN J,10 - 7,302,CHN,5:02
+7,Extra player shot - Missed,2.0,5,10,CHN,3.0,VEICH R,10 - 7,281,ARG,4:41
+7,Turnover foul,8.0,5,10,CHN,3.0,LI L,10 - 7,256,CHN,4:16
+7,Steal,13.0,5,10,CHN,3.0,TESTA F,10 - 7,256,ARG,4:16
+7,Turnover foul,5.0,5,10,CHN,3.0,LOPEZ E,10 - 7,241,ARG,4:01
+7,Centre shot - Goal,8.0,5,11,CHN,3.0,LI L,11 - 7,219,CHN,3:39
+7,Turnover foul,6.0,5,11,CHN,3.0,BULGHERONI T,11 - 7,191,ARG,3:11
+7,Steal,7.0,5,11,CHN,3.0,CHEN Z,11 - 7,191,CHN,3:11
+7,Turnover foul,1.0,5,11,CHN,3.0,WU H,11 - 7,189,CHN,3:09
+7,Steal,5.0,5,11,CHN,3.0,LOPEZ E,11 - 7,189,ARG,3:09
+8,Counter attack - Goal,2.0,5,11,CHN,3.0,VEICH R,11 - 8,189,ARG,3:09
+8,20 sec. exclusion in field,3.0,5,11,CHN,3.0,GALIMBERTI T,11 - 8,172,ARG,2:52
+8,Extra player shot - Goal,6.0,5,12,CHN,3.0,LI L,12 - 8,153,CHN,2:33
+8,Time-Out,,5,12,CHN,3.0,,12 - 8,153,ARG,2:33
+8,5m shot - Blocked,2.0,5,12,CHN,3.0,VEICH R,12 - 8,139,ARG,2:19
+8,Counter attack - Goal,10.0,5,13,CHN,3.0,CHEN J,13 - 8,126,CHN,2:06
+8,Turnover foul,5.0,5,13,CHN,3.0,LOPEZ E,13 - 8,108,ARG,1:48
+8,5m shot - Saved,11.0,5,13,CHN,3.0,ZHANG C,13 - 8,84,CHN,1:24
+8,Turnover foul,12.0,5,13,CHN,3.0,YANEZ G,13 - 8,64,ARG,1:04
+8,Steal,1.0,5,13,CHN,3.0,WU H,13 - 8,64,CHN,1:04
+8,Time-Out,,5,13,CHN,3.0,,13 - 8,64,CHN,1:04
+8,5m shot - Saved,2.0,5,13,CHN,3.0,TAN F,13 - 8,40,CHN,0:40
+8,Turnover foul,9.0,5,13,CHN,3.0,CARABANTES I,13 - 8,16,ARG,0:16
+8,5m shot - Missed,2.0,5,13,CHN,3.0,TAN F,13 - 8,1,CHN,0:01
+8,Starting goalkeeper,1.0,5,13,CHN,4.0,WU H,13 - 8,480,CHN,8:00
+8,Starting goalkeeper,13.0,5,13,CHN,4.0,TESTA F,13 - 8,480,ARG,8:00
+8,Sprint won possession,10.0,5,13,CHN,4.0,DASZCZYK J,13 - 8,480,ARG,8:00
+8,Turnover foul,5.0,5,13,CHN,4.0,LOPEZ E,13 - 8,451,ARG,7:31
+8,5m shot - Missed,4.0,5,13,CHN,4.0,DONG T,13 - 8,435,CHN,7:15
+8,Turnover foul,5.0,5,13,CHN,4.0,LOPEZ E,13 - 8,415,ARG,6:55
+8,Turnover foul,2.0,5,13,CHN,4.0,TAN F,13 - 8,393,CHN,6:33
+8,Steal,9.0,5,13,CHN,4.0,CARABANTES I,13 - 8,393,ARG,6:33
+8,Turnover foul,5.0,5,13,CHN,4.0,LOPEZ E,13 - 8,391,ARG,6:31
+8,Action shot - Saved,10.0,5,13,CHN,4.0,CHEN J,13 - 8,371,CHN,6:11
+8,Turnover foul,8.0,5,13,CHN,4.0,CORSI E,13 - 8,345,ARG,5:45
+8,Turnover foul,4.0,5,13,CHN,4.0,DONG T,13 - 8,317,CHN,5:17
+8,Steal,8.0,5,13,CHN,4.0,CORSI E,13 - 8,317,ARG,5:17
+8,Action shot - Saved,12.0,5,13,CHN,4.0,YANEZ G,13 - 8,288,ARG,4:48
+8,Action shot - Blocked,4.0,5,13,CHN,4.0,DONG T,13 - 8,267,CHN,4:27
+8,5m shot - Blocked,6.0,5,13,CHN,4.0,LI L,13 - 8,239,CHN,3:59
+8,Counter attack - Saved,2.0,5,13,CHN,4.0,VEICH R,13 - 8,223,ARG,3:43
+8,Time-Out,,5,13,CHN,4.0,,13 - 8,223,CHN,3:43
+8,Yellow card,,5,13,CHN,4.0,Team Official,13 - 8,223,CHN,3:43
+8,Goalkeeper substitution,13.0,5,13,CHN,4.0,LIANG Z,13 - 8,223,CHN,3:43
+8,20 sec. exclusion in centre,2.0,5,13,CHN,4.0,VEICH R,13 - 8,209,ARG,3:29
+8,Extra player shot - Goal,3.0,5,14,CHN,4.0,HU Z,14 - 8,182,CHN,3:02
+8,Turnover foul,12.0,5,14,CHN,4.0,YANEZ G,14 - 8,166,ARG,2:46
+8,20 sec. exclusion in centre,8.0,5,14,CHN,4.0,CORSI E,14 - 8,152,ARG,2:32
+9,Extra player shot - Goal,12.0,5,15,CHN,4.0,YANEZ G,15 - 9,68,ARG,1:08
+9,Turnover foul,10.0,5,15,CHN,4.0,CHEN J,15 - 9,50,CHN,0:50
+9,Turnover foul,5.0,5,15,CHN,4.0,LOPEZ E,15 - 9,26,ARG,0:26
+9,Steal,4.0,5,15,CHN,4.0,DONG T,15 - 9,26,CHN,0:26
+9,20 sec. exclusion in field,8.0,5,15,CHN,4.0,CORSI E,15 - 9,13,ARG,0:13
+9,Extra player shot - Goal,4.0,5,16,CHN,4.0,DONG T,16 - 9,2,CHN,0:02
+9,5m shot - Missed,2.0,5,16,CHN,4.0,VEICH R,16 - 9,0,ARG,0:00

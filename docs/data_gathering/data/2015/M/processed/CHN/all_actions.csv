@@ -1,0 +1,661 @@
+Action,CHN,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,0,1.0,1,0,BRA,1.0,ANTONELLI V,0 - 0,480,BRA,8:00
+Starting goalkeeper,0,1.0,1,0,BRA,1.0,WU H,0 - 0,480,CHN,8:00
+Sprint won possession,0,4.0,1,0,BRA,1.0,DONG T,0 - 0,480,CHN,8:00
+Turnover foul,0,10.0,1,0,BRA,1.0,CHEN J,0 - 0,453,CHN,7:33
+Steal,0,1.0,1,0,BRA,1.0,ANTONELLI V,0 - 0,453,BRA,7:33
+20 sec. exclusion in centre,0,10.0,1,0,BRA,1.0,CHEN J,0 - 0,438,CHN,7:18
+Action shot - Goal,0,10.0,1,1,BRA,1.0,PERRONE F,1 - 0,413,BRA,6:53
+Centre shot - Saved,0,11.0,1,1,BRA,1.0,ZHANG C,1 - 0,387,CHN,6:27
+20 sec. exclusion in centre,0,8.0,1,1,BRA,1.0,SILVA F,1 - 0,377,BRA,6:17
+Extra player shot - Goal,1,11.0,1,1,BRA,1.0,ZHANG C,1 - 1,356,CHN,5:56
+Turnover foul,1,2.0,1,1,BRA,1.0,TAN F,1 - 1,333,CHN,5:33
+Turnover foul,1,4.0,1,1,BRA,1.0,DONG T,1 - 1,310,CHN,5:10
+Counter attack - Goal,1,10.0,1,2,BRA,1.0,PERRONE F,2 - 1,298,BRA,4:58
+Action shot - Goal,2,12.0,1,2,BRA,1.0,LIANG N,2 - 2,279,CHN,4:39
+Turnover foul,2,10.0,1,2,BRA,1.0,PERRONE F,2 - 2,246,BRA,4:06
+Turnover foul,2,12.0,1,2,BRA,1.0,LIANG N,2 - 2,235,CHN,3:55
+Action shot - Goal,2,10.0,1,3,BRA,1.0,PERRONE F,3 - 2,214,BRA,3:34
+Centre shot - Goal,3,11.0,1,3,BRA,1.0,ZHANG C,3 - 3,186,CHN,3:06
+Turnover foul,3,10.0,1,3,BRA,1.0,PERRONE F,3 - 3,163,BRA,2:43
+Steal,3,1.0,1,3,BRA,1.0,WU H,3 - 3,163,CHN,2:43
+Action shot - Saved,3,10.0,1,3,BRA,1.0,CHEN J,3 - 3,139,CHN,2:19
+Turnover foul,3,10.0,1,3,BRA,1.0,PERRONE F,3 - 3,123,BRA,2:03
+Steal,3,10.0,1,3,BRA,1.0,CHEN J,3 - 3,123,CHN,2:03
+Time-Out,3,,1,3,BRA,1.0,,3 - 3,123,CHN,2:03
+Turnover foul,3,5.0,1,3,BRA,1.0,LU W,3 - 3,105,CHN,1:45
+5m shot - Blocked,3,10.0,1,3,BRA,1.0,PERRONE F,3 - 3,83,BRA,1:23
+Counter attack - Goal,4,4.0,1,3,BRA,1.0,DONG T,3 - 4,73,CHN,1:13
+20 sec. exclusion in centre,4,3.0,1,3,BRA,1.0,HU Z,3 - 4,49,CHN,0:49
+Time-Out,4,,1,3,BRA,1.0,,3 - 4,48,BRA,0:48
+Extra player shot - Saved,4,6.0,1,3,BRA,1.0,GOMES B,3 - 4,39,BRA,0:39
+5m shot - Saved,4,11.0,1,3,BRA,1.0,ZHANG C,3 - 4,0,CHN,0:00
+Starting goalkeeper,4,1.0,1,3,BRA,2.0,ANTONELLI V,3 - 4,480,BRA,8:00
+Starting goalkeeper,4,1.0,1,3,BRA,2.0,WU H,3 - 4,480,CHN,8:00
+Sprint won possession,4,4.0,1,3,BRA,2.0,DONG T,3 - 4,480,CHN,8:00
+20 sec. exclusion in centre,4,8.0,1,3,BRA,2.0,SILVA F,3 - 4,461,BRA,7:41
+20 sec. exclusion in centre,4,2.0,1,3,BRA,2.0,CRIVELLA J,3 - 4,448,BRA,7:28
+Extra player shot - Goal,5,4.0,1,3,BRA,2.0,DONG T,3 - 5,435,CHN,7:15
+5m shot - Post,5,6.0,1,3,BRA,2.0,GOMES B,3 - 5,405,BRA,6:45
+Turnover foul,5,5.0,1,3,BRA,2.0,LU W,3 - 5,371,CHN,6:11
+Steal,5,10.0,1,3,BRA,2.0,PERRONE F,3 - 5,371,BRA,6:11
+20 sec. exclusion in centre,5,2.0,1,3,BRA,2.0,TAN F,3 - 5,362,CHN,6:02
+Extra player shot - Post,5,7.0,1,3,BRA,2.0,DELGADO A,3 - 5,345,BRA,5:45
+Turnover foul,5,11.0,1,3,BRA,2.0,ZHANG C,3 - 5,309,CHN,5:09
+Turnover foul,5,2.0,1,3,BRA,2.0,CRIVELLA J,3 - 5,309,BRA,5:09
+Turnover foul,5,4.0,1,3,BRA,2.0,DONG T,3 - 5,298,CHN,4:58
+Steal,5,9.0,1,3,BRA,2.0,ROCHA B,3 - 5,298,BRA,4:58
+Action shot - Missed,5,12.0,1,3,BRA,2.0,VRLIC J,3 - 5,283,BRA,4:43
+Time-Out,5,,1,3,BRA,2.0,,3 - 5,281,CHN,4:41
+Turnover foul,5,9.0,1,3,BRA,2.0,XIE Z,3 - 5,263,CHN,4:23
+Steal,5,1.0,1,3,BRA,2.0,ANTONELLI V,3 - 5,263,BRA,4:23
+Action shot - Goal,5,11.0,1,4,BRA,2.0,GUIMARAES G,4 - 5,247,BRA,4:07
+5m shot - Saved,5,3.0,1,4,BRA,2.0,HU Z,4 - 5,225,CHN,3:45
+Action shot - Saved,5,11.0,1,4,BRA,2.0,GUIMARAES G,4 - 5,204,BRA,3:24
+20 sec. exclusion in centre,5,5.0,1,4,BRA,2.0,SALEMI P,4 - 5,186,BRA,3:06
+20 sec. exclusion in centre,5,7.0,1,4,BRA,2.0,CHEN Z,4 - 5,143,CHN,2:23
+Extra player shot - Goal,5,3.0,1,5,BRA,2.0,GOMES G,5 - 5,124,BRA,2:04
+20 sec. exclusion in field,5,10.0,1,5,BRA,2.0,PERRONE F,5 - 5,107,BRA,1:47
+Extra player shot - Post,5,5.0,1,5,BRA,2.0,LU W,5 - 5,101,CHN,1:41
+Turnover foul,5,3.0,1,5,BRA,2.0,HU Z,5 - 5,50,CHN,0:50
+Penalty foul,5,5.0,1,5,BRA,2.0,LU W,5 - 5,32,CHN,0:32
+Penalty shot - Saved,5,11.0,1,5,BRA,2.0,GUIMARAES G,5 - 5,32,BRA,0:32
+5m shot - Blocked,5,2.0,1,5,BRA,2.0,TAN F,5 - 5,7,CHN,0:07
+Time-Out,5,,1,5,BRA,2.0,,5 - 5,7,BRA,0:07
+Turnover foul,5,3.0,1,5,BRA,2.0,GOMES G,5 - 5,0,BRA,0:00
+Steal,5,6.0,1,5,BRA,2.0,LI L,5 - 5,0,CHN,0:00
+Starting goalkeeper,5,1.0,1,5,BRA,3.0,ANTONELLI V,5 - 5,480,BRA,8:00
+Starting goalkeeper,5,1.0,1,5,BRA,3.0,WU H,5 - 5,480,CHN,8:00
+Sprint won possession,5,7.0,1,5,BRA,3.0,DELGADO A,5 - 5,477,BRA,7:57
+5m shot - Post,5,7.0,1,5,BRA,3.0,DELGADO A,5 - 5,451,BRA,7:31
+20 sec. exclusion in field,5,9.0,1,5,BRA,3.0,ROCHA B,5 - 5,428,BRA,7:08
+Extra player shot - Saved,5,11.0,1,5,BRA,3.0,ZHANG C,5 - 5,411,CHN,6:51
+Turnover foul,5,12.0,1,5,BRA,3.0,VRLIC J,5 - 5,380,BRA,6:20
+Action shot - Goal,6,12.0,1,5,BRA,3.0,LIANG N,5 - 6,359,CHN,5:59
+Penalty foul,6,3.0,1,5,BRA,3.0,HU Z,5 - 6,329,CHN,5:29
+Penalty shot - Goal,6,10.0,1,6,BRA,3.0,PERRONE F,6 - 6,329,BRA,5:29
+Yellow card,6,,1,6,BRA,3.0,Team Official,6 - 6,329,CHN,5:29
+Turnover foul,6,4.0,1,6,BRA,3.0,DONG T,6 - 6,313,CHN,5:13
+5m shot - Saved,6,11.0,1,6,BRA,3.0,ZHANG C,6 - 6,271,CHN,4:31
+Turnover foul,6,9.0,1,6,BRA,3.0,XIE Z,6 - 6,246,CHN,4:06
+Turnover foul,6,10.0,1,6,BRA,3.0,PERRONE F,6 - 6,223,BRA,3:43
+Steal,6,11.0,1,6,BRA,3.0,ZHANG C,6 - 6,223,CHN,3:43
+Centre shot - Goal,7,10.0,1,6,BRA,3.0,CHEN J,6 - 7,202,CHN,3:22
+Turnover foul,7,10.0,1,6,BRA,3.0,PERRONE F,6 - 7,175,BRA,2:55
+Penalty foul,7,6.0,1,6,BRA,3.0,GOMES B,6 - 7,165,BRA,2:45
+Penalty shot - Goal,8,11.0,1,6,BRA,3.0,ZHANG C,6 - 8,165,CHN,2:45
+20 sec. exclusion in centre,8,2.0,1,6,BRA,3.0,TAN F,6 - 8,138,CHN,2:18
+Extra player shot - Goal,8,12.0,1,7,BRA,3.0,VRLIC J,7 - 8,118,BRA,1:58
+Turnover foul,8,5.0,1,7,BRA,3.0,LU W,7 - 8,96,CHN,1:36
+Steal,8,12.0,1,7,BRA,3.0,VRLIC J,7 - 8,96,BRA,1:36
+Turnover foul,8,3.0,1,7,BRA,3.0,GOMES G,7 - 8,81,BRA,1:21
+5m shot - Post,8,4.0,1,7,BRA,3.0,DONG T,7 - 8,65,CHN,1:05
+20 sec. exclusion in field,8,10.0,1,7,BRA,3.0,CHEN J,7 - 8,64,CHN,1:04
+Extra player shot - Goal,8,11.0,1,8,BRA,3.0,GUIMARAES G,8 - 8,38,BRA,0:38
+Time-Out,8,,1,8,BRA,3.0,,8 - 8,26,CHN,0:26
+20 sec. exclusion in centre,8,6.0,1,8,BRA,3.0,GOMES B,8 - 8,26,BRA,0:26
+Action shot - Goal,9,4.0,1,8,BRA,3.0,DONG T,8 - 9,18,CHN,0:18
+Time-Out,9,,1,8,BRA,3.0,,8 - 9,4,BRA,0:04
+5m shot - Blocked,9,10.0,1,8,BRA,3.0,PERRONE F,8 - 9,0,BRA,0:00
+Starting goalkeeper,9,1.0,1,8,BRA,4.0,ANTONELLI V,8 - 9,480,BRA,8:00
+Starting goalkeeper,9,1.0,1,8,BRA,4.0,WU H,8 - 9,480,CHN,8:00
+Sprint won possession,9,11.0,1,8,BRA,4.0,GUIMARAES G,8 - 9,480,BRA,8:00
+Turnover foul,9,12.0,1,8,BRA,4.0,VRLIC J,8 - 9,451,BRA,7:31
+Turnover foul,9,6.0,1,8,BRA,4.0,LI L,8 - 9,425,CHN,7:05
+Action shot - Saved,9,12.0,1,8,BRA,4.0,VRLIC J,8 - 9,412,BRA,6:52
+Turnover foul,9,10.0,1,8,BRA,4.0,CHEN J,8 - 9,388,CHN,6:28
+Steal,9,9.0,1,8,BRA,4.0,ROCHA B,8 - 9,388,BRA,6:28
+Centre shot - Goal,9,12.0,1,9,BRA,4.0,VRLIC J,9 - 9,365,BRA,6:05
+20 sec. exclusion in centre,9,9.0,1,9,BRA,4.0,ROCHA B,9 - 9,348,BRA,5:48
+Turnover foul,9,2.0,1,9,BRA,4.0,TAN F,9 - 9,296,CHN,4:56
+Steal,9,10.0,1,9,BRA,4.0,PERRONE F,9 - 9,296,BRA,4:56
+Action shot - Post,9,6.0,1,9,BRA,4.0,GOMES B,9 - 9,276,BRA,4:36
+Time-Out,9,,1,9,BRA,4.0,,9 - 9,272,CHN,4:32
+Yellow card,9,,1,9,BRA,4.0,Team Official,9 - 9,272,BRA,4:32
+Turnover foul,9,2.0,1,9,BRA,4.0,TAN F,9 - 9,254,CHN,4:14
+Turnover foul,9,12.0,1,9,BRA,4.0,VRLIC J,9 - 9,227,BRA,3:47
+Turnover foul,9,2.0,1,9,BRA,4.0,TAN F,9 - 9,202,CHN,3:22
+Action shot - Missed,9,7.0,1,9,BRA,4.0,DELGADO A,9 - 9,179,BRA,2:59
+20 sec. exclusion in field,9,12.0,1,9,BRA,4.0,VRLIC J,9 - 9,178,BRA,2:58
+Centre shot - Saved,9,10.0,1,9,BRA,4.0,PERRONE F,9 - 9,119,BRA,1:59
+Turnover foul,9,10.0,1,9,BRA,4.0,CHEN J,9 - 9,95,CHN,1:35
+Steal,9,10.0,1,9,BRA,4.0,PERRONE F,9 - 9,95,BRA,1:35
+Penalty foul,9,4.0,1,9,BRA,4.0,DONG T,9 - 9,74,CHN,1:14
+Penalty shot - Saved,9,10.0,1,9,BRA,4.0,PERRONE F,9 - 9,74,BRA,1:14
+Time-Out,9,,1,9,BRA,4.0,,9 - 9,36,BRA,0:36
+Turnover foul,9,5.0,1,9,BRA,4.0,SALEMI P,9 - 9,10,BRA,0:10
+Starting goalkeeper,0,1.0,2,0,CAN,1.0,WU H,0 - 0,480,CHN,8:00
+Starting goalkeeper,0,1.0,2,0,CAN,1.0,RANDALL R,0 - 0,480,CAN,8:00
+Sprint won possession,0,8.0,2,0,CAN,1.0,GRAHAM K,0 - 0,480,CAN,8:00
+Turnover foul,0,12.0,2,0,CAN,1.0,MCELROY J,0 - 0,455,CAN,7:35
+Turnover foul,0,8.0,2,0,CAN,1.0,GRAHAM K,0 - 0,417,CAN,6:57
+5m shot - Post,0,11.0,2,0,CAN,1.0,ZHANG C,0 - 0,395,CHN,6:35
+Action shot - Post,0,4.0,2,0,CAN,1.0,CONSTANTIN-BICARI,0 - 0,372,CAN,6:12
+5m shot - Missed,0,5.0,2,0,CAN,1.0,LU W,0 - 0,352,CHN,5:52
+Action shot - Missed,0,5.0,2,0,CAN,1.0,BOYD J,0 - 0,335,CAN,5:35
+Centre shot - Saved,0,6.0,2,0,CAN,1.0,LI L,0 - 0,320,CHN,5:20
+5m shot - Blocked,0,2.0,2,0,CAN,1.0,TAN F,0 - 0,294,CHN,4:54
+Turnover foul,0,2.0,2,0,CAN,1.0,TAN F,0 - 0,290,CHN,4:50
+Action shot - Saved,0,10.0,2,0,CAN,1.0,CONWAY J,0 - 0,265,CAN,4:25
+Time-Out,0,,2,0,CAN,1.0,,0 - 0,261,CHN,4:21
+Turnover foul,0,3.0,2,0,CAN,1.0,HU Z,0 - 0,252,CHN,4:12
+Action shot - Saved,0,8.0,2,0,CAN,1.0,GRAHAM K,0 - 0,241,CAN,4:01
+5m shot - Post,0,11.0,2,0,CAN,1.0,ZHANG C,0 - 0,212,CHN,3:32
+Turnover foul,0,12.0,2,0,CAN,1.0,LIANG N,0 - 0,183,CHN,3:03
+20 sec. exclusion in centre,0,7.0,2,0,CAN,1.0,CHEN Z,0 - 0,155,CHN,2:35
+Extra player shot - Goal,0,2.0,2,1,CAN,1.0,KUDABA C,0 - 1,138,CAN,2:18
+5m shot - Blocked,0,3.0,2,1,CAN,1.0,HU Z,0 - 1,114,CHN,1:54
+5m shot - Goal,0,12.0,2,2,CAN,1.0,MCELROY J,0 - 2,97,CAN,1:37
+5m shot - Blocked,0,4.0,2,2,CAN,1.0,DONG T,0 - 2,73,CHN,1:13
+20 sec. exclusion in centre,0,2.0,2,2,CAN,1.0,TAN F,0 - 2,65,CHN,1:05
+Action shot - Goal,0,12.0,2,3,CAN,1.0,MCELROY J,0 - 3,42,CAN,0:42
+5m shot - Saved,0,2.0,2,3,CAN,1.0,TAN F,0 - 3,17,CHN,0:17
+Time-Out,0,,2,3,CAN,1.0,,0 - 3,16,CAN,0:16
+Turnover foul,0,12.0,2,3,CAN,1.0,MCELROY J,0 - 3,4,CAN,0:04
+Steal,0,5.0,2,3,CAN,1.0,LU W,0 - 3,4,CHN,0:04
+Starting goalkeeper,0,1.0,2,3,CAN,2.0,WU H,0 - 3,480,CHN,8:00
+Starting goalkeeper,0,1.0,2,3,CAN,2.0,RANDALL R,0 - 3,480,CAN,8:00
+Sprint won possession,0,8.0,2,3,CAN,2.0,GRAHAM K,0 - 3,480,CAN,8:00
+5m shot - Saved,0,8.0,2,3,CAN,2.0,GRAHAM K,0 - 3,456,CAN,7:36
+Turnover foul,0,1.0,2,3,CAN,2.0,WU H,0 - 3,450,CHN,7:30
+Action shot - Goal,0,4.0,2,4,CAN,2.0,CONSTANTIN-BICARI,0 - 4,441,CAN,7:21
+Action shot - Saved,0,12.0,2,4,CAN,2.0,LIANG N,0 - 4,420,CHN,7:00
+Turnover foul,0,12.0,2,4,CAN,2.0,MCELROY J,0 - 4,402,CAN,6:42
+5m shot - Saved,0,6.0,2,4,CAN,2.0,LI L,0 - 4,383,CHN,6:23
+5m shot - Saved,0,5.0,2,4,CAN,2.0,BOYD J,0 - 4,360,CAN,6:00
+Action shot - Saved,0,7.0,2,4,CAN,2.0,TASCHEREAU A,0 - 4,344,CAN,5:44
+Penalty foul,0,8.0,2,4,CAN,2.0,LI L,0 - 4,322,CHN,5:22
+Penalty shot - Goal,0,12.0,2,5,CAN,2.0,MCELROY J,0 - 5,322,CAN,5:22
+Action shot - Saved,0,10.0,2,5,CAN,2.0,CONWAY J,0 - 5,293,CAN,4:53
+Turnover foul,0,4.0,2,5,CAN,2.0,DONG T,0 - 5,269,CHN,4:29
+5m shot - Post,0,5.0,2,5,CAN,2.0,BOYD J,0 - 5,246,CAN,4:06
+Turnover foul,0,3.0,2,5,CAN,2.0,HU Z,0 - 5,227,CHN,3:47
+5m shot - Goal,0,5.0,2,6,CAN,2.0,BOYD J,0 - 6,205,CAN,3:25
+Action shot - Saved,0,3.0,2,6,CAN,2.0,HU Z,0 - 6,184,CHN,3:04
+Turnover foul,0,4.0,2,6,CAN,2.0,CONSTANTIN-BICARI,0 - 6,164,CAN,2:44
+5m shot - Saved,0,11.0,2,6,CAN,2.0,ZHANG C,0 - 6,138,CHN,2:18
+Time-Out,0,,2,6,CAN,2.0,,0 - 6,129,CAN,2:09
+Turnover foul,0,10.0,2,6,CAN,2.0,CONWAY J,0 - 6,106,CAN,1:46
+20 sec. exclusion in centre,0,9.0,2,6,CAN,2.0,HALAJIAN M,0 - 6,88,CAN,1:28
+Time-Out,0,,2,6,CAN,2.0,,0 - 6,88,CHN,1:28
+Action shot - Blocked,0,6.0,2,6,CAN,2.0,LI L,0 - 6,61,CHN,1:01
+Turnover foul,0,12.0,2,6,CAN,2.0,MCELROY J,0 - 6,32,CAN,0:32
+Turnover foul,0,10.0,2,6,CAN,2.0,CHEN J,0 - 6,20,CHN,0:20
+Action shot - Saved,0,8.0,2,6,CAN,2.0,GRAHAM K,0 - 6,5,CAN,0:05
+Action shot - Saved,0,10.0,2,6,CAN,2.0,CONWAY J,0 - 6,1,CAN,0:01
+Starting goalkeeper,0,1.0,2,6,CAN,3.0,WU H,0 - 6,480,CHN,8:00
+Starting goalkeeper,0,1.0,2,6,CAN,3.0,RANDALL R,0 - 6,480,CAN,8:00
+Sprint won possession,0,8.0,2,6,CAN,3.0,GRAHAM K,0 - 6,480,CAN,8:00
+20 sec. exclusion in centre,0,6.0,2,6,CAN,3.0,LI L,0 - 6,460,CHN,7:40
+Action shot - Saved,0,12.0,2,6,CAN,3.0,MCELROY J,0 - 6,447,CAN,7:27
+5m shot - Missed,0,3.0,2,6,CAN,3.0,HU Z,0 - 6,426,CHN,7:06
+Action shot - Saved,0,4.0,2,6,CAN,3.0,CONSTANTIN-BICARI,0 - 6,411,CAN,6:51
+20 sec. exclusion in centre,0,8.0,2,6,CAN,3.0,GRAHAM K,0 - 6,394,CAN,6:34
+Extra player shot - Goal,1,2.0,2,6,CAN,3.0,TAN F,1 - 6,372,CHN,6:12
+Turnover foul,1,2.0,2,6,CAN,3.0,KUDABA C,1 - 6,348,CAN,5:48
+Steal,1,11.0,2,6,CAN,3.0,ZHANG C,1 - 6,341,CHN,5:41
+5m shot - Missed,1,2.0,2,6,CAN,3.0,TAN F,1 - 6,326,CHN,5:26
+20 sec. exclusion in field,1,12.0,2,6,CAN,3.0,LIANG N,1 - 6,322,CHN,5:22
+Time-Out,1,,2,6,CAN,3.0,,1 - 6,322,CAN,5:22
+Extra player shot - Saved,1,10.0,2,6,CAN,3.0,CONWAY J,1 - 6,285,CAN,4:45
+Action shot - Saved,1,12.0,2,6,CAN,3.0,MCELROY J,1 - 6,276,CAN,4:36
+20 sec. exclusion in centre,1,2.0,2,6,CAN,3.0,KUDABA C,1 - 6,275,CAN,4:35
+Extra player shot - Saved,1,11.0,2,6,CAN,3.0,ZHANG C,1 - 6,255,CHN,4:15
+Action shot - Goal,1,3.0,2,7,CAN,3.0,VIKALO O,1 - 7,231,CAN,3:51
+5m shot - Saved,1,3.0,2,7,CAN,3.0,HU Z,1 - 7,209,CHN,3:29
+5m shot - Saved,1,6.0,2,7,CAN,3.0,LI L,1 - 7,185,CHN,3:05
+Turnover foul,1,8.0,2,7,CAN,3.0,GRAHAM K,1 - 7,163,CAN,2:43
+Steal,1,3.0,2,7,CAN,3.0,HU Z,1 - 7,163,CHN,2:43
+Time-Out,1,,2,7,CAN,3.0,,1 - 7,163,CHN,2:43
+Turnover foul,1,3.0,2,7,CAN,3.0,HU Z,1 - 7,151,CHN,2:31
+5m shot - Saved,1,5.0,2,7,CAN,3.0,BOYD J,1 - 7,128,CAN,2:08
+Turnover foul,1,5.0,2,7,CAN,3.0,BOYD J,1 - 7,116,CAN,1:56
+Steal,1,4.0,2,7,CAN,3.0,DONG T,1 - 7,116,CHN,1:56
+5m shot - Saved,1,12.0,2,7,CAN,3.0,LIANG N,1 - 7,90,CHN,1:30
+Turnover foul,1,5.0,2,7,CAN,3.0,BOYD J,1 - 7,64,CAN,1:04
+Steal,1,4.0,2,7,CAN,3.0,DONG T,1 - 7,64,CHN,1:04
+5m shot - Post,1,3.0,2,7,CAN,3.0,HU Z,1 - 7,38,CHN,0:38
+Turnover foul,1,10.0,2,7,CAN,3.0,CONWAY J,1 - 7,12,CAN,0:12
+Starting goalkeeper,1,1.0,2,7,CAN,4.0,WU H,1 - 7,480,CHN,8:00
+Starting goalkeeper,1,1.0,2,7,CAN,4.0,RANDALL R,1 - 7,480,CAN,8:00
+Sprint won possession,1,3.0,2,7,CAN,4.0,HU Z,1 - 7,480,CHN,8:00
+20 sec. exclusion in centre,1,8.0,2,7,CAN,4.0,GRAHAM K,1 - 7,463,CAN,7:43
+Extra player shot - Saved,1,11.0,2,7,CAN,4.0,ZHANG C,1 - 7,443,CHN,7:23
+Turnover foul,1,10.0,2,7,CAN,4.0,CONWAY J,1 - 7,417,CAN,6:57
+5m shot - Saved,1,2.0,2,7,CAN,4.0,TAN F,1 - 7,400,CHN,6:40
+5m shot - Saved,1,10.0,2,7,CAN,4.0,CHEN J,1 - 7,342,CHN,5:42
+Turnover foul,1,11.0,2,7,CAN,4.0,TORAKIS G,1 - 7,310,CAN,5:10
+5m shot - Saved,1,12.0,2,7,CAN,4.0,LIANG N,1 - 7,285,CHN,4:45
+Time-Out,1,,2,7,CAN,4.0,,1 - 7,283,CAN,4:43
+Turnover foul,1,8.0,2,7,CAN,4.0,GRAHAM K,1 - 7,257,CAN,4:17
+Turnover foul,1,12.0,2,7,CAN,4.0,LIANG N,1 - 7,244,CHN,4:04
+Action shot - Saved,1,9.0,2,7,CAN,4.0,HALAJIAN M,1 - 7,230,CAN,3:50
+20 sec. exclusion in centre,1,12.0,2,7,CAN,4.0,MCELROY J,1 - 7,210,CAN,3:30
+Extra player shot - Missed,1,2.0,2,7,CAN,4.0,TAN F,1 - 7,191,CHN,3:11
+Turnover foul,1,8.0,2,7,CAN,4.0,GRAHAM K,1 - 7,180,CAN,3:00
+Steal,1,4.0,2,7,CAN,4.0,DONG T,1 - 7,180,CHN,3:00
+20 sec. exclusion in centre,1,5.0,2,7,CAN,4.0,LU W,1 - 7,136,CHN,2:16
+Extra player shot - Post,1,12.0,2,7,CAN,4.0,MCELROY J,1 - 7,119,CAN,1:59
+Action shot - Goal,1,2.0,2,8,CAN,4.0,KUDABA C,1 - 8,113,CAN,1:53
+Action shot - Goal,2,2.0,2,8,CAN,4.0,TAN F,2 - 8,95,CHN,1:35
+Action shot - Saved,2,8.0,2,8,CAN,4.0,GRAHAM K,2 - 8,67,CAN,1:07
+Turnover foul,2,2.0,2,8,CAN,4.0,TAN F,2 - 8,51,CHN,0:51
+Turnover foul,2,2.0,2,8,CAN,4.0,KUDABA C,2 - 8,29,CAN,0:29
+Time-Out,2,,2,8,CAN,4.0,,2 - 8,29,CHN,0:29
+Yellow card,2,,2,8,CAN,4.0,Team Official,2 - 8,29,CHN,0:29
+5m shot - Saved,2,2.0,2,8,CAN,4.0,TAN F,2 - 8,11,CHN,0:11
+Starting goalkeeper,0,1.0,3,0,CRO,1.0,PAVIC J,0 - 0,480,CRO,8:00
+Starting goalkeeper,0,1.0,3,0,CRO,1.0,WU H,0 - 0,480,CHN,8:00
+Sprint won possession,0,5.0,3,0,CRO,1.0,JOKOVIC M,0 - 0,480,CRO,8:00
+Centre shot - Goal,0,4.0,3,1,CRO,1.0,LONCAR L,1 - 0,455,CRO,7:35
+Action shot - Saved,0,10.0,3,1,CRO,1.0,CHEN J,1 - 0,432,CHN,7:12
+5m shot - Saved,0,5.0,3,1,CRO,1.0,JOKOVIC M,1 - 0,402,CRO,6:42
+Action shot - Saved,0,2.0,3,1,CRO,1.0,TAN F,1 - 0,373,CHN,6:13
+20 sec. exclusion in centre,0,1.0,3,1,CRO,1.0,WU H,1 - 0,371,CHN,6:11
+Extra player shot - Goal,0,2.0,3,2,CRO,1.0,BURIC D,2 - 0,369,CRO,6:09
+Turnover foul,0,5.0,3,2,CRO,1.0,LU W,2 - 0,340,CHN,5:40
+20 sec. exclusion in centre,0,5.0,3,2,CRO,1.0,LU W,2 - 0,320,CHN,5:20
+Action shot - Goal,0,7.0,3,3,CRO,1.0,MUSLIM P,3 - 0,297,CRO,4:57
+Centre shot - Goal,1,11.0,3,3,CRO,1.0,ZHANG C,3 - 1,279,CHN,4:39
+Turnover foul,1,12.0,3,3,CRO,1.0,OBRADOVIC P,3 - 1,264,CRO,4:24
+Turnover foul,1,3.0,3,3,CRO,1.0,HU Z,3 - 1,242,CHN,4:02
+Steal,1,9.0,3,3,CRO,1.0,SUKNO S,3 - 1,242,CRO,4:02
+Counter attack - Goal,1,9.0,3,4,CRO,1.0,SUKNO S,4 - 1,234,CRO,3:54
+5m shot - Missed,1,3.0,3,4,CRO,1.0,HU Z,4 - 1,210,CHN,3:30
+20 sec. exclusion in centre,1,9.0,3,4,CRO,1.0,XIE Z,4 - 1,197,CHN,3:17
+Action shot - Post,1,9.0,3,4,CRO,1.0,SUKNO S,4 - 1,172,CRO,2:52
+Time-Out,1,,3,4,CRO,1.0,,4 - 1,172,CHN,2:52
+20 sec. exclusion in centre,1,3.0,3,4,CRO,1.0,PETKOVIC A,4 - 1,155,CRO,2:35
+Action shot - Saved,1,11.0,3,4,CRO,1.0,ZHANG C,4 - 1,129,CHN,2:09
+5m shot - Saved,1,3.0,3,4,CRO,1.0,PETKOVIC A,4 - 1,101,CRO,1:41
+Turnover foul,1,10.0,3,4,CRO,1.0,PASKVALIN F,4 - 1,89,CRO,1:29
+Penalty foul,1,9.0,3,4,CRO,1.0,SUKNO S,4 - 1,74,CRO,1:14
+Penalty shot - Saved,1,11.0,3,4,CRO,1.0,ZHANG C,4 - 1,74,CHN,1:14
+Turnover foul,1,3.0,3,4,CRO,1.0,PETKOVIC A,4 - 1,45,CRO,0:45
+Turnover foul,1,5.0,3,4,CRO,1.0,LU W,4 - 1,27,CHN,0:27
+Steal,1,6.0,3,4,CRO,1.0,BUKIC L,4 - 1,27,CRO,0:27
+Time-Out,1,,3,4,CRO,1.0,,4 - 1,25,CRO,0:25
+5m shot - Post,1,12.0,3,4,CRO,1.0,OBRADOVIC P,4 - 1,2,CRO,0:02
+Starting goalkeeper,1,1.0,3,4,CRO,2.0,WU H,4 - 1,480,CHN,8:00
+Starting goalkeeper,1,1.0,3,4,CRO,2.0,PAVIC J,4 - 1,480,CRO,8:00
+Sprint won possession,1,9.0,3,4,CRO,2.0,SUKNO S,4 - 1,480,CRO,8:00
+Action shot - Missed,1,4.0,3,4,CRO,2.0,LONCAR L,4 - 1,463,CRO,7:43
+Turnover foul,1,2.0,3,4,CRO,2.0,TAN F,4 - 1,441,CHN,7:21
+Steal,1,8.0,3,4,CRO,2.0,BUSLJE A,4 - 1,441,CRO,7:21
+Turnover foul,1,9.0,3,4,CRO,2.0,SUKNO S,4 - 1,425,CRO,7:05
+Steal,1,6.0,3,4,CRO,2.0,LI L,4 - 1,425,CHN,7:05
+Turnover foul,1,6.0,3,4,CRO,2.0,LI L,4 - 1,401,CHN,6:41
+Steal,1,7.0,3,4,CRO,2.0,MUSLIM P,4 - 1,401,CRO,6:41
+Centre shot - Saved,1,4.0,3,4,CRO,2.0,LONCAR L,4 - 1,370,CRO,6:10
+Turnover foul,1,12.0,3,4,CRO,2.0,LIANG N,4 - 1,355,CHN,5:55
+Turnover foul,1,12.0,3,4,CRO,2.0,OBRADOVIC P,4 - 1,330,CRO,5:30
+Steal,1,5.0,3,4,CRO,2.0,LU W,4 - 1,327,CHN,5:27
+Turnover foul,1,2.0,3,4,CRO,2.0,TAN F,4 - 1,298,CHN,4:58
+Steal,1,8.0,3,4,CRO,2.0,BUSLJE A,4 - 1,298,CRO,4:58
+Counter attack - Post,1,8.0,3,4,CRO,2.0,BUSLJE A,4 - 1,286,CRO,4:46
+Time-Out,1,,3,4,CRO,2.0,,4 - 1,286,CHN,4:46
+Turnover foul,1,9.0,3,4,CRO,2.0,XIE Z,4 - 1,272,CHN,4:32
+Steal,1,6.0,3,4,CRO,2.0,BUKIC L,4 - 1,272,CRO,4:32
+Counter attack - Saved,1,5.0,3,4,CRO,2.0,JOKOVIC M,4 - 1,266,CRO,4:26
+Action shot - Missed,1,11.0,3,4,CRO,2.0,ZHANG C,4 - 1,249,CHN,4:09
+Counter attack - Goal,1,5.0,3,5,CRO,2.0,JOKOVIC M,5 - 1,241,CRO,4:01
+Action shot - Saved,1,8.0,3,5,CRO,2.0,LI L,5 - 1,219,CHN,3:39
+Action shot - Goal,1,3.0,3,6,CRO,2.0,PETKOVIC A,6 - 1,193,CRO,3:13
+Turnover foul,1,11.0,3,6,CRO,2.0,ZHANG C,6 - 1,162,CHN,2:42
+20 sec. exclusion in field,1,7.0,3,6,CRO,2.0,CHEN Z,6 - 1,159,CHN,2:39
+Time-Out,1,,3,6,CRO,2.0,,6 - 1,159,CRO,2:39
+Extra player shot - Goal,1,2.0,3,7,CRO,2.0,BURIC D,7 - 1,140,CRO,2:20
+20 sec. exclusion in centre,1,2.0,3,7,CRO,2.0,BURIC D,7 - 1,118,CRO,1:58
+Action shot - Saved,1,11.0,3,7,CRO,2.0,ZHANG C,7 - 1,91,CHN,1:31
+Counter attack - Goal,1,3.0,3,8,CRO,2.0,PETKOVIC A,8 - 1,77,CRO,1:17
+Action shot - Post,1,9.0,3,8,CRO,4.0,SUKNO S,8 - 1,121,CRO,2:01
+Turnover foul,1,8.0,3,8,CRO,4.0,BUSLJE A,8 - 1,117,CRO,1:57
+Action shot - Post,1,10.0,3,8,CRO,4.0,CHEN J,8 - 1,94,CHN,1:34
+Turnover foul,1,3.0,3,8,CRO,4.0,PETKOVIC A,8 - 1,67,CRO,1:07
+Steal,1,10.0,3,8,CRO,4.0,CHEN J,8 - 1,67,CHN,1:07
+Turnover foul,1,2.0,3,8,CRO,4.0,TAN F,8 - 1,38,CHN,0:38
+Turnover foul,1,12.0,3,8,CRO,2.0,LIANG N,8 - 1,67,CHN,1:07
+Counter attack - Goal,1,12.0,3,9,CRO,2.0,OBRADOVIC P,9 - 1,55,CRO,0:55
+Turnover foul,1,6.0,3,9,CRO,2.0,LI L,9 - 1,37,CHN,0:37
+Steal,1,11.0,3,9,CRO,2.0,SETKA A,9 - 1,37,CRO,0:37
+20 sec. exclusion in centre,1,6.0,3,9,CRO,2.0,LI L,9 - 1,17,CHN,0:17
+5m shot - Saved,1,11.0,3,9,CRO,2.0,SETKA A,9 - 1,1,CRO,0:01
+Starting goalkeeper,1,13.0,3,9,CRO,3.0,BIJAC M,9 - 1,480,CRO,8:00
+Starting goalkeeper,1,1.0,3,9,CRO,3.0,WU H,9 - 1,480,CHN,8:00
+Sprint won possession,1,4.0,3,9,CRO,3.0,DONG T,9 - 1,480,CHN,8:00
+Turnover foul,1,2.0,3,9,CRO,3.0,TAN F,9 - 1,442,CHN,7:22
+Steal,1,13.0,3,9,CRO,3.0,BIJAC M,9 - 1,442,CRO,7:22
+20 sec. exclusion in centre,1,8.0,3,9,CRO,3.0,LI L,9 - 1,420,CHN,7:00
+Action shot - Goal,1,12.0,3,10,CRO,3.0,OBRADOVIC P,10 - 1,399,CRO,6:39
+Turnover foul,1,6.0,3,10,CRO,3.0,LI L,10 - 1,371,CHN,6:11
+Steal,1,12.0,3,10,CRO,3.0,OBRADOVIC P,10 - 1,371,CRO,6:11
+Counter attack - Goal,1,12.0,3,11,CRO,3.0,OBRADOVIC P,11 - 1,366,CRO,6:06
+Turnover foul,1,6.0,3,11,CRO,3.0,LI L,11 - 1,336,CHN,5:36
+Steal,1,8.0,3,11,CRO,3.0,BUSLJE A,11 - 1,336,CRO,5:36
+20 sec. exclusion in centre,1,2.0,3,11,CRO,3.0,TAN F,11 - 1,321,CHN,5:21
+Extra player shot - Goal,1,7.0,3,12,CRO,3.0,MUSLIM P,12 - 1,305,CRO,5:05
+20 sec. exclusion in centre,1,8.0,3,12,CRO,3.0,BUSLJE A,12 - 1,283,CRO,4:43
+Extra player shot - Post,1,3.0,3,12,CRO,3.0,HU Z,12 - 1,265,CHN,4:25
+Turnover foul,1,10.0,3,12,CRO,3.0,PASKVALIN F,12 - 1,240,CRO,4:00
+Time-Out,1,,3,12,CRO,3.0,,12 - 1,235,CHN,3:55
+Turnover foul,1,6.0,3,12,CRO,3.0,LI L,12 - 1,217,CHN,3:37
+Steal,1,13.0,3,12,CRO,3.0,BIJAC M,12 - 1,217,CRO,3:37
+20 sec. exclusion in centre,1,7.0,3,12,CRO,3.0,CHEN Z,12 - 1,214,CHN,3:34
+Action shot - Goal,1,7.0,3,13,CRO,3.0,MUSLIM P,13 - 1,191,CRO,3:11
+5m shot - Saved,1,11.0,3,13,CRO,3.0,ZHANG C,13 - 1,170,CHN,2:50
+Centre shot - Goal,1,4.0,3,14,CRO,3.0,LONCAR L,14 - 1,149,CRO,2:29
+Turnover foul,1,6.0,3,14,CRO,3.0,LI L,14 - 1,123,CHN,2:03
+Steal,1,9.0,3,14,CRO,3.0,SUKNO S,14 - 1,123,CRO,2:03
+20 sec. exclusion in field,1,4.0,3,14,CRO,3.0,DONG T,14 - 1,122,CHN,2:02
+Time-Out,1,,3,14,CRO,3.0,,14 - 1,122,CRO,2:02
+Action shot - Goal,1,5.0,3,15,CRO,3.0,JOKOVIC M,15 - 1,100,CRO,1:40
+Turnover foul,1,2.0,3,15,CRO,3.0,TAN F,15 - 1,75,CHN,1:15
+Steal,1,6.0,3,15,CRO,3.0,BUKIC L,15 - 1,75,CRO,1:15
+5m shot - Goal,1,9.0,3,16,CRO,3.0,SUKNO S,16 - 1,60,CRO,1:00
+Action shot - Missed,1,12.0,3,16,CRO,3.0,LIANG N,16 - 1,33,CHN,0:33
+5m shot - Missed,1,9.0,3,16,CRO,3.0,SUKNO S,16 - 1,16,CRO,0:16
+20 sec. exclusion in field,1,12.0,3,16,CRO,3.0,OBRADOVIC P,16 - 1,15,CRO,0:15
+Extra player shot - Missed,1,6.0,3,16,CRO,3.0,LI L,16 - 1,1,CHN,0:01
+Starting goalkeeper,1,13.0,3,16,CRO,4.0,BIJAC M,16 - 1,480,CRO,8:00
+Starting goalkeeper,1,1.0,3,16,CRO,4.0,WU H,16 - 1,480,CHN,8:00
+Sprint won possession,1,6.0,3,16,CRO,4.0,BUKIC L,16 - 1,480,CRO,8:00
+Turnover foul,1,5.0,3,16,CRO,4.0,JOKOVIC M,16 - 1,454,CRO,7:34
+Steal,1,1.0,3,16,CRO,4.0,WU H,16 - 1,454,CHN,7:34
+Action shot - Saved,1,5.0,3,16,CRO,4.0,LU W,16 - 1,432,CHN,7:12
+Turnover foul,1,12.0,3,16,CRO,4.0,OBRADOVIC P,16 - 1,420,CRO,7:00
+5m shot - Saved,1,9.0,3,16,CRO,4.0,SUKNO S,16 - 1,384,CRO,6:24
+Turnover foul,1,5.0,3,16,CRO,4.0,LU W,16 - 1,356,CHN,5:56
+20 sec. exclusion in centre,1,4.0,3,16,CRO,4.0,DONG T,16 - 1,350,CHN,5:50
+Action shot - Goal,1,5.0,3,17,CRO,4.0,JOKOVIC M,17 - 1,326,CRO,5:26
+20 sec. exclusion in centre,1,2.0,3,17,CRO,4.0,BURIC D,17 - 1,302,CRO,5:02
+Extra player shot - Missed,1,11.0,3,17,CRO,4.0,ZHANG C,17 - 1,283,CHN,4:43
+Turnover foul,1,9.0,3,17,CRO,4.0,SUKNO S,17 - 1,257,CRO,4:17
+Steal,1,8.0,3,17,CRO,4.0,LI L,17 - 1,257,CHN,4:17
+Turnover foul,1,8.0,3,17,CRO,4.0,LI L,17 - 1,239,CHN,3:59
+Steal,1,13.0,3,17,CRO,4.0,BIJAC M,17 - 1,239,CRO,3:59
+Time-Out,1,,3,17,CRO,4.0,,17 - 1,239,CRO,3:59
+20 sec. exclusion in centre,1,6.0,3,17,CRO,4.0,LI L,17 - 1,226,CHN,3:46
+Extra player shot - Missed,1,9.0,3,17,CRO,4.0,SUKNO S,17 - 1,222,CRO,3:42
+5m shot - Post,1,3.0,3,17,CRO,4.0,HU Z,17 - 1,191,CHN,3:11
+5m shot - Saved,1,7.0,3,17,CRO,4.0,MUSLIM P,17 - 1,174,CRO,2:54
+Steal,1,13.0,3,17,CRO,4.0,BIJAC M,17 - 1,38,CRO,0:38
+Time-Out,1,,3,17,CRO,4.0,,17 - 1,32,CHN,0:32
+Turnover foul,1,11.0,3,17,CRO,4.0,ZHANG C,17 - 1,8,CHN,0:08
+Steal,1,9.0,3,17,CRO,4.0,SUKNO S,17 - 1,8,CRO,0:08
+5m shot - Missed,1,9.0,3,17,CRO,4.0,SUKNO S,17 - 1,0,CRO,0:00
+Starting goalkeeper,0,1.0,4,0,RUS,1.0,WU H,0 - 0,480,CHN,8:00
+Starting goalkeeper,0,1.0,4,0,RUS,1.0,ANTONOV A,0 - 0,480,RUS,8:00
+Sprint won possession,0,10.0,4,0,RUS,1.0,KHOLOD D,0 - 0,480,RUS,8:00
+Centre shot - Post,0,11.0,4,0,RUS,1.0,LISUNOV S,0 - 0,454,RUS,7:34
+Counter attack - Goal,1,2.0,4,0,RUS,1.0,TAN F,1 - 0,437,CHN,7:17
+Centre shot - Saved,1,11.0,4,0,RUS,1.0,LISUNOV S,1 - 0,408,RUS,6:48
+Counter attack - Post,1,11.0,4,0,RUS,1.0,ZHANG C,1 - 0,397,CHN,6:37
+Turnover foul,1,2.0,4,0,RUS,1.0,BUGAYCHUK A,1 - 0,376,RUS,6:16
+Action shot - Blocked,1,5.0,4,0,RUS,1.0,LU W,1 - 0,355,CHN,5:55
+20 sec. exclusion in centre,1,11.0,4,0,RUS,1.0,ZHANG C,1 - 0,350,CHN,5:50
+Extra player shot - Goal,1,10.0,4,1,RUS,1.0,KHOLOD D,1 - 1,330,RUS,5:30
+5m shot - Post,1,4.0,4,1,RUS,1.0,DONG T,1 - 1,311,CHN,5:11
+Turnover foul,1,10.0,4,1,RUS,1.0,KHOLOD D,1 - 1,284,RUS,4:44
+Steal,1,6.0,4,1,RUS,1.0,LI L,1 - 1,284,CHN,4:44
+Turnover foul,1,12.0,4,1,RUS,1.0,LIANG N,1 - 1,259,CHN,4:19
+Steal,1,9.0,4,1,RUS,1.0,STEPANIUK K,1 - 1,259,RUS,4:19
+Turnover foul,1,2.0,4,1,RUS,1.0,BUGAYCHUK A,1 - 1,231,RUS,3:51
+Steal,1,12.0,4,1,RUS,1.0,LIANG N,1 - 1,231,CHN,3:51
+20 sec. exclusion in centre,1,9.0,4,1,RUS,1.0,STEPANIUK K,1 - 1,210,RUS,3:30
+Time-Out,1,,4,1,RUS,1.0,,1 - 1,210,CHN,3:30
+Turnover foul,1,2.0,4,1,RUS,1.0,TAN F,1 - 1,185,CHN,3:05
+Action shot - Goal,1,10.0,4,2,RUS,1.0,KHOLOD D,1 - 2,162,RUS,2:42
+Turnover foul,1,2.0,4,2,RUS,1.0,TAN F,1 - 2,131,CHN,2:11
+Steal,1,4.0,4,2,RUS,1.0,BYCHKOV I,1 - 2,131,RUS,2:11
+Action shot - Blocked,1,9.0,4,2,RUS,1.0,STEPANIUK K,1 - 2,103,RUS,1:43
+Starting goalkeeper,1,1.0,4,2,RUS,2.0,WU H,1 - 2,480,CHN,8:00
+Starting goalkeeper,1,1.0,4,2,RUS,2.0,ANTONOV A,1 - 2,480,RUS,8:00
+Sprint won possession,1,10.0,4,2,RUS,2.0,KHOLOD D,1 - 2,480,RUS,8:00
+Steal,1,9.0,4,2,RUS,2.0,STEPANIUK K,1 - 2,480,RUS,8:00
+Turnover foul,1,2.0,4,2,RUS,2.0,TAN F,1 - 2,480,CHN,8:00
+Steal,1,10.0,4,2,RUS,2.0,KHOLOD D,1 - 2,480,RUS,8:00
+20 sec. exclusion in centre,1,8.0,4,2,RUS,2.0,LI L,1 - 2,461,CHN,7:41
+Extra player shot - Goal,1,7.0,4,3,RUS,2.0,TIMAKOV V,1 - 3,460,RUS,7:40
+Turnover foul,1,8.0,4,3,RUS,2.0,LI L,1 - 3,450,CHN,7:30
+Penalty shot - Goal,1,9.0,4,4,RUS,2.0,STEPANIUK K,1 - 4,445,RUS,7:25
+Penalty foul,1,9.0,4,4,RUS,2.0,XIE Z,1 - 4,445,CHN,7:25
+Turnover foul,1,3.0,4,4,RUS,2.0,ODINTSOV A,1 - 4,370,RUS,6:10
+20 sec. exclusion in centre,1,3.0,4,4,RUS,2.0,ODINTSOV A,1 - 4,368,RUS,6:08
+Action shot - Saved,1,4.0,4,4,RUS,2.0,DONG T,1 - 4,352,CHN,5:52
+Action shot - Goal,2,2.0,4,4,RUS,2.0,TAN F,2 - 4,348,CHN,5:48
+Action shot - Missed,2,7.0,4,4,RUS,2.0,TIMAKOV V,2 - 4,334,RUS,5:34
+Counter attack - Saved,2,10.0,4,4,RUS,2.0,CHEN J,2 - 4,324,CHN,5:24
+Action shot - Saved,2,5.0,4,4,RUS,2.0,LU W,2 - 4,299,CHN,4:59
+Turnover foul,2,8.0,4,4,RUS,2.0,NAGAEV I,2 - 4,272,RUS,4:32
+Action shot - Goal,3,4.0,4,4,RUS,2.0,DONG T,3 - 4,251,CHN,4:11
+Centre shot - Goal,3,11.0,4,5,RUS,2.0,LISUNOV S,3 - 5,225,RUS,3:45
+Turnover foul,3,12.0,4,5,RUS,2.0,LIANG N,3 - 5,202,CHN,3:22
+Steal,3,1.0,4,5,RUS,2.0,ANTONOV A,3 - 5,202,RUS,3:22
+Action shot - Post,3,4.0,4,5,RUS,2.0,BYCHKOV I,3 - 5,188,RUS,3:08
+Counter attack - Goal,4,6.0,4,5,RUS,2.0,LI L,4 - 5,174,CHN,2:54
+20 sec. exclusion in centre,4,8.0,4,5,RUS,2.0,LI L,4 - 5,150,CHN,2:30
+Extra player shot - Goal,4,3.0,4,6,RUS,2.0,ODINTSOV A,4 - 6,142,RUS,2:22
+Action shot - Post,4,11.0,4,6,RUS,2.0,ZHANG C,4 - 6,111,CHN,1:51
+Turnover foul,4,10.0,4,6,RUS,2.0,KHOLOD D,4 - 6,87,RUS,1:27
+Steal,4,8.0,4,6,RUS,2.0,LI L,4 - 6,87,CHN,1:27
+Time-Out,4,,4,6,RUS,2.0,,4 - 6,87,CHN,1:27
+Turnover foul,4,2.0,4,6,RUS,2.0,TAN F,4 - 6,67,CHN,1:07
+Steal,4,1.0,4,6,RUS,2.0,ANTONOV A,4 - 6,67,RUS,1:07
+Turnover foul,4,3.0,4,6,RUS,2.0,ODINTSOV A,4 - 6,62,RUS,1:02
+20 sec. exclusion in centre,4,11.0,4,6,RUS,2.0,LISUNOV S,4 - 6,54,RUS,0:54
+Extra player shot - Goal,5,11.0,4,6,RUS,2.0,ZHANG C,5 - 6,34,CHN,0:34
+Turnover foul,5,9.0,4,6,RUS,2.0,STEPANIUK K,5 - 6,13,RUS,0:13
+5m shot - Saved,5,5.0,4,6,RUS,2.0,LU W,5 - 6,0,CHN,0:00
+Starting goalkeeper,5,1.0,4,6,RUS,3.0,WU H,5 - 6,480,CHN,8:00
+Turnover foul,5,2.0,4,6,RUS,4.0,BUGAYCHUK A,5 - 6,63,RUS,1:03
+5m shot - Saved,5,11.0,4,6,RUS,4.0,ZHANG C,5 - 6,35,CHN,0:35
+20 sec. exclusion in centre,5,10.0,4,6,RUS,4.0,KHOLOD D,5 - 6,20,RUS,0:20
+Extra player shot - Goal,10,4.0,4,10,RUS,4.0,DONG T,10 - 10,1,CHN,0:01
+5m shot - Blocked,10,9.0,4,10,RUS,4.0,STEPANIUK K,10 - 10,0,RUS,0:00
+Starting goalkeeper,10,1.0,4,10,RUS,3.0,ANTONOV A,10 - 10,480,RUS,8:00
+Sprint won possession,10,10.0,4,10,RUS,3.0,KHOLOD D,10 - 10,480,RUS,8:00
+20 sec. exclusion in centre,10,5.0,4,10,RUS,3.0,LU W,10 - 10,460,CHN,7:40
+Extra player shot - Saved,10,2.0,4,10,RUS,3.0,BUGAYCHUK A,10 - 10,448,RUS,7:28
+5m shot - Missed,10,6.0,4,10,RUS,3.0,LI L,10 - 10,425,CHN,7:05
+Turnover foul,10,9.0,4,10,RUS,3.0,STEPANIUK K,10 - 10,404,RUS,6:44
+Counter attack - Post,10,10.0,4,10,RUS,3.0,CHEN J,10 - 10,389,CHN,6:29
+Action shot - Missed,10,4.0,4,10,RUS,3.0,DONG T,10 - 10,372,CHN,6:12
+5m shot - Saved,10,2.0,4,10,RUS,3.0,BUGAYCHUK A,10 - 10,341,RUS,5:41
+5m shot - Blocked,10,5.0,4,10,RUS,3.0,LU W,10 - 10,313,CHN,5:13
+20 sec. exclusion in centre,10,4.0,4,10,RUS,3.0,DONG T,10 - 10,294,CHN,4:54
+Extra player shot - Goal,5,3.0,4,7,RUS,3.0,ODINTSOV A,5 - 7,283,RUS,4:43
+5m shot - Missed,5,6.0,4,7,RUS,3.0,LI L,5 - 7,257,CHN,4:17
+5m shot - Post,5,8.0,4,7,RUS,3.0,NAGAEV I,5 - 7,227,RUS,3:47
+Action shot - Blocked,5,11.0,4,7,RUS,3.0,ZHANG C,5 - 7,213,CHN,3:33
+20 sec. exclusion in centre,5,3.0,4,7,RUS,3.0,HU Z,5 - 7,195,CHN,3:15
+Time-Out,5,,4,7,RUS,3.0,,5 - 7,195,RUS,3:15
+Yellow card,5,,4,7,RUS,3.0,Team Official,5 - 7,195,CHN,3:15
+Extra player shot - Saved,5,10.0,4,7,RUS,3.0,KHOLOD D,5 - 7,172,RUS,2:52
+Turnover foul,5,10.0,4,7,RUS,3.0,CHEN J,5 - 7,141,CHN,2:21
+Action shot - Saved,5,10.0,4,7,RUS,3.0,CHEN J,5 - 7,136,CHN,2:16
+Turnover foul,5,8.0,4,7,RUS,3.0,NAGAEV I,5 - 7,124,RUS,2:04
+Time-Out,5,,4,7,RUS,3.0,,5 - 7,124,CHN,2:04
+20 sec. exclusion in centre,5,5.0,4,7,RUS,3.0,ZINNATULLIN A,5 - 7,99,RUS,1:39
+Extra player shot - Missed,5,4.0,4,7,RUS,3.0,DONG T,5 - 7,92,CHN,1:32
+Turnover foul,5,8.0,4,7,RUS,3.0,NAGAEV I,5 - 7,77,RUS,1:17
+20 sec. exclusion in centre,5,7.0,4,7,RUS,3.0,TIMAKOV V,5 - 7,66,RUS,1:06
+Extra player shot - Goal,6,5.0,4,7,RUS,3.0,LU W,6 - 7,54,CHN,0:54
+20 sec. exclusion in centre,6,2.0,4,7,RUS,3.0,TAN F,6 - 7,37,CHN,0:37
+20 sec. exclusion in centre,6,10.0,4,7,RUS,3.0,CHEN J,6 - 7,35,CHN,0:35
+Turnover foul,6,4.0,4,7,RUS,3.0,BYCHKOV I,6 - 7,25,RUS,0:25
+Steal,6,5.0,4,7,RUS,3.0,LU W,6 - 7,25,CHN,0:25
+Counter attack - Goal,7,2.0,4,7,RUS,3.0,TAN F,7 - 7,2,CHN,0:02
+5m shot - Missed,7,9.0,4,7,RUS,3.0,STEPANIUK K,7 - 7,0,RUS,0:00
+Starting goalkeeper,7,1.0,4,7,RUS,4.0,WU H,7 - 7,480,CHN,8:00
+Starting goalkeeper,7,1.0,4,7,RUS,4.0,ANTONOV A,7 - 7,480,RUS,8:00
+Sprint won possession,7,7.0,4,7,RUS,4.0,CHEN Z,7 - 7,480,CHN,8:00
+Centre shot - Saved,7,11.0,4,7,RUS,4.0,ZHANG C,7 - 7,456,CHN,7:36
+Action shot - Goal,7,8.0,4,8,RUS,4.0,NAGAEV I,7 - 8,434,RUS,7:14
+Turnover foul,7,6.0,4,8,RUS,4.0,LI L,7 - 8,408,CHN,6:48
+Steal,7,1.0,4,8,RUS,4.0,ANTONOV A,7 - 8,408,RUS,6:48
+Counter attack - Post,7,8.0,4,8,RUS,4.0,NAGAEV I,7 - 8,387,RUS,6:27
+Turnover foul,7,6.0,4,8,RUS,4.0,ASHAEV A,7 - 8,377,RUS,6:17
+Steal,7,2.0,4,8,RUS,4.0,TAN F,7 - 8,377,CHN,6:17
+Counter attack - Goal,8,2.0,4,8,RUS,4.0,TAN F,8 - 8,364,CHN,6:04
+20 sec. exclusion in centre,8,7.0,4,8,RUS,4.0,CHEN Z,8 - 8,339,CHN,5:39
+Extra player shot - Goal,8,11.0,4,9,RUS,4.0,LISUNOV S,8 - 9,330,RUS,5:30
+5m shot - Saved,8,3.0,4,9,RUS,4.0,HU Z,8 - 9,301,CHN,5:01
+Turnover foul,8,10.0,4,9,RUS,4.0,KHOLOD D,8 - 9,273,RUS,4:33
+Steal,8,6.0,4,9,RUS,4.0,LI L,8 - 9,273,CHN,4:33
+Action shot - Missed,8,6.0,4,9,RUS,4.0,LI L,8 - 9,250,CHN,4:10
+Turnover foul,8,9.0,4,9,RUS,4.0,STEPANIUK K,8 - 9,232,RUS,3:52
+Time-Out,8,,4,9,RUS,4.0,,8 - 9,232,CHN,3:52
+5m shot - Missed,8,3.0,4,9,RUS,4.0,HU Z,8 - 9,214,CHN,3:34
+Turnover foul,8,6.0,4,9,RUS,4.0,ASHAEV A,8 - 9,194,RUS,3:14
+Steal,8,7.0,4,9,RUS,4.0,CHEN Z,8 - 9,194,CHN,3:14
+Turnover foul,8,7.0,4,9,RUS,4.0,CHEN Z,8 - 9,178,CHN,2:58
+Steal,8,10.0,4,9,RUS,4.0,KHOLOD D,8 - 9,178,RUS,2:58
+20 sec. exclusion in centre,8,2.0,4,9,RUS,4.0,TAN F,8 - 9,155,CHN,2:35
+Time-Out,8,,4,9,RUS,4.0,,8 - 9,155,RUS,2:35
+Extra player shot - Goal,8,9.0,4,10,RUS,4.0,STEPANIUK K,8 - 10,138,RUS,2:18
+20 sec. exclusion in centre,8,8.0,4,10,RUS,4.0,NAGAEV I,8 - 10,124,RUS,2:04
+Action shot - Saved,8,4.0,4,10,RUS,4.0,DONG T,8 - 10,101,CHN,1:41
+Action shot - Goal,9,4.0,4,10,RUS,4.0,DONG T,9 - 10,91,CHN,1:31
+Starting goalkeeper,0,1.0,5,0,ARG,1.0,WU H,0 - 0,480,CHN,8:00
+Starting goalkeeper,0,1.0,5,0,ARG,1.0,MALNERO D,0 - 0,480,ARG,8:00
+Sprint won possession,0,5.0,5,0,ARG,1.0,LU W,0 - 0,480,CHN,8:00
+Turnover foul,0,10.0,5,0,ARG,1.0,CHEN J,0 - 0,454,CHN,7:34
+Turnover foul,0,12.0,5,0,ARG,1.0,YANEZ G,0 - 0,426,ARG,7:06
+Turnover foul,0,5.0,5,0,ARG,1.0,LU W,0 - 0,411,CHN,6:51
+Steal,0,8.0,5,0,ARG,1.0,CORSI E,0 - 0,411,ARG,6:51
+Turnover foul,0,11.0,5,0,ARG,1.0,DEMARCHI F,0 - 0,396,ARG,6:36
+Steal,0,4.0,5,0,ARG,1.0,DONG T,0 - 0,396,CHN,6:36
+20 sec. exclusion in field,0,11.0,5,0,ARG,1.0,DEMARCHI F,0 - 0,396,ARG,6:36
+Action shot - Goal,1,11.0,5,0,ARG,1.0,ZHANG C,1 - 0,370,CHN,6:10
+Turnover foul,1,2.0,5,0,ARG,1.0,VEICH R,1 - 0,344,ARG,5:44
+Steal,1,2.0,5,0,ARG,1.0,TAN F,1 - 0,344,CHN,5:44
+20 sec. exclusion in centre,1,10.0,5,0,ARG,1.0,DASZCZYK J,1 - 0,323,ARG,5:23
+Extra player shot - Goal,2,6.0,5,0,ARG,1.0,LI L,2 - 0,305,CHN,5:05
+20 sec. exclusion in centre,2,6.0,5,0,ARG,1.0,LI L,2 - 0,277,CHN,4:37
+Turnover foul,2,2.0,5,0,ARG,1.0,VEICH R,2 - 0,254,ARG,4:14
+Action shot - Goal,3,12.0,5,0,ARG,1.0,LIANG N,3 - 0,227,CHN,3:47
+Time-Out,3,,5,0,ARG,1.0,,3 - 0,227,ARG,3:47
+5m shot - Saved,3,9.0,5,0,ARG,1.0,CARABANTES I,3 - 0,202,ARG,3:22
+5m shot - Goal,4,11.0,5,0,ARG,1.0,ZHANG C,4 - 0,184,CHN,3:04
+Action shot - Saved,4,11.0,5,0,ARG,1.0,DEMARCHI F,4 - 0,162,ARG,2:42
+Counter attack - Goal,5,9.0,5,0,ARG,1.0,XIE Z,5 - 0,151,CHN,2:31
+5m shot - Goal,5,12.0,5,1,ARG,1.0,YANEZ G,5 - 1,137,ARG,2:17
+Action shot - Saved,5,4.0,5,1,ARG,1.0,DONG T,5 - 1,111,CHN,1:51
+20 sec. exclusion in centre,5,8.0,5,1,ARG,1.0,LI L,5 - 1,95,CHN,1:35
+Extra player shot - Goal,5,12.0,5,2,ARG,1.0,YANEZ G,5 - 2,89,ARG,1:29
+20 sec. exclusion in centre,5,2.0,5,2,ARG,1.0,VEICH R,5 - 2,65,ARG,1:05
+Action shot - Post,5,9.0,5,2,ARG,1.0,XIE Z,5 - 2,41,CHN,0:41
+5m shot - Blocked,5,11.0,5,2,ARG,1.0,ZHANG C,5 - 2,26,CHN,0:26
+Centre shot - Goal,6,12.0,5,2,ARG,1.0,LIANG N,6 - 2,12,CHN,0:12
+5m shot - Saved,6,2.0,5,2,ARG,1.0,VEICH R,6 - 2,0,ARG,0:00
+Starting goalkeeper,6,1.0,5,2,ARG,2.0,WU H,6 - 2,480,CHN,8:00
+Starting goalkeeper,6,1.0,5,2,ARG,2.0,MALNERO D,6 - 2,480,ARG,8:00
+Sprint won possession,6,8.0,5,2,ARG,2.0,CORSI E,6 - 2,480,ARG,8:00
+20 sec. exclusion in centre,6,5.0,5,2,ARG,2.0,LU W,6 - 2,455,CHN,7:35
+Centre shot - Goal,6,2.0,5,3,ARG,2.0,VEICH R,6 - 3,442,ARG,7:22
+Action shot - Blocked,6,10.0,5,3,ARG,2.0,CHEN J,6 - 3,422,CHN,7:02
+5m shot - Goal,7,5.0,5,3,ARG,2.0,LU W,7 - 3,375,CHN,6:15
+20 sec. exclusion in centre,7,12.0,5,3,ARG,2.0,LIANG N,7 - 3,347,CHN,5:47
+5m shot - Goal,7,9.0,5,4,ARG,2.0,CARABANTES I,7 - 4,325,ARG,5:25
+5m shot - Blocked,7,2.0,5,4,ARG,2.0,TAN F,7 - 4,302,CHN,5:02
+5m shot - Saved,7,12.0,5,4,ARG,2.0,YANEZ G,7 - 4,280,ARG,4:40
+Turnover foul,7,2.0,5,4,ARG,2.0,VEICH R,7 - 4,263,ARG,4:23
+Counter attack - Missed,7,5.0,5,4,ARG,2.0,LU W,7 - 4,254,CHN,4:14
+Turnover foul,7,2.0,5,4,ARG,2.0,VEICH R,7 - 4,235,ARG,3:55
+Steal,7,2.0,5,4,ARG,2.0,TAN F,7 - 4,235,CHN,3:55
+Counter attack - Saved,7,2.0,5,4,ARG,2.0,TAN F,7 - 4,224,CHN,3:44
+5m shot - Saved,7,6.0,5,4,ARG,2.0,LI L,7 - 4,204,CHN,3:24
+20 sec. exclusion in field,7,6.0,5,4,ARG,2.0,LI L,7 - 4,195,CHN,3:15
+Extra player shot - Goal,7,12.0,5,5,ARG,2.0,YANEZ G,7 - 5,190,ARG,3:10
+Turnover foul,7,10.0,5,5,ARG,2.0,CHEN J,7 - 5,163,CHN,2:43
+20 sec. exclusion in centre,7,5.0,5,5,ARG,2.0,LU W,7 - 5,139,CHN,2:19
+Time-Out,7,,5,5,ARG,2.0,,7 - 5,139,ARG,2:19
+Turnover foul,7,2.0,5,5,ARG,2.0,VEICH R,7 - 5,127,ARG,2:07
+Counter attack - Goal,8,4.0,5,5,ARG,2.0,DONG T,8 - 5,114,CHN,1:54
+Turnover foul,8,9.0,5,5,ARG,2.0,CARABANTES I,8 - 5,87,ARG,1:27
+Steal,8,9.0,5,5,ARG,2.0,XIE Z,8 - 5,87,CHN,1:27
+Counter attack - Goal,9,4.0,5,5,ARG,2.0,DONG T,9 - 5,75,CHN,1:15
+5m shot - Goal,9,12.0,5,6,ARG,2.0,YANEZ G,9 - 6,60,ARG,1:00
+5m shot - Saved,9,3.0,5,6,ARG,2.0,HU Z,9 - 6,36,CHN,0:36
+Turnover foul,9,11.0,5,6,ARG,2.0,ZHANG C,9 - 6,26,CHN,0:26
+Steal,9,8.0,5,6,ARG,2.0,CORSI E,9 - 6,26,ARG,0:26
+5m shot - Missed,9,9.0,5,6,ARG,2.0,CARABANTES I,9 - 6,8,ARG,0:08
+Extra player shot - Goal,15,2.0,5,8,ARG,4.0,TAN F,15 - 8,134,CHN,2:14
+5m shot - Blocked,15,2.0,5,8,ARG,4.0,VEICH R,15 - 8,109,ARG,1:49
+Turnover foul,15,7.0,5,8,ARG,4.0,CHEN Z,15 - 8,86,CHN,1:26
+Steal,15,12.0,5,8,ARG,4.0,YANEZ G,15 - 8,86,ARG,1:26
+Time-Out,15,,5,8,ARG,4.0,,15 - 8,86,ARG,1:26
+Goalkeeper substitution,15,1.0,5,8,ARG,4.0,WU H,15 - 8,86,CHN,1:26
+Goalkeeper substitution,15,13.0,5,8,ARG,4.0,LIANG Z,15 - 8,86,CHN,1:26
+20 sec. exclusion in centre,15,9.0,5,8,ARG,4.0,XIE Z,15 - 8,75,CHN,1:15
+5m shot - Missed,15,11.0,5,8,ARG,2.0,ZHANG C,15 - 8,0,CHN,0:00
+Starting goalkeeper,15,1.0,5,8,ARG,3.0,WU H,15 - 8,480,CHN,8:00
+Starting goalkeeper,15,13.0,5,8,ARG,3.0,TESTA F,15 - 8,480,ARG,8:00
+Sprint won possession,15,3.0,5,8,ARG,3.0,HU Z,15 - 8,480,CHN,8:00
+5m shot - Post,15,2.0,5,8,ARG,3.0,TAN F,15 - 8,451,CHN,7:31
+5m shot - Goal,9,9.0,5,7,ARG,3.0,CARABANTES I,9 - 7,421,ARG,7:01
+Action shot - Saved,9,12.0,5,7,ARG,3.0,LIANG N,9 - 7,404,CHN,6:44
+Turnover foul,9,11.0,5,7,ARG,3.0,DEMARCHI F,9 - 7,401,ARG,6:41
+Turnover foul,9,3.0,5,7,ARG,3.0,HU Z,9 - 7,390,CHN,6:30
+Steal,9,9.0,5,7,ARG,3.0,CARABANTES I,9 - 7,390,ARG,6:30
+Turnover foul,9,11.0,5,7,ARG,3.0,DEMARCHI F,9 - 7,374,ARG,6:14
+Steal,9,1.0,5,7,ARG,3.0,WU H,9 - 7,374,CHN,6:14
+Counter attack - Goal,10,4.0,5,7,ARG,3.0,DONG T,10 - 7,360,CHN,6:00
+Turnover foul,10,5.0,5,7,ARG,3.0,LOPEZ E,10 - 7,339,ARG,5:39
+Turnover foul,10,2.0,5,7,ARG,3.0,TAN F,10 - 7,314,CHN,5:14
+Steal,10,10.0,5,7,ARG,3.0,DASZCZYK J,10 - 7,314,ARG,5:14
+20 sec. exclusion in field,10,10.0,5,7,ARG,3.0,CHEN J,10 - 7,302,CHN,5:02
+Extra player shot - Missed,10,2.0,5,7,ARG,3.0,VEICH R,10 - 7,281,ARG,4:41
+Turnover foul,10,8.0,5,7,ARG,3.0,LI L,10 - 7,256,CHN,4:16
+Steal,10,13.0,5,7,ARG,3.0,TESTA F,10 - 7,256,ARG,4:16
+Turnover foul,10,5.0,5,7,ARG,3.0,LOPEZ E,10 - 7,241,ARG,4:01
+Centre shot - Goal,11,8.0,5,7,ARG,3.0,LI L,11 - 7,219,CHN,3:39
+Turnover foul,11,6.0,5,7,ARG,3.0,BULGHERONI T,11 - 7,191,ARG,3:11
+Steal,11,7.0,5,7,ARG,3.0,CHEN Z,11 - 7,191,CHN,3:11
+Turnover foul,11,1.0,5,7,ARG,3.0,WU H,11 - 7,189,CHN,3:09
+Steal,11,5.0,5,7,ARG,3.0,LOPEZ E,11 - 7,189,ARG,3:09
+Counter attack - Goal,11,2.0,5,8,ARG,3.0,VEICH R,11 - 8,189,ARG,3:09
+20 sec. exclusion in field,11,3.0,5,8,ARG,3.0,GALIMBERTI T,11 - 8,172,ARG,2:52
+Extra player shot - Goal,12,6.0,5,8,ARG,3.0,LI L,12 - 8,153,CHN,2:33
+Time-Out,12,,5,8,ARG,3.0,,12 - 8,153,ARG,2:33
+5m shot - Blocked,12,2.0,5,8,ARG,3.0,VEICH R,12 - 8,139,ARG,2:19
+Counter attack - Goal,13,10.0,5,8,ARG,3.0,CHEN J,13 - 8,126,CHN,2:06
+Turnover foul,13,5.0,5,8,ARG,3.0,LOPEZ E,13 - 8,108,ARG,1:48
+5m shot - Saved,13,11.0,5,8,ARG,3.0,ZHANG C,13 - 8,84,CHN,1:24
+Turnover foul,13,12.0,5,8,ARG,3.0,YANEZ G,13 - 8,64,ARG,1:04
+Steal,13,1.0,5,8,ARG,3.0,WU H,13 - 8,64,CHN,1:04
+Time-Out,13,,5,8,ARG,3.0,,13 - 8,64,CHN,1:04
+5m shot - Saved,13,2.0,5,8,ARG,3.0,TAN F,13 - 8,40,CHN,0:40
+Turnover foul,13,9.0,5,8,ARG,3.0,CARABANTES I,13 - 8,16,ARG,0:16
+5m shot - Missed,13,2.0,5,8,ARG,3.0,TAN F,13 - 8,1,CHN,0:01
+Starting goalkeeper,13,1.0,5,8,ARG,4.0,WU H,13 - 8,480,CHN,8:00
+Starting goalkeeper,13,13.0,5,8,ARG,4.0,TESTA F,13 - 8,480,ARG,8:00
+Sprint won possession,13,10.0,5,8,ARG,4.0,DASZCZYK J,13 - 8,480,ARG,8:00
+Turnover foul,13,5.0,5,8,ARG,4.0,LOPEZ E,13 - 8,451,ARG,7:31
+5m shot - Missed,13,4.0,5,8,ARG,4.0,DONG T,13 - 8,435,CHN,7:15
+Turnover foul,13,5.0,5,8,ARG,4.0,LOPEZ E,13 - 8,415,ARG,6:55
+Turnover foul,13,2.0,5,8,ARG,4.0,TAN F,13 - 8,393,CHN,6:33
+Steal,13,9.0,5,8,ARG,4.0,CARABANTES I,13 - 8,393,ARG,6:33
+Turnover foul,13,5.0,5,8,ARG,4.0,LOPEZ E,13 - 8,391,ARG,6:31
+Action shot - Saved,13,10.0,5,8,ARG,4.0,CHEN J,13 - 8,371,CHN,6:11
+Turnover foul,13,8.0,5,8,ARG,4.0,CORSI E,13 - 8,345,ARG,5:45
+Turnover foul,13,4.0,5,8,ARG,4.0,DONG T,13 - 8,317,CHN,5:17
+Steal,13,8.0,5,8,ARG,4.0,CORSI E,13 - 8,317,ARG,5:17
+Action shot - Saved,13,12.0,5,8,ARG,4.0,YANEZ G,13 - 8,288,ARG,4:48
+Action shot - Blocked,13,4.0,5,8,ARG,4.0,DONG T,13 - 8,267,CHN,4:27
+5m shot - Blocked,13,6.0,5,8,ARG,4.0,LI L,13 - 8,239,CHN,3:59
+Counter attack - Saved,13,2.0,5,8,ARG,4.0,VEICH R,13 - 8,223,ARG,3:43
+Time-Out,13,,5,8,ARG,4.0,,13 - 8,223,CHN,3:43
+Yellow card,13,,5,8,ARG,4.0,Team Official,13 - 8,223,CHN,3:43
+Goalkeeper substitution,13,13.0,5,8,ARG,4.0,LIANG Z,13 - 8,223,CHN,3:43
+20 sec. exclusion in centre,13,2.0,5,8,ARG,4.0,VEICH R,13 - 8,209,ARG,3:29
+Extra player shot - Goal,14,3.0,5,8,ARG,4.0,HU Z,14 - 8,182,CHN,3:02
+Turnover foul,14,12.0,5,8,ARG,4.0,YANEZ G,14 - 8,166,ARG,2:46
+20 sec. exclusion in centre,14,8.0,5,8,ARG,4.0,CORSI E,14 - 8,152,ARG,2:32
+Extra player shot - Goal,15,12.0,5,9,ARG,4.0,YANEZ G,15 - 9,68,ARG,1:08
+Turnover foul,15,10.0,5,9,ARG,4.0,CHEN J,15 - 9,50,CHN,0:50
+Turnover foul,15,5.0,5,9,ARG,4.0,LOPEZ E,15 - 9,26,ARG,0:26
+Steal,15,4.0,5,9,ARG,4.0,DONG T,15 - 9,26,CHN,0:26
+20 sec. exclusion in field,15,8.0,5,9,ARG,4.0,CORSI E,15 - 9,13,ARG,0:13
+Extra player shot - Goal,16,4.0,5,9,ARG,4.0,DONG T,16 - 9,2,CHN,0:02
+5m shot - Missed,16,2.0,5,9,ARG,4.0,VEICH R,16 - 9,0,ARG,0:00

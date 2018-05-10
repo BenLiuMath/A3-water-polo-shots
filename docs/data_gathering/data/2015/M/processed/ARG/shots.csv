@@ -1,0 +1,253 @@
+ARG,Action,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time,Result,Goal
+0,Extra player shot,9.0,1,0,RSA,1.0,CARABANTES I,0 - 0,388,ARG,6:28,Post,0
+0,Penalty shot,10.0,1,1,RSA,1.0,LE ROUX P,1 - 0,375,RSA,6:15,Goal,1
+0,5m shot,6.0,1,1,RSA,1.0,BULGHERONI T,1 - 0,343,ARG,5:43,Saved,0
+0,Extra player shot,2.0,1,2,RSA,1.0,LE ROUX E,2 - 0,304,RSA,5:04,Goal,1
+0,5m shot,2.0,1,2,RSA,1.0,VEICH R,2 - 0,292,ARG,4:52,Post,0
+0,Extra player shot,6.0,1,3,RSA,1.0,DE CARVALHO J,3 - 0,252,RSA,4:12,Goal,1
+0,Centre shot,11.0,1,3,RSA,1.0,MOLYNEUX N,3 - 0,221,RSA,3:41,Saved,0
+0,Action shot,3.0,1,4,RSA,1.0,CARD D,4 - 0,221,RSA,3:41,Goal,1
+1,Extra player shot,12.0,1,4,RSA,1.0,YANEZ G,4 - 1,207,ARG,3:27,Goal,1
+1,Extra player shot,4.0,1,5,RSA,1.0,BADENHORST I,5 - 1,170,RSA,2:50,Goal,1
+1,Centre shot,10.0,1,5,RSA,1.0,LE ROUX P,5 - 1,129,RSA,2:09,Saved,0
+1,Centre shot,11.0,1,5,RSA,1.0,MOLYNEUX N,5 - 1,71,RSA,1:11,Post,0
+1,Penalty shot,2.0,1,6,RSA,1.0,LE ROUX E,6 - 1,71,RSA,1:11,Goal,1
+2,5m shot,2.0,1,6,RSA,1.0,VEICH R,6 - 2,51,ARG,0:51,Goal,1
+2,5m shot,9.0,1,6,RSA,1.0,CARABANTES I,6 - 2,13,ARG,0:13,Blocked,0
+3,Action shot,12.0,1,6,RSA,2.0,YANEZ G,6 - 3,433,ARG,7:13,Goal,1
+3,5m shot,10.0,1,6,RSA,2.0,LE ROUX P,6 - 3,409,RSA,6:49,Missed,0
+3,Action shot,12.0,1,6,RSA,2.0,YANEZ G,6 - 3,381,ARG,6:21,Saved,0
+3,Action shot,11.0,1,6,RSA,2.0,MOLYNEUX N,6 - 3,325,RSA,5:25,Saved,0
+3,Extra player shot,5.0,1,7,RSA,2.0,HOCK N,7 - 3,198,RSA,3:18,Goal,1
+3,5m shot,12.0,1,7,RSA,2.0,YANEZ G,7 - 3,179,ARG,2:59,Post,0
+4,Extra player shot,2.0,1,7,RSA,2.0,VEICH R,7 - 4,111,ARG,1:51,Goal,1
+4,Action shot,5.0,1,7,RSA,2.0,HOCK N,7 - 4,86,RSA,1:26,Blocked,0
+4,5m shot,12.0,1,7,RSA,2.0,YANEZ G,7 - 4,58,ARG,0:58,Blocked,0
+4,5m shot,2.0,1,7,RSA,2.0,LE ROUX E,7 - 4,17,RSA,0:17,Post,0
+4,5m shot,9.0,1,7,RSA,2.0,CARABANTES I,7 - 4,7,ARG,0:07,Saved,0
+4,5m shot,10.0,1,7,RSA,2.0,LE ROUX P,7 - 4,0,RSA,0:00,Missed,0
+4,Extra player shot,12.0,1,7,RSA,3.0,YANEZ G,7 - 4,416,ARG,6:56,Saved,0
+4,5m shot,11.0,1,7,RSA,3.0,DEMARCHI F,7 - 4,364,ARG,6:04,Saved,0
+4,Extra player shot,6.0,1,7,RSA,3.0,BULGHERONI T,7 - 4,314,ARG,5:14,Blocked,0
+4,Centre shot,2.0,1,7,RSA,3.0,VEICH R,7 - 4,294,ARG,4:54,Saved,0
+4,Penalty shot,10.0,1,8,RSA,3.0,LE ROUX P,8 - 4,265,RSA,4:25,Goal,1
+4,Extra player shot,11.0,1,8,RSA,3.0,DEMARCHI F,8 - 4,241,ARG,4:01,Post,0
+4,5m shot,8.0,1,8,RSA,3.0,WINGATE-PEARSE J,8 - 4,170,RSA,2:50,Saved,0
+4,Action shot,4.0,1,8,RSA,3.0,BADENHORST I,8 - 4,105,RSA,1:45,Post,0
+5,Action shot,6.0,1,8,RSA,3.0,BULGHERONI T,8 - 5,41,ARG,0:41,Goal,1
+5,5m shot,2.0,1,8,RSA,3.0,LE ROUX E,8 - 5,13,RSA,0:13,Saved,0
+5,5m shot,2.0,1,8,RSA,3.0,VEICH R,8 - 5,1,ARG,0:01,Missed,0
+6,5m shot,12.0,1,8,RSA,4.0,YANEZ G,8 - 6,427,ARG,7:07,Goal,1
+6,5m shot,12.0,1,8,RSA,4.0,YANEZ G,8 - 6,377,ARG,6:17,Saved,0
+6,Centre shot,10.0,1,9,RSA,4.0,LE ROUX P,9 - 6,356,RSA,5:56,Goal,1
+6,5m shot,2.0,1,9,RSA,4.0,VEICH R,9 - 6,326,ARG,5:26,Post,0
+6,5m shot,6.0,1,9,RSA,4.0,BULGHERONI T,9 - 6,228,ARG,3:48,Blocked,0
+6,Counter attack,11.0,1,9,RSA,4.0,DEMARCHI F,9 - 6,190,ARG,3:10,Saved,0
+6,5m shot,9.0,1,9,RSA,4.0,CARABANTES I,9 - 6,138,ARG,2:18,Saved,0
+6,Action shot,8.0,1,9,RSA,4.0,CORSI E,9 - 6,93,ARG,1:33,Saved,0
+6,Action shot,6.0,1,9,RSA,4.0,BULGHERONI T,9 - 6,47,ARG,0:47,Saved,0
+6,Counter attack,2.0,1,10,RSA,4.0,LE ROUX E,10 - 6,39,RSA,0:39,Goal,1
+1,Extra player shot,6.0,2,0,KAZ,1.0,BULGHERONI T,0 - 1,380,ARG,6:20,Goal,1
+1,Action shot,6.0,2,1,KAZ,1.0,SHMIDER A,1 - 1,355,KAZ,5:55,Goal,1
+1,Extra player shot,12.0,2,1,KAZ,1.0,YANEZ G,1 - 1,293,ARG,4:53,Saved,0
+1,Action shot,3.0,2,2,KAZ,1.0,AXENOV A,2 - 1,280,KAZ,4:40,Goal,1
+1,Action shot,11.0,2,2,KAZ,1.0,DEMARCHI F,2 - 1,253,ARG,4:13,Saved,0
+1,Action shot,4.0,2,3,KAZ,1.0,PILIPENKO R,3 - 1,233,KAZ,3:53,Goal,1
+1,Action shot,5.0,2,3,KAZ,1.0,LOPEZ E,3 - 1,205,ARG,3:25,Saved,0
+1,Counter attack,3.0,2,4,KAZ,1.0,AXENOV A,4 - 1,194,KAZ,3:14,Goal,1
+1,Extra player shot,3.0,2,4,KAZ,1.0,AXENOV A,4 - 1,107,KAZ,1:47,Saved,0
+2,Counter attack,12.0,2,4,KAZ,1.0,YANEZ G,4 - 2,96,ARG,1:36,Goal,1
+2,5m shot,9.0,2,4,KAZ,1.0,UKUMANOV R,4 - 2,69,KAZ,1:09,Post,0
+2,Extra player shot,7.0,2,5,KAZ,1.0,SHAKENOV M,5 - 2,36,KAZ,0:36,Goal,1
+2,5m shot,12.0,2,5,KAZ,1.0,YANEZ G,5 - 2,13,ARG,0:13,Missed,0
+2,Action shot,6.0,2,5,KAZ,2.0,SHMIDER A,5 - 2,451,KAZ,7:31,Post,0
+2,5m shot,2.0,2,5,KAZ,2.0,VEICH R,5 - 2,422,ARG,7:02,Missed,0
+2,5m shot,2.0,2,5,KAZ,2.0,GUBAREV S,5 - 2,397,KAZ,6:37,Saved,0
+2,Extra player shot,6.0,2,5,KAZ,2.0,SHMIDER A,5 - 2,345,KAZ,5:45,Post,0
+2,Extra player shot,6.0,2,6,KAZ,2.0,SHMIDER A,6 - 2,334,KAZ,5:34,Goal,1
+2,Extra player shot,12.0,2,6,KAZ,2.0,YANEZ G,6 - 2,295,ARG,4:55,Saved,0
+3,Extra player shot,2.0,2,6,KAZ,2.0,VEICH R,6 - 3,295,ARG,4:55,Goal,1
+3,Action shot,12.0,2,6,KAZ,2.0,YANEZ G,6 - 3,242,ARG,4:02,Post,0
+4,5m shot,9.0,2,6,KAZ,2.0,CARABANTES I,6 - 4,232,ARG,3:52,Goal,1
+4,5m shot,3.0,2,7,KAZ,2.0,AXENOV A,7 - 4,211,KAZ,3:31,Goal,1
+4,Action shot,12.0,2,7,KAZ,2.0,YANEZ G,7 - 4,120,ARG,2:00,Saved,0
+4,Action shot,3.0,2,8,KAZ,2.0,AXENOV A,8 - 4,76,KAZ,1:16,Goal,1
+4,Action shot,9.0,2,8,KAZ,2.0,CARABANTES I,8 - 4,52,ARG,0:52,Saved,0
+4,Extra player shot,6.0,2,8,KAZ,4.0,BULGHERONI T,8 - 4,111,ARG,1:51,Post,0
+4,Action shot,12.0,2,8,KAZ,4.0,PEKOVICH B,8 - 4,88,KAZ,1:28,Saved,0
+4,Extra player shot,12.0,2,8,KAZ,2.0,PEKOVICH B,8 - 4,14,KAZ,0:14,Saved,0
+5,Counter attack,12.0,2,8,KAZ,2.0,YANEZ G,8 - 5,4,ARG,0:04,Goal,1
+5,Extra player shot,12.0,2,9,KAZ,3.0,PEKOVICH B,9 - 5,420,KAZ,7:00,Goal,1
+5,Centre shot,12.0,2,10,KAZ,3.0,PEKOVICH B,10 - 5,371,KAZ,6:11,Goal,1
+5,Extra player shot,2.0,2,10,KAZ,3.0,VEICH R,10 - 5,322,ARG,5:22,Blocked,0
+5,Action shot,2.0,2,10,KAZ,3.0,GUBAREV S,10 - 5,253,KAZ,4:13,Missed,0
+5,5m shot,2.0,2,10,KAZ,3.0,GUBAREV S,10 - 5,213,KAZ,3:33,Saved,0
+5,Extra player shot,2.0,2,11,KAZ,3.0,GUBAREV S,11 - 5,184,KAZ,3:04,Goal,1
+5,Counter attack,2.0,2,11,KAZ,3.0,GUBAREV S,11 - 5,143,KAZ,2:23,Saved,0
+5,Counter attack,2.0,2,12,KAZ,3.0,GUBAREV S,12 - 5,114,KAZ,1:54,Goal,1
+5,Action shot,12.0,2,12,KAZ,3.0,YANEZ G,12 - 5,102,ARG,1:42,Blocked,0
+5,Action shot,10.0,2,12,KAZ,3.0,MEDVEDEV Y,12 - 5,86,KAZ,1:26,Saved,0
+5,Action shot,12.0,2,13,KAZ,3.0,PEKOVICH B,13 - 5,86,KAZ,1:26,Goal,1
+6,Extra player shot,12.0,2,13,KAZ,3.0,YANEZ G,13 - 6,60,ARG,1:00,Goal,1
+6,Action shot,7.0,2,13,KAZ,3.0,SHAKENOV M,13 - 6,35,KAZ,0:35,Saved,0
+6,Extra player shot,3.0,2,13,KAZ,3.0,AXENOV A,13 - 6,3,KAZ,0:03,Saved,0
+6,5m shot,5.0,2,13,KAZ,4.0,USHAKOV V,13 - 6,428,KAZ,7:08,Missed,0
+6,Action shot,5.0,2,13,KAZ,4.0,USHAKOV V,13 - 6,397,KAZ,6:37,Saved,0
+6,Extra player shot,6.0,2,13,KAZ,4.0,SHMIDER A,13 - 6,376,KAZ,6:16,Saved,0
+6,Action shot,5.0,2,13,KAZ,4.0,USHAKOV V,13 - 6,338,KAZ,5:38,Missed,0
+6,Extra player shot,12.0,2,14,KAZ,4.0,PEKOVICH B,14 - 6,291,KAZ,4:51,Goal,1
+6,Extra player shot,9.0,2,14,KAZ,4.0,CARABANTES I,14 - 6,238,ARG,3:58,Missed,0
+6,Action shot,6.0,2,15,KAZ,4.0,SHMIDER A,15 - 6,215,KAZ,3:35,Goal,1
+6,Extra player shot,12.0,2,15,KAZ,4.0,YANEZ G,15 - 6,169,ARG,2:49,Post,0
+7,Action shot,6.0,2,15,KAZ,4.0,BULGHERONI T,15 - 7,18,ARG,0:18,Goal,1
+0,Action shot,5.0,3,0,HUN,1.0,LOPEZ E,0 - 0,452,ARG,7:32,Saved,0
+1,Action shot,5.0,3,0,HUN,1.0,LOPEZ E,0 - 1,432,ARG,7:12,Goal,1
+1,Action shot,8.0,3,1,HUN,1.0,SZIVOS M,1 - 1,381,HUN,6:21,Goal,1
+1,5m shot,2.0,3,1,HUN,1.0,VEICH R,1 - 1,353,ARG,5:53,Missed,0
+1,Action shot,12.0,3,2,HUN,1.0,HARAI B,2 - 1,339,HUN,5:39,Goal,1
+1,Action shot,9.0,3,2,HUN,1.0,CARABANTES I,2 - 1,315,ARG,5:15,Missed,0
+1,Extra player shot,3.0,3,3,HUN,1.0,MADARAS N,3 - 1,281,HUN,4:41,Goal,1
+1,Counter attack,4.0,3,4,HUN,1.0,ERDELYI B,4 - 1,247,HUN,4:07,Goal,1
+1,Extra player shot,7.0,3,5,HUN,1.0,ANGYAL D,5 - 1,187,HUN,3:07,Goal,1
+1,Action shot,8.0,3,5,HUN,1.0,CORSI E,5 - 1,136,ARG,2:16,Post,0
+2,Action shot,11.0,3,5,HUN,1.0,DEMARCHI F,5 - 2,101,ARG,1:41,Goal,1
+2,5m shot,8.0,3,5,HUN,1.0,CORSI E,5 - 2,28,ARG,0:28,Missed,0
+2,Extra player shot,6.0,3,6,HUN,1.0,HOSNYANSZKY N,6 - 2,1,HUN,0:01,Goal,1
+2,5m shot,9.0,3,6,HUN,2.0,VARGA D,6 - 2,454,HUN,7:34,Saved,0
+2,5m shot,2.0,3,6,HUN,2.0,VEICH R,6 - 2,402,ARG,6:42,Post,0
+2,5m shot,9.0,3,6,HUN,2.0,CARABANTES I,6 - 2,320,ARG,5:20,Post,0
+2,Action shot,7.0,3,6,HUN,2.0,ANGYAL D,6 - 2,272,HUN,4:32,Missed,0
+2,5m shot,12.0,3,6,HUN,2.0,YANEZ G,6 - 2,264,ARG,4:24,Saved,0
+2,Centre shot,8.0,3,7,HUN,2.0,SZIVOS M,7 - 2,248,HUN,4:08,Goal,1
+2,5m shot,9.0,3,7,HUN,2.0,CARABANTES I,7 - 2,205,ARG,3:25,Blocked,0
+2,Extra player shot,8.0,3,8,HUN,2.0,SZIVOS M,8 - 2,93,HUN,1:33,Goal,1
+2,5m shot,9.0,3,8,HUN,2.0,CARABANTES I,8 - 2,61,ARG,1:01,Saved,0
+2,Penalty shot,5.0,3,9,HUN,2.0,VAMOS M,9 - 2,42,HUN,0:42,Goal,1
+3,Action shot,12.0,3,9,HUN,2.0,YANEZ G,9 - 3,20,ARG,0:20,Goal,1
+3,5m shot,10.0,3,9,HUN,2.0,VARGA D,9 - 3,0,HUN,0:00,Saved,0
+3,5m shot,8.0,3,9,HUN,2.0,SZIVOS M,9 - 3,0,HUN,0:00,Saved,0
+3,Action shot,10.0,3,10,HUN,3.0,VARGA D,10 - 3,453,HUN,7:33,Goal,1
+4,Action shot,5.0,3,10,HUN,3.0,LOPEZ E,10 - 4,382,ARG,6:22,Goal,1
+4,Action shot,12.0,3,11,HUN,3.0,HARAI B,11 - 4,361,HUN,6:01,Goal,1
+4,5m shot,11.0,3,11,HUN,3.0,DEMARCHI F,11 - 4,338,ARG,5:38,Saved,0
+4,Action shot,10.0,3,11,HUN,3.0,VARGA D,11 - 4,317,HUN,5:17,Blocked,0
+4,Extra player shot,5.0,3,12,HUN,3.0,VAMOS M,12 - 4,299,HUN,4:59,Goal,1
+4,Extra player shot,9.0,3,13,HUN,3.0,VARGA D,13 - 4,247,HUN,4:07,Goal,1
+4,5m shot,2.0,3,13,HUN,3.0,VEICH R,13 - 4,224,ARG,3:44,Saved,0
+4,5m shot,9.0,3,13,HUN,3.0,CARABANTES I,13 - 4,159,ARG,2:39,Saved,0
+4,5m shot,6.0,3,14,HUN,3.0,HOSNYANSZKY N,14 - 4,111,HUN,1:51,Goal,1
+4,Action shot,11.0,3,14,HUN,3.0,BEDO K,14 - 4,67,HUN,1:07,Saved,0
+4,5m shot,12.0,3,14,HUN,3.0,YANEZ G,14 - 4,36,ARG,0:36,Missed,0
+4,Extra player shot,4.0,3,15,HUN,3.0,ERDELYI B,15 - 4,3,HUN,0:03,Goal,1
+4,5m shot,2.0,3,15,HUN,3.0,VEICH R,15 - 4,1,ARG,0:01,Blocked,0
+4,Action shot,12.0,3,15,HUN,4.0,HARAI B,15 - 4,463,HUN,7:43,Saved,0
+4,Action shot,10.0,3,16,HUN,4.0,VARGA D,16 - 4,422,HUN,7:02,Goal,1
+4,Action shot,5.0,3,17,HUN,4.0,VAMOS M,17 - 4,374,HUN,6:14,Goal,1
+4,Action shot,8.0,3,17,HUN,4.0,SZIVOS M,17 - 4,333,HUN,5:33,Post,0
+4,Action shot,12.0,3,17,HUN,4.0,YANEZ G,17 - 4,304,ARG,5:04,Saved,0
+4,Action shot,3.0,3,17,HUN,4.0,MADARAS N,17 - 4,279,HUN,4:39,Saved,0
+4,Action shot,2.0,3,17,HUN,4.0,VEICH R,17 - 4,202,ARG,3:22,Saved,0
+4,Action shot,11.0,3,17,HUN,4.0,BEDO K,17 - 4,176,HUN,2:56,Saved,0
+4,Action shot,2.0,3,17,HUN,4.0,VEICH R,17 - 4,157,ARG,2:37,Post,0
+4,Action shot,5.0,3,18,HUN,4.0,VAMOS M,18 - 4,137,HUN,2:17,Goal,1
+4,Action shot,10.0,3,19,HUN,4.0,VARGA D,19 - 4,89,HUN,1:29,Goal,1
+4,Counter attack,10.0,3,20,HUN,4.0,VARGA D,20 - 4,41,HUN,0:41,Goal,1
+4,Counter attack,10.0,3,21,HUN,4.0,VARGA D,21 - 4,14,HUN,0:14,Goal,1
+0,Counter attack,9.0,4,0,JPN,1.0,TAKEI K,0 - 0,392,JPN,6:32,Post,0
+0,Counter attack,9.0,4,1,JPN,1.0,TAKEI K,0 - 1,356,JPN,5:56,Goal,1
+0,Action shot,4.0,4,2,JPN,1.0,SHIGA M,0 - 2,316,JPN,5:16,Goal,1
+0,Counter attack,6.0,4,3,JPN,1.0,IIDA A,0 - 3,285,JPN,4:45,Goal,1
+0,Extra player shot,2.0,4,3,JPN,1.0,ADACHI S,0 - 3,244,JPN,4:04,Saved,0
+0,Action shot,11.0,4,3,JPN,1.0,OKAWA K,0 - 3,199,JPN,3:19,Blocked,0
+0,Centre shot,2.0,4,3,JPN,1.0,ADACHI S,0 - 3,101,JPN,1:41,Post,0
+0,Action shot,11.0,4,4,JPN,1.0,OKAWA K,0 - 4,98,JPN,1:38,Goal,1
+0,5m shot,8.0,4,4,JPN,1.0,KADONO Y,0 - 4,43,JPN,0:43,Post,0
+0,5m shot,10.0,4,4,JPN,1.0,DASZCZYK J,0 - 4,5,ARG,0:05,Post,0
+0,Extra player shot,6.0,4,4,JPN,2.0,IIDA A,0 - 4,383,JPN,6:23,Saved,0
+1,Action shot,9.0,4,4,JPN,2.0,CARABANTES I,1 - 4,316,ARG,5:16,Goal,1
+2,Action shot,11.0,4,4,JPN,2.0,DEMARCHI F,2 - 4,271,ARG,4:31,Goal,1
+2,5m shot,9.0,4,4,JPN,2.0,CARABANTES I,2 - 4,227,ARG,3:47,Blocked,0
+2,Action shot,12.0,4,4,JPN,2.0,HAZUI S,2 - 4,213,JPN,3:33,Saved,0
+2,Action shot,11.0,4,4,JPN,2.0,DEMARCHI F,2 - 4,185,ARG,3:05,Saved,0
+2,5m shot,11.0,4,4,JPN,2.0,DEMARCHI F,2 - 4,114,ARG,1:54,Saved,0
+2,Action shot,9.0,4,5,JPN,2.0,TAKEI K,2 - 5,99,JPN,1:39,Goal,1
+2,Centre shot,8.0,4,5,JPN,2.0,CORSI E,2 - 5,53,ARG,0:53,Saved,0
+2,Centre shot,2.0,4,6,JPN,2.0,ADACHI S,2 - 6,35,JPN,0:35,Goal,1
+6,Extra player shot,5.0,4,14,JPN,4.0,YANASE A,6 - 14,83,JPN,1:23,Goal,1
+6,Action shot,3.0,4,14,JPN,4.0,GALIMBERTI T,6 - 14,53,ARG,0:53,Missed,0
+2,5m shot,12.0,4,7,JPN,3.0,HAZUI S,2 - 7,422,JPN,7:02,Goal,1
+3,Action shot,9.0,4,7,JPN,3.0,CARABANTES I,3 - 7,397,ARG,6:37,Goal,1
+3,Extra player shot,7.0,4,8,JPN,3.0,SHIMIZU Y,3 - 8,378,JPN,6:18,Goal,1
+3,Centre shot,6.0,4,9,JPN,3.0,IIDA A,3 - 9,345,JPN,5:45,Goal,1
+3,Action shot,9.0,4,9,JPN,3.0,CARABANTES I,3 - 9,251,ARG,4:11,Saved,0
+3,Centre shot,9.0,4,9,JPN,3.0,CARABANTES I,3 - 9,122,ARG,2:02,Saved,0
+3,Extra player shot,4.0,4,10,JPN,3.0,SHIGA M,3 - 10,103,JPN,1:43,Goal,1
+4,Extra player shot,11.0,4,10,JPN,3.0,DEMARCHI F,4 - 10,69,ARG,1:09,Goal,1
+4,5m shot,2.0,4,10,JPN,3.0,VEICH R,4 - 10,21,ARG,0:21,Saved,0
+4,Extra player shot,8.0,4,10,JPN,3.0,KADONO Y,4 - 10,5,JPN,0:05,Post,0
+4,5m shot,9.0,4,11,JPN,4.0,TAKEI K,4 - 11,398,JPN,6:38,Goal,1
+4,5m shot,11.0,4,11,JPN,4.0,DEMARCHI F,4 - 11,330,ARG,5:30,Saved,0
+4,Action shot,9.0,4,12,JPN,4.0,TAKEI K,4 - 12,322,JPN,5:22,Goal,1
+4,Action shot,3.0,4,12,JPN,4.0,ARAI A,4 - 12,277,JPN,4:37,Saved,0
+5,Action shot,9.0,4,12,JPN,4.0,CARABANTES I,5 - 12,256,ARG,4:16,Goal,1
+5,Action shot,8.0,4,12,JPN,4.0,CORSI E,5 - 12,213,ARG,3:33,Saved,0
+5,Counter attack,10.0,4,13,JPN,4.0,YASUDA K,5 - 13,173,JPN,2:53,Goal,1
+5,Action shot,8.0,4,13,JPN,4.0,CORSI E,5 - 13,147,ARG,2:27,Saved,0
+5,Extra player shot,8.0,4,13,JPN,4.0,KADONO Y,5 - 13,118,JPN,1:58,Saved,0
+6,Counter attack,11.0,4,13,JPN,4.0,DEMARCHI F,6 - 13,109,ARG,1:49,Goal,1
+6,5m shot,11.0,4,13,JPN,4.0,DEMARCHI F,6 - 13,2,ARG,0:02,Saved,0
+0,Action shot,11.0,5,1,CHN,1.0,ZHANG C,1 - 0,370,CHN,6:10,Goal,1
+0,Extra player shot,6.0,5,2,CHN,1.0,LI L,2 - 0,305,CHN,5:05,Goal,1
+0,Action shot,12.0,5,3,CHN,1.0,LIANG N,3 - 0,227,CHN,3:47,Goal,1
+0,5m shot,9.0,5,3,CHN,1.0,CARABANTES I,3 - 0,202,ARG,3:22,Saved,0
+0,5m shot,11.0,5,4,CHN,1.0,ZHANG C,4 - 0,184,CHN,3:04,Goal,1
+0,Action shot,11.0,5,4,CHN,1.0,DEMARCHI F,4 - 0,162,ARG,2:42,Saved,0
+0,Counter attack,9.0,5,5,CHN,1.0,XIE Z,5 - 0,151,CHN,2:31,Goal,1
+1,5m shot,12.0,5,5,CHN,1.0,YANEZ G,5 - 1,137,ARG,2:17,Goal,1
+1,Action shot,4.0,5,5,CHN,1.0,DONG T,5 - 1,111,CHN,1:51,Saved,0
+2,Extra player shot,12.0,5,5,CHN,1.0,YANEZ G,5 - 2,89,ARG,1:29,Goal,1
+2,Action shot,9.0,5,5,CHN,1.0,XIE Z,5 - 2,41,CHN,0:41,Post,0
+2,5m shot,11.0,5,5,CHN,1.0,ZHANG C,5 - 2,26,CHN,0:26,Blocked,0
+2,Centre shot,12.0,5,6,CHN,1.0,LIANG N,6 - 2,12,CHN,0:12,Goal,1
+2,5m shot,2.0,5,6,CHN,1.0,VEICH R,6 - 2,0,ARG,0:00,Saved,0
+3,Centre shot,2.0,5,6,CHN,2.0,VEICH R,6 - 3,442,ARG,7:22,Goal,1
+3,Action shot,10.0,5,6,CHN,2.0,CHEN J,6 - 3,422,CHN,7:02,Blocked,0
+3,5m shot,5.0,5,7,CHN,2.0,LU W,7 - 3,375,CHN,6:15,Goal,1
+4,5m shot,9.0,5,7,CHN,2.0,CARABANTES I,7 - 4,325,ARG,5:25,Goal,1
+4,5m shot,2.0,5,7,CHN,2.0,TAN F,7 - 4,302,CHN,5:02,Blocked,0
+4,5m shot,12.0,5,7,CHN,2.0,YANEZ G,7 - 4,280,ARG,4:40,Saved,0
+4,Counter attack,5.0,5,7,CHN,2.0,LU W,7 - 4,254,CHN,4:14,Missed,0
+4,Counter attack,2.0,5,7,CHN,2.0,TAN F,7 - 4,224,CHN,3:44,Saved,0
+4,5m shot,6.0,5,7,CHN,2.0,LI L,7 - 4,204,CHN,3:24,Saved,0
+5,Extra player shot,12.0,5,7,CHN,2.0,YANEZ G,7 - 5,190,ARG,3:10,Goal,1
+5,Counter attack,4.0,5,8,CHN,2.0,DONG T,8 - 5,114,CHN,1:54,Goal,1
+5,Counter attack,4.0,5,9,CHN,2.0,DONG T,9 - 5,75,CHN,1:15,Goal,1
+6,5m shot,12.0,5,9,CHN,2.0,YANEZ G,9 - 6,60,ARG,1:00,Goal,1
+6,5m shot,3.0,5,9,CHN,2.0,HU Z,9 - 6,36,CHN,0:36,Saved,0
+6,5m shot,9.0,5,9,CHN,2.0,CARABANTES I,9 - 6,8,ARG,0:08,Missed,0
+8,Extra player shot,2.0,5,15,CHN,4.0,TAN F,15 - 8,134,CHN,2:14,Goal,1
+8,5m shot,2.0,5,15,CHN,4.0,VEICH R,15 - 8,109,ARG,1:49,Blocked,0
+8,5m shot,11.0,5,15,CHN,2.0,ZHANG C,15 - 8,0,CHN,0:00,Missed,0
+8,5m shot,2.0,5,15,CHN,3.0,TAN F,15 - 8,451,CHN,7:31,Post,0
+7,5m shot,9.0,5,9,CHN,3.0,CARABANTES I,9 - 7,421,ARG,7:01,Goal,1
+7,Action shot,12.0,5,9,CHN,3.0,LIANG N,9 - 7,404,CHN,6:44,Saved,0
+7,Counter attack,4.0,5,10,CHN,3.0,DONG T,10 - 7,360,CHN,6:00,Goal,1
+7,Extra player shot,2.0,5,10,CHN,3.0,VEICH R,10 - 7,281,ARG,4:41,Missed,0
+7,Centre shot,8.0,5,11,CHN,3.0,LI L,11 - 7,219,CHN,3:39,Goal,1
+8,Counter attack,2.0,5,11,CHN,3.0,VEICH R,11 - 8,189,ARG,3:09,Goal,1
+8,Extra player shot,6.0,5,12,CHN,3.0,LI L,12 - 8,153,CHN,2:33,Goal,1
+8,5m shot,2.0,5,12,CHN,3.0,VEICH R,12 - 8,139,ARG,2:19,Blocked,0
+8,Counter attack,10.0,5,13,CHN,3.0,CHEN J,13 - 8,126,CHN,2:06,Goal,1
+8,5m shot,11.0,5,13,CHN,3.0,ZHANG C,13 - 8,84,CHN,1:24,Saved,0
+8,5m shot,2.0,5,13,CHN,3.0,TAN F,13 - 8,40,CHN,0:40,Saved,0
+8,5m shot,2.0,5,13,CHN,3.0,TAN F,13 - 8,1,CHN,0:01,Missed,0
+8,5m shot,4.0,5,13,CHN,4.0,DONG T,13 - 8,435,CHN,7:15,Missed,0
+8,Action shot,10.0,5,13,CHN,4.0,CHEN J,13 - 8,371,CHN,6:11,Saved,0
+8,Action shot,12.0,5,13,CHN,4.0,YANEZ G,13 - 8,288,ARG,4:48,Saved,0
+8,Action shot,4.0,5,13,CHN,4.0,DONG T,13 - 8,267,CHN,4:27,Blocked,0
+8,5m shot,6.0,5,13,CHN,4.0,LI L,13 - 8,239,CHN,3:59,Blocked,0
+8,Counter attack,2.0,5,13,CHN,4.0,VEICH R,13 - 8,223,ARG,3:43,Saved,0
+8,Extra player shot,3.0,5,14,CHN,4.0,HU Z,14 - 8,182,CHN,3:02,Goal,1
+9,Extra player shot,12.0,5,15,CHN,4.0,YANEZ G,15 - 9,68,ARG,1:08,Goal,1
+9,Extra player shot,4.0,5,16,CHN,4.0,DONG T,16 - 9,2,CHN,0:02,Goal,1
+9,5m shot,2.0,5,16,CHN,4.0,VEICH R,16 - 9,0,ARG,0:00,Missed,0

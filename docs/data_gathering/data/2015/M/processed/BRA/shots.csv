@@ -1,0 +1,300 @@
+Action,BRA,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time,Result,Goal
+Action shot,1,10.0,1,0,CHN,1.0,PERRONE F,1 - 0,413,BRA,6:53,Goal,1
+Centre shot,1,11.0,1,0,CHN,1.0,ZHANG C,1 - 0,387,CHN,6:27,Saved,0
+Extra player shot,1,11.0,1,1,CHN,1.0,ZHANG C,1 - 1,356,CHN,5:56,Goal,1
+Counter attack,2,10.0,1,1,CHN,1.0,PERRONE F,2 - 1,298,BRA,4:58,Goal,1
+Action shot,2,12.0,1,2,CHN,1.0,LIANG N,2 - 2,279,CHN,4:39,Goal,1
+Action shot,3,10.0,1,2,CHN,1.0,PERRONE F,3 - 2,214,BRA,3:34,Goal,1
+Centre shot,3,11.0,1,3,CHN,1.0,ZHANG C,3 - 3,186,CHN,3:06,Goal,1
+Action shot,3,10.0,1,3,CHN,1.0,CHEN J,3 - 3,139,CHN,2:19,Saved,0
+5m shot,3,10.0,1,3,CHN,1.0,PERRONE F,3 - 3,83,BRA,1:23,Blocked,0
+Counter attack,3,4.0,1,4,CHN,1.0,DONG T,3 - 4,73,CHN,1:13,Goal,1
+Extra player shot,3,6.0,1,4,CHN,1.0,GOMES B,3 - 4,39,BRA,0:39,Saved,0
+5m shot,3,11.0,1,4,CHN,1.0,ZHANG C,3 - 4,0,CHN,0:00,Saved,0
+Extra player shot,3,4.0,1,5,CHN,2.0,DONG T,3 - 5,435,CHN,7:15,Goal,1
+5m shot,3,6.0,1,5,CHN,2.0,GOMES B,3 - 5,405,BRA,6:45,Post,0
+Extra player shot,3,7.0,1,5,CHN,2.0,DELGADO A,3 - 5,345,BRA,5:45,Post,0
+Action shot,3,12.0,1,5,CHN,2.0,VRLIC J,3 - 5,283,BRA,4:43,Missed,0
+Action shot,4,11.0,1,5,CHN,2.0,GUIMARAES G,4 - 5,247,BRA,4:07,Goal,1
+5m shot,4,3.0,1,5,CHN,2.0,HU Z,4 - 5,225,CHN,3:45,Saved,0
+Action shot,4,11.0,1,5,CHN,2.0,GUIMARAES G,4 - 5,204,BRA,3:24,Saved,0
+Extra player shot,5,3.0,1,5,CHN,2.0,GOMES G,5 - 5,124,BRA,2:04,Goal,1
+Extra player shot,5,5.0,1,5,CHN,2.0,LU W,5 - 5,101,CHN,1:41,Post,0
+Penalty shot,5,11.0,1,5,CHN,2.0,GUIMARAES G,5 - 5,32,BRA,0:32,Saved,0
+5m shot,5,2.0,1,5,CHN,2.0,TAN F,5 - 5,7,CHN,0:07,Blocked,0
+5m shot,5,7.0,1,5,CHN,3.0,DELGADO A,5 - 5,451,BRA,7:31,Post,0
+Extra player shot,5,11.0,1,5,CHN,3.0,ZHANG C,5 - 5,411,CHN,6:51,Saved,0
+Action shot,5,12.0,1,6,CHN,3.0,LIANG N,5 - 6,359,CHN,5:59,Goal,1
+Penalty shot,6,10.0,1,6,CHN,3.0,PERRONE F,6 - 6,329,BRA,5:29,Goal,1
+5m shot,6,11.0,1,6,CHN,3.0,ZHANG C,6 - 6,271,CHN,4:31,Saved,0
+Centre shot,6,10.0,1,7,CHN,3.0,CHEN J,6 - 7,202,CHN,3:22,Goal,1
+Penalty shot,6,11.0,1,8,CHN,3.0,ZHANG C,6 - 8,165,CHN,2:45,Goal,1
+Extra player shot,7,12.0,1,8,CHN,3.0,VRLIC J,7 - 8,118,BRA,1:58,Goal,1
+5m shot,7,4.0,1,8,CHN,3.0,DONG T,7 - 8,65,CHN,1:05,Post,0
+Extra player shot,8,11.0,1,8,CHN,3.0,GUIMARAES G,8 - 8,38,BRA,0:38,Goal,1
+Action shot,8,4.0,1,9,CHN,3.0,DONG T,8 - 9,18,CHN,0:18,Goal,1
+5m shot,8,10.0,1,9,CHN,3.0,PERRONE F,8 - 9,0,BRA,0:00,Blocked,0
+Action shot,8,12.0,1,9,CHN,4.0,VRLIC J,8 - 9,412,BRA,6:52,Saved,0
+Centre shot,9,12.0,1,9,CHN,4.0,VRLIC J,9 - 9,365,BRA,6:05,Goal,1
+Action shot,9,6.0,1,9,CHN,4.0,GOMES B,9 - 9,276,BRA,4:36,Post,0
+Action shot,9,7.0,1,9,CHN,4.0,DELGADO A,9 - 9,179,BRA,2:59,Missed,0
+Centre shot,9,10.0,1,9,CHN,4.0,PERRONE F,9 - 9,119,BRA,1:59,Saved,0
+Penalty shot,9,10.0,1,9,CHN,4.0,PERRONE F,9 - 9,74,BRA,1:14,Saved,0
+Action shot,0,10.0,2,0,CRO,1.0,PERRONE F,0 - 0,441,BRA,7:21,Saved,0
+Action shot,0,2.0,2,1,CRO,1.0,BURIC D,1 - 0,412,CRO,6:52,Goal,1
+Action shot,0,4.0,2,2,CRO,1.0,LONCAR L,2 - 0,365,CRO,6:05,Goal,1
+Action shot,0,7.0,2,2,CRO,1.0,MUSLIM P,2 - 0,363,CRO,6:03,Post,0
+Penalty shot,1,6.0,2,2,CRO,1.0,GOMES B,2 - 1,346,BRA,5:46,Goal,1
+Action shot,1,8.0,2,2,CRO,1.0,SILVA F,2 - 1,317,BRA,5:17,Blocked,0
+Action shot,1,7.0,2,2,CRO,1.0,DELGADO A,2 - 1,276,BRA,4:36,Saved,0
+Extra player shot,1,4.0,2,2,CRO,1.0,LONCAR L,2 - 1,248,CRO,4:08,Missed,0
+Action shot,2,10.0,2,2,CRO,1.0,PERRONE F,2 - 2,172,BRA,2:52,Goal,1
+5m shot,2,6.0,2,2,CRO,1.0,GOMES B,2 - 2,117,BRA,1:57,Saved,0
+Action shot,2,10.0,2,3,CRO,1.0,PASKVALIN F,3 - 2,94,CRO,1:34,Goal,1
+Action shot,2,10.0,2,3,CRO,1.0,PASKVALIN F,3 - 2,56,CRO,0:56,Saved,0
+Action shot,2,11.0,2,3,CRO,1.0,GUIMARAES G,3 - 2,31,BRA,0:31,Saved,0
+Extra player shot,2,9.0,2,4,CRO,1.0,SUKNO S,4 - 2,7,CRO,0:07,Goal,1
+Action shot,2,6.0,2,4,CRO,1.0,GOMES B,4 - 2,0,BRA,0:00,Missed,0
+Action shot,2,7.0,2,4,CRO,2.0,MUSLIM P,4 - 2,451,CRO,7:31,Saved,0
+Action shot,2,7.0,2,4,CRO,2.0,MUSLIM P,4 - 2,435,CRO,7:15,Saved,0
+5m shot,2,6.0,2,4,CRO,2.0,GOMES B,4 - 2,388,BRA,6:28,Blocked,0
+Extra player shot,2,12.0,2,5,CRO,2.0,OBRADOVIC P,5 - 2,359,CRO,5:59,Goal,1
+Action shot,3,10.0,2,5,CRO,2.0,PERRONE F,5 - 3,312,BRA,5:12,Goal,1
+Action shot,3,7.0,2,5,CRO,2.0,MUSLIM P,5 - 3,292,CRO,4:52,Saved,0
+Action shot,3,10.0,2,5,CRO,2.0,PERRONE F,5 - 3,248,BRA,4:08,Blocked,0
+Extra player shot,3,9.0,2,6,CRO,2.0,SUKNO S,6 - 3,223,CRO,3:43,Goal,1
+Centre shot,3,12.0,2,6,CRO,2.0,VRLIC J,6 - 3,192,BRA,3:12,Missed,0
+Extra player shot,3,9.0,2,7,CRO,2.0,SUKNO S,7 - 3,174,CRO,2:54,Goal,1
+Action shot,3,5.0,2,7,CRO,2.0,SALEMI P,7 - 3,140,BRA,2:20,Missed,0
+Action shot,3,5.0,2,7,CRO,2.0,JOKOVIC M,7 - 3,134,CRO,2:14,Post,0
+Counter attack,4,2.0,2,7,CRO,2.0,CRIVELLA J,7 - 4,126,BRA,2:06,Goal,1
+Action shot,4,10.0,2,7,CRO,2.0,PERRONE F,7 - 4,90,BRA,1:30,Saved,0
+Extra player shot,4,6.0,2,8,CRO,2.0,BUKIC L,8 - 4,58,CRO,0:58,Goal,1
+Extra player shot,4,3.0,2,8,CRO,4.0,PETKOVIC A,8 - 4,94,CRO,1:34,Saved,0
+Action shot,4,4.0,2,8,CRO,4.0,LONCAR L,8 - 4,78,CRO,1:18,Saved,0
+Action shot,4,3.0,2,8,CRO,4.0,GOMES G,8 - 4,58,BRA,0:58,Saved,0
+5m shot,4,11.0,2,8,CRO,3.0,SETKA A,8 - 4,273,CRO,4:33,Missed,0
+Extra player shot,5,2.0,2,8,CRO,3.0,CRIVELLA J,8 - 5,233,BRA,3:53,Goal,1
+5m shot,5,11.0,2,8,CRO,3.0,GUIMARAES G,8 - 5,204,BRA,3:24,Blocked,0
+Extra player shot,6,4.0,2,8,CRO,3.0,GONZALEZ I,8 - 6,164,BRA,2:44,Goal,1
+Extra player shot,6,8.0,2,9,CRO,3.0,BUSLJE A,9 - 6,78,CRO,1:18,Goal,1
+Extra player shot,6,9.0,2,9,CRO,4.0,SUKNO S,9 - 6,404,CRO,6:44,Saved,0
+5m shot,6,3.0,2,9,CRO,4.0,GOMES G,9 - 6,375,BRA,6:15,Saved,0
+Action shot,7,12.0,2,9,CRO,4.0,VRLIC J,9 - 7,358,BRA,5:58,Goal,1
+Action shot,7,10.0,2,9,CRO,4.0,PERRONE F,9 - 7,317,BRA,5:17,Saved,0
+5m shot,7,12.0,2,9,CRO,4.0,OBRADOVIC P,9 - 7,268,CRO,4:28,Saved,0
+Extra player shot,7,4.0,2,9,CRO,4.0,GONZALEZ I,9 - 7,223,BRA,3:43,Missed,0
+Extra player shot,7,12.0,2,10,CRO,4.0,OBRADOVIC P,10 - 7,193,CRO,3:13,Goal,1
+Action shot,8,7.0,2,10,CRO,4.0,DELGADO A,10 - 8,153,BRA,2:33,Goal,1
+Action shot,9,12.0,2,10,CRO,4.0,VRLIC J,10 - 9,125,BRA,2:05,Goal,1
+5m shot,9,2.0,2,10,CRO,4.0,BURIC D,10 - 9,31,CRO,0:31,Saved,0
+Action shot,9,2.0,2,10,CRO,4.0,CRIVELLA J,10 - 9,2,BRA,0:02,Saved,0
+5m shot,0,6.0,3,0,CAN,1.0,GOMES B,0 - 0,424,BRA,7:04,Saved,0
+Action shot,0,2.0,3,0,CAN,1.0,CRIVELLA J,0 - 0,376,BRA,6:16,Blocked,0
+Extra player shot,0,12.0,3,0,CAN,1.0,MCELROY J,0 - 0,341,CAN,5:41,Blocked,0
+Action shot,0,2.0,3,1,CAN,1.0,KUDABA C,0 - 1,304,CAN,5:04,Goal,1
+Action shot,0,7.0,3,1,CAN,1.0,DELGADO A,0 - 1,274,BRA,4:34,Saved,0
+Extra player shot,0,5.0,3,1,CAN,1.0,BOYD J,0 - 1,235,CAN,3:55,Missed,0
+Action shot,0,7.0,3,1,CAN,1.0,DELGADO A,0 - 1,209,BRA,3:29,Blocked,0
+Counter attack,0,5.0,3,1,CAN,1.0,BOYD J,0 - 1,175,CAN,2:55,Saved,0
+Action shot,0,10.0,3,1,CAN,1.0,PERRONE F,0 - 1,150,BRA,2:30,Blocked,0
+Centre shot,0,4.0,3,2,CAN,1.0,CONSTANTIN-BICARI,0 - 2,130,CAN,2:10,Goal,1
+5m shot,0,10.0,3,2,CAN,1.0,PERRONE F,0 - 2,104,BRA,1:44,Saved,0
+5m shot,0,12.0,3,3,CAN,1.0,MCELROY J,0 - 3,84,CAN,1:24,Goal,1
+Extra player shot,0,10.0,3,3,CAN,1.0,PERRONE F,0 - 3,7,BRA,0:07,Blocked,0
+Action shot,0,10.0,3,3,CAN,1.0,PERRONE F,0 - 3,1,BRA,0:01,Post,0
+Extra player shot,0,6.0,3,3,CAN,2.0,GOMES B,0 - 3,413,BRA,6:53,Post,0
+Action shot,0,5.0,3,4,CAN,2.0,BOYD J,0 - 4,397,CAN,6:37,Goal,1
+Action shot,0,2.0,3,4,CAN,2.0,CRIVELLA J,0 - 4,374,BRA,6:14,Saved,0
+Extra player shot,1,8.0,3,4,CAN,2.0,SILVA F,1 - 4,318,BRA,5:18,Goal,1
+Action shot,1,10.0,3,4,CAN,2.0,CONWAY J,1 - 4,282,CAN,4:42,Saved,0
+Action shot,2,8.0,3,4,CAN,2.0,SILVA F,2 - 4,238,BRA,3:58,Goal,1
+5m shot,2,5.0,3,4,CAN,2.0,BOYD J,2 - 4,214,CAN,3:34,Missed,0
+Extra player shot,2,10.0,3,5,CAN,2.0,CONWAY J,2 - 5,155,CAN,2:35,Goal,1
+5m shot,2,10.0,3,5,CAN,2.0,PERRONE F,2 - 5,127,BRA,2:07,Saved,0
+Counter attack,2,5.0,3,6,CAN,2.0,BOYD J,2 - 6,104,CAN,1:44,Goal,1
+Penalty shot,2,6.0,3,6,CAN,2.0,GOMES B,2 - 6,84,BRA,1:24,Saved,0
+5m shot,2,8.0,3,6,CAN,2.0,GRAHAM K,2 - 6,52,CAN,0:52,Saved,0
+Extra player shot,3,6.0,3,6,CAN,2.0,GOMES B,3 - 6,16,BRA,0:16,Goal,1
+5m shot,3,10.0,3,6,CAN,2.0,PERRONE F,3 - 6,1,BRA,0:01,Missed,0
+Counter attack,3,12.0,3,7,CAN,3.0,MCELROY J,3 - 7,442,CAN,7:22,Goal,1
+5m shot,3,5.0,3,7,CAN,3.0,SALEMI P,3 - 7,418,BRA,6:58,Missed,0
+5m shot,3,7.0,3,7,CAN,3.0,TASCHEREAU A,3 - 7,389,CAN,6:29,Blocked,0
+Action shot,3,6.0,3,7,CAN,3.0,GOMES B,3 - 7,315,BRA,5:15,Saved,0
+Action shot,3,7.0,3,7,CAN,3.0,DELGADO A,3 - 7,269,BRA,4:29,Blocked,0
+Extra player shot,3,5.0,3,7,CAN,3.0,BOYD J,3 - 7,227,CAN,3:47,Saved,0
+5m shot,3,5.0,3,7,CAN,3.0,SALEMI P,3 - 7,197,BRA,3:17,Saved,0
+Counter attack,4,10.0,3,7,CAN,3.0,PERRONE F,4 - 7,169,BRA,2:49,Goal,1
+Extra player shot,4,3.0,3,8,CAN,3.0,VIKALO O,4 - 8,141,CAN,2:21,Goal,1
+Action shot,4,7.0,3,8,CAN,3.0,DELGADO A,4 - 8,119,BRA,1:59,Blocked,0
+Extra player shot,5,3.0,3,8,CAN,3.0,GOMES G,5 - 8,95,BRA,1:35,Goal,1
+Extra player shot,5,5.0,3,8,CAN,3.0,BOYD J,5 - 8,59,CAN,0:59,Blocked,0
+Extra player shot,5,7.0,3,9,CAN,3.0,TASCHEREAU A,5 - 9,1,CAN,0:01,Goal,1
+Centre shot,5,12.0,3,9,CAN,4.0,VRLIC J,5 - 9,458,BRA,7:38,Saved,0
+Action shot,5,2.0,3,9,CAN,4.0,CRIVELLA J,5 - 9,409,BRA,6:49,Saved,0
+Action shot,5,5.0,3,9,CAN,4.0,BOYD J,5 - 9,350,CAN,5:50,Missed,0
+Action shot,5,9.0,3,9,CAN,4.0,ROCHA B,5 - 9,332,BRA,5:32,Missed,0
+Action shot,5,7.0,3,9,CAN,4.0,DELGADO A,5 - 9,271,BRA,4:31,Saved,0
+5m shot,5,10.0,3,9,CAN,4.0,CONWAY J,5 - 9,252,CAN,4:12,Missed,0
+Action shot,5,7.0,3,9,CAN,4.0,DELGADO A,5 - 9,238,BRA,3:58,Saved,0
+Extra player shot,5,12.0,3,9,CAN,4.0,MCELROY J,5 - 9,195,CAN,3:15,Saved,0
+Action shot,5,6.0,3,10,CAN,4.0,LAPINS D,5 - 10,158,CAN,2:38,Goal,1
+Action shot,6,12.0,3,10,CAN,4.0,VRLIC J,6 - 10,127,BRA,2:07,Goal,1
+Action shot,6,12.0,3,10,CAN,4.0,VRLIC J,6 - 10,12,BRA,0:12,Saved,0
+Action shot,0,8.0,4,0,USA,1.0,AZEVEDO T,0 - 0,453,USA,7:33,Blocked,0
+Counter attack,0,6.0,4,1,USA,1.0,CUPIDO L,0 - 1,415,USA,6:55,Goal,1
+Action shot,0,3.0,4,1,USA,1.0,OBERT A,0 - 1,376,USA,6:16,Saved,0
+Action shot,0,10.0,4,1,USA,1.0,PERRONE F,0 - 1,325,BRA,5:25,Missed,0
+Counter attack,0,6.0,4,2,USA,1.0,CUPIDO L,0 - 2,308,USA,5:08,Goal,1
+Counter attack,0,3.0,4,2,USA,1.0,GOMES G,0 - 2,159,BRA,2:39,Saved,0
+5m shot,0,11.0,4,2,USA,1.0,GUIMARAES G,0 - 2,122,BRA,2:02,Blocked,0
+5m shot,0,10.0,4,2,USA,1.0,PERRONE F,0 - 2,94,BRA,1:34,Missed,0
+Action shot,0,2.0,4,2,USA,1.0,CRIVELLA J,0 - 2,15,BRA,0:15,Post,0
+Action shot,0,12.0,4,2,USA,1.0,VRLIC J,0 - 2,1,BRA,0:01,Saved,0
+5m shot,0,7.0,4,2,USA,2.0,DELGADO A,0 - 2,425,BRA,7:05,Blocked,0
+Action shot,0,3.0,4,2,USA,2.0,OBERT A,0 - 2,354,USA,5:54,Saved,0
+Counter attack,1,6.0,4,2,USA,2.0,GOMES B,1 - 2,285,BRA,4:45,Goal,1
+5m shot,1,10.0,4,3,USA,2.0,BONANNI B,1 - 3,261,USA,4:21,Goal,1
+5m shot,1,11.0,4,3,USA,2.0,GUIMARAES G,1 - 3,237,BRA,3:57,Missed,0
+Action shot,1,5.0,4,3,USA,2.0,SALEMI P,1 - 3,193,BRA,3:13,Missed,0
+Action shot,1,10.0,4,3,USA,2.0,BONANNI B,1 - 3,174,USA,2:54,Saved,0
+Counter attack,1,10.0,4,3,USA,2.0,PERRONE F,1 - 3,158,BRA,2:38,Saved,0
+Action shot,1,5.0,4,3,USA,2.0,ROELSE A,1 - 3,136,USA,2:16,Blocked,0
+Counter attack,1,3.0,4,3,USA,2.0,GOMES G,1 - 3,117,BRA,1:57,Saved,0
+Centre shot,1,4.0,4,3,USA,2.0,KIMBELL J,1 - 3,88,USA,1:28,Post,0
+Centre shot,1,4.0,4,3,USA,2.0,KIMBELL J,1 - 3,87,USA,1:27,Missed,0
+Action shot,1,10.0,4,3,USA,2.0,PERRONE F,1 - 3,63,BRA,1:03,Saved,0
+5m shot,1,7.0,4,3,USA,2.0,SAMUELS J,1 - 3,3,USA,0:03,Missed,0
+Counter attack,3,12.0,4,7,USA,4.0,MANN J,3 - 7,17,USA,0:17,Goal,1
+5m shot,3,6.0,4,7,USA,2.0,GOMES B,3 - 7,1,BRA,0:01,Saved,0
+5m shot,3,6.0,4,7,USA,3.0,GOMES B,3 - 7,451,BRA,7:31,Saved,0
+Extra player shot,3,8.0,4,7,USA,3.0,AZEVEDO T,3 - 7,367,USA,6:07,Blocked,0
+Action shot,3,2.0,4,7,USA,3.0,CRIVELLA J,3 - 7,318,BRA,5:18,Missed,0
+Penalty shot,1,10.0,4,4,USA,3.0,BONANNI B,1 - 4,312,USA,5:12,Goal,1
+Action shot,2,11.0,4,4,USA,3.0,GUIMARAES G,2 - 4,282,BRA,4:42,Goal,1
+Action shot,2,2.0,4,4,USA,3.0,VAVIC N,2 - 4,163,USA,2:43,Blocked,0
+5m shot,2,10.0,4,4,USA,3.0,PERRONE F,2 - 4,134,BRA,2:14,Saved,0
+Action shot,2,9.0,4,4,USA,3.0,ROCHA B,2 - 4,86,BRA,1:26,Post,0
+5m shot,2,2.0,4,4,USA,3.0,VAVIC N,2 - 4,58,USA,0:58,Saved,0
+5m shot,2,11.0,4,4,USA,3.0,SMITH J,2 - 4,0,USA,0:00,Missed,0
+Extra player shot,2,12.0,4,5,USA,4.0,MANN J,2 - 5,441,USA,7:21,Goal,1
+Centre shot,2,12.0,4,6,USA,4.0,MANN J,2 - 6,384,USA,6:24,Goal,1
+5m shot,2,10.0,4,6,USA,4.0,PERRONE F,2 - 6,359,BRA,5:59,Saved,0
+5m shot,2,12.0,4,6,USA,4.0,MANN J,2 - 6,330,USA,5:30,Saved,0
+5m shot,2,6.0,4,6,USA,4.0,CUPIDO L,2 - 6,275,USA,4:35,Saved,0
+5m shot,2,7.0,4,6,USA,4.0,SAMUELS J,2 - 6,244,USA,4:04,Saved,0
+5m shot,2,12.0,4,6,USA,4.0,VRLIC J,2 - 6,194,BRA,3:14,Saved,0
+5m shot,2,6.0,4,6,USA,4.0,CUPIDO L,2 - 6,163,USA,2:43,Missed,0
+Centre shot,3,10.0,4,6,USA,4.0,PERRONE F,3 - 6,140,BRA,2:20,Goal,1
+Centre shot,3,4.0,4,6,USA,4.0,GONZALEZ I,3 - 6,71,BRA,1:11,Saved,0
+Action shot,3,10.0,4,6,USA,4.0,PERRONE F,3 - 6,57,BRA,0:57,Saved,0
+5m shot,3,3.0,4,6,USA,4.0,GOMES G,3 - 6,2,BRA,0:02,Saved,0
+5m shot,0,3.0,5,1,RSA,1.0,CARD D,0 - 1,450,RSA,7:30,Goal,1
+Extra player shot,1,7.0,5,1,RSA,1.0,DELGADO A,1 - 1,426,BRA,7:06,Goal,1
+5m shot,1,2.0,5,2,RSA,1.0,LE ROUX E,1 - 2,410,RSA,6:50,Goal,1
+Extra player shot,1,7.0,5,2,RSA,1.0,DELGADO A,1 - 2,386,BRA,6:26,Saved,0
+Extra player shot,2,12.0,5,2,RSA,1.0,VRLIC J,2 - 2,377,BRA,6:17,Goal,1
+5m shot,2,6.0,5,2,RSA,1.0,GOMES B,2 - 2,319,BRA,5:19,Post,0
+Action shot,2,2.0,5,2,RSA,1.0,LE ROUX E,2 - 2,297,RSA,4:57,Saved,0
+Counter attack,3,12.0,5,2,RSA,1.0,VRLIC J,3 - 2,292,BRA,4:52,Goal,1
+Action shot,3,7.0,5,2,RSA,1.0,JAGGA D,3 - 2,258,RSA,4:18,Saved,0
+Counter attack,3,9.0,5,2,RSA,1.0,ROCHA B,3 - 2,244,BRA,4:04,Saved,0
+5m shot,3,3.0,5,2,RSA,1.0,GOMES G,3 - 2,230,BRA,3:50,Saved,0
+Extra player shot,4,9.0,5,2,RSA,1.0,ROCHA B,4 - 2,204,BRA,3:24,Goal,1
+Counter attack,4,11.0,5,3,RSA,1.0,MOLYNEUX N,4 - 3,141,RSA,2:21,Goal,1
+Extra player shot,5,10.0,5,3,RSA,1.0,PERRONE F,5 - 3,105,BRA,1:45,Goal,1
+Counter attack,6,10.0,5,3,RSA,1.0,PERRONE F,6 - 3,84,BRA,1:24,Goal,1
+5m shot,6,12.0,5,3,RSA,1.0,VRLIC J,6 - 3,52,BRA,0:52,Saved,0
+Counter attack,7,7.0,5,3,RSA,1.0,DELGADO A,7 - 3,41,BRA,0:41,Goal,1
+Centre shot,7,12.0,5,3,RSA,1.0,VRLIC J,7 - 3,5,BRA,0:05,Saved,0
+5m shot,7,6.0,5,3,RSA,2.0,GOMES B,7 - 3,436,BRA,7:16,Post,0
+Penalty shot,7,10.0,5,4,RSA,2.0,LE ROUX P,7 - 4,401,RSA,6:41,Goal,1
+Centre shot,8,12.0,5,4,RSA,2.0,VRLIC J,8 - 4,379,BRA,6:19,Goal,1
+Action shot,8,7.0,5,4,RSA,2.0,DELGADO A,8 - 4,325,BRA,5:25,Saved,0
+Action shot,8,6.0,5,4,RSA,2.0,GOMES B,8 - 4,285,BRA,4:45,Saved,0
+5m shot,8,6.0,5,4,RSA,2.0,GOMES B,8 - 4,263,BRA,4:23,Saved,0
+Action shot,8,7.0,5,5,RSA,2.0,JAGGA D,8 - 5,252,RSA,4:12,Goal,1
+5m shot,8,11.0,5,5,RSA,2.0,GUIMARAES G,8 - 5,231,BRA,3:51,Saved,0
+Action shot,8,3.0,5,5,RSA,2.0,GOMES G,8 - 5,172,BRA,2:52,Blocked,0
+Counter attack,8,10.0,5,5,RSA,2.0,PERRONE F,8 - 5,138,BRA,2:18,Blocked,0
+5m shot,8,3.0,5,5,RSA,2.0,GOMES G,8 - 5,131,BRA,2:11,Blocked,0
+Counter attack,9,11.0,5,5,RSA,2.0,GUIMARAES G,9 - 5,101,BRA,1:41,Goal,1
+5m shot,9,10.0,5,5,RSA,2.0,PERRONE F,9 - 5,51,BRA,0:51,Post,0
+5m shot,9,5.0,5,5,RSA,2.0,HOCK N,9 - 5,0,RSA,0:00,Saved,0
+Extra player shot,10,12.0,5,5,RSA,3.0,VRLIC J,10 - 5,455,BRA,7:35,Goal,1
+5m shot,10,8.0,5,5,RSA,3.0,WINGATE-PEARSE J,10 - 5,426,RSA,7:06,Saved,0
+Centre shot,10,12.0,5,5,RSA,3.0,VRLIC J,10 - 5,408,BRA,6:48,Saved,0
+5m shot,10,7.0,5,5,RSA,3.0,DELGADO A,10 - 5,386,BRA,6:26,Post,0
+Action shot,10,6.0,5,5,RSA,3.0,GOMES B,10 - 5,348,BRA,5:48,Post,0
+Action shot,10,10.0,5,5,RSA,3.0,PERRONE F,10 - 5,307,BRA,5:07,Post,0
+Action shot,10,5.0,5,5,RSA,3.0,HOCK N,10 - 5,269,RSA,4:29,Saved,0
+Centre shot,10,12.0,5,5,RSA,3.0,VRLIC J,10 - 5,247,BRA,4:07,Saved,0
+Extra player shot,10,8.0,5,5,RSA,3.0,WINGATE-PEARSE J,10 - 5,198,RSA,3:18,Missed,0
+Counter attack,10,10.0,5,5,RSA,3.0,PERRONE F,10 - 5,189,BRA,3:09,Post,0
+Action shot,10,10.0,5,5,RSA,3.0,LE ROUX P,10 - 5,167,RSA,2:47,Saved,0
+Action shot,10,5.0,5,5,RSA,3.0,SALEMI P,10 - 5,145,BRA,2:25,Post,0
+Extra player shot,11,10.0,5,5,RSA,3.0,PERRONE F,11 - 5,105,BRA,1:45,Goal,1
+5m shot,11,11.0,5,5,RSA,3.0,MOLYNEUX N,11 - 5,77,RSA,1:17,Missed,0
+Action shot,11,5.0,5,5,RSA,3.0,SALEMI P,11 - 5,50,BRA,0:50,Blocked,0
+5m shot,11,2.0,5,5,RSA,3.0,LE ROUX E,11 - 5,19,RSA,0:19,Saved,0
+Extra player shot,12,6.0,5,5,RSA,3.0,GOMES B,12 - 5,3,BRA,0:03,Goal,1
+Action shot,13,12.0,5,5,RSA,4.0,VRLIC J,13 - 5,461,BRA,7:41,Goal,1
+Action shot,13,6.0,5,5,RSA,4.0,GOMES B,13 - 5,417,BRA,6:57,Saved,0
+Extra player shot,14,2.0,5,5,RSA,4.0,CRIVELLA J,14 - 5,356,BRA,5:56,Goal,1
+Action shot,14,11.0,5,5,RSA,4.0,MOLYNEUX N,14 - 5,326,RSA,5:26,Post,0
+Action shot,14,10.0,5,5,RSA,4.0,PERRONE F,14 - 5,298,BRA,4:58,Blocked,0
+5m shot,14,5.0,5,5,RSA,4.0,SALEMI P,14 - 5,255,BRA,4:15,Saved,0
+Extra player shot,14,10.0,5,5,RSA,4.0,LE ROUX P,14 - 5,216,RSA,3:36,Saved,0
+Action shot,15,3.0,5,5,RSA,4.0,GOMES G,15 - 5,161,BRA,2:41,Goal,1
+Counter attack,16,10.0,5,5,RSA,4.0,PERRONE F,16 - 5,132,BRA,2:12,Goal,1
+Action shot,16,10.0,5,5,RSA,4.0,PERRONE F,16 - 5,76,BRA,1:16,Saved,0
+Action shot,16,11.0,5,5,RSA,4.0,GUIMARAES G,16 - 5,25,BRA,0:25,Post,0
+5m shot,0,6.0,6,0,CAN,1.0,GOMES B,0 - 0,424,BRA,7:04,Post,0
+Action shot,0,5.0,6,0,CAN,1.0,BOYD J,0 - 0,397,CAN,6:37,Post,0
+Action shot,0,4.0,6,0,CAN,1.0,CONSTANTIN-BICARI,0 - 0,339,CAN,5:39,Post,0
+Centre shot,0,5.0,6,0,CAN,1.0,BOYD J,0 - 0,286,CAN,4:46,Missed,0
+5m shot,0,10.0,6,0,CAN,1.0,PERRONE F,0 - 0,260,BRA,4:20,Missed,0
+Action shot,0,8.0,6,0,CAN,1.0,SILVA F,0 - 0,223,BRA,3:43,Saved,0
+Action shot,0,2.0,6,1,CAN,1.0,KUDABA C,1 - 0,188,CAN,3:08,Goal,1
+Extra player shot,0,4.0,6,1,CAN,1.0,GONZALEZ I,1 - 0,146,BRA,2:26,Missed,0
+Action shot,1,10.0,6,1,CAN,1.0,PERRONE F,1 - 1,94,BRA,1:34,Goal,1
+Penalty shot,1,10.0,6,2,CAN,1.0,CONWAY J,2 - 1,68,CAN,1:08,Goal,1
+Action shot,1,3.0,6,2,CAN,1.0,GOMES G,2 - 1,43,BRA,0:43,Saved,0
+Action shot,1,3.0,6,2,CAN,1.0,GOMES G,2 - 1,28,BRA,0:28,Saved,0
+Action shot,2,11.0,6,2,CAN,1.0,GUIMARAES G,2 - 2,3,BRA,0:03,Goal,1
+Action shot,2,7.0,6,2,CAN,2.0,DELGADO A,2 - 2,427,BRA,7:07,Saved,0
+5m shot,2,12.0,6,2,CAN,2.0,MCELROY J,2 - 2,401,CAN,6:41,Saved,0
+Extra player shot,2,2.0,6,3,CAN,2.0,KUDABA C,3 - 2,345,CAN,5:45,Goal,1
+Extra player shot,2,5.0,6,3,CAN,2.0,BOYD J,3 - 2,295,CAN,4:55,Post,0
+Action shot,2,8.0,6,3,CAN,2.0,SILVA F,3 - 2,266,BRA,4:26,Saved,0
+Action shot,2,10.0,6,3,CAN,2.0,CONWAY J,3 - 2,236,CAN,3:56,Blocked,0
+Action shot,3,12.0,6,3,CAN,2.0,VRLIC J,3 - 3,213,BRA,3:33,Goal,1
+Counter attack,3,11.0,6,3,CAN,2.0,GUIMARAES G,3 - 3,185,BRA,3:05,Saved,0
+Extra player shot,3,3.0,6,3,CAN,2.0,VIKALO O,3 - 3,147,CAN,2:27,Saved,0
+5m shot,3,10.0,6,3,CAN,2.0,PERRONE F,3 - 3,120,BRA,2:00,Saved,0
+5m shot,3,10.0,6,3,CAN,2.0,PERRONE F,3 - 3,115,BRA,1:55,Saved,0
+Action shot,3,11.0,6,3,CAN,2.0,GUIMARAES G,3 - 3,76,BRA,1:16,Saved,0
+5m shot,3,2.0,6,3,CAN,2.0,KUDABA C,3 - 3,47,CAN,0:47,Saved,0
+5m shot,3,11.0,6,3,CAN,2.0,TORAKIS G,3 - 3,0,CAN,0:00,Missed,0
+Extra player shot,3,10.0,6,3,CAN,4.0,PERRONE F,3 - 3,54,BRA,0:54,Post,0
+Action shot,3,4.0,6,3,CAN,4.0,CONSTANTIN-BICARI,3 - 3,16,CAN,0:16,Saved,0
+Action shot,3,10.0,6,3,CAN,4.0,PERRONE F,3 - 3,2,BRA,0:02,Saved,0
+Action shot,3,10.0,6,4,CAN,3.0,CONWAY J,4 - 3,452,CAN,7:32,Goal,1
+Penalty shot,4,7.0,6,4,CAN,3.0,DELGADO A,4 - 4,398,BRA,6:38,Goal,1
+Action shot,4,4.0,6,4,CAN,3.0,CONSTANTIN-BICARI,4 - 4,357,CAN,5:57,Saved,0
+Extra player shot,4,12.0,6,4,CAN,3.0,VRLIC J,4 - 4,258,BRA,4:18,Saved,0
+Action shot,4,10.0,6,4,CAN,3.0,CONWAY J,4 - 4,215,CAN,3:35,Saved,0
+Centre shot,5,12.0,6,4,CAN,3.0,VRLIC J,4 - 5,208,BRA,3:28,Goal,1
+Action shot,5,4.0,6,4,CAN,3.0,GONZALEZ I,4 - 5,162,BRA,2:42,Missed,0
+Extra player shot,5,3.0,6,4,CAN,3.0,VIKALO O,4 - 5,98,CAN,1:38,Saved,0
+Action shot,5,7.0,6,4,CAN,3.0,DELGADO A,4 - 5,52,BRA,0:52,Saved,0
+Extra player shot,6,7.0,6,4,CAN,3.0,DELGADO A,4 - 6,5,BRA,0:05,Goal,1
+Action shot,6,4.0,6,5,CAN,3.0,CONSTANTIN-BICARI,5 - 6,1,CAN,0:01,Goal,1
+Action shot,6,12.0,6,5,CAN,4.0,VRLIC J,5 - 6,378,BRA,6:18,Saved,0
+Action shot,6,2.0,6,5,CAN,4.0,CRIVELLA J,5 - 6,372,BRA,6:12,Saved,0
+Action shot,6,5.0,6,6,CAN,4.0,BOYD J,6 - 6,348,CAN,5:48,Goal,1
+Action shot,7,7.0,6,6,CAN,4.0,DELGADO A,6 - 7,321,BRA,5:21,Goal,1
+Action shot,7,7.0,6,6,CAN,4.0,DELGADO A,6 - 7,272,BRA,4:32,Blocked,0
+Centre shot,7,12.0,6,7,CAN,4.0,MCELROY J,7 - 7,207,CAN,3:27,Goal,1
+Extra player shot,7,10.0,6,7,CAN,4.0,PERRONE F,7 - 7,128,BRA,2:08,Saved,0
+5m shot,7,8.0,6,7,CAN,4.0,GRAHAM K,7 - 7,104,CAN,1:44,Missed,0
