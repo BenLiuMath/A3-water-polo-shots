@@ -1,0 +1,781 @@
+Action,CRO,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,0,1.0,1,0,USA,1.0,BARON M,0 - 0,480,USA,8:00
+Starting goalkeeper,0,1.0,1,0,USA,1.0,BIJAC M,0 - 0,480,CRO,8:00
+Sprint won possession,0,5.0,1,0,USA,1.0,JOKOVIC M,0 - 0,480,CRO,8:00
+Turnover foul,0,4.0,1,0,USA,1.0,OBERT A,0 - 0,425,USA,7:05
+Steal,0,1.0,1,0,USA,1.0,BIJAC M,0 - 0,425,CRO,7:05
+Action shot - Saved,0,12.0,1,0,USA,1.0,GARCIA GADEA J,0 - 0,405,CRO,6:45
+Action shot - Saved,0,7.0,1,0,USA,1.0,VUKICEVIC A,0 - 0,347,CRO,5:47
+5m shot - Goal,0,6.0,1,1,USA,1.0,CUPIDO L,1 - 0,320,USA,5:20
+20 sec. exclusion in centre,0,10.0,1,1,USA,1.0,RAMIREZ C,1 - 0,298,USA,4:58
+Extra player shot - Goal,1,7.0,1,1,USA,1.0,VUKICEVIC A,1 - 1,296,CRO,4:56
+20 sec. exclusion in field,1,7.0,1,1,USA,1.0,VUKICEVIC A,1 - 1,277,CRO,4:37
+Extra player shot - Missed,1,8.0,1,1,USA,1.0,CARNIGLIA N,1 - 1,261,USA,4:21
+Action shot - Missed,1,5.0,1,1,USA,1.0,JOKOVIC M,1 - 1,233,CRO,3:53
+5m shot - Missed,1,2.0,1,1,USA,1.0,HOOPER J,1 - 1,217,USA,3:37
+Turnover foul,1,10.0,1,1,USA,1.0,KRAPIC I,1 - 1,205,CRO,3:25
+Steal,1,12.0,1,1,USA,1.0,IRVING M,1 - 1,205,USA,3:25
+Time-Out,1,,1,1,USA,1.0,,1 - 1,205,USA,3:25
+Turnover foul,1,4.0,1,1,USA,1.0,OBERT A,1 - 1,181,USA,3:01
+Steal,1,8.0,1,1,USA,1.0,BUSLJE A,1 - 1,181,CRO,3:01
+Centre shot - Goal,2,4.0,1,1,USA,1.0,LONCAR L,1 - 2,166,CRO,2:46
+20 sec. exclusion in centre,2,5.0,1,1,USA,1.0,HALLOCK B,1 - 2,118,USA,1:58
+Time-Out,2,,1,1,USA,1.0,,1 - 2,118,CRO,1:58
+Action shot - Blocked,2,12.0,1,1,USA,1.0,GARCIA GADEA J,1 - 2,97,CRO,1:37
+Action shot - Goal,3,7.0,1,1,USA,1.0,VUKICEVIC A,1 - 3,88,CRO,1:28
+Turnover foul,3,6.0,1,1,USA,1.0,CUPIDO L,1 - 3,59,USA,0:59
+Steal,3,11.0,1,1,USA,1.0,SETKA A,1 - 3,59,CRO,0:59
+5m shot - Blocked,3,5.0,1,1,USA,1.0,JOKOVIC M,1 - 3,34,CRO,0:34
+Centre shot - Saved,3,4.0,1,1,USA,1.0,OBERT A,1 - 3,9,USA,0:09
+Starting goalkeeper,3,1.0,1,1,USA,2.0,BARON M,1 - 3,480,USA,8:00
+Starting goalkeeper,3,1.0,1,1,USA,2.0,BIJAC M,1 - 3,480,CRO,8:00
+Sprint won possession,3,3.0,1,1,USA,2.0,FATOVIC L,1 - 3,480,CRO,8:00
+Centre shot - Goal,4,4.0,1,1,USA,2.0,LONCAR L,1 - 4,455,CRO,7:35
+Turnover foul,4,6.0,1,1,USA,2.0,CUPIDO L,1 - 4,439,USA,7:19
+Steal,4,3.0,1,1,USA,2.0,FATOVIC L,1 - 4,439,CRO,7:19
+Action shot - Blocked,4,3.0,1,1,USA,2.0,FATOVIC L,1 - 4,413,CRO,6:53
+5m shot - Post,4,10.0,1,1,USA,2.0,RAMIREZ C,1 - 4,387,USA,6:27
+Turnover foul,4,10.0,1,1,USA,2.0,KRAPIC I,1 - 4,365,CRO,6:05
+Steal,4,10.0,1,1,USA,2.0,RAMIREZ C,1 - 4,365,USA,6:05
+20 sec. exclusion in centre,4,2.0,1,1,USA,2.0,MACAN M,1 - 4,344,CRO,5:44
+Action shot - Saved,4,7.0,1,1,USA,2.0,DUNSTAN T,1 - 4,324,USA,5:24
+Turnover foul,4,7.0,1,1,USA,2.0,DUNSTAN T,1 - 4,296,USA,4:56
+Turnover foul,4,6.0,1,1,USA,2.0,BULJUBASIC I,1 - 4,288,CRO,4:48
+5m shot - Missed,4,6.0,1,1,USA,2.0,CUPIDO L,1 - 4,270,USA,4:30
+Counter attack - Goal,5,3.0,1,1,USA,2.0,FATOVIC L,1 - 5,261,CRO,4:21
+Time-Out,5,,1,1,USA,2.0,,1 - 5,260,USA,4:20
+Turnover foul,5,3.0,1,1,USA,2.0,VAVIC M,1 - 5,244,USA,4:04
+Steal,5,5.0,1,1,USA,2.0,JOKOVIC M,1 - 5,244,CRO,4:04
+Action shot - Missed,5,5.0,1,1,USA,2.0,JOKOVIC M,1 - 5,224,CRO,3:44
+5m shot - Blocked,5,12.0,1,1,USA,2.0,IRVING M,1 - 5,200,USA,3:20
+Action shot - Blocked,5,9.0,1,1,USA,2.0,SUKNO S,1 - 5,173,CRO,2:53
+20 sec. exclusion in centre,5,6.0,1,1,USA,2.0,BULJUBASIC I,1 - 5,157,CRO,2:37
+Extra player shot - Goal,5,9.0,1,2,USA,2.0,BOWEN A,2 - 5,147,USA,2:27
+Action shot - Goal,6,5.0,1,2,USA,2.0,JOKOVIC M,2 - 6,120,CRO,2:00
+5m shot - Blocked,6,7.0,1,2,USA,2.0,DUNSTAN T,2 - 6,92,USA,1:32
+20 sec. exclusion in field,6,12.0,1,2,USA,2.0,GARCIA GADEA J,2 - 6,80,CRO,1:20
+Extra player shot - Goal,6,2.0,1,3,USA,2.0,HOOPER J,3 - 6,72,USA,1:12
+20 sec. exclusion in centre,6,4.0,1,3,USA,2.0,OBERT A,3 - 6,56,USA,0:56
+Time-Out,6,,1,3,USA,2.0,,3 - 6,56,CRO,0:56
+Action shot - Goal,7,12.0,1,3,USA,2.0,GARCIA GADEA J,3 - 7,34,CRO,0:34
+Turnover foul,7,9.0,1,3,USA,2.0,BOWEN A,3 - 7,20,USA,0:20
+Steal,7,9.0,1,3,USA,2.0,SUKNO S,3 - 7,20,CRO,0:20
+Action shot - Goal,11,4.0,1,6,USA,4.0,OBERT A,6 - 11,62,USA,1:02
+20 sec. exclusion in centre,11,4.0,1,6,USA,4.0,OBERT A,6 - 11,39,USA,0:39
+Extra player shot - Goal,12,4.0,1,6,USA,4.0,LONCAR L,6 - 12,34,CRO,0:34
+20 sec. exclusion in centre,12,8.0,1,6,USA,4.0,BUSLJE A,6 - 12,24,CRO,0:24
+5m shot - Saved,12,12.0,1,6,USA,2.0,IRVING M,6 - 12,1,USA,0:01
+Starting goalkeeper,12,1.0,1,6,USA,3.0,BARON M,6 - 12,480,USA,8:00
+Starting goalkeeper,12,1.0,1,6,USA,3.0,BIJAC M,6 - 12,480,CRO,8:00
+Sprint won possession,12,2.0,1,6,USA,3.0,HOOPER J,6 - 12,480,USA,8:00
+20 sec. exclusion in field,12,4.0,1,6,USA,3.0,LONCAR L,6 - 12,463,CRO,7:43
+Action shot - Saved,12,2.0,1,6,USA,3.0,HOOPER J,6 - 12,437,USA,7:17
+Centre shot - Goal,8,4.0,1,3,USA,3.0,LONCAR L,3 - 8,405,CRO,6:45
+5m shot - Saved,8,6.0,1,3,USA,3.0,CUPIDO L,3 - 8,387,USA,6:27
+20 sec. exclusion in centre,8,11.0,1,3,USA,3.0,ROELSE A,3 - 8,362,USA,6:02
+Extra player shot - Goal,9,12.0,1,3,USA,3.0,GARCIA GADEA J,3 - 9,342,CRO,5:42
+Turnover foul,9,3.0,1,3,USA,3.0,VAVIC M,3 - 9,325,USA,5:25
+Steal,9,12.0,1,3,USA,3.0,GARCIA GADEA J,3 - 9,325,CRO,5:25
+Turnover foul,9,8.0,1,3,USA,3.0,BUSLJE A,3 - 9,305,CRO,5:05
+Turnover foul,9,10.0,1,3,USA,3.0,KRAPIC I,3 - 9,261,CRO,4:21
+Steal,9,6.0,1,3,USA,3.0,CUPIDO L,3 - 9,261,USA,4:21
+20 sec. exclusion in field,9,6.0,1,3,USA,3.0,BULJUBASIC I,3 - 9,242,CRO,4:02
+Extra player shot - Goal,9,6.0,1,4,USA,3.0,CUPIDO L,4 - 9,241,USA,4:01
+5m shot - Saved,9,8.0,1,4,USA,3.0,BUSLJE A,4 - 9,212,CRO,3:32
+Turnover foul,9,7.0,1,4,USA,3.0,VUKICEVIC A,4 - 9,185,CRO,3:05
+Steal,9,12.0,1,4,USA,3.0,IRVING M,4 - 9,185,USA,3:05
+Turnover foul,9,3.0,1,4,USA,3.0,VAVIC M,4 - 9,170,USA,2:50
+Steal,9,1.0,1,4,USA,3.0,BIJAC M,4 - 9,170,CRO,2:50
+Time-Out,9,,1,4,USA,3.0,,4 - 9,170,CRO,2:50
+20 sec. exclusion in centre,9,6.0,1,4,USA,3.0,CUPIDO L,4 - 9,158,USA,2:38
+Yellow card,9,,1,4,USA,3.0,Team Official,4 - 9,158,CRO,2:38
+Turnover foul,9,3.0,1,4,USA,3.0,FATOVIC L,4 - 9,146,CRO,2:26
+Steal,9,9.0,1,4,USA,3.0,BOWEN A,4 - 9,146,USA,2:26
+Time-Out,9,,1,4,USA,3.0,,4 - 9,145,USA,2:25
+Turnover foul,9,9.0,1,4,USA,3.0,BOWEN A,4 - 9,128,USA,2:08
+Action shot - Saved,9,11.0,1,4,USA,3.0,SETKA A,4 - 9,106,CRO,1:46
+5m shot - Goal,10,12.0,1,4,USA,3.0,GARCIA GADEA J,4 - 10,80,CRO,1:20
+Centre shot - Post,10,5.0,1,4,USA,3.0,HALLOCK B,4 - 10,62,USA,1:02
+20 sec. exclusion in field,10,12.0,1,4,USA,3.0,IRVING M,4 - 10,48,USA,0:48
+Action shot - Saved,10,5.0,1,4,USA,3.0,JOKOVIC M,4 - 10,29,CRO,0:29
+5m shot - Post,10,7.0,1,4,USA,3.0,VUKICEVIC A,4 - 10,1,CRO,0:01
+Starting goalkeeper,10,1.0,1,4,USA,4.0,BARON M,4 - 10,480,USA,8:00
+Starting goalkeeper,10,1.0,1,4,USA,4.0,BIJAC M,4 - 10,480,CRO,8:00
+Sprint won possession,10,11.0,1,4,USA,4.0,SETKA A,4 - 10,480,CRO,8:00
+20 sec. exclusion in centre,10,10.0,1,4,USA,4.0,RAMIREZ C,4 - 10,458,USA,7:38
+Action shot - Saved,10,5.0,1,4,USA,4.0,JOKOVIC M,4 - 10,435,CRO,7:15
+Action shot - Saved,10,12.0,1,4,USA,4.0,IRVING M,4 - 10,406,USA,6:46
+5m shot - Saved,10,2.0,1,4,USA,4.0,MACAN M,4 - 10,377,CRO,6:17
+20 sec. exclusion in centre,10,3.0,1,4,USA,4.0,FATOVIC L,4 - 10,353,CRO,5:53
+Extra player shot - Goal,10,9.0,1,5,USA,4.0,BOWEN A,5 - 10,340,USA,5:40
+Centre shot - Saved,10,5.0,1,5,USA,4.0,JOKOVIC M,5 - 10,310,CRO,5:10
+Turnover foul,10,4.0,1,5,USA,4.0,OBERT A,5 - 10,283,USA,4:43
+Steal,10,2.0,1,5,USA,4.0,MACAN M,5 - 10,283,CRO,4:43
+20 sec. exclusion in centre,10,11.0,1,5,USA,4.0,ROELSE A,5 - 10,262,USA,4:22
+Extra player shot - Saved,10,9.0,1,5,USA,4.0,SUKNO S,5 - 10,243,CRO,4:03
+Turnover foul,10,7.0,1,5,USA,4.0,VUKICEVIC A,5 - 10,215,CRO,3:35
+Steal,10,7.0,1,5,USA,4.0,DUNSTAN T,5 - 10,215,USA,3:35
+Turnover foul,10,4.0,1,5,USA,4.0,OBERT A,5 - 10,196,USA,3:16
+Steal,10,9.0,1,5,USA,4.0,SUKNO S,5 - 10,196,CRO,3:16
+5m shot - Saved,10,11.0,1,5,USA,4.0,SETKA A,5 - 10,166,CRO,2:46
+Time-Out,10,,1,5,USA,4.0,,5 - 10,166,USA,2:46
+Turnover foul,10,12.0,1,5,USA,4.0,IRVING M,5 - 10,148,USA,2:28
+Steal,10,3.0,1,5,USA,4.0,FATOVIC L,5 - 10,148,CRO,2:28
+5m shot - Post,10,12.0,1,5,USA,4.0,GARCIA GADEA J,5 - 10,129,CRO,2:09
+Turnover foul,10,2.0,1,5,USA,4.0,HOOPER J,5 - 10,101,USA,1:41
+Steal,10,1.0,1,5,USA,4.0,BIJAC M,5 - 10,101,CRO,1:41
+Counter attack - Goal,11,12.0,1,5,USA,4.0,GARCIA GADEA J,5 - 11,86,CRO,1:26
+20 sec. exclusion in field,11,3.0,1,5,USA,4.0,FATOVIC L,5 - 11,19,CRO,0:19
+Extra player shot - Goal,12,3.0,1,7,USA,4.0,VAVIC M,7 - 12,12,USA,0:12
+Turnover foul,12,9.0,1,7,USA,4.0,SUKNO S,7 - 12,1,CRO,0:01
+Steal,12,6.0,1,7,USA,4.0,CUPIDO L,7 - 12,1,USA,0:01
+Starting goalkeeper,0,13.0,2,0,RUS,1.0,STATSENKO V,0 - 0,480,RUS,8:00
+Starting goalkeeper,0,1.0,2,0,RUS,1.0,BIJAC M,0 - 0,480,CRO,8:00
+Sprint won possession,0,10.0,2,0,RUS,1.0,KHOLOD D,0 - 0,480,RUS,8:00
+5m shot - Saved,0,8.0,2,0,RUS,1.0,NAGAEV I,0 - 0,452,RUS,7:32
+20 sec. exclusion in centre,0,3.0,2,0,RUS,1.0,VASILYEV E,0 - 0,428,RUS,7:08
+Action shot - Missed,0,12.0,2,0,RUS,1.0,GARCIA GADEA J,0 - 0,405,CRO,6:45
+Turnover foul,0,7.0,2,0,RUS,1.0,MERKULOV D,0 - 0,356,RUS,5:56
+Steal,0,8.0,2,0,RUS,1.0,BUSLJE A,0 - 0,356,CRO,5:56
+Action shot - Saved,0,12.0,2,0,RUS,1.0,GARCIA GADEA J,0 - 0,338,CRO,5:38
+Turnover foul,0,4.0,2,0,RUS,1.0,LONCAR L,0 - 0,314,CRO,5:14
+Steal,0,9.0,2,0,RUS,1.0,SUCHKOV I,0 - 0,314,RUS,5:14
+Turnover foul,0,2.0,2,0,RUS,1.0,LAZAREV N,0 - 0,282,RUS,4:42
+Steal,0,5.0,2,0,RUS,1.0,JOKOVIC M,0 - 0,282,CRO,4:42
+Counter attack - Saved,0,11.0,2,0,RUS,1.0,SETKA A,0 - 0,271,CRO,4:31
+5m shot - Goal,0,2.0,2,1,RUS,1.0,LAZAREV N,1 - 0,249,RUS,4:09
+20 sec. exclusion in centre,0,9.0,2,1,RUS,1.0,SUCHKOV I,1 - 0,220,RUS,3:40
+Extra player shot - Post,0,5.0,2,1,RUS,1.0,JOKOVIC M,1 - 0,198,CRO,3:18
+20 sec. exclusion in centre,0,6.0,2,1,RUS,1.0,BULJUBASIC I,1 - 0,177,CRO,2:57
+5m shot - Goal,0,6.0,2,2,RUS,1.0,ASHAEV A,2 - 0,153,RUS,2:33
+Time-Out,0,,2,2,RUS,1.0,,2 - 0,153,CRO,2:33
+20 sec. exclusion in centre,0,6.0,2,2,RUS,1.0,ASHAEV A,2 - 0,130,RUS,2:10
+Extra player shot - Post,0,5.0,2,2,RUS,1.0,JOKOVIC M,2 - 0,109,CRO,1:49
+20 sec. exclusion in centre,0,12.0,2,2,RUS,1.0,SHEPELEV R,2 - 0,96,RUS,1:36
+Extra player shot - Goal,1,9.0,2,2,RUS,1.0,SUKNO S,2 - 1,88,CRO,1:28
+Time-Out,1,,2,2,RUS,1.0,,2 - 1,88,RUS,1:28
+5m shot - Goal,1,9.0,2,3,RUS,1.0,SUCHKOV I,3 - 1,64,RUS,1:04
+Turnover foul,1,12.0,2,3,RUS,1.0,GARCIA GADEA J,3 - 1,36,CRO,0:36
+Steal,1,6.0,2,3,RUS,1.0,ASHAEV A,3 - 1,36,RUS,0:36
+5m shot - Saved,1,12.0,2,3,RUS,1.0,GARCIA GADEA J,3 - 1,1,CRO,0:01
+Starting goalkeeper,1,13.0,2,3,RUS,2.0,STATSENKO V,3 - 1,480,RUS,8:00
+Starting goalkeeper,1,13.0,2,3,RUS,2.0,MARCELIC I,3 - 1,480,CRO,8:00
+Sprint won possession,1,10.0,2,3,RUS,2.0,KHOLOD D,3 - 1,480,RUS,8:00
+Centre shot - Missed,1,11.0,2,3,RUS,2.0,LISUNOV S,3 - 1,452,RUS,7:32
+Action shot - Missed,1,9.0,2,3,RUS,2.0,SUKNO S,3 - 1,422,CRO,7:02
+5m shot - Post,1,2.0,2,3,RUS,2.0,LAZAREV N,3 - 1,402,RUS,6:42
+Action shot - Saved,1,9.0,2,3,RUS,2.0,SUKNO S,3 - 1,380,CRO,6:20
+Time-Out,1,,2,3,RUS,2.0,,3 - 1,374,RUS,6:14
+Turnover foul,1,8.0,2,3,RUS,2.0,NAGAEV I,3 - 1,355,RUS,5:55
+Steal,1,9.0,2,3,RUS,2.0,SUKNO S,3 - 1,355,CRO,5:55
+Action shot - Blocked,1,12.0,2,3,RUS,2.0,GARCIA GADEA J,3 - 1,330,CRO,5:30
+5m shot - Blocked,1,2.0,2,3,RUS,2.0,LAZAREV N,3 - 1,302,RUS,5:02
+Turnover foul,1,10.0,2,3,RUS,2.0,KRAPIC I,3 - 1,281,CRO,4:41
+Turnover foul,1,8.0,2,3,RUS,2.0,NAGAEV I,3 - 1,258,RUS,4:18
+Steal,1,9.0,2,3,RUS,2.0,SUKNO S,3 - 1,258,CRO,4:18
+20 sec. exclusion in centre,1,10.0,2,3,RUS,2.0,KHOLOD D,3 - 1,243,RUS,4:03
+Extra player shot - Goal,2,5.0,2,3,RUS,2.0,JOKOVIC M,3 - 2,240,CRO,4:00
+20 sec. exclusion in centre,2,8.0,2,3,RUS,2.0,BUSLJE A,3 - 2,217,CRO,3:37
+Extra player shot - Saved,2,4.0,2,3,RUS,2.0,DEREVIANKIN N,3 - 2,202,RUS,3:22
+Turnover foul,2,2.0,2,3,RUS,2.0,MACAN M,3 - 2,184,CRO,3:04
+Steal,2,12.0,2,3,RUS,2.0,SHEPELEV R,3 - 2,184,RUS,3:04
+Action shot - Goal,2,8.0,2,4,RUS,2.0,NAGAEV I,4 - 2,164,RUS,2:44
+Centre shot - Blocked,2,4.0,2,4,RUS,2.0,LONCAR L,4 - 2,142,CRO,2:22
+Turnover foul,2,13.0,2,4,RUS,2.0,STATSENKO V,4 - 2,134,RUS,2:14
+Steal,2,5.0,2,4,RUS,2.0,JOKOVIC M,4 - 2,134,CRO,2:14
+Counter attack - Goal,3,11.0,2,4,RUS,2.0,SETKA A,4 - 3,124,CRO,2:04
+20 sec. exclusion in field,3,3.0,2,4,RUS,2.0,FATOVIC L,4 - 3,107,CRO,1:47
+Action shot - Goal,3,5.0,2,5,RUS,2.0,BUGAYCHUK A,5 - 3,85,RUS,1:25
+Turnover foul,3,4.0,2,5,RUS,2.0,LONCAR L,5 - 3,63,CRO,1:03
+Centre shot - Goal,3,11.0,2,6,RUS,2.0,LISUNOV S,6 - 3,37,RUS,0:37
+Time-Out,3,,2,6,RUS,2.0,,6 - 3,37,CRO,0:37
+20 sec. exclusion in field,3,12.0,2,6,RUS,2.0,SHEPELEV R,6 - 3,23,RUS,0:23
+Action shot - Missed,3,2.0,2,6,RUS,4.0,LAZAREV N,6 - 3,36,RUS,0:36
+20 sec. exclusion in centre,3,10.0,2,6,RUS,4.0,KHOLOD D,6 - 3,9,RUS,0:09
+Exclusion with substitution,3,10.0,2,6,RUS,4.0,KHOLOD D,6 - 3,9,RUS,0:09
+Extra player shot - Goal,4,9.0,2,6,RUS,2.0,SUKNO S,6 - 4,10,CRO,0:10
+Starting goalkeeper,4,13.0,2,6,RUS,3.0,STATSENKO V,6 - 4,480,RUS,8:00
+Starting goalkeeper,4,1.0,2,6,RUS,3.0,BIJAC M,6 - 4,480,CRO,8:00
+Sprint won possession,4,10.0,2,6,RUS,3.0,KHOLOD D,6 - 4,480,RUS,8:00
+Turnover foul,4,2.0,2,6,RUS,3.0,LAZAREV N,6 - 4,452,RUS,7:32
+Steal,4,9.0,2,6,RUS,3.0,SUKNO S,6 - 4,452,CRO,7:32
+5m shot - Saved,4,11.0,2,6,RUS,3.0,SETKA A,6 - 4,423,CRO,7:03
+Action shot - Saved,4,2.0,2,6,RUS,3.0,LAZAREV N,6 - 4,402,RUS,6:42
+20 sec. exclusion in field,4,11.0,2,6,RUS,3.0,LISUNOV S,6 - 4,397,RUS,6:37
+Action shot - Goal,5,5.0,2,6,RUS,3.0,JOKOVIC M,6 - 5,373,CRO,6:13
+5m shot - Missed,5,2.0,2,6,RUS,3.0,LAZAREV N,6 - 5,340,RUS,5:40
+Turnover foul,5,4.0,2,6,RUS,3.0,LONCAR L,6 - 5,319,CRO,5:19
+Turnover foul,5,4.0,2,6,RUS,3.0,DEREVIANKIN N,6 - 5,296,RUS,4:56
+20 sec. exclusion in centre,5,2.0,2,6,RUS,3.0,LAZAREV N,6 - 5,281,RUS,4:41
+Extra player shot - Goal,6,5.0,2,6,RUS,3.0,JOKOVIC M,6 - 6,278,CRO,4:38
+20 sec. exclusion in centre,6,6.0,2,6,RUS,3.0,BULJUBASIC I,6 - 6,258,CRO,4:18
+Extra player shot - Blocked,6,2.0,2,6,RUS,3.0,LAZAREV N,6 - 6,244,RUS,4:04
+Counter attack - Saved,6,3.0,2,6,RUS,3.0,FATOVIC L,6 - 6,231,CRO,3:51
+5m shot - Saved,6,7.0,2,6,RUS,3.0,MERKULOV D,6 - 6,206,RUS,3:26
+Turnover foul,6,10.0,2,6,RUS,3.0,KRAPIC I,6 - 6,186,CRO,3:06
+Centre shot - Saved,6,11.0,2,6,RUS,3.0,LISUNOV S,6 - 6,158,RUS,2:38
+5m shot - Goal,7,3.0,2,6,RUS,3.0,FATOVIC L,6 - 7,136,CRO,2:16
+20 sec. exclusion in centre,7,8.0,2,6,RUS,3.0,BUSLJE A,6 - 7,107,CRO,1:47
+Extra player shot - Goal,7,11.0,2,7,RUS,3.0,LISUNOV S,7 - 7,89,RUS,1:29
+20 sec. exclusion in centre,7,9.0,2,7,RUS,3.0,SUCHKOV I,7 - 7,59,RUS,0:59
+Time-Out,7,,2,7,RUS,3.0,,7 - 7,59,CRO,0:59
+Action shot - Goal,8,9.0,2,7,RUS,3.0,SUKNO S,7 - 8,35,CRO,0:35
+20 sec. exclusion in centre,8,2.0,2,7,RUS,3.0,MACAN M,7 - 8,8,CRO,0:08
+Extra player shot - Saved,8,10.0,2,7,RUS,3.0,KHOLOD D,7 - 8,1,RUS,0:01
+Starting goalkeeper,8,13.0,2,7,RUS,4.0,STATSENKO V,7 - 8,480,RUS,8:00
+Starting goalkeeper,8,1.0,2,7,RUS,4.0,BIJAC M,7 - 8,480,CRO,8:00
+Sprint won possession,8,10.0,2,7,RUS,4.0,KHOLOD D,7 - 8,480,RUS,8:00
+5m shot - Missed,8,10.0,2,7,RUS,4.0,KHOLOD D,7 - 8,451,RUS,7:31
+Action shot - Post,8,9.0,2,7,RUS,4.0,SUKNO S,7 - 8,422,CRO,7:02
+Turnover foul,8,10.0,2,7,RUS,4.0,KHOLOD D,7 - 8,393,RUS,6:33
+Steal,8,10.0,2,7,RUS,4.0,KRAPIC I,7 - 8,393,CRO,6:33
+20 sec. exclusion in centre,8,4.0,2,7,RUS,4.0,DEREVIANKIN N,7 - 8,372,RUS,6:12
+Extra player shot - Saved,8,11.0,2,7,RUS,4.0,SETKA A,7 - 8,350,CRO,5:50
+5m shot - Post,8,12.0,2,7,RUS,4.0,SHEPELEV R,7 - 8,326,RUS,5:26
+20 sec. exclusion in field,8,7.0,2,7,RUS,4.0,MERKULOV D,7 - 8,311,RUS,5:11
+Extra player shot - Goal,9,5.0,2,7,RUS,4.0,JOKOVIC M,7 - 9,308,CRO,5:08
+20 sec. exclusion in field,9,3.0,2,7,RUS,4.0,FATOVIC L,7 - 9,287,CRO,4:47
+Extra player shot - Post,9,7.0,2,7,RUS,4.0,MERKULOV D,7 - 9,271,RUS,4:31
+20 sec. exclusion in centre,9,6.0,2,7,RUS,4.0,ASHAEV A,7 - 9,252,RUS,4:12
+Turnover foul,9,4.0,2,7,RUS,4.0,LONCAR L,7 - 9,227,CRO,3:47
+Steal,9,2.0,2,7,RUS,4.0,LAZAREV N,7 - 9,227,RUS,3:47
+5m shot - Saved,9,7.0,2,7,RUS,4.0,MERKULOV D,7 - 9,201,RUS,3:21
+Penalty foul,9,8.0,2,7,RUS,4.0,BUSLJE A,7 - 9,184,CRO,3:04
+Exclusion with substitution,9,8.0,2,7,RUS,4.0,BUSLJE A,7 - 9,184,CRO,3:04
+Yellow card,9,,2,7,RUS,4.0,Team Official,7 - 9,184,CRO,3:04
+Penalty shot - Goal,9,7.0,2,8,RUS,4.0,MERKULOV D,8 - 9,184,RUS,3:04
+Turnover foul,9,6.0,2,8,RUS,4.0,ASHAEV A,8 - 9,160,RUS,2:40
+Red card,9,,2,8,RUS,4.0,Team Official,8 - 9,151,CRO,2:31
+20 sec. exclusion in centre,9,6.0,2,8,RUS,4.0,BULJUBASIC I,8 - 9,147,CRO,2:27
+Exclusion with substitution,9,6.0,2,8,RUS,4.0,BULJUBASIC I,8 - 9,147,CRO,2:27
+Extra player shot - Saved,9,9.0,2,8,RUS,4.0,SUCHKOV I,8 - 9,130,RUS,2:10
+20 sec. exclusion in centre,9,8.0,2,8,RUS,4.0,NAGAEV I,8 - 9,103,RUS,1:43
+Time-Out,9,,2,8,RUS,4.0,,8 - 9,103,CRO,1:43
+Action shot - Goal,10,4.0,2,8,RUS,4.0,LONCAR L,8 - 10,82,CRO,1:22
+20 sec. exclusion in centre,10,2.0,2,8,RUS,4.0,MACAN M,8 - 10,61,CRO,1:01
+Time-Out,10,,2,8,RUS,4.0,,8 - 10,61,RUS,1:01
+Exclusion with substitution,10,4.0,2,8,RUS,4.0,LONCAR L,8 - 10,1,CRO,0:01
+20 sec. exclusion in field,10,4.0,2,8,RUS,4.0,LONCAR L,8 - 10,1,CRO,0:01
+Starting goalkeeper,0,1.0,3,0,JPN,1.0,TANAMURA K,0 - 0,480,JPN,8:00
+Starting goalkeeper,0,1.0,3,0,JPN,1.0,BIJAC M,0 - 0,480,CRO,8:00
+Sprint won possession,0,2.0,3,0,JPN,1.0,ADACHI S,0 - 0,480,JPN,8:00
+Action shot - Saved,0,7.0,3,0,JPN,1.0,SHIMIZU Y,0 - 0,451,JPN,7:31
+20 sec. exclusion in field,0,12.0,3,0,JPN,1.0,GARCIA GADEA J,0 - 0,447,CRO,7:27
+Action shot - Saved,0,9.0,3,0,JPN,1.0,ARAI A,0 - 0,436,JPN,7:16
+Action shot - Saved,0,2.0,3,0,JPN,1.0,ADACHI S,0 - 0,418,JPN,6:58
+5m shot - Missed,0,9.0,3,0,JPN,1.0,SUKNO S,0 - 0,395,CRO,6:35
+5m shot - Missed,0,4.0,3,0,JPN,1.0,SHIGA M,0 - 0,383,JPN,6:23
+Turnover foul,0,11.0,3,0,JPN,1.0,SETKA A,0 - 0,358,CRO,5:58
+Centre shot - Goal,1,8.0,3,0,JPN,1.0,BUSLJE A,0 - 1,318,CRO,5:18
+Turnover foul,1,4.0,3,0,JPN,1.0,SHIGA M,0 - 1,288,JPN,4:48
+20 sec. exclusion in centre,1,4.0,3,0,JPN,1.0,SHIGA M,0 - 1,275,JPN,4:35
+Extra player shot - Goal,2,5.0,3,0,JPN,1.0,JOKOVIC M,0 - 2,271,CRO,4:31
+Turnover foul,2,11.0,3,0,JPN,1.0,OKAWA K,0 - 2,250,JPN,4:10
+Steal,2,2.0,3,0,JPN,1.0,MACAN M,0 - 2,250,CRO,4:10
+5m shot - Saved,2,10.0,3,0,JPN,1.0,KRAPIC I,0 - 2,222,CRO,3:42
+5m shot - Goal,2,11.0,3,1,JPN,1.0,OKAWA K,1 - 2,203,JPN,3:23
+5m shot - Goal,3,5.0,3,1,JPN,1.0,JOKOVIC M,1 - 3,182,CRO,3:02
+20 sec. exclusion in centre,3,2.0,3,1,JPN,1.0,MACAN M,1 - 3,169,CRO,2:49
+Action shot - Post,3,4.0,3,1,JPN,1.0,SHIGA M,1 - 3,141,JPN,2:21
+Turnover foul,3,11.0,3,1,JPN,1.0,OKAWA K,1 - 3,93,JPN,1:33
+Steal,3,3.0,3,1,JPN,1.0,FATOVIC L,1 - 3,93,CRO,1:33
+Action shot - Goal,4,3.0,3,1,JPN,1.0,FATOVIC L,1 - 4,79,CRO,1:19
+Time-Out,4,,3,1,JPN,1.0,,1 - 4,79,JPN,1:19
+Turnover foul,4,8.0,3,1,JPN,1.0,TAKATA M,1 - 4,58,JPN,0:58
+20 sec. exclusion in centre,4,11.0,3,1,JPN,1.0,OKAWA K,1 - 4,31,JPN,0:31
+Extra player shot - Goal,5,4.0,3,1,JPN,1.0,LONCAR L,1 - 5,28,CRO,0:28
+5m shot - Saved,5,11.0,3,1,JPN,1.0,OKAWA K,1 - 5,1,JPN,0:01
+Starting goalkeeper,5,1.0,3,1,JPN,2.0,TANAMURA K,1 - 5,480,JPN,8:00
+Starting goalkeeper,5,1.0,3,1,JPN,2.0,BIJAC M,1 - 5,480,CRO,8:00
+Sprint won possession,5,11.0,3,1,JPN,2.0,SETKA A,1 - 5,480,CRO,8:00
+Action shot - Missed,5,10.0,3,1,JPN,2.0,KRAPIC I,1 - 5,461,CRO,7:41
+Centre shot - Saved,5,8.0,3,1,JPN,2.0,TAKATA M,1 - 5,448,JPN,7:28
+5m shot - Goal,6,9.0,3,1,JPN,2.0,SUKNO S,1 - 6,432,CRO,7:12
+5m shot - Blocked,6,9.0,3,1,JPN,2.0,ARAI A,1 - 6,404,JPN,6:44
+20 sec. exclusion in centre,6,8.0,3,1,JPN,2.0,BUSLJE A,1 - 6,356,CRO,5:56
+Extra player shot - Goal,6,5.0,3,2,JPN,2.0,YOSHIDA T,2 - 6,340,JPN,5:40
+Action shot - Saved,6,4.0,3,2,JPN,2.0,LONCAR L,2 - 6,313,CRO,5:13
+5m shot - Post,6,4.0,3,2,JPN,2.0,SHIGA M,2 - 6,300,JPN,5:00
+Counter attack - Goal,7,6.0,3,2,JPN,2.0,BULJUBASIC I,2 - 7,288,CRO,4:48
+5m shot - Saved,7,11.0,3,2,JPN,2.0,OKAWA K,2 - 7,256,JPN,4:16
+20 sec. exclusion in field,7,4.0,3,2,JPN,2.0,SHIGA M,2 - 7,243,JPN,4:03
+Extra player shot - Goal,8,4.0,3,2,JPN,2.0,LONCAR L,2 - 8,228,CRO,3:48
+5m shot - Blocked,8,6.0,3,2,JPN,2.0,IIDA A,2 - 8,196,JPN,3:16
+5m shot - Saved,8,6.0,3,2,JPN,2.0,BULJUBASIC I,2 - 8,166,CRO,2:46
+Turnover foul,8,8.0,3,2,JPN,2.0,TAKATA M,2 - 8,152,JPN,2:32
+Steal,8,9.0,3,2,JPN,2.0,SUKNO S,2 - 8,152,CRO,2:32
+Turnover foul,8,9.0,3,2,JPN,2.0,SUKNO S,2 - 8,135,CRO,2:15
+Steal,8,1.0,3,2,JPN,2.0,TANAMURA K,2 - 8,135,JPN,2:15
+Turnover foul,8,2.0,3,2,JPN,2.0,ADACHI S,2 - 8,125,JPN,2:05
+Steal,8,9.0,3,2,JPN,2.0,SUKNO S,2 - 8,125,CRO,2:05
+Time-Out,8,,3,2,JPN,2.0,,2 - 8,125,CRO,2:05
+5m shot - Goal,9,12.0,3,2,JPN,2.0,GARCIA GADEA J,2 - 9,100,CRO,1:40
+5m shot - Goal,10,5.0,3,2,JPN,2.0,JOKOVIC M,2 - 10,66,CRO,1:06
+Action shot - Goal,10,10.0,3,3,JPN,2.0,INABA K,3 - 10,37,JPN,0:37
+Action shot - Missed,10,2.0,3,3,JPN,2.0,MACAN M,3 - 10,13,CRO,0:13
+5m shot - Goal,10,6.0,3,4,JPN,2.0,IIDA A,4 - 10,3,JPN,0:03
+5m shot - Saved,10,9.0,3,4,JPN,2.0,SUKNO S,4 - 10,1,CRO,0:01
+Starting goalkeeper,10,1.0,3,4,JPN,3.0,TANAMURA K,4 - 10,480,JPN,8:00
+Starting goalkeeper,10,1.0,3,4,JPN,3.0,BIJAC M,4 - 10,480,CRO,8:00
+Turnover foul,10,10.0,3,4,JPN,4.0,KRAPIC I,4 - 10,150,CRO,2:30
+Steal,10,6.0,3,4,JPN,4.0,IIDA A,4 - 10,150,JPN,2:30
+20 sec. exclusion in field,10,11.0,3,4,JPN,4.0,SETKA A,4 - 10,135,CRO,2:15
+Time-Out,10,,3,4,JPN,4.0,,4 - 10,134,JPN,2:14
+Action shot - Saved,10,11.0,3,4,JPN,4.0,OKAWA K,4 - 10,113,JPN,1:53
+Turnover foul,10,9.0,3,4,JPN,4.0,ARAI A,4 - 10,99,JPN,1:39
+Sprint won possession,10,2.0,3,4,JPN,3.0,ADACHI S,4 - 10,480,JPN,8:00
+5m shot - Goal,10,9.0,3,5,JPN,3.0,ARAI A,5 - 10,462,JPN,7:42
+20 sec. exclusion in field,10,11.0,3,5,JPN,3.0,OKAWA K,5 - 10,442,JPN,7:22
+Extra player shot - Goal,11,9.0,3,5,JPN,3.0,SUKNO S,5 - 11,435,CRO,7:15
+20 sec. exclusion in centre,11,5.0,3,5,JPN,3.0,JOKOVIC M,5 - 11,413,CRO,6:53
+Action shot - Saved,11,8.0,3,5,JPN,3.0,TAKATA M,5 - 11,398,JPN,6:38
+Turnover foul,11,12.0,3,5,JPN,3.0,GARCIA GADEA J,5 - 11,381,CRO,6:21
+Steal,11,1.0,3,5,JPN,3.0,TANAMURA K,5 - 11,381,JPN,6:21
+Action shot - Blocked,11,8.0,3,5,JPN,3.0,TAKATA M,5 - 11,363,JPN,6:03
+Counter attack - Goal,12,9.0,3,5,JPN,3.0,SUKNO S,5 - 12,354,CRO,5:54
+Turnover foul,12,6.0,3,5,JPN,3.0,IIDA A,5 - 12,336,JPN,5:36
+Steal,12,5.0,3,5,JPN,3.0,JOKOVIC M,5 - 12,336,CRO,5:36
+Centre shot - Post,12,10.0,3,5,JPN,3.0,KRAPIC I,5 - 12,312,CRO,5:12
+5m shot - Post,12,4.0,3,5,JPN,3.0,SHIGA M,5 - 12,297,JPN,4:57
+20 sec. exclusion in centre,12,6.0,3,5,JPN,3.0,BULJUBASIC I,5 - 12,291,CRO,4:51
+Time-Out,12,,3,5,JPN,3.0,,5 - 12,288,JPN,4:48
+Turnover foul,12,9.0,3,5,JPN,3.0,ARAI A,5 - 12,263,JPN,4:23
+Steal,12,10.0,3,5,JPN,3.0,KRAPIC I,5 - 12,263,CRO,4:23
+Turnover foul,12,3.0,3,5,JPN,3.0,FATOVIC L,5 - 12,244,CRO,4:04
+Steal,12,4.0,3,5,JPN,3.0,SHIGA M,5 - 12,244,JPN,4:04
+Turnover foul,12,9.0,3,5,JPN,3.0,ARAI A,5 - 12,225,JPN,3:45
+Steal,12,1.0,3,5,JPN,3.0,BIJAC M,5 - 12,225,CRO,3:45
+Action shot - Goal,13,7.0,3,5,JPN,3.0,VUKICEVIC A,5 - 13,203,CRO,3:23
+Goalkeeper substitution,13,1.0,3,5,JPN,3.0,BIJAC M,5 - 13,175,CRO,2:55
+5m shot - Blocked,13,6.0,3,5,JPN,3.0,IIDA A,5 - 13,170,JPN,2:50
+Turnover foul,13,11.0,3,5,JPN,3.0,OKAWA K,5 - 13,159,JPN,2:39
+Steal,13,9.0,3,5,JPN,3.0,SUKNO S,5 - 13,159,CRO,2:39
+Turnover foul,13,9.0,3,5,JPN,3.0,SUKNO S,5 - 13,139,CRO,2:19
+5m shot - Blocked,13,10.0,3,5,JPN,3.0,INABA K,5 - 13,110,JPN,1:50
+Time-Out,13,,3,5,JPN,3.0,,5 - 13,110,CRO,1:50
+Turnover foul,13,12.0,3,5,JPN,3.0,GARCIA GADEA J,5 - 13,101,CRO,1:41
+Turnover foul,13,10.0,3,5,JPN,3.0,INABA K,5 - 13,92,JPN,1:32
+Steal,13,9.0,3,5,JPN,3.0,SUKNO S,5 - 13,92,CRO,1:32
+Action shot - Post,13,3.0,3,5,JPN,3.0,FATOVIC L,5 - 13,69,CRO,1:09
+Action shot - Post,13,8.0,3,5,JPN,3.0,TAKATA M,5 - 13,55,JPN,0:55
+20 sec. exclusion in centre,13,6.0,3,5,JPN,3.0,IIDA A,5 - 13,36,JPN,0:36
+Extra player shot - Goal,14,4.0,3,5,JPN,3.0,LONCAR L,5 - 14,17,CRO,0:17
+Starting goalkeeper,14,1.0,3,5,JPN,4.0,TANAMURA K,5 - 14,480,JPN,8:00
+Starting goalkeeper,14,1.0,3,5,JPN,4.0,BIJAC M,5 - 14,480,CRO,8:00
+Sprint won possession,14,2.0,3,5,JPN,4.0,ADACHI S,5 - 14,480,JPN,8:00
+Turnover foul,14,7.0,3,5,JPN,4.0,SHIMIZU Y,5 - 14,461,JPN,7:41
+Steal,14,6.0,3,5,JPN,4.0,BULJUBASIC I,5 - 14,461,CRO,7:41
+20 sec. exclusion in centre,14,6.0,3,5,JPN,4.0,IIDA A,5 - 14,442,JPN,7:22
+Extra player shot - Goal,15,3.0,3,5,JPN,4.0,FATOVIC L,5 - 15,439,CRO,7:19
+20 sec. exclusion in centre,15,6.0,3,5,JPN,4.0,BULJUBASIC I,5 - 15,420,CRO,7:00
+Turnover foul,15,5.0,3,5,JPN,4.0,YOSHIDA T,5 - 15,409,JPN,6:49
+Steal,15,5.0,3,5,JPN,4.0,JOKOVIC M,5 - 15,409,CRO,6:49
+Action shot - Saved,15,11.0,3,5,JPN,4.0,SETKA A,5 - 15,379,CRO,6:19
+Turnover foul,15,5.0,3,5,JPN,4.0,YOSHIDA T,5 - 15,348,JPN,5:48
+Steal,15,8.0,3,5,JPN,4.0,BUSLJE A,5 - 15,348,CRO,5:48
+20 sec. exclusion in centre,15,5.0,3,5,JPN,4.0,YOSHIDA T,5 - 15,327,JPN,5:27
+Extra player shot - Goal,16,3.0,3,5,JPN,4.0,FATOVIC L,5 - 16,319,CRO,5:19
+Action shot - Saved,16,12.0,3,5,JPN,4.0,ARAKI K,5 - 16,283,JPN,4:43
+Action shot - Missed,16,4.0,3,5,JPN,4.0,LONCAR L,5 - 16,267,CRO,4:27
+Action shot - Saved,16,2.0,3,5,JPN,4.0,ADACHI S,5 - 16,253,JPN,4:13
+Action shot - Goal,16,9.0,3,6,JPN,4.0,ARAI A,6 - 16,232,JPN,3:52
+Turnover foul,16,7.0,3,6,JPN,4.0,VUKICEVIC A,6 - 16,204,CRO,3:24
+Steal,16,11.0,3,6,JPN,4.0,OKAWA K,6 - 16,204,JPN,3:24
+20 sec. exclusion in field,16,3.0,3,6,JPN,4.0,FATOVIC L,6 - 16,204,CRO,3:24
+Penalty foul,16,10.0,3,6,JPN,4.0,KRAPIC I,6 - 16,185,CRO,3:05
+Penalty shot - Saved,16,2.0,3,6,JPN,4.0,ADACHI S,6 - 16,184,JPN,3:04
+Steal,16,1.0,3,6,JPN,4.0,BIJAC M,6 - 16,99,CRO,1:39
+5m shot - Post,16,7.0,3,6,JPN,4.0,VUKICEVIC A,6 - 16,75,CRO,1:15
+5m shot - Post,16,9.0,3,6,JPN,4.0,ARAI A,6 - 16,59,JPN,0:59
+Time-Out,16,,3,6,JPN,4.0,,6 - 16,59,CRO,0:59
+Turnover foul,16,7.0,3,6,JPN,4.0,VUKICEVIC A,6 - 16,36,CRO,0:36
+Steal,16,1.0,3,6,JPN,4.0,TANAMURA K,6 - 16,36,JPN,0:36
+Starting goalkeeper,0,1.0,4,0,ITA,1.0,BIJAC M,0 - 0,480,CRO,8:00
+Starting goalkeeper,0,1.0,4,0,ITA,1.0,TEMPESTI S,0 - 0,480,ITA,8:00
+Sprint won possession,0,2.0,4,0,ITA,1.0,di FULVIO F,0 - 0,480,ITA,8:00
+Steal,0,8.0,4,0,ITA,1.0,BUSLJE A,0 - 0,451,CRO,7:31
+Turnover foul,0,4.0,4,0,ITA,1.0,FIGLIOLI P,0 - 0,451,ITA,7:31
+20 sec. exclusion in centre,0,3.0,4,0,ITA,1.0,GITTO N,0 - 0,424,ITA,7:04
+Extra player shot - Goal,1,11.0,4,0,ITA,1.0,SETKA A,1 - 0,408,CRO,6:48
+20 sec. exclusion in centre,1,8.0,4,0,ITA,1.0,BUSLJE A,1 - 0,390,CRO,6:30
+Extra player shot - Saved,1,2.0,4,0,ITA,1.0,di FULVIO F,1 - 0,371,ITA,6:11
+Turnover foul,1,7.0,4,0,ITA,1.0,NORA A,1 - 0,349,ITA,5:49
+Steal,1,4.0,4,0,ITA,1.0,LONCAR L,1 - 0,349,CRO,5:49
+Penalty foul,1,12.0,4,0,ITA,1.0,BERTOLI Z,1 - 0,330,ITA,5:30
+Penalty shot - Goal,2,9.0,4,0,ITA,1.0,SUKNO S,2 - 0,330,CRO,5:30
+Time-Out,2,,4,0,ITA,1.0,,2 - 0,330,ITA,5:30
+Turnover foul,2,8.0,4,0,ITA,1.0,FONDELLI A,2 - 0,308,ITA,5:08
+Steal,2,6.0,4,0,ITA,1.0,BULJUBASIC I,2 - 0,308,CRO,5:08
+5m shot - Saved,2,6.0,4,0,ITA,1.0,BULJUBASIC I,2 - 0,273,CRO,4:33
+5m shot - Blocked,2,2.0,4,0,ITA,1.0,di FULVIO F,2 - 0,247,ITA,4:07
+20 sec. exclusion in centre,2,6.0,4,0,ITA,1.0,BULJUBASIC I,2 - 0,237,CRO,3:57
+Extra player shot - Goal,2,9.0,4,1,ITA,1.0,RENZUTO IODICE V,2 - 1,220,ITA,3:40
+Turnover foul,2,10.0,4,1,ITA,1.0,KRAPIC I,2 - 1,204,CRO,3:24
+Steal,2,6.0,4,1,ITA,1.0,MIRARCHI C,2 - 1,204,ITA,3:24
+Centre shot - Goal,2,11.0,4,2,ITA,1.0,AICARDI M,2 - 2,187,ITA,3:07
+20 sec. exclusion in centre,2,5.0,4,2,ITA,1.0,PRESCIUTTI N,2 - 2,172,ITA,2:52
+20 sec. exclusion in centre,2,8.0,4,2,ITA,1.0,FONDELLI A,2 - 2,156,ITA,2:36
+Extra player shot - Goal,3,9.0,4,2,ITA,1.0,SUKNO S,3 - 2,149,CRO,2:29
+20 sec. exclusion in centre,3,2.0,4,2,ITA,1.0,MACAN M,3 - 2,129,CRO,2:09
+Extra player shot - Saved,3,10.0,4,2,ITA,1.0,BODEGAS M,3 - 2,111,ITA,1:51
+Centre shot - Saved,3,2.0,4,2,ITA,1.0,di FULVIO F,3 - 2,82,ITA,1:22
+Centre shot - Saved,3,4.0,4,2,ITA,1.0,LONCAR L,3 - 2,57,CRO,0:57
+20 sec. exclusion in centre,3,12.0,4,2,ITA,1.0,GARCIA GADEA J,3 - 2,36,CRO,0:36
+Extra player shot - Blocked,3,7.0,4,2,ITA,1.0,NORA A,3 - 2,19,ITA,0:19
+Time-Out,3,,4,2,ITA,1.0,,3 - 2,17,CRO,0:17
+5m shot - Saved,3,12.0,4,2,ITA,1.0,GARCIA GADEA J,3 - 2,1,CRO,0:01
+Starting goalkeeper,3,1.0,4,2,ITA,2.0,BIJAC M,3 - 2,480,CRO,8:00
+Starting goalkeeper,3,1.0,4,2,ITA,2.0,TEMPESTI S,3 - 2,480,ITA,8:00
+Sprint won possession,3,4.0,4,2,ITA,2.0,FIGLIOLI P,3 - 2,480,ITA,8:00
+Action shot - Saved,3,4.0,4,2,ITA,2.0,FIGLIOLI P,3 - 2,452,ITA,7:32
+20 sec. exclusion in centre,3,3.0,4,2,ITA,2.0,GITTO N,3 - 2,430,ITA,7:10
+Action shot - Saved,3,5.0,4,2,ITA,2.0,JOKOVIC M,3 - 2,407,CRO,6:47
+5m shot - Saved,3,5.0,4,2,ITA,2.0,PRESCIUTTI N,3 - 2,378,ITA,6:18
+Turnover foul,3,6.0,4,2,ITA,2.0,BULJUBASIC I,3 - 2,348,CRO,5:48
+Steal,3,11.0,4,2,ITA,2.0,AICARDI M,3 - 2,348,ITA,5:48
+5m shot - Goal,3,4.0,4,3,ITA,2.0,FIGLIOLI P,3 - 3,322,ITA,5:22
+20 sec. exclusion in centre,3,6.0,4,3,ITA,2.0,MIRARCHI C,3 - 3,298,ITA,4:58
+Extra player shot - Goal,4,9.0,4,3,ITA,2.0,SUKNO S,4 - 3,278,CRO,4:38
+5m shot - Missed,4,4.0,4,3,ITA,2.0,FIGLIOLI P,4 - 3,252,ITA,4:12
+20 sec. exclusion in centre,4,10.0,4,3,ITA,2.0,BODEGAS M,4 - 3,224,ITA,3:44
+Time-Out,4,,4,3,ITA,2.0,,4 - 3,224,CRO,3:44
+Action shot - Post,4,8.0,4,3,ITA,2.0,BUSLJE A,4 - 3,200,CRO,3:20
+20 sec. exclusion in centre,4,10.0,4,3,ITA,2.0,KRAPIC I,4 - 3,183,CRO,3:03
+Time-Out,4,,4,3,ITA,2.0,,4 - 3,183,ITA,3:03
+5m shot - Blocked,4,4.0,4,3,ITA,2.0,FIGLIOLI P,4 - 3,158,ITA,2:38
+Counter attack - Goal,5,12.0,4,3,ITA,2.0,GARCIA GADEA J,5 - 3,146,CRO,2:26
+20 sec. exclusion in centre,5,11.0,4,3,ITA,2.0,SETKA A,5 - 3,129,CRO,2:09
+Extra player shot - Goal,5,10.0,4,4,ITA,2.0,BODEGAS M,5 - 4,113,ITA,1:53
+20 sec. exclusion in centre,5,5.0,4,4,ITA,2.0,PRESCIUTTI N,5 - 4,87,ITA,1:27
+Extra player shot - Saved,5,3.0,4,4,ITA,2.0,FATOVIC L,5 - 4,65,CRO,1:05
+20 sec. exclusion in centre,5,5.0,4,4,ITA,2.0,JOKOVIC M,5 - 4,40,CRO,0:40
+Extra player shot - Goal,5,2.0,4,5,ITA,2.0,di FULVIO F,5 - 5,22,ITA,0:22
+Centre shot - Saved,5,4.0,4,5,ITA,2.0,LONCAR L,5 - 5,8,CRO,0:08
+20 sec. exclusion in centre,5,8.0,4,5,ITA,4.0,BUSLJE A,5 - 5,64,CRO,1:04
+Extra player shot - Blocked,5,4.0,4,5,ITA,4.0,FIGLIOLI P,5 - 5,52,ITA,0:52
+Extra player shot - Blocked,5,9.0,4,5,ITA,4.0,RENZUTO IODICE V,5 - 5,40,ITA,0:40
+5m shot - Missed,5,4.0,4,5,ITA,2.0,FIGLIOLI P,5 - 5,1,ITA,0:01
+Starting goalkeeper,5,13.0,4,5,ITA,3.0,MARCELIC I,5 - 5,480,CRO,8:00
+Starting goalkeeper,5,1.0,4,5,ITA,3.0,TEMPESTI S,5 - 5,480,ITA,8:00
+Sprint won possession,5,2.0,4,5,ITA,3.0,di FULVIO F,5 - 5,480,ITA,8:00
+20 sec. exclusion in field,5,11.0,4,5,ITA,3.0,SETKA A,5 - 5,466,CRO,7:46
+Extra player shot - Missed,5,10.0,4,5,ITA,3.0,BODEGAS M,5 - 5,444,ITA,7:24
+Turnover foul,5,11.0,4,5,ITA,3.0,SETKA A,5 - 5,425,CRO,7:05
+Steal,5,2.0,4,5,ITA,3.0,di FULVIO F,5 - 5,425,ITA,7:05
+5m shot - Goal,5,4.0,4,6,ITA,3.0,FIGLIOLI P,5 - 6,401,ITA,6:41
+20 sec. exclusion in centre,5,4.0,4,6,ITA,3.0,FIGLIOLI P,5 - 6,382,ITA,6:22
+Extra player shot - Missed,5,7.0,4,6,ITA,3.0,VUKICEVIC A,5 - 6,362,CRO,6:02
+5m shot - Saved,5,4.0,4,6,ITA,3.0,FIGLIOLI P,5 - 6,336,ITA,5:36
+Action shot - Post,5,9.0,4,6,ITA,3.0,SUKNO S,5 - 6,319,CRO,5:19
+20 sec. exclusion in centre,5,2.0,4,6,ITA,3.0,di FULVIO F,5 - 6,306,ITA,5:06
+Extra player shot - Post,5,5.0,4,6,ITA,3.0,JOKOVIC M,5 - 6,287,CRO,4:47
+5m shot - Post,5,8.0,4,6,ITA,3.0,FONDELLI A,5 - 6,262,ITA,4:22
+5m shot - Goal,6,12.0,4,6,ITA,3.0,GARCIA GADEA J,6 - 6,238,CRO,3:58
+5m shot - Blocked,6,10.0,4,6,ITA,3.0,BODEGAS M,6 - 6,211,ITA,3:31
+5m shot - Post,6,2.0,4,6,ITA,3.0,di FULVIO F,6 - 6,188,ITA,3:08
+Turnover foul,6,4.0,4,6,ITA,3.0,LONCAR L,6 - 6,164,CRO,2:44
+Steal,6,10.0,4,6,ITA,3.0,BODEGAS M,6 - 6,164,ITA,2:44
+5m shot - Missed,6,7.0,4,6,ITA,3.0,NORA A,6 - 6,141,ITA,2:21
+Action shot - Goal,7,9.0,4,6,ITA,3.0,SUKNO S,7 - 6,126,CRO,2:06
+5m shot - Blocked,7,4.0,4,6,ITA,3.0,FIGLIOLI P,7 - 6,101,ITA,1:41
+20 sec. exclusion in field,7,12.0,4,6,ITA,3.0,BERTOLI Z,7 - 6,74,ITA,1:14
+Time-Out,7,,4,6,ITA,3.0,,7 - 6,74,CRO,1:14
+Extra player shot - Goal,8,11.0,4,6,ITA,3.0,SETKA A,8 - 6,56,CRO,0:56
+Time-Out,8,,4,6,ITA,3.0,,8 - 6,56,ITA,0:56
+20 sec. exclusion in centre,8,5.0,4,6,ITA,3.0,JOKOVIC M,8 - 6,42,CRO,0:42
+Extra player shot - Saved,8,2.0,4,6,ITA,3.0,di FULVIO F,8 - 6,21,ITA,0:21
+Double exclusion,8,11.0,4,6,ITA,3.0,AICARDI M,8 - 6,19,ITA,0:19
+Double exclusion,8,3.0,4,6,ITA,3.0,FATOVIC L,8 - 6,19,CRO,0:19
+Turnover foul,8,9.0,4,6,ITA,3.0,SUKNO S,8 - 6,4,CRO,0:04
+Starting goalkeeper,8,13.0,4,6,ITA,4.0,MARCELIC I,8 - 6,480,CRO,8:00
+Starting goalkeeper,8,1.0,4,6,ITA,4.0,TEMPESTI S,8 - 6,480,ITA,8:00
+Sprint won possession,8,4.0,4,6,ITA,4.0,FIGLIOLI P,8 - 6,480,ITA,8:00
+Action shot - Blocked,8,9.0,4,6,ITA,4.0,RENZUTO IODICE V,8 - 6,451,ITA,7:31
+5m shot - Goal,9,7.0,4,6,ITA,4.0,VUKICEVIC A,9 - 6,429,CRO,7:09
+5m shot - Saved,9,4.0,4,6,ITA,4.0,FIGLIOLI P,9 - 6,411,ITA,6:51
+Turnover foul,9,4.0,4,6,ITA,4.0,LONCAR L,9 - 6,382,CRO,6:22
+20 sec. exclusion in centre,9,12.0,4,6,ITA,4.0,GARCIA GADEA J,9 - 6,363,CRO,6:03
+Turnover foul,9,10.0,4,6,ITA,4.0,BODEGAS M,9 - 6,341,ITA,5:41
+20 sec. exclusion in field,9,10.0,4,6,ITA,4.0,BODEGAS M,9 - 6,341,ITA,5:41
+Action shot - Saved,9,5.0,4,6,ITA,4.0,JOKOVIC M,9 - 6,312,CRO,5:12
+20 sec. exclusion in field,9,4.0,4,6,ITA,4.0,LONCAR L,9 - 6,297,CRO,4:57
+Extra player shot - Goal,9,9.0,4,7,ITA,4.0,RENZUTO IODICE V,9 - 7,287,ITA,4:47
+5m shot - Goal,10,12.0,4,7,ITA,4.0,GARCIA GADEA J,10 - 7,260,CRO,4:20
+Goalkeeper substitution,10,13.0,4,7,ITA,4.0,VOLAREVIC G,10 - 7,260,ITA,4:20
+20 sec. exclusion in centre,10,2.0,4,7,ITA,4.0,MACAN M,10 - 7,244,CRO,4:04
+Extra player shot - Goal,10,11.0,4,8,ITA,4.0,AICARDI M,10 - 8,235,ITA,3:55
+5m shot - Missed,10,5.0,4,8,ITA,4.0,JOKOVIC M,10 - 8,210,CRO,3:30
+20 sec. exclusion in centre,10,2.0,4,8,ITA,4.0,MACAN M,10 - 8,184,CRO,3:04
+Exclusion with substitution,10,2.0,4,8,ITA,4.0,MACAN M,10 - 8,184,CRO,3:04
+Yellow card,10,,4,8,ITA,4.0,Team Official,10 - 8,172,CRO,2:52
+Extra player shot - Goal,10,9.0,4,9,ITA,4.0,RENZUTO IODICE V,10 - 9,170,ITA,2:50
+20 sec. exclusion in centre,10,12.0,4,9,ITA,4.0,BERTOLI Z,10 - 9,152,ITA,2:32
+Exclusion with substitution,10,12.0,4,9,ITA,4.0,BERTOLI Z,10 - 9,152,ITA,2:32
+Centre shot - Goal,11,8.0,4,9,ITA,4.0,BUSLJE A,11 - 9,130,CRO,2:10
+5m shot - Saved,11,7.0,4,9,ITA,4.0,NORA A,11 - 9,107,ITA,1:47
+Turnover foul,11,3.0,4,9,ITA,4.0,GITTO N,11 - 9,81,ITA,1:21
+Steal,11,4.0,4,9,ITA,4.0,LONCAR L,11 - 9,81,CRO,1:21
+Action shot - Goal,12,12.0,4,9,ITA,4.0,GARCIA GADEA J,12 - 9,11,CRO,0:11
+Exclusion with substitution,12,4.0,4,9,ITA,4.0,LONCAR L,12 - 9,11,CRO,0:11
+5m shot - Saved,12,6.0,4,9,ITA,4.0,MIRARCHI C,12 - 9,1,ITA,0:01
+Starting goalkeeper,0,13.0,5,0,SRB,1.0,MITROVIC B,0 - 0,480,SRB,8:00
+Starting goalkeeper,0,1.0,5,0,SRB,1.0,BIJAC M,0 - 0,480,CRO,8:00
+Sprint won possession,0,3.0,5,0,SRB,1.0,RASOVIC V,0 - 0,480,SRB,8:00
+Turnover foul,0,6.0,5,0,SRB,1.0,PIJETLOVIC D,0 - 0,453,SRB,7:33
+Turnover foul,0,9.0,5,0,SRB,1.0,SUKNO S,0 - 0,429,CRO,7:09
+Steal,0,3.0,5,0,SRB,1.0,RASOVIC V,0 - 0,429,SRB,7:09
+5m shot - Saved,0,4.0,5,0,SRB,1.0,RANDELOVIC S,0 - 0,412,SRB,6:52
+5m shot - Post,0,11.0,5,0,SRB,1.0,SETKA A,0 - 0,384,CRO,6:24
+Turnover foul,0,6.0,5,0,SRB,1.0,PIJETLOVIC D,0 - 0,362,SRB,6:02
+20 sec. exclusion in field,0,3.0,5,0,SRB,1.0,RASOVIC V,0 - 0,343,SRB,5:43
+Action shot - Blocked,0,12.0,5,0,SRB,1.0,GARCIA GADEA J,0 - 0,320,CRO,5:20
+Action shot - Missed,0,12.0,5,0,SRB,1.0,GARCIA GADEA J,0 - 0,315,CRO,5:15
+5m shot - Saved,0,11.0,5,0,SRB,1.0,PRLAINOVIC A,0 - 0,290,SRB,4:50
+20 sec. exclusion in centre,0,4.0,5,0,SRB,1.0,RANDELOVIC S,0 - 0,264,SRB,4:24
+20 sec. exclusion in centre,0,6.0,5,0,SRB,1.0,PIJETLOVIC D,0 - 0,253,SRB,4:13
+Extra player shot - Post,0,11.0,5,0,SRB,1.0,SETKA A,0 - 0,241,CRO,4:01
+20 sec. exclusion in centre,0,9.0,5,0,SRB,1.0,SUKNO S,0 - 0,216,CRO,3:36
+Extra player shot - Goal,0,11.0,5,1,SRB,1.0,PRLAINOVIC A,1 - 0,198,SRB,3:18
+5m shot - Post,0,3.0,5,1,SRB,1.0,RASOVIC V,1 - 0,139,SRB,2:19
+Action shot - Saved,0,12.0,5,1,SRB,1.0,GARCIA GADEA J,1 - 0,111,CRO,1:51
+Centre shot - Saved,0,7.0,5,1,SRB,1.0,UBOVIC N,1 - 0,79,SRB,1:19
+Time-Out,0,,5,1,SRB,1.0,,1 - 0,79,CRO,1:19
+Turnover foul,0,10.0,5,1,SRB,1.0,KRAPIC I,1 - 0,55,CRO,0:55
+Turnover foul,0,7.0,5,1,SRB,1.0,UBOVIC N,1 - 0,39,SRB,0:39
+20 sec. exclusion in field,0,5.0,5,1,SRB,1.0,CUK M,1 - 0,18,SRB,0:18
+Extra player shot - Goal,1,9.0,5,1,SRB,1.0,SUKNO S,1 - 1,1,CRO,0:01
+Starting goalkeeper,1,13.0,5,1,SRB,2.0,MITROVIC B,1 - 1,480,SRB,8:00
+Starting goalkeeper,1,1.0,5,1,SRB,2.0,BIJAC M,1 - 1,480,CRO,8:00
+Sprint won possession,1,12.0,5,1,SRB,2.0,MITROVIC S,1 - 1,480,SRB,8:00
+20 sec. exclusion in centre,1,6.0,5,1,SRB,2.0,BULJUBASIC I,1 - 1,457,CRO,7:37
+Extra player shot - Goal,1,11.0,5,2,SRB,2.0,PRLAINOVIC A,2 - 1,440,SRB,7:20
+20 sec. exclusion in centre,1,8.0,5,2,SRB,2.0,ALEKSIC M,2 - 1,418,SRB,6:58
+5m shot - Saved,1,11.0,5,2,SRB,2.0,SETKA A,2 - 1,393,CRO,6:33
+5m shot - Blocked,1,12.0,5,2,SRB,2.0,MITROVIC S,2 - 1,366,SRB,6:06
+20 sec. exclusion in field,1,3.0,5,2,SRB,2.0,FATOVIC L,2 - 1,347,CRO,5:47
+20 sec. exclusion in field,1,11.0,5,2,SRB,2.0,SETKA A,2 - 1,338,CRO,5:38
+20 sec. exclusion in centre,1,2.0,5,2,SRB,2.0,MACAN M,2 - 1,327,CRO,5:27
+Extra player shot - Goal,1,12.0,5,3,SRB,2.0,MITROVIC S,3 - 1,325,SRB,5:25
+Centre shot - Goal,2,4.0,5,3,SRB,2.0,LONCAR L,3 - 2,298,CRO,4:58
+Turnover foul,2,11.0,5,3,SRB,2.0,PRLAINOVIC A,3 - 2,274,SRB,4:34
+Turnover foul,2,10.0,5,3,SRB,2.0,KRAPIC I,3 - 2,257,CRO,4:17
+5m shot - Missed,2,9.0,5,3,SRB,2.0,JAKSIC N,3 - 2,241,SRB,4:01
+5m shot - Goal,3,8.0,5,3,SRB,2.0,BUSLJE A,3 - 3,214,CRO,3:34
+20 sec. exclusion in field,3,7.0,5,3,SRB,2.0,VUKICEVIC A,3 - 3,200,CRO,3:20
+Extra player shot - Post,3,2.0,5,3,SRB,2.0,MANDIC D,3 - 3,180,SRB,3:00
+5m shot - Saved,3,9.0,5,3,SRB,2.0,SUKNO S,3 - 3,151,CRO,2:31
+Turnover foul,3,5.0,5,3,SRB,2.0,JOKOVIC M,3 - 3,141,CRO,2:21
+20 sec. exclusion in centre,3,3.0,5,3,SRB,2.0,FATOVIC L,3 - 3,128,CRO,2:08
+Extra player shot - Goal,3,11.0,5,4,SRB,2.0,PRLAINOVIC A,4 - 3,124,SRB,2:04
+Turnover foul,3,12.0,5,4,SRB,2.0,GARCIA GADEA J,4 - 3,91,CRO,1:31
+Steal,3,6.0,5,4,SRB,2.0,PIJETLOVIC D,4 - 3,91,SRB,1:31
+Centre shot - Saved,3,6.0,5,4,SRB,2.0,PIJETLOVIC D,4 - 3,76,SRB,1:16
+Time-Out,3,,5,4,SRB,2.0,,4 - 3,75,CRO,1:15
+20 sec. exclusion in centre,3,9.0,5,4,SRB,2.0,JAKSIC N,4 - 3,53,SRB,0:53
+Extra player shot - Goal,4,9.0,5,4,SRB,2.0,SUKNO S,4 - 4,48,CRO,0:48
+20 sec. exclusion in centre,4,6.0,5,4,SRB,2.0,BULJUBASIC I,4 - 4,32,CRO,0:32
+Extra player shot - Goal,4,6.0,5,5,SRB,2.0,PIJETLOVIC D,5 - 4,20,SRB,0:20
+Yellow card,4,,5,5,SRB,2.0,Team Official,5 - 4,20,CRO,0:20
+20 sec. exclusion in field,4,10.0,5,5,SRB,2.0,FILIPOVIC F,5 - 4,4,SRB,0:04
+Extra player shot - Goal,5,8.0,5,5,SRB,2.0,BUSLJE A,5 - 5,2,CRO,0:02
+Starting goalkeeper,5,13.0,5,5,SRB,3.0,MITROVIC B,5 - 5,480,SRB,8:00
+20 sec. exclusion in centre,5,10.0,5,5,SRB,4.0,KRAPIC I,5 - 5,161,CRO,2:41
+Extra player shot - Blocked,5,2.0,5,5,SRB,4.0,MANDIC D,5 - 5,146,SRB,2:26
+5m shot - Saved,5,8.0,5,5,SRB,4.0,BUSLJE A,5 - 5,117,CRO,1:57
+Turnover foul,5,10.0,5,5,SRB,4.0,KRAPIC I,5 - 5,102,CRO,1:42
+Action shot - Saved,5,10.0,5,5,SRB,4.0,FILIPOVIC F,5 - 5,91,SRB,1:31
+5m shot - Saved,5,11.0,5,5,SRB,4.0,SETKA A,5 - 5,64,CRO,1:04
+Time-Out,5,,5,5,SRB,4.0,,5 - 5,64,SRB,1:04
+Turnover foul,5,10.0,5,5,SRB,4.0,FILIPOVIC F,5 - 5,40,SRB,0:40
+Starting goalkeeper,5,1.0,5,5,SRB,3.0,BIJAC M,5 - 5,480,CRO,8:00
+Sprint won possession,5,11.0,5,5,SRB,3.0,SETKA A,5 - 5,480,CRO,8:00
+Turnover foul,5,8.0,5,5,SRB,3.0,BUSLJE A,5 - 5,451,CRO,7:31
+Steal,5,9.0,5,5,SRB,3.0,JAKSIC N,5 - 5,451,SRB,7:31
+5m shot - Post,5,10.0,5,5,SRB,3.0,FILIPOVIC F,5 - 5,425,SRB,7:05
+Turnover foul,5,12.0,5,5,SRB,3.0,GARCIA GADEA J,5 - 5,405,CRO,6:45
+Steal,5,4.0,5,5,SRB,3.0,RANDELOVIC S,5 - 5,405,SRB,6:45
+5m shot - Post,5,9.0,5,5,SRB,3.0,JAKSIC N,5 - 5,384,SRB,6:24
+Turnover foul,5,4.0,5,5,SRB,3.0,LONCAR L,5 - 5,362,CRO,6:02
+20 sec. exclusion in centre,5,7.0,5,5,SRB,3.0,VUKICEVIC A,5 - 5,350,CRO,5:50
+Centre shot - Goal,5,6.0,5,6,SRB,3.0,PIJETLOVIC D,6 - 5,327,SRB,5:27
+5m shot - Missed,5,5.0,5,6,SRB,3.0,JOKOVIC M,6 - 5,300,CRO,5:00
+Turnover foul,5,2.0,5,6,SRB,3.0,MANDIC D,6 - 5,282,SRB,4:42
+20 sec. exclusion in field,5,3.0,5,6,SRB,3.0,RASOVIC V,6 - 5,263,SRB,4:23
+Extra player shot - Goal,6,9.0,5,6,SRB,3.0,SUKNO S,6 - 6,243,CRO,4:03
+Turnover foul,6,8.0,5,6,SRB,3.0,ALEKSIC M,6 - 6,221,SRB,3:41
+Turnover foul,6,10.0,5,6,SRB,3.0,KRAPIC I,6 - 6,211,CRO,3:31
+20 sec. exclusion in centre,6,12.0,5,6,SRB,3.0,GARCIA GADEA J,6 - 6,188,CRO,3:08
+Extra player shot - Goal,6,4.0,5,7,SRB,3.0,RANDELOVIC S,7 - 6,176,SRB,2:56
+20 sec. exclusion in centre,6,4.0,5,7,SRB,3.0,RANDELOVIC S,7 - 6,160,SRB,2:40
+Extra player shot - Goal,7,5.0,5,7,SRB,3.0,JOKOVIC M,7 - 7,147,CRO,2:27
+Centre shot - Goal,7,11.0,5,8,SRB,3.0,PRLAINOVIC A,8 - 7,130,SRB,2:10
+20 sec. exclusion in centre,7,9.0,5,8,SRB,3.0,JAKSIC N,8 - 7,105,SRB,1:45
+Extra player shot - Goal,8,7.0,5,8,SRB,3.0,VUKICEVIC A,8 - 8,86,CRO,1:26
+Turnover foul,8,8.0,5,8,SRB,3.0,ALEKSIC M,8 - 8,62,SRB,1:02
+Steal,8,1.0,5,8,SRB,3.0,BIJAC M,8 - 8,62,CRO,1:02
+Turnover foul,8,11.0,5,8,SRB,3.0,SETKA A,8 - 8,45,CRO,0:45
+Steal,8,8.0,5,8,SRB,3.0,ALEKSIC M,8 - 8,45,SRB,0:45
+Time-Out,8,,5,8,SRB,3.0,,8 - 8,45,SRB,0:45
+Turnover foul,8,6.0,5,8,SRB,3.0,PIJETLOVIC D,8 - 8,37,SRB,0:37
+Time-Out,8,,5,8,SRB,3.0,,8 - 8,37,CRO,0:37
+Turnover foul,8,8.0,5,8,SRB,3.0,BUSLJE A,8 - 8,20,CRO,0:20
+Steal,8,12.0,5,8,SRB,3.0,MITROVIC S,8 - 8,20,SRB,0:20
+Counter attack - Goal,8,11.0,5,9,SRB,3.0,PRLAINOVIC A,9 - 8,12,SRB,0:12
+20 sec. exclusion in field,8,5.0,5,9,SRB,3.0,CUK M,9 - 8,2,SRB,0:02
+Penalty foul,8,5.0,5,9,SRB,3.0,CUK M,9 - 8,1,SRB,0:01
+Exclusion with substitution,8,5.0,5,9,SRB,3.0,CUK M,9 - 8,1,SRB,0:01
+Penalty shot - Goal,9,5.0,5,9,SRB,3.0,JOKOVIC M,9 - 9,1,CRO,0:01
+Starting goalkeeper,9,1.0,5,9,SRB,4.0,PIJETLOVIC G,9 - 9,480,SRB,8:00
+Starting goalkeeper,9,1.0,5,9,SRB,4.0,BIJAC M,9 - 9,480,CRO,8:00
+Sprint won possession,9,3.0,5,9,SRB,4.0,RASOVIC V,9 - 9,480,SRB,8:00
+Action shot - Saved,9,3.0,5,9,SRB,4.0,RASOVIC V,9 - 9,451,SRB,7:31
+5m shot - Blocked,9,8.0,5,9,SRB,4.0,BUSLJE A,9 - 9,430,CRO,7:10
+Counter attack - Goal,9,11.0,5,10,SRB,4.0,PRLAINOVIC A,10 - 9,422,SRB,7:02
+Centre shot - Goal,10,4.0,5,10,SRB,4.0,LONCAR L,10 - 10,394,CRO,6:34
+20 sec. exclusion in centre,10,2.0,5,10,SRB,4.0,MACAN M,10 - 10,379,CRO,6:19
+Extra player shot - Saved,10,12.0,5,10,SRB,4.0,MITROVIC S,10 - 10,369,SRB,6:09
+5m shot - Saved,10,5.0,5,10,SRB,4.0,JOKOVIC M,10 - 10,343,CRO,5:43
+5m shot - Saved,10,11.0,5,10,SRB,4.0,PRLAINOVIC A,10 - 10,318,SRB,5:18
+20 sec. exclusion in centre,10,3.0,5,10,SRB,4.0,RASOVIC V,10 - 10,292,SRB,4:52
+Exclusion with substitution,10,3.0,5,10,SRB,4.0,RASOVIC V,10 - 10,292,SRB,4:52
+Extra player shot - Goal,11,7.0,5,10,SRB,4.0,VUKICEVIC A,10 - 11,291,CRO,4:51
+20 sec. exclusion in centre,11,8.0,5,10,SRB,4.0,BUSLJE A,10 - 11,276,CRO,4:36
+Turnover foul,11,2.0,5,10,SRB,4.0,MANDIC D,10 - 11,241,SRB,4:01
+Steal,11,8.0,5,10,SRB,4.0,BUSLJE A,10 - 11,241,CRO,4:01
+Turnover foul,11,7.0,5,10,SRB,4.0,VUKICEVIC A,10 - 11,223,CRO,3:43
+Steal,11,1.0,5,10,SRB,4.0,PIJETLOVIC G,10 - 11,223,SRB,3:43
+5m shot - Goal,11,2.0,5,11,SRB,4.0,MANDIC D,11 - 11,208,SRB,3:28
+20 sec. exclusion in centre,11,4.0,5,11,SRB,4.0,RANDELOVIC S,11 - 11,192,SRB,3:12
+Exclusion with substitution,11,4.0,5,11,SRB,4.0,RANDELOVIC S,11 - 11,192,SRB,3:12
+Extra player shot - Goal,12,5.0,5,11,SRB,4.0,JOKOVIC M,11 - 12,179,CRO,2:59
+Steal,12,1.0,5,11,SRB,4.0,BIJAC M,11 - 12,40,CRO,0:40
+Time-Out,12,,5,11,SRB,4.0,,11 - 12,28,CRO,0:28
+Turnover foul,12,4.0,5,11,SRB,4.0,LONCAR L,11 - 12,11,CRO,0:11
+Steal,12,11.0,5,11,SRB,4.0,PRLAINOVIC A,11 - 12,11,SRB,0:11
+20 sec. exclusion in field,12,9.0,5,11,SRB,4.0,SUKNO S,11 - 12,6,CRO,0:06
+5m shot - Saved,12,11.0,5,11,SRB,4.0,PRLAINOVIC A,11 - 12,3,SRB,0:03
+Double exclusion,12,10.0,5,11,SRB,4.0,FILIPOVIC F,11 - 12,3,SRB,0:03
+Double exclusion,12,8.0,5,11,SRB,4.0,BUSLJE A,11 - 12,3,CRO,0:03
+Starting goalkeeper,0,1.0,6,0,HUN,1.0,NAGY V,0 - 0,480,HUN,8:00
+Starting goalkeeper,0,1.0,6,0,HUN,1.0,BIJAC M,0 - 0,480,CRO,8:00
+Sprint won possession,0,9.0,6,0,HUN,1.0,ERDELYI B,0 - 0,480,HUN,8:00
+Turnover foul,0,11.0,6,0,HUN,1.0,MEZEI T,0 - 0,456,HUN,7:36
+Steal,0,6.0,6,0,HUN,1.0,BULJUBASIC I,0 - 0,456,CRO,7:36
+Centre shot - Goal,1,9.0,6,0,HUN,1.0,SUKNO S,0 - 1,435,CRO,7:15
+5m shot - Saved,1,6.0,6,0,HUN,1.0,HOSNYANSZKY N,0 - 1,410,HUN,6:50
+Turnover foul,1,4.0,6,0,HUN,1.0,LONCAR L,0 - 1,382,CRO,6:22
+Steal,1,1.0,6,0,HUN,1.0,NAGY V,0 - 1,382,HUN,6:22
+20 sec. exclusion in centre,1,12.0,6,0,HUN,1.0,GARCIA GADEA J,0 - 1,358,CRO,5:58
+Centre shot - Saved,1,8.0,6,0,HUN,1.0,GOR-NAGY M,0 - 1,333,HUN,5:33
+20 sec. exclusion in centre,1,8.0,6,0,HUN,1.0,GOR-NAGY M,0 - 1,318,HUN,5:18
+Extra player shot - Goal,2,4.0,6,0,HUN,1.0,LONCAR L,0 - 2,315,CRO,5:15
+20 sec. exclusion in centre,2,6.0,6,0,HUN,1.0,BULJUBASIC I,0 - 2,290,CRO,4:50
+Extra player shot - Post,2,3.0,6,0,HUN,1.0,MANHERCZ K,0 - 2,271,HUN,4:31
+Action shot - Saved,2,10.0,6,0,HUN,1.0,VARGA D,0 - 2,264,HUN,4:24
+5m shot - Saved,2,11.0,6,0,HUN,1.0,SETKA A,0 - 2,235,CRO,3:55
+Turnover foul,2,5.0,6,0,HUN,1.0,JOKOVIC M,0 - 2,207,CRO,3:27
+Steal,2,4.0,6,0,HUN,1.0,ZALANKI G,0 - 2,207,HUN,3:27
+5m shot - Missed,2,10.0,6,0,HUN,1.0,VARGA D,0 - 2,184,HUN,3:04
+Centre shot - Goal,3,5.0,6,0,HUN,1.0,JOKOVIC M,0 - 3,172,CRO,2:52
+Time-Out,3,,6,0,HUN,1.0,,0 - 3,172,HUN,2:52
+Turnover foul,3,12.0,6,0,HUN,1.0,HARAI B,0 - 3,161,HUN,2:41
+5m shot - Blocked,3,8.0,6,0,HUN,1.0,BUSLJE A,0 - 3,130,CRO,2:10
+Turnover foul,3,10.0,6,0,HUN,1.0,VARGA D,0 - 3,105,HUN,1:45
+Steal,3,1.0,6,0,HUN,1.0,BIJAC M,0 - 3,105,CRO,1:45
+20 sec. exclusion in field,3,11.0,6,0,HUN,1.0,SETKA A,0 - 3,75,CRO,1:15
+Extra player shot - Saved,3,4.0,6,0,HUN,1.0,ZALANKI G,0 - 3,63,HUN,1:03
+Time-Out,3,,6,0,HUN,1.0,,0 - 3,61,CRO,1:01
+20 sec. exclusion in centre,3,2.0,6,0,HUN,1.0,TOROK B,0 - 3,37,HUN,0:37
+Extra player shot - Goal,4,2.0,6,0,HUN,1.0,MACAN M,0 - 4,23,CRO,0:23
+5m shot - Missed,4,3.0,6,0,HUN,1.0,MANHERCZ K,0 - 4,1,HUN,0:01
+Starting goalkeeper,4,1.0,6,0,HUN,2.0,NAGY V,0 - 4,480,HUN,8:00
+Starting goalkeeper,4,1.0,6,0,HUN,2.0,BIJAC M,0 - 4,480,CRO,8:00
+Sprint won possession,4,9.0,6,0,HUN,2.0,ERDELYI B,0 - 4,480,HUN,8:00
+5m shot - Goal,4,5.0,6,1,HUN,2.0,VAMOS M,1 - 4,455,HUN,7:35
+20 sec. exclusion in centre,4,8.0,6,1,HUN,2.0,GOR-NAGY M,1 - 4,433,HUN,7:13
+Extra player shot - Saved,4,9.0,6,1,HUN,2.0,SUKNO S,1 - 4,413,CRO,6:53
+Turnover foul,4,3.0,6,1,HUN,2.0,FATOVIC L,1 - 4,410,CRO,6:50
+Steal,4,6.0,6,1,HUN,2.0,HOSNYANSZKY N,1 - 4,410,HUN,6:50
+Action shot - Post,4,12.0,6,1,HUN,2.0,GARCIA GADEA J,1 - 4,353,CRO,5:53
+5m shot - Goal,4,2.0,6,2,HUN,2.0,TOROK B,2 - 4,332,HUN,5:32
+Action shot - Blocked,4,9.0,6,2,HUN,2.0,SUKNO S,2 - 4,312,CRO,5:12
+20 sec. exclusion in field,4,12.0,6,2,HUN,2.0,GARCIA GADEA J,2 - 4,306,CRO,5:06
+Turnover foul,4,9.0,6,2,HUN,2.0,ERDELYI B,2 - 4,284,HUN,4:44
+Steal,4,9.0,6,2,HUN,2.0,SUKNO S,2 - 4,284,CRO,4:44
+Action shot - Saved,4,8.0,6,2,HUN,2.0,BUSLJE A,2 - 4,255,CRO,4:15
+Turnover foul,4,12.0,6,2,HUN,2.0,HARAI B,2 - 4,226,HUN,3:46
+Steal,4,5.0,6,2,HUN,2.0,JOKOVIC M,2 - 4,226,CRO,3:46
+20 sec. exclusion in centre,4,6.0,6,2,HUN,2.0,HOSNYANSZKY N,2 - 4,202,HUN,3:22
+Time-Out,4,,6,2,HUN,2.0,,2 - 4,201,CRO,3:21
+Action shot - Post,4,8.0,6,2,HUN,2.0,BUSLJE A,2 - 4,172,CRO,2:52
+5m shot - Post,4,7.0,6,2,HUN,2.0,VUKICEVIC A,2 - 4,144,CRO,2:24
+20 sec. exclusion in centre,4,8.0,6,2,HUN,2.0,BUSLJE A,2 - 4,130,CRO,2:10
+Time-Out,4,,6,2,HUN,2.0,,2 - 4,129,HUN,2:09
+Extra player shot - Saved,4,3.0,6,2,HUN,2.0,MANHERCZ K,2 - 4,111,HUN,1:51
+5m shot - Saved,4,9.0,6,2,HUN,2.0,SUKNO S,2 - 4,82,CRO,1:22
+Turnover foul,4,12.0,6,2,HUN,2.0,HARAI B,2 - 4,59,HUN,0:59
+Action shot - Saved,4,12.0,6,2,HUN,2.0,GARCIA GADEA J,2 - 4,31,CRO,0:31
+Starting goalkeeper,4,1.0,6,2,HUN,3.0,NAGY V,2 - 4,480,HUN,8:00
+Starting goalkeeper,4,1.0,6,2,HUN,3.0,BIJAC M,2 - 4,480,CRO,8:00
+20 sec. exclusion in field,4,9.0,6,2,HUN,4.0,SUKNO S,2 - 4,2,CRO,0:02
+Sprint won possession,4,7.0,6,2,HUN,3.0,VUKICEVIC A,2 - 4,480,CRO,8:00
+5m shot - Saved,4,5.0,6,2,HUN,3.0,JOKOVIC M,2 - 4,451,CRO,7:31
+20 sec. exclusion in centre,4,2.0,6,2,HUN,3.0,MACAN M,2 - 4,422,CRO,7:02
+Extra player shot - Goal,4,9.0,6,3,HUN,3.0,ERDELYI B,3 - 4,406,HUN,6:46
+20 sec. exclusion in centre,4,7.0,6,3,HUN,3.0,DECKER A,3 - 4,383,HUN,6:23
+Extra player shot - Post,4,12.0,6,3,HUN,3.0,GARCIA GADEA J,3 - 4,363,CRO,6:03
+20 sec. exclusion in centre,4,5.0,6,3,HUN,3.0,VAMOS M,3 - 4,352,HUN,5:52
+Action shot - Post,4,5.0,6,3,HUN,3.0,JOKOVIC M,3 - 4,326,CRO,5:26
+5m shot - Post,4,10.0,6,3,HUN,3.0,VARGA D,3 - 4,301,HUN,5:01
+Turnover foul,4,4.0,6,3,HUN,3.0,LONCAR L,3 - 4,272,CRO,4:32
+Steal,4,3.0,6,3,HUN,3.0,MANHERCZ K,3 - 4,272,HUN,4:32
+Action shot - Saved,4,2.0,6,3,HUN,3.0,TOROK B,3 - 4,248,HUN,4:08
+Action shot - Saved,4,5.0,6,3,HUN,3.0,JOKOVIC M,3 - 4,227,CRO,3:47
+Time-Out,4,,6,3,HUN,3.0,,3 - 4,224,HUN,3:44
+20 sec. exclusion in centre,4,3.0,6,3,HUN,3.0,FATOVIC L,3 - 4,202,CRO,3:22
+Action shot - Goal,4,3.0,6,4,HUN,3.0,MANHERCZ K,4 - 4,180,HUN,3:00
+20 sec. exclusion in centre,4,8.0,6,4,HUN,3.0,GOR-NAGY M,4 - 4,160,HUN,2:40
+Exclusion with substitution,4,8.0,6,4,HUN,3.0,GOR-NAGY M,4 - 4,160,HUN,2:40
+Action shot - Goal,5,12.0,6,4,HUN,3.0,GARCIA GADEA J,4 - 5,132,CRO,2:12
+Turnover foul,5,12.0,6,4,HUN,3.0,HARAI B,4 - 5,114,HUN,1:54
+5m shot - Goal,6,12.0,6,4,HUN,3.0,GARCIA GADEA J,4 - 6,89,CRO,1:29
+20 sec. exclusion in centre,6,2.0,6,4,HUN,3.0,MACAN M,4 - 6,67,CRO,1:07
+Extra player shot - Saved,6,10.0,6,4,HUN,3.0,VARGA D,4 - 6,59,HUN,0:59
+Time-Out,6,,6,4,HUN,3.0,,4 - 6,54,CRO,0:54
+Action shot - Post,6,6.0,6,4,HUN,3.0,BULJUBASIC I,4 - 6,32,CRO,0:32
+5m shot - Saved,6,10.0,6,4,HUN,3.0,VARGA D,4 - 6,5,HUN,0:05
+5m shot - Saved,6,11.0,6,4,HUN,3.0,SETKA A,4 - 6,1,CRO,0:01
+Starting goalkeeper,6,1.0,6,4,HUN,4.0,NAGY V,4 - 6,480,HUN,8:00
+Starting goalkeeper,6,1.0,6,4,HUN,4.0,BIJAC M,4 - 6,480,CRO,8:00
+Sprint won possession,6,4.0,6,4,HUN,4.0,ZALANKI G,4 - 6,480,HUN,8:00
+5m shot - Saved,6,3.0,6,4,HUN,4.0,MANHERCZ K,4 - 6,454,HUN,7:34
+Action shot - Saved,6,5.0,6,4,HUN,4.0,JOKOVIC M,4 - 6,425,CRO,7:05
+Turnover foul,6,4.0,6,4,HUN,4.0,ZALANKI G,4 - 6,396,HUN,6:36
+Steal,6,9.0,6,4,HUN,4.0,SUKNO S,4 - 6,396,CRO,6:36
+5m shot - Saved,6,8.0,6,4,HUN,4.0,BUSLJE A,4 - 6,366,CRO,6:06
+5m shot - Saved,6,4.0,6,4,HUN,4.0,ZALANKI G,4 - 6,338,HUN,5:38
+20 sec. exclusion in field,6,10.0,6,4,HUN,4.0,VARGA D,4 - 6,316,HUN,5:16
+Extra player shot - Saved,6,4.0,6,4,HUN,4.0,LONCAR L,4 - 6,306,CRO,5:06
+Extra player shot - Goal,7,9.0,6,4,HUN,4.0,SUKNO S,4 - 7,297,CRO,4:57
+20 sec. exclusion in centre,7,2.0,6,4,HUN,4.0,MACAN M,4 - 7,284,CRO,4:44
+Exclusion with substitution,7,2.0,6,4,HUN,4.0,MACAN M,4 - 7,284,CRO,4:44
+Extra player shot - Goal,7,5.0,6,5,HUN,4.0,VAMOS M,5 - 7,279,HUN,4:39
+5m shot - Saved,7,12.0,6,5,HUN,4.0,GARCIA GADEA J,5 - 7,250,CRO,4:10
+Action shot - Blocked,7,3.0,6,5,HUN,4.0,MANHERCZ K,5 - 7,230,HUN,3:50
+5m shot - Post,7,11.0,6,5,HUN,4.0,SETKA A,5 - 7,203,CRO,3:23
+20 sec. exclusion in field,7,6.0,6,5,HUN,4.0,BULJUBASIC I,5 - 7,184,CRO,3:04
+Time-Out,7,,6,5,HUN,4.0,,5 - 7,184,HUN,3:04
+Extra player shot - Goal,7,5.0,6,6,HUN,4.0,VAMOS M,6 - 7,164,HUN,2:44
+5m shot - Goal,8,9.0,6,6,HUN,4.0,SUKNO S,6 - 8,143,CRO,2:23
+5m shot - Saved,8,5.0,6,6,HUN,4.0,VAMOS M,6 - 8,118,HUN,1:58
+Turnover foul,8,9.0,6,6,HUN,4.0,SUKNO S,6 - 8,87,CRO,1:27
+Steal,8,1.0,6,6,HUN,4.0,NAGY V,6 - 8,87,HUN,1:27
+20 sec. exclusion in field,8,8.0,6,6,HUN,4.0,BUSLJE A,6 - 8,84,CRO,1:24
+Yellow card,8,,6,6,HUN,4.0,Team Official,6 - 8,76,CRO,1:16
+Extra player shot - Missed,8,5.0,6,6,HUN,4.0,VAMOS M,6 - 8,73,HUN,1:13
+5m shot - Missed,8,11.0,6,6,HUN,4.0,SETKA A,6 - 8,44,CRO,0:44
+Turnover foul,8,12.0,6,6,HUN,4.0,HARAI B,6 - 8,38,HUN,0:38
+20 sec. exclusion in field,8,10.0,6,6,HUN,4.0,VARGA D,6 - 8,38,HUN,0:38
+Time-Out,8,,6,6,HUN,4.0,,6 - 8,33,CRO,0:33
+20 sec. exclusion in field,8,12.0,6,6,HUN,4.0,HARAI B,6 - 8,33,HUN,0:33
+Exclusion with substitution,8,12.0,6,6,HUN,4.0,HARAI B,6 - 8,33,HUN,0:33

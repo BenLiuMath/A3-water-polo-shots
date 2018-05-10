@@ -1,0 +1,797 @@
+Action,Cap,Game,HUN,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,13.0,1,0,0,AUS,1.0,HRYSANTHOS A,0 - 0,480,AUS,8:00
+Starting goalkeeper,1.0,1,0,0,AUS,1.0,NAGY V,0 - 0,480,HUN,8:00
+Sprint won possession,9.0,1,0,0,AUS,1.0,ERDELYI B,0 - 0,480,HUN,8:00
+Turnover foul,12.0,1,0,0,AUS,1.0,HARAI B,0 - 0,456,HUN,7:36
+Steal,3.0,1,0,0,AUS,1.0,FORD G,0 - 0,456,AUS,7:36
+Action shot - Missed,7.0,1,0,0,AUS,1.0,GILCHRIST J,0 - 0,432,AUS,7:12
+Turnover foul,12.0,1,0,0,AUS,1.0,HARAI B,0 - 0,412,HUN,6:52
+Steal,3.0,1,0,0,AUS,1.0,FORD G,0 - 0,412,AUS,6:52
+Turnover foul,6.0,1,0,0,AUS,1.0,EDWARDS L,0 - 0,392,AUS,6:32
+Steal,8.0,1,0,0,AUS,1.0,GOR-NAGY M,0 - 0,392,HUN,6:32
+Action shot - Saved,9.0,1,0,0,AUS,1.0,ERDELYI B,0 - 0,375,HUN,6:15
+Centre shot - Goal,6.0,1,0,1,AUS,1.0,EDWARDS L,1 - 0,348,AUS,5:48
+Action shot - Saved,9.0,1,0,1,AUS,1.0,ERDELYI B,1 - 0,322,HUN,5:22
+Turnover foul,4.0,1,0,1,AUS,1.0,KAYES J,1 - 0,301,AUS,5:01
+Turnover foul,12.0,1,0,1,AUS,1.0,HARAI B,1 - 0,284,HUN,4:44
+Steal,13.0,1,0,1,AUS,1.0,HRYSANTHOS A,1 - 0,284,AUS,4:44
+Action shot - Saved,3.0,1,0,1,AUS,1.0,FORD G,1 - 0,259,AUS,4:19
+Action shot - Saved,10.0,1,0,1,AUS,1.0,VARGA D,1 - 0,241,HUN,4:01
+5m shot - Missed,9.0,1,0,1,AUS,1.0,FORD A,1 - 0,218,AUS,3:38
+Time-Out,,1,0,1,AUS,1.0,,1 - 0,217,HUN,3:37
+20 sec. exclusion in centre,5.0,1,0,1,AUS,1.0,POWER N,1 - 0,198,AUS,3:18
+Extra player shot - Post,4.0,1,0,1,AUS,1.0,ZALANKI G,1 - 0,180,HUN,3:00
+Action shot - Saved,9.0,1,0,1,AUS,1.0,FORD A,1 - 0,153,AUS,2:33
+Action shot - Goal,5.0,1,1,1,AUS,1.0,VAMOS M,1 - 1,101,HUN,1:41
+Action shot - Saved,12.0,1,1,1,AUS,1.0,BROOKS N,1 - 1,71,AUS,1:11
+Turnover foul,9.0,1,1,1,AUS,1.0,ERDELYI B,1 - 1,51,HUN,0:51
+Steal,13.0,1,1,1,AUS,1.0,HRYSANTHOS A,1 - 1,51,AUS,0:51
+5m shot - Blocked,11.0,1,1,1,AUS,1.0,HOLLIS L,1 - 1,26,AUS,0:26
+20 sec. exclusion in centre,2.0,1,1,1,AUS,1.0,TOROK B,1 - 1,4,HUN,0:04
+20 sec. exclusion in field,9.0,1,1,1,AUS,1.0,ERDELYI B,1 - 1,4,HUN,0:04
+Extra player shot - Saved,7.0,1,1,1,AUS,1.0,GILCHRIST J,1 - 1,3,AUS,0:03
+Starting goalkeeper,13.0,1,1,1,AUS,2.0,HRYSANTHOS A,1 - 1,480,AUS,8:00
+Starting goalkeeper,1.0,1,1,1,AUS,2.0,NAGY V,1 - 1,480,HUN,8:00
+Sprint won possession,3.0,1,1,1,AUS,2.0,MANHERCZ K,1 - 1,480,HUN,8:00
+Turnover foul,11.0,1,1,1,AUS,2.0,MEZEI T,1 - 1,451,HUN,7:31
+5m shot - Missed,7.0,1,1,1,AUS,2.0,GILCHRIST J,1 - 1,424,AUS,7:04
+Action shot - Goal,10.0,1,2,1,AUS,2.0,VARGA D,1 - 2,414,HUN,6:54
+Turnover foul,9.0,1,2,1,AUS,2.0,FORD A,1 - 2,390,AUS,6:30
+Steal,1.0,1,2,1,AUS,2.0,NAGY V,1 - 2,390,HUN,6:30
+Action shot - Post,3.0,1,2,1,AUS,2.0,MANHERCZ K,1 - 2,370,HUN,6:10
+5m shot - Saved,11.0,1,2,1,AUS,2.0,HOLLIS L,1 - 2,344,AUS,5:44
+Action shot - Saved,7.0,1,2,1,AUS,2.0,GILCHRIST J,1 - 2,320,AUS,5:20
+Turnover foul,5.0,1,2,1,AUS,2.0,VAMOS M,1 - 2,301,HUN,5:01
+5m shot - Saved,11.0,1,2,1,AUS,2.0,HOLLIS L,1 - 2,274,AUS,4:34
+Action shot - Goal,10.0,1,3,1,AUS,2.0,VARGA D,1 - 3,256,HUN,4:16
+Turnover foul,6.0,1,3,1,AUS,2.0,EDWARDS L,1 - 3,222,AUS,3:42
+Steal,5.0,1,3,1,AUS,2.0,VAMOS M,1 - 3,222,HUN,3:42
+20 sec. exclusion in centre,2.0,1,3,1,AUS,2.0,PUTT T,1 - 3,211,AUS,3:31
+Extra player shot - Blocked,5.0,1,3,1,AUS,2.0,VAMOS M,1 - 3,193,HUN,3:13
+Action shot - Post,12.0,1,3,1,AUS,2.0,HARAI B,1 - 3,177,HUN,2:57
+Turnover foul,6.0,1,3,1,AUS,2.0,EDWARDS L,1 - 3,155,AUS,2:35
+Steal,2.0,1,3,1,AUS,2.0,TOROK B,1 - 3,155,HUN,2:35
+5m shot - Post,2.0,1,3,1,AUS,2.0,TOROK B,1 - 3,143,HUN,2:23
+Time-Out,,1,3,1,AUS,2.0,,1 - 3,140,AUS,2:20
+Turnover foul,7.0,1,3,1,AUS,2.0,GILCHRIST J,1 - 3,122,AUS,2:02
+Steal,9.0,1,3,1,AUS,2.0,ERDELYI B,1 - 3,122,HUN,2:02
+Action shot - Goal,6.0,1,4,1,AUS,2.0,HOSNYANSZKY N,1 - 4,96,HUN,1:36
+20 sec. exclusion in field,4.0,1,4,1,AUS,2.0,ZALANKI G,1 - 4,83,HUN,1:23
+Action shot - Goal,8.0,1,4,2,AUS,2.0,YOUNGER A,2 - 4,61,AUS,1:01
+Turnover foul,2.0,1,4,2,AUS,2.0,PUTT T,2 - 4,47,AUS,0:47
+20 sec. exclusion in centre,2.0,1,4,2,AUS,2.0,PUTT T,2 - 4,47,AUS,0:47
+Turnover foul,6.0,1,4,2,AUS,4.0,EDWARDS L,2 - 4,83,AUS,1:23
+Steal,1.0,1,4,2,AUS,4.0,NAGY V,2 - 4,83,HUN,1:23
+5m shot - Missed,9.0,1,4,2,AUS,4.0,ERDELYI B,2 - 4,60,HUN,1:00
+Turnover foul,6.0,1,4,2,AUS,4.0,EDWARDS L,2 - 4,40,AUS,0:40
+Time-Out,,1,4,2,AUS,2.0,,2 - 4,47,HUN,0:47
+Extra player shot - Goal,10.0,1,5,2,AUS,2.0,VARGA D,2 - 5,30,HUN,0:30
+20 sec. exclusion in centre,8.0,1,5,2,AUS,2.0,GOR-NAGY M,2 - 5,5,HUN,0:05
+Extra player shot - Saved,9.0,1,5,2,AUS,2.0,FORD A,2 - 5,5,AUS,0:05
+Starting goalkeeper,13.0,1,5,2,AUS,3.0,HRYSANTHOS A,2 - 5,480,AUS,8:00
+Starting goalkeeper,1.0,1,5,2,AUS,3.0,NAGY V,2 - 5,480,HUN,8:00
+Sprint won possession,9.0,1,5,2,AUS,3.0,ERDELYI B,2 - 5,480,HUN,8:00
+Turnover foul,11.0,1,5,2,AUS,3.0,MEZEI T,2 - 5,451,HUN,7:31
+Steal,7.0,1,5,2,AUS,3.0,GILCHRIST J,2 - 5,451,AUS,7:31
+Action shot - Saved,8.0,1,5,2,AUS,3.0,YOUNGER A,2 - 5,426,AUS,7:06
+Action shot - Saved,11.0,1,5,2,AUS,3.0,MEZEI T,2 - 5,398,HUN,6:38
+Turnover foul,4.0,1,5,2,AUS,3.0,KAYES J,2 - 5,379,AUS,6:19
+Penalty foul,12.0,1,5,2,AUS,3.0,BROOKS N,2 - 5,364,AUS,6:04
+Penalty shot - Goal,10.0,1,6,2,AUS,3.0,VARGA D,2 - 6,364,HUN,6:04
+5m shot - Saved,9.0,1,6,2,AUS,3.0,FORD A,2 - 6,336,AUS,5:36
+20 sec. exclusion in field,12.0,1,6,2,AUS,3.0,HARAI B,2 - 6,326,HUN,5:26
+Action shot - Saved,5.0,1,6,2,AUS,3.0,POWER N,2 - 6,302,AUS,5:02
+Action shot - Post,8.0,1,6,2,AUS,3.0,GOR-NAGY M,2 - 6,271,HUN,4:31
+Turnover foul,5.0,1,6,2,AUS,3.0,POWER N,2 - 6,244,AUS,4:04
+Steal,1.0,1,6,2,AUS,3.0,NAGY V,2 - 6,244,HUN,4:04
+Turnover foul,12.0,1,6,2,AUS,3.0,HARAI B,2 - 6,225,HUN,3:45
+Steal,13.0,1,6,2,AUS,3.0,HRYSANTHOS A,2 - 6,225,AUS,3:45
+Time-Out,,1,6,2,AUS,3.0,,2 - 6,222,AUS,3:42
+5m shot - Saved,9.0,1,6,2,AUS,3.0,FORD A,2 - 6,192,AUS,3:12
+20 sec. exclusion in field,9.0,1,6,2,AUS,3.0,FORD A,2 - 6,180,AUS,3:00
+Time-Out,,1,6,2,AUS,3.0,,2 - 6,178,HUN,2:58
+Extra player shot - Goal,2.0,1,7,2,AUS,3.0,TOROK B,2 - 7,162,HUN,2:42
+Turnover foul,11.0,1,7,2,AUS,3.0,HOLLIS L,2 - 7,143,AUS,2:23
+Steal,4.0,1,7,2,AUS,3.0,ZALANKI G,2 - 7,143,HUN,2:23
+Turnover foul,2.0,1,7,2,AUS,3.0,TOROK B,2 - 7,127,HUN,2:07
+Centre shot - Goal,4.0,1,7,3,AUS,3.0,KAYES J,3 - 7,104,AUS,1:44
+Turnover foul,6.0,1,7,3,AUS,3.0,HOSNYANSZKY N,3 - 7,72,HUN,1:12
+Steal,3.0,1,7,3,AUS,3.0,FORD G,3 - 7,72,AUS,1:12
+Turnover foul,6.0,1,7,3,AUS,3.0,EDWARDS L,3 - 7,47,AUS,0:47
+20 sec. exclusion in centre,3.0,1,7,3,AUS,3.0,FORD G,3 - 7,28,AUS,0:28
+Centre shot - Saved,11.0,1,7,3,AUS,3.0,MEZEI T,3 - 7,17,HUN,0:17
+20 sec. exclusion in field,9.0,1,7,3,AUS,3.0,ERDELYI B,3 - 7,7,HUN,0:07
+Extra player shot - Missed,10.0,1,7,3,AUS,3.0,FANNON J,3 - 7,2,AUS,0:02
+Starting goalkeeper,13.0,1,7,3,AUS,4.0,HRYSANTHOS A,3 - 7,480,AUS,8:00
+Starting goalkeeper,1.0,1,7,3,AUS,4.0,NAGY V,3 - 7,480,HUN,8:00
+Sprint won possession,7.0,1,7,3,AUS,4.0,GILCHRIST J,3 - 7,480,AUS,8:00
+Action shot - Missed,10.0,1,7,3,AUS,4.0,FANNON J,3 - 7,453,AUS,7:33
+Action shot - Saved,12.0,1,7,3,AUS,4.0,HARAI B,3 - 7,427,HUN,7:07
+Action shot - Goal,12.0,1,8,3,AUS,4.0,HARAI B,3 - 8,381,HUN,6:21
+Turnover foul,5.0,1,8,3,AUS,4.0,POWER N,3 - 8,359,AUS,5:59
+Steal,1.0,1,8,3,AUS,4.0,NAGY V,3 - 8,359,HUN,5:59
+Action shot - Goal,11.0,1,9,3,AUS,4.0,MEZEI T,3 - 9,335,HUN,5:35
+Turnover foul,12.0,1,9,3,AUS,4.0,BROOKS N,3 - 9,308,AUS,5:08
+Steal,7.0,1,9,3,AUS,4.0,DECKER A,3 - 9,308,HUN,5:08
+Action shot - Saved,9.0,1,9,3,AUS,4.0,ERDELYI B,3 - 9,279,HUN,4:39
+5m shot - Saved,12.0,1,9,3,AUS,4.0,BROOKS N,3 - 9,252,AUS,4:12
+Action shot - Goal,3.0,1,10,3,AUS,4.0,MANHERCZ K,3 - 10,235,HUN,3:55
+Turnover foul,4.0,1,10,3,AUS,4.0,KAYES J,3 - 10,218,AUS,3:38
+Steal,1.0,1,10,3,AUS,4.0,NAGY V,3 - 10,218,HUN,3:38
+Action shot - Goal,5.0,1,11,3,AUS,4.0,VAMOS M,3 - 11,202,HUN,3:22
+Time-Out,,1,11,3,AUS,4.0,,3 - 11,202,AUS,3:22
+5m shot - Blocked,8.0,1,11,3,AUS,4.0,YOUNGER A,3 - 11,170,AUS,2:50
+Action shot - Saved,7.0,1,11,3,AUS,4.0,DECKER A,3 - 11,145,HUN,2:25
+Turnover foul,12.0,1,11,3,AUS,4.0,BROOKS N,3 - 11,124,AUS,2:04
+Time-Out,,1,11,3,AUS,4.0,,3 - 11,124,HUN,2:04
+5m shot - Goal,2.0,1,12,3,AUS,4.0,TOROK B,3 - 12,102,HUN,1:42
+Steal,3.0,1,12,3,AUS,4.0,MANHERCZ K,3 - 12,40,HUN,0:40
+Counter attack - Goal,3.0,1,13,3,AUS,4.0,MANHERCZ K,3 - 13,29,HUN,0:29
+5m shot - Post,11.0,1,13,3,AUS,4.0,HOLLIS L,3 - 13,4,AUS,0:04
+5m shot - Saved,1.0,1,13,3,AUS,4.0,NAGY V,3 - 13,1,HUN,0:01
+Starting goalkeeper,1.0,2,0,0,ITA,1.0,NAGY V,0 - 0,480,HUN,8:00
+Starting goalkeeper,13.0,2,0,0,ITA,1.0,VOLAREVIC G,0 - 0,480,ITA,8:00
+Sprint won possession,2.0,2,0,0,ITA,1.0,di FULVIO F,0 - 0,480,ITA,8:00
+20 sec. exclusion in field,6.0,2,0,0,ITA,1.0,HOSNYANSZKY N,0 - 0,460,HUN,7:40
+Extra player shot - Goal,7.0,2,0,1,ITA,1.0,NORA A,0 - 1,446,ITA,7:26
+20 sec. exclusion in centre,3.0,2,0,1,ITA,1.0,GITTO N,0 - 1,429,ITA,7:09
+Extra player shot - Saved,12.0,2,0,1,ITA,1.0,HARAI B,0 - 1,416,HUN,6:56
+20 sec. exclusion in centre,8.0,2,0,1,ITA,1.0,GOR-NAGY M,0 - 1,398,HUN,6:38
+Action shot - Goal,9.0,2,0,2,ITA,1.0,RENZUTO IODICE V,0 - 2,376,ITA,6:16
+5m shot - Blocked,5.0,2,0,2,ITA,1.0,VAMOS M,0 - 2,357,HUN,5:57
+20 sec. exclusion in centre,12.0,2,0,2,ITA,1.0,BERTOLI Z,0 - 2,348,ITA,5:48
+20 sec. exclusion in centre,11.0,2,0,2,ITA,1.0,AICARDI M,0 - 2,332,ITA,5:32
+Extra player shot - Goal,10.0,2,1,2,ITA,1.0,VARGA D,1 - 2,325,HUN,5:25
+Action shot - Missed,7.0,2,1,2,ITA,1.0,NORA A,1 - 2,296,ITA,4:56
+5m shot - Missed,10.0,2,1,2,ITA,1.0,VARGA D,1 - 2,285,HUN,4:45
+Action shot - Missed,4.0,2,1,2,ITA,1.0,FIGLIOLI P,1 - 2,272,ITA,4:32
+Action shot - Goal,5.0,2,2,2,ITA,1.0,VAMOS M,2 - 2,258,HUN,4:18
+20 sec. exclusion in centre,2.0,2,2,2,ITA,1.0,TOROK B,2 - 2,238,HUN,3:58
+Extra player shot - Goal,10.0,2,2,3,ITA,1.0,BODEGAS M,2 - 3,225,ITA,3:45
+Centre shot - Goal,12.0,2,3,3,ITA,1.0,HARAI B,3 - 3,199,HUN,3:19
+5m shot - Post,8.0,2,3,3,ITA,1.0,FONDELLI A,3 - 3,174,ITA,2:54
+20 sec. exclusion in field,12.0,2,3,3,ITA,1.0,HARAI B,3 - 3,162,HUN,2:42
+Extra player shot - Post,9.0,2,3,3,ITA,1.0,RENZUTO IODICE V,3 - 3,149,ITA,2:29
+5m shot - Missed,3.0,2,3,3,ITA,1.0,MANHERCZ K,3 - 3,120,HUN,2:00
+Action shot - Goal,2.0,2,3,4,ITA,1.0,di FULVIO F,3 - 4,104,ITA,1:44
+5m shot - Saved,10.0,2,3,4,ITA,1.0,VARGA D,3 - 4,73,HUN,1:13
+20 sec. exclusion in centre,7.0,2,3,4,ITA,1.0,DECKER A,3 - 4,46,HUN,0:46
+Time-Out,,2,3,4,ITA,1.0,,3 - 4,45,ITA,0:45
+Action shot - Missed,7.0,2,3,4,ITA,1.0,NORA A,3 - 4,24,ITA,0:24
+Time-Out,,2,3,4,ITA,1.0,,3 - 4,24,HUN,0:24
+20 sec. exclusion in centre,3.0,2,3,4,ITA,1.0,GITTO N,3 - 4,13,ITA,0:13
+Extra player shot - Goal,4.0,2,4,4,ITA,1.0,ZALANKI G,4 - 4,7,HUN,0:07
+5m shot - Missed,10.0,2,4,4,ITA,1.0,BODEGAS M,4 - 4,1,ITA,0:01
+Starting goalkeeper,1.0,2,4,4,ITA,2.0,NAGY V,4 - 4,480,HUN,8:00
+Starting goalkeeper,13.0,2,4,4,ITA,2.0,VOLAREVIC G,4 - 4,480,ITA,8:00
+Sprint won possession,4.0,2,4,4,ITA,2.0,FIGLIOLI P,4 - 4,480,ITA,8:00
+20 sec. exclusion in centre,8.0,2,4,4,ITA,2.0,GOR-NAGY M,4 - 4,453,HUN,7:33
+Action shot - Goal,9.0,2,4,5,ITA,2.0,RENZUTO IODICE V,4 - 5,431,ITA,7:11
+5m shot - Saved,9.0,2,4,5,ITA,2.0,ERDELYI B,4 - 5,405,HUN,6:45
+Penalty foul,6.0,2,4,5,ITA,2.0,MIRARCHI C,4 - 5,404,ITA,6:44
+Penalty shot - Goal,10.0,2,5,5,ITA,2.0,VARGA D,5 - 5,404,HUN,6:44
+Action shot - Blocked,2.0,2,5,5,ITA,2.0,di FULVIO F,5 - 5,375,ITA,6:15
+Turnover foul,5.0,2,5,5,ITA,2.0,VAMOS M,5 - 5,356,HUN,5:56
+Steal,2.0,2,5,5,ITA,2.0,di FULVIO F,5 - 5,356,ITA,5:56
+20 sec. exclusion in centre,11.0,2,5,5,ITA,2.0,MEZEI T,5 - 5,338,HUN,5:38
+Action shot - Saved,5.0,2,5,5,ITA,2.0,PRESCIUTTI N,5 - 5,317,ITA,5:17
+Turnover foul,6.0,2,5,5,ITA,2.0,MIRARCHI C,5 - 5,295,ITA,4:55
+20 sec. exclusion in centre,5.0,2,5,5,ITA,2.0,PRESCIUTTI N,5 - 5,274,ITA,4:34
+Time-Out,,2,5,5,ITA,2.0,,5 - 5,273,HUN,4:33
+Extra player shot - Goal,10.0,2,6,5,ITA,2.0,VARGA D,6 - 5,255,HUN,4:15
+5m shot - Saved,4.0,2,6,5,ITA,2.0,FIGLIOLI P,6 - 5,226,ITA,3:46
+Turnover foul,10.0,2,6,5,ITA,2.0,VARGA D,6 - 5,195,HUN,3:15
+Steal,8.0,2,6,5,ITA,2.0,FONDELLI A,6 - 5,195,ITA,3:15
+Turnover foul,11.0,2,6,5,ITA,2.0,AICARDI M,6 - 5,176,ITA,2:56
+Steal,1.0,2,6,5,ITA,2.0,NAGY V,6 - 5,176,HUN,2:56
+Turnover foul,2.0,2,6,5,ITA,2.0,TOROK B,6 - 5,151,HUN,2:31
+5m shot - Missed,8.0,2,6,5,ITA,2.0,FONDELLI A,6 - 5,127,ITA,2:07
+Turnover foul,10.0,2,6,5,ITA,2.0,VARGA D,6 - 5,113,HUN,1:53
+Turnover foul,2.0,2,6,5,ITA,2.0,di FULVIO F,6 - 5,92,ITA,1:32
+Steal,6.0,2,6,5,ITA,2.0,HOSNYANSZKY N,6 - 5,92,HUN,1:32
+Exclusion with substitution,8.0,2,6,5,ITA,2.0,FONDELLI A,6 - 5,80,ITA,1:20
+Extra player shot - Goal,6.0,2,7,9,ITA,4.0,MIRARCHI C,7 - 9,245,ITA,4:05
+20 sec. exclusion in centre,12.0,2,7,9,ITA,4.0,BERTOLI Z,7 - 9,234,ITA,3:54
+Exclusion with substitution,12.0,2,7,9,ITA,4.0,BERTOLI Z,7 - 9,234,ITA,3:54
+20 sec. exclusion in centre,5.0,2,7,9,ITA,4.0,PRESCIUTTI N,7 - 9,231,ITA,3:51
+Extra player shot - Goal,5.0,2,8,9,ITA,4.0,VAMOS M,8 - 9,216,HUN,3:36
+Turnover foul,11.0,2,8,9,ITA,4.0,AICARDI M,8 - 9,204,ITA,3:24
+Steal,1.0,2,8,9,ITA,4.0,NAGY V,8 - 9,204,HUN,3:24
+Counter attack - Saved,4.0,2,8,9,ITA,4.0,ZALANKI G,8 - 9,192,HUN,3:12
+Double exclusion,6.0,2,8,9,ITA,4.0,MIRARCHI C,8 - 9,155,ITA,2:35
+Double exclusion,5.0,2,8,9,ITA,4.0,VAMOS M,8 - 9,155,HUN,2:35
+20 sec. exclusion in centre,10.0,2,8,9,ITA,4.0,BODEGAS M,8 - 9,145,ITA,2:25
+Exclusion with substitution,12.0,2,8,9,ITA,2.0,HARAI B,8 - 9,80,HUN,1:20
+20 sec. exclusion in centre,11.0,2,8,9,ITA,2.0,AICARDI M,8 - 9,68,ITA,1:08
+Extra player shot - Blocked,5.0,2,8,9,ITA,2.0,VAMOS M,8 - 9,59,HUN,0:59
+20 sec. exclusion in field,10.0,2,8,9,ITA,2.0,VARGA D,8 - 9,47,HUN,0:47
+Time-Out,,2,8,9,ITA,2.0,,8 - 9,47,ITA,0:47
+5m shot - Saved,2.0,2,8,9,ITA,2.0,di FULVIO F,8 - 9,22,ITA,0:22
+5m shot - Post,2.0,2,8,9,ITA,2.0,di FULVIO F,8 - 9,8,ITA,0:08
+Starting goalkeeper,1.0,2,8,9,ITA,3.0,NAGY V,8 - 9,480,HUN,8:00
+Starting goalkeeper,1.0,2,8,9,ITA,3.0,TEMPESTI S,8 - 9,480,ITA,8:00
+Sprint won possession,4.0,2,8,9,ITA,3.0,FIGLIOLI P,8 - 9,480,ITA,8:00
+Turnover foul,7.0,2,8,9,ITA,3.0,NORA A,8 - 9,454,ITA,7:34
+Steal,11.0,2,8,9,ITA,3.0,MEZEI T,8 - 9,454,HUN,7:34
+Action shot - Saved,3.0,2,8,9,ITA,3.0,MANHERCZ K,8 - 9,441,HUN,7:21
+20 sec. exclusion in centre,12.0,2,8,9,ITA,3.0,BERTOLI Z,8 - 9,424,ITA,7:04
+Action shot - Goal,3.0,2,7,5,ITA,3.0,MANHERCZ K,7 - 5,403,HUN,6:43
+20 sec. exclusion in centre,2.0,2,7,5,ITA,3.0,TOROK B,7 - 5,389,HUN,6:29
+Yellow card,,2,7,5,ITA,3.0,Team Official,7 - 5,389,HUN,6:29
+Turnover foul,2.0,2,7,5,ITA,3.0,di FULVIO F,7 - 5,366,ITA,6:06
+Steal,4.0,2,7,5,ITA,3.0,ZALANKI G,7 - 5,366,HUN,6:06
+5m shot - Missed,4.0,2,7,5,ITA,3.0,ZALANKI G,7 - 5,347,HUN,5:47
+20 sec. exclusion in field,5.0,2,7,5,ITA,3.0,VAMOS M,7 - 5,336,HUN,5:36
+Extra player shot - Goal,9.0,2,7,6,ITA,3.0,RENZUTO IODICE V,7 - 6,321,ITA,5:21
+5m shot - Blocked,10.0,2,7,6,ITA,3.0,VARGA D,7 - 6,292,HUN,4:52
+20 sec. exclusion in field,4.0,2,7,6,ITA,3.0,ZALANKI G,7 - 6,292,HUN,4:52
+Time-Out,,2,7,6,ITA,3.0,,7 - 6,292,ITA,4:52
+Extra player shot - Missed,10.0,2,7,6,ITA,3.0,BODEGAS M,7 - 6,276,ITA,4:36
+20 sec. exclusion in centre,9.0,2,7,6,ITA,3.0,RENZUTO IODICE V,7 - 6,254,ITA,4:14
+Extra player shot - Post,5.0,2,7,6,ITA,3.0,VAMOS M,7 - 6,234,HUN,3:54
+Action shot - Goal,2.0,2,7,7,ITA,3.0,di FULVIO F,7 - 7,205,ITA,3:25
+20 sec. exclusion in field,9.0,2,7,7,ITA,3.0,RENZUTO IODICE V,7 - 7,192,ITA,3:12
+Time-Out,,2,7,7,ITA,3.0,,7 - 7,192,HUN,3:12
+Turnover foul,4.0,2,7,7,ITA,3.0,ZALANKI G,7 - 7,166,HUN,2:46
+Steal,11.0,2,7,7,ITA,3.0,AICARDI M,7 - 7,166,ITA,2:46
+5m shot - Missed,2.0,2,7,7,ITA,3.0,di FULVIO F,7 - 7,141,ITA,2:21
+5m shot - Blocked,2.0,2,7,7,ITA,3.0,TOROK B,7 - 7,127,HUN,2:07
+5m shot - Saved,2.0,2,7,7,ITA,3.0,TOROK B,7 - 7,103,HUN,1:43
+20 sec. exclusion in field,9.0,2,7,7,ITA,3.0,RENZUTO IODICE V,7 - 7,83,ITA,1:23
+Exclusion with substitution,9.0,2,7,7,ITA,3.0,RENZUTO IODICE V,7 - 7,83,ITA,1:23
+Extra player shot - Saved,10.0,2,7,7,ITA,3.0,VARGA D,7 - 7,77,HUN,1:17
+Extra player shot - Blocked,5.0,2,7,7,ITA,3.0,VAMOS M,7 - 7,62,HUN,1:02
+Turnover foul,11.0,2,7,7,ITA,3.0,MEZEI T,7 - 7,53,HUN,0:53
+Turnover foul,11.0,2,7,7,ITA,3.0,AICARDI M,7 - 7,43,ITA,0:43
+Steal,9.0,2,7,7,ITA,3.0,ERDELYI B,7 - 7,43,HUN,0:43
+Counter attack - Missed,9.0,2,7,7,ITA,3.0,ERDELYI B,7 - 7,33,HUN,0:33
+20 sec. exclusion in field,4.0,2,7,7,ITA,3.0,ZALANKI G,7 - 7,11,HUN,0:11
+Extra player shot - Goal,5.0,2,7,8,ITA,3.0,PRESCIUTTI N,7 - 8,3,ITA,0:03
+5m shot - Saved,5.0,2,7,8,ITA,3.0,VAMOS M,7 - 8,1,HUN,0:01
+Starting goalkeeper,1.0,2,7,8,ITA,4.0,NAGY V,7 - 8,480,HUN,8:00
+Starting goalkeeper,1.0,2,7,8,ITA,4.0,TEMPESTI S,7 - 8,480,ITA,8:00
+Sprint won possession,4.0,2,7,8,ITA,4.0,FIGLIOLI P,7 - 8,480,ITA,8:00
+5m shot - Missed,2.0,2,7,8,ITA,4.0,di FULVIO F,7 - 8,454,ITA,7:34
+Turnover foul,8.0,2,7,8,ITA,4.0,GOR-NAGY M,7 - 8,428,HUN,7:08
+5m shot - Saved,10.0,2,7,8,ITA,4.0,BODEGAS M,7 - 8,401,ITA,6:41
+Turnover foul,5.0,2,7,8,ITA,4.0,VAMOS M,7 - 8,372,HUN,6:12
+Turnover foul,3.0,2,7,8,ITA,4.0,GITTO N,7 - 8,345,ITA,5:45
+Steal,8.0,2,7,8,ITA,4.0,GOR-NAGY M,7 - 8,345,HUN,5:45
+Turnover foul,5.0,2,7,8,ITA,4.0,VAMOS M,7 - 8,325,HUN,5:25
+5m shot - Saved,5.0,2,7,8,ITA,4.0,PRESCIUTTI N,7 - 8,300,ITA,5:00
+20 sec. exclusion in centre,8.0,2,7,8,ITA,4.0,GOR-NAGY M,7 - 8,272,HUN,4:32
+Exclusion with substitution,8.0,2,7,8,ITA,4.0,GOR-NAGY M,7 - 8,272,HUN,4:32
+20 sec. exclusion in field,11.0,2,7,8,ITA,4.0,MEZEI T,7 - 8,258,HUN,4:18
+Time-Out,,2,7,8,ITA,4.0,,7 - 8,139,HUN,2:19
+Extra player shot - Goal,5.0,2,9,9,ITA,4.0,VAMOS M,9 - 9,135,HUN,2:15
+20 sec. exclusion in centre,2.0,2,9,9,ITA,4.0,TOROK B,9 - 9,119,HUN,1:59
+Exclusion with substitution,2.0,2,9,9,ITA,4.0,TOROK B,9 - 9,119,HUN,1:59
+Time-Out,,2,9,9,ITA,4.0,,9 - 9,119,ITA,1:59
+Action shot - Saved,7.0,2,9,9,ITA,4.0,NORA A,9 - 9,93,ITA,1:33
+5m shot - Blocked,3.0,2,9,9,ITA,4.0,GITTO N,9 - 9,40,ITA,0:40
+Turnover foul,4.0,2,9,9,ITA,4.0,ZALANKI G,9 - 9,20,HUN,0:20
+Steal,4.0,2,9,9,ITA,4.0,FIGLIOLI P,9 - 9,20,ITA,0:20
+Double exclusion,10.0,2,9,9,ITA,4.0,VARGA D,9 - 9,3,HUN,0:03
+Double exclusion,2.0,2,9,9,ITA,4.0,di FULVIO F,9 - 9,3,ITA,0:03
+Starting goalkeeper,13.0,3,0,0,FRA,1.0,FONTANI H,0 - 0,480,FRA,8:00
+Starting goalkeeper,1.0,3,0,0,FRA,1.0,NAGY V,0 - 0,480,HUN,8:00
+Sprint won possession,9.0,3,0,0,FRA,1.0,ERDELYI B,0 - 0,480,HUN,8:00
+5m shot - Blocked,9.0,3,0,0,FRA,1.0,MARZOUKI M,0 - 0,427,FRA,7:07
+Action shot - Goal,5.0,3,1,0,FRA,1.0,VAMOS M,0 - 1,417,HUN,6:57
+Turnover foul,9.0,3,1,0,FRA,1.0,MARZOUKI M,0 - 1,402,FRA,6:42
+Steal,5.0,3,1,0,FRA,1.0,VAMOS M,0 - 1,402,HUN,6:42
+20 sec. exclusion in centre,4.0,3,1,0,FRA,1.0,PIOT L,0 - 1,386,FRA,6:26
+Extra player shot - Goal,9.0,3,2,0,FRA,1.0,ERDELYI B,0 - 2,371,HUN,6:11
+5m shot - Saved,7.0,3,2,0,FRA,1.0,CROUSILLAT U,0 - 2,348,FRA,5:48
+20 sec. exclusion in centre,2.0,3,2,0,FRA,1.0,SAUDADIER R,0 - 2,320,FRA,5:20
+Extra player shot - Goal,10.0,3,3,0,FRA,1.0,VARGA D,0 - 3,314,HUN,5:14
+20 sec. exclusion in centre,2.0,3,3,0,FRA,1.0,TOROK B,0 - 3,296,HUN,4:56
+Turnover foul,6.0,3,3,0,FRA,1.0,SIMON T,0 - 3,274,FRA,4:34
+Steal,5.0,3,3,0,FRA,1.0,VAMOS M,0 - 3,274,HUN,4:34
+5m shot - Goal,5.0,3,4,0,FRA,1.0,VAMOS M,0 - 4,249,HUN,4:09
+Time-Out,,3,4,0,FRA,1.0,,0 - 4,249,FRA,4:09
+Action shot - Missed,12.0,3,4,0,FRA,1.0,CAMARASA A,0 - 4,237,FRA,3:57
+Action shot - Goal,4.0,3,5,0,FRA,1.0,ZALANKI G,0 - 5,219,HUN,3:39
+Goalkeeper substitution,1.0,3,5,0,FRA,1.0,GARSAU R,0 - 5,219,FRA,3:39
+Turnover foul,2.0,3,5,0,FRA,1.0,SAUDADIER R,0 - 5,195,FRA,3:15
+Steal,9.0,3,5,0,FRA,1.0,ERDELYI B,0 - 5,195,HUN,3:15
+20 sec. exclusion in centre,8.0,3,5,0,FRA,1.0,IZDINSKY M,0 - 5,167,FRA,2:47
+Extra player shot - Goal,4.0,3,6,0,FRA,1.0,ZALANKI G,0 - 6,151,HUN,2:31
+Action shot - Blocked,8.0,3,6,0,FRA,1.0,IZDINSKY M,0 - 6,124,FRA,2:04
+20 sec. exclusion in centre,6.0,3,6,0,FRA,1.0,HOSNYANSZKY N,0 - 6,105,HUN,1:45
+Action shot - Goal,8.0,3,6,1,FRA,1.0,IZDINSKY M,1 - 6,84,FRA,1:24
+Turnover foul,7.0,3,6,1,FRA,1.0,DECKER A,1 - 6,62,HUN,1:02
+Steal,3.0,3,6,1,FRA,1.0,KOVACEVIC I,1 - 6,62,FRA,1:02
+Turnover foul,10.0,3,6,1,FRA,1.0,LAVERSANNE M,1 - 6,35,FRA,0:35
+Turnover foul,4.0,3,6,1,FRA,1.0,ZALANKI G,1 - 6,32,HUN,0:32
+20 sec. exclusion in centre,9.0,3,6,1,FRA,1.0,ERDELYI B,1 - 6,24,HUN,0:24
+Extra player shot - Missed,11.0,3,6,1,FRA,1.0,PEISSON M,1 - 6,21,FRA,0:21
+Time-Out,,3,6,1,FRA,1.0,,1 - 6,21,HUN,0:21
+Starting goalkeeper,1.0,3,6,1,FRA,2.0,GARSAU R,1 - 6,480,FRA,8:00
+Starting goalkeeper,1.0,3,6,1,FRA,2.0,NAGY V,1 - 6,480,HUN,8:00
+Sprint won possession,3.0,3,6,1,FRA,2.0,MANHERCZ K,1 - 6,480,HUN,8:00
+20 sec. exclusion in centre,9.0,3,6,1,FRA,2.0,MARZOUKI M,1 - 6,460,FRA,7:40
+Action shot - Missed,5.0,3,6,1,FRA,2.0,VAMOS M,1 - 6,436,HUN,7:16
+Turnover foul,11.0,3,6,1,FRA,2.0,PEISSON M,1 - 6,414,FRA,6:54
+Turnover foul,11.0,3,6,1,FRA,2.0,MEZEI T,1 - 6,392,HUN,6:32
+Steal,11.0,3,6,1,FRA,2.0,PEISSON M,1 - 6,392,FRA,6:32
+Action shot - Blocked,4.0,3,6,1,FRA,2.0,PIOT L,1 - 6,366,FRA,6:06
+Action shot - Saved,3.0,3,6,1,FRA,2.0,MANHERCZ K,1 - 6,355,HUN,5:55
+20 sec. exclusion in centre,4.0,3,6,1,FRA,2.0,PIOT L,1 - 6,335,FRA,5:35
+Extra player shot - Goal,3.0,3,7,1,FRA,2.0,MANHERCZ K,1 - 7,324,HUN,5:24
+20 sec. exclusion in centre,7.0,3,7,1,FRA,2.0,DECKER A,1 - 7,301,HUN,5:01
+Extra player shot - Goal,12.0,3,7,2,FRA,2.0,CAMARASA A,2 - 7,283,FRA,4:43
+Action shot - Saved,10.0,3,7,2,FRA,2.0,VARGA D,2 - 7,252,HUN,4:12
+Penalty foul,5.0,3,7,2,FRA,2.0,VAMOS M,2 - 7,225,HUN,3:45
+Penalty shot - Goal,9.0,3,7,3,FRA,2.0,MARZOUKI M,3 - 7,225,FRA,3:45
+Turnover foul,11.0,3,7,3,FRA,2.0,MEZEI T,3 - 7,208,HUN,3:28
+Steal,10.0,3,7,3,FRA,2.0,LAVERSANNE M,3 - 7,208,FRA,3:28
+Centre shot - Saved,2.0,3,7,3,FRA,2.0,SAUDADIER R,3 - 7,190,FRA,3:10
+20 sec. exclusion in centre,6.0,3,7,3,FRA,2.0,SIMON T,3 - 7,168,FRA,2:48
+Extra player shot - Goal,5.0,3,8,3,FRA,2.0,VAMOS M,3 - 8,157,HUN,2:37
+5m shot - Blocked,7.0,3,8,3,FRA,2.0,CROUSILLAT U,3 - 8,129,FRA,2:09
+Turnover foul,9.0,3,8,3,FRA,2.0,MARZOUKI M,3 - 8,106,FRA,1:46
+Steal,3.0,3,8,3,FRA,2.0,MANHERCZ K,3 - 8,106,HUN,1:46
+Turnover foul,11.0,3,8,3,FRA,2.0,MEZEI T,3 - 8,84,HUN,1:24
+Steal,5.0,3,8,3,FRA,2.0,GUILLAUME D,3 - 8,84,FRA,1:24
+Steal,6.0,3,8,3,FRA,4.0,HOSNYANSZKY N,3 - 8,262,HUN,4:22
+5m shot - Blocked,6.0,3,8,3,FRA,4.0,HOSNYANSZKY N,3 - 8,239,HUN,3:59
+Action shot - Saved,6.0,3,8,3,FRA,4.0,SIMON T,3 - 8,210,FRA,3:30
+Turnover foul,11.0,3,8,3,FRA,4.0,MEZEI T,3 - 8,182,HUN,3:02
+Steal,2.0,3,8,3,FRA,4.0,SAUDADIER R,3 - 8,182,FRA,3:02
+5m shot - Saved,6.0,3,8,3,FRA,4.0,SIMON T,3 - 8,153,FRA,2:33
+20 sec. exclusion in centre,3.0,3,8,3,FRA,4.0,KOVACEVIC I,3 - 8,132,FRA,2:12
+Extra player shot - Saved,3.0,3,8,3,FRA,4.0,MANHERCZ K,3 - 8,114,HUN,1:54
+Turnover foul,10.0,3,8,3,FRA,2.0,LAVERSANNE M,3 - 8,62,FRA,1:02
+Centre shot - Saved,11.0,3,8,3,FRA,2.0,MEZEI T,3 - 8,35,HUN,0:35
+Time-Out,,3,8,3,FRA,2.0,,3 - 8,34,FRA,0:34
+5m shot - Goal,9.0,3,8,4,FRA,2.0,MARZOUKI M,4 - 8,10,FRA,0:10
+Time-Out,,3,8,4,FRA,2.0,,4 - 8,10,HUN,0:10
+Action shot - Saved,5.0,3,8,4,FRA,2.0,VAMOS M,4 - 8,1,HUN,0:01
+Starting goalkeeper,13.0,3,8,4,FRA,3.0,FONTANI H,4 - 8,480,FRA,8:00
+Starting goalkeeper,13.0,3,8,4,FRA,3.0,DECKER A,4 - 8,480,HUN,8:00
+Sprint won possession,4.0,3,8,4,FRA,3.0,ZALANKI G,4 - 8,480,HUN,8:00
+20 sec. exclusion in centre,6.0,3,8,4,FRA,3.0,SIMON T,4 - 8,462,FRA,7:42
+20 sec. exclusion in centre,5.0,3,8,4,FRA,3.0,GUILLAUME D,4 - 8,457,FRA,7:37
+Extra player shot - Goal,6.0,3,9,4,FRA,3.0,HOSNYANSZKY N,4 - 9,447,HUN,7:27
+5m shot - Missed,3.0,3,9,4,FRA,3.0,KOVACEVIC I,4 - 9,422,FRA,7:02
+20 sec. exclusion in centre,2.0,3,9,4,FRA,3.0,SAUDADIER R,4 - 9,406,FRA,6:46
+Time-Out,,3,9,4,FRA,3.0,,4 - 9,405,HUN,6:45
+Goalkeeper substitution,1.0,3,9,4,FRA,3.0,GARSAU R,4 - 9,404,FRA,6:44
+Turnover foul,9.0,3,9,4,FRA,3.0,ERDELYI B,4 - 9,385,HUN,6:25
+Steal,7.0,3,9,4,FRA,3.0,CROUSILLAT U,4 - 9,385,FRA,6:25
+Turnover foul,12.0,3,9,4,FRA,3.0,CAMARASA A,4 - 9,363,FRA,6:03
+5m shot - Missed,10.0,3,9,4,FRA,3.0,VARGA D,4 - 9,344,HUN,5:44
+Turnover foul,1.0,3,9,4,FRA,3.0,GARSAU R,4 - 9,331,FRA,5:31
+Steal,10.0,3,9,4,FRA,3.0,VARGA D,4 - 9,331,HUN,5:31
+Counter attack - Goal,10.0,3,10,4,FRA,3.0,VARGA D,4 - 10,324,HUN,5:24
+5m shot - Missed,7.0,3,10,4,FRA,3.0,CROUSILLAT U,4 - 10,321,FRA,5:21
+20 sec. exclusion in centre,11.0,3,10,4,FRA,3.0,PEISSON M,4 - 10,277,FRA,4:37
+Extra player shot - Saved,9.0,3,10,4,FRA,3.0,ERDELYI B,4 - 10,271,HUN,4:31
+Extra player shot - Goal,8.0,3,11,4,FRA,3.0,GOR-NAGY M,4 - 11,265,HUN,4:25
+20 sec. exclusion in centre,8.0,3,11,4,FRA,3.0,GOR-NAGY M,4 - 11,239,HUN,3:59
+Time-Out,,3,11,4,FRA,3.0,,4 - 11,239,FRA,3:59
+Action shot - Saved,6.0,3,11,4,FRA,3.0,SIMON T,4 - 11,217,FRA,3:37
+Action shot - Saved,5.0,3,11,4,FRA,3.0,VAMOS M,4 - 11,198,HUN,3:18
+5m shot - Saved,9.0,3,11,4,FRA,3.0,MARZOUKI M,4 - 11,174,FRA,2:54
+Turnover foul,2.0,3,11,4,FRA,3.0,TOROK B,4 - 11,172,HUN,2:52
+20 sec. exclusion in centre,2.0,3,11,4,FRA,3.0,TOROK B,4 - 11,159,HUN,2:39
+Turnover foul,3.0,3,11,4,FRA,3.0,KOVACEVIC I,4 - 11,139,FRA,2:19
+5m shot - Post,3.0,3,11,4,FRA,3.0,MANHERCZ K,4 - 11,113,HUN,1:53
+Centre shot - Saved,7.0,3,11,4,FRA,3.0,DECKER A,4 - 11,108,HUN,1:48
+5m shot - Post,3.0,3,11,4,FRA,3.0,MANHERCZ K,4 - 11,80,HUN,1:20
+Turnover foul,12.0,3,11,4,FRA,3.0,CAMARASA A,4 - 11,65,FRA,1:05
+Steal,3.0,3,11,4,FRA,3.0,MANHERCZ K,4 - 11,65,HUN,1:05
+Action shot - Saved,9.0,3,11,4,FRA,3.0,ERDELYI B,4 - 11,50,HUN,0:50
+20 sec. exclusion in centre,7.0,3,11,4,FRA,3.0,DECKER A,4 - 11,22,HUN,0:22
+Extra player shot - Goal,12.0,3,11,5,FRA,3.0,CAMARASA A,5 - 11,5,FRA,0:05
+5m shot - Saved,5.0,3,11,5,FRA,3.0,VAMOS M,5 - 11,1,HUN,0:01
+Starting goalkeeper,1.0,3,11,5,FRA,4.0,GARSAU R,5 - 11,480,FRA,8:00
+Starting goalkeeper,13.0,3,11,5,FRA,4.0,DECKER A,5 - 11,480,HUN,8:00
+Sprint won possession,4.0,3,11,5,FRA,4.0,ZALANKI G,5 - 11,480,HUN,8:00
+5m shot - Missed,4.0,3,11,5,FRA,4.0,ZALANKI G,5 - 11,452,HUN,7:32
+5m shot - Saved,3.0,3,11,5,FRA,4.0,KOVACEVIC I,5 - 11,426,FRA,7:06
+Turnover foul,4.0,3,11,5,FRA,4.0,ZALANKI G,5 - 11,425,HUN,7:05
+Action shot - Goal,9.0,3,11,6,FRA,4.0,MARZOUKI M,6 - 11,402,FRA,6:42
+20 sec. exclusion in field,12.0,3,11,6,FRA,4.0,CAMARASA A,6 - 11,383,FRA,6:23
+Exclusion with substitution,11.0,3,11,6,FRA,4.0,PEISSON M,6 - 11,366,FRA,6:06
+Extra player shot - Goal,5.0,3,12,6,FRA,4.0,VAMOS M,6 - 12,359,HUN,5:59
+Action shot - Saved,8.0,3,12,6,FRA,4.0,IZDINSKY M,6 - 12,336,FRA,5:36
+Centre shot - Saved,12.0,3,12,6,FRA,4.0,CAMARASA A,6 - 12,315,FRA,5:15
+Double exclusion,12.0,3,12,6,FRA,4.0,CAMARASA A,6 - 12,312,FRA,5:12
+Double exclusion,7.0,3,12,6,FRA,4.0,DECKER A,6 - 12,312,HUN,5:12
+Exclusion with substitution,7.0,3,12,6,FRA,4.0,DECKER A,6 - 12,312,HUN,5:12
+Action shot - Goal,10.0,3,13,6,FRA,4.0,VARGA D,6 - 13,288,HUN,4:48
+Turnover foul,9.0,3,13,6,FRA,4.0,MARZOUKI M,6 - 13,262,FRA,4:22
+Turnover foul,3.0,3,13,6,FRA,4.0,KOVACEVIC I,6 - 13,85,FRA,1:25
+20 sec. exclusion in centre,10.0,3,13,6,FRA,4.0,LAVERSANNE M,6 - 13,63,FRA,1:03
+Time-Out,,3,13,6,FRA,4.0,,6 - 13,60,HUN,1:00
+Centre shot - Saved,6.0,3,13,6,FRA,4.0,HOSNYANSZKY N,6 - 13,40,HUN,0:40
+Time-Out,,3,13,6,FRA,4.0,,6 - 13,34,FRA,0:34
+20 sec. exclusion in centre,2.0,3,13,6,FRA,4.0,TOROK B,6 - 13,14,HUN,0:14
+Exclusion with substitution,2.0,3,13,6,FRA,4.0,TOROK B,6 - 13,14,HUN,0:14
+Extra player shot - Goal,9.0,3,13,7,FRA,4.0,MARZOUKI M,7 - 13,1,FRA,0:01
+Starting goalkeeper,1.0,4,0,0,RUS,1.0,NAGY V,0 - 0,480,HUN,8:00
+Starting goalkeeper,13.0,4,0,0,RUS,1.0,STATSENKO V,0 - 0,480,RUS,8:00
+Sprint won possession,12.0,4,0,0,RUS,1.0,SHEPELEV R,0 - 0,480,RUS,8:00
+Turnover foul,11.0,4,0,0,RUS,1.0,LISUNOV S,0 - 0,451,RUS,7:31
+Steal,8.0,4,0,0,RUS,1.0,GOR-NAGY M,0 - 0,451,HUN,7:31
+20 sec. exclusion in centre,3.0,4,0,0,RUS,1.0,VASILYEV E,0 - 0,439,RUS,7:19
+Extra player shot - Goal,6.0,4,1,0,RUS,1.0,HOSNYANSZKY N,1 - 0,421,HUN,7:01
+Action shot - Saved,7.0,4,1,0,RUS,1.0,MERKULOV D,1 - 0,395,RUS,6:35
+20 sec. exclusion in centre,8.0,4,1,0,RUS,1.0,GOR-NAGY M,1 - 0,373,HUN,6:13
+Extra player shot - Blocked,11.0,4,1,0,RUS,1.0,LISUNOV S,1 - 0,358,RUS,5:58
+Action shot - Blocked,9.0,4,1,0,RUS,1.0,ERDELYI B,1 - 0,332,HUN,5:32
+Action shot - Saved,8.0,4,1,0,RUS,1.0,NAGAEV I,1 - 0,312,RUS,5:12
+Turnover foul,7.0,4,1,0,RUS,1.0,MERKULOV D,1 - 0,256,RUS,4:16
+5m shot - Goal,10.0,4,2,0,RUS,1.0,VARGA D,2 - 0,241,HUN,4:01
+Time-Out,,4,2,0,RUS,1.0,,2 - 0,241,RUS,4:01
+20 sec. exclusion in centre,2.0,4,2,0,RUS,1.0,TOROK B,2 - 0,228,HUN,3:48
+Action shot - Missed,8.0,4,2,0,RUS,1.0,NAGAEV I,2 - 0,203,RUS,3:23
+Centre shot - Saved,3.0,4,2,0,RUS,1.0,MANHERCZ K,2 - 0,192,HUN,3:12
+Action shot - Post,12.0,4,2,0,RUS,1.0,SHEPELEV R,2 - 0,166,RUS,2:46
+Action shot - Goal,3.0,4,3,0,RUS,1.0,MANHERCZ K,3 - 0,140,HUN,2:20
+Turnover foul,4.0,4,3,0,RUS,1.0,DEREVIANKIN N,3 - 0,127,RUS,2:07
+5m shot - Goal,6.0,4,4,0,RUS,1.0,HOSNYANSZKY N,4 - 0,106,HUN,1:46
+Action shot - Post,7.0,4,4,0,RUS,1.0,MERKULOV D,4 - 0,79,RUS,1:19
+20 sec. exclusion in centre,2.0,4,4,0,RUS,1.0,LAZAREV N,4 - 0,53,RUS,0:53
+Time-Out,,4,4,0,RUS,1.0,,4 - 0,53,HUN,0:53
+Extra player shot - Goal,5.0,4,5,0,RUS,1.0,VAMOS M,5 - 0,42,HUN,0:42
+20 sec. exclusion in centre,8.0,4,5,0,RUS,1.0,GOR-NAGY M,5 - 0,21,HUN,0:21
+Extra player shot - Saved,4.0,4,5,0,RUS,1.0,DEREVIANKIN N,5 - 0,4,RUS,0:04
+Centre shot - Saved,6.0,4,5,0,RUS,1.0,ASHAEV A,5 - 0,1,RUS,0:01
+Starting goalkeeper,1.0,4,5,0,RUS,2.0,NAGY V,5 - 0,480,HUN,8:00
+Starting goalkeeper,13.0,4,5,0,RUS,2.0,STATSENKO V,5 - 0,480,RUS,8:00
+Sprint won possession,10.0,4,5,0,RUS,2.0,KHOLOD D,5 - 0,480,RUS,8:00
+Turnover foul,11.0,4,5,0,RUS,2.0,LISUNOV S,5 - 0,465,RUS,7:45
+Turnover foul,5.0,4,5,0,RUS,2.0,VAMOS M,5 - 0,439,HUN,7:19
+Turnover foul,11.0,4,5,0,RUS,2.0,MEZEI T,5 - 0,434,HUN,7:14
+Steal,10.0,4,5,0,RUS,2.0,KHOLOD D,5 - 0,434,RUS,7:14
+5m shot - Saved,9.0,4,5,0,RUS,2.0,SUCHKOV I,5 - 0,411,RUS,6:51
+Turnover foul,11.0,4,5,0,RUS,2.0,LISUNOV S,5 - 0,398,RUS,6:38
+Steal,6.0,4,5,0,RUS,2.0,HOSNYANSZKY N,5 - 0,398,HUN,6:38
+5m shot - Goal,10.0,4,6,0,RUS,2.0,VARGA D,6 - 0,374,HUN,6:14
+Goalkeeper substitution,1.0,4,6,0,RUS,2.0,KORNEEV K,6 - 0,374,RUS,6:14
+5m shot - Post,10.0,4,6,0,RUS,2.0,KHOLOD D,6 - 0,349,RUS,5:49
+20 sec. exclusion in centre,2.0,4,6,0,RUS,2.0,TOROK B,6 - 0,330,HUN,5:30
+Extra player shot - Goal,8.0,4,6,1,RUS,2.0,NAGAEV I,6 - 1,317,RUS,5:17
+5m shot - Missed,6.0,4,6,1,RUS,2.0,HOSNYANSZKY N,6 - 1,289,HUN,4:49
+Action shot - Saved,10.0,4,6,1,RUS,2.0,KHOLOD D,6 - 1,263,RUS,4:23
+Turnover foul,4.0,4,6,1,RUS,2.0,DEREVIANKIN N,6 - 1,253,RUS,4:13
+Steal,1.0,4,6,1,RUS,2.0,NAGY V,6 - 1,253,HUN,4:13
+20 sec. exclusion in centre,6.0,4,6,1,RUS,2.0,ASHAEV A,6 - 1,230,RUS,3:50
+Time-Out,,4,6,1,RUS,2.0,,6 - 1,230,HUN,3:50
+Extra player shot - Missed,7.0,4,6,1,RUS,2.0,DECKER A,6 - 1,212,HUN,3:32
+5m shot - Saved,10.0,4,6,1,RUS,2.0,KHOLOD D,6 - 1,189,RUS,3:09
+20 sec. exclusion in centre,7.0,4,6,1,RUS,2.0,DECKER A,6 - 1,180,HUN,3:00
+Time-Out,,4,6,1,RUS,2.0,,6 - 1,180,RUS,3:00
+Extra player shot - Saved,2.0,4,6,1,RUS,2.0,LAZAREV N,6 - 1,161,RUS,2:41
+Turnover foul,4.0,4,6,1,RUS,2.0,DEREVIANKIN N,6 - 1,147,RUS,2:27
+Steal,9.0,4,6,1,RUS,2.0,ERDELYI B,6 - 1,147,HUN,2:27
+5m shot - Goal,5.0,4,7,1,RUS,2.0,VAMOS M,7 - 1,128,HUN,2:08
+5m shot - Saved,8.0,4,7,1,RUS,2.0,NAGAEV I,7 - 1,105,RUS,1:45
+20 sec. exclusion in field,8.0,4,7,1,RUS,2.0,NAGAEV I,7 - 1,88,RUS,1:28
+Extra player shot - Blocked,4.0,4,7,1,RUS,2.0,ZALANKI G,7 - 1,73,HUN,1:13
+Action shot - Saved,3.0,4,7,1,RUS,4.0,VASILYEV E,7 - 1,90,RUS,1:30
+Action shot - Missed,5.0,4,7,1,RUS,4.0,VAMOS M,7 - 1,61,HUN,1:01
+20 sec. exclusion in field,5.0,4,7,1,RUS,4.0,VAMOS M,7 - 1,56,HUN,0:56
+20 sec. exclusion in field,4.0,4,7,1,RUS,2.0,ZALANKI G,7 - 1,69,HUN,1:09
+Action shot - Blocked,5.0,4,7,1,RUS,2.0,BUGAYCHUK A,7 - 1,45,RUS,0:45
+5m shot - Goal,10.0,4,8,1,RUS,2.0,VARGA D,8 - 1,25,HUN,0:25
+5m shot - Saved,10.0,4,8,1,RUS,2.0,KHOLOD D,8 - 1,5,RUS,0:05
+Starting goalkeeper,1.0,4,8,1,RUS,3.0,NAGY V,8 - 1,480,HUN,8:00
+Starting goalkeeper,1.0,4,8,1,RUS,3.0,KORNEEV K,8 - 1,480,RUS,8:00
+Sprint won possession,4.0,4,8,1,RUS,3.0,ZALANKI G,8 - 1,480,HUN,8:00
+20 sec. exclusion in centre,9.0,4,8,1,RUS,3.0,SUCHKOV I,8 - 1,461,RUS,7:41
+Extra player shot - Goal,12.0,4,9,1,RUS,3.0,HARAI B,9 - 1,441,HUN,7:21
+Centre shot - Saved,11.0,4,9,1,RUS,3.0,LISUNOV S,9 - 1,424,RUS,7:04
+20 sec. exclusion in field,8.0,4,9,1,RUS,3.0,NAGAEV I,9 - 1,409,RUS,6:49
+Extra player shot - Goal,3.0,4,10,1,RUS,3.0,MANHERCZ K,10 - 1,396,HUN,6:36
+Turnover foul,11.0,4,10,1,RUS,3.0,LISUNOV S,10 - 1,378,RUS,6:18
+Steal,10.0,4,10,1,RUS,3.0,VARGA D,10 - 1,378,HUN,6:18
+Turnover foul,5.0,4,10,1,RUS,3.0,VAMOS M,10 - 1,375,HUN,6:15
+5m shot - Goal,5.0,4,10,2,RUS,3.0,BUGAYCHUK A,10 - 2,349,RUS,5:49
+Turnover foul,11.0,4,10,2,RUS,3.0,MEZEI T,10 - 2,319,HUN,5:19
+Steal,6.0,4,10,2,RUS,3.0,ASHAEV A,10 - 2,319,RUS,5:19
+Action shot - Saved,2.0,4,10,2,RUS,3.0,LAZAREV N,10 - 2,291,RUS,4:51
+Turnover foul,10.0,4,10,2,RUS,3.0,KHOLOD D,10 - 2,260,RUS,4:20
+Steal,10.0,4,10,2,RUS,3.0,VARGA D,10 - 2,260,HUN,4:20
+Action shot - Post,10.0,4,10,2,RUS,3.0,VARGA D,10 - 2,243,HUN,4:03
+20 sec. exclusion in centre,8.0,4,10,2,RUS,3.0,GOR-NAGY M,10 - 2,224,HUN,3:44
+Exclusion with substitution,8.0,4,10,2,RUS,3.0,GOR-NAGY M,10 - 2,224,HUN,3:44
+Time-Out,,4,10,2,RUS,3.0,,10 - 2,222,RUS,3:42
+Extra player shot - Goal,5.0,4,10,3,RUS,3.0,BUGAYCHUK A,10 - 3,205,RUS,3:25
+Action shot - Blocked,9.0,4,10,3,RUS,3.0,ERDELYI B,10 - 3,180,HUN,3:00
+Turnover foul,10.0,4,10,3,RUS,3.0,KHOLOD D,10 - 3,155,RUS,2:35
+Steal,1.0,4,10,3,RUS,3.0,NAGY V,10 - 3,155,HUN,2:35
+Centre shot - Saved,12.0,4,10,3,RUS,3.0,HARAI B,10 - 3,130,HUN,2:10
+20 sec. exclusion in centre,4.0,4,10,3,RUS,3.0,ZALANKI G,10 - 3,107,HUN,1:47
+Action shot - Goal,4.0,4,10,4,RUS,3.0,DEREVIANKIN N,10 - 4,85,RUS,1:25
+20 sec. exclusion in centre,9.0,4,10,4,RUS,3.0,SUCHKOV I,10 - 4,70,RUS,1:10
+Extra player shot - Goal,6.0,4,11,4,RUS,3.0,HOSNYANSZKY N,11 - 4,63,HUN,1:03
+Turnover foul,4.0,4,11,4,RUS,3.0,DEREVIANKIN N,11 - 4,41,RUS,0:41
+Action shot - Saved,6.0,4,11,4,RUS,3.0,HOSNYANSZKY N,11 - 4,16,HUN,0:16
+5m shot - Saved,7.0,4,11,4,RUS,3.0,MERKULOV D,11 - 4,1,RUS,0:01
+Starting goalkeeper,1.0,4,11,4,RUS,4.0,NAGY V,11 - 4,480,HUN,8:00
+Starting goalkeeper,1.0,4,11,4,RUS,4.0,KORNEEV K,11 - 4,480,RUS,8:00
+Sprint won possession,12.0,4,11,4,RUS,4.0,SHEPELEV R,11 - 4,480,RUS,8:00
+5m shot - Missed,10.0,4,11,4,RUS,4.0,KHOLOD D,11 - 4,453,RUS,7:33
+5m shot - Post,5.0,4,11,4,RUS,4.0,VAMOS M,11 - 4,442,HUN,7:22
+Action shot - Blocked,8.0,4,11,4,RUS,4.0,NAGAEV I,11 - 4,416,RUS,6:56
+Centre shot - Saved,2.0,4,11,4,RUS,4.0,TOROK B,11 - 4,393,HUN,6:33
+20 sec. exclusion in centre,3.0,4,11,4,RUS,4.0,VASILYEV E,11 - 4,371,RUS,6:11
+Extra player shot - Goal,10.0,4,12,4,RUS,4.0,VARGA D,12 - 4,360,HUN,6:00
+20 sec. exclusion in centre,7.0,4,12,4,RUS,4.0,DECKER A,12 - 4,340,HUN,5:40
+Extra player shot - Goal,11.0,4,12,5,RUS,4.0,LISUNOV S,12 - 5,328,RUS,5:28
+20 sec. exclusion in centre,7.0,4,12,5,RUS,4.0,MERKULOV D,12 - 5,309,RUS,5:09
+Extra player shot - Goal,3.0,4,13,5,RUS,4.0,MANHERCZ K,13 - 5,303,HUN,5:03
+5m shot - Saved,12.0,4,13,5,RUS,4.0,SHEPELEV R,13 - 5,277,RUS,4:37
+Action shot - Saved,4.0,4,13,5,RUS,4.0,ZALANKI G,13 - 5,249,HUN,4:09
+Action shot - Missed,2.0,4,13,5,RUS,4.0,LAZAREV N,13 - 5,225,RUS,3:45
+Centre shot - Saved,7.0,4,13,5,RUS,4.0,DECKER A,13 - 5,199,HUN,3:19
+20 sec. exclusion in field,4.0,4,13,5,RUS,4.0,ZALANKI G,13 - 5,185,HUN,3:05
+Exclusion with substitution,4.0,4,13,5,RUS,4.0,ZALANKI G,13 - 5,185,HUN,3:05
+Time-Out,,4,13,5,RUS,4.0,,13 - 5,185,RUS,3:05
+5m shot - Post,8.0,4,13,5,RUS,4.0,NAGAEV I,13 - 5,160,RUS,2:40
+5m shot - Goal,6.0,4,14,5,RUS,4.0,HOSNYANSZKY N,14 - 5,142,HUN,2:22
+20 sec. exclusion in centre,2.0,4,14,5,RUS,4.0,TOROK B,14 - 5,116,HUN,1:56
+Exclusion with substitution,2.0,4,14,5,RUS,4.0,TOROK B,14 - 5,116,HUN,1:56
+Extra player shot - Missed,4.0,4,14,5,RUS,4.0,DEREVIANKIN N,14 - 5,49,RUS,0:49
+Action shot - Saved,3.0,4,14,5,RUS,4.0,MANHERCZ K,14 - 5,36,HUN,0:36
+5m shot - Saved,2.0,4,14,5,RUS,4.0,LAZAREV N,14 - 5,7,RUS,0:07
+Starting goalkeeper,1.0,5,0,0,GRE,1.0,FLEGKAS K,0 - 0,480,GRE,8:00
+Starting goalkeeper,1.0,5,0,0,GRE,1.0,NAGY V,0 - 0,480,HUN,8:00
+Sprint won possession,9.0,5,0,0,GRE,1.0,ERDELYI B,0 - 0,480,HUN,8:00
+20 sec. exclusion in centre,3.0,5,0,0,GRE,1.0,DELAKAS E,0 - 0,453,GRE,7:33
+Extra player shot - Blocked,6.0,5,0,0,GRE,1.0,HOSNYANSZKY N,0 - 0,435,HUN,7:15
+Turnover foul,5.0,5,0,0,GRE,1.0,FOUNTOULIS I,0 - 0,413,GRE,6:53
+Steal,5.0,5,0,0,GRE,1.0,VAMOS M,0 - 0,413,HUN,6:53
+Turnover foul,12.0,5,0,0,GRE,1.0,HARAI B,0 - 0,384,HUN,6:24
+Steal,7.0,5,0,0,GRE,1.0,PONTIKEAS K,0 - 0,384,GRE,6:24
+Action shot - Goal,2.0,5,0,1,GRE,1.0,GENIDOUNIAS K,1 - 0,358,GRE,5:58
+20 sec. exclusion in centre,7.0,5,0,1,GRE,1.0,PONTIKEAS K,1 - 0,334,GRE,5:34
+Extra player shot - Goal,9.0,5,1,1,GRE,1.0,ERDELYI B,1 - 1,322,HUN,5:22
+Turnover foul,10.0,5,1,1,GRE,1.0,KOLOMVOS C,1 - 1,297,GRE,4:57
+Steal,1.0,5,1,1,GRE,1.0,NAGY V,1 - 1,297,HUN,4:57
+Action shot - Post,4.0,5,1,1,GRE,1.0,ZALANKI G,1 - 1,272,HUN,4:32
+20 sec. exclusion in centre,4.0,5,1,1,GRE,1.0,ZALANKI G,1 - 1,251,HUN,4:11
+Turnover foul,10.0,5,1,1,GRE,1.0,KOLOMVOS C,1 - 1,230,GRE,3:50
+Steal,1.0,5,1,1,GRE,1.0,NAGY V,1 - 1,230,HUN,3:50
+Action shot - Missed,4.0,5,1,1,GRE,1.0,ZALANKI G,1 - 1,201,HUN,3:21
+Time-Out,,5,1,1,GRE,1.0,,1 - 1,200,GRE,3:20
+Turnover foul,12.0,5,1,1,GRE,1.0,VLACHOPOULOS A,1 - 1,192,GRE,3:12
+Steal,3.0,5,1,1,GRE,1.0,MANHERCZ K,1 - 1,192,HUN,3:12
+Action shot - Missed,4.0,5,1,1,GRE,1.0,ZALANKI G,1 - 1,161,HUN,2:41
+20 sec. exclusion in field,11.0,5,1,1,GRE,1.0,MEZEI T,1 - 1,161,HUN,2:41
+Turnover foul,11.0,5,1,1,GRE,1.0,GOUNAS A,1 - 1,137,GRE,2:17
+Steal,12.0,5,1,1,GRE,1.0,HARAI B,1 - 1,137,HUN,2:17
+5m shot - Goal,6.0,5,2,1,GRE,1.0,HOSNYANSZKY N,1 - 2,110,HUN,1:50
+Action shot - Saved,6.0,5,2,1,GRE,1.0,KAPOTSIS M,1 - 2,84,GRE,1:24
+Action shot - Saved,3.0,5,2,1,GRE,1.0,MANHERCZ K,1 - 2,55,HUN,0:55
+Turnover foul,1.0,5,2,1,GRE,1.0,FLEGKAS K,1 - 2,44,GRE,0:44
+Steal,6.0,5,2,1,GRE,1.0,HOSNYANSZKY N,1 - 2,44,HUN,0:44
+20 sec. exclusion in centre,4.0,5,2,1,GRE,1.0,DERVISIS G,1 - 2,26,GRE,0:26
+Time-Out,,5,2,1,GRE,1.0,,1 - 2,26,HUN,0:26
+Extra player shot - Blocked,3.0,5,2,1,GRE,1.0,MANHERCZ K,1 - 2,9,HUN,0:09
+5m shot - Missed,3.0,5,2,1,GRE,1.0,MANHERCZ K,1 - 2,9,HUN,0:09
+5m shot - Saved,2.0,5,2,1,GRE,1.0,GENIDOUNIAS K,1 - 2,1,GRE,0:01
+Starting goalkeeper,1.0,5,2,1,GRE,2.0,FLEGKAS K,1 - 2,480,GRE,8:00
+Starting goalkeeper,1.0,5,2,1,GRE,2.0,NAGY V,1 - 2,480,HUN,8:00
+Sprint won possession,9.0,5,2,1,GRE,2.0,ERDELYI B,1 - 2,480,HUN,8:00
+Turnover foul,11.0,5,2,1,GRE,2.0,MEZEI T,1 - 2,455,HUN,7:35
+20 sec. exclusion in centre,8.0,5,2,1,GRE,2.0,GOR-NAGY M,1 - 2,443,HUN,7:23
+Extra player shot - Goal,5.0,5,2,2,GRE,2.0,FOUNTOULIS I,2 - 2,425,GRE,7:05
+20 sec. exclusion in centre,7.0,5,2,2,GRE,2.0,PONTIKEAS K,2 - 2,409,GRE,6:49
+Extra player shot - Saved,9.0,5,2,2,GRE,2.0,ERDELYI B,2 - 2,392,HUN,6:32
+5m shot - Missed,2.0,5,2,2,GRE,2.0,GENIDOUNIAS K,2 - 2,365,GRE,6:05
+20 sec. exclusion in centre,9.0,5,2,2,GRE,2.0,MOURIKIS K,2 - 2,346,GRE,5:46
+Extra player shot - Saved,2.0,5,2,2,GRE,2.0,TOROK B,2 - 2,333,HUN,5:33
+5m shot - Goal,5.0,5,3,2,GRE,2.0,VAMOS M,2 - 3,318,HUN,5:18
+20 sec. exclusion in field,10.0,5,3,2,GRE,2.0,VARGA D,2 - 3,303,HUN,5:03
+20 sec. exclusion in field,6.0,5,3,2,GRE,2.0,HOSNYANSZKY N,2 - 3,300,HUN,5:00
+Extra player shot - Goal,2.0,5,3,3,GRE,2.0,GENIDOUNIAS K,3 - 3,281,GRE,4:41
+Action shot - Missed,3.0,5,3,3,GRE,2.0,MANHERCZ K,3 - 3,251,HUN,4:11
+5m shot - Goal,2.0,5,3,4,GRE,2.0,GENIDOUNIAS K,4 - 3,222,GRE,3:42
+Action shot - Missed,9.0,5,3,4,GRE,2.0,ERDELYI B,4 - 3,194,HUN,3:14
+Turnover foul,9.0,5,3,4,GRE,2.0,MOURIKIS K,4 - 3,171,GRE,2:51
+5m shot - Post,10.0,5,3,4,GRE,2.0,VARGA D,4 - 3,156,HUN,2:36
+Double exclusion,4.0,5,3,4,GRE,2.0,ZALANKI G,4 - 3,139,HUN,2:19
+Double exclusion,11.0,5,3,4,GRE,2.0,GOUNAS A,4 - 3,139,GRE,2:19
+5m shot - Blocked,12.0,5,3,4,GRE,2.0,VLACHOPOULOS A,4 - 3,126,GRE,2:06
+Action shot - Missed,6.0,5,3,4,GRE,2.0,HOSNYANSZKY N,4 - 3,107,HUN,1:47
+Time-Out,,5,3,4,GRE,2.0,,4 - 3,107,GRE,1:47
+Steal,4.0,5,3,4,GRE,4.0,ZALANKI G,4 - 3,94,HUN,1:34
+Turnover foul,9.0,5,3,4,GRE,4.0,ERDELYI B,4 - 3,60,HUN,1:00
+Steal,5.0,5,3,4,GRE,4.0,FOUNTOULIS I,4 - 3,60,GRE,1:00
+Action shot - Saved,5.0,5,3,4,GRE,4.0,VAMOS M,4 - 3,53,HUN,0:53
+Time-Out,,5,3,4,GRE,4.0,,4 - 3,51,GRE,0:51
+Action shot - Saved,2.0,5,3,4,GRE,4.0,GENIDOUNIAS K,4 - 3,39,GRE,0:39
+Turnover foul,11.0,5,3,4,GRE,2.0,GOUNAS A,4 - 3,88,GRE,1:28
+Action shot - Goal,8.0,5,4,4,GRE,2.0,GOR-NAGY M,4 - 4,71,HUN,1:11
+20 sec. exclusion in centre,8.0,5,4,4,GRE,2.0,GOR-NAGY M,4 - 4,46,HUN,0:46
+Action shot - Missed,11.0,5,4,4,GRE,2.0,GOUNAS A,4 - 4,25,GRE,0:25
+Time-Out,,5,4,4,GRE,2.0,,4 - 4,25,HUN,0:25
+Centre shot - Goal,12.0,5,5,4,GRE,2.0,HARAI B,4 - 5,5,HUN,0:05
+5m shot - Missed,5.0,5,5,4,GRE,2.0,FOUNTOULIS I,4 - 5,1,GRE,0:01
+Starting goalkeeper,1.0,5,5,4,GRE,3.0,FLEGKAS K,4 - 5,480,GRE,8:00
+Starting goalkeeper,1.0,5,5,4,GRE,3.0,NAGY V,4 - 5,480,HUN,8:00
+Sprint won possession,3.0,5,5,4,GRE,3.0,MANHERCZ K,4 - 5,480,HUN,8:00
+5m shot - Missed,10.0,5,5,4,GRE,3.0,VARGA D,4 - 5,451,HUN,7:31
+5m shot - Saved,11.0,5,5,4,GRE,3.0,GOUNAS A,4 - 5,423,GRE,7:03
+Turnover foul,5.0,5,5,4,GRE,3.0,VAMOS M,4 - 5,403,HUN,6:43
+5m shot - Post,5.0,5,5,4,GRE,3.0,FOUNTOULIS I,4 - 5,374,GRE,6:14
+20 sec. exclusion in field,5.0,5,5,4,GRE,3.0,FOUNTOULIS I,4 - 5,350,GRE,5:50
+Time-Out,,5,5,4,GRE,3.0,,4 - 5,349,HUN,5:49
+Action shot - Goal,5.0,5,6,4,GRE,3.0,VAMOS M,4 - 6,329,HUN,5:29
+Action shot - Post,12.0,5,6,4,GRE,3.0,VLACHOPOULOS A,4 - 6,305,GRE,5:05
+5m shot - Missed,2.0,5,6,4,GRE,3.0,TOROK B,4 - 6,278,HUN,4:38
+Centre shot - Saved,9.0,5,6,4,GRE,3.0,MOURIKIS K,4 - 6,250,GRE,4:10
+5m shot - Post,2.0,5,6,4,GRE,3.0,GENIDOUNIAS K,4 - 6,221,GRE,3:41
+20 sec. exclusion in centre,3.0,5,6,4,GRE,3.0,DELAKAS E,4 - 6,203,GRE,3:23
+Action shot - Saved,4.0,5,6,4,GRE,3.0,ZALANKI G,4 - 6,178,HUN,2:58
+5m shot - Saved,2.0,5,6,4,GRE,3.0,TOROK B,4 - 6,147,HUN,2:27
+5m shot - Saved,10.0,5,6,4,GRE,3.0,VARGA D,4 - 6,129,HUN,2:09
+20 sec. exclusion in centre,2.0,5,6,4,GRE,3.0,TOROK B,4 - 6,102,HUN,1:42
+Time-Out,,5,6,4,GRE,3.0,,4 - 6,102,GRE,1:42
+Action shot - Post,11.0,5,6,4,GRE,3.0,GOUNAS A,4 - 6,84,GRE,1:24
+20 sec. exclusion in centre,4.0,5,6,4,GRE,3.0,DERVISIS G,4 - 6,56,GRE,0:56
+Action shot - Saved,9.0,5,6,4,GRE,3.0,ERDELYI B,4 - 6,30,HUN,0:30
+Action shot - Saved,2.0,5,6,4,GRE,3.0,GENIDOUNIAS K,4 - 6,2,GRE,0:02
+Starting goalkeeper,1.0,5,6,4,GRE,4.0,FLEGKAS K,4 - 6,480,GRE,8:00
+Starting goalkeeper,1.0,5,6,4,GRE,4.0,NAGY V,4 - 6,480,HUN,8:00
+Sprint won possession,2.0,5,6,4,GRE,4.0,GENIDOUNIAS K,4 - 6,480,GRE,8:00
+Double exclusion,5.0,5,6,4,GRE,4.0,VAMOS M,4 - 6,463,HUN,7:43
+Double exclusion,5.0,5,6,4,GRE,4.0,FOUNTOULIS I,4 - 6,463,GRE,7:43
+Turnover foul,12.0,5,6,4,GRE,4.0,VLACHOPOULOS A,4 - 6,454,GRE,7:34
+Steal,3.0,5,6,4,GRE,4.0,MANHERCZ K,4 - 6,454,HUN,7:34
+5m shot - Goal,6.0,5,7,4,GRE,4.0,HOSNYANSZKY N,4 - 7,426,HUN,7:06
+5m shot - Saved,12.0,5,7,4,GRE,4.0,VLACHOPOULOS A,4 - 7,397,GRE,6:37
+5m shot - Saved,5.0,5,7,4,GRE,4.0,FOUNTOULIS I,4 - 7,339,GRE,5:39
+Turnover foul,9.0,5,7,4,GRE,4.0,MOURIKIS K,4 - 7,333,GRE,5:33
+Turnover foul,5.0,5,7,4,GRE,4.0,VAMOS M,4 - 7,327,HUN,5:27
+5m shot - Saved,11.0,5,7,4,GRE,4.0,GOUNAS A,4 - 7,309,GRE,5:09
+20 sec. exclusion in field,6.0,5,7,4,GRE,4.0,HOSNYANSZKY N,4 - 7,308,HUN,5:08
+20 sec. exclusion in field,10.0,5,7,4,GRE,4.0,VARGA D,4 - 7,292,HUN,4:52
+Action shot - Saved,5.0,5,7,4,GRE,4.0,FOUNTOULIS I,4 - 7,285,GRE,4:45
+5m shot - Blocked,4.0,5,7,4,GRE,4.0,ZALANKI G,4 - 7,260,HUN,4:20
+Action shot - Blocked,5.0,5,7,4,GRE,4.0,FOUNTOULIS I,4 - 7,230,GRE,3:50
+Time-Out,,5,7,4,GRE,4.0,,4 - 7,230,HUN,3:50
+Turnover foul,12.0,5,7,4,GRE,4.0,HARAI B,4 - 7,206,HUN,3:26
+Steal,5.0,5,7,4,GRE,4.0,FOUNTOULIS I,4 - 7,206,GRE,3:26
+20 sec. exclusion in centre,7.0,5,7,4,GRE,4.0,DECKER A,4 - 7,188,HUN,3:08
+Yellow card,,5,7,4,GRE,4.0,Team Official,4 - 7,188,HUN,3:08
+Action shot - Post,2.0,5,7,4,GRE,4.0,GENIDOUNIAS K,4 - 7,159,GRE,2:39
+Action shot - Missed,5.0,5,7,4,GRE,4.0,VAMOS M,4 - 7,152,HUN,2:32
+Turnover foul,12.0,5,7,4,GRE,4.0,VLACHOPOULOS A,4 - 7,143,GRE,2:23
+20 sec. exclusion in centre,7.0,5,7,4,GRE,4.0,PONTIKEAS K,4 - 7,111,GRE,1:51
+Exclusion with substitution,7.0,5,7,4,GRE,4.0,PONTIKEAS K,4 - 7,111,GRE,1:51
+Extra player shot - Post,10.0,5,7,4,GRE,4.0,VARGA D,4 - 7,108,HUN,1:48
+Turnover foul,2.0,5,7,4,GRE,4.0,GENIDOUNIAS K,4 - 7,94,GRE,1:34
+Action shot - Saved,2.0,5,7,4,GRE,4.0,GENIDOUNIAS K,4 - 7,18,GRE,0:18
+20 sec. exclusion in field,4.0,5,7,4,GRE,4.0,ZALANKI G,4 - 7,11,HUN,0:11
+Exclusion with substitution,4.0,5,7,4,GRE,4.0,ZALANKI G,4 - 7,11,HUN,0:11
+Extra player shot - Saved,10.0,5,7,4,GRE,4.0,KOLOMVOS C,4 - 7,4,GRE,0:04
+Extra player shot - Goal,5.0,5,7,5,GRE,4.0,FOUNTOULIS I,5 - 7,2,GRE,0:02
+Starting goalkeeper,1.0,6,0,0,CRO,1.0,NAGY V,0 - 0,480,HUN,8:00
+Starting goalkeeper,1.0,6,0,0,CRO,1.0,BIJAC M,0 - 0,480,CRO,8:00
+Sprint won possession,9.0,6,0,0,CRO,1.0,ERDELYI B,0 - 0,480,HUN,8:00
+Turnover foul,11.0,6,0,0,CRO,1.0,MEZEI T,0 - 0,456,HUN,7:36
+Steal,6.0,6,0,0,CRO,1.0,BULJUBASIC I,0 - 0,456,CRO,7:36
+Centre shot - Goal,9.0,6,0,1,CRO,1.0,SUKNO S,0 - 1,435,CRO,7:15
+5m shot - Saved,6.0,6,0,1,CRO,1.0,HOSNYANSZKY N,0 - 1,410,HUN,6:50
+Turnover foul,4.0,6,0,1,CRO,1.0,LONCAR L,0 - 1,382,CRO,6:22
+Steal,1.0,6,0,1,CRO,1.0,NAGY V,0 - 1,382,HUN,6:22
+20 sec. exclusion in centre,12.0,6,0,1,CRO,1.0,GARCIA GADEA J,0 - 1,358,CRO,5:58
+Centre shot - Saved,8.0,6,0,1,CRO,1.0,GOR-NAGY M,0 - 1,333,HUN,5:33
+20 sec. exclusion in centre,8.0,6,0,1,CRO,1.0,GOR-NAGY M,0 - 1,318,HUN,5:18
+Extra player shot - Goal,4.0,6,0,2,CRO,1.0,LONCAR L,0 - 2,315,CRO,5:15
+20 sec. exclusion in centre,6.0,6,0,2,CRO,1.0,BULJUBASIC I,0 - 2,290,CRO,4:50
+Extra player shot - Post,3.0,6,0,2,CRO,1.0,MANHERCZ K,0 - 2,271,HUN,4:31
+Action shot - Saved,10.0,6,0,2,CRO,1.0,VARGA D,0 - 2,264,HUN,4:24
+5m shot - Saved,11.0,6,0,2,CRO,1.0,SETKA A,0 - 2,235,CRO,3:55
+Turnover foul,5.0,6,0,2,CRO,1.0,JOKOVIC M,0 - 2,207,CRO,3:27
+Steal,4.0,6,0,2,CRO,1.0,ZALANKI G,0 - 2,207,HUN,3:27
+5m shot - Missed,10.0,6,0,2,CRO,1.0,VARGA D,0 - 2,184,HUN,3:04
+Centre shot - Goal,5.0,6,0,3,CRO,1.0,JOKOVIC M,0 - 3,172,CRO,2:52
+Time-Out,,6,0,3,CRO,1.0,,0 - 3,172,HUN,2:52
+Turnover foul,12.0,6,0,3,CRO,1.0,HARAI B,0 - 3,161,HUN,2:41
+5m shot - Blocked,8.0,6,0,3,CRO,1.0,BUSLJE A,0 - 3,130,CRO,2:10
+Turnover foul,10.0,6,0,3,CRO,1.0,VARGA D,0 - 3,105,HUN,1:45
+Steal,1.0,6,0,3,CRO,1.0,BIJAC M,0 - 3,105,CRO,1:45
+20 sec. exclusion in field,11.0,6,0,3,CRO,1.0,SETKA A,0 - 3,75,CRO,1:15
+Extra player shot - Saved,4.0,6,0,3,CRO,1.0,ZALANKI G,0 - 3,63,HUN,1:03
+Time-Out,,6,0,3,CRO,1.0,,0 - 3,61,CRO,1:01
+20 sec. exclusion in centre,2.0,6,0,3,CRO,1.0,TOROK B,0 - 3,37,HUN,0:37
+Extra player shot - Goal,2.0,6,0,4,CRO,1.0,MACAN M,0 - 4,23,CRO,0:23
+5m shot - Missed,3.0,6,0,4,CRO,1.0,MANHERCZ K,0 - 4,1,HUN,0:01
+Starting goalkeeper,1.0,6,0,4,CRO,2.0,NAGY V,0 - 4,480,HUN,8:00
+Starting goalkeeper,1.0,6,0,4,CRO,2.0,BIJAC M,0 - 4,480,CRO,8:00
+Sprint won possession,9.0,6,0,4,CRO,2.0,ERDELYI B,0 - 4,480,HUN,8:00
+5m shot - Goal,5.0,6,1,4,CRO,2.0,VAMOS M,1 - 4,455,HUN,7:35
+20 sec. exclusion in centre,8.0,6,1,4,CRO,2.0,GOR-NAGY M,1 - 4,433,HUN,7:13
+Extra player shot - Saved,9.0,6,1,4,CRO,2.0,SUKNO S,1 - 4,413,CRO,6:53
+Turnover foul,3.0,6,1,4,CRO,2.0,FATOVIC L,1 - 4,410,CRO,6:50
+Steal,6.0,6,1,4,CRO,2.0,HOSNYANSZKY N,1 - 4,410,HUN,6:50
+Action shot - Post,12.0,6,1,4,CRO,2.0,GARCIA GADEA J,1 - 4,353,CRO,5:53
+5m shot - Goal,2.0,6,2,4,CRO,2.0,TOROK B,2 - 4,332,HUN,5:32
+Action shot - Blocked,9.0,6,2,4,CRO,2.0,SUKNO S,2 - 4,312,CRO,5:12
+20 sec. exclusion in field,12.0,6,2,4,CRO,2.0,GARCIA GADEA J,2 - 4,306,CRO,5:06
+Turnover foul,9.0,6,2,4,CRO,2.0,ERDELYI B,2 - 4,284,HUN,4:44
+Steal,9.0,6,2,4,CRO,2.0,SUKNO S,2 - 4,284,CRO,4:44
+Action shot - Saved,8.0,6,2,4,CRO,2.0,BUSLJE A,2 - 4,255,CRO,4:15
+Turnover foul,12.0,6,2,4,CRO,2.0,HARAI B,2 - 4,226,HUN,3:46
+Steal,5.0,6,2,4,CRO,2.0,JOKOVIC M,2 - 4,226,CRO,3:46
+20 sec. exclusion in centre,6.0,6,2,4,CRO,2.0,HOSNYANSZKY N,2 - 4,202,HUN,3:22
+Time-Out,,6,2,4,CRO,2.0,,2 - 4,201,CRO,3:21
+Action shot - Post,8.0,6,2,4,CRO,2.0,BUSLJE A,2 - 4,172,CRO,2:52
+5m shot - Post,7.0,6,2,4,CRO,2.0,VUKICEVIC A,2 - 4,144,CRO,2:24
+20 sec. exclusion in centre,8.0,6,2,4,CRO,2.0,BUSLJE A,2 - 4,130,CRO,2:10
+Time-Out,,6,2,4,CRO,2.0,,2 - 4,129,HUN,2:09
+Extra player shot - Saved,3.0,6,2,4,CRO,2.0,MANHERCZ K,2 - 4,111,HUN,1:51
+5m shot - Saved,9.0,6,2,4,CRO,2.0,SUKNO S,2 - 4,82,CRO,1:22
+Turnover foul,12.0,6,2,4,CRO,2.0,HARAI B,2 - 4,59,HUN,0:59
+Action shot - Saved,12.0,6,2,4,CRO,2.0,GARCIA GADEA J,2 - 4,31,CRO,0:31
+Starting goalkeeper,1.0,6,2,4,CRO,3.0,NAGY V,2 - 4,480,HUN,8:00
+Starting goalkeeper,1.0,6,2,4,CRO,3.0,BIJAC M,2 - 4,480,CRO,8:00
+20 sec. exclusion in field,9.0,6,2,4,CRO,4.0,SUKNO S,2 - 4,2,CRO,0:02
+Sprint won possession,7.0,6,2,4,CRO,3.0,VUKICEVIC A,2 - 4,480,CRO,8:00
+5m shot - Saved,5.0,6,2,4,CRO,3.0,JOKOVIC M,2 - 4,451,CRO,7:31
+20 sec. exclusion in centre,2.0,6,2,4,CRO,3.0,MACAN M,2 - 4,422,CRO,7:02
+Extra player shot - Goal,9.0,6,3,4,CRO,3.0,ERDELYI B,3 - 4,406,HUN,6:46
+20 sec. exclusion in centre,7.0,6,3,4,CRO,3.0,DECKER A,3 - 4,383,HUN,6:23
+Extra player shot - Post,12.0,6,3,4,CRO,3.0,GARCIA GADEA J,3 - 4,363,CRO,6:03
+20 sec. exclusion in centre,5.0,6,3,4,CRO,3.0,VAMOS M,3 - 4,352,HUN,5:52
+Action shot - Post,5.0,6,3,4,CRO,3.0,JOKOVIC M,3 - 4,326,CRO,5:26
+5m shot - Post,10.0,6,3,4,CRO,3.0,VARGA D,3 - 4,301,HUN,5:01
+Turnover foul,4.0,6,3,4,CRO,3.0,LONCAR L,3 - 4,272,CRO,4:32
+Steal,3.0,6,3,4,CRO,3.0,MANHERCZ K,3 - 4,272,HUN,4:32
+Action shot - Saved,2.0,6,3,4,CRO,3.0,TOROK B,3 - 4,248,HUN,4:08
+Action shot - Saved,5.0,6,3,4,CRO,3.0,JOKOVIC M,3 - 4,227,CRO,3:47
+Time-Out,,6,3,4,CRO,3.0,,3 - 4,224,HUN,3:44
+20 sec. exclusion in centre,3.0,6,3,4,CRO,3.0,FATOVIC L,3 - 4,202,CRO,3:22
+Action shot - Goal,3.0,6,4,4,CRO,3.0,MANHERCZ K,4 - 4,180,HUN,3:00
+20 sec. exclusion in centre,8.0,6,4,4,CRO,3.0,GOR-NAGY M,4 - 4,160,HUN,2:40
+Exclusion with substitution,8.0,6,4,4,CRO,3.0,GOR-NAGY M,4 - 4,160,HUN,2:40
+Action shot - Goal,12.0,6,4,5,CRO,3.0,GARCIA GADEA J,4 - 5,132,CRO,2:12
+Turnover foul,12.0,6,4,5,CRO,3.0,HARAI B,4 - 5,114,HUN,1:54
+5m shot - Goal,12.0,6,4,6,CRO,3.0,GARCIA GADEA J,4 - 6,89,CRO,1:29
+20 sec. exclusion in centre,2.0,6,4,6,CRO,3.0,MACAN M,4 - 6,67,CRO,1:07
+Extra player shot - Saved,10.0,6,4,6,CRO,3.0,VARGA D,4 - 6,59,HUN,0:59
+Time-Out,,6,4,6,CRO,3.0,,4 - 6,54,CRO,0:54
+Action shot - Post,6.0,6,4,6,CRO,3.0,BULJUBASIC I,4 - 6,32,CRO,0:32
+5m shot - Saved,10.0,6,4,6,CRO,3.0,VARGA D,4 - 6,5,HUN,0:05
+5m shot - Saved,11.0,6,4,6,CRO,3.0,SETKA A,4 - 6,1,CRO,0:01
+Starting goalkeeper,1.0,6,4,6,CRO,4.0,NAGY V,4 - 6,480,HUN,8:00
+Starting goalkeeper,1.0,6,4,6,CRO,4.0,BIJAC M,4 - 6,480,CRO,8:00
+Sprint won possession,4.0,6,4,6,CRO,4.0,ZALANKI G,4 - 6,480,HUN,8:00
+5m shot - Saved,3.0,6,4,6,CRO,4.0,MANHERCZ K,4 - 6,454,HUN,7:34
+Action shot - Saved,5.0,6,4,6,CRO,4.0,JOKOVIC M,4 - 6,425,CRO,7:05
+Turnover foul,4.0,6,4,6,CRO,4.0,ZALANKI G,4 - 6,396,HUN,6:36
+Steal,9.0,6,4,6,CRO,4.0,SUKNO S,4 - 6,396,CRO,6:36
+5m shot - Saved,8.0,6,4,6,CRO,4.0,BUSLJE A,4 - 6,366,CRO,6:06
+5m shot - Saved,4.0,6,4,6,CRO,4.0,ZALANKI G,4 - 6,338,HUN,5:38
+20 sec. exclusion in field,10.0,6,4,6,CRO,4.0,VARGA D,4 - 6,316,HUN,5:16
+Extra player shot - Saved,4.0,6,4,6,CRO,4.0,LONCAR L,4 - 6,306,CRO,5:06
+Extra player shot - Goal,9.0,6,4,7,CRO,4.0,SUKNO S,4 - 7,297,CRO,4:57
+20 sec. exclusion in centre,2.0,6,4,7,CRO,4.0,MACAN M,4 - 7,284,CRO,4:44
+Exclusion with substitution,2.0,6,4,7,CRO,4.0,MACAN M,4 - 7,284,CRO,4:44
+Extra player shot - Goal,5.0,6,5,7,CRO,4.0,VAMOS M,5 - 7,279,HUN,4:39
+5m shot - Saved,12.0,6,5,7,CRO,4.0,GARCIA GADEA J,5 - 7,250,CRO,4:10
+Action shot - Blocked,3.0,6,5,7,CRO,4.0,MANHERCZ K,5 - 7,230,HUN,3:50
+5m shot - Post,11.0,6,5,7,CRO,4.0,SETKA A,5 - 7,203,CRO,3:23
+20 sec. exclusion in field,6.0,6,5,7,CRO,4.0,BULJUBASIC I,5 - 7,184,CRO,3:04
+Time-Out,,6,5,7,CRO,4.0,,5 - 7,184,HUN,3:04
+Extra player shot - Goal,5.0,6,6,7,CRO,4.0,VAMOS M,6 - 7,164,HUN,2:44
+5m shot - Goal,9.0,6,6,8,CRO,4.0,SUKNO S,6 - 8,143,CRO,2:23
+5m shot - Saved,5.0,6,6,8,CRO,4.0,VAMOS M,6 - 8,118,HUN,1:58
+Turnover foul,9.0,6,6,8,CRO,4.0,SUKNO S,6 - 8,87,CRO,1:27
+Steal,1.0,6,6,8,CRO,4.0,NAGY V,6 - 8,87,HUN,1:27
+20 sec. exclusion in field,8.0,6,6,8,CRO,4.0,BUSLJE A,6 - 8,84,CRO,1:24
+Yellow card,,6,6,8,CRO,4.0,Team Official,6 - 8,76,CRO,1:16
+Extra player shot - Missed,5.0,6,6,8,CRO,4.0,VAMOS M,6 - 8,73,HUN,1:13
+5m shot - Missed,11.0,6,6,8,CRO,4.0,SETKA A,6 - 8,44,CRO,0:44
+Turnover foul,12.0,6,6,8,CRO,4.0,HARAI B,6 - 8,38,HUN,0:38
+20 sec. exclusion in field,10.0,6,6,8,CRO,4.0,VARGA D,6 - 8,38,HUN,0:38
+Time-Out,,6,6,8,CRO,4.0,,6 - 8,33,CRO,0:33
+20 sec. exclusion in field,12.0,6,6,8,CRO,4.0,HARAI B,6 - 8,33,HUN,0:33
+Exclusion with substitution,12.0,6,6,8,CRO,4.0,HARAI B,6 - 8,33,HUN,0:33

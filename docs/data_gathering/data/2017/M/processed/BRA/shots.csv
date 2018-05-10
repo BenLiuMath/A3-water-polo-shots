@@ -1,0 +1,294 @@
+Period,Time,Action,Score,Team,Player,Cap,BRA,Opponent,Seconds,Game,Opponent name,Result,Goal
+1.0,6:32,Action shot,0 - 0,KAZ,SHAKENOV M,7.0,0,0,392,1,KAZ,Saved,0
+1.0,5:41,Action shot,0 - 0,BRA,ROCHA B,9.0,0,0,341,1,KAZ,Saved,0
+1.0,5:13,5m shot,0 - 0,KAZ,UKUMANOV R,9.0,0,0,313,1,KAZ,Missed,0
+1.0,4:45,5m shot,0 - 0,BRA,FREITAS R,12.0,0,0,285,1,KAZ,Saved,0
+1.0,4:18,Action shot,0 - 0,KAZ,SHMIDER A,6.0,0,0,258,1,KAZ,Saved,0
+1.0,3:52,5m shot,0 - 0,BRA,COUTINHO G,4.0,0,0,232,1,KAZ,Saved,0
+1.0,3:12,Action shot,0 - 0,KAZ,PILIPENKO R,4.0,0,0,192,1,KAZ,Saved,0
+1.0,2:41,Extra player shot,1 - 0,BRA,GUIMARAES G,11.0,1,0,161,1,KAZ,Goal,1
+1.0,1:08,Action shot,1 - 0,BRA,CRUZ A,2.0,1,0,68,1,KAZ,Saved,0
+1.0,0:59,Action shot,1 - 0,BRA,CRUZ A,2.0,1,0,59,1,KAZ,Saved,0
+1.0,0:37,Action shot,1 - 0,KAZ,TURLYKHANOV B,12.0,1,0,37,1,KAZ,Saved,0
+1.0,0:37,Action shot,1 - 1,KAZ,TURLYKHANOV B,12.0,1,1,37,1,KAZ,Goal,1
+2.0,7:36,Centre shot,1 - 1,KAZ,SHAKENOV M,7.0,1,1,456,1,KAZ,Missed,0
+2.0,6:40,5m shot,1 - 1,KAZ,SHMIDER A,6.0,1,1,400,1,KAZ,Missed,0
+2.0,5:49,Centre shot,1 - 1,BRA,COUTINHO G,4.0,1,1,349,1,KAZ,Saved,0
+2.0,5:30,Action shot,1 - 1,KAZ,SHAKENOV M,7.0,1,1,330,1,KAZ,Saved,0
+2.0,4:23,5m shot,1 - 1,KAZ,SHAKENOV M,7.0,1,1,263,1,KAZ,Missed,0
+2.0,3:33,Action shot,1 - 1,KAZ,TURLYKHANOV B,12.0,1,1,213,1,KAZ,Saved,0
+2.0,3:06,5m shot,1 - 1,BRA,GUIMARAES G,11.0,1,1,186,1,KAZ,Saved,0
+2.0,2:45,Action shot,1 - 2,KAZ,UKUMANOV R,9.0,1,2,165,1,KAZ,Goal,1
+2.0,2:19,5m shot,1 - 2,BRA,COUTINHO G,4.0,1,2,139,1,KAZ,Missed,0
+2.0,1:55,Action shot,1 - 2,KAZ,MEDVEDEV Y,2.0,1,2,115,1,KAZ,Saved,0
+2.0,1:32,Centre shot,1 - 2,BRA,ALMEIDA G,3.0,1,2,92,1,KAZ,Missed,0
+4.0,1:42,Extra player shot,1 - 2,KAZ,SHAKENOV M,7.0,1,2,102,1,KAZ,Post,0
+2.0,0:01,5m shot,1 - 2,BRA,GUIMARAES G,11.0,1,2,1,1,KAZ,Blocked,0
+3.0,7:00,Extra player shot,1 - 2,KAZ,MEDVEDEV Y,2.0,1,2,420,1,KAZ,Saved,0
+3.0,6:23,Extra player shot,2 - 2,BRA,ROCHA B,9.0,2,2,383,1,KAZ,Goal,1
+3.0,5:38,Action shot,2 - 2,KAZ,SHAKENOV M,7.0,2,2,338,1,KAZ,Saved,0
+3.0,4:22,Action shot,2 - 2,BRA,GUIMARAES G,11.0,2,2,262,1,KAZ,Saved,0
+3.0,3:15,Centre shot,3 - 2,BRA,ALMEIDA G,3.0,3,2,195,1,KAZ,Goal,1
+3.0,2:23,Extra player shot,4 - 2,BRA,GUIMARAES G,11.0,4,2,143,1,KAZ,Goal,1
+3.0,1:20,5m shot,4 - 2,KAZ,UKUMANOV R,9.0,4,2,80,1,KAZ,Missed,0
+3.0,0:09,Extra player shot,4 - 2,BRA,COUTINHO G,4.0,4,2,9,1,KAZ,Saved,0
+4.0,7:33,Centre shot,4 - 2,KAZ,SHAKENOV M,7.0,4,2,453,1,KAZ,Missed,0
+4.0,6:27,Extra player shot,4 - 2,KAZ,MEDVEDEV Y,2.0,4,2,387,1,KAZ,Post,0
+4.0,5:58,5m shot,5 - 2,BRA,GUIMARAES G,11.0,5,2,358,1,KAZ,Goal,1
+4.0,5:28,5m shot,5 - 2,KAZ,UKUMANOV R,9.0,5,2,328,1,KAZ,Blocked,0
+4.0,4:12,Extra player shot,5 - 2,KAZ,SHAKENOV M,7.0,5,2,252,1,KAZ,Saved,0
+4.0,3:46,5m shot,5 - 2,BRA,FREITAS R,12.0,5,2,226,1,KAZ,Post,0
+4.0,3:06,Action shot,5 - 2,BRA,COUTINHO G,4.0,5,2,186,1,KAZ,Saved,0
+4.0,2:38,Action shot,5 - 2,KAZ,MEDVEDEV Y,2.0,5,2,158,1,KAZ,Saved,0
+4.0,2:14,Extra player shot,5 - 2,BRA,STELLET M,8.0,5,2,134,1,KAZ,Saved,0
+4.0,1:01,Counter attack,6 - 2,BRA,GUIMARAES G,11.0,6,2,61,1,KAZ,Goal,1
+4.0,0:30,Extra player shot,6 - 2,KAZ,UKUMANOV R,9.0,6,2,30,1,KAZ,Post,0
+4.0,0:05,Action shot,6 - 2,BRA,CRUZ A,2.0,6,2,5,1,KAZ,Missed,0
+1.0,7:31,5m shot,0 - 0,MNE,DRASKOVIC D,7.0,0,0,451,2,MNE,Saved,0
+1.0,7:02,5m shot,0 - 0,MNE,RADOVIC D,9.0,0,0,422,2,MNE,Saved,0
+1.0,6:15,5m shot,0 - 0,BRA,CRUZ A,2.0,0,0,375,2,MNE,Saved,0
+1.0,5:34,Extra player shot,0 - 1,MNE,CUCKOVIC U,11.0,0,1,334,2,MNE,Goal,1
+1.0,5:07,5m shot,0 - 1,BRA,FREITAS R,12.0,0,1,307,2,MNE,Post,0
+1.0,4:39,Centre shot,0 - 2,MNE,MISIC S,10.0,0,2,279,2,MNE,Goal,1
+1.0,4:15,Centre shot,0 - 2,BRA,SILVA L,5.0,0,2,255,2,MNE,Saved,0
+1.0,3:51,Centre shot,0 - 2,MNE,MISIC S,10.0,0,2,231,2,MNE,Missed,0
+1.0,3:28,Centre shot,0 - 2,BRA,COUTINHO G,4.0,0,2,208,2,MNE,Saved,0
+1.0,2:30,Extra player shot,0 - 2,MNE,UKROPINA A,8.0,0,2,150,2,MNE,Saved,0
+1.0,1:53,Action shot,0 - 2,MNE,DRASKOVIC D,7.0,0,2,113,2,MNE,Saved,0
+1.0,1:28,Penalty shot,0 - 3,MNE,RADOVIC A,6.0,0,3,88,2,MNE,Goal,1
+1.0,0:01,Action shot,0 - 4,MNE,PETKOVIC M,4.0,0,4,1,2,MNE,Goal,1
+2.0,7:32,5m shot,1 - 4,BRA,GUIMARAES G,11.0,1,4,452,2,MNE,Goal,1
+2.0,7:13,Centre shot,1 - 4,MNE,MURISIC N,12.0,1,4,433,2,MNE,Missed,0
+2.0,6:44,Action shot,1 - 4,BRA,COUTINHO G,4.0,1,4,404,2,MNE,Saved,0
+2.0,5:52,Action shot,1 - 4,MNE,BRGULJAN D,5.0,1,4,352,2,MNE,Saved,0
+2.0,5:52,Action shot,1 - 5,MNE,BANICEVIC B,3.0,1,5,352,2,MNE,Goal,1
+2.0,5:23,Action shot,1 - 5,BRA,GUIMARAES G,11.0,1,5,323,2,MNE,Saved,0
+2.0,4:21,Action shot,1 - 5,BRA,COUTINHO G,4.0,1,5,261,2,MNE,Post,0
+2.0,3:57,5m shot,1 - 5,MNE,CUCKOVIC U,11.0,1,5,237,2,MNE,Blocked,0
+2.0,3:07,Centre shot,1 - 5,MNE,MURISIC N,12.0,1,5,187,2,MNE,Saved,0
+2.0,2:00,5m shot,2 - 5,BRA,COUTINHO G,4.0,2,5,120,2,MNE,Goal,1
+2.0,1:32,5m shot,2 - 6,MNE,DRASKOVIC D,7.0,2,6,92,2,MNE,Goal,1
+2.0,0:37,5m shot,2 - 6,MNE,DRASKOVIC D,7.0,2,6,37,2,MNE,Saved,0
+2.0,0:01,Centre shot,2 - 7,MNE,PETKOVIC M,4.0,2,7,1,2,MNE,Goal,1
+4.0,1:34,5m shot,5 - 14,MNE,RADOVIC A,6.0,5,14,94,2,MNE,Goal,1
+3.0,6:47,5m shot,5 - 14,MNE,RADOVIC A,6.0,5,14,407,2,MNE,Post,0
+3.0,6:09,Action shot,3 - 7,BRA,GUIMARAES G,11.0,3,7,369,2,MNE,Goal,1
+3.0,5:49,Extra player shot,3 - 8,MNE,RADOVIC D,9.0,3,8,349,2,MNE,Goal,1
+3.0,3:34,5m shot,3 - 8,BRA,CRUZ A,2.0,3,8,214,2,MNE,Blocked,0
+3.0,3:16,Extra player shot,3 - 9,MNE,CUCKOVIC U,11.0,3,9,196,2,MNE,Goal,1
+3.0,2:52,5m shot,3 - 9,BRA,GUIMARAES G,11.0,3,9,172,2,MNE,Blocked,0
+3.0,2:04,5m shot,3 - 9,BRA,GUIMARAES G,11.0,3,9,124,2,MNE,Saved,0
+3.0,1:36,Action shot,3 - 9,BRA,FREITAS R,12.0,3,9,96,2,MNE,Blocked,0
+3.0,1:21,Centre shot,3 - 10,MNE,BRGULJAN D,5.0,3,10,81,2,MNE,Goal,1
+3.0,0:58,Action shot,4 - 10,BRA,CARRULO H,10.0,4,10,58,2,MNE,Goal,1
+3.0,0:33,5m shot,4 - 11,MNE,BRGULJAN D,5.0,4,11,33,2,MNE,Goal,1
+3.0,0:01,5m shot,4 - 11,MNE,UKROPINA A,8.0,4,11,1,2,MNE,Saved,0
+4.0,7:02,5m shot,4 - 11,BRA,COUTINHO G,4.0,4,11,422,2,MNE,Post,0
+4.0,6:33,Centre shot,4 - 12,MNE,DRASKOVIC D,7.0,4,12,393,2,MNE,Goal,1
+4.0,6:07,5m shot,4 - 12,BRA,GUIMARAES G,11.0,4,12,367,2,MNE,Saved,0
+4.0,5:41,Action shot,4 - 12,MNE,MURISIC N,12.0,4,12,341,2,MNE,Missed,0
+4.0,4:57,Action shot,4 - 12,MNE,BANICEVIC B,3.0,4,12,297,2,MNE,Post,0
+4.0,3:37,Extra player shot,4 - 12,MNE,BRGULJAN D,5.0,4,12,217,2,MNE,Missed,0
+4.0,3:17,5m shot,4 - 12,BRA,COUTINHO G,4.0,4,12,197,2,MNE,Post,0
+4.0,3:02,Penalty shot,4 - 13,MNE,RADOVIC A,6.0,4,13,182,2,MNE,Goal,1
+4.0,2:34,5m shot,5 - 13,BRA,ALMEIDA G,3.0,5,13,154,2,MNE,Goal,1
+4.0,0:53,Action shot,5 - 13,BRA,ALMEIDA G,3.0,5,13,53,2,MNE,Missed,0
+4.0,0:37,Action shot,5 - 13,MNE,PETKOVIC M,4.0,5,13,37,2,MNE,Saved,0
+4.0,0:09,5m shot,5 - 13,BRA,ALMEIDA G,3.0,5,13,9,2,MNE,Saved,0
+4.0,0:01,5m shot,5 - 13,MNE,BRGULJAN D,5.0,5,13,1,2,MNE,Missed,0
+1.0,6:43,5m shot,0 - 0,CAN,TORAKIS G,11.0,0,0,403,3,CAN,Missed,0
+1.0,6:15,5m shot,0 - 0,BRA,ROCHA B,9.0,0,0,375,3,CAN,Missed,0
+1.0,5:36,Extra player shot,0 - 0,CAN,ROBINSON S,6.0,0,0,336,3,CAN,Saved,0
+1.0,4:54,Extra player shot,1 - 0,BRA,FREITAS R,12.0,1,0,294,3,CAN,Goal,1
+1.0,4:31,Action shot,1 - 0,CAN,THUMWOOD D,12.0,1,0,271,3,CAN,Post,0
+1.0,4:29,Centre shot,1 - 1,CAN,CONSTANTIN-BICARI,4.0,1,1,269,3,CAN,Goal,1
+1.0,4:02,5m shot,1 - 1,BRA,GUIMARAES G,11.0,1,1,242,3,CAN,Missed,0
+1.0,2:54,Extra player shot,1 - 1,BRA,STELLET M,8.0,1,1,174,3,CAN,Saved,0
+1.0,2:04,5m shot,1 - 1,BRA,COUTINHO G,4.0,1,1,124,3,CAN,Post,0
+1.0,1:24,Extra player shot,1 - 2,CAN,THUMWOOD D,12.0,1,2,84,3,CAN,Goal,1
+1.0,0:53,5m shot,1 - 2,BRA,CRUZ A,2.0,1,2,53,3,CAN,Saved,0
+1.0,0:29,Centre shot,1 - 2,CAN,CONSTANTIN-BICARI,4.0,1,2,29,3,CAN,Saved,0
+2.0,7:36,Action shot,1 - 2,CAN,TORAKIS G,11.0,1,2,456,3,CAN,Saved,0
+2.0,6:57,Action shot,1 - 2,BRA,GUIMARAES G,11.0,1,2,417,3,CAN,Post,0
+2.0,6:33,5m shot,1 - 2,CAN,LAPINS D,8.0,1,2,393,3,CAN,Blocked,0
+2.0,5:47,Action shot,1 - 3,CAN,TORAKIS G,11.0,1,3,347,3,CAN,Goal,1
+2.0,5:24,Penalty shot,2 - 3,BRA,GUIMARAES G,11.0,2,3,324,3,CAN,Goal,1
+2.0,4:42,5m shot,3 - 3,BRA,COUTINHO G,4.0,3,3,282,3,CAN,Goal,1
+2.0,4:15,Action shot,3 - 4,CAN,D'SOUZA R,7.0,3,4,255,3,CAN,Goal,1
+2.0,4:00,Centre shot,4 - 4,BRA,STELLET P,7.0,4,4,240,3,CAN,Goal,1
+2.0,3:30,Action shot,4 - 4,CAN,ROBINSON S,6.0,4,4,210,3,CAN,Missed,0
+2.0,3:08,Centre shot,4 - 4,BRA,SILVA L,5.0,4,4,188,3,CAN,Post,0
+2.0,2:37,5m shot,4 - 4,CAN,TORAKIS G,11.0,4,4,157,3,CAN,Saved,0
+2.0,2:03,Extra player shot,4 - 4,CAN,THUMWOOD D,12.0,4,4,123,3,CAN,Saved,0
+2.0,0:22,5m shot,4 - 4,CAN,D'SOUZA R,7.0,4,4,22,3,CAN,Missed,0
+2.0,0:01,5m shot,4 - 4,BRA,GUIMARAES G,11.0,4,4,1,3,CAN,Post,0
+3.0,7:19,Extra player shot,5 - 4,BRA,CRUZ A,2.0,5,4,439,3,CAN,Goal,1
+3.0,6:38,Centre shot,5 - 5,CAN,HALAJIAN M,5.0,5,5,398,3,CAN,Goal,1
+3.0,5:52,5m shot,5 - 5,BRA,FREITAS R,12.0,5,5,352,3,CAN,Missed,0
+3.0,5:26,Action shot,5 - 5,CAN,HALAJIAN M,5.0,5,5,326,3,CAN,Missed,0
+3.0,4:19,5m shot,5 - 5,BRA,ROCHA B,9.0,5,5,259,3,CAN,Saved,0
+3.0,4:04,5m shot,5 - 5,CAN,D'SOUZA R,7.0,5,5,244,3,CAN,Saved,0
+3.0,3:40,5m shot,5 - 5,BRA,COUTINHO G,4.0,5,5,220,3,CAN,Blocked,0
+3.0,3:12,Action shot,5 - 5,BRA,COUTINHO G,4.0,5,5,192,3,CAN,Missed,0
+3.0,2:46,Extra player shot,5 - 6,CAN,SOLEIMANIPAK A,10.0,5,6,166,3,CAN,Goal,1
+3.0,2:21,5m shot,5 - 6,BRA,COUTINHO G,4.0,5,6,141,3,CAN,Missed,0
+3.0,1:14,Centre shot,5 - 6,CAN,LAPINS D,8.0,5,6,74,3,CAN,Post,0
+3.0,0:40,Action shot,5 - 6,BRA,CRUZ A,2.0,5,6,40,3,CAN,Saved,0
+3.0,0:03,Extra player shot,5 - 6,CAN,SOLEIMANIPAK A,10.0,5,6,3,3,CAN,Saved,0
+4.0,7:02,Action shot,5 - 6,BRA,CRUZ A,2.0,5,6,422,3,CAN,Blocked,0
+4.0,6:30,Extra player shot,5 - 6,CAN,ROBINSON S,6.0,5,6,390,3,CAN,Blocked,0
+4.0,6:05,5m shot,5 - 6,BRA,GUIMARAES G,11.0,5,6,365,3,CAN,Saved,0
+4.0,5:44,Centre shot,5 - 6,CAN,CONSTANTIN-BICARI,4.0,5,6,344,3,CAN,Missed,0
+4.0,5:06,Extra player shot,6 - 6,BRA,COUTINHO G,4.0,6,6,306,3,CAN,Goal,1
+4.0,4:46,Centre shot,6 - 6,CAN,CONSTANTIN-BICARI,4.0,6,6,286,3,CAN,Blocked,0
+4.0,4:17,5m shot,6 - 6,BRA,FREITAS R,12.0,6,6,257,3,CAN,Saved,0
+4.0,3:50,Action shot,6 - 6,CAN,THUMWOOD D,12.0,6,6,230,3,CAN,Saved,0
+4.0,3:28,Centre shot,6 - 6,BRA,GUIMARAES G,11.0,6,6,208,3,CAN,Saved,0
+4.0,3:03,Action shot,6 - 6,CAN,ROBINSON S,6.0,6,6,183,3,CAN,Missed,0
+4.0,2:35,5m shot,6 - 6,BRA,FREITAS R,12.0,6,6,155,3,CAN,Saved,0
+4.0,1:59,Action shot,6 - 6,BRA,FREITAS R,12.0,6,6,119,3,CAN,Missed,0
+4.0,1:37,Action shot,6 - 6,CAN,ROBINSON S,6.0,6,6,97,3,CAN,Post,0
+4.0,0:23,Action shot,6 - 6,CAN,SOLEIMANIPAK A,10.0,6,6,23,3,CAN,Blocked,0
+4.0,0:01,Action shot,6 - 6,BRA,GUIMARAES G,11.0,6,6,1,3,CAN,Saved,0
+1.0,7:34,Action shot,0 - 0,AUS,FORD A,9.0,0,0,454,4,AUS,Missed,0
+1.0,7:15,5m shot,0 - 0,BRA,COUTINHO G,4.0,0,0,435,4,AUS,Blocked,0
+1.0,6:45,Action shot,0 - 0,AUS,YOUNGER A,8.0,0,0,405,4,AUS,Saved,0
+1.0,6:22,Action shot,1 - 0,BRA,FREITAS R,12.0,1,0,382,4,AUS,Goal,1
+1.0,5:04,Action shot,1 - 1,AUS,KAYES J,4.0,1,1,304,4,AUS,Goal,1
+1.0,4:34,Action shot,1 - 1,BRA,COUTINHO G,4.0,1,1,274,4,AUS,Blocked,0
+1.0,3:59,Extra player shot,1 - 2,AUS,KAYES J,4.0,1,2,239,4,AUS,Goal,1
+1.0,3:33,5m shot,1 - 2,BRA,FREITAS R,12.0,1,2,213,4,AUS,Post,0
+1.0,1:58,Extra player shot,2 - 2,BRA,GUIMARAES G,11.0,2,2,118,4,AUS,Goal,1
+1.0,1:42,Penalty shot,2 - 2,AUS,YOUNGER A,8.0,2,2,102,4,AUS,Post,0
+1.0,0:05,Extra player shot,2 - 2,AUS,KAYES J,4.0,2,2,5,4,AUS,Post,0
+2.0,7:16,Action shot,2 - 2,BRA,STELLET P,7.0,2,2,436,4,AUS,Saved,0
+2.0,6:22,Action shot,2 - 2,BRA,STELLET M,8.0,2,2,382,4,AUS,Missed,0
+2.0,5:24,Action shot,2 - 2,BRA,STELLET P,7.0,2,2,324,4,AUS,Missed,0
+2.0,3:46,Action shot,2 - 3,AUS,POWER N,5.0,2,3,226,4,AUS,Goal,1
+2.0,3:10,Counter attack,2 - 4,AUS,FANNON J,10.0,2,4,190,4,AUS,Goal,1
+2.0,1:52,5m shot,2 - 4,BRA,COUTINHO G,4.0,2,4,112,4,AUS,Post,0
+2.0,1:07,5m shot,2 - 4,BRA,GUIMARAES G,11.0,2,4,67,4,AUS,Saved,0
+4.0,0:16,5m shot,3 - 8,AUS,FANNON J,10.0,3,8,16,4,AUS,Goal,1
+3.0,6:48,Action shot,3 - 8,AUS,GILCHRIST J,7.0,3,8,408,4,AUS,Blocked,0
+3.0,6:05,Extra player shot,2 - 5,AUS,GILCHRIST J,7.0,2,5,365,4,AUS,Goal,1
+3.0,5:22,Extra player shot,2 - 5,BRA,GUIMARAES G,11.0,2,5,322,4,AUS,Blocked,0
+3.0,4:32,Action shot,2 - 6,AUS,FORD A,9.0,2,6,272,4,AUS,Goal,1
+3.0,4:05,Action shot,2 - 6,BRA,CRUZ A,2.0,2,6,245,4,AUS,Saved,0
+3.0,3:10,5m shot,2 - 6,AUS,YOUNGER A,8.0,2,6,190,4,AUS,Saved,0
+3.0,2:10,Extra player shot,2 - 6,AUS,FORD A,9.0,2,6,130,4,AUS,Post,0
+3.0,1:44,Action shot,2 - 6,BRA,GUIMARAES G,11.0,2,6,104,4,AUS,Saved,0
+3.0,1:26,Extra player shot,2 - 6,AUS,YOUNGER A,8.0,2,6,86,4,AUS,Saved,0
+3.0,1:26,Penalty shot,2 - 6,AUS,FORD A,9.0,2,6,86,4,AUS,Post,0
+3.0,0:35,Action shot,2 - 6,BRA,GUIMARAES G,11.0,2,6,35,4,AUS,Saved,0
+3.0,0:03,Extra player shot,3 - 6,BRA,GUIMARAES G,11.0,3,6,3,4,AUS,Goal,1
+3.0,0:01,5m shot,3 - 6,AUS,YOUNGER A,8.0,3,6,1,4,AUS,Saved,0
+4.0,7:35,5m shot,3 - 6,AUS,YOUNGER A,8.0,3,6,455,4,AUS,Blocked,0
+4.0,6:30,Extra player shot,3 - 6,AUS,FORD A,9.0,3,6,390,4,AUS,Blocked,0
+4.0,6:01,Action shot,3 - 6,BRA,SILVA L,5.0,3,6,361,4,AUS,Saved,0
+4.0,5:32,5m shot,3 - 6,AUS,YOUNGER A,8.0,3,6,332,4,AUS,Blocked,0
+4.0,5:05,Action shot,3 - 6,BRA,ALMEIDA G,3.0,3,6,305,4,AUS,Post,0
+4.0,4:16,Action shot,3 - 6,BRA,FREITAS R,12.0,3,6,256,4,AUS,Saved,0
+4.0,3:31,5m shot,3 - 6,AUS,HOLLIS L,11.0,3,6,211,4,AUS,Saved,0
+4.0,2:23,Extra player shot,3 - 7,AUS,KAYES J,4.0,3,7,143,4,AUS,Goal,1
+4.0,1:58,Action shot,3 - 7,BRA,CARRULO H,10.0,3,7,118,4,AUS,Saved,0
+4.0,1:32,5m shot,3 - 7,AUS,FORD A,9.0,3,7,92,4,AUS,Missed,0
+4.0,1:10,Action shot,3 - 7,BRA,CRUZ A,2.0,3,7,70,4,AUS,Blocked,0
+4.0,0:01,Action shot,3 - 7,BRA,ALMEIDA G,3.0,3,7,1,4,AUS,Missed,0
+1.0,7:38,Centre shot,0 - 0,JPN,ADACHI S,2.0,0,0,458,5,JPN,Saved,0
+1.0,7:15,Action shot,1 - 0,BRA,STELLET P,7.0,1,0,435,5,JPN,Goal,1
+1.0,6:10,5m shot,1 - 0,JPN,SHIMIZU Y,7.0,1,0,370,5,JPN,Saved,0
+1.0,5:41,Centre shot,1 - 0,BRA,COUTINHO G,4.0,1,0,341,5,JPN,Saved,0
+1.0,5:22,Action shot,1 - 0,JPN,SHIGA M,4.0,1,0,322,5,JPN,Saved,0
+1.0,4:38,Extra player shot,1 - 1,JPN,ADACHI S,2.0,1,1,278,5,JPN,Goal,1
+1.0,3:55,Penalty shot,1 - 2,JPN,ADACHI S,2.0,1,2,235,5,JPN,Goal,1
+1.0,3:01,Extra player shot,1 - 3,JPN,TAKATA M,8.0,1,3,181,5,JPN,Goal,1
+1.0,2:20,Penalty shot,1 - 3,JPN,ADACHI S,2.0,1,3,140,5,JPN,Saved,0
+1.0,1:41,Counter attack,1 - 3,JPN,ARAKI K,12.0,1,3,101,5,JPN,Saved,0
+1.0,1:13,5m shot,1 - 3,BRA,GUIMARAES G,11.0,1,3,73,5,JPN,Post,0
+1.0,0:59,Action shot,1 - 3,JPN,TAKATA M,8.0,1,3,59,5,JPN,Saved,0
+1.0,0:48,5m shot,1 - 3,JPN,YOSHIDA T,5.0,1,3,48,5,JPN,Saved,0
+1.0,0:19,Action shot,1 - 3,BRA,COUTINHO G,4.0,1,3,19,5,JPN,Saved,0
+1.0,0:01,5m shot,1 - 3,JPN,ADACHI S,2.0,1,3,1,5,JPN,Saved,0
+2.0,6:37,Action shot,1 - 3,BRA,GUIMARAES G,11.0,1,3,397,5,JPN,Saved,0
+2.0,5:47,Action shot,2 - 3,BRA,COUTINHO G,4.0,2,3,347,5,JPN,Goal,1
+2.0,5:24,5m shot,2 - 3,JPN,OKAWA K,11.0,2,3,324,5,JPN,Post,0
+2.0,4:59,5m shot,2 - 3,JPN,ARAI A,9.0,2,3,299,5,JPN,Missed,0
+2.0,4:36,5m shot,2 - 3,BRA,GUIMARAES G,11.0,2,3,276,5,JPN,Missed,0
+2.0,4:15,Extra player shot,2 - 4,JPN,SHIMIZU Y,7.0,2,4,255,5,JPN,Goal,1
+2.0,3:43,5m shot,2 - 4,BRA,COUTINHO G,4.0,2,4,223,5,JPN,Blocked,0
+2.0,3:22,5m shot,2 - 4,JPN,IIDA A,6.0,2,4,202,5,JPN,Saved,0
+2.0,2:45,Action shot,3 - 4,BRA,FREITAS R,12.0,3,4,165,5,JPN,Goal,1
+2.0,2:07,Action shot,3 - 5,JPN,ARAKI K,12.0,3,5,127,5,JPN,Goal,1
+4.0,3:44,Counter attack,3 - 5,JPN,OKAWA K,11.0,3,5,224,5,JPN,Saved,0
+4.0,3:07,5m shot,7 - 9,JPN,ADACHI S,2.0,7,9,187,5,JPN,Goal,1
+4.0,2:31,Action shot,7 - 9,JPN,INABA K,10.0,7,9,151,5,JPN,Post,0
+2.0,1:33,Extra player shot,3 - 6,JPN,IIDA A,6.0,3,6,93,5,JPN,Goal,1
+2.0,0:28,Action shot,4 - 6,BRA,CARRULO H,10.0,4,6,28,5,JPN,Goal,1
+2.0,0:05,Penalty shot,4 - 7,JPN,ARAI A,9.0,4,7,5,5,JPN,Goal,1
+2.0,0:01,5m shot,4 - 7,BRA,GUIMARAES G,11.0,4,7,1,5,JPN,Missed,0
+3.0,7:35,5m shot,4 - 7,JPN,SHIGA M,4.0,4,7,455,5,JPN,Missed,0
+3.0,6:58,5m shot,4 - 7,JPN,OKAWA K,11.0,4,7,418,5,JPN,Saved,0
+3.0,6:25,5m shot,4 - 7,JPN,SHIGA M,4.0,4,7,385,5,JPN,Missed,0
+3.0,6:20,Extra player shot,5 - 7,BRA,FREITAS R,12.0,5,7,380,5,JPN,Goal,1
+3.0,5:53,5m shot,5 - 7,JPN,OKAWA K,11.0,5,7,353,5,JPN,Saved,0
+3.0,5:08,Action shot,5 - 7,JPN,ARAKI K,12.0,5,7,308,5,JPN,Missed,0
+3.0,4:26,5m shot,5 - 7,JPN,ADACHI S,2.0,5,7,266,5,JPN,Saved,0
+3.0,3:50,Action shot,5 - 7,JPN,ADACHI S,2.0,5,7,230,5,JPN,Saved,0
+3.0,3:43,Action shot,5 - 7,JPN,TAKATA M,8.0,5,7,223,5,JPN,Saved,0
+3.0,3:11,5m shot,5 - 7,BRA,COUTINHO G,4.0,5,7,191,5,JPN,Saved,0
+3.0,2:35,Action shot,5 - 7,BRA,FREITAS R,12.0,5,7,155,5,JPN,Blocked,0
+3.0,1:05,5m shot,5 - 7,JPN,SHIGA M,4.0,5,7,65,5,JPN,Post,0
+3.0,0:35,Action shot,5 - 7,BRA,CRUZ A,2.0,5,7,35,5,JPN,Missed,0
+3.0,0:22,Penalty shot,5 - 8,JPN,SHIMIZU Y,7.0,5,8,22,5,JPN,Goal,1
+3.0,0:01,Action shot,5 - 8,BRA,GUIMARAES G,11.0,5,8,1,5,JPN,Saved,0
+4.0,7:32,5m shot,5 - 8,BRA,COUTINHO G,4.0,5,8,452,5,JPN,Blocked,0
+4.0,7:10,5m shot,6 - 8,BRA,GUIMARAES G,11.0,6,8,430,5,JPN,Goal,1
+4.0,6:42,Action shot,6 - 8,JPN,SHIMIZU Y,7.0,6,8,402,5,JPN,Saved,0
+4.0,6:14,5m shot,6 - 8,BRA,ROCHA B,9.0,6,8,374,5,JPN,Blocked,0
+4.0,5:13,5m shot,7 - 8,BRA,COUTINHO G,4.0,7,8,313,5,JPN,Goal,1
+4.0,1:12,Action shot,7 - 8,JPN,INABA K,10.0,7,8,72,5,JPN,Missed,0
+4.0,0:44,5m shot,7 - 8,BRA,GUIMARAES G,11.0,7,8,44,5,JPN,Saved,0
+4.0,0:04,5m shot,7 - 8,BRA,COUTINHO G,4.0,7,8,4,5,JPN,Saved,0
+1.0,7:31,Centre shot,0 - 0,KAZ,RUDAY M,10.0,0,0,451,6,KAZ,Post,0
+1.0,7:03,5m shot,0 - 0,BRA,CRUZ A,2.0,0,0,423,6,KAZ,Saved,0
+1.0,5:58,Extra player shot,0 - 1,KAZ,MEDVEDEV Y,2.0,0,1,358,6,KAZ,Goal,1
+1.0,4:59,Counter attack,0 - 2,KAZ,UKUMANOV R,9.0,0,2,299,6,KAZ,Goal,1
+1.0,4:20,5m shot,0 - 3,KAZ,TURLYKHANOV B,12.0,0,3,260,6,KAZ,Goal,1
+1.0,3:49,Extra player shot,1 - 3,BRA,COUTINHO G,4.0,1,3,229,6,KAZ,Goal,1
+1.0,3:19,Centre shot,1 - 4,KAZ,ALTAYEV A,5.0,1,4,199,6,KAZ,Goal,1
+1.0,2:38,5m shot,1 - 4,KAZ,TURLYKHANOV B,12.0,1,4,158,6,KAZ,Saved,0
+1.0,2:13,5m shot,1 - 4,BRA,GUIMARAES G,11.0,1,4,133,6,KAZ,Saved,0
+1.0,0:27,Extra player shot,1 - 4,BRA,COUTINHO G,4.0,1,4,27,6,KAZ,Blocked,0
+1.0,0:01,5m shot,1 - 4,KAZ,SHAKENOV M,7.0,1,4,1,6,KAZ,Saved,0
+2.0,7:35,5m shot,1 - 4,KAZ,TURLYKHANOV B,12.0,1,4,455,6,KAZ,Saved,0
+2.0,6:32,Action shot,1 - 4,KAZ,MEDVEDEV Y,2.0,1,4,392,6,KAZ,Saved,0
+2.0,6:13,Centre shot,1 - 5,KAZ,RUDAY M,10.0,1,5,373,6,KAZ,Goal,1
+2.0,5:10,Action shot,1 - 5,KAZ,MEDVEDEV Y,2.0,1,5,310,6,KAZ,Post,0
+2.0,4:57,5m shot,1 - 5,KAZ,UKUMANOV R,9.0,1,5,297,6,KAZ,Post,0
+2.0,4:16,Extra player shot,2 - 5,BRA,ALMEIDA G,3.0,2,5,256,6,KAZ,Goal,1
+2.0,3:04,Action shot,2 - 5,KAZ,SHAKENOV M,7.0,2,5,184,6,KAZ,Saved,0
+2.0,2:13,Action shot,2 - 6,KAZ,UKUMANOV R,9.0,2,6,133,6,KAZ,Goal,1
+2.0,1:00,Extra player shot,3 - 6,BRA,CARRULO H,10.0,3,6,60,6,KAZ,Goal,1
+3.0,7:31,5m shot,3 - 6,KAZ,TURLYKHANOV B,12.0,3,6,451,6,KAZ,Missed,0
+3.0,6:51,Extra player shot,3 - 6,BRA,FREITAS R,12.0,3,6,411,6,KAZ,Saved,0
+3.0,6:05,Action shot,3 - 6,KAZ,SHMIDER A,6.0,3,6,365,6,KAZ,Blocked,0
+3.0,5:22,5m shot,3 - 6,BRA,GUIMARAES G,11.0,3,6,322,6,KAZ,Missed,0
+3.0,3:58,5m shot,3 - 6,KAZ,UKUMANOV R,9.0,3,6,238,6,KAZ,Missed,0
+3.0,3:29,5m shot,3 - 6,BRA,CRUZ A,2.0,3,6,209,6,KAZ,Saved,0
+3.0,2:22,Action shot,3 - 6,KAZ,MEDVEDEV Y,2.0,3,6,142,6,KAZ,Missed,0
+3.0,1:56,Action shot,3 - 6,BRA,GUIMARAES G,11.0,3,6,116,6,KAZ,Missed,0
+3.0,1:12,5m shot,3 - 6,BRA,COUTINHO G,4.0,3,6,72,6,KAZ,Missed,0
+3.0,0:39,Extra player shot,3 - 7,KAZ,SHMIDER A,6.0,3,7,39,6,KAZ,Goal,1
+3.0,0:09,Action shot,3 - 7,BRA,ROCHA B,9.0,3,7,9,6,KAZ,Blocked,0
+4.0,7:31,Extra player shot,3 - 7,BRA,STELLET P,7.0,3,7,451,6,KAZ,Post,0
+4.0,7:09,5m shot,3 - 7,KAZ,UKUMANOV R,9.0,3,7,429,6,KAZ,Saved,0
+4.0,5:56,5m shot,3 - 7,BRA,CRUZ A,2.0,3,7,356,6,KAZ,Saved,0
+4.0,5:45,Extra player shot,4 - 7,BRA,CRUZ A,2.0,4,7,345,6,KAZ,Goal,1
+4.0,4:42,5m shot,5 - 7,BRA,COUTINHO G,4.0,5,7,282,6,KAZ,Goal,1
+4.0,3:35,Extra player shot,5 - 8,KAZ,SHAKENOV M,7.0,5,8,215,6,KAZ,Goal,1
+4.0,2:44,Counter attack,5 - 8,BRA,STELLET P,7.0,5,8,164,6,KAZ,Saved,0
+4.0,1:57,Action shot,5 - 8,BRA,GUIMARAES R,6.0,5,8,117,6,KAZ,Missed,0
+4.0,1:28,5m shot,5 - 8,KAZ,MEDVEDEV Y,2.0,5,8,88,6,KAZ,Post,0
+4.0,0:58,Action shot,5 - 9,KAZ,SHAKENOV M,7.0,5,9,58,6,KAZ,Goal,1
+4.0,0:24,Extra player shot,5 - 9,KAZ,SHAKENOV M,7.0,5,9,24,6,KAZ,Missed,0
+4.0,0:13,Action shot,5 - 9,BRA,COUTINHO G,4.0,5,9,13,6,KAZ,Saved,0

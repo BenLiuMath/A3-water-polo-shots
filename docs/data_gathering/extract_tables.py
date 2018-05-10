@@ -26,6 +26,7 @@
 import pandas as pd
 from tabula import read_pdf
 import sys
+import os
 
 # 
 # Read in file names and parameters from the command line
@@ -227,6 +228,11 @@ def infer_home_and_away(df):
 
 # Loop over all the game pdfs, extract and clean up the tables, write as csv files.
 # Track which teams are associated with which file
+
+# Check whether directory exists yet for this team. If not, create one
+game_list_dir = os.path.dirname(game_list_filename)
+if not os.path.exists(game_list_dir):
+	os.makedirs(game_list_dir)
 
 game_list_file = open(game_list_filename, 'w')
 game_list_file.write("Team 1,Team 2\n")
