@@ -21,6 +21,16 @@ all_team_data :
 	make team_data --no-print-directory; \
 	done < $(TEAM_LIST_FILE)
 
+## download_pdfs		: Fetches the pdfs of the appropriate year and sex from Omega's website
+.PHONY : download_pdfs
+download_pdfs :
+	@for i in $(ONE_TO_NINE); do \
+	wget -P $(RAW_PATH)/ $(BASE_URL)"0"$${i}$(PDF_TYPE)".pdf"; \
+	done
+	@for i in $(TEN_TO_NGAMES); do \
+	wget -P $(RAW_PATH)/ $(BASE_URL)$${i}$(PDF_TYPE)".pdf"; \
+	done
+
 
 # Generate a JSON file from a csv file
 # If you want to generate filename.json from an existing csv file filename.csv, run
