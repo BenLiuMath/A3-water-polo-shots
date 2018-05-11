@@ -1,0 +1,188 @@
+Period,Time,Action,Score,Team,Player,Cap,Opponent,BRA,Seconds,Game,Opponent name,Result,Goal
+1.0,7:18,Centre shot,0 - 0,BRA,CANETTI M,4.0,0,0,438,1,HUN,Post,0
+1.0,7:03,5m shot,1 - 0,HUN,KESZTHELYI R,8.0,1,0,423,1,HUN,Goal,1
+1.0,6:46,Action shot,1 - 0,BRA,CHIAPPINI I,8.0,1,0,406,1,HUN,Saved,0
+1.0,6:29,Action shot,1 - 0,HUN,BUJKA B,10.0,1,0,389,1,HUN,Post,0
+1.0,5:55,5m shot,2 - 0,HUN,KESZTHELYI R,8.0,2,0,355,1,HUN,Goal,1
+1.0,5:32,5m shot,2 - 0,BRA,CHIAPPINI I,8.0,2,0,332,1,HUN,Post,0
+1.0,5:13,5m shot,2 - 0,HUN,KISTELEKI D,4.0,2,0,313,1,HUN,Saved,0
+1.0,4:53,5m shot,2 - 1,BRA,COUTINHO M,11.0,2,1,293,1,HUN,Goal,1
+1.0,4:35,Extra player shot,3 - 1,HUN,TAKACS O,6.0,3,1,275,1,HUN,Goal,1
+1.0,4:14,Counter attack,4 - 1,HUN,KESZTHELYI R,8.0,4,1,254,1,HUN,Goal,1
+1.0,3:40,Extra player shot,4 - 2,BRA,MAIA L,5.0,4,2,220,1,HUN,Goal,1
+1.0,2:17,Extra player shot,4 - 2,BRA,COUTINHO M,11.0,4,2,137,1,HUN,Saved,0
+1.0,1:12,Penalty shot,5 - 2,HUN,MENCZINGER K,12.0,5,2,72,1,HUN,Goal,1
+1.0,0:54,Action shot,5 - 2,BRA,CANETTI M,4.0,5,2,54,1,HUN,Saved,0
+1.0,0:36,Extra player shot,5 - 2,HUN,SZUCS G,5.0,5,2,36,1,HUN,Saved,0
+1.0,0:05,Counter attack,6 - 2,HUN,MENCZINGER K,12.0,6,2,5,1,HUN,Goal,1
+2.0,7:25,Extra player shot,6 - 2,BRA,CHIAPPINI I,8.0,6,2,445,1,HUN,Blocked,0
+2.0,7:07,Centre shot,6 - 2,HUN,BUJKA B,10.0,6,2,427,1,HUN,Post,0
+2.0,6:21,Action shot,7 - 2,HUN,KISTELEKI D,4.0,7,2,381,1,HUN,Goal,1
+2.0,5:10,Extra player shot,7 - 2,BRA,CHIAPPINI I,8.0,7,2,310,1,HUN,Saved,0
+2.0,4:58,Penalty shot,8 - 2,HUN,MISKOLCZI I,7.0,8,2,298,1,HUN,Goal,1
+2.0,2:26,Counter attack,8 - 2,HUN,KISTELEKI D,4.0,8,2,146,1,HUN,Saved,0
+2.0,1:33,Centre shot,8 - 2,BRA,COUTINHO M,11.0,8,2,93,1,HUN,Blocked,0
+2.0,1:20,Action shot,9 - 2,HUN,MISKOLCZI I,7.0,9,2,80,1,HUN,Goal,1
+2.0,1:01,Centre shot,9 - 2,BRA,ABLA D,2.0,9,2,61,1,HUN,Saved,0
+3.0,7:18,Extra player shot,9 - 2,BRA,CHIAPPINI I,8.0,9,2,438,1,HUN,Saved,0
+3.0,6:41,5m shot,9 - 2,BRA,DIAS M,7.0,9,2,401,1,HUN,Saved,0
+3.0,6:18,Extra player shot,9 - 2,HUN,KESZTHELYI R,8.0,9,2,378,1,HUN,Missed,0
+3.0,5:49,5m shot,9 - 2,HUN,KISTELEKI D,4.0,9,2,349,1,HUN,Blocked,0
+3.0,5:02,Action shot,9 - 2,HUN,KISTELEKI D,4.0,9,2,302,1,HUN,Saved,0
+3.0,4:31,Centre shot,9 - 2,BRA,COUTINHO M,11.0,9,2,271,1,HUN,Missed,0
+3.0,4:10,Centre shot,9 - 2,HUN,TOTH I,9.0,9,2,250,1,HUN,Post,0
+3.0,4:04,Centre shot,9 - 2,HUN,KESZTHELYI R,8.0,9,2,244,1,HUN,Blocked,0
+3.0,2:30,Extra player shot,10 - 2,HUN,KESZTHELYI R,8.0,10,2,150,1,HUN,Goal,1
+3.0,2:04,Counter attack,11 - 2,HUN,KESZTHELYI R,8.0,11,2,124,1,HUN,Goal,1
+3.0,1:21,Centre shot,12 - 2,HUN,BUJKA B,10.0,12,2,81,1,HUN,Goal,1
+3.0,0:47,5m shot,12 - 2,HUN,SZUCS G,5.0,12,2,47,1,HUN,Post,0
+3.0,0:05,5m shot,12 - 2,BRA,CHIAPPINI I,8.0,12,2,5,1,HUN,Saved,0
+1.0,7:32,5m shot,0 - 0,BRA,CHIAPPINI I,8.0,0,0,452,2,KAZ,Post,0
+1.0,6:59,Extra player shot,1 - 0,KAZ,ALEXANDROVA N,7.0,1,0,419,2,KAZ,Goal,1
+1.0,6:08,Action shot,1 - 0,BRA,COUTINHO M,11.0,1,0,368,2,KAZ,Saved,0
+1.0,5:00,Action shot,1 - 0,KAZ,GRITSENKO M,10.0,1,0,300,2,KAZ,Blocked,0
+1.0,4:44,Action shot,1 - 1,BRA,ZABLITH M,3.0,1,1,284,2,KAZ,Goal,1
+1.0,4:26,Action shot,1 - 1,KAZ,ALEXANDROVA N,7.0,1,1,266,2,KAZ,Post,0
+1.0,3:56,5m shot,1 - 1,BRA,BAHIA V,12.0,1,1,236,2,KAZ,Blocked,0
+1.0,3:23,Extra player shot,1 - 2,BRA,ZABLITH M,3.0,1,2,203,2,KAZ,Goal,1
+1.0,2:53,Centre shot,1 - 2,KAZ,JAKAYEVA A,9.0,1,2,173,2,KAZ,Saved,0
+1.0,1:51,Centre shot,1 - 2,BRA,CANETTI M,4.0,1,2,111,2,KAZ,Post,0
+1.0,1:16,Extra player shot,1 - 2,KAZ,GRITSENKO M,10.0,1,2,76,2,KAZ,Post,0
+1.0,0:34,Penalty shot,2 - 2,KAZ,GRITSENKO M,10.0,2,2,34,2,KAZ,Goal,1
+1.0,0:02,Extra player shot,2 - 2,BRA,ZABLITH M,3.0,2,2,2,2,KAZ,Saved,0
+2.0,7:22,Extra player shot,3 - 2,KAZ,JAKAYEVA A,9.0,3,2,442,2,KAZ,Goal,1
+2.0,6:57,5m shot,3 - 2,BRA,BAHIA V,12.0,3,2,417,2,KAZ,Saved,0
+2.0,6:23,Extra player shot,3 - 2,KAZ,SHEPELINA N,2.0,3,2,383,2,KAZ,Post,0
+2.0,5:39,Action shot,3 - 2,KAZ,AKILBAYEVA A,3.0,3,2,339,2,KAZ,Saved,0
+2.0,5:18,Centre shot,3 - 2,BRA,ZABLITH M,3.0,3,2,318,2,KAZ,Saved,0
+2.0,3:43,Extra player shot,4 - 2,KAZ,SHEPELINA N,2.0,4,2,223,2,KAZ,Goal,1
+2.0,2:43,5m shot,4 - 2,BRA,VIGNA F,10.0,4,2,163,2,KAZ,Saved,0
+2.0,1:38,Centre shot,5 - 2,KAZ,TUROVA A,4.0,5,2,98,2,KAZ,Goal,1
+4.0,2:56,Counter attack,9 - 5,BRA,CHIAPPINI I,8.0,9,5,176,2,KAZ,Goal,1
+4.0,1:49,Action shot,9 - 5,KAZ,AKILBAYEVA A,3.0,9,5,109,2,KAZ,Saved,0
+2.0,0:23,Action shot,9 - 5,BRA,CANETTI M,4.0,9,5,23,2,KAZ,Post,0
+2.0,0:02,5m shot,9 - 5,KAZ,AKILBAYEVA A,3.0,9,5,2,2,KAZ,Saved,0
+3.0,7:33,5m shot,9 - 5,BRA,DIAS M,7.0,9,5,453,2,KAZ,Missed,0
+3.0,7:13,Penalty shot,9 - 5,BRA,COUTINHO M,11.0,9,5,433,2,KAZ,Missed,0
+3.0,6:50,Extra player shot,9 - 5,KAZ,SHEPELINA N,2.0,9,5,410,2,KAZ,Post,0
+3.0,6:40,Centre shot,6 - 2,KAZ,JAKAYEVA A,9.0,6,2,400,2,KAZ,Goal,1
+3.0,5:51,Centre shot,6 - 2,KAZ,JAKAYEVA A,9.0,6,2,351,2,KAZ,Post,0
+3.0,5:23,Extra player shot,6 - 2,BRA,CHIAPPINI I,8.0,6,2,323,2,KAZ,Saved,0
+3.0,4:40,Action shot,7 - 2,KAZ,GRITSENKO M,10.0,7,2,280,2,KAZ,Goal,1
+3.0,4:10,Action shot,7 - 2,BRA,CHIAPPINI I,8.0,7,2,250,2,KAZ,Blocked,0
+3.0,3:44,5m shot,7 - 2,KAZ,GRITSENKO M,10.0,7,2,224,2,KAZ,Missed,0
+3.0,3:00,Action shot,7 - 2,KAZ,SHEPELINA N,2.0,7,2,180,2,KAZ,Post,0
+3.0,2:20,Action shot,7 - 2,BRA,CHIAPPINI I,8.0,7,2,140,2,KAZ,Blocked,0
+4.0,7:22,Action shot,7 - 2,KAZ,GRITSENKO M,10.0,7,2,442,2,KAZ,Post,0
+4.0,7:21,Centre shot,8 - 2,KAZ,GLUSHKOVA Y,8.0,8,2,441,2,KAZ,Goal,1
+4.0,6:57,5m shot,8 - 2,BRA,VIGNA F,10.0,8,2,417,2,KAZ,Saved,0
+4.0,6:32,Action shot,9 - 2,KAZ,AKILBAYEVA A,3.0,9,2,392,2,KAZ,Goal,1
+4.0,6:10,Extra player shot,9 - 3,BRA,CHIAPPINI I,8.0,9,3,370,2,KAZ,Goal,1
+4.0,5:20,Action shot,9 - 3,BRA,CHIAPPINI I,8.0,9,3,320,2,KAZ,Saved,0
+4.0,4:52,Action shot,9 - 3,KAZ,GRITSENKO M,10.0,9,3,292,2,KAZ,Blocked,0
+4.0,4:25,Centre shot,9 - 3,BRA,ZABLITH M,3.0,9,3,265,2,KAZ,Post,0
+4.0,3:30,Extra player shot,9 - 4,BRA,CHIAPPINI I,8.0,9,4,210,2,KAZ,Goal,1
+4.0,3:08,Centre shot,9 - 4,KAZ,AKILBAYEVA A,3.0,9,4,188,2,KAZ,Saved,0
+4.0,0:35,Extra player shot,9 - 4,KAZ,MUSSAROVA A,12.0,9,4,35,2,KAZ,Saved,0
+4.0,0:03,Centre shot,9 - 4,BRA,ABLA D,2.0,9,4,3,2,KAZ,Missed,0
+4.0,0:01,5m shot,9 - 4,KAZ,ZHARKOVA A,1.0,9,4,1,2,KAZ,Saved,0
+1.0,7:28,Counter attack,0 - 1,BRA,ZABLITH M,3.0,0,1,448,3,ITA,Goal,1
+1.0,7:11,Action shot,1 - 1,ITA,BIANCONI R,8.0,1,1,431,3,ITA,Goal,1
+1.0,6:45,Action shot,1 - 1,BRA,DIAS M,7.0,1,1,405,3,ITA,Saved,0
+1.0,5:57,Action shot,1 - 1,BRA,CHIAPPINI I,8.0,1,1,357,3,ITA,Missed,0
+1.0,5:07,Penalty shot,2 - 1,ITA,BIANCONI R,8.0,2,1,307,3,ITA,Goal,1
+1.0,4:24,Centre shot,2 - 1,ITA,FRASSINETTI T,12.0,2,1,264,3,ITA,Saved,0
+1.0,3:40,Extra player shot,2 - 1,BRA,COUTINHO M,11.0,2,1,220,3,ITA,Saved,0
+1.0,2:47,Action shot,2 - 1,BRA,DIAS M,7.0,2,1,167,3,ITA,Post,0
+1.0,2:33,Action shot,2 - 1,ITA,EMMOLO G,9.0,2,1,153,3,ITA,Missed,0
+1.0,2:13,5m shot,2 - 1,BRA,CHIAPPINI I,8.0,2,1,133,3,ITA,Blocked,0
+1.0,1:30,Action shot,2 - 1,BRA,CANETTI M,4.0,2,1,90,3,ITA,Post,0
+1.0,1:12,Action shot,2 - 1,ITA,COTTI A,11.0,2,1,72,3,ITA,Missed,0
+1.0,0:27,Action shot,2 - 1,ITA,COTTI A,11.0,2,1,27,3,ITA,Saved,0
+1.0,0:01,Action shot,2 - 1,BRA,VIGNA F,10.0,2,1,1,3,ITA,Saved,0
+2.0,7:31,Action shot,2 - 1,BRA,CHIAPPINI I,8.0,2,1,451,3,ITA,Post,0
+2.0,7:13,Action shot,2 - 1,ITA,di MARIO T,7.0,2,1,433,3,ITA,Blocked,0
+2.0,6:56,Action shot,2 - 1,BRA,COUTINHO M,11.0,2,1,416,3,ITA,Missed,0
+2.0,6:39,Centre shot,2 - 1,ITA,PALMIERI V,10.0,2,1,399,3,ITA,Post,0
+2.0,6:10,5m shot,2 - 1,BRA,CHIAPPINI I,8.0,2,1,370,3,ITA,Missed,0
+2.0,5:58,5m shot,2 - 1,ITA,di MARIO T,7.0,2,1,358,3,ITA,Post,0
+2.0,5:30,5m shot,2 - 1,BRA,CHIAPPINI I,8.0,2,1,330,3,ITA,Saved,0
+2.0,5:07,Action shot,3 - 1,ITA,GARIBOTTI A,3.0,3,1,307,3,ITA,Goal,1
+2.0,3:42,5m shot,3 - 1,BRA,DIAS M,7.0,3,1,222,3,ITA,Saved,0
+2.0,3:14,Action shot,4 - 1,ITA,GARIBOTTI A,3.0,4,1,194,3,ITA,Goal,1
+2.0,2:33,Action shot,5 - 1,ITA,EMMOLO G,9.0,5,1,153,3,ITA,Goal,1
+2.0,1:41,Extra player shot,6 - 1,ITA,EMMOLO G,9.0,6,1,101,3,ITA,Goal,1
+2.0,1:14,Action shot,6 - 1,BRA,CHIAPPINI I,8.0,6,1,74,3,ITA,Missed,0
+2.0,0:51,Extra player shot,7 - 1,ITA,PALMIERI V,10.0,7,1,51,3,ITA,Goal,1
+2.0,0:28,Action shot,7 - 1,BRA,CHIAPPINI I,8.0,7,1,28,3,ITA,Missed,0
+2.0,0:07,Action shot,8 - 1,ITA,GARIBOTTI A,3.0,8,1,7,3,ITA,Goal,1
+2.0,0:04,5m shot,8 - 1,BRA,ZABLITH M,3.0,8,1,4,3,ITA,Missed,0
+3.0,7:31,Action shot,8 - 1,BRA,ZABLITH M,3.0,8,1,451,3,ITA,Saved,0
+3.0,6:47,Extra player shot,8 - 1,ITA,di MARIO T,7.0,8,1,407,3,ITA,Saved,0
+3.0,5:08,Action shot,8 - 1,ITA,BIANCONI R,8.0,8,1,308,3,ITA,Blocked,0
+3.0,4:42,Centre shot,8 - 2,BRA,VIGNA F,10.0,8,2,282,3,ITA,Goal,1
+3.0,4:28,Penalty shot,9 - 2,ITA,QUEIROLO E,5.0,9,2,268,3,ITA,Goal,1
+3.0,3:47,Action shot,10 - 2,ITA,QUEIROLO E,5.0,10,2,227,3,ITA,Goal,1
+3.0,3:01,Action shot,10 - 2,BRA,COUTINHO M,11.0,10,2,181,3,ITA,Saved,0
+3.0,1:35,5m shot,10 - 2,BRA,ZABLITH M,3.0,10,2,95,3,ITA,Blocked,0
+3.0,1:18,5m shot,10 - 2,ITA,BIANCONI R,8.0,10,2,78,3,ITA,Post,0
+3.0,0:01,5m shot,10 - 2,ITA,BIANCONI R,8.0,10,2,1,3,ITA,Saved,0
+4.0,7:31,Action shot,10 - 2,BRA,DIAS M,7.0,10,2,451,3,ITA,Saved,0
+4.0,7:02,Action shot,10 - 2,ITA,di MARIO T,7.0,10,2,422,3,ITA,Blocked,0
+4.0,6:12,Centre shot,10 - 2,ITA,PALMIERI V,10.0,10,2,372,3,ITA,Post,0
+4.0,5:47,5m shot,10 - 2,BRA,ZABLITH M,3.0,10,2,347,3,ITA,Missed,0
+4.0,5:31,Action shot,11 - 2,ITA,di MARIO T,7.0,11,2,331,3,ITA,Goal,1
+4.0,5:11,Action shot,11 - 2,BRA,VIGNA F,10.0,11,2,311,3,ITA,Saved,0
+4.0,4:44,Action shot,11 - 2,ITA,RADICCHI F,4.0,11,2,284,3,ITA,Blocked,0
+4.0,4:12,Action shot,11 - 2,BRA,ABLA D,2.0,11,2,252,3,ITA,Saved,0
+4.0,3:27,Action shot,11 - 3,BRA,CHIAPPINI I,8.0,11,3,207,3,ITA,Goal,1
+4.0,3:01,Action shot,11 - 3,ITA,GARIBOTTI A,3.0,11,3,181,3,ITA,Saved,0
+4.0,2:00,Extra player shot,12 - 3,ITA,EMMOLO G,9.0,12,3,120,3,ITA,Goal,1
+4.0,1:12,5m shot,12 - 4,BRA,DIAS M,7.0,12,4,72,3,ITA,Goal,1
+4.0,0:37,Counter attack,12 - 5,BRA,ZABLITH M,3.0,12,5,37,3,ITA,Goal,1
+4.0,0:13,Penalty shot,13 - 5,ITA,BIANCONI R,8.0,13,5,13,3,ITA,Goal,1
+4.0,0:03,5m shot,13 - 5,BRA,CHIAPPINI I,8.0,13,5,3,3,ITA,Missed,0
+4.0,0:01,5m shot,13 - 5,ITA,SPARANO L,13.0,13,5,1,3,ITA,Saved,0
+1.0,6:02,Action shot,1 - 0,USA,RULON K,10.0,1,0,362,4,USA,Goal,1
+1.0,5:34,5m shot,1 - 0,BRA,ZABLITH M,3.0,1,0,334,4,USA,Missed,0
+1.0,5:11,5m shot,1 - 0,USA,CLARK C,5.0,1,0,311,4,USA,Post,0
+1.0,4:52,Centre shot,1 - 0,BRA,CANETTI M,4.0,1,0,292,4,USA,Saved,0
+1.0,4:18,Action shot,1 - 0,BRA,DIAS M,7.0,1,0,258,4,USA,Post,0
+1.0,3:53,Action shot,2 - 0,USA,NEUSHUL K,8.0,2,0,233,4,USA,Goal,1
+1.0,3:18,Counter attack,2 - 0,USA,DRIES A,11.0,2,0,198,4,USA,Saved,0
+1.0,2:57,Penalty shot,2 - 0,USA,NEUSHUL K,8.0,2,0,177,4,USA,Missed,0
+1.0,2:10,Action shot,2 - 0,USA,FATTAL R,4.0,2,0,130,4,USA,Missed,0
+1.0,1:17,Extra player shot,3 - 0,USA,SEIDEMANN M,3.0,3,0,77,4,USA,Goal,1
+2.0,7:32,Action shot,3 - 0,USA,RULON K,10.0,3,0,452,4,USA,Post,0
+2.0,7:22,5m shot,4 - 0,USA,RULON K,10.0,4,0,442,4,USA,Goal,1
+2.0,6:35,Action shot,4 - 0,BRA,CHIAPPINI I,8.0,4,0,395,4,USA,Saved,0
+2.0,6:14,Centre shot,5 - 0,USA,CRAIG K,12.0,5,0,374,4,USA,Goal,1
+2.0,5:23,5m shot,6 - 0,USA,SEIDEMANN M,3.0,6,0,323,4,USA,Goal,1
+2.0,4:35,Action shot,7 - 0,USA,SILVER L,2.0,7,0,275,4,USA,Goal,1
+2.0,3:50,Centre shot,7 - 0,USA,DRIES A,11.0,7,0,230,4,USA,Saved,0
+2.0,3:28,Centre shot,8 - 0,USA,DRIES A,11.0,8,0,208,4,USA,Goal,1
+2.0,2:55,Action shot,8 - 1,BRA,ZABLITH M,3.0,8,1,175,4,USA,Goal,1
+2.0,2:08,Action shot,9 - 1,USA,KRAUS J,9.0,9,1,128,4,USA,Goal,1
+2.0,1:42,5m shot,9 - 1,BRA,COUTINHO M,11.0,9,1,102,4,USA,Missed,0
+2.0,1:18,Action shot,10 - 1,USA,FATTAL R,4.0,10,1,78,4,USA,Goal,1
+2.0,0:40,Action shot,10 - 1,USA,FATTAL R,4.0,10,1,40,4,USA,Saved,0
+3.0,7:13,5m shot,10 - 1,BRA,VIGNA F,10.0,10,1,433,4,USA,Missed,0
+3.0,6:59,Centre shot,10 - 1,USA,CRAIG K,12.0,10,1,419,4,USA,Missed,0
+3.0,6:31,5m shot,10 - 1,BRA,DIAS M,7.0,10,1,391,4,USA,Saved,0
+3.0,5:32,Action shot,10 - 1,USA,RULON K,10.0,10,1,332,4,USA,Post,0
+3.0,4:40,Action shot,10 - 1,USA,MATHEWSON C,7.0,10,1,280,4,USA,Saved,0
+3.0,3:28,Action shot,10 - 2,BRA,CHIAPPINI I,8.0,10,2,208,4,USA,Goal,1
+3.0,3:02,Centre shot,10 - 2,USA,NEUSHUL K,8.0,10,2,182,4,USA,Saved,0
+3.0,2:34,5m shot,10 - 3,BRA,BAHIA V,12.0,10,3,154,4,USA,Goal,1
+3.0,2:10,Action shot,11 - 3,USA,NEUSHUL K,8.0,11,3,130,4,USA,Goal,1
+3.0,1:21,Action shot,11 - 3,USA,SEIDEMANN M,3.0,11,3,81,4,USA,Missed,0
+3.0,0:22,Action shot,12 - 3,USA,FATTAL R,4.0,12,3,22,4,USA,Goal,1
+4.0,7:31,Action shot,12 - 3,USA,SEIDEMANN M,3.0,12,3,451,4,USA,Saved,0
+4.0,7:10,Centre shot,13 - 3,USA,STEFFENS M,6.0,13,3,430,4,USA,Goal,1
+4.0,6:15,5m shot,14 - 3,USA,SILVER L,2.0,14,3,375,4,USA,Goal,1
+4.0,4:30,5m shot,14 - 3,BRA,CHIAPPINI I,8.0,14,3,270,4,USA,Post,0
+4.0,2:25,Action shot,14 - 3,BRA,VIGNA F,10.0,14,3,145,4,USA,Missed,0
+4.0,2:12,Counter attack,14 - 3,USA,CLARK C,5.0,14,3,132,4,USA,Saved,0
+4.0,1:13,Action shot,14 - 3,USA,FATTAL R,4.0,14,3,73,4,USA,Missed,0
+4.0,0:27,Action shot,14 - 3,BRA,COUTINHO M,11.0,14,3,27,4,USA,Blocked,0
+4.0,0:03,Centre shot,14 - 3,USA,DRIES A,11.0,14,3,3,4,USA,Post,0

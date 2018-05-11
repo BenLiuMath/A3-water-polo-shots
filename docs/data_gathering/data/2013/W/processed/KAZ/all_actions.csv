@@ -1,0 +1,534 @@
+Action,Cap,Game,KAZ,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,1.0,1,0,0,ITA,1.0,ZHARKOVA A,0 - 0,480,KAZ,8:00
+Starting goalkeeper,1.0,1,0,0,ITA,1.0,GIGLI E,0 - 0,480,ITA,8:00
+Sprint won possession,4.0,1,0,0,ITA,1.0,TUROVA A,0 - 0,480,KAZ,8:00
+Centre shot - Missed,9.0,1,0,0,ITA,1.0,JAKAYEVA A,0 - 0,464,KAZ,7:44
+Turnover foul,7.0,1,0,0,ITA,1.0,di MARIO T,0 - 0,437,ITA,7:17
+Turnover foul,7.0,1,0,0,ITA,1.0,ALEXANDROVA N,0 - 0,419,KAZ,6:59
+Steal,1.0,1,0,0,ITA,1.0,GIGLI E,0 - 0,419,ITA,6:59
+Turnover foul,7.0,1,0,0,ITA,1.0,di MARIO T,0 - 0,399,ITA,6:39
+Steal,4.0,1,0,0,ITA,1.0,TUROVA A,0 - 0,399,KAZ,6:39
+20 sec. exclusion in centre,4.0,1,0,0,ITA,1.0,RADICCHI F,0 - 0,384,ITA,6:24
+Extra player shot - Post,10.0,1,0,0,ITA,1.0,GRITSENKO M,0 - 0,366,KAZ,6:06
+Centre shot - Post,12.0,1,0,0,ITA,1.0,FRASSINETTI T,0 - 0,354,ITA,5:54
+5m shot - Blocked,10.0,1,0,0,ITA,1.0,GRITSENKO M,0 - 0,323,KAZ,5:23
+5m shot - Blocked,2.0,1,0,0,ITA,1.0,POMERI F,0 - 0,298,ITA,4:58
+Centre shot - Goal,9.0,1,1,0,ITA,1.0,JAKAYEVA A,0 - 1,279,KAZ,4:39
+Turnover foul,7.0,1,1,0,ITA,1.0,di MARIO T,0 - 1,267,ITA,4:27
+Steal,7.0,1,1,0,ITA,1.0,ALEXANDROVA N,0 - 1,267,KAZ,4:27
+Action shot - Saved,6.0,1,1,0,ITA,1.0,ZUBKOVA A,0 - 1,242,KAZ,4:02
+Turnover foul,7.0,1,1,0,ITA,1.0,di MARIO T,0 - 1,239,ITA,3:59
+Action shot - Post,8.0,1,1,0,ITA,1.0,BIANCONI R,0 - 1,186,ITA,3:06
+Turnover foul,10.0,1,1,0,ITA,1.0,GRITSENKO M,0 - 1,158,KAZ,2:38
+Turnover foul,10.0,1,1,0,ITA,1.0,PALMIERI V,0 - 1,150,ITA,2:30
+20 sec. exclusion in centre,7.0,1,1,0,ITA,1.0,di MARIO T,0 - 1,125,ITA,2:05
+Extra player shot - Goal,7.0,1,2,0,ITA,1.0,ALEXANDROVA N,0 - 2,109,KAZ,1:49
+20 sec. exclusion in field,7.0,1,2,0,ITA,1.0,ALEXANDROVA N,0 - 2,99,KAZ,1:39
+Extra player shot - Post,8.0,1,2,0,ITA,1.0,BIANCONI R,0 - 2,82,ITA,1:22
+20 sec. exclusion in field,8.0,1,2,0,ITA,1.0,BIANCONI R,0 - 2,71,ITA,1:11
+Extra player shot - Goal,10.0,1,3,0,ITA,1.0,GRITSENKO M,0 - 3,52,KAZ,0:52
+Penalty foul,4.0,1,3,0,ITA,1.0,TUROVA A,0 - 3,38,KAZ,0:38
+Penalty shot - Goal,7.0,1,3,1,ITA,1.0,di MARIO T,1 - 3,38,ITA,0:38
+Turnover foul,7.0,1,3,1,ITA,1.0,ALEXANDROVA N,1 - 3,9,KAZ,0:09
+Steal,11.0,1,3,1,ITA,1.0,COTTI A,1 - 3,9,ITA,0:09
+20 sec. exclusion in field,4.0,1,3,1,ITA,1.0,TUROVA A,1 - 3,5,KAZ,0:05
+Starting goalkeeper,1.0,1,3,1,ITA,2.0,ZHARKOVA A,1 - 3,480,KAZ,8:00
+Starting goalkeeper,1.0,1,3,1,ITA,2.0,GIGLI E,1 - 3,480,ITA,8:00
+Sprint won possession,12.0,1,3,1,ITA,2.0,FRASSINETTI T,1 - 3,480,ITA,8:00
+Action shot - Missed,9.0,1,3,1,ITA,2.0,EMMOLO G,1 - 3,462,ITA,7:42
+Action shot - Missed,2.0,1,3,1,ITA,2.0,SHEPELINA N,1 - 3,433,KAZ,7:13
+Penalty foul,6.0,1,3,1,ITA,2.0,ZUBKOVA A,1 - 3,415,KAZ,6:55
+Penalty shot - Goal,7.0,1,3,2,ITA,2.0,di MARIO T,2 - 3,415,ITA,6:55
+20 sec. exclusion in field,10.0,1,3,2,ITA,2.0,GRITSENKO M,2 - 3,403,KAZ,6:43
+Penalty foul,10.0,1,3,2,ITA,2.0,GRITSENKO M,2 - 3,394,KAZ,6:34
+Penalty shot - Goal,7.0,1,3,3,ITA,2.0,di MARIO T,3 - 3,394,ITA,6:34
+Centre shot - Saved,9.0,1,3,3,ITA,2.0,JAKAYEVA A,3 - 3,375,KAZ,6:15
+Turnover foul,7.0,1,3,3,ITA,2.0,di MARIO T,3 - 3,361,ITA,6:01
+Steal,1.0,1,3,3,ITA,2.0,ZHARKOVA A,3 - 3,361,KAZ,6:01
+Counter attack - Saved,2.0,1,3,3,ITA,2.0,SHEPELINA N,3 - 3,347,KAZ,5:47
+Centre shot - Saved,9.0,1,3,3,ITA,2.0,JAKAYEVA A,3 - 3,333,KAZ,5:33
+20 sec. exclusion in field,9.0,1,3,3,ITA,2.0,JAKAYEVA A,3 - 3,331,KAZ,5:31
+Extra player shot - Goal,11.0,1,3,4,ITA,2.0,COTTI A,4 - 3,314,ITA,5:14
+5m shot - Missed,10.0,1,3,4,ITA,2.0,GRITSENKO M,4 - 3,293,KAZ,4:53
+Action shot - Post,7.0,1,3,4,ITA,2.0,di MARIO T,4 - 3,275,ITA,4:35
+20 sec. exclusion in field,8.0,1,3,4,ITA,2.0,BIANCONI R,4 - 3,263,ITA,4:23
+Turnover foul,9.0,1,3,4,ITA,2.0,JAKAYEVA A,4 - 3,242,KAZ,4:02
+Steal,12.0,1,3,4,ITA,2.0,FRASSINETTI T,4 - 3,242,ITA,4:02
+Turnover foul,5.0,1,3,4,ITA,2.0,QUEIROLO E,4 - 3,217,ITA,3:37
+Steal,7.0,1,3,4,ITA,2.0,ALEXANDROVA N,4 - 3,217,KAZ,3:37
+Action shot - Blocked,10.0,1,3,4,ITA,2.0,GRITSENKO M,4 - 3,195,KAZ,3:15
+Action shot - Goal,3.0,1,3,5,ITA,2.0,GARIBOTTI A,5 - 3,181,ITA,3:01
+Turnover foul,9.0,1,3,5,ITA,2.0,JAKAYEVA A,5 - 3,168,KAZ,2:48
+Action shot - Saved,3.0,1,3,5,ITA,2.0,GARIBOTTI A,5 - 3,146,ITA,2:26
+5m shot - Post,10.0,1,3,5,ITA,2.0,GRITSENKO M,5 - 3,124,KAZ,2:04
+Turnover foul,5.0,1,3,5,ITA,2.0,QUEIROLO E,5 - 3,110,ITA,1:50
+Action shot - Saved,11.0,1,3,5,ITA,4.0,COTTI A,5 - 3,187,ITA,3:07
+20 sec. exclusion in field,7.0,1,3,5,ITA,4.0,ALEXANDROVA N,5 - 3,141,KAZ,2:21
+Exclusion with substitution,7.0,1,3,5,ITA,4.0,ALEXANDROVA N,5 - 3,141,KAZ,2:21
+Extra player shot - Goal,8.0,1,6,9,ITA,4.0,BIANCONI R,9 - 6,123,ITA,2:03
+Action shot - Post,9.0,1,6,9,ITA,4.0,JAKAYEVA A,9 - 6,110,KAZ,1:50
+5m shot - Post,8.0,1,6,9,ITA,4.0,BIANCONI R,9 - 6,89,ITA,1:29
+Action shot - Saved,3.0,1,6,9,ITA,4.0,AKILBAYEVA A,9 - 6,62,KAZ,1:02
+Double exclusion,9.0,1,6,9,ITA,4.0,JAKAYEVA A,9 - 6,46,KAZ,0:46
+Steal,1.0,1,6,9,ITA,2.0,ZHARKOVA A,9 - 6,110,KAZ,1:50
+Turnover foul,9.0,1,6,9,ITA,2.0,JAKAYEVA A,9 - 6,100,KAZ,1:40
+Centre shot - Saved,12.0,1,6,9,ITA,2.0,FRASSINETTI T,9 - 6,87,ITA,1:27
+Turnover foul,7.0,1,6,9,ITA,2.0,ALEXANDROVA N,9 - 6,58,KAZ,0:58
+Steal,2.0,1,6,9,ITA,2.0,POMERI F,9 - 6,58,ITA,0:58
+Centre shot - Saved,12.0,1,6,9,ITA,2.0,FRASSINETTI T,9 - 6,39,ITA,0:39
+20 sec. exclusion in centre,6.0,1,6,9,ITA,2.0,ZUBKOVA A,9 - 6,23,KAZ,0:23
+Extra player shot - Saved,11.0,1,6,9,ITA,2.0,COTTI A,9 - 6,10,ITA,0:10
+Extra player shot - Goal,11.0,1,3,6,ITA,2.0,COTTI A,6 - 3,8,ITA,0:08
+Starting goalkeeper,1.0,1,3,6,ITA,3.0,GIGLI E,6 - 3,480,ITA,8:00
+Starting goalkeeper,1.0,1,3,6,ITA,3.0,ZHARKOVA A,6 - 3,480,KAZ,8:00
+Sprint won possession,6.0,1,3,6,ITA,3.0,AIELLO R,6 - 3,480,ITA,8:00
+5m shot - Goal,9.0,1,3,7,ITA,3.0,EMMOLO G,7 - 3,457,ITA,7:37
+Turnover foul,2.0,1,3,7,ITA,3.0,SHEPELINA N,7 - 3,431,KAZ,7:11
+Centre shot - Blocked,10.0,1,3,7,ITA,3.0,PALMIERI V,7 - 3,413,ITA,6:53
+5m shot - Missed,8.0,1,3,7,ITA,3.0,BIANCONI R,7 - 3,400,ITA,6:40
+5m shot - Missed,7.0,1,3,7,ITA,3.0,ALEXANDROVA N,7 - 3,379,KAZ,6:19
+5m shot - Blocked,4.0,1,3,7,ITA,3.0,RADICCHI F,7 - 3,355,ITA,5:55
+5m shot - Post,10.0,1,3,7,ITA,3.0,GRITSENKO M,7 - 3,331,KAZ,5:31
+Turnover foul,8.0,1,3,7,ITA,3.0,BIANCONI R,7 - 3,328,ITA,5:28
+Action shot - Saved,2.0,1,3,7,ITA,3.0,SHEPELINA N,7 - 3,299,KAZ,4:59
+Centre shot - Goal,10.0,1,3,8,ITA,3.0,PALMIERI V,8 - 3,283,ITA,4:43
+5m shot - Post,3.0,1,3,8,ITA,3.0,AKILBAYEVA A,8 - 3,256,KAZ,4:16
+5m shot - Saved,9.0,1,3,8,ITA,3.0,EMMOLO G,8 - 3,237,ITA,3:57
+5m shot - Missed,4.0,1,3,8,ITA,3.0,TUROVA A,8 - 3,214,KAZ,3:34
+Turnover foul,10.0,1,3,8,ITA,3.0,PALMIERI V,8 - 3,199,ITA,3:19
+5m shot - Goal,4.0,1,4,8,ITA,3.0,TUROVA A,8 - 4,172,KAZ,2:52
+5m shot - Missed,8.0,1,4,8,ITA,3.0,BIANCONI R,8 - 4,155,ITA,2:35
+5m shot - Post,10.0,1,4,8,ITA,3.0,GRITSENKO M,8 - 4,128,KAZ,2:08
+20 sec. exclusion in field,6.0,1,4,8,ITA,3.0,ZUBKOVA A,8 - 4,115,KAZ,1:55
+Exclusion with substitution,6.0,1,4,8,ITA,3.0,ZUBKOVA A,8 - 4,115,KAZ,1:55
+Time-Out,,1,4,8,ITA,3.0,,8 - 4,115,ITA,1:55
+5m shot - Missed,2.0,1,4,8,ITA,3.0,POMERI F,8 - 4,80,ITA,1:20
+20 sec. exclusion in field,12.0,1,4,8,ITA,3.0,FRASSINETTI T,8 - 4,66,ITA,1:06
+Time-Out,,1,4,8,ITA,3.0,,8 - 4,66,KAZ,1:06
+Extra player shot - Goal,3.0,1,5,8,ITA,3.0,AKILBAYEVA A,8 - 5,54,KAZ,0:54
+Turnover foul,6.0,1,5,8,ITA,3.0,AIELLO R,8 - 5,41,ITA,0:41
+5m shot - Saved,3.0,1,5,8,ITA,3.0,AKILBAYEVA A,8 - 5,25,KAZ,0:25
+20 sec. exclusion in centre,2.0,1,5,8,ITA,3.0,POMERI F,8 - 5,10,ITA,0:10
+Extra player shot - Goal,10.0,1,6,8,ITA,3.0,GRITSENKO M,8 - 6,1,KAZ,0:01
+Starting goalkeeper,1.0,1,6,8,ITA,4.0,GIGLI E,8 - 6,480,ITA,8:00
+Starting goalkeeper,1.0,1,6,8,ITA,4.0,ZHARKOVA A,8 - 6,480,KAZ,8:00
+Sprint won possession,7.0,1,6,8,ITA,4.0,di MARIO T,8 - 6,480,ITA,8:00
+Turnover foul,12.0,1,6,8,ITA,4.0,FRASSINETTI T,8 - 6,454,ITA,7:34
+Steal,1.0,1,6,8,ITA,4.0,ZHARKOVA A,8 - 6,454,KAZ,7:34
+Turnover foul,8.0,1,6,8,ITA,4.0,GLUSHKOVA Y,8 - 6,438,KAZ,7:18
+Turnover foul,4.0,1,6,8,ITA,4.0,RADICCHI F,8 - 6,413,ITA,6:53
+Steal,2.0,1,6,8,ITA,4.0,SHEPELINA N,8 - 6,413,KAZ,6:53
+5m shot - Blocked,10.0,1,6,8,ITA,4.0,GRITSENKO M,8 - 6,389,KAZ,6:29
+Action shot - Saved,7.0,1,6,8,ITA,4.0,di MARIO T,8 - 6,371,ITA,6:11
+20 sec. exclusion in centre,4.0,1,6,8,ITA,4.0,RADICCHI F,8 - 6,346,ITA,5:46
+Time-Out,,1,6,8,ITA,4.0,,8 - 6,346,KAZ,5:46
+Extra player shot - Post,2.0,1,6,8,ITA,4.0,SHEPELINA N,8 - 6,327,KAZ,5:27
+Turnover foul,12.0,1,6,8,ITA,4.0,FRASSINETTI T,8 - 6,308,ITA,5:08
+20 sec. exclusion in field,4.0,1,6,8,ITA,4.0,RADICCHI F,8 - 6,288,ITA,4:48
+Exclusion with substitution,4.0,1,6,8,ITA,4.0,RADICCHI F,8 - 6,288,ITA,4:48
+Extra player shot - Saved,3.0,1,6,8,ITA,4.0,AKILBAYEVA A,8 - 6,266,KAZ,4:26
+5m shot - Missed,7.0,1,6,8,ITA,4.0,di MARIO T,8 - 6,243,ITA,4:03
+20 sec. exclusion in field,7.0,1,6,8,ITA,4.0,di MARIO T,8 - 6,241,ITA,4:01
+Action shot - Blocked,9.0,1,6,8,ITA,4.0,JAKAYEVA A,8 - 6,210,KAZ,3:30
+20 sec. exclusion in field,7.0,1,6,8,ITA,4.0,ALEXANDROVA N,8 - 6,210,KAZ,3:30
+Time-Out,,1,6,8,ITA,4.0,,8 - 6,210,ITA,3:30
+20 sec. exclusion in field,2.0,1,6,8,ITA,4.0,SHEPELINA N,8 - 6,199,KAZ,3:19
+Double exclusion,8.0,1,6,8,ITA,4.0,BIANCONI R,8 - 6,46,ITA,0:46
+Exclusion with substitution,8.0,1,6,8,ITA,4.0,BIANCONI R,8 - 6,46,ITA,0:46
+20 sec. exclusion in field,7.0,1,6,8,ITA,4.0,di MARIO T,8 - 6,36,ITA,0:36
+Exclusion with substitution,7.0,1,6,8,ITA,4.0,di MARIO T,8 - 6,36,ITA,0:36
+Extra player shot - Goal,3.0,1,7,9,ITA,4.0,AKILBAYEVA A,9 - 7,23,KAZ,0:23
+Action shot - Post,12.0,1,7,9,ITA,4.0,FRASSINETTI T,9 - 7,11,ITA,0:11
+Action shot - Missed,9.0,1,7,9,ITA,4.0,JAKAYEVA A,9 - 7,2,KAZ,0:02
+Starting goalkeeper,1.0,2,0,0,BRA,1.0,CANETTI M,0 - 0,480,BRA,8:00
+Starting goalkeeper,1.0,2,0,0,BRA,1.0,ZHARKOVA A,0 - 0,480,KAZ,8:00
+Sprint won possession,3.0,2,0,0,BRA,1.0,ZABLITH M,0 - 0,480,BRA,8:00
+5m shot - Post,8.0,2,0,0,BRA,1.0,CHIAPPINI I,0 - 0,452,BRA,7:32
+20 sec. exclusion in field,8.0,2,0,0,BRA,1.0,CHIAPPINI I,0 - 0,437,BRA,7:17
+Extra player shot - Goal,7.0,2,1,0,BRA,1.0,ALEXANDROVA N,1 - 0,419,KAZ,6:59
+Turnover foul,3.0,2,1,0,BRA,1.0,ZABLITH M,1 - 0,400,BRA,6:40
+Steal,9.0,2,1,0,BRA,1.0,JAKAYEVA A,1 - 0,400,KAZ,6:40
+Turnover foul,9.0,2,1,0,BRA,1.0,JAKAYEVA A,1 - 0,384,KAZ,6:24
+Steal,1.0,2,1,0,BRA,1.0,CANETTI M,1 - 0,384,BRA,6:24
+Action shot - Saved,11.0,2,1,0,BRA,1.0,COUTINHO M,1 - 0,368,BRA,6:08
+20 sec. exclusion in field,10.0,2,1,0,BRA,1.0,GRITSENKO M,1 - 0,358,KAZ,5:58
+Turnover foul,10.0,2,1,0,BRA,1.0,VIGNA F,1 - 0,334,BRA,5:34
+Steal,7.0,2,1,0,BRA,1.0,ALEXANDROVA N,1 - 0,334,KAZ,5:34
+20 sec. exclusion in field,8.0,2,1,0,BRA,1.0,CHIAPPINI I,1 - 0,330,BRA,5:30
+Action shot - Blocked,10.0,2,1,0,BRA,1.0,GRITSENKO M,1 - 0,300,KAZ,5:00
+Action shot - Goal,3.0,2,1,1,BRA,1.0,ZABLITH M,1 - 1,284,BRA,4:44
+Action shot - Post,7.0,2,1,1,BRA,1.0,ALEXANDROVA N,1 - 1,266,KAZ,4:26
+5m shot - Blocked,12.0,2,1,1,BRA,1.0,BAHIA V,1 - 1,236,BRA,3:56
+20 sec. exclusion in field,6.0,2,1,1,BRA,1.0,ZUBKOVA A,1 - 1,223,KAZ,3:43
+Extra player shot - Goal,3.0,2,1,2,BRA,1.0,ZABLITH M,1 - 2,203,BRA,3:23
+Centre shot - Saved,9.0,2,1,2,BRA,1.0,JAKAYEVA A,1 - 2,173,KAZ,2:53
+Turnover foul,12.0,2,1,2,BRA,1.0,BAHIA V,1 - 2,155,BRA,2:35
+Turnover foul,9.0,2,1,2,BRA,1.0,JAKAYEVA A,1 - 2,130,KAZ,2:10
+Centre shot - Post,4.0,2,1,2,BRA,1.0,CANETTI M,1 - 2,111,BRA,1:51
+20 sec. exclusion in field,3.0,2,1,2,BRA,1.0,ZABLITH M,1 - 2,93,BRA,1:33
+Extra player shot - Post,10.0,2,1,2,BRA,1.0,GRITSENKO M,1 - 2,76,KAZ,1:16
+Turnover foul,4.0,2,1,2,BRA,1.0,TUROVA A,1 - 2,70,KAZ,1:10
+Steal,5.0,2,1,2,BRA,1.0,MAIA L,1 - 2,70,BRA,1:10
+Turnover foul,4.0,2,1,2,BRA,1.0,CANETTI M,1 - 2,45,BRA,0:45
+Penalty foul,7.0,2,1,2,BRA,1.0,DIAS M,1 - 2,34,BRA,0:34
+Penalty shot - Goal,10.0,2,2,2,BRA,1.0,GRITSENKO M,2 - 2,34,KAZ,0:34
+20 sec. exclusion in field,7.0,2,2,2,BRA,1.0,ALEXANDROVA N,2 - 2,19,KAZ,0:19
+Extra player shot - Saved,3.0,2,2,2,BRA,1.0,ZABLITH M,2 - 2,2,BRA,0:02
+Starting goalkeeper,1.0,2,2,2,BRA,2.0,ZHARKOVA A,2 - 2,480,KAZ,8:00
+Starting goalkeeper,1.0,2,2,2,BRA,2.0,CANETTI M,2 - 2,480,BRA,8:00
+Sprint won possession,3.0,2,2,2,BRA,2.0,ZABLITH M,2 - 2,480,BRA,8:00
+Turnover foul,11.0,2,2,2,BRA,2.0,COUTINHO M,2 - 2,458,BRA,7:38
+20 sec. exclusion in centre,7.0,2,2,2,BRA,2.0,DIAS M,2 - 2,445,BRA,7:25
+Extra player shot - Goal,9.0,2,3,2,BRA,2.0,JAKAYEVA A,3 - 2,442,KAZ,7:22
+5m shot - Saved,12.0,2,3,2,BRA,2.0,BAHIA V,3 - 2,417,BRA,6:57
+Turnover foul,12.0,2,3,2,BRA,2.0,BAHIA V,3 - 2,400,BRA,6:40
+Steal,4.0,2,3,2,BRA,2.0,TUROVA A,3 - 2,400,KAZ,6:40
+20 sec. exclusion in field,12.0,2,3,2,BRA,2.0,BAHIA V,3 - 2,398,BRA,6:38
+Extra player shot - Post,2.0,2,3,2,BRA,2.0,SHEPELINA N,3 - 2,383,KAZ,6:23
+Action shot - Saved,3.0,2,3,2,BRA,2.0,AKILBAYEVA A,3 - 2,339,KAZ,5:39
+Centre shot - Saved,3.0,2,3,2,BRA,2.0,ZABLITH M,3 - 2,318,BRA,5:18
+Turnover foul,4.0,2,3,2,BRA,2.0,TUROVA A,3 - 2,289,KAZ,4:49
+Turnover foul,4.0,2,3,2,BRA,2.0,CANETTI M,3 - 2,279,BRA,4:39
+Turnover foul,7.0,2,3,2,BRA,2.0,ALEXANDROVA N,3 - 2,274,KAZ,4:34
+Turnover foul,5.0,2,3,2,BRA,2.0,MAIA L,3 - 2,249,BRA,4:09
+Steal,7.0,2,3,2,BRA,2.0,ALEXANDROVA N,3 - 2,249,KAZ,4:09
+20 sec. exclusion in field,12.0,2,3,2,BRA,2.0,BAHIA V,3 - 2,241,BRA,4:01
+Extra player shot - Goal,2.0,2,4,2,BRA,2.0,SHEPELINA N,4 - 2,223,KAZ,3:43
+Turnover foul,11.0,2,4,2,BRA,2.0,COUTINHO M,4 - 2,209,BRA,3:29
+Turnover foul,4.0,2,4,2,BRA,2.0,TUROVA A,4 - 2,191,KAZ,3:11
+Steal,10.0,2,4,2,BRA,2.0,VIGNA F,4 - 2,191,BRA,3:11
+5m shot - Saved,10.0,2,4,2,BRA,2.0,VIGNA F,4 - 2,163,BRA,2:43
+Turnover foul,10.0,2,4,2,BRA,2.0,GRITSENKO M,4 - 2,150,KAZ,2:30
+Centre shot - Goal,4.0,2,5,2,BRA,2.0,TUROVA A,5 - 2,98,KAZ,1:38
+Turnover foul,9.0,2,5,2,BRA,2.0,MURATORE V,5 - 2,83,BRA,1:23
+Turnover foul,3.0,2,5,2,BRA,2.0,AKILBAYEVA A,5 - 2,68,KAZ,1:08
+Steal,5.0,2,5,2,BRA,2.0,MAIA L,5 - 2,68,BRA,1:08
+Counter attack - Goal,8.0,2,9,5,BRA,4.0,CHIAPPINI I,9 - 5,176,BRA,2:56
+Time-Out,,2,9,5,BRA,4.0,,9 - 5,176,KAZ,2:56
+Turnover foul,4.0,2,9,5,BRA,4.0,CANETTI M,9 - 5,137,BRA,2:17
+Steal,10.0,2,9,5,BRA,4.0,GRITSENKO M,9 - 5,137,KAZ,2:17
+Action shot - Saved,3.0,2,9,5,BRA,4.0,AKILBAYEVA A,9 - 5,109,KAZ,1:49
+Turnover foul,3.0,2,9,5,BRA,4.0,ZABLITH M,9 - 5,87,BRA,1:27
+20 sec. exclusion in field,11.0,2,9,5,BRA,4.0,COUTINHO M,9 - 5,63,BRA,1:03
+20 sec. exclusion in centre,4.0,2,9,5,BRA,2.0,TUROVA A,9 - 5,53,KAZ,0:53
+Action shot - Post,4.0,2,9,5,BRA,2.0,CANETTI M,9 - 5,23,BRA,0:23
+5m shot - Saved,3.0,2,9,5,BRA,2.0,AKILBAYEVA A,9 - 5,2,KAZ,0:02
+20 sec. exclusion in field,3.0,2,9,5,BRA,2.0,ZABLITH M,9 - 5,1,BRA,0:01
+Starting goalkeeper,1.0,2,9,5,BRA,3.0,ZHARKOVA A,9 - 5,480,KAZ,8:00
+Starting goalkeeper,1.0,2,9,5,BRA,3.0,CANETTI M,9 - 5,480,BRA,8:00
+Sprint won possession,8.0,2,9,5,BRA,3.0,CHIAPPINI I,9 - 5,480,BRA,8:00
+5m shot - Missed,7.0,2,9,5,BRA,3.0,DIAS M,9 - 5,453,BRA,7:33
+Turnover foul,10.0,2,9,5,BRA,3.0,GRITSENKO M,9 - 5,441,KAZ,7:21
+Penalty foul,6.0,2,9,5,BRA,3.0,ZUBKOVA A,9 - 5,433,KAZ,7:13
+Penalty shot - Missed,11.0,2,9,5,BRA,3.0,COUTINHO M,9 - 5,433,BRA,7:13
+20 sec. exclusion in centre,7.0,2,9,5,BRA,3.0,DIAS M,9 - 5,421,BRA,7:01
+Exclusion with substitution,7.0,2,9,5,BRA,3.0,DIAS M,9 - 5,421,BRA,7:01
+Extra player shot - Post,2.0,2,9,5,BRA,3.0,SHEPELINA N,9 - 5,410,KAZ,6:50
+Centre shot - Goal,9.0,2,6,2,BRA,3.0,JAKAYEVA A,6 - 2,400,KAZ,6:40
+Turnover foul,10.0,2,6,2,BRA,3.0,VIGNA F,6 - 2,374,BRA,6:14
+Steal,10.0,2,6,2,BRA,3.0,GRITSENKO M,6 - 2,374,KAZ,6:14
+Centre shot - Post,9.0,2,6,2,BRA,3.0,JAKAYEVA A,6 - 2,351,KAZ,5:51
+20 sec. exclusion in field,4.0,2,6,2,BRA,3.0,TUROVA A,6 - 2,342,KAZ,5:42
+Extra player shot - Saved,8.0,2,6,2,BRA,3.0,CHIAPPINI I,6 - 2,323,BRA,5:23
+20 sec. exclusion in field,4.0,2,6,2,BRA,3.0,CANETTI M,6 - 2,304,BRA,5:04
+Time-Out,,2,6,2,BRA,3.0,,6 - 2,304,KAZ,5:04
+Action shot - Goal,10.0,2,7,2,BRA,3.0,GRITSENKO M,7 - 2,280,KAZ,4:40
+20 sec. exclusion in field,7.0,2,7,2,BRA,3.0,ALEXANDROVA N,7 - 2,271,KAZ,4:31
+Action shot - Blocked,8.0,2,7,2,BRA,3.0,CHIAPPINI I,7 - 2,250,BRA,4:10
+5m shot - Missed,10.0,2,7,2,BRA,3.0,GRITSENKO M,7 - 2,224,KAZ,3:44
+Turnover foul,5.0,2,7,2,BRA,3.0,MAIA L,7 - 2,198,BRA,3:18
+Steal,12.0,2,7,2,BRA,3.0,MUSSAROVA A,7 - 2,198,KAZ,3:18
+Action shot - Post,2.0,2,7,2,BRA,3.0,SHEPELINA N,7 - 2,180,KAZ,3:00
+Turnover foul,8.0,2,7,2,BRA,3.0,GLUSHKOVA Y,7 - 2,162,KAZ,2:42
+Steal,1.0,2,7,2,BRA,3.0,CANETTI M,7 - 2,162,BRA,2:42
+Action shot - Blocked,8.0,2,7,2,BRA,3.0,CHIAPPINI I,7 - 2,140,BRA,2:20
+Turnover foul,3.0,2,7,2,BRA,3.0,AKILBAYEVA A,7 - 2,127,KAZ,2:07
+Steal,5.0,2,7,2,BRA,3.0,MAIA L,7 - 2,127,BRA,2:07
+Turnover foul,4.0,2,7,2,BRA,3.0,CANETTI M,7 - 2,105,BRA,1:45
+Steal,12.0,2,7,2,BRA,3.0,MUSSAROVA A,7 - 2,105,KAZ,1:45
+Turnover foul,8.0,2,7,2,BRA,3.0,GLUSHKOVA Y,7 - 2,87,KAZ,1:27
+20 sec. exclusion in field,4.0,2,7,2,BRA,3.0,TUROVA A,7 - 2,77,KAZ,1:17
+Exclusion with substitution,4.0,2,7,2,BRA,3.0,TUROVA A,7 - 2,77,KAZ,1:17
+Time-Out,,2,7,2,BRA,3.0,,7 - 2,74,BRA,1:14
+Goalkeeper substitution,13.0,2,7,2,BRA,3.0,CHAMORRO V,7 - 2,74,BRA,1:14
+Turnover foul,12.0,2,7,2,BRA,3.0,BAHIA V,7 - 2,64,BRA,1:04
+20 sec. exclusion in field,2.0,2,7,2,BRA,3.0,ABLA D,7 - 2,40,BRA,0:40
+Turnover foul,8.0,2,7,2,BRA,3.0,GLUSHKOVA Y,7 - 2,12,KAZ,0:12
+Starting goalkeeper,1.0,2,7,2,BRA,4.0,ZHARKOVA A,7 - 2,480,KAZ,8:00
+Starting goalkeeper,13.0,2,7,2,BRA,4.0,CHAMORRO V,7 - 2,480,BRA,8:00
+Sprint won possession,8.0,2,7,2,BRA,4.0,CHIAPPINI I,7 - 2,480,BRA,8:00
+Turnover foul,4.0,2,7,2,BRA,4.0,CANETTI M,7 - 2,459,BRA,7:39
+Steal,12.0,2,7,2,BRA,4.0,MUSSAROVA A,7 - 2,459,KAZ,7:39
+Action shot - Post,10.0,2,7,2,BRA,4.0,GRITSENKO M,7 - 2,442,KAZ,7:22
+Centre shot - Goal,8.0,2,8,2,BRA,4.0,GLUSHKOVA Y,8 - 2,441,KAZ,7:21
+5m shot - Saved,10.0,2,8,2,BRA,4.0,VIGNA F,8 - 2,417,BRA,6:57
+Action shot - Goal,3.0,2,9,2,BRA,4.0,AKILBAYEVA A,9 - 2,392,KAZ,6:32
+20 sec. exclusion in field,5.0,2,9,2,BRA,4.0,MIRSHINA A,9 - 2,381,KAZ,6:21
+Extra player shot - Goal,8.0,2,9,3,BRA,4.0,CHIAPPINI I,9 - 3,370,BRA,6:10
+Turnover foul,5.0,2,9,3,BRA,4.0,MIRSHINA A,9 - 3,343,KAZ,5:43
+Steal,10.0,2,9,3,BRA,4.0,VIGNA F,9 - 3,343,BRA,5:43
+Action shot - Saved,8.0,2,9,3,BRA,4.0,CHIAPPINI I,9 - 3,320,BRA,5:20
+Action shot - Blocked,10.0,2,9,3,BRA,4.0,GRITSENKO M,9 - 3,292,KAZ,4:52
+Centre shot - Post,3.0,2,9,3,BRA,4.0,ZABLITH M,9 - 3,265,BRA,4:25
+20 sec. exclusion in field,12.0,2,9,3,BRA,4.0,MUSSAROVA A,9 - 3,229,KAZ,3:49
+Extra player shot - Goal,8.0,2,9,4,BRA,4.0,CHIAPPINI I,9 - 4,210,BRA,3:30
+Centre shot - Saved,3.0,2,9,4,BRA,4.0,AKILBAYEVA A,9 - 4,188,KAZ,3:08
+20 sec. exclusion in field,3.0,2,9,4,BRA,4.0,ZABLITH M,9 - 4,47,BRA,0:47
+Exclusion with substitution,3.0,2,9,4,BRA,4.0,ZABLITH M,9 - 4,47,BRA,0:47
+Extra player shot - Saved,12.0,2,9,4,BRA,4.0,MUSSAROVA A,9 - 4,35,KAZ,0:35
+20 sec. exclusion in field,10.0,2,9,4,BRA,4.0,GRITSENKO M,9 - 4,19,KAZ,0:19
+Time-Out,,2,9,4,BRA,4.0,,9 - 4,19,BRA,0:19
+Centre shot - Missed,2.0,2,9,4,BRA,4.0,ABLA D,9 - 4,3,BRA,0:03
+5m shot - Saved,1.0,2,9,4,BRA,4.0,ZHARKOVA A,9 - 4,1,KAZ,0:01
+Starting goalkeeper,1.0,3,0,0,HUN,1.0,ZHARKOVA A,0 - 0,480,KAZ,8:00
+Starting goalkeeper,1.0,3,0,0,HUN,1.0,BOLONYAI F,0 - 0,480,HUN,8:00
+Sprint won possession,7.0,3,0,0,HUN,1.0,MISKOLCZI I,0 - 0,480,HUN,8:00
+Turnover foul,9.0,3,0,0,HUN,1.0,TOTH I,0 - 0,463,HUN,7:43
+Steal,7.0,3,0,0,HUN,1.0,ALEXANDROVA N,0 - 0,463,KAZ,7:43
+Turnover foul,9.0,3,0,0,HUN,1.0,JAKAYEVA A,0 - 0,446,KAZ,7:26
+Steal,6.0,3,0,0,HUN,1.0,TAKACS O,0 - 0,446,HUN,7:26
+Centre shot - Goal,9.0,3,0,1,HUN,1.0,TOTH I,1 - 0,433,HUN,7:13
+Turnover foul,6.0,3,0,1,HUN,1.0,ZUBKOVA A,1 - 0,404,KAZ,6:44
+Counter attack - Goal,8.0,3,0,2,HUN,1.0,KESZTHELYI R,2 - 0,404,HUN,6:44
+20 sec. exclusion in field,5.0,3,0,2,HUN,1.0,SZUCS G,2 - 0,389,HUN,6:29
+Action shot - Blocked,7.0,3,0,2,HUN,1.0,ALEXANDROVA N,2 - 0,366,KAZ,6:06
+Action shot - Post,5.0,3,0,2,HUN,1.0,SZUCS G,2 - 0,335,HUN,5:35
+Centre shot - Goal,9.0,3,1,2,HUN,1.0,JAKAYEVA A,2 - 1,316,KAZ,5:16
+Centre shot - Goal,6.0,3,1,3,HUN,1.0,TAKACS O,3 - 1,295,HUN,4:55
+20 sec. exclusion in centre,6.0,3,1,3,HUN,1.0,TAKACS O,3 - 1,274,HUN,4:34
+Action shot - Saved,6.0,3,1,3,HUN,1.0,ZUBKOVA A,3 - 1,252,KAZ,4:12
+Penalty foul,7.0,3,1,3,HUN,1.0,ALEXANDROVA N,3 - 1,232,KAZ,3:52
+Penalty shot - Goal,10.0,3,1,4,HUN,1.0,BUJKA B,4 - 1,231,HUN,3:51
+Turnover foul,4.0,3,1,4,HUN,1.0,TUROVA A,4 - 1,209,KAZ,3:29
+Steal,5.0,3,1,4,HUN,1.0,SZUCS G,4 - 1,209,HUN,3:29
+Counter attack - Goal,8.0,3,1,5,HUN,1.0,KESZTHELYI R,5 - 1,201,HUN,3:21
+Action shot - Missed,7.0,3,1,5,HUN,1.0,ALEXANDROVA N,5 - 1,173,KAZ,2:53
+Counter attack - Goal,3.0,3,1,6,HUN,1.0,ANTAL D,6 - 1,159,HUN,2:39
+Action shot - Saved,10.0,3,1,6,HUN,1.0,GRITSENKO M,6 - 1,130,KAZ,2:10
+Counter attack - Goal,10.0,3,1,7,HUN,1.0,BUJKA B,7 - 1,120,HUN,2:00
+5m shot - Blocked,4.0,3,1,7,HUN,1.0,TUROVA A,7 - 1,100,KAZ,1:40
+Counter attack - Goal,12.0,3,1,8,HUN,1.0,MENCZINGER K,8 - 1,90,HUN,1:30
+20 sec. exclusion in field,6.0,3,1,8,HUN,1.0,ZUBKOVA A,8 - 1,53,KAZ,0:53
+Extra player shot - Saved,8.0,3,1,8,HUN,1.0,KESZTHELYI R,8 - 1,41,HUN,0:41
+20 sec. exclusion in field,2.0,3,1,8,HUN,1.0,ILLES A,8 - 1,20,HUN,0:20
+Starting goalkeeper,13.0,3,1,8,HUN,2.0,KASO O,8 - 1,480,HUN,8:00
+Starting goalkeeper,1.0,3,1,8,HUN,2.0,ZHARKOVA A,8 - 1,480,KAZ,8:00
+Sprint won possession,7.0,3,1,8,HUN,2.0,MISKOLCZI I,8 - 1,480,HUN,8:00
+Action shot - Post,7.0,3,1,8,HUN,2.0,MISKOLCZI I,8 - 1,456,HUN,7:36
+Action shot - Saved,9.0,3,1,8,HUN,2.0,JAKAYEVA A,8 - 1,431,KAZ,7:11
+Penalty foul,4.0,3,1,8,HUN,2.0,TUROVA A,8 - 1,415,KAZ,6:55
+Penalty shot - Goal,2.0,3,1,9,HUN,2.0,ILLES A,9 - 1,415,HUN,6:55
+20 sec. exclusion in centre,6.0,3,1,9,HUN,2.0,TAKACS O,9 - 1,404,HUN,6:44
+Extra player shot - Saved,2.0,3,1,9,HUN,2.0,SHEPELINA N,9 - 1,385,KAZ,6:25
+5m shot - Blocked,11.0,3,1,9,HUN,2.0,GARDA K,9 - 1,358,HUN,5:58
+Turnover foul,9.0,3,1,9,HUN,2.0,JAKAYEVA A,9 - 1,329,KAZ,5:29
+Action shot - Goal,7.0,3,1,10,HUN,2.0,MISKOLCZI I,10 - 1,308,HUN,5:08
+20 sec. exclusion in centre,11.0,3,1,10,HUN,2.0,GARDA K,10 - 1,292,HUN,4:52
+Time-Out,,3,1,10,HUN,2.0,,10 - 1,292,KAZ,4:52
+Action shot - Saved,2.0,3,1,10,HUN,2.0,SHEPELINA N,10 - 1,268,KAZ,4:28
+Centre shot - Goal,2.0,3,1,11,HUN,2.0,ILLES A,11 - 1,254,HUN,4:14
+Turnover foul,9.0,3,1,11,HUN,2.0,JAKAYEVA A,11 - 1,241,KAZ,4:01
+Turnover foul,13.0,3,1,11,HUN,2.0,KASO O,11 - 1,229,HUN,3:49
+20 sec. exclusion in field,7.0,3,1,11,HUN,2.0,MISKOLCZI I,11 - 1,222,HUN,3:42
+Extra player shot - Missed,10.0,3,1,11,HUN,2.0,GRITSENKO M,11 - 1,202,KAZ,3:22
+Action shot - Post,3.0,3,1,11,HUN,2.0,ANTAL D,11 - 1,173,HUN,2:53
+Centre shot - Goal,9.0,3,2,11,HUN,2.0,JAKAYEVA A,11 - 2,148,KAZ,2:28
+Action shot - Blocked,8.0,3,2,11,HUN,2.0,KESZTHELYI R,11 - 2,139,HUN,2:19
+Centre shot - Goal,10.0,3,2,12,HUN,2.0,BUJKA B,12 - 2,103,HUN,1:43
+20 sec. exclusion in field,7.0,3,2,12,HUN,2.0,MISKOLCZI I,12 - 2,82,HUN,1:22
+Extra player shot - Goal,3.0,3,3,12,HUN,2.0,AKILBAYEVA A,12 - 3,67,KAZ,1:07
+Centre shot - Saved,8.0,3,3,12,HUN,2.0,KESZTHELYI R,12 - 3,47,HUN,0:47
+Action shot - Post,5.0,3,3,12,HUN,2.0,SZUCS G,12 - 3,8,HUN,0:08
+5m shot - Missed,3.0,3,3,12,HUN,2.0,AKILBAYEVA A,12 - 3,2,KAZ,0:02
+Starting goalkeeper,1.0,3,3,12,HUN,3.0,ZHARKOVA A,12 - 3,480,KAZ,8:00
+Starting goalkeeper,13.0,3,3,12,HUN,3.0,KASO O,12 - 3,480,HUN,8:00
+Sprint won possession,7.0,3,3,12,HUN,3.0,MISKOLCZI I,12 - 3,480,HUN,8:00
+Action shot - Blocked,11.0,3,3,12,HUN,3.0,GARDA K,12 - 3,456,HUN,7:36
+Turnover foul,10.0,3,3,12,HUN,3.0,GRITSENKO M,12 - 3,404,KAZ,6:44
+Steal,11.0,3,3,12,HUN,3.0,GARDA K,12 - 3,404,HUN,6:44
+20 sec. exclusion in centre,6.0,3,3,12,HUN,3.0,ZUBKOVA A,12 - 3,395,KAZ,6:35
+Extra player shot - Goal,4.0,3,3,13,HUN,3.0,KISTELEKI D,13 - 3,392,HUN,6:32
+20 sec. exclusion in centre,11.0,3,3,13,HUN,3.0,GARDA K,13 - 3,383,HUN,6:23
+Action shot - Missed,2.0,3,3,13,HUN,3.0,SHEPELINA N,13 - 3,357,KAZ,5:57
+Turnover foul,4.0,3,3,13,HUN,3.0,KISTELEKI D,13 - 3,344,HUN,5:44
+Steal,1.0,3,3,13,HUN,3.0,ZHARKOVA A,13 - 3,344,KAZ,5:44
+Counter attack - Goal,9.0,3,4,13,HUN,3.0,JAKAYEVA A,13 - 4,336,KAZ,5:36
+Action shot - Goal,11.0,3,4,14,HUN,3.0,GARDA K,14 - 4,312,HUN,5:12
+Centre shot - Missed,9.0,3,4,14,HUN,3.0,JAKAYEVA A,14 - 4,298,KAZ,4:58
+Action shot - Goal,7.0,3,4,15,HUN,3.0,MISKOLCZI I,15 - 4,278,HUN,4:38
+Turnover foul,9.0,3,4,15,HUN,3.0,JAKAYEVA A,15 - 4,262,KAZ,4:22
+Steal,6.0,3,4,15,HUN,3.0,TAKACS O,15 - 4,262,HUN,4:22
+20 sec. exclusion in field,3.0,3,4,15,HUN,3.0,AKILBAYEVA A,15 - 4,258,KAZ,4:18
+Extra player shot - Saved,4.0,3,4,15,HUN,3.0,KISTELEKI D,15 - 4,245,HUN,4:05
+Action shot - Saved,7.0,3,4,15,HUN,3.0,ALEXANDROVA N,15 - 4,219,KAZ,3:39
+Counter attack - Saved,10.0,3,4,15,HUN,3.0,BUJKA B,15 - 4,190,HUN,3:10
+Counter attack - Goal,3.0,3,5,15,HUN,3.0,AKILBAYEVA A,15 - 5,176,KAZ,2:56
+Turnover foul,9.0,3,5,15,HUN,3.0,TOTH I,15 - 5,170,HUN,2:50
+Centre shot - Saved,8.0,3,5,15,HUN,3.0,GLUSHKOVA Y,15 - 5,151,KAZ,2:31
+Action shot - Blocked,3.0,3,5,15,HUN,3.0,AKILBAYEVA A,15 - 5,135,KAZ,2:15
+Action shot - Saved,11.0,3,5,15,HUN,3.0,GARDA K,15 - 5,110,HUN,1:50
+Turnover foul,8.0,3,5,15,HUN,3.0,GLUSHKOVA Y,15 - 5,85,KAZ,1:25
+Steal,11.0,3,5,15,HUN,3.0,GARDA K,15 - 5,85,HUN,1:25
+Action shot - Saved,12.0,3,5,15,HUN,3.0,MENCZINGER K,15 - 5,57,HUN,0:57
+Action shot - Post,3.0,3,5,15,HUN,3.0,AKILBAYEVA A,15 - 5,30,KAZ,0:30
+Centre shot - Saved,11.0,3,5,15,HUN,3.0,GARDA K,15 - 5,6,HUN,0:06
+Starting goalkeeper,13.0,3,5,15,HUN,4.0,KASO O,15 - 5,480,HUN,8:00
+Starting goalkeeper,1.0,3,5,15,HUN,4.0,ZHARKOVA A,15 - 5,480,KAZ,8:00
+Sprint won possession,2.0,3,5,15,HUN,4.0,ILLES A,15 - 5,480,HUN,8:00
+Turnover foul,9.0,3,5,15,HUN,4.0,TOTH I,15 - 5,459,HUN,7:39
+Steal,4.0,3,5,15,HUN,4.0,TUROVA A,15 - 5,459,KAZ,7:39
+20 sec. exclusion in field,4.0,3,5,15,HUN,4.0,TUROVA A,15 - 5,418,KAZ,6:58
+Extra player shot - Goal,12.0,3,5,16,HUN,4.0,MENCZINGER K,16 - 5,390,HUN,6:30
+Action shot - Goal,3.0,3,6,16,HUN,4.0,AKILBAYEVA A,16 - 6,368,KAZ,6:08
+Centre shot - Saved,9.0,3,6,16,HUN,4.0,TOTH I,16 - 6,349,HUN,5:49
+Centre shot - Goal,9.0,3,7,16,HUN,4.0,JAKAYEVA A,16 - 7,328,KAZ,5:28
+Action shot - Goal,5.0,3,7,17,HUN,4.0,SZUCS G,17 - 7,314,HUN,5:14
+20 sec. exclusion in centre,11.0,3,7,17,HUN,4.0,GARDA K,17 - 7,291,HUN,4:51
+Exclusion with substitution,11.0,3,7,17,HUN,4.0,GARDA K,17 - 7,291,HUN,4:51
+20 sec. exclusion in field,9.0,3,7,17,HUN,4.0,TOTH I,17 - 7,276,HUN,4:36
+Extra player shot - Blocked,10.0,3,7,17,HUN,4.0,GRITSENKO M,17 - 7,260,KAZ,4:20
+Turnover foul,13.0,3,7,17,HUN,4.0,KASO O,17 - 7,256,HUN,4:16
+20 sec. exclusion in field,5.0,3,7,17,HUN,4.0,MIRSHINA A,17 - 7,215,KAZ,3:35
+Time-Out,,3,7,17,HUN,4.0,,17 - 7,213,HUN,3:33
+Action shot - Post,5.0,3,7,17,HUN,4.0,SZUCS G,17 - 7,186,HUN,3:06
+Action shot - Saved,3.0,3,7,17,HUN,4.0,AKILBAYEVA A,17 - 7,158,KAZ,2:38
+Turnover foul,6.0,3,7,17,HUN,4.0,TAKACS O,17 - 7,134,HUN,2:14
+Steal,1.0,3,7,17,HUN,4.0,ZHARKOVA A,17 - 7,134,KAZ,2:14
+Action shot - Post,5.0,3,7,17,HUN,4.0,MIRSHINA A,17 - 7,109,KAZ,1:49
+Time-Out,,3,7,17,HUN,4.0,,17 - 7,105,HUN,1:45
+Goalkeeper substitution,13.0,3,7,17,HUN,4.0,KRASSIKOVA K,17 - 7,105,KAZ,1:45
+Action shot - Missed,6.0,3,7,17,HUN,4.0,TAKACS O,17 - 7,87,HUN,1:27
+Action shot - Goal,6.0,3,7,18,HUN,4.0,TAKACS O,18 - 7,39,HUN,0:39
+Action shot - Blocked,5.0,3,7,18,HUN,4.0,MIRSHINA A,18 - 7,13,KAZ,0:13
+Starting goalkeeper,1.0,4,0,0,CAN,1.0,ZHARKOVA A,0 - 0,480,KAZ,8:00
+Starting goalkeeper,1.0,4,0,0,CAN,1.0,RELTON M,0 - 0,480,CAN,8:00
+Sprint won possession,8.0,4,0,0,CAN,1.0,PERREAULT D,0 - 0,480,CAN,8:00
+20 sec. exclusion in field,4.0,4,0,0,CAN,1.0,TUROVA A,0 - 0,468,KAZ,7:48
+Extra player shot - Goal,4.0,4,0,1,CAN,1.0,WRIGHT E,1 - 0,453,CAN,7:33
+5m shot - Saved,6.0,4,0,1,CAN,1.0,ZUBKOVA A,1 - 0,423,KAZ,7:03
+5m shot - Goal,10.0,4,0,2,CAN,1.0,ROBINSON C,2 - 0,404,CAN,6:44
+5m shot - Saved,10.0,4,0,2,CAN,1.0,GRITSENKO M,2 - 0,377,KAZ,6:17
+Action shot - Saved,5.0,4,0,2,CAN,1.0,EGGENS M,2 - 0,347,CAN,5:47
+5m shot - Missed,7.0,4,0,2,CAN,1.0,ALEXANDROVA N,2 - 0,323,KAZ,5:23
+Turnover foul,5.0,4,0,2,CAN,1.0,EGGENS M,2 - 0,315,CAN,5:15
+Steal,9.0,4,0,2,CAN,1.0,JAKAYEVA A,2 - 0,315,KAZ,5:15
+Counter attack - Goal,4.0,4,1,2,CAN,1.0,TUROVA A,2 - 1,306,KAZ,5:06
+5m shot - Saved,9.0,4,1,2,CAN,1.0,EGGENS C,2 - 1,286,CAN,4:46
+Centre shot - Saved,9.0,4,1,2,CAN,1.0,JAKAYEVA A,2 - 1,265,KAZ,4:25
+Action shot - Saved,11.0,4,1,2,CAN,1.0,VALIN S,2 - 1,236,CAN,3:56
+Action shot - Missed,6.0,4,1,2,CAN,1.0,BARON la SALLE S,2 - 1,213,CAN,3:33
+5m shot - Blocked,10.0,4,1,2,CAN,1.0,GRITSENKO M,2 - 1,183,KAZ,3:03
+5m shot - Saved,11.0,4,1,2,CAN,1.0,VALIN S,2 - 1,162,CAN,2:42
+Centre shot - Goal,2.0,4,1,3,CAN,1.0,ALOGBO K,3 - 1,161,CAN,2:41
+20 sec. exclusion in centre,10.0,4,1,3,CAN,1.0,ROBINSON C,3 - 1,139,CAN,2:19
+Extra player shot - Goal,10.0,4,2,3,CAN,1.0,GRITSENKO M,3 - 2,120,KAZ,2:00
+Action shot - Saved,7.0,4,2,3,CAN,1.0,BEKHAZI J,3 - 2,114,CAN,1:54
+20 sec. exclusion in field,4.0,4,2,3,CAN,1.0,WRIGHT E,3 - 2,86,CAN,1:26
+Extra player shot - Saved,4.0,4,2,3,CAN,1.0,TUROVA A,3 - 2,68,KAZ,1:08
+Action shot - Post,7.0,4,2,3,CAN,1.0,BEKHAZI J,3 - 2,44,CAN,0:44
+Action shot - Goal,5.0,4,2,4,CAN,1.0,EGGENS M,4 - 2,0,CAN,0:00
+Starting goalkeeper,1.0,4,2,4,CAN,2.0,ZHARKOVA A,4 - 2,480,KAZ,8:00
+Starting goalkeeper,1.0,4,2,4,CAN,2.0,RELTON M,4 - 2,480,CAN,8:00
+Sprint won possession,8.0,4,2,4,CAN,2.0,PERREAULT D,4 - 2,480,CAN,8:00
+Turnover foul,3.0,4,2,4,CAN,2.0,MONTON K,4 - 2,455,CAN,7:35
+Steal,4.0,4,2,4,CAN,2.0,TUROVA A,4 - 2,455,KAZ,7:35
+20 sec. exclusion in field,9.0,4,2,4,CAN,2.0,EGGENS C,4 - 2,438,CAN,7:18
+Extra player shot - Post,12.0,4,2,4,CAN,2.0,MUSSAROVA A,4 - 2,421,KAZ,7:01
+Turnover foul,3.0,4,2,4,CAN,2.0,MONTON K,4 - 2,398,CAN,6:38
+Steal,4.0,4,2,4,CAN,2.0,TUROVA A,4 - 2,398,KAZ,6:38
+Turnover foul,9.0,4,2,4,CAN,2.0,JAKAYEVA A,4 - 2,369,KAZ,6:09
+Action shot - Missed,12.0,4,2,4,CAN,2.0,RADU M,4 - 2,348,CAN,5:48
+Action shot - Post,3.0,4,2,4,CAN,2.0,AKILBAYEVA A,4 - 2,329,KAZ,5:29
+Action shot - Goal,5.0,4,2,5,CAN,2.0,EGGENS M,5 - 2,305,CAN,5:05
+Turnover foul,9.0,4,2,5,CAN,2.0,JAKAYEVA A,5 - 2,290,KAZ,4:50
+Action shot - Goal,9.0,4,2,6,CAN,2.0,EGGENS C,6 - 2,265,CAN,4:25
+Centre shot - Missed,9.0,4,2,6,CAN,2.0,JAKAYEVA A,6 - 2,253,KAZ,4:13
+20 sec. exclusion in field,6.0,4,2,6,CAN,2.0,ZUBKOVA A,6 - 2,243,KAZ,4:03
+Extra player shot - Goal,6.0,4,2,7,CAN,2.0,BARON la SALLE S,7 - 2,231,CAN,3:51
+Time-Out,,4,2,7,CAN,2.0,,7 - 2,231,KAZ,3:51
+5m shot - Post,4.0,4,2,7,CAN,2.0,TUROVA A,7 - 2,200,KAZ,3:20
+Turnover foul,9.0,4,2,7,CAN,2.0,EGGENS C,7 - 2,176,CAN,2:56
+Steal,4.0,4,2,7,CAN,2.0,TUROVA A,7 - 2,176,KAZ,2:56
+20 sec. exclusion in field,10.0,4,2,7,CAN,2.0,ROBINSON C,7 - 2,172,CAN,2:52
+20 sec. exclusion in field,4.0,4,2,7,CAN,2.0,WRIGHT E,7 - 2,166,CAN,2:46
+Turnover foul,2.0,4,2,7,CAN,2.0,SHEPELINA N,7 - 2,143,KAZ,2:23
+Action shot - Saved,6.0,4,2,7,CAN,2.0,BARON la SALLE S,7 - 2,116,CAN,1:56
+Action shot - Saved,10.0,4,2,7,CAN,2.0,GRITSENKO M,7 - 2,103,KAZ,1:43
+Action shot - Saved,5.0,4,2,7,CAN,2.0,EGGENS M,7 - 2,75,CAN,1:15
+Centre shot - Goal,9.0,4,3,7,CAN,2.0,JAKAYEVA A,7 - 3,54,KAZ,0:54
+5m shot - Goal,5.0,4,3,8,CAN,2.0,EGGENS M,8 - 3,38,CAN,0:38
+Turnover foul,2.0,4,3,8,CAN,2.0,SHEPELINA N,8 - 3,18,KAZ,0:18
+Steal,2.0,4,3,8,CAN,2.0,ALOGBO K,8 - 3,18,CAN,0:18
+20 sec. exclusion in field,2.0,4,3,8,CAN,2.0,SHEPELINA N,8 - 3,17,KAZ,0:17
+Time-Out,,4,3,8,CAN,2.0,,8 - 3,17,CAN,0:17
+20 sec. exclusion in field,10.0,4,3,8,CAN,2.0,GRITSENKO M,8 - 3,10,KAZ,0:10
+Extra player shot - Goal,5.0,4,3,9,CAN,2.0,EGGENS M,9 - 3,1,CAN,0:01
+Turnover foul,2.0,4,3,9,CAN,4.0,ALOGBO K,9 - 3,67,CAN,1:07
+20 sec. exclusion in field,12.0,4,3,9,CAN,4.0,RADU M,9 - 3,46,CAN,0:46
+Centre shot - Blocked,9.0,4,3,9,CAN,4.0,JAKAYEVA A,9 - 3,23,KAZ,0:23
+Starting goalkeeper,1.0,4,3,9,CAN,3.0,RELTON M,9 - 3,480,CAN,8:00
+Starting goalkeeper,1.0,4,3,9,CAN,3.0,ZHARKOVA A,9 - 3,480,KAZ,8:00
+Sprint won possession,8.0,4,3,9,CAN,3.0,PERREAULT D,9 - 3,480,CAN,8:00
+Turnover foul,2.0,4,3,9,CAN,3.0,ALOGBO K,9 - 3,464,CAN,7:44
+Steal,4.0,4,3,9,CAN,3.0,TUROVA A,9 - 3,464,KAZ,7:44
+Turnover foul,7.0,4,3,9,CAN,3.0,ALEXANDROVA N,9 - 3,442,KAZ,7:22
+Steal,7.0,4,3,9,CAN,3.0,BEKHAZI J,9 - 3,442,CAN,7:22
+Action shot - Goal,8.0,4,3,10,CAN,3.0,PERREAULT D,10 - 3,420,CAN,7:00
+Turnover foul,10.0,4,3,10,CAN,3.0,GRITSENKO M,10 - 3,403,KAZ,6:43
+Action shot - Saved,5.0,4,3,10,CAN,3.0,EGGENS M,10 - 3,388,CAN,6:28
+Turnover foul,9.0,4,3,10,CAN,3.0,JAKAYEVA A,10 - 3,370,KAZ,6:10
+Centre shot - Missed,3.0,4,3,10,CAN,3.0,MONTON K,10 - 3,348,CAN,5:48
+Action shot - Saved,9.0,4,3,10,CAN,3.0,JAKAYEVA A,10 - 3,324,KAZ,5:24
+20 sec. exclusion in centre,4.0,4,3,10,CAN,3.0,TUROVA A,10 - 3,309,KAZ,5:09
+Turnover foul,3.0,4,3,10,CAN,3.0,MONTON K,10 - 3,307,CAN,5:07
+20 sec. exclusion in field,9.0,4,3,10,CAN,3.0,EGGENS C,10 - 3,285,CAN,4:45
+20 sec. exclusion in centre,8.0,4,3,10,CAN,3.0,PERREAULT D,10 - 3,276,CAN,4:36
+Extra player shot - Goal,10.0,4,4,10,CAN,3.0,GRITSENKO M,10 - 4,261,KAZ,4:21
+Action shot - Saved,7.0,4,4,10,CAN,3.0,BEKHAZI J,10 - 4,245,CAN,4:05
+5m shot - Goal,2.0,4,5,10,CAN,3.0,SHEPELINA N,10 - 5,216,KAZ,3:36
+Action shot - Goal,8.0,4,5,11,CAN,3.0,PERREAULT D,11 - 5,201,CAN,3:21
+5m shot - Blocked,10.0,4,5,11,CAN,3.0,GRITSENKO M,11 - 5,174,KAZ,2:54
+5m shot - Post,11.0,4,5,11,CAN,3.0,VALIN S,11 - 5,151,CAN,2:31
+20 sec. exclusion in field,6.0,4,5,11,CAN,3.0,BARON la SALLE S,11 - 5,149,CAN,2:29
+Action shot - Saved,7.0,4,5,11,CAN,3.0,ALEXANDROVA N,11 - 5,120,KAZ,2:00
+Action shot - Goal,2.0,4,6,11,CAN,3.0,SHEPELINA N,11 - 6,110,KAZ,1:50
+Centre shot - Saved,2.0,4,6,11,CAN,3.0,ALOGBO K,11 - 6,88,CAN,1:28
+Turnover foul,9.0,4,6,11,CAN,3.0,JAKAYEVA A,11 - 6,70,KAZ,1:10
+Centre shot - Goal,12.0,4,6,12,CAN,3.0,RADU M,12 - 6,59,CAN,0:59
+20 sec. exclusion in centre,3.0,4,6,12,CAN,3.0,MONTON K,12 - 6,39,CAN,0:39
+Extra player shot - Saved,3.0,4,6,12,CAN,3.0,AKILBAYEVA A,12 - 6,23,KAZ,0:23
+Turnover foul,9.0,4,6,12,CAN,3.0,JAKAYEVA A,12 - 6,12,KAZ,0:12
+Steal,7.0,4,6,12,CAN,3.0,BEKHAZI J,12 - 6,12,CAN,0:12
+5m shot - Missed,5.0,4,6,12,CAN,3.0,EGGENS M,12 - 6,1,CAN,0:01
+Starting goalkeeper,1.0,4,6,12,CAN,4.0,ZHARKOVA A,12 - 6,480,KAZ,8:00
+Starting goalkeeper,1.0,4,6,12,CAN,4.0,RELTON M,12 - 6,480,CAN,8:00
+Sprint won possession,6.0,4,6,12,CAN,4.0,BARON la SALLE S,12 - 6,480,CAN,8:00
+Action shot - Goal,4.0,4,6,13,CAN,4.0,WRIGHT E,13 - 6,459,CAN,7:39
+Turnover foul,7.0,4,6,13,CAN,4.0,ALEXANDROVA N,13 - 6,431,KAZ,7:11
+Turnover foul,10.0,4,6,13,CAN,4.0,ROBINSON C,13 - 6,412,CAN,6:52
+Action shot - Saved,4.0,4,6,13,CAN,4.0,TUROVA A,13 - 6,390,KAZ,6:30
+Action shot - Goal,9.0,4,6,14,CAN,4.0,EGGENS C,14 - 6,374,CAN,6:14
+20 sec. exclusion in centre,12.0,4,6,14,CAN,4.0,RADU M,14 - 6,352,CAN,5:52
+Action shot - Goal,3.0,4,7,14,CAN,4.0,AKILBAYEVA A,14 - 7,328,KAZ,5:28
+Action shot - Saved,11.0,4,7,14,CAN,4.0,VALIN S,14 - 7,300,CAN,5:00
+Action shot - Blocked,3.0,4,7,14,CAN,4.0,AKILBAYEVA A,14 - 7,278,KAZ,4:38
+Action shot - Saved,10.0,4,7,14,CAN,4.0,ROBINSON C,14 - 7,251,CAN,4:11
+Turnover foul,8.0,4,7,14,CAN,4.0,GLUSHKOVA Y,14 - 7,234,KAZ,3:54
+Time-Out,,4,7,14,CAN,4.0,,14 - 7,234,CAN,3:54
+Goalkeeper substitution,13.0,4,7,14,CAN,4.0,COLTERJOHN N,14 - 7,231,CAN,3:51
+Turnover foul,3.0,4,7,14,CAN,4.0,MONTON K,14 - 7,209,CAN,3:29
+Steal,3.0,4,7,14,CAN,4.0,AKILBAYEVA A,14 - 7,209,KAZ,3:29
+20 sec. exclusion in field,8.0,4,7,14,CAN,4.0,PERREAULT D,14 - 7,199,CAN,3:19
+Turnover foul,10.0,4,7,14,CAN,4.0,GRITSENKO M,14 - 7,170,KAZ,2:50
+5m shot - Saved,9.0,4,7,14,CAN,4.0,EGGENS C,14 - 7,142,CAN,2:22
+20 sec. exclusion in centre,9.0,4,7,14,CAN,4.0,EGGENS C,14 - 7,126,CAN,2:06
+Exclusion with substitution,9.0,4,7,14,CAN,4.0,EGGENS C,14 - 7,126,CAN,2:06
+Time-Out,,4,7,14,CAN,4.0,,14 - 7,126,KAZ,2:06
+Turnover foul,4.0,4,7,14,CAN,4.0,TUROVA A,14 - 7,111,KAZ,1:51
+Steal,2.0,4,7,14,CAN,4.0,ALOGBO K,14 - 7,111,CAN,1:51
+Action shot - Saved,8.0,4,7,14,CAN,4.0,PERREAULT D,14 - 7,87,CAN,1:27
+Turnover foul,9.0,4,7,14,CAN,4.0,JAKAYEVA A,14 - 7,75,KAZ,1:15
+Steal,13.0,4,7,14,CAN,4.0,COLTERJOHN N,14 - 7,75,CAN,1:15
+Action shot - Blocked,2.0,4,7,14,CAN,4.0,SHEPELINA N,14 - 7,19,KAZ,0:19
+Action shot - Goal,6.0,4,8,14,CAN,4.0,ZUBKOVA A,14 - 8,5,KAZ,0:05
+5m shot - Blocked,5.0,4,8,14,CAN,4.0,EGGENS M,14 - 8,1,CAN,0:01

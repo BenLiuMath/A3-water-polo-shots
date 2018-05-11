@@ -1,0 +1,902 @@
+Action,Cap,Game,Opponent,Opponent name,Period,Player,RUS,Score,Seconds,Team,Time
+Starting goalkeeper,1.0,1,0,UZB,1.0,DUKHANOVA E,0,0 - 0,480,UZB,8:00
+Starting goalkeeper,1.0,1,0,UZB,1.0,USTYUKHINA A,0,0 - 0,480,RUS,8:00
+Sprint won possession,3.0,1,0,UZB,1.0,PROKOFYEVA E,0,0 - 0,480,RUS,8:00
+20 sec. exclusion in field,3.0,1,0,UZB,1.0,SARANCHA A,0,0 - 0,475,UZB,7:55
+Centre shot - Saved,9.0,1,0,UZB,1.0,TIMOFEEVA A,0,0 - 0,436,RUS,7:16
+Action shot - Goal,3.0,1,0,UZB,1.0,PROKOFYEVA E,1,1 - 0,412,RUS,6:52
+Action shot - Missed,10.0,1,0,UZB,1.0,ZINUROVA A,1,1 - 0,390,UZB,6:30
+Action shot - Goal,10.0,1,0,UZB,1.0,BELIAEVA O,2,2 - 0,375,RUS,6:15
+Turnover foul,9.0,1,0,UZB,1.0,HALIKOVA R,2,2 - 0,354,UZB,5:54
+Steal,10.0,1,0,UZB,1.0,BELIAEVA O,2,2 - 0,354,RUS,5:54
+Action shot - Saved,7.0,1,0,UZB,1.0,PLYUSOVA N,2,2 - 0,331,UZB,5:31
+Centre shot - Goal,3.0,1,1,UZB,1.0,SARANCHA A,2,2 - 1,316,UZB,5:16
+Turnover foul,9.0,1,1,UZB,1.0,TIMOFEEVA A,2,2 - 1,300,RUS,5:00
+Steal,9.0,1,1,UZB,1.0,HALIKOVA R,2,2 - 1,300,UZB,5:00
+Turnover foul,2.0,1,1,UZB,1.0,DADABAEVA D,2,2 - 1,282,UZB,4:42
+Steal,11.0,1,1,UZB,1.0,IVANOVA E,2,2 - 1,282,RUS,4:42
+20 sec. exclusion in field,5.0,1,1,UZB,1.0,IVANOVA E,2,2 - 1,269,UZB,4:29
+Extra player shot - Saved,5.0,1,1,UZB,1.0,ANTONOVA A,2,2 - 1,251,RUS,4:11
+Action shot - Post,5.0,1,1,UZB,1.0,ANTONOVA A,2,2 - 1,244,RUS,4:04
+Turnover foul,10.0,1,1,UZB,1.0,ZINUROVA A,2,2 - 1,229,UZB,3:49
+Steal,1.0,1,1,UZB,1.0,USTYUKHINA A,2,2 - 1,229,RUS,3:49
+Counter attack - Goal,6.0,1,1,UZB,1.0,BELOVA O,3,3 - 1,214,RUS,3:34
+Turnover foul,5.0,1,1,UZB,1.0,IVANOVA E,3,3 - 1,193,UZB,3:13
+Turnover foul,2.0,1,1,UZB,1.0,ANTONOVA D,3,3 - 1,176,RUS,2:56
+Steal,7.0,1,1,UZB,1.0,PLYUSOVA N,3,3 - 1,176,UZB,2:56
+Turnover foul,10.0,1,1,UZB,1.0,ZINUROVA A,3,3 - 1,168,UZB,2:48
+Steal,8.0,1,1,UZB,1.0,GRINEVA A,3,3 - 1,168,RUS,2:48
+20 sec. exclusion in field,11.0,1,1,UZB,1.0,HAMITOVA G,3,3 - 1,160,UZB,2:40
+Extra player shot - Post,8.0,1,1,UZB,1.0,GRINEVA A,3,3 - 1,146,RUS,2:26
+Extra player shot - Goal,5.0,1,1,UZB,1.0,ANTONOVA A,4,4 - 1,144,RUS,2:24
+20 sec. exclusion in centre,8.0,1,1,UZB,1.0,GRINEVA A,4,4 - 1,133,RUS,2:13
+Extra player shot - Saved,3.0,1,1,UZB,1.0,SARANCHA A,4,4 - 1,112,UZB,1:52
+5m shot,8.0,1,1,UZB,1.0,GRINEVA A,4,4 - 1,84,RUS,1:24
+Turnover foul,7.0,1,1,UZB,1.0,PLYUSOVA N,4,4 - 1,63,UZB,1:03
+Steal,5.0,1,1,UZB,1.0,ANTONOVA A,4,4 - 1,63,RUS,1:03
+5m shot - Goal,5.0,1,1,UZB,1.0,ANTONOVA A,5,5 - 1,54,RUS,0:54
+Turnover foul,7.0,1,1,UZB,1.0,TANKEEVA E,5,5 - 1,14,RUS,0:14
+20 sec. exclusion in field,7.0,1,1,UZB,1.0,TANKEEVA E,5,5 - 1,14,RUS,0:14
+Extra player shot - Blocked,3.0,1,1,UZB,1.0,SARANCHA A,5,5 - 1,1,UZB,0:01
+Starting goalkeeper,1.0,1,1,UZB,2.0,DUKHANOVA E,5,5 - 1,480,UZB,8:00
+Starting goalkeeper,1.0,1,1,UZB,2.0,USTYUKHINA A,5,5 - 1,480,RUS,8:00
+Sprint won possession,6.0,1,1,UZB,2.0,BELOVA O,5,5 - 1,480,RUS,8:00
+Action shot - Goal,11.0,1,1,UZB,2.0,IVANOVA E,6,6 - 1,460,RUS,7:40
+Turnover foul,9.0,1,1,UZB,2.0,HALIKOVA R,6,6 - 1,441,UZB,7:21
+Steal,6.0,1,1,UZB,2.0,BELOVA O,6,6 - 1,441,RUS,7:21
+Counter attack - Goal,11.0,1,1,UZB,2.0,IVANOVA E,7,7 - 1,430,RUS,7:10
+Turnover foul,9.0,1,1,UZB,2.0,HALIKOVA R,7,7 - 1,404,UZB,6:44
+Steal,1.0,1,1,UZB,2.0,DUKHANOVA E,7,7 - 1,404,UZB,6:44
+Turnover foul,8.0,1,1,UZB,2.0,SHCHEGLOVA A,7,7 - 1,357,UZB,5:57
+Action shot - Saved,11.0,1,1,UZB,2.0,IVANOVA E,7,7 - 1,349,RUS,5:49
+Turnover foul,4.0,1,1,UZB,2.0,KARIMOVA E,7,7 - 1,346,RUS,5:46
+Turnover foul,1.0,1,1,UZB,2.0,DUKHANOVA E,7,7 - 1,327,UZB,5:27
+Steal,11.0,1,1,UZB,2.0,IVANOVA E,7,7 - 1,327,RUS,5:27
+Turnover foul,6.0,1,1,UZB,2.0,MOROZOVA E,7,7 - 1,298,UZB,4:58
+Steal,11.0,1,1,UZB,2.0,IVANOVA E,7,7 - 1,298,RUS,4:58
+Counter attack - Goal,4.0,1,1,UZB,2.0,KARIMOVA E,8,8 - 1,287,RUS,4:47
+Turnover foul,7.0,1,1,UZB,2.0,PLYUSOVA N,8,8 - 1,275,UZB,4:35
+Action shot - Goal,12.0,1,1,UZB,2.0,ZELENTSOVA E,9,9 - 1,265,RUS,4:25
+Turnover foul,3.0,1,1,UZB,2.0,SARANCHA A,9,9 - 1,250,UZB,4:10
+Steal,6.0,1,1,UZB,2.0,BELOVA O,9,9 - 1,250,RUS,4:10
+Turnover foul,11.0,1,1,UZB,2.0,IVANOVA E,9,9 - 1,239,RUS,3:59
+Steal,1.0,1,1,UZB,2.0,DUKHANOVA E,9,9 - 1,239,UZB,3:59
+Turnover foul,3.0,1,1,UZB,2.0,SARANCHA A,9,9 - 1,210,UZB,3:30
+Steal,3.0,1,1,UZB,2.0,PROKOFYEVA E,9,9 - 1,210,RUS,3:30
+Action shot - Goal,10.0,1,1,UZB,2.0,BELIAEVA O,10,10 - 1,191,RUS,3:11
+Turnover foul,7.0,1,1,UZB,2.0,PLYUSOVA N,10,10 - 1,171,UZB,2:51
+5m shot - Goal,5.0,1,1,UZB,2.0,ANTONOVA A,11,11 - 1,141,RUS,2:21
+Penalty foul,6.0,1,1,UZB,2.0,BELOVA O,11,11 - 1,128,RUS,2:08
+Penalty shot - Saved,7.0,1,1,UZB,2.0,PLYUSOVA N,11,11 - 1,128,UZB,2:08
+5m shot - Blocked,2.0,1,1,UZB,2.0,ANTONOVA D,11,11 - 1,107,RUS,1:47
+Turnover foul,3.0,1,1,UZB,2.0,SARANCHA A,11,11 - 1,78,UZB,1:18
+Steal,6.0,1,1,UZB,2.0,BELOVA O,11,11 - 1,78,RUS,1:18
+Turnover foul,2.0,1,1,UZB,2.0,ANTONOVA D,11,11 - 1,64,RUS,1:04
+Steal,1.0,1,1,UZB,2.0,DUKHANOVA E,11,11 - 1,64,UZB,1:04
+Action shot - Blocked,6.0,1,1,UZB,2.0,BELOVA O,11,11 - 1,28,RUS,0:28
+Centre shot - Goal,3.0,1,2,UZB,2.0,SARANCHA A,11,11 - 2,16,UZB,0:16
+Turnover foul,9.0,1,2,UZB,2.0,TIMOFEEVA A,11,11 - 2,4,RUS,0:04
+Steal,10.0,1,2,UZB,2.0,ZINUROVA A,11,11 - 2,4,UZB,0:04
+Starting goalkeeper,1.0,1,2,UZB,3.0,USTYUKHINA A,11,11 - 2,480,RUS,8:00
+Starting goalkeeper,1.0,1,2,UZB,3.0,DUKHANOVA E,11,11 - 2,480,UZB,8:00
+Sprint won possession,3.0,1,2,UZB,3.0,PROKOFYEVA E,11,11 - 2,13,RUS,0:13
+Action shot - Missed,5.0,1,2,UZB,3.0,ANTONOVA A,11,11 - 2,464,RUS,7:44
+20 sec. exclusion in centre,6.0,1,2,UZB,3.0,MOROZOVA E,11,11 - 2,426,UZB,7:06
+Extra player shot - Goal,3.0,1,2,UZB,3.0,PROKOFYEVA E,12,12 - 2,413,RUS,6:53
+5m shot - Saved,10.0,1,2,UZB,3.0,ZINUROVA A,12,12 - 2,388,UZB,6:28
+5m shot - Saved,12.0,1,2,UZB,3.0,ZELENTSOVA E,12,12 - 2,368,RUS,6:08
+Counter attack - Post,7.0,1,2,UZB,3.0,PLYUSOVA N,12,12 - 2,356,UZB,5:56
+Counter attack - Goal,3.0,1,2,UZB,3.0,PROKOFYEVA E,13,13 - 2,339,RUS,5:39
+Turnover foul,7.0,1,2,UZB,3.0,PLYUSOVA N,13,13 - 2,320,UZB,5:20
+Steal,11.0,1,2,UZB,3.0,IVANOVA E,13,13 - 2,320,RUS,5:20
+Action shot - Goal,10.0,1,2,UZB,3.0,BELIAEVA O,14,14 - 2,302,RUS,5:02
+Centre shot - Saved,3.0,1,2,UZB,3.0,SARANCHA A,14,14 - 2,272,UZB,4:32
+5m shot - Post,4.0,1,2,UZB,3.0,KARIMOVA E,14,14 - 2,248,RUS,4:08
+Turnover foul,10.0,1,2,UZB,3.0,ZINUROVA A,14,14 - 2,227,UZB,3:47
+Steal,10.0,1,2,UZB,3.0,BELIAEVA O,14,14 - 2,227,RUS,3:47
+Counter attack - Goal,3.0,1,2,UZB,3.0,PROKOFYEVA E,15,15 - 2,211,RUS,3:31
+20 sec. exclusion in field,6.0,1,2,UZB,3.0,BELOVA O,15,15 - 2,179,RUS,2:59
+Extra player shot - Goal,9.0,1,3,UZB,3.0,HALIKOVA R,15,15 - 3,177,UZB,2:57
+Action shot - Post,11.0,1,3,UZB,3.0,IVANOVA E,15,15 - 3,156,RUS,2:36
+20 sec. exclusion in field,11.0,1,3,UZB,3.0,IVANOVA E,15,15 - 3,146,RUS,2:26
+Extra player shot - Goal,7.0,1,4,UZB,3.0,PLYUSOVA N,15,15 - 4,130,UZB,2:10
+20 sec. exclusion in centre,2.0,1,4,UZB,3.0,DADABAEVA D,15,15 - 4,110,UZB,1:50
+Extra player shot - Goal,6.0,1,4,UZB,3.0,BELOVA O,16,16 - 4,98,RUS,1:38
+Turnover foul,3.0,1,4,UZB,3.0,SARANCHA A,16,16 - 4,87,UZB,1:27
+Steal,6.0,1,4,UZB,3.0,BELOVA O,16,16 - 4,87,RUS,1:27
+Turnover foul,8.0,1,4,UZB,3.0,GRINEVA A,16,16 - 4,67,RUS,1:07
+Steal,3.0,1,4,UZB,3.0,SARANCHA A,16,16 - 4,67,UZB,1:07
+Turnover foul,12.0,1,4,UZB,3.0,PLYUSOVA A,16,16 - 4,45,UZB,0:45
+Steal,8.0,1,4,UZB,3.0,GRINEVA A,16,16 - 4,45,RUS,0:45
+Turnover foul,9.0,1,4,UZB,3.0,TIMOFEEVA A,16,16 - 4,37,RUS,0:37
+Steal,3.0,1,4,UZB,3.0,SARANCHA A,16,16 - 4,37,UZB,0:37
+5m shot - Saved,2.0,1,4,UZB,3.0,ANTONOVA D,16,16 - 4,1,RUS,0:01
+Starting goalkeeper,1.0,1,4,UZB,4.0,USTYUKHINA A,16,16 - 4,480,RUS,8:00
+Starting goalkeeper,1.0,1,4,UZB,4.0,DUKHANOVA E,16,16 - 4,480,UZB,8:00
+Sprint won possession,6.0,1,4,UZB,4.0,BELOVA O,16,16 - 4,480,RUS,8:00
+Penalty foul,6.0,1,4,UZB,4.0,MOROZOVA E,16,16 - 4,465,UZB,7:45
+Penalty shot - Goal,3.0,1,4,UZB,4.0,PROKOFYEVA E,17,17 - 4,465,RUS,7:45
+Turnover foul,8.0,1,4,UZB,4.0,SHCHEGLOVA A,17,17 - 4,450,UZB,7:30
+Counter attack - Goal,10.0,1,4,UZB,4.0,BELIAEVA O,18,18 - 4,437,RUS,7:17
+Turnover foul,5.0,1,4,UZB,4.0,IVANOVA E,18,18 - 4,418,UZB,6:58
+Steal,11.0,1,4,UZB,4.0,IVANOVA E,18,18 - 4,418,RUS,6:58
+Action shot - Saved,6.0,1,4,UZB,4.0,BELOVA O,18,18 - 4,399,RUS,6:39
+Action shot - Post,4.0,1,4,UZB,4.0,KARIMOVA E,18,18 - 4,397,RUS,6:37
+Turnover foul,6.0,1,4,UZB,4.0,MOROZOVA E,18,18 - 4,383,UZB,6:23
+Counter attack - Post,10.0,1,4,UZB,4.0,BELIAEVA O,18,18 - 4,370,RUS,6:10
+Turnover foul,11.0,1,4,UZB,4.0,HAMITOVA G,18,18 - 4,344,UZB,5:44
+Starting goalkeeper,13.0,2,0,ESP,1.0,KARNAUKH A,0,0 - 0,480,RUS,8:00
+Starting goalkeeper,1.0,2,0,ESP,1.0,ESTER L,0,0 - 0,480,ESP,8:00
+Sprint won possession,6.0,2,0,ESP,1.0,PAREJA J,0,0 - 0,480,ESP,8:00
+Turnover foul,11.0,2,0,ESP,1.0,GARCIA GODOY M,0,0 - 0,455,ESP,7:35
+Steal,8.0,2,0,ESP,1.0,GRINEVA A,0,0 - 0,455,RUS,7:35
+5m shot - Goal,11.0,2,0,ESP,1.0,IVANOVA E,1,0 - 1,427,RUS,7:07
+Turnover foul,6.0,2,0,ESP,1.0,PAREJA J,1,0 - 1,406,ESP,6:46
+Steal,3.0,2,0,ESP,1.0,PROKOFYEVA E,1,0 - 1,406,RUS,6:46
+5m shot - Saved,11.0,2,0,ESP,1.0,IVANOVA E,1,0 - 1,377,RUS,6:17
+5m shot - Blocked,3.0,2,0,ESP,1.0,ESPAR A,1,0 - 1,353,ESP,5:53
+Turnover foul,3.0,2,0,ESP,1.0,PROKOFYEVA E,1,0 - 1,336,RUS,5:36
+Steal,1.0,2,0,ESP,1.0,ESTER L,1,0 - 1,336,ESP,5:36
+5m shot - Post,5.0,2,0,ESP,1.0,ORTIZ M,1,0 - 1,309,ESP,5:09
+20 sec. exclusion in centre,12.0,2,0,ESP,1.0,LOPEZ L,1,0 - 1,290,ESP,4:50
+Action shot - Saved,5.0,2,0,ESP,1.0,ANTONOVA A,1,0 - 1,266,RUS,4:26
+Action shot - Blocked,8.0,2,0,ESP,1.0,PENA P,1,0 - 1,245,ESP,4:05
+Turnover foul,10.0,2,0,ESP,1.0,BELIAEVA O,1,0 - 1,222,RUS,3:42
+20 sec. exclusion in centre,8.0,2,0,ESP,1.0,GRINEVA A,1,0 - 1,206,RUS,3:26
+Action shot - Saved,4.0,2,0,ESP,1.0,TARRAGO R,1,0 - 1,182,ESP,3:02
+Action shot - Saved,5.0,2,0,ESP,1.0,ANTONOVA A,1,0 - 1,156,RUS,2:36
+5m shot - Saved,4.0,2,0,ESP,1.0,TARRAGO R,1,0 - 1,129,ESP,2:09
+5m shot - Post,4.0,2,0,ESP,1.0,TARRAGO R,1,0 - 1,105,ESP,1:45
+Turnover foul,10.0,2,0,ESP,1.0,BELIAEVA O,1,0 - 1,77,RUS,1:17
+Steal,11.0,2,0,ESP,1.0,GARCIA GODOY M,1,0 - 1,77,ESP,1:17
+5m shot - Post,5.0,2,0,ESP,1.0,ORTIZ M,1,0 - 1,49,ESP,0:49
+Turnover foul,6.0,2,0,ESP,1.0,BELOVA O,1,0 - 1,21,RUS,0:21
+Steal,8.0,2,0,ESP,1.0,PENA P,1,0 - 1,21,ESP,0:21
+Turnover foul,3.0,2,0,ESP,1.0,ESPAR A,1,0 - 1,4,ESP,0:04
+5m shot - Saved,13.0,2,0,ESP,1.0,KARNAUKH A,1,0 - 1,2,RUS,0:02
+Starting goalkeeper,1.0,2,0,ESP,2.0,ESTER L,1,0 - 1,480,ESP,8:00
+Starting goalkeeper,13.0,2,0,ESP,2.0,KARNAUKH A,1,0 - 1,480,RUS,8:00
+Sprint won possession,4.0,2,0,ESP,2.0,TARRAGO R,1,0 - 1,480,ESP,8:00
+Action shot - Missed,3.0,2,0,ESP,2.0,ESPAR A,1,0 - 1,452,ESP,7:32
+5m shot - Saved,10.0,2,0,ESP,2.0,BELIAEVA O,1,0 - 1,426,RUS,7:06
+Action shot - Saved,4.0,2,0,ESP,2.0,TARRAGO R,1,0 - 1,406,ESP,6:46
+Action shot - Saved,9.0,2,0,ESP,2.0,BLAS A,1,0 - 1,400,ESP,6:40
+5m shot - Saved,11.0,2,0,ESP,2.0,IVANOVA E,1,0 - 1,390,RUS,6:30
+Action shot - Post,8.0,2,0,ESP,2.0,PENA P,1,0 - 1,362,ESP,6:02
+20 sec. exclusion in centre,7.0,2,0,ESP,2.0,MIRANDA L,1,0 - 1,343,ESP,5:43
+Action shot - Saved,8.0,2,0,ESP,2.0,GRINEVA A,1,0 - 1,317,RUS,5:17
+Action shot - Blocked,8.0,2,0,ESP,2.0,PENA P,1,0 - 1,288,ESP,4:48
+20 sec. exclusion in centre,2.0,2,0,ESP,2.0,BACH M,1,0 - 1,262,ESP,4:22
+Extra player shot - Saved,3.0,2,0,ESP,2.0,PROKOFYEVA E,1,0 - 1,242,RUS,4:02
+5m shot - Missed,4.0,2,0,ESP,2.0,TARRAGO R,1,0 - 1,214,ESP,3:34
+5m shot - Blocked,11.0,2,0,ESP,2.0,IVANOVA E,1,0 - 1,184,RUS,3:04
+20 sec. exclusion in centre,11.0,2,0,ESP,2.0,IVANOVA E,1,0 - 1,163,RUS,2:43
+Extra player shot - Goal,12.0,2,1,ESP,2.0,LOPEZ L,1,1 - 1,143,ESP,2:23
+Centre shot - Post,7.0,2,1,ESP,2.0,TANKEEVA E,1,1 - 1,120,RUS,2:00
+5m shot - Goal,12.0,2,2,ESP,2.0,LOPEZ L,1,2 - 1,90,ESP,1:30
+Turnover foul,12.0,2,2,ESP,2.0,ZELENTSOVA E,1,2 - 1,64,RUS,1:04
+Steal,3.0,2,2,ESP,2.0,ESPAR A,1,2 - 1,64,ESP,1:04
+5m shot - Blocked,6.0,2,2,ESP,2.0,PAREJA J,1,2 - 1,36,ESP,0:36
+20 sec. exclusion in centre,6.0,2,2,ESP,2.0,PAREJA J,1,2 - 1,24,ESP,0:24
+Time-Out,,2,2,ESP,2.0,,1,2 - 1,24,RUS,0:24
+Extra player shot - Post,5.0,2,2,ESP,2.0,ANTONOVA A,1,2 - 1,5,RUS,0:05
+5m shot - Goal,3.0,2,2,ESP,2.0,PROKOFYEVA E,2,2 - 2,1,RUS,0:01
+Starting goalkeeper,1.0,2,2,ESP,3.0,ESTER L,2,2 - 2,480,ESP,8:00
+Starting goalkeeper,13.0,2,2,ESP,3.0,KARNAUKH A,2,2 - 2,480,RUS,8:00
+Sprint won possession,4.0,2,2,ESP,3.0,TARRAGO R,2,2 - 2,480,ESP,8:00
+5m shot - Post,4.0,2,2,ESP,3.0,TARRAGO R,2,2 - 2,453,ESP,7:33
+5m shot - Goal,3.0,2,2,ESP,3.0,PROKOFYEVA E,3,2 - 3,423,RUS,7:03
+Action shot - Saved,5.0,2,2,ESP,3.0,ORTIZ M,3,2 - 3,397,ESP,6:37
+20 sec. exclusion in field,5.0,2,2,ESP,3.0,ANTONOVA A,3,2 - 3,375,RUS,6:15
+Turnover foul,12.0,2,2,ESP,3.0,LOPEZ L,3,2 - 3,359,ESP,5:59
+Steal,3.0,2,2,ESP,3.0,PROKOFYEVA E,3,2 - 3,359,RUS,5:59
+5m shot - Goal,5.0,2,2,ESP,3.0,ANTONOVA A,4,2 - 4,329,RUS,5:29
+Turnover foul,12.0,2,2,ESP,3.0,LOPEZ L,4,2 - 4,302,ESP,5:02
+Steal,4.0,2,2,ESP,3.0,KARIMOVA E,4,2 - 4,302,RUS,5:02
+20 sec. exclusion in centre,3.0,2,2,ESP,3.0,ESPAR A,4,2 - 4,280,ESP,4:40
+Action shot - Goal,5.0,2,2,ESP,3.0,ANTONOVA A,5,2 - 5,258,RUS,4:18
+Time-Out,,2,2,ESP,3.0,,5,2 - 5,258,ESP,4:18
+20 sec. exclusion in centre,8.0,2,2,ESP,3.0,GRINEVA A,5,2 - 5,238,RUS,3:58
+Action shot - Missed,12.0,2,2,ESP,3.0,LOPEZ L,5,2 - 5,212,ESP,3:32
+Turnover foul,10.0,2,2,ESP,3.0,BELIAEVA O,5,2 - 5,193,RUS,3:13
+Steal,6.0,2,2,ESP,3.0,PAREJA J,5,2 - 5,193,ESP,3:13
+Centre shot - Goal,9.0,2,3,ESP,3.0,BLAS A,5,3 - 5,168,ESP,2:48
+5m shot - Post,6.0,2,3,ESP,3.0,BELOVA O,5,3 - 5,141,RUS,2:21
+Action shot - Saved,3.0,2,3,ESP,3.0,ESPAR A,5,3 - 5,112,ESP,1:52
+Turnover foul,4.0,2,3,ESP,3.0,KARIMOVA E,5,3 - 5,83,RUS,1:23
+Steal,4.0,2,3,ESP,3.0,TARRAGO R,5,3 - 5,83,ESP,1:23
+20 sec. exclusion in field,6.0,2,3,ESP,3.0,BELOVA O,5,3 - 5,62,RUS,1:02
+Turnover foul,4.0,2,3,ESP,3.0,TARRAGO R,5,3 - 5,38,ESP,0:38
+5m shot - Saved,13.0,2,3,ESP,3.0,KARNAUKH A,5,3 - 5,9,RUS,0:09
+Counter attack - Saved,4.0,2,3,ESP,3.0,TARRAGO R,5,3 - 5,1,ESP,0:01
+Starting goalkeeper,1.0,2,3,ESP,4.0,ESTER L,5,3 - 5,480,ESP,8:00
+Starting goalkeeper,13.0,2,3,ESP,4.0,KARNAUKH A,5,3 - 5,480,RUS,8:00
+Sprint won possession,6.0,2,3,ESP,4.0,PAREJA J,5,3 - 5,480,ESP,8:00
+Turnover foul,3.0,2,3,ESP,4.0,ESPAR A,5,3 - 5,453,ESP,7:33
+Steal,6.0,2,3,ESP,4.0,BELOVA O,5,3 - 5,453,RUS,7:33
+Counter attack - Goal,3.0,2,3,ESP,4.0,PROKOFYEVA E,6,3 - 6,446,RUS,7:26
+Action shot - Post,8.0,2,3,ESP,4.0,PENA P,6,3 - 6,418,ESP,6:58
+Turnover foul,4.0,2,3,ESP,4.0,KARIMOVA E,6,3 - 6,393,RUS,6:33
+Steal,8.0,2,3,ESP,4.0,PENA P,6,3 - 6,393,ESP,6:33
+Turnover foul,9.0,2,3,ESP,4.0,BLAS A,6,3 - 6,364,ESP,6:04
+Steal,6.0,2,3,ESP,4.0,BELOVA O,6,3 - 6,364,RUS,6:04
+5m shot - Missed,6.0,2,3,ESP,4.0,BELOVA O,6,3 - 6,337,RUS,5:37
+Action shot - Missed,3.0,2,3,ESP,4.0,ESPAR A,6,3 - 6,309,ESP,5:09
+Turnover foul,4.0,2,3,ESP,4.0,KARIMOVA E,6,3 - 6,293,RUS,4:53
+Steal,3.0,2,3,ESP,4.0,ESPAR A,6,3 - 6,293,ESP,4:53
+Time-Out,,2,3,ESP,4.0,,6,3 - 6,291,ESP,4:51
+Centre shot - Post,11.0,2,3,ESP,4.0,GARCIA GODOY M,6,3 - 6,267,ESP,4:27
+Centre shot - Saved,11.0,2,3,ESP,4.0,GARCIA GODOY M,6,3 - 6,265,ESP,4:25
+Counter attack - Saved,3.0,2,3,ESP,4.0,PROKOFYEVA E,6,3 - 6,257,RUS,4:17
+Action shot - Post,3.0,2,3,ESP,4.0,ESPAR A,6,3 - 6,230,ESP,3:50
+Turnover foul,11.0,2,3,ESP,4.0,IVANOVA E,6,3 - 6,207,RUS,3:27
+Steal,4.0,2,3,ESP,4.0,TARRAGO R,6,3 - 6,207,ESP,3:27
+5m shot - Goal,12.0,2,4,ESP,4.0,LOPEZ L,6,4 - 6,180,ESP,3:00
+Turnover foul,11.0,2,4,ESP,4.0,IVANOVA E,6,4 - 6,164,RUS,2:44
+Steal,4.0,2,4,ESP,4.0,TARRAGO R,6,4 - 6,164,ESP,2:44
+5m shot - Post,12.0,2,4,ESP,4.0,LOPEZ L,6,4 - 6,138,ESP,2:18
+20 sec. exclusion in centre,12.0,2,4,ESP,4.0,LOPEZ L,6,4 - 6,111,ESP,1:51
+Time-Out,,2,4,ESP,4.0,,6,4 - 6,111,RUS,1:51
+Action shot - Goal,3.0,2,4,ESP,4.0,PROKOFYEVA E,7,4 - 7,84,RUS,1:24
+Centre shot - Goal,9.0,2,5,ESP,4.0,BLAS A,7,5 - 7,66,ESP,1:06
+5m shot - Goal,4.0,2,6,ESP,4.0,TARRAGO R,7,6 - 7,17,ESP,0:17
+Starting goalkeeper,1.0,3,0,NED,1.0,van der MEIJDEN I,0,0 - 0,480,NED,8:00
+Starting goalkeeper,13.0,3,0,NED,1.0,KARNAUKH A,0,0 - 0,480,RUS,8:00
+Sprint won possession,7.0,3,0,NED,1.0,van BELKUM I,0,0 - 0,480,NED,8:00
+Turnover foul,8.0,3,0,NED,1.0,SEVENICH V,0,0 - 0,460,NED,7:40
+Steal,10.0,3,0,NED,1.0,BELIAEVA O,0,0 - 0,460,RUS,7:40
+Centre shot - Goal,10.0,3,0,NED,1.0,BELIAEVA O,1,1 - 0,434,RUS,7:14
+Centre shot - Goal,10.0,3,0,NED,1.0,BELIAEVA O,2,2 - 0,380,RUS,6:20
+20 sec. exclusion in centre,8.0,3,0,NED,1.0,GRINEVA A,2,2 - 0,368,RUS,6:08
+Extra player shot - Goal,8.0,3,1,NED,1.0,SEVENICH V,2,2 - 1,349,NED,5:49
+5m shot - Saved,3.0,3,1,NED,1.0,PROKOFYEVA E,2,2 - 1,322,RUS,5:22
+Centre shot - Blocked,8.0,3,1,NED,1.0,SEVENICH V,2,2 - 1,302,NED,5:02
+Turnover foul,6.0,3,1,NED,1.0,BELOVA O,2,2 - 1,273,RUS,4:33
+Steal,7.0,3,1,NED,1.0,van BELKUM I,2,2 - 1,273,NED,4:33
+5m shot - Goal,11.0,3,2,NED,1.0,KLAASSEN L,2,2 - 2,250,NED,4:10
+Turnover foul,6.0,3,2,NED,1.0,BELOVA O,2,2 - 2,222,RUS,3:42
+5m shot - Missed,8.0,3,2,NED,1.0,SEVENICH V,2,2 - 2,192,NED,3:12
+20 sec. exclusion in centre,11.0,3,2,NED,1.0,KLAASSEN L,2,2 - 2,187,NED,3:07
+Extra player shot - Post,6.0,3,2,NED,1.0,BELOVA O,2,2 - 2,168,RUS,2:48
+20 sec. exclusion in centre,6.0,3,2,NED,1.0,BELOVA O,2,2 - 2,150,RUS,2:30
+Extra player shot - Saved,8.0,3,2,NED,1.0,SEVENICH V,2,2 - 2,133,NED,2:13
+20 sec. exclusion in centre,2.0,3,2,NED,1.0,SMIT Y,2,2 - 2,105,NED,1:45
+Extra player shot - Goal,5.0,3,2,NED,1.0,ANTONOVA A,3,3 - 2,93,RUS,1:33
+Centre shot - Post,12.0,3,2,NED,1.0,van der MOLEN l,3,3 - 2,81,NED,1:21
+Action shot - Saved,5.0,3,2,NED,1.0,ANTONOVA A,3,3 - 2,53,RUS,0:53
+Action shot - Goal,10.0,3,3,NED,1.0,GENEE D,3,3 - 3,41,NED,0:41
+Turnover foul,11.0,3,3,NED,1.0,IVANOVA E,3,3 - 3,12,RUS,0:12
+Steal,5.0,3,3,NED,1.0,van der SLOOT S,3,3 - 3,12,NED,0:12
+Starting goalkeeper,13.0,3,3,NED,2.0,KARNAUKH A,3,3 - 3,480,RUS,8:00
+Starting goalkeeper,1.0,3,3,NED,2.0,van der MEIJDEN I,3,3 - 3,480,NED,8:00
+Sprint won possession,5.0,3,3,NED,2.0,van der SLOOT S,3,3 - 3,480,NED,8:00
+5m shot - Post,2.0,3,3,NED,2.0,SMIT Y,3,3 - 3,452,NED,7:32
+5m shot - Goal,11.0,3,3,NED,2.0,IVANOVA E,4,4 - 3,423,RUS,7:03
+Turnover foul,7.0,3,3,NED,2.0,van BELKUM I,4,4 - 3,416,NED,6:56
+Counter attack - Goal,11.0,3,3,NED,2.0,IVANOVA E,5,5 - 3,406,RUS,6:46
+Turnover foul,2.0,3,3,NED,2.0,SMIT Y,5,5 - 3,391,NED,6:31
+Steal,4.0,3,3,NED,2.0,KARIMOVA E,5,5 - 3,391,RUS,6:31
+5m shot - Blocked,6.0,3,3,NED,2.0,BELOVA O,5,5 - 3,369,RUS,6:09
+5m shot - Post,7.0,3,3,NED,2.0,van BELKUM I,5,5 - 3,348,NED,5:48
+Penalty foul,8.0,3,3,NED,2.0,SEVENICH V,5,5 - 3,334,NED,5:34
+Penalty shot - Saved,3.0,3,3,NED,2.0,PROKOFYEVA E,5,5 - 3,334,RUS,5:34
+20 sec. exclusion in centre,6.0,3,3,NED,2.0,BELOVA O,5,5 - 3,314,RUS,5:14
+Action shot - Post,2.0,3,3,NED,2.0,SMIT Y,5,5 - 3,293,NED,4:53
+Centre shot - Goal,10.0,3,3,NED,2.0,BELIAEVA O,6,6 - 3,269,RUS,4:29
+Time-Out,,3,3,NED,2.0,,6,6 - 3,269,NED,4:29
+Turnover foul,11.0,3,3,NED,2.0,KLAASSEN L,6,6 - 3,240,NED,4:00
+Steal,4.0,3,3,NED,2.0,KARIMOVA E,6,6 - 3,240,RUS,4:00
+Centre shot - Goal,9.0,3,3,NED,2.0,TIMOFEEVA A,7,7 - 3,226,RUS,3:46
+Turnover foul,12.0,3,3,NED,2.0,van der MOLEN l,7,7 - 3,214,NED,3:34
+Steal,8.0,3,3,NED,2.0,GRINEVA A,7,7 - 3,214,RUS,3:34
+Turnover foul,4.0,3,3,NED,2.0,KARIMOVA E,7,7 - 3,187,RUS,3:07
+Centre shot - Saved,10.0,3,3,NED,2.0,GENEE D,7,7 - 3,176,NED,2:56
+Turnover foul,10.0,3,3,NED,2.0,GENEE D,7,7 - 3,166,NED,2:46
+Steal,3.0,3,3,NED,2.0,PROKOFYEVA E,7,7 - 3,166,RUS,2:46
+Counter attack - Saved,11.0,3,3,NED,2.0,IVANOVA E,7,7 - 3,153,RUS,2:33
+20 sec. exclusion in field,10.0,3,3,NED,2.0,BELIAEVA O,7,7 - 3,150,RUS,2:30
+Extra player shot - Goal,10.0,3,4,NED,2.0,GENEE D,7,7 - 4,130,NED,2:10
+Turnover foul,10.0,3,4,NED,2.0,BELIAEVA O,7,7 - 4,112,RUS,1:52
+Action shot - Missed,7.0,3,4,NED,2.0,van BELKUM I,7,7 - 4,85,NED,1:25
+Turnover foul,10.0,3,4,NED,2.0,BELIAEVA O,7,7 - 4,77,RUS,1:17
+Steal,7.0,3,4,NED,2.0,van BELKUM I,7,7 - 4,77,NED,1:17
+Centre shot - Saved,12.0,3,4,NED,2.0,van der MOLEN l,7,7 - 4,52,NED,0:52
+Turnover foul,3.0,3,4,NED,2.0,PROKOFYEVA E,7,7 - 4,43,RUS,0:43
+Penalty foul,8.0,3,4,NED,2.0,GRINEVA A,7,7 - 4,23,RUS,0:23
+Exclusion with substitution,2.0,3,4,NED,4.0,SMIT Y,7,7 - 4,214,NED,3:34
+Turnover foul,10.0,3,4,NED,4.0,BELIAEVA O,7,7 - 4,189,RUS,3:09
+Turnover foul,8.0,3,4,NED,4.0,SEVENICH V,7,7 - 4,162,NED,2:42
+Turnover foul,3.0,3,4,NED,4.0,PROKOFYEVA E,7,7 - 4,137,RUS,2:17
+Steal,4.0,3,4,NED,4.0,HAKHVERDIAN B,7,7 - 4,137,NED,2:17
+5m shot - Goal,11.0,3,11,NED,4.0,KLAASSEN L,11,11 - 11,117,NED,1:57
+20 sec. exclusion in field,7.0,3,11,NED,4.0,van BELKUM I,11,11 - 11,96,NED,1:36
+Penalty shot - Goal,5.0,3,5,NED,2.0,van der SLOOT S,7,7 - 5,23,NED,0:23
+5m shot - Missed,3.0,3,5,NED,2.0,PROKOFYEVA E,7,7 - 5,9,RUS,0:09
+Turnover foul,11.0,3,5,NED,2.0,KLAASSEN L,7,7 - 5,2,NED,0:02
+Steal,3.0,3,5,NED,2.0,PROKOFYEVA E,7,7 - 5,2,RUS,0:02
+Starting goalkeeper,13.0,3,5,NED,3.0,KARNAUKH A,7,7 - 5,480,RUS,8:00
+Starting goalkeeper,1.0,3,5,NED,3.0,van der MEIJDEN I,7,7 - 5,480,NED,8:00
+Sprint won possession,7.0,3,5,NED,3.0,van BELKUM I,7,7 - 5,480,NED,8:00
+5m shot - Goal,11.0,3,6,NED,3.0,KLAASSEN L,7,7 - 6,465,NED,7:45
+5m shot - Saved,5.0,3,6,NED,3.0,ANTONOVA A,7,7 - 6,435,RUS,7:15
+Turnover foul,10.0,3,6,NED,3.0,BELIAEVA O,7,7 - 6,428,RUS,7:08
+Steal,8.0,3,6,NED,3.0,SEVENICH V,7,7 - 6,428,NED,7:08
+20 sec. exclusion in centre,11.0,3,6,NED,3.0,IVANOVA E,7,7 - 6,414,RUS,6:54
+Action shot - Goal,7.0,3,7,NED,3.0,van BELKUM I,7,7 - 7,390,NED,6:30
+Action shot - Goal,6.0,3,7,NED,3.0,BELOVA O,8,8 - 7,369,RUS,6:09
+Centre shot - Missed,2.0,3,7,NED,3.0,SMIT Y,8,8 - 7,345,NED,5:45
+Action shot - Saved,9.0,3,7,NED,3.0,TIMOFEEVA A,8,8 - 7,322,RUS,5:22
+20 sec. exclusion in field,5.0,3,7,NED,3.0,ANTONOVA A,8,8 - 7,305,RUS,5:05
+Turnover foul,7.0,3,7,NED,3.0,van BELKUM I,8,8 - 7,286,NED,4:46
+Steal,3.0,3,7,NED,3.0,PROKOFYEVA E,8,8 - 7,286,RUS,4:46
+Turnover foul,3.0,3,7,NED,3.0,PROKOFYEVA E,8,8 - 7,274,RUS,4:34
+Steal,7.0,3,7,NED,3.0,van BELKUM I,8,8 - 7,274,NED,4:34
+Centre shot - Saved,10.0,3,7,NED,3.0,GENEE D,8,8 - 7,254,NED,4:14
+20 sec. exclusion in field,10.0,3,7,NED,3.0,GENEE D,8,8 - 7,226,NED,3:46
+Action shot - Saved,9.0,3,7,NED,3.0,TIMOFEEVA A,8,8 - 7,203,RUS,3:23
+Turnover foul,8.0,3,7,NED,3.0,SEVENICH V,8,8 - 7,176,NED,2:56
+Steal,6.0,3,7,NED,3.0,BELOVA O,8,8 - 7,176,RUS,2:56
+5m shot - Post,3.0,3,7,NED,3.0,PROKOFYEVA E,8,8 - 7,151,RUS,2:31
+Turnover foul,7.0,3,7,NED,3.0,van BELKUM I,8,8 - 7,127,NED,2:07
+Turnover foul,10.0,3,7,NED,3.0,BELIAEVA O,8,8 - 7,110,RUS,1:50
+Turnover foul,2.0,3,7,NED,3.0,SMIT Y,8,8 - 7,81,NED,1:21
+Steal,6.0,3,7,NED,3.0,BELOVA O,8,8 - 7,81,RUS,1:21
+Turnover foul,4.0,3,7,NED,3.0,KARIMOVA E,8,8 - 7,61,RUS,1:01
+Steal,7.0,3,7,NED,3.0,van BELKUM I,8,8 - 7,61,NED,1:01
+20 sec. exclusion in field,4.0,3,7,NED,3.0,KARIMOVA E,8,8 - 7,59,RUS,0:59
+Time-Out,,3,7,NED,3.0,,8,8 - 7,59,NED,0:59
+Action shot - Missed,8.0,3,7,NED,3.0,SEVENICH V,8,8 - 7,26,NED,0:26
+5m shot - Post,10.0,3,7,NED,3.0,BELIAEVA O,8,8 - 7,6,RUS,0:06
+5m shot - Saved,8.0,3,7,NED,3.0,SEVENICH V,8,8 - 7,1,NED,0:01
+Starting goalkeeper,1.0,3,7,NED,4.0,van der MEIJDEN I,8,8 - 7,480,NED,8:00
+Starting goalkeeper,13.0,3,7,NED,4.0,KARNAUKH A,8,8 - 7,480,RUS,8:00
+Sprint won possession,2.0,3,7,NED,4.0,ANTONOVA D,8,8 - 7,480,RUS,8:00
+Centre shot - Post,7.0,3,7,NED,4.0,TANKEEVA E,8,8 - 7,455,RUS,7:35
+Centre shot - Goal,7.0,3,7,NED,4.0,TANKEEVA E,9,9 - 7,453,RUS,7:33
+5m shot - Goal,11.0,3,8,NED,4.0,KLAASSEN L,9,9 - 8,433,NED,7:13
+Turnover foul,2.0,3,8,NED,4.0,ANTONOVA D,9,9 - 8,417,RUS,6:57
+Steal,8.0,3,8,NED,4.0,SEVENICH V,9,9 - 8,417,NED,6:57
+Turnover foul,12.0,3,8,NED,4.0,van der MOLEN l,9,9 - 8,408,NED,6:48
+20 sec. exclusion in field,8.0,3,8,NED,4.0,SEVENICH V,9,9 - 8,391,NED,6:31
+Time-Out,,3,8,NED,4.0,,9,9 - 8,391,RUS,6:31
+Action shot - Post,5.0,3,8,NED,4.0,ANTONOVA A,9,9 - 8,365,RUS,6:05
+Action shot - Blocked,8.0,3,8,NED,4.0,SEVENICH V,9,9 - 8,338,NED,5:38
+Counter attack - Saved,11.0,3,8,NED,4.0,IVANOVA E,9,9 - 8,328,RUS,5:28
+Counter attack - Goal,11.0,3,8,NED,4.0,IVANOVA E,10,10 - 8,326,RUS,5:26
+20 sec. exclusion in centre,3.0,3,8,NED,4.0,PROKOFYEVA E,10,10 - 8,306,RUS,5:06
+Extra player shot - Goal,2.0,3,9,NED,4.0,SMIT Y,10,10 - 9,295,NED,4:55
+Turnover foul,4.0,3,9,NED,4.0,KARIMOVA E,10,10 - 9,275,RUS,4:35
+Steal,12.0,3,9,NED,4.0,van der MOLEN l,10,10 - 9,275,NED,4:35
+Centre shot - Goal,12.0,3,10,NED,4.0,van der MOLEN l,10,10 - 10,254,NED,4:14
+20 sec. exclusion in field,2.0,3,10,NED,4.0,SMIT Y,10,10 - 10,244,NED,4:04
+Action shot - Goal,4.0,3,10,NED,4.0,KARIMOVA E,11,11 - 10,221,RUS,3:41
+Turnover foul,2.0,3,10,NED,4.0,SMIT Y,11,11 - 10,215,NED,3:35
+Steal,3.0,3,10,NED,4.0,PROKOFYEVA E,11,11 - 10,215,RUS,3:35
+20 sec. exclusion in field,2.0,3,10,NED,4.0,SMIT Y,11,11 - 10,214,NED,3:34
+Extra player shot - Goal,6.0,3,11,NED,4.0,BELOVA O,12,12 - 11,78,RUS,1:18
+20 sec. exclusion in field,5.0,3,11,NED,4.0,ANTONOVA A,12,12 - 11,62,RUS,1:02
+Extra player shot - Goal,7.0,3,12,NED,4.0,van BELKUM I,12,12 - 12,49,NED,0:49
+5m shot - Missed,3.0,3,12,NED,4.0,PROKOFYEVA E,12,12 - 12,28,RUS,0:28
+Turnover foul,7.0,3,12,NED,4.0,van BELKUM I,12,12 - 12,11,NED,0:11
+Steal,3.0,3,12,NED,4.0,PROKOFYEVA E,12,12 - 12,11,RUS,0:11
+Time-Out,,3,12,NED,4.0,,12,12 - 12,11,RUS,0:11
+Starting goalkeeper,1.0,4,0,RSA,1.0,USTYUKHINA A,0,0 - 0,480,RUS,8:00
+Starting goalkeeper,1.0,4,0,RSA,1.0,JACOBS A,0,0 - 0,480,RSA,8:00
+Sprint won possession,2.0,4,0,RSA,1.0,ANTONOVA D,0,0 - 0,480,RUS,8:00
+20 sec. exclusion in centre,5.0,4,0,RSA,1.0,SCHOOLING M,0,0 - 0,462,RSA,7:42
+Extra player shot - Post,4.0,4,0,RSA,1.0,KARIMOVA E,0,0 - 0,449,RUS,7:29
+Turnover foul,8.0,4,0,RSA,1.0,KEET L,0,0 - 0,427,RSA,7:07
+Steal,12.0,4,0,RSA,1.0,ZELENTSOVA E,0,0 - 0,427,RUS,7:07
+Action shot - Goal,2.0,4,0,RSA,1.0,ANTONOVA D,1,1 - 0,417,RUS,6:57
+Centre shot - Goal,4.0,4,0,RSA,1.0,KARIMOVA E,2,2 - 0,374,RUS,6:14
+20 sec. exclusion in field,2.0,4,0,RSA,1.0,ANTONOVA D,2,2 - 0,360,RUS,6:00
+Extra player shot - Saved,2.0,4,0,RSA,1.0,SCHMIDT K,2,2 - 0,347,RSA,5:47
+Action shot - Goal,2.0,4,0,RSA,1.0,ANTONOVA D,3,3 - 0,318,RUS,5:18
+20 sec. exclusion in centre,5.0,4,0,RSA,1.0,ANTONOVA A,3,3 - 0,303,RUS,5:03
+5m shot - Saved,12.0,4,0,RSA,1.0,WHITE K,3,3 - 0,274,RSA,4:34
+20 sec. exclusion in centre,7.0,4,0,RSA,1.0,TANKEEVA E,3,3 - 0,271,RUS,4:31
+Turnover foul,6.0,4,0,RSA,1.0,BELOVA O,3,3 - 0,229,RUS,3:49
+Steal,1.0,4,0,RSA,1.0,JACOBS A,3,3 - 0,229,RSA,3:49
+Turnover foul,12.0,4,0,RSA,1.0,WHITE K,3,3 - 0,200,RSA,3:20
+Steal,12.0,4,0,RSA,1.0,ZELENTSOVA E,3,3 - 0,200,RUS,3:20
+Action shot - Goal,12.0,4,0,RSA,1.0,ZELENTSOVA E,4,4 - 0,182,RUS,3:02
+Turnover foul,7.0,4,0,RSA,1.0,KAY K,4,4 - 0,153,RSA,2:33
+Steal,1.0,4,0,RSA,1.0,USTYUKHINA A,4,4 - 0,153,RUS,2:33
+Turnover foul,10.0,4,0,RSA,1.0,BELIAEVA O,4,4 - 0,132,RUS,2:12
+Steal,11.0,4,0,RSA,1.0,KILLEEN L,4,4 - 0,132,RSA,2:12
+Penalty foul,9.0,4,0,RSA,1.0,CHRISTIAN D,4,4 - 0,86,RSA,1:26
+Penalty shot - Goal,3.0,4,0,RSA,1.0,PROKOFYEVA E,5,5 - 0,86,RUS,1:26
+20 sec. exclusion in centre,5.0,4,0,RSA,1.0,ANTONOVA A,5,5 - 0,75,RUS,1:15
+Extra player shot - Post,8.0,4,0,RSA,1.0,KEET L,5,5 - 0,55,RSA,0:55
+Action shot - Blocked,9.0,4,0,RSA,1.0,TIMOFEEVA A,5,5 - 0,23,RUS,0:23
+Starting goalkeeper,1.0,4,0,RSA,2.0,USTYUKHINA A,5,5 - 0,480,RUS,8:00
+Starting goalkeeper,1.0,4,0,RSA,2.0,JACOBS A,5,5 - 0,480,RSA,8:00
+Sprint won possession,12.0,4,0,RSA,2.0,WHITE K,5,5 - 0,480,RSA,8:00
+5m shot - Blocked,8.0,4,0,RSA,2.0,KEET L,5,5 - 0,471,RSA,7:51
+20 sec. exclusion in centre,6.0,4,0,RSA,2.0,SCHOOLING T,5,5 - 0,455,RSA,7:35
+Extra player shot - Goal,7.0,4,0,RSA,2.0,TANKEEVA E,6,6 - 0,449,RUS,7:29
+20 sec. exclusion in field,7.0,4,0,RSA,2.0,TANKEEVA E,6,6 - 0,439,RUS,7:19
+Extra player shot - Goal,3.0,4,1,RSA,2.0,PALEY K,6,6 - 1,424,RSA,7:04
+20 sec. exclusion in centre,5.0,4,1,RSA,2.0,SCHOOLING M,6,6 - 1,413,RSA,6:53
+Extra player shot - Saved,10.0,4,1,RSA,2.0,BELIAEVA O,6,6 - 1,396,RUS,6:36
+Centre shot - Goal,10.0,4,1,RSA,2.0,BELIAEVA O,7,7 - 1,387,RUS,6:27
+20 sec. exclusion in centre,12.0,4,1,RSA,2.0,ZELENTSOVA E,7,7 - 1,373,RUS,6:13
+Action shot - Saved,12.0,4,1,RSA,2.0,WHITE K,7,7 - 1,351,RSA,5:51
+Turnover foul,10.0,4,1,RSA,2.0,BELIAEVA O,7,7 - 1,337,RUS,5:37
+Turnover foul,10.0,4,1,RSA,2.0,KEET M,7,7 - 1,322,RSA,5:22
+Steal,4.0,4,1,RSA,2.0,KARIMOVA E,7,7 - 1,322,RUS,5:22
+Counter attack - Goal,10.0,4,1,RSA,2.0,BELIAEVA O,8,8 - 1,310,RUS,5:10
+Centre shot - Saved,7.0,4,1,RSA,2.0,KAY K,8,8 - 1,294,RSA,4:54
+Counter attack - Goal,4.0,4,1,RSA,2.0,KARIMOVA E,9,9 - 1,282,RUS,4:42
+Turnover foul,5.0,4,1,RSA,2.0,SCHOOLING M,9,9 - 1,258,RSA,4:18
+Steal,4.0,4,1,RSA,2.0,KARIMOVA E,9,9 - 1,258,RUS,4:18
+Counter attack - Goal,6.0,4,1,RSA,2.0,BELOVA O,10,10 - 1,249,RUS,4:09
+5m shot - Blocked,9.0,4,1,RSA,2.0,CHRISTIAN D,10,10 - 1,232,RSA,3:52
+Centre shot - Goal,8.0,4,2,RSA,2.0,KEET L,10,10 - 2,228,RSA,3:48
+20 sec. exclusion in centre,9.0,4,2,RSA,2.0,CHRISTIAN D,10,10 - 2,211,RSA,3:31
+Action shot - Saved,9.0,4,2,RSA,2.0,TIMOFEEVA A,10,10 - 2,190,RUS,3:10
+Action shot - Post,5.0,4,2,RSA,2.0,ANTONOVA A,10,10 - 2,178,RUS,2:58
+Turnover foul,7.0,4,2,RSA,2.0,KAY K,10,10 - 2,157,RSA,2:37
+Turnover foul,11.0,4,2,RSA,2.0,IVANOVA E,10,10 - 2,142,RUS,2:22
+Steal,5.0,4,2,RSA,2.0,SCHOOLING M,10,10 - 2,142,RSA,2:22
+Action shot - Goal,8.0,4,2,RSA,2.0,GRINEVA A,11,11 - 2,101,RUS,1:41
+5m shot - Saved,12.0,4,2,RSA,2.0,WHITE K,11,11 - 2,80,RSA,1:20
+Counter attack - Saved,11.0,4,2,RSA,2.0,IVANOVA E,11,11 - 2,66,RUS,1:06
+5m shot - Missed,8.0,4,2,RSA,2.0,KEET L,11,11 - 2,41,RSA,0:41
+Goalkeeper substitution,13.0,4,2,RSA,4.0,KARNAUKH A,11,11 - 2,39,RUS,0:39
+Action shot - Post,4.0,4,2,RSA,4.0,KARIMOVA E,11,11 - 2,22,RUS,0:22
+Counter attack - Goal,3.0,4,2,RSA,2.0,PROKOFYEVA E,12,12 - 2,31,RUS,0:31
+Action shot - Saved,10.0,4,2,RSA,2.0,KEET M,12,12 - 2,3,RSA,0:03
+Starting goalkeeper,1.0,4,2,RSA,3.0,JACOBS A,12,12 - 2,480,RSA,8:00
+Starting goalkeeper,1.0,4,2,RSA,3.0,USTYUKHINA A,12,12 - 2,480,RUS,8:00
+Sprint won possession,2.0,4,2,RSA,3.0,ANTONOVA D,12,12 - 2,480,RUS,8:00
+Action shot - Missed,6.0,4,2,RSA,3.0,BELOVA O,12,12 - 2,459,RUS,7:39
+Turnover foul,7.0,4,2,RSA,3.0,KAY K,12,12 - 2,455,RSA,7:35
+20 sec. exclusion in field,7.0,4,2,RSA,3.0,KAY K,12,12 - 2,452,RSA,7:32
+Time-Out,,4,2,RSA,3.0,,12,12 - 2,452,RUS,7:32
+Extra player shot - Goal,3.0,4,2,RSA,3.0,PROKOFYEVA E,13,13 - 2,441,RUS,7:21
+Turnover foul,2.0,4,2,RSA,3.0,SCHMIDT K,13,13 - 2,426,RSA,7:06
+Steal,6.0,4,2,RSA,3.0,BELOVA O,13,13 - 2,426,RUS,7:06
+Action shot - Post,12.0,4,2,RSA,3.0,ZELENTSOVA E,13,13 - 2,413,RUS,6:53
+Centre shot - Saved,10.0,4,2,RSA,3.0,BELIAEVA O,13,13 - 2,404,RUS,6:44
+20 sec. exclusion in centre,12.0,4,2,RSA,3.0,WHITE K,13,13 - 2,366,RSA,6:06
+Extra player shot - Goal,10.0,4,2,RSA,3.0,BELIAEVA O,14,14 - 2,355,RUS,5:55
+Action shot - Saved,7.0,4,2,RSA,3.0,KAY K,14,14 - 2,338,RSA,5:38
+Centre shot - Saved,12.0,4,2,RSA,3.0,ZELENTSOVA E,14,14 - 2,320,RUS,5:20
+Turnover foul,7.0,4,2,RSA,3.0,KAY K,14,14 - 2,294,RSA,4:54
+20 sec. exclusion in centre,10.0,4,2,RSA,3.0,KEET M,14,14 - 2,275,RSA,4:35
+Extra player shot - Goal,10.0,4,2,RSA,3.0,BELIAEVA O,15,15 - 2,266,RUS,4:26
+Turnover foul,7.0,4,2,RSA,3.0,KAY K,15,15 - 2,240,RSA,4:00
+Steal,3.0,4,2,RSA,3.0,PROKOFYEVA E,15,15 - 2,240,RUS,4:00
+20 sec. exclusion in field,8.0,4,2,RSA,3.0,KEET L,15,15 - 2,233,RSA,3:53
+Extra player shot - Saved,11.0,4,2,RSA,3.0,IVANOVA E,15,15 - 2,227,RUS,3:47
+Action shot - Goal,9.0,4,2,RSA,3.0,TIMOFEEVA A,16,16 - 2,210,RUS,3:30
+Action shot - Saved,8.0,4,2,RSA,3.0,KEET L,16,16 - 2,194,RSA,3:14
+5m shot - Goal,3.0,4,2,RSA,3.0,PROKOFYEVA E,17,17 - 2,172,RUS,2:52
+Turnover foul,3.0,4,2,RSA,3.0,PALEY K,17,17 - 2,152,RSA,2:32
+Steal,8.0,4,2,RSA,3.0,GRINEVA A,17,17 - 2,152,RUS,2:32
+20 sec. exclusion in centre,3.0,4,2,RSA,3.0,PALEY K,17,17 - 2,126,RSA,2:06
+Extra player shot - Goal,7.0,4,2,RSA,3.0,TANKEEVA E,18,18 - 2,114,RUS,1:54
+20 sec. exclusion in centre,8.0,4,2,RSA,3.0,GRINEVA A,18,18 - 2,93,RUS,1:33
+Extra player shot - Goal,10.0,4,3,RSA,3.0,KEET M,18,18 - 3,84,RSA,1:24
+Turnover foul,9.0,4,3,RSA,3.0,TIMOFEEVA A,18,18 - 3,66,RUS,1:06
+20 sec. exclusion in field,8.0,4,3,RSA,3.0,GRINEVA A,18,18 - 3,40,RUS,0:40
+Extra player shot - Blocked,5.0,4,3,RSA,3.0,SCHOOLING M,18,18 - 3,20,RSA,0:20
+Action shot - Blocked,6.0,4,3,RSA,3.0,SCHOOLING T,18,18 - 3,17,RSA,0:17
+5m shot - Missed,2.0,4,3,RSA,3.0,ANTONOVA D,18,18 - 3,1,RUS,0:01
+Starting goalkeeper,1.0,4,3,RSA,4.0,USTYUKHINA A,18,18 - 3,480,RUS,8:00
+Starting goalkeeper,1.0,4,3,RSA,4.0,JACOBS A,18,18 - 3,480,RSA,8:00
+Sprint won possession,6.0,4,3,RSA,4.0,BELOVA O,18,18 - 3,480,RUS,8:00
+Turnover foul,10.0,4,3,RSA,4.0,BELIAEVA O,18,18 - 3,462,RUS,7:42
+5m shot - Blocked,10.0,4,3,RSA,4.0,KEET M,18,18 - 3,437,RSA,7:17
+Centre shot - Post,10.0,4,3,RSA,4.0,BELIAEVA O,18,18 - 3,393,RUS,6:33
+Centre shot - Goal,10.0,4,3,RSA,4.0,BELIAEVA O,19,19 - 3,392,RUS,6:32
+Centre shot - Saved,3.0,4,3,RSA,4.0,PALEY K,19,19 - 3,367,RSA,6:07
+Action shot - Goal,11.0,4,3,RSA,4.0,IVANOVA E,20,20 - 3,346,RUS,5:46
+Turnover foul,3.0,4,3,RSA,4.0,PALEY K,20,20 - 3,324,RSA,5:24
+Steal,5.0,4,3,RSA,4.0,ANTONOVA A,20,20 - 3,324,RUS,5:24
+Action shot - Goal,5.0,4,3,RSA,4.0,ANTONOVA A,21,21 - 3,304,RUS,5:04
+Action shot - Saved,6.0,4,3,RSA,4.0,SCHOOLING T,21,21 - 3,279,RSA,4:39
+Action shot - Saved,5.0,4,3,RSA,4.0,ANTONOVA A,21,21 - 3,250,RUS,4:10
+Action shot - Saved,6.0,4,3,RSA,4.0,SCHOOLING T,21,21 - 3,224,RSA,3:44
+Turnover foul,8.0,4,3,RSA,4.0,KEET L,21,21 - 3,214,RSA,3:34
+Counter attack - Goal,4.0,4,3,RSA,4.0,KARIMOVA E,22,22 - 3,204,RUS,3:24
+5m shot - Missed,12.0,4,3,RSA,4.0,WHITE K,22,22 - 3,182,RSA,3:02
+Penalty foul,8.0,4,3,RSA,4.0,KEET L,22,22 - 3,167,RSA,2:47
+Penalty shot - Post,3.0,4,3,RSA,4.0,PROKOFYEVA E,22,22 - 3,167,RUS,2:47
+Centre shot - Missed,8.0,4,3,RSA,4.0,KEET L,22,22 - 3,143,RSA,2:23
+Action shot - Post,6.0,4,3,RSA,4.0,BELOVA O,22,22 - 3,120,RUS,2:00
+Turnover foul,9.0,4,3,RSA,4.0,TIMOFEEVA A,22,22 - 3,68,RUS,1:08
+Time-Out,,4,3,RSA,4.0,,22,22 - 3,39,RUS,0:39
+Time-Out,,4,3,RSA,4.0,,22,22 - 3,17,RSA,0:17
+20 sec. exclusion in field,3.0,4,3,RSA,4.0,PROKOFYEVA E,22,22 - 3,14,RUS,0:14
+Starting goalkeeper,1.0,5,0,CAN,1.0,RELTON M,0,0 - 0,480,CAN,8:00
+Starting goalkeeper,13.0,5,0,CAN,1.0,KARNAUKH A,0,0 - 0,480,RUS,8:00
+Sprint won possession,3.0,5,0,CAN,1.0,PROKOFYEVA E,0,0 - 0,480,RUS,8:00
+5m shot - Goal,3.0,5,0,CAN,1.0,PROKOFYEVA E,1,1 - 0,457,RUS,7:37
+Turnover foul,10.0,5,0,CAN,1.0,ROBINSON C,1,1 - 0,439,CAN,7:19
+Steal,11.0,5,0,CAN,1.0,IVANOVA E,1,1 - 0,439,RUS,7:19
+Counter attack - Goal,11.0,5,0,CAN,1.0,IVANOVA E,2,2 - 0,430,RUS,7:10
+Action shot - Missed,5.0,5,0,CAN,1.0,EGGENS M,2,2 - 0,408,CAN,6:48
+Turnover foul,6.0,5,0,CAN,1.0,BELOVA O,2,2 - 0,387,RUS,6:27
+Steal,5.0,5,0,CAN,1.0,EGGENS M,2,2 - 0,387,CAN,6:27
+Action shot - Post,7.0,5,0,CAN,1.0,BEKHAZI J,2,2 - 0,359,CAN,5:59
+5m shot - Goal,11.0,5,0,CAN,1.0,IVANOVA E,3,3 - 0,335,RUS,5:35
+Turnover foul,4.0,5,0,CAN,1.0,WRIGHT E,3,3 - 0,319,CAN,5:19
+Steal,3.0,5,0,CAN,1.0,PROKOFYEVA E,3,3 - 0,319,RUS,5:19
+5m shot - Missed,5.0,5,0,CAN,1.0,ANTONOVA A,3,3 - 0,303,RUS,5:03
+20 sec. exclusion in field,3.0,5,0,CAN,1.0,PROKOFYEVA E,3,3 - 0,297,RUS,4:57
+5m shot - Saved,5.0,5,0,CAN,1.0,EGGENS M,3,3 - 0,268,CAN,4:28
+Turnover foul,3.0,5,0,CAN,1.0,MONTON K,3,3 - 0,252,CAN,4:12
+Steal,12.0,5,0,CAN,1.0,ZELENTSOVA E,3,3 - 0,252,RUS,4:12
+Turnover foul,10.0,5,0,CAN,1.0,BELIAEVA O,3,3 - 0,239,RUS,3:59
+Action shot - Post,5.0,5,0,CAN,1.0,EGGENS M,3,3 - 0,221,CAN,3:41
+Action shot - Saved,11.0,5,0,CAN,1.0,IVANOVA E,3,3 - 0,198,RUS,3:18
+Centre shot - Goal,3.0,5,1,CAN,1.0,MONTON K,3,3 - 1,181,CAN,3:01
+Centre shot - Saved,7.0,5,1,CAN,1.0,TANKEEVA E,3,3 - 1,162,RUS,2:42
+Action shot - Post,9.0,5,1,CAN,1.0,EGGENS C,3,3 - 1,134,CAN,2:14
+Action shot - Saved,8.0,5,1,CAN,1.0,PERREAULT D,3,3 - 1,116,CAN,1:56
+Counter attack - Goal,3.0,5,1,CAN,1.0,PROKOFYEVA E,4,4 - 1,100,RUS,1:40
+Action shot - Goal,7.0,5,2,CAN,1.0,BEKHAZI J,4,4 - 2,73,CAN,1:13
+20 sec. exclusion in centre,12.0,5,2,CAN,1.0,RADU M,4,4 - 2,47,CAN,0:47
+Extra player shot - Goal,6.0,5,2,CAN,1.0,BELOVA O,5,5 - 2,27,RUS,0:27
+Turnover foul,2.0,5,2,CAN,1.0,ALOGBO K,5,5 - 2,12,CAN,0:12
+5m shot - Saved,3.0,5,2,CAN,1.0,PROKOFYEVA E,5,5 - 2,4,RUS,0:04
+Starting goalkeeper,13.0,5,2,CAN,2.0,KARNAUKH A,5,5 - 2,480,RUS,8:00
+Starting goalkeeper,1.0,5,2,CAN,2.0,RELTON M,5,5 - 2,480,CAN,8:00
+Sprint won possession,3.0,5,2,CAN,2.0,PROKOFYEVA E,5,5 - 2,480,RUS,8:00
+20 sec. exclusion in centre,10.0,5,2,CAN,2.0,ROBINSON C,5,5 - 2,458,CAN,7:38
+Extra player shot - Goal,5.0,5,2,CAN,2.0,ANTONOVA A,6,6 - 2,443,RUS,7:23
+Action shot - Post,7.0,5,2,CAN,2.0,BEKHAZI J,6,6 - 2,414,CAN,6:54
+5m shot - Missed,3.0,5,2,CAN,2.0,PROKOFYEVA E,6,6 - 2,384,RUS,6:24
+Turnover foul,8.0,5,2,CAN,2.0,PERREAULT D,6,6 - 2,368,CAN,6:08
+Steal,3.0,5,2,CAN,2.0,PROKOFYEVA E,6,6 - 2,368,RUS,6:08
+Turnover foul,10.0,5,2,CAN,2.0,BELIAEVA O,6,6 - 2,350,RUS,5:50
+Turnover foul,9.0,5,2,CAN,2.0,EGGENS C,6,6 - 2,328,CAN,5:28
+Steal,3.0,5,2,CAN,2.0,PROKOFYEVA E,6,6 - 2,328,RUS,5:28
+20 sec. exclusion in field,9.0,5,2,CAN,2.0,EGGENS C,6,6 - 2,325,CAN,5:25
+Extra player shot - Goal,10.0,5,2,CAN,2.0,BELIAEVA O,7,7 - 2,305,RUS,5:05
+Action shot - Blocked,5.0,5,2,CAN,2.0,EGGENS M,7,7 - 2,275,CAN,4:35
+Action shot - Post,5.0,5,2,CAN,2.0,ANTONOVA A,7,7 - 2,249,RUS,4:09
+Turnover foul,11.0,5,2,CAN,2.0,VALIN S,7,7 - 2,235,CAN,3:55
+Steal,6.0,5,2,CAN,2.0,BELOVA O,7,7 - 2,235,RUS,3:55
+Action shot - Blocked,6.0,5,2,CAN,2.0,BELOVA O,7,7 - 2,210,RUS,3:30
+Action shot - Goal,4.0,5,3,CAN,2.0,WRIGHT E,7,7 - 3,184,CAN,3:04
+Centre shot - Goal,7.0,5,3,CAN,2.0,TANKEEVA E,8,8 - 3,163,RUS,2:43
+Action shot - Blocked,7.0,5,3,CAN,2.0,BEKHAZI J,8,8 - 3,139,CAN,2:19
+Centre shot - Saved,12.0,5,3,CAN,2.0,ZELENTSOVA E,8,8 - 3,126,RUS,2:06
+5m shot - Post,10.0,5,3,CAN,2.0,ROBINSON C,8,8 - 3,97,CAN,1:37
+20 sec. exclusion in centre,3.0,5,3,CAN,2.0,MONTON K,8,8 - 3,75,CAN,1:15
+Extra player shot - Saved,10.0,5,3,CAN,2.0,BELIAEVA O,8,8 - 3,60,RUS,1:00
+Turnover foul,10.0,5,3,CAN,2.0,ROBINSON C,8,8 - 3,35,CAN,0:35
+5m shot - Blocked,3.0,5,3,CAN,2.0,PROKOFYEVA E,8,8 - 3,10,RUS,0:10
+Starting goalkeeper,13.0,5,3,CAN,3.0,KARNAUKH A,8,8 - 3,480,RUS,8:00
+Starting goalkeeper,1.0,5,3,CAN,3.0,RELTON M,8,8 - 3,480,CAN,8:00
+Sprint won possession,8.0,5,3,CAN,3.0,PERREAULT D,8,8 - 3,480,CAN,8:00
+20 sec. exclusion in field,4.0,5,3,CAN,3.0,KARIMOVA E,8,8 - 3,465,RUS,7:45
+Extra player shot - Goal,5.0,5,4,CAN,3.0,EGGENS M,8,8 - 4,452,CAN,7:32
+Action shot - Saved,12.0,5,4,CAN,3.0,ZELENTSOVA E,8,8 - 4,428,RUS,7:08
+20 sec. exclusion in field,4.0,5,4,CAN,3.0,WRIGHT E,8,8 - 4,426,CAN,7:06
+Extra player shot - Goal,10.0,5,4,CAN,3.0,BELIAEVA O,9,9 - 4,407,RUS,6:47
+Turnover foul,2.0,5,4,CAN,3.0,ALOGBO K,9,9 - 4,381,CAN,6:21
+Steal,13.0,5,4,CAN,3.0,KARNAUKH A,9,9 - 4,381,RUS,6:21
+Turnover foul,10.0,5,4,CAN,3.0,BELIAEVA O,9,9 - 4,356,RUS,5:56
+Steal,1.0,5,4,CAN,3.0,RELTON M,9,9 - 4,356,CAN,5:56
+Turnover foul,2.0,5,4,CAN,3.0,ALOGBO K,9,9 - 4,340,CAN,5:40
+Counter attack - Goal,6.0,5,4,CAN,3.0,BELOVA O,10,10 - 4,331,RUS,5:31
+Turnover foul,3.0,5,4,CAN,3.0,MONTON K,10,10 - 4,315,CAN,5:15
+Steal,12.0,5,4,CAN,3.0,ZELENTSOVA E,10,10 - 4,315,RUS,5:15
+Action shot - Blocked,4.0,5,4,CAN,3.0,KARIMOVA E,10,10 - 4,288,RUS,4:48
+Penalty foul,12.0,5,4,CAN,3.0,ZELENTSOVA E,10,10 - 4,268,RUS,4:28
+Penalty shot - Goal,7.0,5,5,CAN,3.0,BEKHAZI J,10,10 - 5,268,CAN,4:28
+Time-Out,,5,5,CAN,3.0,,10,10 - 5,253,RUS,4:13
+5m shot - Saved,8.0,5,5,CAN,3.0,GRINEVA A,10,10 - 5,239,RUS,3:59
+5m shot - Goal,11.0,5,5,CAN,3.0,IVANOVA E,11,11 - 5,221,RUS,3:41
+Centre shot - Goal,3.0,5,6,CAN,3.0,MONTON K,11,11 - 6,192,CAN,3:12
+5m shot - Goal,5.0,5,6,CAN,3.0,ANTONOVA A,12,12 - 6,164,RUS,2:44
+20 sec. exclusion in centre,10.0,5,6,CAN,3.0,BELIAEVA O,12,12 - 6,147,RUS,2:27
+Time-Out,,5,6,CAN,3.0,,12,12 - 6,147,CAN,2:27
+Extra player shot - Saved,7.0,5,6,CAN,3.0,BEKHAZI J,12,12 - 6,129,CAN,2:09
+Action shot - Missed,5.0,5,6,CAN,3.0,EGGENS M,12,12 - 6,120,CAN,2:00
+Action shot - Blocked,2.0,5,6,CAN,3.0,ANTONOVA D,12,12 - 6,93,RUS,1:33
+Turnover foul,10.0,5,6,CAN,3.0,ROBINSON C,12,12 - 6,75,CAN,1:15
+Steal,5.0,5,6,CAN,3.0,ANTONOVA A,12,12 - 6,75,RUS,1:15
+20 sec. exclusion in field,4.0,5,6,CAN,3.0,WRIGHT E,12,12 - 6,59,CAN,0:59
+Turnover foul,3.0,5,6,CAN,3.0,PROKOFYEVA E,12,12 - 6,32,RUS,0:32
+Steal,11.0,5,6,CAN,3.0,VALIN S,12,12 - 6,32,CAN,0:32
+Counter attack - Goal,7.0,5,7,CAN,3.0,BEKHAZI J,12,12 - 7,17,CAN,0:17
+Starting goalkeeper,13.0,5,7,CAN,4.0,KARNAUKH A,12,12 - 7,480,RUS,8:00
+Starting goalkeeper,1.0,5,7,CAN,4.0,RELTON M,12,12 - 7,480,CAN,8:00
+Sprint won possession,8.0,5,7,CAN,4.0,PERREAULT D,12,12 - 7,480,CAN,8:00
+Turnover foul,3.0,5,7,CAN,4.0,MONTON K,12,12 - 7,453,CAN,7:33
+Steal,11.0,5,7,CAN,4.0,IVANOVA E,12,12 - 7,453,RUS,7:33
+Action shot - Post,5.0,5,7,CAN,4.0,ANTONOVA A,12,12 - 7,426,RUS,7:06
+Action shot - Goal,3.0,5,7,CAN,4.0,PROKOFYEVA E,13,13 - 7,376,RUS,6:16
+Centre shot - Goal,2.0,5,8,CAN,4.0,ALOGBO K,13,13 - 8,363,CAN,6:03
+Centre shot - Post,6.0,5,8,CAN,4.0,BELOVA O,13,13 - 8,346,RUS,5:46
+Turnover foul,6.0,5,8,CAN,4.0,BARON la SALLE S,13,13 - 8,324,CAN,5:24
+Steal,13.0,5,8,CAN,4.0,KARNAUKH A,13,13 - 8,324,RUS,5:24
+Turnover foul,7.0,5,8,CAN,4.0,TANKEEVA E,13,13 - 8,298,RUS,4:58
+5m shot - Saved,11.0,5,8,CAN,4.0,VALIN S,13,13 - 8,272,CAN,4:32
+20 sec. exclusion in centre,12.0,5,8,CAN,4.0,RADU M,13,13 - 8,249,CAN,4:09
+Extra player shot - Goal,11.0,5,8,CAN,4.0,IVANOVA E,14,14 - 8,233,RUS,3:53
+5m shot - Post,5.0,5,8,CAN,4.0,EGGENS M,14,14 - 8,217,CAN,3:37
+20 sec. exclusion in centre,9.0,5,8,CAN,4.0,EGGENS C,14,14 - 8,191,CAN,3:11
+Extra player shot - Saved,3.0,5,8,CAN,4.0,PROKOFYEVA E,14,14 - 8,182,RUS,3:02
+Extra player shot - Goal,4.0,5,8,CAN,4.0,KARIMOVA E,15,15 - 8,180,RUS,3:00
+Goalkeeper substitution,1.0,5,8,CAN,4.0,USTYUKHINA A,15,15 - 8,180,RUS,3:00
+20 sec. exclusion in centre,12.0,5,8,CAN,4.0,ZELENTSOVA E,15,15 - 8,166,RUS,2:46
+Extra player shot - Blocked,12.0,5,8,CAN,4.0,RADU M,15,15 - 8,149,CAN,2:29
+Action shot - Goal,7.0,5,9,CAN,4.0,BEKHAZI J,15,15 - 9,142,CAN,2:22
+5m shot - Goal,3.0,5,9,CAN,4.0,PROKOFYEVA E,16,16 - 9,117,RUS,1:57
+Centre shot - Saved,6.0,5,9,CAN,4.0,BARON la SALLE S,16,16 - 9,95,CAN,1:35
+Centre shot - Goal,4.0,5,9,CAN,4.0,KARIMOVA E,17,17 - 9,68,RUS,1:08
+5m shot - Blocked,5.0,5,9,CAN,4.0,EGGENS M,17,17 - 9,49,CAN,0:49
+5m shot - Missed,12.0,5,9,CAN,4.0,ZELENTSOVA E,17,17 - 9,26,RUS,0:26
+5m shot - Missed,5.0,5,9,CAN,4.0,EGGENS M,17,17 - 9,2,CAN,0:02
+Starting goalkeeper,13.0,6,0,AUS,1.0,WAKEFIELD K,0,0 - 0,480,AUS,8:00
+Starting goalkeeper,13.0,6,0,AUS,1.0,KARNAUKH A,0,0 - 0,480,RUS,8:00
+Sprint won possession,12.0,6,0,AUS,1.0,ZAGAME N,0,0 - 0,480,AUS,8:00
+Action shot - Missed,7.0,6,0,AUS,1.0,WEBSTER R,0,0 - 0,453,AUS,7:33
+Turnover foul,10.0,6,0,AUS,1.0,BELIAEVA O,0,0 - 0,438,RUS,7:18
+Turnover foul,4.0,6,0,AUS,1.0,LINCOLN-SMITH H,0,0 - 0,423,AUS,7:03
+Steal,11.0,6,0,AUS,1.0,IVANOVA E,0,0 - 0,423,RUS,7:03
+5m shot - Missed,3.0,6,0,AUS,1.0,PROKOFYEVA E,0,0 - 0,393,RUS,6:33
+Turnover foul,12.0,6,0,AUS,1.0,ZAGAME N,0,0 - 0,380,AUS,6:20
+Action shot - Blocked,6.0,6,0,AUS,1.0,BELOVA O,0,0 - 0,364,RUS,6:04
+Turnover foul,6.0,6,0,AUS,1.0,BELOVA O,0,0 - 0,348,RUS,5:48
+Steal,7.0,6,0,AUS,1.0,WEBSTER R,0,0 - 0,348,AUS,5:48
+Action shot - Saved,7.0,6,0,AUS,1.0,WEBSTER R,0,0 - 0,320,AUS,5:20
+5m shot - Goal,11.0,6,0,AUS,1.0,IVANOVA E,1,1 - 0,304,RUS,5:04
+Centre shot - Goal,12.0,6,1,AUS,1.0,ZAGAME N,1,1 - 1,282,AUS,4:42
+5m shot - Post,12.0,6,1,AUS,1.0,ZELENTSOVA E,1,1 - 1,254,RUS,4:14
+Turnover foul,12.0,6,1,AUS,1.0,ZAGAME N,1,1 - 1,226,AUS,3:46
+Action shot - Saved,6.0,6,1,AUS,1.0,BELOVA O,1,1 - 1,206,RUS,3:26
+Action shot - Saved,10.0,6,1,AUS,1.0,SOUTHERN A,1,1 - 1,182,AUS,3:02
+Turnover foul,2.0,6,1,AUS,1.0,APPEL J,1,1 - 1,166,AUS,2:46
+Steal,12.0,6,1,AUS,1.0,ZELENTSOVA E,1,1 - 1,166,RUS,2:46
+5m shot - Saved,5.0,6,1,AUS,1.0,ANTONOVA A,1,1 - 1,137,RUS,2:17
+Centre shot - Saved,2.0,6,1,AUS,1.0,APPEL J,1,1 - 1,108,AUS,1:48
+Turnover foul,10.0,6,1,AUS,1.0,BELIAEVA O,1,1 - 1,85,RUS,1:25
+5m shot - Missed,10.0,6,1,AUS,1.0,SOUTHERN A,1,1 - 1,63,AUS,1:03
+Action shot - Saved,11.0,6,1,AUS,1.0,IVANOVA E,1,1 - 1,36,RUS,0:36
+Turnover foul,2.0,6,1,AUS,1.0,APPEL J,1,1 - 1,9,AUS,0:09
+Steal,5.0,6,1,AUS,1.0,ANTONOVA A,1,1 - 1,9,RUS,0:09
+5m shot - Goal,3.0,6,1,AUS,1.0,PROKOFYEVA E,2,2 - 1,0,RUS,0:00
+Starting goalkeeper,13.0,6,1,AUS,2.0,KARNAUKH A,2,2 - 1,480,RUS,8:00
+Starting goalkeeper,13.0,6,1,AUS,2.0,WAKEFIELD K,2,2 - 1,480,AUS,8:00
+Sprint won possession,3.0,6,1,AUS,2.0,PROKOFYEVA E,2,2 - 1,480,RUS,8:00
+Centre shot - Post,6.0,6,1,AUS,2.0,BELOVA O,2,2 - 1,453,RUS,7:33
+Action shot - Saved,12.0,6,1,AUS,2.0,ZAGAME N,2,2 - 1,424,AUS,7:04
+Turnover foul,7.0,6,1,AUS,2.0,TANKEEVA E,2,2 - 1,396,RUS,6:36
+Counter attack - Goal,9.0,6,2,AUS,2.0,ARANCINI Z,2,2 - 2,386,AUS,6:26
+Action shot - Saved,4.0,6,2,AUS,2.0,KARIMOVA E,2,2 - 2,363,RUS,6:03
+Turnover foul,5.0,6,2,AUS,2.0,BISHOP I,2,2 - 2,356,AUS,5:56
+5m shot - Missed,12.0,6,2,AUS,2.0,ZELENTSOVA E,2,2 - 2,327,RUS,5:27
+20 sec. exclusion in centre,4.0,6,2,AUS,2.0,KARIMOVA E,2,2 - 2,305,RUS,5:05
+Extra player shot - Goal,12.0,6,3,AUS,2.0,ZAGAME N,2,2 - 3,293,AUS,4:53
+20 sec. exclusion in centre,3.0,6,3,AUS,2.0,BUCKLING H,2,2 - 3,273,AUS,4:33
+Action shot - Goal,12.0,6,3,AUS,2.0,ZELENTSOVA E,3,3 - 3,252,RUS,4:12
+Action shot - Blocked,3.0,6,3,AUS,2.0,BUCKLING H,3,3 - 3,233,AUS,3:53
+Action shot - Saved,9.0,6,3,AUS,2.0,ARANCINI Z,3,3 - 3,230,AUS,3:50
+20 sec. exclusion in field,2.0,6,3,AUS,2.0,ANTONOVA D,3,3 - 3,196,RUS,3:16
+Time-Out,,6,3,AUS,2.0,,3,3 - 3,196,AUS,3:16
+Action shot - Saved,7.0,6,3,AUS,2.0,WEBSTER R,3,3 - 3,173,AUS,2:53
+Action shot - Missed,5.0,6,3,AUS,2.0,ANTONOVA A,3,3 - 3,145,RUS,2:25
+Counter attack - Goal,3.0,6,4,AUS,2.0,BUCKLING H,3,3 - 4,134,AUS,2:14
+Turnover foul,11.0,6,4,AUS,2.0,IVANOVA E,3,3 - 4,107,RUS,1:47
+Turnover foul,4.0,6,4,AUS,2.0,LINCOLN-SMITH H,3,3 - 4,93,AUS,1:33
+5m shot - Missed,11.0,6,4,AUS,2.0,IVANOVA E,3,3 - 4,71,RUS,1:11
+Turnover foul,4.0,6,4,AUS,2.0,LINCOLN-SMITH H,3,3 - 4,54,AUS,0:54
+Turnover foul,3.0,6,4,AUS,2.0,PROKOFYEVA E,3,3 - 4,33,RUS,0:33
+Steal,10.0,6,4,AUS,2.0,SOUTHERN A,3,3 - 4,33,AUS,0:33
+Counter attack - Saved,10.0,6,4,AUS,2.0,SOUTHERN A,3,3 - 4,23,AUS,0:23
+20 sec. exclusion in field,10.0,6,4,AUS,2.0,SOUTHERN A,3,3 - 4,16,AUS,0:16
+Time-Out,,6,4,AUS,2.0,,3,3 - 4,16,RUS,0:16
+Extra player shot - Missed,3.0,6,4,AUS,2.0,PROKOFYEVA E,3,3 - 4,1,RUS,0:01
+Starting goalkeeper,13.0,6,4,AUS,3.0,KARNAUKH A,3,3 - 4,480,RUS,8:00
+Starting goalkeeper,13.0,6,4,AUS,3.0,WAKEFIELD K,3,3 - 4,480,AUS,8:00
+Sprint won possession,3.0,6,4,AUS,3.0,PROKOFYEVA E,3,3 - 4,480,RUS,8:00
+Turnover foul,11.0,6,4,AUS,4.0,IVANOVA E,3,3 - 4,5,RUS,0:05
+Action shot - Saved,10.0,6,4,AUS,3.0,BELIAEVA O,3,3 - 4,465,RUS,7:45
+Action shot - Blocked,9.0,6,4,AUS,3.0,ARANCINI Z,3,3 - 4,436,AUS,7:16
+Action shot - Missed,10.0,6,4,AUS,3.0,BELIAEVA O,3,3 - 4,408,RUS,6:48
+Action shot - Post,12.0,6,4,AUS,3.0,ZAGAME N,3,3 - 4,384,AUS,6:24
+Action shot - Blocked,3.0,6,4,AUS,3.0,PROKOFYEVA E,3,3 - 4,361,RUS,6:01
+Turnover foul,12.0,6,4,AUS,3.0,ZAGAME N,3,3 - 4,349,AUS,5:49
+20 sec. exclusion in centre,6.0,6,4,AUS,3.0,KNOX B,3,3 - 4,334,AUS,5:34
+Extra player shot - Blocked,12.0,6,4,AUS,3.0,ZELENTSOVA E,3,3 - 4,314,RUS,5:14
+Action shot - Missed,3.0,6,4,AUS,3.0,PROKOFYEVA E,3,3 - 4,307,RUS,5:07
+Turnover foul,4.0,6,4,AUS,3.0,LINCOLN-SMITH H,3,3 - 4,293,AUS,4:53
+Action shot - Goal,10.0,6,4,AUS,3.0,BELIAEVA O,4,4 - 4,285,RUS,4:45
+20 sec. exclusion in centre,6.0,6,4,AUS,3.0,BELOVA O,4,4 - 4,266,RUS,4:26
+Action shot - Saved,2.0,6,4,AUS,3.0,APPEL J,4,4 - 4,241,AUS,4:01
+Action shot - Post,5.0,6,4,AUS,3.0,ANTONOVA A,4,4 - 4,212,RUS,3:32
+5m shot - Missed,7.0,6,4,AUS,3.0,WEBSTER R,4,4 - 4,195,AUS,3:15
+Turnover foul,10.0,6,4,AUS,3.0,BELIAEVA O,4,4 - 4,179,RUS,2:59
+Centre shot - Goal,7.0,6,5,AUS,3.0,WEBSTER R,4,4 - 5,152,AUS,2:32
+20 sec. exclusion in centre,6.0,6,5,AUS,3.0,KNOX B,4,4 - 5,131,AUS,2:11
+Turnover foul,3.0,6,5,AUS,3.0,PROKOFYEVA E,4,4 - 5,108,RUS,1:48
+Steal,12.0,6,5,AUS,3.0,ZAGAME N,4,4 - 5,108,AUS,1:48
+Turnover foul,12.0,6,5,AUS,3.0,ZAGAME N,4,4 - 5,100,AUS,1:40
+Steal,6.0,6,5,AUS,3.0,BELOVA O,4,4 - 5,100,RUS,1:40
+Turnover foul,7.0,6,5,AUS,3.0,TANKEEVA E,4,4 - 5,84,RUS,1:24
+Turnover foul,4.0,6,5,AUS,3.0,LINCOLN-SMITH H,4,4 - 5,65,AUS,1:05
+Turnover foul,6.0,6,5,AUS,3.0,BELOVA O,4,4 - 5,37,RUS,0:37
+Steal,4.0,6,5,AUS,3.0,LINCOLN-SMITH H,4,4 - 5,37,AUS,0:37
+Action shot - Goal,12.0,6,6,AUS,3.0,ZAGAME N,4,4 - 6,8,AUS,0:08
+5m shot - Saved,3.0,6,6,AUS,3.0,PROKOFYEVA E,4,4 - 6,1,RUS,0:01
+Starting goalkeeper,13.0,6,6,AUS,4.0,KARNAUKH A,4,4 - 6,480,RUS,8:00
+Starting goalkeeper,13.0,6,6,AUS,4.0,WAKEFIELD K,4,4 - 6,480,AUS,8:00
+Sprint won possession,3.0,6,6,AUS,4.0,PROKOFYEVA E,4,4 - 6,480,RUS,8:00
+20 sec. exclusion in centre,4.0,6,6,AUS,4.0,LINCOLN-SMITH H,4,4 - 6,462,AUS,7:42
+Extra player shot - Goal,11.0,6,6,AUS,4.0,IVANOVA E,5,5 - 6,442,RUS,7:22
+Turnover foul,6.0,6,6,AUS,4.0,KNOX B,5,5 - 6,414,AUS,6:54
+Steal,10.0,6,6,AUS,4.0,BELIAEVA O,5,5 - 6,414,RUS,6:54
+5m shot - Saved,6.0,6,6,AUS,4.0,BELOVA O,5,5 - 6,386,RUS,6:26
+Counter attack - Goal,7.0,6,7,AUS,4.0,WEBSTER R,5,5 - 7,374,AUS,6:14
+20 sec. exclusion in centre,4.0,6,7,AUS,4.0,LINCOLN-SMITH H,5,5 - 7,358,AUS,5:58
+Turnover foul,3.0,6,7,AUS,4.0,PROKOFYEVA E,5,5 - 7,338,RUS,5:38
+Steal,8.0,6,7,AUS,4.0,McGHIE G,5,5 - 7,338,AUS,5:38
+Action shot - Goal,4.0,6,8,AUS,4.0,LINCOLN-SMITH H,5,5 - 8,313,AUS,5:13
+5m shot - Blocked,3.0,6,8,AUS,4.0,PROKOFYEVA E,5,5 - 8,284,RUS,4:44
+Turnover foul,6.0,6,8,AUS,4.0,KNOX B,5,5 - 8,265,AUS,4:25
+Steal,11.0,6,8,AUS,4.0,IVANOVA E,5,5 - 8,265,RUS,4:25
+Turnover foul,3.0,6,8,AUS,4.0,PROKOFYEVA E,5,5 - 8,256,RUS,4:16
+Steal,3.0,6,8,AUS,4.0,BUCKLING H,5,5 - 8,256,AUS,4:16
+20 sec. exclusion in field,3.0,6,8,AUS,4.0,BUCKLING H,5,5 - 8,204,AUS,3:24
+Action shot - Goal,6.0,6,8,AUS,4.0,BELOVA O,6,6 - 8,178,RUS,2:58
+Turnover foul,6.0,6,8,AUS,4.0,KNOX B,6,6 - 8,163,AUS,2:43
+Steal,6.0,6,8,AUS,4.0,BELOVA O,6,6 - 8,163,RUS,2:43
+Turnover foul,3.0,6,8,AUS,4.0,PROKOFYEVA E,6,6 - 8,143,RUS,2:23
+Steal,7.0,6,8,AUS,4.0,WEBSTER R,6,6 - 8,143,AUS,2:23
+Centre shot - Goal,10.0,6,9,AUS,4.0,SOUTHERN A,6,6 - 9,118,AUS,1:58
+Turnover foul,11.0,6,9,AUS,4.0,IVANOVA E,6,6 - 9,96,RUS,1:36
+Steal,6.0,6,9,AUS,4.0,KNOX B,6,6 - 9,96,AUS,1:36
+Turnover foul,7.0,6,9,AUS,4.0,WEBSTER R,6,6 - 9,72,AUS,1:12
+Turnover foul,10.0,6,9,AUS,4.0,BELIAEVA O,6,6 - 9,53,RUS,0:53
+Steal,12.0,6,9,AUS,4.0,ZAGAME N,6,6 - 9,53,AUS,0:53
+20 sec. exclusion in field,6.0,6,9,AUS,4.0,BELOVA O,6,6 - 9,44,RUS,0:44
+Time-Out,,6,9,AUS,4.0,,6,6 - 9,44,AUS,0:44
+Action shot - Missed,6.0,6,9,AUS,4.0,KNOX B,6,6 - 9,15,AUS,0:15
+Time-Out,,6,9,AUS,4.0,,6,6 - 9,14,RUS,0:14
+Goalkeeper substitution,1.0,6,9,AUS,4.0,BARTA L,6,6 - 9,14,AUS,0:14
+Steal,5.0,6,9,AUS,4.0,BISHOP I,6,6 - 9,5,AUS,0:05
+Starting goalkeeper,1.0,7,0,HUN,1.0,BOLONYAI F,0,0 - 0,480,HUN,8:00
+Starting goalkeeper,13.0,7,0,HUN,1.0,KARNAUKH A,0,0 - 0,480,RUS,8:00
+Sprint won possession,3.0,7,0,HUN,1.0,PROKOFYEVA E,0,0 - 0,480,RUS,8:00
+Turnover foul,10.0,7,0,HUN,1.0,BELIAEVA O,0,0 - 0,459,RUS,7:39
+Steal,3.0,7,0,HUN,1.0,ANTAL D,0,0 - 0,459,HUN,7:39
+Turnover foul,10.0,7,0,HUN,1.0,BUJKA B,0,0 - 0,441,HUN,7:21
+Steal,5.0,7,0,HUN,1.0,ANTONOVA A,0,0 - 0,441,RUS,7:21
+Centre shot - Goal,10.0,7,0,HUN,1.0,BELIAEVA O,1,1 - 0,417,RUS,6:57
+Centre shot - Missed,10.0,7,0,HUN,1.0,BUJKA B,1,1 - 0,397,HUN,6:37
+Turnover foul,9.0,7,0,HUN,1.0,TIMOFEEVA A,1,1 - 0,378,RUS,6:18
+Steal,4.0,7,0,HUN,1.0,KISTELEKI D,1,1 - 0,378,HUN,6:18
+5m shot - Blocked,10.0,7,0,HUN,1.0,BUJKA B,1,1 - 0,362,HUN,6:02
+20 sec. exclusion in centre,3.0,7,0,HUN,1.0,ANTAL D,1,1 - 0,339,HUN,5:39
+Extra player shot - Goal,5.0,7,0,HUN,1.0,ANTONOVA A,2,2 - 0,322,RUS,5:22
+20 sec. exclusion in centre,9.0,7,0,HUN,1.0,TIMOFEEVA A,2,2 - 0,311,RUS,5:11
+Extra player shot - Blocked,4.0,7,0,HUN,1.0,KISTELEKI D,2,2 - 0,305,HUN,5:05
+Turnover foul,10.0,7,0,HUN,1.0,BELIAEVA O,2,2 - 0,290,RUS,4:50
+Turnover foul,8.0,7,0,HUN,1.0,KESZTHELYI R,2,2 - 0,269,HUN,4:29
+Steal,11.0,7,0,HUN,1.0,IVANOVA E,2,2 - 0,269,RUS,4:29
+Turnover foul,3.0,7,0,HUN,1.0,PROKOFYEVA E,2,2 - 0,251,RUS,4:11
+Steal,7.0,7,0,HUN,1.0,MISKOLCZI I,2,2 - 0,251,HUN,4:11
+20 sec. exclusion in field,5.0,7,0,HUN,1.0,ANTONOVA A,2,2 - 0,245,RUS,4:05
+Extra player shot - Goal,12.0,7,1,HUN,1.0,MENCZINGER K,2,2 - 1,238,HUN,3:58
+5m shot - Post,9.0,7,1,HUN,1.0,TIMOFEEVA A,2,2 - 1,208,RUS,3:28
+Action shot - Saved,11.0,7,1,HUN,1.0,GARDA K,2,2 - 1,182,HUN,3:02
+20 sec. exclusion in centre,11.0,7,1,HUN,1.0,GARDA K,2,2 - 1,157,HUN,2:37
+Extra player shot - Goal,6.0,7,1,HUN,1.0,BELOVA O,3,3 - 1,142,RUS,2:22
+Turnover foul,9.0,7,1,HUN,1.0,TOTH I,3,3 - 1,129,HUN,2:09
+Steal,11.0,7,1,HUN,1.0,IVANOVA E,3,3 - 1,129,RUS,2:09
+5m shot - Blocked,8.0,7,1,HUN,1.0,GRINEVA A,3,3 - 1,106,RUS,1:46
+Centre shot - Goal,9.0,7,2,HUN,1.0,TOTH I,3,3 - 2,92,HUN,1:32
+Turnover foul,7.0,7,2,HUN,1.0,TANKEEVA E,3,3 - 2,73,RUS,1:13
+Action shot - Goal,5.0,7,3,HUN,1.0,SZUCS G,3,3 - 3,51,HUN,0:51
+Centre shot - Saved,9.0,7,3,HUN,1.0,TIMOFEEVA A,3,3 - 3,37,RUS,0:37
+Turnover foul,12.0,7,3,HUN,1.0,MENCZINGER K,3,3 - 3,22,HUN,0:22
+Steal,12.0,7,3,HUN,1.0,ZELENTSOVA E,3,3 - 3,22,RUS,0:22
+Action shot - Post,3.0,7,3,HUN,1.0,PROKOFYEVA E,3,3 - 3,11,RUS,0:11
+5m shot - Saved,12.0,7,3,HUN,1.0,MENCZINGER K,3,3 - 3,1,HUN,0:01
+Starting goalkeeper,1.0,7,3,HUN,2.0,BOLONYAI F,3,3 - 3,480,HUN,8:00
+Starting goalkeeper,13.0,7,3,HUN,2.0,KARNAUKH A,3,3 - 3,480,RUS,8:00
+Sprint won possession,3.0,7,3,HUN,2.0,PROKOFYEVA E,3,3 - 3,480,RUS,8:00
+5m shot - Saved,11.0,7,3,HUN,2.0,IVANOVA E,3,3 - 3,455,RUS,7:35
+Turnover foul,9.0,7,3,HUN,2.0,TIMOFEEVA A,3,3 - 3,437,RUS,7:17
+Steal,3.0,7,3,HUN,2.0,ANTAL D,3,3 - 3,437,HUN,7:17
+Turnover foul,10.0,7,3,HUN,2.0,BUJKA B,3,3 - 3,423,HUN,7:03
+5m shot - Missed,9.0,7,3,HUN,2.0,TIMOFEEVA A,3,3 - 3,408,RUS,6:48
+Turnover foul,2.0,7,3,HUN,2.0,ILLES A,3,3 - 3,382,HUN,6:22
+Steal,10.0,7,3,HUN,2.0,BELIAEVA O,3,3 - 3,382,RUS,6:22
+Action shot - Saved,11.0,7,3,HUN,2.0,IVANOVA E,3,3 - 3,353,RUS,5:53
+20 sec. exclusion in centre,9.0,7,3,HUN,2.0,TIMOFEEVA A,3,3 - 3,337,RUS,5:37
+Extra player shot - Saved,8.0,7,3,HUN,2.0,KESZTHELYI R,3,3 - 3,323,HUN,5:23
+5m shot - Post,3.0,7,3,HUN,2.0,PROKOFYEVA E,3,3 - 3,296,RUS,4:56
+Turnover foul,8.0,7,3,HUN,2.0,KESZTHELYI R,3,3 - 3,281,HUN,4:41
+Steal,10.0,7,3,HUN,2.0,BELIAEVA O,3,3 - 3,281,RUS,4:41
+Counter attack - Saved,12.0,7,3,HUN,2.0,ZELENTSOVA E,3,3 - 3,271,RUS,4:31
+Counter attack - Goal,8.0,7,4,HUN,2.0,KESZTHELYI R,3,3 - 4,261,HUN,4:21
+20 sec. exclusion in centre,11.0,7,4,HUN,2.0,GARDA K,3,3 - 4,237,HUN,3:57
+Extra player shot - Goal,7.0,7,4,HUN,2.0,TANKEEVA E,4,4 - 4,236,RUS,3:56
+Turnover foul,4.0,7,4,HUN,2.0,KISTELEKI D,4,4 - 4,207,HUN,3:27
+20 sec. exclusion in centre,8.0,7,4,HUN,2.0,KESZTHELYI R,4,4 - 4,183,HUN,3:03
+20 sec. exclusion in centre,9.0,7,4,HUN,2.0,TOTH I,4,4 - 4,169,HUN,2:49
+Extra player shot - Saved,11.0,7,4,HUN,2.0,IVANOVA E,4,4 - 4,156,RUS,2:36
+Extra player shot - Missed,7.0,7,4,HUN,2.0,TANKEEVA E,4,4 - 4,155,RUS,2:35
+Steal,12.0,7,4,HUN,4.0,MENCZINGER K,4,4 - 4,197,HUN,3:17
+Turnover foul,2.0,7,4,HUN,4.0,ILLES A,4,4 - 4,170,HUN,2:50
+Steal,3.0,7,4,HUN,4.0,PROKOFYEVA E,4,4 - 4,170,RUS,2:50
+Action shot - Goal,6.0,7,9,HUN,4.0,BELOVA O,8,8 - 9,157,RUS,2:37
+5m shot - Goal,6.0,7,10,HUN,4.0,TAKACS O,8,8 - 10,129,HUN,2:09
+Action shot - Blocked,4.0,7,10,HUN,4.0,KARIMOVA E,8,8 - 10,101,RUS,1:41
+20 sec. exclusion in centre,11.0,7,10,HUN,2.0,IVANOVA E,8,8 - 10,128,RUS,2:08
+Extra player shot - Goal,5.0,7,5,HUN,2.0,SZUCS G,4,4 - 5,108,HUN,1:48
+Turnover foul,10.0,7,5,HUN,2.0,BELIAEVA O,4,4 - 5,94,RUS,1:34
+Steal,9.0,7,5,HUN,2.0,TOTH I,4,4 - 5,94,HUN,1:34
+Action shot - Saved,5.0,7,5,HUN,2.0,SZUCS G,4,4 - 5,68,HUN,1:08
+Action shot - Blocked,4.0,7,5,HUN,2.0,KARIMOVA E,4,4 - 5,41,RUS,0:41
+Turnover foul,4.0,7,5,HUN,2.0,KISTELEKI D,4,4 - 5,17,HUN,0:17
+Centre shot - Goal,10.0,7,5,HUN,2.0,BELIAEVA O,5,5 - 5,9,RUS,0:09
+5m shot - Post,5.0,7,5,HUN,2.0,SZUCS G,5,5 - 5,5,HUN,0:05
+5m shot - Saved,3.0,7,5,HUN,2.0,PROKOFYEVA E,5,5 - 5,1,RUS,0:01
+Starting goalkeeper,1.0,7,5,HUN,3.0,BOLONYAI F,5,5 - 5,480,HUN,8:00
+Starting goalkeeper,13.0,7,5,HUN,3.0,KARNAUKH A,5,5 - 5,480,RUS,8:00
+Sprint won possession,3.0,7,5,HUN,3.0,PROKOFYEVA E,5,5 - 5,480,RUS,8:00
+5m shot - Saved,5.0,7,5,HUN,3.0,ANTONOVA A,5,5 - 5,453,RUS,7:33
+Centre shot - Saved,10.0,7,5,HUN,3.0,BUJKA B,5,5 - 5,427,HUN,7:07
+20 sec. exclusion in field,3.0,7,5,HUN,3.0,ANTAL D,5,5 - 5,416,HUN,6:56
+Time-Out,,7,5,HUN,3.0,,5,5 - 5,415,RUS,6:55
+Extra player shot - Missed,5.0,7,5,HUN,3.0,ANTONOVA A,5,5 - 5,397,RUS,6:37
+Centre shot - Goal,9.0,7,6,HUN,3.0,TOTH I,5,5 - 6,378,HUN,6:18
+5m shot - Saved,5.0,7,6,HUN,3.0,ANTONOVA A,5,5 - 6,350,RUS,5:50
+20 sec. exclusion in field,6.0,7,6,HUN,3.0,BELOVA O,5,5 - 6,336,RUS,5:36
+Extra player shot - Saved,5.0,7,6,HUN,3.0,SZUCS G,5,5 - 6,331,HUN,5:31
+Extra player shot - Post,5.0,7,6,HUN,3.0,SZUCS G,5,5 - 6,319,HUN,5:19
+20 sec. exclusion in centre,6.0,7,6,HUN,3.0,TAKACS O,5,5 - 6,296,HUN,4:56
+Double exclusion,6.0,7,6,HUN,3.0,BELOVA O,5,5 - 6,288,RUS,4:48
+Double exclusion,9.0,7,6,HUN,3.0,TOTH I,5,5 - 6,288,HUN,4:48
+Extra player shot - Saved,5.0,7,6,HUN,3.0,ANTONOVA A,5,5 - 6,277,RUS,4:37
+Extra player shot - Goal,5.0,7,6,HUN,3.0,ANTONOVA A,6,6 - 6,276,RUS,4:36
+Penalty foul,12.0,7,6,HUN,3.0,ZELENTSOVA E,6,6 - 6,265,RUS,4:25
+Penalty shot - Goal,8.0,7,7,HUN,3.0,KESZTHELYI R,6,6 - 7,265,HUN,4:25
+Action shot - Saved,5.0,7,7,HUN,3.0,ANTONOVA A,6,6 - 7,242,RUS,4:02
+20 sec. exclusion in centre,2.0,7,7,HUN,3.0,ILLES A,6,6 - 7,221,HUN,3:41
+Extra player shot - Goal,5.0,7,7,HUN,3.0,ANTONOVA A,7,7 - 7,206,RUS,3:26
+Turnover foul,9.0,7,7,HUN,3.0,TOTH I,7,7 - 7,190,HUN,3:10
+Steal,4.0,7,7,HUN,3.0,KARIMOVA E,7,7 - 7,190,RUS,3:10
+Action shot - Missed,11.0,7,7,HUN,3.0,IVANOVA E,7,7 - 7,165,RUS,2:45
+Centre shot - Goal,9.0,7,8,HUN,3.0,TOTH I,7,7 - 8,139,HUN,2:19
+20 sec. exclusion in field,10.0,7,8,HUN,3.0,BUJKA B,7,7 - 8,127,HUN,2:07
+Turnover foul,9.0,7,8,HUN,3.0,TIMOFEEVA A,7,7 - 8,103,RUS,1:43
+Turnover foul,10.0,7,8,HUN,3.0,BUJKA B,7,7 - 8,81,HUN,1:21
+Turnover foul,7.0,7,8,HUN,3.0,TANKEEVA E,7,7 - 8,60,RUS,1:00
+5m shot - Saved,3.0,7,8,HUN,3.0,PROKOFYEVA E,7,7 - 8,12,RUS,0:12
+5m shot - Missed,8.0,7,8,HUN,3.0,KESZTHELYI R,7,7 - 8,3,HUN,0:03
+5m shot - Saved,13.0,7,8,HUN,3.0,KARNAUKH A,7,7 - 8,1,RUS,0:01
+Starting goalkeeper,13.0,7,8,HUN,4.0,KARNAUKH A,7,7 - 8,480,RUS,8:00
+Starting goalkeeper,1.0,7,8,HUN,4.0,BOLONYAI F,7,7 - 8,480,HUN,8:00
+Sprint won possession,4.0,7,8,HUN,4.0,KISTELEKI D,7,7 - 8,480,HUN,8:00
+Action shot - Saved,2.0,7,8,HUN,4.0,ILLES A,7,7 - 8,455,HUN,7:35
+20 sec. exclusion in centre,9.0,7,8,HUN,4.0,TIMOFEEVA A,7,7 - 8,445,RUS,7:25
+Exclusion with substitution,9.0,7,8,HUN,4.0,TIMOFEEVA A,7,7 - 8,445,RUS,7:25
+Turnover foul,5.0,7,8,HUN,4.0,SZUCS G,7,7 - 8,441,HUN,7:21
+Centre shot - Saved,10.0,7,8,HUN,4.0,BELIAEVA O,7,7 - 8,411,RUS,6:51
+Turnover foul,6.0,7,8,HUN,4.0,TAKACS O,7,7 - 8,393,HUN,6:33
+20 sec. exclusion in field,8.0,7,8,HUN,4.0,KESZTHELYI R,7,7 - 8,382,HUN,6:22
+Action shot - Saved,11.0,7,8,HUN,4.0,IVANOVA E,7,7 - 8,360,RUS,6:00
+5m shot - Blocked,12.0,7,8,HUN,4.0,ZELENTSOVA E,7,7 - 8,340,RUS,5:40
+Turnover foul,12.0,7,8,HUN,4.0,MENCZINGER K,7,7 - 8,311,HUN,5:11
+Action shot - Saved,11.0,7,8,HUN,4.0,IVANOVA E,7,7 - 8,292,RUS,4:52
+Time-Out,,7,8,HUN,4.0,,7,7 - 8,283,HUN,4:43
+20 sec. exclusion in centre,12.0,7,8,HUN,4.0,ZELENTSOVA E,7,7 - 8,265,RUS,4:25
+Extra player shot - Goal,8.0,7,9,HUN,4.0,KESZTHELYI R,7,7 - 9,259,HUN,4:19
+Action shot - Post,4.0,7,9,HUN,4.0,KARIMOVA E,7,7 - 9,236,RUS,3:56
+Turnover foul,10.0,7,9,HUN,4.0,BELIAEVA O,7,7 - 9,197,RUS,3:17
+20 sec. exclusion in field,11.0,7,9,HUN,4.0,IVANOVA E,7,7 - 9,77,RUS,1:17
+Action shot - Blocked,5.0,7,9,HUN,4.0,SZUCS G,7,7 - 9,49,HUN,0:49
+Time-Out,,7,9,HUN,4.0,,7,7 - 9,49,RUS,0:49
+Turnover foul,7.0,7,9,HUN,4.0,TANKEEVA E,7,7 - 9,41,RUS,0:41
+Time-Out,,7,9,HUN,4.0,,7,7 - 9,18,HUN,0:18
+20 sec. exclusion in centre,4.0,7,9,HUN,4.0,KISTELEKI D,7,7 - 9,4,HUN,0:04

@@ -1,0 +1,205 @@
+Period,Time,Action,Score,Team,Player,Cap,Opponent,ROU,Seconds,Game,Opponent name,Result,Goal
+1.0,7:42,Centre shot,1 - 0,ITA,AICARDI M,11.0,1,0,462,1,ITA,Goal,1
+1.0,6:52,Extra player shot,2 - 0,ITA,AICARDI M,11.0,2,0,412,1,ITA,Goal,1
+1.0,6:29,Action shot,2 - 0,ROU,GHIBAN A,11.0,2,0,389,1,ITA,Missed,0
+1.0,4:01,Extra player shot,3 - 0,ITA,FELUGO M,6.0,3,0,241,1,ITA,Goal,1
+1.0,3:08,Action shot,3 - 0,ITA,GALLO V,8.0,3,0,188,1,ITA,Saved,0
+1.0,2:22,5m shot,4 - 0,ITA,PRESCIUTTI C,9.0,4,0,142,1,ITA,Goal,1
+1.0,1:28,5m shot,4 - 0,ITA,PRESCIUTTI C,9.0,4,0,88,1,ITA,Blocked,0
+1.0,1:01,5m shot,4 - 1,ROU,NEGREAN T,3.0,4,1,61,1,ITA,Goal,1
+1.0,0:18,Action shot,4 - 1,ROU,GEORGESCU R,10.0,4,1,18,1,ITA,Post,0
+1.0,0:01,5m shot,4 - 1,ITA,FIGARI N,7.0,4,1,1,1,ITA,Saved,0
+2.0,7:12,5m shot,4 - 1,ROU,GHIBAN A,11.0,4,1,432,1,ITA,Saved,0
+2.0,7:01,Counter attack,5 - 1,ITA,GALLO V,8.0,5,1,421,1,ITA,Goal,1
+2.0,6:08,5m shot,5 - 1,ITA,FIGLIOLI P,4.0,5,1,368,1,ITA,Blocked,0
+2.0,5:28,Action shot,5 - 2,ROU,CHIOVEANU M,8.0,5,2,328,1,ITA,Goal,1
+2.0,5:07,Extra player shot,5 - 2,ITA,FIGLIOLI P,4.0,5,2,307,1,ITA,Blocked,0
+2.0,4:33,Action shot,5 - 2,ROU,GEORGESCU R,10.0,5,2,273,1,ITA,Saved,0
+2.0,4:11,Action shot,5 - 2,ROU,GOANTA D,9.0,5,2,251,1,ITA,Saved,0
+2.0,3:46,Action shot,5 - 2,ITA,FIGLIOLI P,4.0,5,2,226,1,ITA,Saved,0
+2.0,3:01,5m shot,5 - 2,ITA,FIGLIOLI P,4.0,5,2,181,1,ITA,Missed,0
+2.0,2:18,Centre shot,5 - 2,ITA,NAPOLITANO C,12.0,5,2,138,1,ITA,Saved,0
+2.0,1:12,Extra player shot,5 - 2,ITA,AICARDI M,11.0,5,2,72,1,ITA,Saved,0
+2.0,0:34,Extra player shot,5 - 2,ROU,NEGREAN T,3.0,5,2,34,1,ITA,Saved,0
+2.0,0:01,Penalty shot,5 - 2,ITA,GIORGETTI A,5.0,5,2,1,1,ITA,Post,0
+3.0,7:30,5m shot,5 - 2,ITA,FIGLIOLI P,4.0,5,2,450,1,ITA,Blocked,0
+3.0,7:03,5m shot,5 - 2,ITA,PRESCIUTTI C,9.0,5,2,423,1,ITA,Saved,0
+3.0,6:34,Action shot,5 - 2,ROU,DIACONU N,4.0,5,2,394,1,ITA,Blocked,0
+3.0,6:05,Extra player shot,6 - 2,ITA,PEREZ A,2.0,6,2,365,1,ITA,Goal,1
+3.0,5:39,5m shot,6 - 2,ROU,GHIBAN A,11.0,6,2,339,1,ITA,Saved,0
+3.0,4:47,5m shot,6 - 2,ROU,BUSILA A,6.0,6,2,287,1,ITA,Saved,0
+3.0,3:53,Action shot,6 - 2,ITA,NAPOLITANO C,12.0,6,2,233,1,ITA,Blocked,0
+3.0,3:31,5m shot,6 - 3,ROU,MATEI A,7.0,6,3,211,1,ITA,Goal,1
+3.0,2:59,5m shot,6 - 3,ITA,FELUGO M,6.0,6,3,179,1,ITA,Saved,0
+3.0,2:29,Action shot,6 - 3,ITA,PEREZ A,2.0,6,3,149,1,ITA,Saved,0
+3.0,1:50,Action shot,7 - 3,ITA,FIGLIOLI P,4.0,7,3,110,1,ITA,Goal,1
+3.0,1:25,5m shot,7 - 4,ROU,DIACONU N,4.0,7,4,85,1,ITA,Goal,1
+3.0,0:08,5m shot,7 - 4,ITA,FELUGO M,6.0,7,4,8,1,ITA,Saved,0
+4.0,7:32,5m shot,7 - 4,ITA,GALLO V,8.0,7,4,452,1,ITA,Saved,0
+4.0,7:02,5m shot,7 - 4,ITA,GALLO V,8.0,7,4,422,1,ITA,Blocked,0
+4.0,6:58,5m shot,7 - 4,ITA,GALLO V,8.0,7,4,418,1,ITA,Missed,0
+4.0,6:37,5m shot,7 - 4,ROU,DIACONU N,4.0,7,4,397,1,ITA,Saved,0
+4.0,6:20,Centre shot,7 - 4,ITA,FIGLIOLI P,4.0,7,4,380,1,ITA,Missed,0
+4.0,5:56,5m shot,7 - 4,ROU,MATEI A,7.0,7,4,356,1,ITA,Missed,0
+4.0,5:38,5m shot,7 - 4,ITA,FIGLIOLI P,4.0,7,4,338,1,ITA,Missed,0
+4.0,5:13,5m shot,7 - 4,ROU,GHIBAN A,11.0,7,4,313,1,ITA,Missed,0
+4.0,4:47,Centre shot,7 - 4,ITA,PRESCIUTTI C,9.0,7,4,287,1,ITA,Saved,0
+4.0,4:05,Action shot,7 - 4,ROU,CRETU A,12.0,7,4,245,1,ITA,Missed,0
+4.0,3:38,Centre shot,8 - 4,ITA,AICARDI M,11.0,8,4,218,1,ITA,Goal,1
+4.0,2:59,Centre shot,8 - 4,ITA,AICARDI M,11.0,8,4,179,1,ITA,Post,0
+4.0,2:35,Action shot,9 - 4,ITA,PEREZ A,2.0,9,4,155,1,ITA,Goal,1
+4.0,2:03,5m shot,9 - 4,ROU,MATEI A,7.0,9,4,123,1,ITA,Blocked,0
+4.0,1:39,5m shot,9 - 4,ITA,GALLO V,8.0,9,4,99,1,ITA,Missed,0
+4.0,1:11,5m shot,9 - 4,ROU,CHIOVEANU M,8.0,9,4,71,1,ITA,Missed,0
+4.0,0:52,Action shot,10 - 4,ITA,FIGLIOLI P,4.0,10,4,52,1,ITA,Goal,1
+4.0,0:27,5m shot,10 - 4,ROU,MATEI A,7.0,10,4,27,1,ITA,Blocked,0
+4.0,0:02,5m shot,10 - 4,ITA,PRESCIUTTI C,9.0,10,4,2,1,ITA,Missed,0
+4.0,0:01,5m shot,10 - 4,ROU,DIACONU N,4.0,10,4,1,1,ITA,Saved,0
+1.0,6:58,Extra player shot,0 - 0,KAZ,UKUMANOV R,9.0,0,0,418,2,KAZ,Post,0
+1.0,5:55,Action shot,0 - 0,KAZ,UKUMANOV R,9.0,0,0,355,2,KAZ,Blocked,0
+1.0,5:20,Extra player shot,0 - 0,ROU,NEGREAN T,3.0,0,0,320,2,KAZ,Blocked,0
+1.0,3:50,Extra player shot,1 - 0,KAZ,SHMIDER A,6.0,1,0,230,2,KAZ,Goal,1
+1.0,3:04,Extra player shot,1 - 0,ROU,GEORGESCU R,10.0,1,0,184,2,KAZ,Post,0
+1.0,2:21,5m shot,1 - 0,ROU,MATEI A,7.0,1,0,141,2,KAZ,Saved,0
+1.0,1:30,Centre shot,1 - 0,ROU,IANC P,2.0,1,0,90,2,KAZ,Missed,0
+1.0,1:05,5m shot,1 - 0,KAZ,USHAKOV V,7.0,1,0,65,2,KAZ,Blocked,0
+1.0,0:38,5m shot,1 - 0,ROU,GEORGESCU R,10.0,1,0,38,2,KAZ,Blocked,0
+1.0,0:09,Extra player shot,1 - 0,ROU,GOANTA D,9.0,1,0,9,2,KAZ,Saved,0
+2.0,6:47,Extra player shot,1 - 0,ROU,TEOHARI D,5.0,1,0,407,2,KAZ,Post,0
+2.0,5:59,Action shot,2 - 0,KAZ,SHMIDER A,6.0,2,0,359,2,KAZ,Goal,1
+2.0,5:17,5m shot,2 - 0,KAZ,UKUMANOV R,9.0,2,0,317,2,KAZ,Missed,0
+2.0,4:49,5m shot,2 - 0,ROU,CRETU A,12.0,2,0,289,2,KAZ,Blocked,0
+2.0,3:53,5m shot,2 - 1,ROU,CRETU A,12.0,2,1,233,2,KAZ,Goal,1
+2.0,3:13,Extra player shot,2 - 1,KAZ,GUBAREV S,2.0,2,1,193,2,KAZ,Blocked,0
+2.0,3:10,Action shot,3 - 1,KAZ,MEDVEDEV Y,3.0,3,1,190,2,KAZ,Goal,1
+2.0,2:36,Extra player shot,3 - 2,ROU,IANC P,2.0,3,2,156,2,KAZ,Goal,1
+2.0,1:46,Action shot,3 - 2,KAZ,USHAKOV V,7.0,3,2,106,2,KAZ,Blocked,0
+2.0,1:26,Action shot,3 - 2,ROU,NEGREAN T,3.0,3,2,86,2,KAZ,Saved,0
+2.0,0:59,5m shot,3 - 2,ROU,TEOHARI D,5.0,3,2,59,2,KAZ,Blocked,0
+2.0,0:01,5m shot,3 - 2,ROU,NEGREAN T,3.0,3,2,1,2,KAZ,Saved,0
+3.0,6:53,Extra player shot,3 - 3,ROU,NEGREAN T,3.0,3,3,413,2,KAZ,Goal,1
+3.0,6:30,5m shot,4 - 3,KAZ,MEDVEDEV Y,3.0,4,3,390,2,KAZ,Goal,1
+3.0,5:47,Action shot,4 - 3,KAZ,UKUMANOV R,9.0,4,3,347,2,KAZ,Saved,0
+3.0,4:52,Action shot,5 - 3,KAZ,KOLIADENKO A,8.0,5,3,292,2,KAZ,Goal,1
+3.0,4:01,5m shot,5 - 3,KAZ,GUBAREV S,2.0,5,3,241,2,KAZ,Saved,0
+3.0,2:55,5m shot,5 - 3,KAZ,GUBAREV S,2.0,5,3,175,2,KAZ,Saved,0
+3.0,2:10,Centre shot,6 - 3,KAZ,PEKOVICH B,12.0,6,3,130,2,KAZ,Goal,1
+3.0,1:26,5m shot,6 - 3,KAZ,USHAKOV V,7.0,6,3,86,2,KAZ,Saved,0
+3.0,1:02,5m shot,6 - 3,ROU,GHIBAN A,11.0,6,3,62,2,KAZ,Blocked,0
+3.0,0:46,Extra player shot,6 - 3,ROU,NEGREAN T,3.0,6,3,46,2,KAZ,Blocked,0
+3.0,0:06,Action shot,7 - 3,KAZ,SHAKENOV M,5.0,7,3,6,2,KAZ,Goal,1
+3.0,0:01,5m shot,7 - 3,ROU,DIACONU N,4.0,7,3,1,2,KAZ,Blocked,0
+4.0,7:34,5m shot,7 - 3,ROU,GHIBAN A,11.0,7,3,454,2,KAZ,Saved,0
+4.0,6:07,Centre shot,7 - 3,KAZ,PEKOVICH B,12.0,7,3,367,2,KAZ,Saved,0
+4.0,5:13,Action shot,7 - 3,ROU,GHIBAN A,11.0,7,3,313,2,KAZ,Blocked,0
+4.0,4:11,Extra player shot,7 - 3,ROU,MATEI A,7.0,7,3,251,2,KAZ,Saved,0
+4.0,4:02,Action shot,7 - 3,ROU,NEGREAN T,3.0,7,3,242,2,KAZ,Saved,0
+4.0,3:18,5m shot,7 - 3,KAZ,UKUMANOV R,9.0,7,3,198,2,KAZ,Saved,0
+4.0,1:42,5m shot,7 - 3,KAZ,USHAKOV V,7.0,7,3,102,2,KAZ,Missed,0
+4.0,0:32,5m shot,7 - 3,KAZ,SHAKENOV M,5.0,7,3,32,2,KAZ,Saved,0
+4.0,0:10,Action shot,7 - 4,ROU,MATEI A,7.0,7,4,10,2,KAZ,Goal,1
+1.0,7:36,Penalty shot,1 - 0,GER,NOSSEK H,7.0,1,0,456,3,GER,Goal,1
+1.0,7:14,Centre shot,1 - 0,ROU,CHIOVEANU M,8.0,1,0,434,3,GER,Saved,0
+1.0,6:24,Action shot,1 - 0,ROU,BUSILA A,6.0,1,0,384,3,GER,Saved,0
+1.0,5:44,5m shot,1 - 1,ROU,DIACONU N,4.0,1,1,344,3,GER,Goal,1
+1.0,5:22,Centre shot,1 - 1,GER,EIDNER D,12.0,1,1,322,3,GER,Saved,0
+1.0,4:03,Extra player shot,2 - 1,GER,EIDNER D,12.0,2,1,243,3,GER,Goal,1
+1.0,3:44,Penalty shot,2 - 2,ROU,DIACONU N,4.0,2,2,224,3,GER,Goal,1
+1.0,3:24,5m shot,3 - 2,GER,OELER M,10.0,3,2,204,3,GER,Goal,1
+1.0,2:52,Extra player shot,3 - 2,ROU,TEOHARI D,5.0,3,2,172,3,GER,Saved,0
+1.0,2:12,Extra player shot,3 - 2,ROU,CHIOVEANU M,8.0,3,2,132,3,GER,Saved,0
+1.0,2:06,5m shot,3 - 2,ROU,GHIBAN A,11.0,3,2,126,3,GER,Post,0
+1.0,1:47,Penalty shot,4 - 2,GER,NOSSEK H,7.0,4,2,107,3,GER,Goal,1
+1.0,1:08,Action shot,4 - 2,GER,NOSSEK H,7.0,4,2,68,3,GER,Missed,0
+1.0,0:25,Action shot,4 - 2,ROU,DIACONU N,4.0,4,2,25,3,GER,Blocked,0
+1.0,0:02,5m shot,4 - 3,ROU,MATEI A,7.0,4,3,2,3,GER,Goal,1
+1.0,0:01,5m shot,4 - 3,GER,REAL J,4.0,4,3,1,3,GER,Missed,0
+2.0,7:19,Action shot,5 - 3,GER,SCHUELER P,8.0,5,3,439,3,GER,Goal,1
+2.0,6:18,Action shot,5 - 3,ROU,TEOHARI D,5.0,5,3,378,3,GER,Saved,0
+2.0,6:01,Action shot,5 - 3,GER,NOSSEK H,7.0,5,3,361,3,GER,Saved,0
+2.0,5:26,Action shot,5 - 3,GER,NOSSEK H,7.0,5,3,326,3,GER,Saved,0
+2.0,4:34,5m shot,5 - 3,GER,ROHE T,5.0,5,3,274,3,GER,Saved,0
+2.0,4:10,Action shot,5 - 3,ROU,GHIBAN A,11.0,5,3,250,3,GER,Saved,0
+2.0,3:20,Action shot,5 - 3,GER,NOSSEK H,7.0,5,3,200,3,GER,Post,0
+2.0,2:52,Action shot,6 - 3,GER,EIDNER D,12.0,6,3,172,3,GER,Goal,1
+2.0,2:08,Action shot,6 - 3,ROU,MATEI A,7.0,6,3,128,3,GER,Missed,0
+4.0,1:14,Action shot,6 - 3,GER,OELER M,10.0,6,3,74,3,GER,Saved,0
+2.0,1:28,Action shot,6 - 3,ROU,GEORGESCU R,10.0,6,3,88,3,GER,Post,0
+2.0,1:01,5m shot,6 - 3,GER,JUENGLING M,6.0,6,3,61,3,GER,Saved,0
+2.0,0:38,5m shot,7 - 3,GER,SCHUELER P,8.0,7,3,38,3,GER,Goal,1
+2.0,0:03,Extra player shot,7 - 3,ROU,BUSILA A,6.0,7,3,3,3,GER,Blocked,0
+2.0,0:01,5m shot,7 - 3,GER,NOSSEK H,7.0,7,3,1,3,GER,Saved,0
+3.0,7:19,Action shot,7 - 3,ROU,GHIBAN A,11.0,7,3,439,3,GER,Blocked,0
+3.0,6:54,Action shot,7 - 3,GER,BUKOWSKI E,2.0,7,3,414,3,GER,Blocked,0
+3.0,6:36,5m shot,7 - 3,ROU,GEORGESCU R,10.0,7,3,396,3,GER,Missed,0
+3.0,5:47,5m shot,7 - 3,ROU,GEORGESCU R,10.0,7,3,347,3,GER,Saved,0
+3.0,4:54,Centre shot,7 - 3,ROU,IANC P,2.0,7,3,294,3,GER,Saved,0
+3.0,4:52,Centre shot,7 - 4,ROU,IANC P,2.0,7,4,292,3,GER,Goal,1
+3.0,4:26,5m shot,7 - 4,GER,JUENGLING M,6.0,7,4,266,3,GER,Post,0
+3.0,3:46,Action shot,7 - 5,ROU,BUSILA A,6.0,7,5,226,3,GER,Goal,1
+3.0,3:18,Action shot,7 - 5,GER,STAMM M,9.0,7,5,198,3,GER,Saved,0
+3.0,2:48,Action shot,8 - 5,GER,SCHUELER P,8.0,8,5,168,3,GER,Goal,1
+3.0,1:41,Extra player shot,8 - 5,GER,OELER M,10.0,8,5,101,3,GER,Saved,0
+3.0,0:01,5m shot,8 - 5,GER,STAMM M,9.0,8,5,1,3,GER,Saved,0
+4.0,6:55,Centre shot,9 - 5,GER,EIDNER D,12.0,9,5,415,3,GER,Goal,1
+4.0,6:40,5m shot,9 - 5,ROU,MATEI A,7.0,9,5,400,3,GER,Saved,0
+4.0,6:04,Action shot,9 - 5,ROU,DIACONU N,4.0,9,5,364,3,GER,Post,0
+4.0,5:36,Action shot,9 - 5,GER,NOSSEK H,7.0,9,5,336,3,GER,Post,0
+4.0,4:38,5m shot,9 - 5,GER,STAMM M,9.0,9,5,278,3,GER,Saved,0
+4.0,4:08,Centre shot,9 - 6,ROU,IANC P,2.0,9,6,248,3,GER,Goal,1
+4.0,3:46,Centre shot,9 - 6,GER,EIDNER D,12.0,9,6,226,3,GER,Saved,0
+4.0,3:19,Action shot,9 - 7,ROU,BUSILA A,6.0,9,7,199,3,GER,Goal,1
+4.0,2:53,Action shot,9 - 7,GER,STAMM M,9.0,9,7,173,3,GER,Saved,0
+4.0,2:33,Action shot,9 - 8,ROU,GHIBAN A,11.0,9,8,153,3,GER,Goal,1
+4.0,2:04,5m shot,9 - 8,GER,OELER M,10.0,9,8,124,3,GER,Saved,0
+1.0,7:00,Action shot,0 - 1,ROU,BUSILA A,6.0,0,1,420,4,SRB,Goal,1
+1.0,6:37,5m shot,1 - 1,SRB,RADEN N,9.0,1,1,397,4,SRB,Goal,1
+1.0,5:06,Action shot,1 - 1,SRB,GOCIC Z,3.0,1,1,306,4,SRB,Missed,0
+1.0,4:51,5m shot,1 - 1,ROU,DIACONU N,4.0,1,1,291,4,SRB,Saved,0
+1.0,3:55,Action shot,1 - 1,SRB,MITROVIC S,12.0,1,1,235,4,SRB,Saved,0
+1.0,3:44,Action shot,1 - 1,SRB,PIJETLOVIC D,6.0,1,1,224,4,SRB,Saved,0
+1.0,3:04,Action shot,2 - 1,SRB,PIJETLOVIC D,6.0,2,1,184,4,SRB,Goal,1
+1.0,1:25,Action shot,2 - 1,SRB,UDOVICIC V,4.0,2,1,85,4,SRB,Saved,0
+1.0,1:03,Action shot,2 - 1,ROU,DIACONU N,4.0,2,1,63,4,SRB,Saved,0
+1.0,0:27,Action shot,2 - 1,ROU,MATEI A,7.0,2,1,27,4,SRB,Post,0
+1.0,0:01,Extra player shot,2 - 1,SRB,ALEKSIC M,8.0,2,1,1,4,SRB,Saved,0
+2.0,6:27,Extra player shot,3 - 1,SRB,NIKIC S,7.0,3,1,387,4,SRB,Goal,1
+2.0,5:42,Centre shot,4 - 1,SRB,UDOVICIC V,4.0,4,1,342,4,SRB,Goal,1
+2.0,5:19,Centre shot,4 - 1,ROU,CHIOVEANU M,8.0,4,1,319,4,SRB,Saved,0
+2.0,4:55,Action shot,4 - 1,SRB,FILIPOVIC F,10.0,4,1,295,4,SRB,Saved,0
+2.0,4:30,Action shot,4 - 2,ROU,DIACONU N,4.0,4,2,270,4,SRB,Goal,1
+2.0,3:21,Extra player shot,5 - 2,SRB,PIJETLOVIC D,6.0,5,2,201,4,SRB,Goal,1
+2.0,2:50,Counter attack,6 - 2,SRB,UDOVICIC V,4.0,6,2,170,4,SRB,Goal,1
+2.0,2:21,Centre shot,6 - 2,ROU,GOANTA D,9.0,6,2,141,4,SRB,Post,0
+2.0,1:50,5m shot,6 - 2,ROU,DIACONU N,4.0,6,2,110,4,SRB,Saved,0
+2.0,1:14,Extra player shot,6 - 2,ROU,GEORGESCU R,10.0,6,2,74,4,SRB,Blocked,0
+2.0,0:59,Centre shot,7 - 2,SRB,NIKIC S,7.0,7,2,59,4,SRB,Goal,1
+2.0,0:36,5m shot,7 - 2,ROU,DIACONU N,4.0,7,2,36,4,SRB,Blocked,0
+2.0,0:01,5m shot,7 - 2,ROU,BUSILA A,6.0,7,2,1,4,SRB,Saved,0
+4.0,2:41,Action shot,12 - 4,SRB,FILIPOVIC F,10.0,12,4,161,4,SRB,Goal,1
+4.0,1:31,5m shot,12 - 4,ROU,MATEI A,7.0,12,4,91,4,SRB,Missed,0
+4.0,1:18,Extra player shot,13 - 4,SRB,ALEKSIC M,8.0,13,4,78,4,SRB,Goal,1
+4.0,0:53,5m shot,13 - 4,ROU,BUSILA A,6.0,13,4,53,4,SRB,Blocked,0
+3.0,7:09,Action shot,7 - 3,ROU,DIACONU N,4.0,7,3,429,4,SRB,Goal,1
+3.0,6:29,Extra player shot,7 - 3,SRB,PIJETLOVIC D,6.0,7,3,389,4,SRB,Saved,0
+3.0,5:56,Counter attack,8 - 3,SRB,FILIPOVIC F,10.0,8,3,356,4,SRB,Goal,1
+3.0,5:23,Action shot,8 - 3,SRB,MITROVIC S,12.0,8,3,323,4,SRB,Post,0
+3.0,4:59,Action shot,8 - 3,ROU,MATEI A,7.0,8,3,299,4,SRB,Saved,0
+3.0,3:32,Centre shot,8 - 3,ROU,GEORGESCU R,10.0,8,3,212,4,SRB,Blocked,0
+3.0,3:13,Action shot,9 - 3,SRB,CUK M,5.0,9,3,193,4,SRB,Goal,1
+3.0,2:31,Extra player shot,9 - 3,ROU,MATEI A,7.0,9,3,151,4,SRB,Blocked,0
+3.0,2:05,5m shot,9 - 3,SRB,ALEKSIC M,8.0,9,3,125,4,SRB,Saved,0
+3.0,1:26,Counter attack,9 - 3,SRB,MANDIC D,2.0,9,3,86,4,SRB,Saved,0
+3.0,1:02,5m shot,9 - 3,ROU,BUSILA A,6.0,9,3,62,4,SRB,Missed,0
+3.0,0:53,Extra player shot,10 - 3,SRB,MANDIC D,2.0,10,3,53,4,SRB,Goal,1
+3.0,0:25,Extra player shot,10 - 3,ROU,CRETU A,12.0,10,3,25,4,SRB,Saved,0
+4.0,7:21,Extra player shot,11 - 3,SRB,CUK M,5.0,11,3,441,4,SRB,Goal,1
+4.0,7:03,Centre shot,11 - 3,ROU,CHIOVEANU M,8.0,11,3,423,4,SRB,Saved,0
+4.0,6:40,Extra player shot,11 - 4,ROU,MATEI A,7.0,11,4,400,4,SRB,Goal,1
+4.0,6:15,Centre shot,11 - 4,SRB,PIJETLOVIC D,6.0,11,4,375,4,SRB,Saved,0
+4.0,4:49,Centre shot,11 - 4,SRB,PIJETLOVIC D,6.0,11,4,289,4,SRB,Saved,0
+4.0,4:20,5m shot,11 - 4,SRB,RADEN N,9.0,11,4,260,4,SRB,Blocked,0
+4.0,4:03,Action shot,11 - 4,ROU,GEORGESCU R,10.0,11,4,243,4,SRB,Saved,0
+4.0,3:42,Action shot,11 - 4,SRB,GOCIC Z,3.0,11,4,222,4,SRB,Saved,0
+4.0,3:33,Counter attack,11 - 4,ROU,CHIOVEANU M,8.0,11,4,213,4,SRB,Post,0
+4.0,0:35,Action shot,13 - 5,ROU,DIACONU N,4.0,13,5,35,4,SRB,Goal,1

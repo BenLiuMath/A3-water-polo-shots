@@ -1,0 +1,922 @@
+Action,Cap,ESP,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,1.0,0,1,0,NZL,1.0,AGUILAR I,0 - 0,480,ESP,8:00
+Starting goalkeeper,1.0,0,1,0,NZL,1.0,KINGSMILL T,0 - 0,480,NZL,8:00
+Sprint won possession,11.0,0,1,0,NZL,1.0,ESTRANY P,0 - 0,480,ESP,8:00
+Turnover foul,10.0,0,1,0,NZL,1.0,PERRONE F,0 - 0,454,ESP,7:34
+Steal,11.0,0,1,0,NZL,1.0,TIJSEN L,0 - 0,454,NZL,7:34
+5m shot - Saved,5.0,0,1,0,NZL,1.0,ROSS J,0 - 0,431,NZL,7:11
+Centre shot - Missed,7.0,0,1,0,NZL,1.0,SZIRANYI B,0 - 0,410,ESP,6:50
+Action shot - Saved,5.0,0,1,0,NZL,1.0,ROSS J,0 - 0,386,NZL,6:26
+Turnover foul,5.0,0,1,0,NZL,1.0,MOLINA G,0 - 0,358,ESP,5:58
+20 sec. exclusion in field,3.0,0,1,0,NZL,1.0,de LERA R,0 - 0,353,ESP,5:53
+5m shot - Blocked,12.0,0,1,0,NZL,1.0,PYE A,0 - 0,325,NZL,5:25
+Action shot - Post,12.0,0,1,0,NZL,1.0,GARCIA X,0 - 0,309,ESP,5:09
+Penalty foul,9.0,0,1,0,NZL,1.0,LUI-FAKAOTIMANAVA,0 - 0,299,NZL,4:59
+Penalty shot - Goal,5.0,1,1,0,NZL,1.0,MOLINA G,1 - 0,299,ESP,4:59
+5m shot - Blocked,2.0,1,1,0,NZL,1.0,LEWIS M,1 - 0,271,NZL,4:31
+20 sec. exclusion in centre,10.0,1,1,0,NZL,1.0,BRYANT M,1 - 0,247,NZL,4:07
+Extra player shot - Goal,9.0,2,1,0,NZL,1.0,VALLES X,2 - 0,245,ESP,4:05
+5m shot - Saved,12.0,2,1,0,NZL,1.0,PYE A,2 - 0,218,NZL,3:38
+Turnover foul,11.0,2,1,0,NZL,1.0,ESTRANY P,2 - 0,193,ESP,3:13
+Steal,7.0,2,1,0,NZL,1.0,JACKSON D,2 - 0,193,NZL,3:13
+Turnover foul,2.0,2,1,0,NZL,1.0,LEWIS M,2 - 0,185,NZL,3:05
+Action shot - Post,8.0,2,1,0,NZL,1.0,ESPANOL A,2 - 0,173,ESP,2:53
+Turnover foul,12.0,2,1,0,NZL,1.0,PYE A,2 - 0,152,NZL,2:32
+Steal,11.0,2,1,0,NZL,1.0,ESTRANY P,2 - 0,152,ESP,2:32
+Action shot - Goal,4.0,3,1,0,NZL,1.0,ALARCON R,3 - 0,126,ESP,2:06
+Turnover foul,7.0,3,1,0,NZL,1.0,JACKSON D,3 - 0,103,NZL,1:43
+Steal,6.0,3,1,0,NZL,1.0,MINGUELL M,3 - 0,103,ESP,1:43
+20 sec. exclusion in centre,6.0,3,1,0,NZL,1.0,SIEPRATH A,3 - 0,82,NZL,1:22
+Extra player shot - Post,9.0,3,1,0,NZL,1.0,VALLES X,3 - 0,78,ESP,1:18
+Action shot - Missed,6.0,3,1,0,NZL,1.0,MINGUELL M,3 - 0,35,ESP,0:35
+Action shot - Post,5.0,3,1,0,NZL,1.0,ROSS J,3 - 0,13,NZL,0:13
+5m shot - Saved,12.0,3,1,0,NZL,1.0,GARCIA X,3 - 0,1,ESP,0:01
+Starting goalkeeper,1.0,3,1,0,NZL,2.0,KINGSMILL T,3 - 0,480,NZL,8:00
+Starting goalkeeper,1.0,3,1,0,NZL,2.0,AGUILAR I,3 - 0,480,ESP,8:00
+Sprint won possession,8.0,3,1,0,NZL,2.0,ESPANOL A,3 - 0,480,ESP,8:00
+Action shot - Saved,3.0,3,1,0,NZL,2.0,de LERA R,3 - 0,451,ESP,7:31
+Centre shot - Saved,5.0,3,1,0,NZL,2.0,ROSS J,3 - 0,427,NZL,7:07
+20 sec. exclusion in centre,4.0,3,1,0,NZL,2.0,LOWERY F,3 - 0,409,NZL,6:49
+Extra player shot - Blocked,3.0,3,1,0,NZL,2.0,de LERA R,3 - 0,391,ESP,6:31
+Action shot - Saved,5.0,3,1,0,NZL,2.0,ROSS J,3 - 0,363,NZL,6:03
+Centre shot - Goal,8.0,4,1,0,NZL,2.0,ESPANOL A,4 - 0,342,ESP,5:42
+Turnover foul,12.0,4,1,0,NZL,2.0,PYE A,4 - 0,316,NZL,5:16
+Steal,4.0,4,1,0,NZL,2.0,ALARCON R,4 - 0,316,ESP,5:16
+Turnover foul,5.0,4,1,0,NZL,2.0,MOLINA G,4 - 0,295,ESP,4:55
+Steal,9.0,4,1,0,NZL,2.0,LUI-FAKAOTIMANAVA,4 - 0,295,NZL,4:55
+Turnover foul,12.0,4,1,0,NZL,2.0,PYE A,4 - 0,270,NZL,4:30
+Steal,4.0,4,1,0,NZL,2.0,ALARCON R,4 - 0,270,ESP,4:30
+Action shot - Post,8.0,4,1,0,NZL,2.0,ESPANOL A,4 - 0,252,ESP,4:12
+Action shot - Goal,10.0,5,1,0,NZL,2.0,PERRONE F,5 - 0,196,ESP,3:16
+Penalty foul,2.0,5,1,0,NZL,2.0,MUNARRIZ A,5 - 0,176,ESP,2:56
+Penalty shot - Goal,9.0,5,1,1,NZL,2.0,LUI-FAKAOTIMANAVA,5 - 1,176,NZL,2:56
+Action shot - Missed,11.0,5,1,1,NZL,2.0,ESTRANY P,5 - 1,148,ESP,2:28
+20 sec. exclusion in field,3.0,5,1,1,NZL,2.0,de LERA R,5 - 1,138,ESP,2:18
+Time-Out,,5,1,1,NZL,2.0,,5 - 1,138,NZL,2:18
+Action shot - Blocked,2.0,5,1,1,NZL,2.0,LEWIS M,5 - 1,117,NZL,1:57
+20 sec. exclusion in centre,9.0,5,1,1,NZL,2.0,LUI-FAKAOTIMANAVA,5 - 1,97,NZL,1:37
+Extra player shot - Goal,11.0,6,1,1,NZL,2.0,ESTRANY P,6 - 1,81,ESP,1:21
+Turnover foul,11.0,6,1,1,NZL,2.0,TIJSEN L,6 - 1,69,NZL,1:09
+Steal,11.0,6,1,1,NZL,2.0,ESTRANY P,6 - 1,69,ESP,1:09
+Turnover foul,11.0,6,1,1,NZL,2.0,ESTRANY P,6 - 1,55,ESP,0:55
+Steal,1.0,6,1,1,NZL,2.0,KINGSMILL T,6 - 1,55,NZL,0:55
+Centre shot - Saved,5.0,6,1,1,NZL,2.0,ROSS J,6 - 1,39,NZL,0:39
+Turnover foul,9.0,6,1,1,NZL,2.0,VALLES X,6 - 1,29,ESP,0:29
+Action shot - Post,8.0,6,1,1,NZL,4.0,ESPANOL A,6 - 1,136,ESP,2:16
+20 sec. exclusion in centre,9.0,6,1,1,NZL,4.0,LUI-FAKAOTIMANAVA,6 - 1,131,NZL,2:11
+Exclusion with substitution,9.0,6,1,1,NZL,4.0,LUI-FAKAOTIMANAVA,6 - 1,131,NZL,2:11
+Extra player shot - Goal,10.0,18,1,3,NZL,4.0,PERRONE F,18 - 3,125,ESP,2:05
+Time-Out,,18,1,3,NZL,4.0,,18 - 3,125,NZL,2:05
+5m shot - Saved,8.0,18,1,3,NZL,4.0,SMALL M,18 - 3,98,NZL,1:38
+Centre shot - Blocked,7.0,18,1,3,NZL,4.0,SZIRANYI B,18 - 3,74,ESP,1:14
+5m shot - Blocked,4.0,18,1,3,NZL,2.0,LOWERY F,18 - 3,4,NZL,0:04
+5m shot - Missed,11.0,18,1,3,NZL,2.0,ESTRANY P,18 - 3,1,ESP,0:01
+Starting goalkeeper,13.0,18,1,3,NZL,3.0,LOPEZ D,18 - 3,480,ESP,8:00
+Starting goalkeeper,1.0,18,1,3,NZL,3.0,KINGSMILL T,18 - 3,480,NZL,8:00
+Sprint won possession,3.0,18,1,3,NZL,3.0,de LERA R,18 - 3,480,ESP,8:00
+Turnover foul,10.0,18,1,3,NZL,3.0,PERRONE F,18 - 3,461,ESP,7:41
+Steal,1.0,18,1,3,NZL,3.0,KINGSMILL T,18 - 3,461,NZL,7:41
+Turnover foul,12.0,18,1,3,NZL,3.0,PYE A,18 - 3,440,NZL,7:20
+Steal,4.0,18,1,3,NZL,3.0,ALARCON R,18 - 3,440,ESP,7:20
+Counter attack - Goal,10.0,7,1,1,NZL,3.0,PERRONE F,7 - 1,432,ESP,7:12
+5m shot - Saved,7.0,7,1,1,NZL,3.0,JACKSON D,7 - 1,415,NZL,6:55
+Turnover foul,7.0,7,1,1,NZL,3.0,SZIRANYI B,7 - 1,393,ESP,6:33
+Steal,11.0,7,1,1,NZL,3.0,TIJSEN L,7 - 1,393,NZL,6:33
+Turnover foul,12.0,7,1,1,NZL,3.0,PYE A,7 - 1,370,NZL,6:10
+Steal,3.0,7,1,1,NZL,3.0,de LERA R,7 - 1,370,ESP,6:10
+5m shot - Saved,4.0,7,1,1,NZL,3.0,ALARCON R,7 - 1,346,ESP,5:46
+Turnover foul,7.0,7,1,1,NZL,3.0,JACKSON D,7 - 1,316,NZL,5:16
+Steal,10.0,7,1,1,NZL,3.0,PERRONE F,7 - 1,316,ESP,5:16
+5m shot - Goal,10.0,8,1,1,NZL,3.0,PERRONE F,8 - 1,300,ESP,5:00
+20 sec. exclusion in field,7.0,8,1,1,NZL,3.0,SZIRANYI B,8 - 1,286,ESP,4:46
+Extra player shot - Saved,8.0,8,1,1,NZL,3.0,SMALL M,8 - 1,282,NZL,4:42
+Centre shot - Goal,7.0,9,1,1,NZL,3.0,SZIRANYI B,9 - 1,259,ESP,4:19
+Turnover foul,8.0,9,1,1,NZL,3.0,SMALL M,9 - 1,233,NZL,3:53
+Steal,6.0,9,1,1,NZL,3.0,MINGUELL M,9 - 1,233,ESP,3:53
+Counter attack - Goal,6.0,10,1,1,NZL,3.0,MINGUELL M,10 - 1,218,ESP,3:38
+Centre shot - Saved,7.0,10,1,1,NZL,3.0,JACKSON D,10 - 1,203,NZL,3:23
+Action shot - Blocked,3.0,10,1,1,NZL,3.0,de LERA R,10 - 1,181,ESP,3:01
+5m shot - Saved,10.0,10,1,1,NZL,3.0,BRYANT M,10 - 1,161,NZL,2:41
+Centre shot - Goal,9.0,11,1,1,NZL,3.0,VALLES X,11 - 1,143,ESP,2:23
+Action shot - Saved,8.0,11,1,1,NZL,3.0,SMALL M,11 - 1,127,NZL,2:07
+Action shot - Goal,8.0,12,1,1,NZL,3.0,ESPANOL A,12 - 1,107,ESP,1:47
+5m shot - Missed,9.0,12,1,1,NZL,3.0,LUI-FAKAOTIMANAVA,12 - 1,82,NZL,1:22
+Turnover foul,2.0,12,1,1,NZL,3.0,MUNARRIZ A,12 - 1,68,ESP,1:08
+5m shot - Saved,12.0,12,1,1,NZL,3.0,PYE A,12 - 1,35,NZL,0:35
+5m shot - Goal,10.0,13,1,1,NZL,3.0,PERRONE F,13 - 1,15,ESP,0:15
+Centre shot - Goal,9.0,13,1,2,NZL,3.0,LUI-FAKAOTIMANAVA,13 - 2,5,NZL,0:05
+5m shot - Saved,5.0,13,1,2,NZL,3.0,MOLINA G,13 - 2,1,ESP,0:01
+Starting goalkeeper,13.0,13,1,2,NZL,4.0,LOPEZ D,13 - 2,480,ESP,8:00
+Starting goalkeeper,13.0,13,1,2,NZL,4.0,SMITH D,13 - 2,480,NZL,8:00
+Sprint won possession,8.0,13,1,2,NZL,4.0,ESPANOL A,13 - 2,480,ESP,8:00
+5m shot - Goal,4.0,14,1,2,NZL,4.0,ALARCON R,14 - 2,453,ESP,7:33
+5m shot - Missed,8.0,14,1,2,NZL,4.0,SMALL M,14 - 2,437,NZL,7:17
+Action shot - Goal,12.0,15,1,2,NZL,4.0,GARCIA X,15 - 2,418,ESP,6:58
+Turnover foul,9.0,15,1,2,NZL,4.0,LUI-FAKAOTIMANAVA,15 - 2,394,NZL,6:34
+Steal,12.0,15,1,2,NZL,4.0,GARCIA X,15 - 2,394,ESP,6:34
+Turnover foul,12.0,15,1,2,NZL,4.0,GARCIA X,15 - 2,391,ESP,6:31
+Steal,11.0,15,1,2,NZL,4.0,TIJSEN L,15 - 2,391,NZL,6:31
+Centre shot - Goal,2.0,15,1,3,NZL,4.0,LEWIS M,15 - 3,389,NZL,6:29
+Turnover foul,7.0,15,1,3,NZL,4.0,SZIRANYI B,15 - 3,367,ESP,6:07
+Steal,13.0,15,1,3,NZL,4.0,SMITH D,15 - 3,367,NZL,6:07
+Turnover foul,7.0,15,1,3,NZL,4.0,JACKSON D,15 - 3,345,NZL,5:45
+Penalty foul,10.0,15,1,3,NZL,4.0,BRYANT M,15 - 3,330,NZL,5:30
+Penalty shot - Goal,8.0,16,1,3,NZL,4.0,ESPANOL A,16 - 3,330,ESP,5:30
+5m shot - Saved,12.0,16,1,3,NZL,4.0,PYE A,16 - 3,304,NZL,5:04
+Turnover foul,10.0,16,1,3,NZL,4.0,PERRONE F,16 - 3,285,ESP,4:45
+Steal,9.0,16,1,3,NZL,4.0,LUI-FAKAOTIMANAVA,16 - 3,285,NZL,4:45
+Turnover foul,7.0,16,1,3,NZL,4.0,JACKSON D,16 - 3,258,NZL,4:18
+5m shot - Saved,5.0,16,1,3,NZL,4.0,MOLINA G,16 - 3,242,ESP,4:02
+5m shot - Missed,12.0,16,1,3,NZL,4.0,PYE A,16 - 3,217,NZL,3:37
+Action shot - Goal,3.0,17,1,3,NZL,4.0,de LERA R,17 - 3,202,ESP,3:22
+20 sec. exclusion in centre,5.0,17,1,3,NZL,4.0,MOLINA G,17 - 3,179,ESP,2:59
+Extra player shot - Saved,5.0,17,1,3,NZL,4.0,ROSS J,17 - 3,160,NZL,2:40
+Action shot - Saved,5.0,17,1,3,NZL,4.0,MOLINA G,17 - 3,137,ESP,2:17
+Turnover foul,5.0,17,1,3,NZL,4.0,ROSS J,17 - 3,45,NZL,0:45
+Turnover foul,10.0,17,1,3,NZL,4.0,PERRONE F,17 - 3,26,ESP,0:26
+20 sec. exclusion in field,3.0,17,1,3,NZL,4.0,de LERA R,17 - 3,9,ESP,0:09
+Exclusion with substitution,3.0,17,1,3,NZL,4.0,de LERA R,17 - 3,9,ESP,0:09
+Turnover foul,8.0,17,1,3,NZL,4.0,SMALL M,17 - 3,3,NZL,0:03
+Steal,11.0,17,1,3,NZL,4.0,ESTRANY P,17 - 3,3,ESP,0:03
+5m shot - Saved,11.0,17,1,3,NZL,4.0,ESTRANY P,17 - 3,1,ESP,0:01
+Starting goalkeeper,1.0,0,2,0,MNE,1.0,RADIC Z,0 - 0,480,MNE,8:00
+Starting goalkeeper,1.0,0,2,0,MNE,1.0,AGUILAR I,0 - 0,480,ESP,8:00
+Sprint won possession,8.0,0,2,0,MNE,1.0,ESPANOL A,0 - 0,480,ESP,8:00
+Turnover foul,7.0,0,2,0,MNE,1.0,SZIRANYI B,0 - 0,459,ESP,7:39
+Counter attack - Goal,7.0,0,2,1,MNE,1.0,JANOVIC M,1 - 0,453,MNE,7:33
+Centre shot - Goal,9.0,1,2,1,MNE,1.0,VALLES X,1 - 1,429,ESP,7:09
+Action shot - Saved,2.0,1,2,1,MNE,1.0,BRGULJAN D,1 - 1,402,MNE,6:42
+5m shot - Goal,5.0,2,2,1,MNE,1.0,MOLINA G,1 - 2,379,ESP,6:19
+Action shot - Missed,7.0,2,2,1,MNE,1.0,JANOVIC M,1 - 2,349,MNE,5:49
+Turnover foul,10.0,2,2,1,MNE,1.0,PERRONE F,1 - 2,321,ESP,5:21
+Steal,1.0,2,2,1,MNE,1.0,RADIC Z,1 - 2,321,MNE,5:21
+20 sec. exclusion in field,7.0,2,2,1,MNE,1.0,SZIRANYI B,1 - 2,305,ESP,5:05
+Action shot - Goal,2.0,2,2,2,MNE,1.0,BRGULJAN D,2 - 2,283,MNE,4:43
+20 sec. exclusion in field,10.0,2,2,2,MNE,1.0,MISIC S,2 - 2,263,MNE,4:23
+Action shot - Goal,8.0,3,2,2,MNE,1.0,ESPANOL A,2 - 3,242,ESP,4:02
+5m shot - Saved,5.0,3,2,2,MNE,1.0,BRGULJAN D,2 - 3,210,MNE,3:30
+20 sec. exclusion in centre,12.0,3,2,2,MNE,1.0,JOKIC P,2 - 3,188,MNE,3:08
+Extra player shot - Saved,11.0,3,2,2,MNE,1.0,ESTRANY P,2 - 3,183,ESP,3:03
+20 sec. exclusion in centre,5.0,3,2,2,MNE,1.0,MOLINA G,2 - 3,159,ESP,2:39
+Extra player shot - Saved,7.0,3,2,2,MNE,1.0,JANOVIC M,2 - 3,143,MNE,2:23
+5m shot - Post,11.0,3,2,2,MNE,1.0,ESTRANY P,2 - 3,116,ESP,1:56
+5m shot - Post,5.0,3,2,2,MNE,1.0,BRGULJAN D,2 - 3,95,MNE,1:35
+Turnover foul,8.0,3,2,2,MNE,1.0,JANOVIC N,2 - 3,80,MNE,1:20
+5m shot - Post,6.0,3,2,2,MNE,1.0,MINGUELL M,2 - 3,55,ESP,0:55
+Centre shot - Saved,9.0,3,2,2,MNE,1.0,VALLES X,2 - 3,52,ESP,0:52
+5m shot - Saved,5.0,3,2,2,MNE,1.0,BRGULJAN D,2 - 3,29,MNE,0:29
+Turnover foul,10.0,3,2,2,MNE,1.0,PERRONE F,2 - 3,5,ESP,0:05
+Steal,5.0,3,2,2,MNE,1.0,BRGULJAN D,2 - 3,5,MNE,0:05
+5m shot - Missed,1.0,3,2,2,MNE,1.0,RADIC Z,2 - 3,1,MNE,0:01
+Starting goalkeeper,1.0,3,2,2,MNE,2.0,RADIC Z,2 - 3,480,MNE,8:00
+Starting goalkeeper,1.0,3,2,2,MNE,2.0,AGUILAR I,2 - 3,480,ESP,8:00
+Sprint won possession,8.0,3,2,2,MNE,2.0,ESPANOL A,2 - 3,480,ESP,8:00
+5m shot - Saved,12.0,3,2,2,MNE,2.0,GARCIA X,2 - 3,452,ESP,7:32
+Turnover foul,7.0,3,2,2,MNE,2.0,SZIRANYI B,2 - 3,433,ESP,7:13
+Turnover foul,3.0,3,2,2,MNE,2.0,PASKOVIC V,2 - 3,428,MNE,7:08
+Steal,12.0,3,2,2,MNE,2.0,GARCIA X,2 - 3,428,ESP,7:08
+Counter attack - Saved,12.0,3,2,2,MNE,2.0,GARCIA X,2 - 3,413,ESP,6:53
+5m shot - Saved,4.0,3,2,2,MNE,2.0,PETROVIC A,2 - 3,383,MNE,6:23
+Turnover foul,5.0,3,2,2,MNE,2.0,MOLINA G,2 - 3,359,ESP,5:59
+Turnover foul,9.0,3,2,2,MNE,2.0,IVOVIC A,2 - 3,341,MNE,5:41
+Centre shot - Saved,7.0,3,2,2,MNE,2.0,SZIRANYI B,2 - 3,323,ESP,5:23
+5m shot - Missed,6.0,3,2,2,MNE,2.0,MINGUELL M,2 - 3,292,ESP,4:52
+5m shot - Goal,9.0,3,2,3,MNE,2.0,IVOVIC A,3 - 3,275,MNE,4:35
+20 sec. exclusion in centre,9.0,3,2,3,MNE,2.0,IVOVIC A,3 - 3,252,MNE,4:12
+Extra player shot - Goal,8.0,4,2,3,MNE,2.0,ESPANOL A,3 - 4,234,ESP,3:54
+5m shot - Saved,8.0,4,2,3,MNE,2.0,ESPANOL A,3 - 4,177,ESP,2:57
+Turnover foul,9.0,4,2,3,MNE,2.0,VALLES X,3 - 4,155,ESP,2:35
+Turnover foul,8.0,4,2,3,MNE,2.0,JANOVIC N,3 - 4,134,MNE,2:14
+Action shot - Post,5.0,4,2,3,MNE,2.0,MOLINA G,3 - 4,111,ESP,1:51
+Action shot - Goal,7.0,4,2,4,MNE,2.0,JANOVIC M,4 - 4,94,MNE,1:34
+Penalty foul,4.0,4,2,4,MNE,2.0,PETROVIC A,4 - 4,73,MNE,1:13
+Penalty shot - Goal,12.0,5,2,4,MNE,2.0,GARCIA X,4 - 5,73,ESP,1:13
+20 sec. exclusion in field,12.0,5,2,4,MNE,2.0,GARCIA X,4 - 5,60,ESP,1:00
+Time-Out,,5,2,4,MNE,2.0,,4 - 5,59,MNE,0:59
+Turnover foul,11.0,5,2,4,MNE,2.0,KLIKOVAK F,4 - 5,37,MNE,0:37
+Turnover foul,6.0,5,2,4,MNE,2.0,MINGUELL M,4 - 5,9,ESP,0:09
+Steal,7.0,5,2,4,MNE,2.0,JANOVIC M,4 - 5,9,MNE,0:09
+5m shot - Missed,1.0,5,2,4,MNE,2.0,RADIC Z,4 - 5,1,MNE,0:01
+Starting goalkeeper,1.0,5,2,4,MNE,3.0,RADIC Z,4 - 5,480,MNE,8:00
+Starting goalkeeper,1.0,5,2,4,MNE,3.0,AGUILAR I,4 - 5,480,ESP,8:00
+Sprint won possession,2.0,5,2,4,MNE,3.0,BRGULJAN D,4 - 5,480,MNE,8:00
+Penalty foul,6.0,5,2,4,MNE,3.0,MINGUELL M,4 - 5,455,ESP,7:35
+Penalty shot - Goal,7.0,5,2,5,MNE,3.0,JANOVIC M,5 - 5,455,MNE,7:35
+Turnover foul,8.0,5,2,5,MNE,4.0,ESPANOL A,5 - 5,3,ESP,0:03
+5m shot - Saved,12.0,5,2,5,MNE,3.0,GARCIA X,5 - 5,426,ESP,7:06
+5m shot - Saved,2.0,5,2,5,MNE,3.0,BRGULJAN D,5 - 5,400,MNE,6:40
+20 sec. exclusion in field,11.0,5,2,5,MNE,3.0,KLIKOVAK F,5 - 5,396,MNE,6:36
+Action shot - Missed,12.0,5,2,5,MNE,3.0,GARCIA X,5 - 5,377,ESP,6:17
+Centre shot - Saved,9.0,5,2,5,MNE,3.0,IVOVIC A,5 - 5,350,MNE,5:50
+5m shot - Post,8.0,5,2,5,MNE,3.0,ESPANOL A,5 - 5,321,ESP,5:21
+20 sec. exclusion in centre,10.0,5,2,5,MNE,3.0,PERRONE F,5 - 5,304,ESP,5:04
+Action shot - Saved,2.0,5,2,5,MNE,3.0,BRGULJAN D,5 - 5,277,MNE,4:37
+Turnover foul,9.0,5,2,5,MNE,3.0,VALLES X,5 - 5,259,ESP,4:19
+Centre shot - Goal,7.0,5,2,6,MNE,3.0,JANOVIC M,6 - 5,239,MNE,3:59
+20 sec. exclusion in centre,4.0,5,2,6,MNE,3.0,PETROVIC A,6 - 5,215,MNE,3:35
+Action shot - Saved,11.0,5,2,6,MNE,3.0,ESTRANY P,6 - 5,190,ESP,3:10
+20 sec. exclusion in field,5.0,5,2,6,MNE,3.0,BRGULJAN D,6 - 5,162,MNE,2:42
+Time-Out,,5,2,6,MNE,3.0,,6 - 5,162,ESP,2:42
+Extra player shot - Missed,10.0,5,2,6,MNE,3.0,PERRONE F,6 - 5,144,ESP,2:24
+20 sec. exclusion in field,9.0,5,2,6,MNE,3.0,VALLES X,6 - 5,125,ESP,2:05
+Extra player shot - Saved,2.0,5,2,6,MNE,3.0,BRGULJAN D,6 - 5,102,MNE,1:42
+Centre shot - Saved,8.0,5,2,6,MNE,3.0,JANOVIC N,6 - 5,101,MNE,1:41
+Turnover foul,8.0,5,2,6,MNE,3.0,JANOVIC N,6 - 5,81,MNE,1:21
+Turnover foul,7.0,5,2,6,MNE,3.0,SZIRANYI B,6 - 5,63,ESP,1:03
+Turnover foul,8.0,5,2,6,MNE,3.0,JANOVIC N,6 - 5,41,MNE,0:41
+20 sec. exclusion in field,8.0,5,2,6,MNE,3.0,JANOVIC N,6 - 5,40,MNE,0:40
+Extra player shot - Blocked,6.0,5,2,6,MNE,3.0,MINGUELL M,6 - 5,20,ESP,0:20
+Turnover foul,3.0,5,2,6,MNE,3.0,PASKOVIC V,6 - 5,3,MNE,0:03
+Steal,10.0,5,2,6,MNE,3.0,PERRONE F,6 - 5,3,ESP,0:03
+5m shot - Missed,10.0,5,2,6,MNE,3.0,PERRONE F,6 - 5,1,ESP,0:01
+Starting goalkeeper,1.0,5,2,6,MNE,4.0,RADIC Z,6 - 5,480,MNE,8:00
+Starting goalkeeper,1.0,5,2,6,MNE,4.0,AGUILAR I,6 - 5,480,ESP,8:00
+Sprint won possession,2.0,5,2,6,MNE,4.0,BRGULJAN D,6 - 5,480,MNE,8:00
+Turnover foul,11.0,5,2,6,MNE,4.0,KLIKOVAK F,6 - 5,457,MNE,7:37
+20 sec. exclusion in field,3.0,5,2,6,MNE,4.0,PASKOVIC V,6 - 5,455,MNE,7:35
+Turnover foul,5.0,5,2,6,MNE,4.0,MOLINA G,6 - 5,428,ESP,7:08
+Turnover foul,11.0,5,2,6,MNE,4.0,KLIKOVAK F,6 - 5,400,MNE,6:40
+Steal,12.0,5,2,6,MNE,4.0,GARCIA X,6 - 5,400,ESP,6:40
+Centre shot - Missed,5.0,5,2,6,MNE,4.0,MOLINA G,6 - 5,375,ESP,6:15
+Turnover foul,7.0,5,2,6,MNE,4.0,JANOVIC M,6 - 5,358,MNE,5:58
+Steal,12.0,5,2,6,MNE,4.0,GARCIA X,6 - 5,358,ESP,5:58
+Turnover foul,5.0,5,2,6,MNE,4.0,MOLINA G,6 - 5,340,ESP,5:40
+Steal,5.0,5,2,6,MNE,4.0,BRGULJAN D,6 - 5,340,MNE,5:40
+Penalty foul,6.0,5,2,6,MNE,4.0,MINGUELL M,6 - 5,321,ESP,5:21
+Penalty shot - Goal,7.0,5,2,7,MNE,4.0,JANOVIC M,7 - 5,321,MNE,5:21
+20 sec. exclusion in centre,12.0,5,2,7,MNE,4.0,JOKIC P,7 - 5,299,MNE,4:59
+Extra player shot - Saved,10.0,5,2,7,MNE,4.0,PERRONE F,7 - 5,293,ESP,4:53
+Turnover foul,12.0,5,2,7,MNE,4.0,JOKIC P,7 - 5,272,MNE,4:32
+5m shot - Blocked,10.0,5,2,7,MNE,4.0,PERRONE F,7 - 5,253,ESP,4:13
+Turnover foul,5.0,5,2,7,MNE,4.0,BRGULJAN D,7 - 5,228,MNE,3:48
+Steal,9.0,5,2,7,MNE,4.0,VALLES X,7 - 5,228,ESP,3:48
+5m shot - Saved,4.0,5,2,7,MNE,4.0,ALARCON R,7 - 5,207,ESP,3:27
+Turnover foul,12.0,5,2,7,MNE,4.0,JOKIC P,7 - 5,182,MNE,3:02
+Steal,3.0,5,2,7,MNE,4.0,de LERA R,7 - 5,182,ESP,3:02
+20 sec. exclusion in centre,12.0,5,2,7,MNE,4.0,JOKIC P,7 - 5,154,MNE,2:34
+Exclusion with substitution,12.0,5,2,7,MNE,4.0,JOKIC P,7 - 5,154,MNE,2:34
+Extra player shot - Post,3.0,5,2,7,MNE,4.0,de LERA R,7 - 5,134,ESP,2:14
+Turnover foul,10.0,5,2,7,MNE,4.0,MISIC S,7 - 5,103,MNE,1:43
+Steal,8.0,5,2,7,MNE,4.0,ESPANOL A,7 - 5,103,ESP,1:43
+Time-Out,,5,2,7,MNE,4.0,,7 - 5,102,ESP,1:42
+Turnover foul,6.0,5,2,7,MNE,4.0,MINGUELL M,7 - 5,77,ESP,1:17
+Steal,9.0,5,2,7,MNE,4.0,IVOVIC A,7 - 5,77,MNE,1:17
+Turnover foul,8.0,5,2,7,MNE,4.0,JANOVIC N,7 - 5,58,MNE,0:58
+20 sec. exclusion in centre,9.0,5,2,7,MNE,4.0,IVOVIC A,7 - 5,41,MNE,0:41
+Extra player shot - Post,12.0,5,2,7,MNE,4.0,GARCIA X,7 - 5,34,ESP,0:34
+Time-Out,,5,2,7,MNE,4.0,,7 - 5,34,MNE,0:34
+5m shot - Saved,9.0,5,2,7,MNE,4.0,IVOVIC A,7 - 5,13,MNE,0:13
+5m shot - Saved,2.0,5,2,7,MNE,4.0,BRGULJAN D,7 - 5,1,MNE,0:01
+Starting goalkeeper,1.0,0,3,0,GRE,1.0,TSALKANIS K,0 - 0,480,GRE,8:00
+Starting goalkeeper,1.0,0,3,0,GRE,1.0,AGUILAR I,0 - 0,480,ESP,8:00
+Sprint won possession,2.0,0,3,0,GRE,1.0,MYLONAKIS E,0 - 0,480,GRE,8:00
+Action shot - Saved,8.0,0,3,0,GRE,1.0,DELAKAS E,0 - 0,452,GRE,7:32
+Centre shot - Missed,9.0,0,3,0,GRE,1.0,MOURIKIS K,0 - 0,427,GRE,7:07
+Turnover foul,5.0,0,3,0,GRE,1.0,MOLINA G,0 - 0,411,ESP,6:51
+Steal,8.0,0,3,0,GRE,1.0,DELAKAS E,0 - 0,411,GRE,6:51
+Turnover foul,9.0,0,3,0,GRE,1.0,MOURIKIS K,0 - 0,389,GRE,6:29
+20 sec. exclusion in centre,7.0,0,3,0,GRE,1.0,AFROUDAKIS C,0 - 0,372,GRE,6:12
+Extra player shot - Missed,2.0,0,3,0,GRE,1.0,MUNARRIZ A,0 - 0,353,ESP,5:53
+Turnover foul,9.0,0,3,0,GRE,1.0,MOURIKIS K,0 - 0,333,GRE,5:33
+Penalty foul,8.0,0,3,0,GRE,1.0,DELAKAS E,0 - 0,307,GRE,5:07
+Penalty shot - Goal,5.0,1,3,0,GRE,1.0,MOLINA G,1 - 0,307,ESP,5:07
+Action shot - Post,2.0,1,3,0,GRE,1.0,MYLONAKIS E,1 - 0,281,GRE,4:41
+Turnover foul,4.0,1,3,0,GRE,1.0,ALARCON R,1 - 0,254,ESP,4:14
+Steal,2.0,1,3,0,GRE,1.0,MYLONAKIS E,1 - 0,254,GRE,4:14
+Turnover foul,10.0,1,3,0,GRE,1.0,KOLOMVOS C,1 - 0,228,GRE,3:48
+Steal,1.0,1,3,0,GRE,1.0,AGUILAR I,1 - 0,228,ESP,3:48
+5m shot - Blocked,4.0,1,3,0,GRE,1.0,ALARCON R,1 - 0,199,ESP,3:19
+Turnover foul,9.0,1,3,0,GRE,1.0,VALLES X,1 - 0,179,ESP,2:59
+Action shot - Saved,12.0,1,3,0,GRE,1.0,VLACHOPOULOS A,1 - 0,153,GRE,2:33
+Turnover foul,10.0,1,3,0,GRE,1.0,PERRONE F,1 - 0,135,ESP,2:15
+20 sec. exclusion in centre,4.0,1,3,0,GRE,1.0,ALARCON R,1 - 0,112,ESP,1:52
+Extra player shot - Goal,8.0,1,3,1,GRE,1.0,DELAKAS E,1 - 1,94,GRE,1:34
+Turnover foul,6.0,1,3,1,GRE,1.0,MINGUELL M,1 - 1,66,ESP,1:06
+20 sec. exclusion in field,3.0,1,3,1,GRE,1.0,de LERA R,1 - 1,54,ESP,0:54
+Action shot - Saved,7.0,1,3,1,GRE,1.0,AFROUDAKIS C,1 - 1,31,GRE,0:31
+5m shot - Missed,5.0,1,3,1,GRE,1.0,MOLINA G,1 - 1,5,ESP,0:05
+Starting goalkeeper,1.0,1,3,1,GRE,2.0,TSALKANIS K,1 - 1,480,GRE,8:00
+Starting goalkeeper,1.0,1,3,1,GRE,2.0,AGUILAR I,1 - 1,480,ESP,8:00
+20 sec. exclusion in centre,6.0,1,3,1,GRE,2.0,PONTIKEAS K,1 - 1,457,GRE,7:37
+Extra player shot - Saved,3.0,1,3,1,GRE,2.0,de LERA R,1 - 1,438,ESP,7:18
+20 sec. exclusion in centre,2.0,1,3,1,GRE,2.0,MUNARRIZ A,1 - 1,414,ESP,6:54
+Extra player shot - Goal,2.0,1,3,2,GRE,2.0,MYLONAKIS E,1 - 2,395,GRE,6:35
+Turnover foul,9.0,1,3,2,GRE,2.0,VALLES X,1 - 2,370,ESP,6:10
+Steal,7.0,1,3,2,GRE,2.0,AFROUDAKIS C,1 - 2,370,GRE,6:10
+Action shot - Saved,11.0,1,3,2,GRE,2.0,ESTRANY P,1 - 2,313,ESP,5:13
+20 sec. exclusion in centre,6.0,1,3,2,GRE,2.0,MINGUELL M,1 - 2,288,ESP,4:48
+Action shot - Saved,2.0,1,3,2,GRE,2.0,MYLONAKIS E,1 - 2,264,GRE,4:24
+20 sec. exclusion in centre,6.0,1,3,2,GRE,2.0,PONTIKEAS K,1 - 2,239,GRE,3:59
+Action shot - Saved,5.0,1,3,2,GRE,2.0,MOLINA G,1 - 2,213,ESP,3:33
+Turnover foul,8.0,1,3,2,GRE,2.0,DELAKAS E,1 - 2,188,GRE,3:08
+5m shot - Missed,5.0,1,3,2,GRE,2.0,MOLINA G,1 - 2,164,ESP,2:44
+Action shot - Goal,2.0,1,3,3,GRE,2.0,MYLONAKIS E,1 - 3,138,GRE,2:18
+5m shot - Blocked,6.0,1,3,3,GRE,2.0,MINGUELL M,1 - 3,112,ESP,1:52
+5m shot - Missed,8.0,1,3,3,GRE,2.0,DELAKAS E,1 - 3,84,GRE,1:24
+Action shot - Saved,10.0,1,3,3,GRE,2.0,PERRONE F,1 - 3,55,ESP,0:55
+Turnover foul,2.0,1,3,3,GRE,2.0,MYLONAKIS E,1 - 3,27,GRE,0:27
+Steal,3.0,1,3,3,GRE,2.0,de LERA R,1 - 3,27,ESP,0:27
+Sprint won possession,8.0,1,3,3,GRE,2.0,ESPANOL A,1 - 3,20,ESP,0:20
+20 sec. exclusion in centre,7.0,1,3,3,GRE,2.0,AFROUDAKIS C,1 - 3,6,GRE,0:06
+Starting goalkeeper,1.0,1,3,3,GRE,3.0,AGUILAR I,1 - 3,480,ESP,8:00
+Starting goalkeeper,1.0,1,3,3,GRE,3.0,TSALKANIS K,1 - 3,480,GRE,8:00
+Sprint won possession,8.0,1,3,3,GRE,3.0,ESPANOL A,1 - 3,480,ESP,8:00
+Time-Out,,1,3,3,GRE,3.0,,1 - 3,479,ESP,7:59
+Centre shot - Goal,5.0,2,3,3,GRE,3.0,MOLINA G,2 - 3,465,ESP,7:45
+Turnover foul,5.0,2,3,3,GRE,3.0,FOUNTOULIS I,2 - 3,438,GRE,7:18
+Turnover foul,8.0,2,3,3,GRE,3.0,ESPANOL A,2 - 3,414,ESP,6:54
+Steal,8.0,2,3,3,GRE,3.0,DELAKAS E,2 - 3,414,GRE,6:54
+Turnover foul,9.0,2,3,3,GRE,3.0,MOURIKIS K,2 - 3,392,GRE,6:32
+Centre shot - Saved,6.0,2,3,3,GRE,3.0,MINGUELL M,2 - 3,379,ESP,6:19
+Action shot - Missed,5.0,2,3,3,GRE,3.0,FOUNTOULIS I,2 - 3,350,GRE,5:50
+20 sec. exclusion in centre,8.0,2,3,3,GRE,3.0,DELAKAS E,2 - 3,329,GRE,5:29
+Extra player shot - Saved,9.0,2,3,3,GRE,3.0,VALLES X,2 - 3,309,ESP,5:09
+Centre shot - Saved,9.0,2,3,3,GRE,3.0,VALLES X,2 - 3,300,ESP,5:00
+5m shot - Goal,7.0,2,3,4,GRE,3.0,AFROUDAKIS C,2 - 4,283,GRE,4:43
+5m shot - Missed,10.0,2,3,4,GRE,3.0,PERRONE F,2 - 4,259,ESP,4:19
+5m shot - Goal,5.0,2,3,5,GRE,3.0,FOUNTOULIS I,2 - 5,239,GRE,3:59
+Centre shot - Goal,7.0,3,3,5,GRE,3.0,SZIRANYI B,3 - 5,212,ESP,3:32
+Action shot - Goal,5.0,3,3,6,GRE,3.0,FOUNTOULIS I,3 - 6,185,GRE,3:05
+Goalkeeper substitution,13.0,3,3,6,GRE,3.0,LOPEZ D,3 - 6,185,ESP,3:05
+5m shot - Saved,5.0,3,3,6,GRE,3.0,MOLINA G,3 - 6,158,ESP,2:38
+20 sec. exclusion in centre,5.0,3,3,6,GRE,3.0,MOLINA G,3 - 6,133,ESP,2:13
+Turnover foul,5.0,3,3,6,GRE,3.0,FOUNTOULIS I,3 - 6,123,GRE,2:03
+Steal,12.0,3,3,6,GRE,3.0,GARCIA X,3 - 6,123,ESP,2:03
+Action shot - Saved,12.0,3,3,6,GRE,3.0,GARCIA X,3 - 6,102,ESP,1:42
+Action shot - Saved,6.0,3,3,6,GRE,3.0,PONTIKEAS K,3 - 6,74,GRE,1:14
+20 sec. exclusion in field,6.0,3,3,6,GRE,3.0,PONTIKEAS K,3 - 6,44,GRE,0:44
+Exclusion with substitution,6.0,3,3,6,GRE,3.0,PONTIKEAS K,3 - 6,44,GRE,0:44
+Action shot - Saved,11.0,3,3,6,GRE,3.0,ESTRANY P,3 - 6,16,ESP,0:16
+Starting goalkeeper,1.0,3,3,6,GRE,4.0,TSALKANIS K,3 - 6,480,GRE,8:00
+Starting goalkeeper,13.0,3,3,6,GRE,4.0,LOPEZ D,3 - 6,480,ESP,8:00
+Sprint won possession,8.0,3,3,6,GRE,4.0,ESPANOL A,3 - 6,480,ESP,8:00
+20 sec. exclusion in centre,8.0,3,3,6,GRE,4.0,DELAKAS E,3 - 6,460,GRE,7:40
+Exclusion with substitution,8.0,3,3,6,GRE,4.0,DELAKAS E,3 - 6,460,GRE,7:40
+Extra player shot - Goal,6.0,4,3,6,GRE,4.0,MINGUELL M,4 - 6,458,ESP,7:38
+Action shot - Goal,2.0,4,3,7,GRE,4.0,MYLONAKIS E,4 - 7,431,GRE,7:11
+Double exclusion,9.0,4,3,7,GRE,4.0,VALLES X,4 - 7,415,ESP,6:55
+Double exclusion,12.0,4,3,7,GRE,4.0,VLACHOPOULOS A,4 - 7,415,GRE,6:55
+20 sec. exclusion in centre,9.0,4,3,7,GRE,4.0,MOURIKIS K,4 - 7,396,GRE,6:36
+Extra player shot - Goal,5.0,5,3,7,GRE,4.0,MOLINA G,5 - 7,391,ESP,6:31
+Turnover foul,10.0,5,3,7,GRE,4.0,KOLOMVOS C,5 - 7,367,GRE,6:07
+20 sec. exclusion in field,10.0,5,3,7,GRE,4.0,KOLOMVOS C,5 - 7,367,GRE,6:07
+Time-Out,,5,3,7,GRE,4.0,,5 - 7,367,ESP,6:07
+Turnover foul,12.0,5,3,7,GRE,4.0,GARCIA X,5 - 7,340,ESP,5:40
+Steal,12.0,5,3,7,GRE,4.0,VLACHOPOULOS A,5 - 7,340,GRE,5:40
+20 sec. exclusion in centre,10.0,5,3,7,GRE,4.0,PERRONE F,5 - 7,321,ESP,5:21
+Action shot - Saved,11.0,5,3,7,GRE,4.0,GOUNAS A,5 - 7,296,GRE,4:56
+Action shot - Blocked,6.0,5,3,7,GRE,4.0,MINGUELL M,5 - 7,267,ESP,4:27
+Action shot - Post,5.0,5,3,7,GRE,4.0,FOUNTOULIS I,5 - 7,241,GRE,4:01
+20 sec. exclusion in centre,12.0,5,3,7,GRE,4.0,VLACHOPOULOS A,5 - 7,217,GRE,3:37
+Extra player shot - Goal,6.0,6,3,7,GRE,4.0,MINGUELL M,6 - 7,212,ESP,3:32
+20 sec. exclusion in centre,2.0,6,3,7,GRE,4.0,MUNARRIZ A,6 - 7,189,ESP,3:09
+Time-Out,,6,3,7,GRE,4.0,,6 - 7,185,GRE,3:05
+Centre shot - Goal,12.0,6,3,8,GRE,4.0,VLACHOPOULOS A,6 - 8,162,GRE,2:42
+Turnover foul,7.0,6,3,8,GRE,4.0,SZIRANYI B,6 - 8,136,ESP,2:16
+Steal,12.0,6,3,8,GRE,4.0,VLACHOPOULOS A,6 - 8,136,GRE,2:16
+20 sec. exclusion in centre,2.0,6,3,8,GRE,4.0,MYLONAKIS E,6 - 8,85,GRE,1:25
+Extra player shot - Goal,6.0,7,3,8,GRE,4.0,MINGUELL M,7 - 8,84,ESP,1:24
+Time-Out,,7,3,8,GRE,4.0,,7 - 8,83,GRE,1:23
+Action shot - Missed,9.0,7,3,8,GRE,4.0,MOURIKIS K,7 - 8,56,GRE,0:56
+20 sec. exclusion in field,9.0,7,3,8,GRE,4.0,MOURIKIS K,7 - 8,47,GRE,0:47
+Extra player shot - Saved,8.0,7,3,8,GRE,4.0,ESPANOL A,7 - 8,39,ESP,0:39
+Turnover foul,7.0,7,3,8,GRE,4.0,SZIRANYI B,7 - 8,29,ESP,0:29
+Steal,12.0,7,3,8,GRE,4.0,VLACHOPOULOS A,7 - 8,29,GRE,0:29
+Starting goalkeeper,1.0,0,4,0,USA,1.0,AGUILAR I,0 - 0,480,ESP,8:00
+Starting goalkeeper,1.0,0,4,0,USA,1.0,MOSES M,0 - 0,480,USA,8:00
+Sprint won possession,11.0,0,4,0,USA,1.0,ROSENTHAL M,0 - 0,480,USA,8:00
+Turnover foul,3.0,0,4,0,USA,1.0,OBERT A,0 - 0,462,USA,7:42
+Steal,7.0,0,4,0,USA,1.0,SZIRANYI B,0 - 0,462,ESP,7:42
+Penalty foul,3.0,0,4,0,USA,1.0,OBERT A,0 - 0,435,USA,7:15
+Penalty shot - Saved,5.0,0,4,0,USA,1.0,MOLINA G,0 - 0,435,ESP,7:15
+Action shot - Goal,2.0,0,4,1,USA,1.0,WIGO J,1 - 0,409,USA,6:49
+20 sec. exclusion in centre,10.0,0,4,1,USA,1.0,HUTTEN T,1 - 0,383,USA,6:23
+Extra player shot - Goal,10.0,1,4,1,USA,1.0,PERRONE F,1 - 1,379,ESP,6:19
+Turnover foul,4.0,1,4,1,USA,1.0,BOWEN A,1 - 1,351,USA,5:51
+Steal,9.0,1,4,1,USA,1.0,VALLES X,1 - 1,351,ESP,5:51
+5m shot - Post,10.0,1,4,1,USA,1.0,PERRONE F,1 - 1,332,ESP,5:32
+Action shot - Missed,8.0,1,4,1,USA,1.0,ESPANOL A,1 - 1,310,ESP,5:10
+Action shot - Missed,4.0,1,4,1,USA,1.0,BOWEN A,1 - 1,285,USA,4:45
+20 sec. exclusion in centre,6.0,1,4,1,USA,1.0,RAMIREZ C,1 - 1,261,USA,4:21
+Extra player shot - Saved,6.0,1,4,1,USA,1.0,MINGUELL M,1 - 1,249,ESP,4:09
+Extra player shot - Post,10.0,1,4,1,USA,1.0,PERRONE F,1 - 1,245,ESP,4:05
+Centre shot - Saved,6.0,1,4,1,USA,1.0,MINGUELL M,1 - 1,240,ESP,4:00
+Centre shot - Saved,12.0,1,4,1,USA,1.0,GARCIA X,1 - 1,238,ESP,3:58
+Counter attack - Goal,8.0,1,4,2,USA,1.0,AZEVEDO A,2 - 1,219,USA,3:39
+5m shot - Saved,3.0,1,4,2,USA,1.0,de LERA R,2 - 1,195,ESP,3:15
+Action shot - Missed,5.0,1,4,2,USA,1.0,de TRANE M,2 - 1,172,USA,2:52
+20 sec. exclusion in field,5.0,1,4,2,USA,1.0,de TRANE M,2 - 1,172,USA,2:52
+Extra player shot - Goal,10.0,2,4,2,USA,1.0,PERRONE F,2 - 2,157,ESP,2:37
+20 sec. exclusion in field,6.0,2,4,2,USA,1.0,MINGUELL M,2 - 2,133,ESP,2:13
+Extra player shot - Missed,12.0,2,4,2,USA,1.0,MANN J,2 - 2,118,USA,1:58
+Action shot - Goal,5.0,3,4,2,USA,1.0,MOLINA G,2 - 3,105,ESP,1:45
+20 sec. exclusion in centre,5.0,3,4,2,USA,1.0,MOLINA G,2 - 3,81,ESP,1:21
+Extra player shot - Blocked,5.0,3,4,2,USA,1.0,de TRANE M,2 - 3,62,USA,1:02
+Double exclusion,5.0,3,4,2,USA,1.0,de TRANE M,2 - 3,61,USA,1:01
+Double exclusion,9.0,3,4,2,USA,1.0,VALLES X,2 - 3,61,ESP,1:01
+Action shot - Goal,8.0,4,4,2,USA,1.0,ESPANOL A,2 - 4,44,ESP,0:44
+Turnover foul,12.0,4,4,2,USA,1.0,MANN J,2 - 4,19,USA,0:19
+Steal,10.0,4,4,2,USA,1.0,PERRONE F,2 - 4,19,ESP,0:19
+5m shot - Saved,12.0,4,4,2,USA,1.0,GARCIA X,2 - 4,3,ESP,0:03
+Centre shot - Saved,8.0,4,4,2,USA,1.0,ESPANOL A,2 - 4,1,ESP,0:01
+Starting goalkeeper,1.0,4,4,2,USA,2.0,AGUILAR I,2 - 4,480,ESP,8:00
+Starting goalkeeper,1.0,4,4,2,USA,2.0,MOSES M,2 - 4,480,USA,8:00
+Sprint won possession,11.0,4,4,2,USA,2.0,ROSENTHAL M,2 - 4,480,USA,8:00
+20 sec. exclusion in centre,2.0,4,4,2,USA,2.0,MUNARRIZ A,2 - 4,461,ESP,7:41
+Extra player shot - Blocked,10.0,4,4,2,USA,2.0,HUTTEN T,2 - 4,451,USA,7:31
+Extra player shot - Goal,12.0,4,4,3,USA,2.0,MANN J,3 - 4,450,USA,7:30
+Penalty foul,10.0,4,4,3,USA,2.0,HUTTEN T,3 - 4,423,USA,7:03
+Penalty shot - Goal,8.0,5,4,3,USA,2.0,ESPANOL A,3 - 5,423,ESP,7:03
+Turnover foul,11.0,5,4,3,USA,2.0,ROSENTHAL M,3 - 5,403,USA,6:43
+Steal,6.0,5,4,3,USA,2.0,MINGUELL M,3 - 5,403,ESP,6:43
+Action shot - Saved,8.0,5,4,3,USA,2.0,ESPANOL A,3 - 5,378,ESP,6:18
+5m shot - Saved,6.0,5,4,3,USA,2.0,MINGUELL M,3 - 5,353,ESP,5:53
+20 sec. exclusion in centre,3.0,5,4,3,USA,2.0,OBERT A,3 - 5,324,USA,5:24
+Centre shot - Saved,9.0,5,4,3,USA,2.0,VALLES X,3 - 5,301,ESP,5:01
+Turnover foul,8.0,5,4,3,USA,2.0,AZEVEDO A,3 - 5,279,USA,4:39
+Steal,9.0,5,4,3,USA,2.0,VALLES X,3 - 5,279,ESP,4:39
+5m shot - Post,6.0,5,4,3,USA,2.0,MINGUELL M,3 - 5,252,ESP,4:12
+Action shot - Saved,2.0,5,4,3,USA,2.0,WIGO J,3 - 5,228,USA,3:48
+Turnover foul,12.0,5,4,3,USA,2.0,GARCIA X,3 - 5,205,ESP,3:25
+Steal,8.0,5,4,3,USA,2.0,AZEVEDO A,3 - 5,205,USA,3:25
+Action shot - Goal,2.0,5,4,4,USA,2.0,WIGO J,4 - 5,185,USA,3:05
+Centre shot - Missed,5.0,5,4,4,USA,2.0,MOLINA G,4 - 5,161,ESP,2:41
+Action shot - Blocked,3.0,5,4,4,USA,2.0,OBERT A,4 - 5,137,USA,2:17
+Turnover foul,12.0,5,4,4,USA,2.0,MANN J,4 - 5,120,USA,2:00
+Steal,11.0,5,4,4,USA,2.0,ESTRANY P,4 - 5,120,ESP,2:00
+Turnover foul,10.0,5,4,4,USA,2.0,PERRONE F,4 - 5,100,ESP,1:40
+Turnover foul,8.0,5,4,4,USA,4.0,AZEVEDO A,4 - 5,254,USA,4:14
+Action shot - Goal,6.0,9,4,6,USA,4.0,MINGUELL M,6 - 9,252,ESP,4:12
+Time-Out,,9,4,6,USA,4.0,,6 - 9,252,USA,4:12
+20 sec. exclusion in centre,6.0,9,4,6,USA,4.0,MINGUELL M,6 - 9,239,ESP,3:59
+Exclusion with substitution,6.0,9,4,6,USA,4.0,MINGUELL M,6 - 9,239,ESP,3:59
+Extra player shot - Missed,11.0,9,4,6,USA,4.0,ROSENTHAL M,6 - 9,222,USA,3:42
+Action shot - Saved,12.0,9,4,6,USA,4.0,GARCIA X,6 - 9,197,ESP,3:17
+Turnover foul,8.0,9,4,6,USA,4.0,AZEVEDO A,6 - 9,172,USA,2:52
+Centre shot - Saved,12.0,9,4,6,USA,4.0,GARCIA X,6 - 9,157,ESP,2:37
+Turnover foul,5.0,9,4,6,USA,4.0,MOLINA G,6 - 9,152,ESP,2:32
+Turnover foul,4.0,9,4,6,USA,2.0,BOWEN A,6 - 9,80,USA,1:20
+Steal,5.0,9,4,6,USA,2.0,MOLINA G,6 - 9,80,ESP,1:20
+Counter attack - Missed,10.0,9,4,6,USA,2.0,PERRONE F,6 - 9,68,ESP,1:08
+20 sec. exclusion in centre,3.0,9,4,6,USA,2.0,de LERA R,6 - 9,48,ESP,0:48
+Extra player shot - Saved,9.0,9,4,6,USA,2.0,BUCKNER S,6 - 9,29,USA,0:29
+Action shot - Saved,5.0,9,4,6,USA,2.0,MOLINA G,6 - 9,12,ESP,0:12
+Action shot - Saved,12.0,9,4,6,USA,2.0,GARCIA X,6 - 9,1,ESP,0:01
+Starting goalkeeper,1.0,9,4,6,USA,3.0,AGUILAR I,6 - 9,480,ESP,8:00
+Starting goalkeeper,1.0,9,4,6,USA,3.0,MOSES M,6 - 9,480,USA,8:00
+Sprint won possession,8.0,9,4,6,USA,3.0,ESPANOL A,6 - 9,480,ESP,8:00
+Penalty foul,9.0,9,4,6,USA,3.0,BUCKNER S,6 - 9,455,USA,7:35
+Penalty shot - Goal,8.0,6,4,4,USA,3.0,ESPANOL A,4 - 6,455,ESP,7:35
+Action shot - Saved,4.0,6,4,4,USA,3.0,BOWEN A,4 - 6,427,USA,7:07
+Centre shot - Saved,12.0,6,4,4,USA,3.0,MANN J,4 - 6,370,USA,6:10
+5m shot - Goal,5.0,7,4,4,USA,3.0,MOLINA G,4 - 7,346,ESP,5:46
+Time-Out,,7,4,4,USA,3.0,,4 - 7,345,USA,5:45
+Action shot - Missed,3.0,7,4,4,USA,3.0,OBERT A,4 - 7,331,USA,5:31
+20 sec. exclusion in centre,11.0,7,4,4,USA,3.0,ROSENTHAL M,4 - 7,306,USA,5:06
+Extra player shot - Saved,11.0,7,4,4,USA,3.0,ESTRANY P,4 - 7,286,ESP,4:46
+Turnover foul,11.0,7,4,4,USA,3.0,ESTRANY P,4 - 7,281,ESP,4:41
+Steal,3.0,7,4,4,USA,3.0,OBERT A,4 - 7,281,USA,4:41
+Action shot - Post,2.0,7,4,4,USA,3.0,WIGO J,4 - 7,256,USA,4:16
+20 sec. exclusion in field,11.0,7,4,4,USA,3.0,ESTRANY P,4 - 7,254,ESP,4:14
+Extra player shot - Blocked,4.0,7,4,4,USA,3.0,BOWEN A,4 - 7,237,USA,3:57
+Turnover foul,2.0,7,4,4,USA,3.0,WIGO J,4 - 7,235,USA,3:55
+Turnover foul,10.0,7,4,4,USA,3.0,PERRONE F,4 - 7,218,ESP,3:38
+Steal,3.0,7,4,4,USA,3.0,OBERT A,4 - 7,218,USA,3:38
+Action shot - Saved,2.0,7,4,4,USA,3.0,WIGO J,4 - 7,197,USA,3:17
+5m shot - Saved,9.0,7,4,4,USA,3.0,VALLES X,4 - 7,169,ESP,2:49
+Turnover foul,8.0,7,4,4,USA,3.0,AZEVEDO A,4 - 7,144,USA,2:24
+Steal,10.0,7,4,4,USA,3.0,PERRONE F,4 - 7,144,ESP,2:24
+Action shot - Saved,10.0,7,4,4,USA,3.0,PERRONE F,4 - 7,127,ESP,2:07
+20 sec. exclusion in centre,10.0,7,4,4,USA,3.0,HUTTEN T,4 - 7,100,USA,1:40
+Exclusion with substitution,10.0,7,4,4,USA,3.0,HUTTEN T,4 - 7,100,USA,1:40
+Extra player shot - Saved,8.0,7,4,4,USA,3.0,ESPANOL A,4 - 7,87,ESP,1:27
+20 sec. exclusion in centre,12.0,7,4,4,USA,3.0,GARCIA X,4 - 7,67,ESP,1:07
+Extra player shot - Goal,2.0,7,4,5,USA,3.0,WIGO J,5 - 7,49,USA,0:49
+Turnover foul,3.0,7,4,5,USA,3.0,de LERA R,5 - 7,33,ESP,0:33
+Turnover foul,2.0,7,4,5,USA,3.0,WIGO J,5 - 7,12,USA,0:12
+Steal,10.0,7,4,5,USA,3.0,PERRONE F,5 - 7,12,ESP,0:12
+5m shot - Saved,3.0,7,4,5,USA,3.0,de LERA R,5 - 7,5,ESP,0:05
+5m shot - Post,9.0,7,4,5,USA,3.0,BUCKNER S,5 - 7,1,USA,0:01
+Starting goalkeeper,1.0,7,4,5,USA,4.0,AGUILAR I,5 - 7,480,ESP,8:00
+Starting goalkeeper,1.0,7,4,5,USA,4.0,MOSES M,5 - 7,480,USA,8:00
+Sprint won possession,12.0,7,4,5,USA,4.0,GARCIA X,5 - 7,480,ESP,8:00
+20 sec. exclusion in centre,2.0,7,4,5,USA,4.0,WIGO J,5 - 7,457,USA,7:37
+Time-Out,,7,4,5,USA,4.0,,5 - 7,452,ESP,7:32
+Action shot - Saved,8.0,7,4,5,USA,4.0,ESPANOL A,5 - 7,433,ESP,7:13
+Turnover foul,10.0,7,4,5,USA,4.0,PERRONE F,5 - 7,413,ESP,6:53
+Steal,1.0,7,4,5,USA,4.0,MOSES M,5 - 7,413,USA,6:53
+Penalty foul,6.0,7,4,5,USA,4.0,MINGUELL M,5 - 7,398,ESP,6:38
+Penalty shot - Goal,8.0,7,4,6,USA,4.0,AZEVEDO A,6 - 7,398,USA,6:38
+Turnover foul,9.0,7,4,6,USA,4.0,VALLES X,6 - 7,378,ESP,6:18
+20 sec. exclusion in centre,12.0,7,4,6,USA,4.0,GARCIA X,6 - 7,357,ESP,5:57
+20 sec. exclusion in field,9.0,7,4,6,USA,4.0,VALLES X,6 - 7,339,ESP,5:39
+Turnover foul,4.0,7,4,6,USA,4.0,BOWEN A,6 - 7,320,USA,5:20
+Steal,8.0,7,4,6,USA,4.0,ESPANOL A,6 - 7,320,ESP,5:20
+20 sec. exclusion in field,4.0,7,4,6,USA,4.0,BOWEN A,6 - 7,319,USA,5:19
+Action shot - Goal,5.0,8,4,6,USA,4.0,MOLINA G,6 - 8,296,ESP,4:56
+Turnover foul,12.0,8,4,6,USA,4.0,MANN J,6 - 8,269,USA,4:29
+Steal,8.0,8,4,6,USA,4.0,ESPANOL A,6 - 8,269,ESP,4:29
+Turnover foul,10.0,8,4,6,USA,4.0,PERRONE F,6 - 8,255,ESP,4:15
+Steal,8.0,8,4,6,USA,4.0,AZEVEDO A,6 - 8,255,USA,4:15
+Action shot - Saved,2.0,8,4,6,USA,4.0,WIGO J,6 - 8,126,USA,2:06
+Action shot - Saved,5.0,8,4,6,USA,4.0,de TRANE M,6 - 8,116,USA,1:56
+Turnover foul,4.0,8,4,6,USA,4.0,BOWEN A,6 - 8,107,USA,1:47
+Steal,12.0,8,4,6,USA,4.0,GARCIA X,6 - 8,107,ESP,1:47
+Action shot - Goal,8.0,10,4,6,USA,4.0,ESPANOL A,6 - 10,83,ESP,1:23
+20 sec. exclusion in field,3.0,10,4,6,USA,4.0,de LERA R,6 - 10,71,ESP,1:11
+Extra player shot - Post,2.0,10,4,6,USA,4.0,WIGO J,6 - 10,56,USA,0:56
+Extra player shot - Post,11.0,10,4,6,USA,4.0,ROSENTHAL M,6 - 10,51,USA,0:51
+20 sec. exclusion in centre,4.0,10,4,6,USA,4.0,ALARCON R,6 - 10,22,ESP,0:22
+Extra player shot - Saved,8.0,10,4,6,USA,4.0,AZEVEDO A,6 - 10,6,USA,0:06
+Starting goalkeeper,1.0,0,5,0,ITA,1.0,AGUILAR I,0 - 0,480,ESP,8:00
+Starting goalkeeper,1.0,0,5,0,ITA,1.0,TEMPESTI S,0 - 0,480,ITA,8:00
+Sprint won possession,10.0,0,5,0,ITA,1.0,FIORENTINI D,0 - 0,480,ITA,8:00
+Turnover foul,5.0,0,5,0,ITA,1.0,GIORGETTI A,0 - 0,455,ITA,7:35
+Steal,1.0,0,5,0,ITA,1.0,AGUILAR I,0 - 0,455,ESP,7:35
+Turnover foul,6.0,0,5,0,ITA,1.0,MINGUELL M,0 - 0,434,ESP,7:14
+Steal,3.0,0,5,0,ITA,1.0,GITTO N,0 - 0,434,ITA,7:14
+Action shot - Blocked,5.0,0,5,0,ITA,1.0,GIORGETTI A,0 - 0,405,ITA,6:45
+Action shot - Post,5.0,0,5,0,ITA,1.0,GIORGETTI A,0 - 0,378,ITA,6:18
+Action shot - Saved,6.0,0,5,0,ITA,1.0,FELUGO M,0 - 0,354,ITA,5:54
+Turnover foul,11.0,0,5,0,ITA,1.0,AICARDI M,0 - 0,335,ITA,5:35
+5m shot - Post,12.0,0,5,0,ITA,1.0,GARCIA X,0 - 0,308,ESP,5:08
+Action shot - Goal,5.0,0,5,1,ITA,1.0,GIORGETTI A,0 - 1,293,ITA,4:53
+Turnover foul,9.0,0,5,1,ITA,1.0,VALLES X,0 - 1,274,ESP,4:34
+Action shot - Missed,6.0,0,5,1,ITA,1.0,FELUGO M,0 - 1,244,ITA,4:04
+20 sec. exclusion in centre,3.0,0,5,1,ITA,1.0,GITTO N,0 - 1,220,ITA,3:40
+Extra player shot - Goal,10.0,1,5,1,ITA,1.0,PERRONE F,1 - 1,200,ESP,3:20
+Turnover foul,11.0,1,5,1,ITA,1.0,AICARDI M,1 - 1,183,ITA,3:03
+Steal,5.0,1,5,1,ITA,1.0,MOLINA G,1 - 1,183,ESP,3:03
+5m shot - Saved,8.0,1,5,1,ITA,1.0,ESPANOL A,1 - 1,162,ESP,2:42
+Turnover foul,5.0,1,5,1,ITA,1.0,GIORGETTI A,1 - 1,140,ITA,2:20
+Steal,8.0,1,5,1,ITA,1.0,ESPANOL A,1 - 1,140,ESP,2:20
+5m shot - Blocked,5.0,1,5,1,ITA,1.0,MOLINA G,1 - 1,117,ESP,1:57
+5m shot - Goal,7.0,1,5,2,ITA,1.0,FIGARI N,1 - 2,96,ITA,1:36
+Penalty foul,2.0,1,5,2,ITA,1.0,PEREZ A,1 - 2,79,ITA,1:19
+Penalty shot - Goal,8.0,2,5,2,ITA,1.0,ESPANOL A,2 - 2,79,ESP,1:19
+20 sec. exclusion in centre,2.0,2,5,2,ITA,1.0,MUNARRIZ A,2 - 2,60,ESP,1:00
+Turnover foul,11.0,2,5,2,ITA,1.0,AICARDI M,2 - 2,59,ITA,0:59
+Steal,6.0,2,5,2,ITA,1.0,MINGUELL M,2 - 2,59,ESP,0:59
+5m shot - Missed,5.0,2,5,2,ITA,1.0,MOLINA G,2 - 2,33,ESP,0:33
+Turnover foul,11.0,2,5,2,ITA,1.0,AICARDI M,2 - 2,15,ITA,0:15
+Turnover foul,10.0,2,5,2,ITA,1.0,PERRONE F,2 - 2,2,ESP,0:02
+Steal,4.0,2,5,2,ITA,1.0,FIGLIOLI P,2 - 2,2,ITA,0:02
+Starting goalkeeper,1.0,2,5,2,ITA,2.0,AGUILAR I,2 - 2,480,ESP,8:00
+Starting goalkeeper,1.0,2,5,2,ITA,2.0,TEMPESTI S,2 - 2,480,ITA,8:00
+Sprint won possession,4.0,2,5,2,ITA,2.0,FIGLIOLI P,2 - 2,480,ITA,8:00
+Turnover foul,11.0,2,5,2,ITA,2.0,AICARDI M,2 - 2,451,ITA,7:31
+Steal,12.0,2,5,2,ITA,2.0,GARCIA X,2 - 2,451,ESP,7:31
+5m shot - Saved,12.0,2,5,2,ITA,2.0,GARCIA X,2 - 2,422,ESP,7:02
+Action shot - Blocked,6.0,2,5,2,ITA,2.0,FELUGO M,2 - 2,397,ITA,6:37
+Double exclusion,11.0,2,5,2,ITA,2.0,AICARDI M,2 - 2,395,ITA,6:35
+Double exclusion,6.0,2,5,2,ITA,2.0,MINGUELL M,2 - 2,395,ESP,6:35
+Turnover foul,7.0,2,5,2,ITA,2.0,SZIRANYI B,2 - 2,382,ESP,6:22
+Centre shot - Post,12.0,2,5,2,ITA,2.0,NAPOLITANO C,2 - 2,366,ITA,6:06
+5m shot - Blocked,10.0,2,5,2,ITA,2.0,PERRONE F,2 - 2,337,ESP,5:37
+Turnover foul,7.0,2,5,2,ITA,2.0,SZIRANYI B,2 - 2,308,ESP,5:08
+Steal,3.0,2,5,2,ITA,2.0,GITTO N,2 - 2,308,ITA,5:08
+20 sec. exclusion in centre,10.0,2,5,2,ITA,2.0,PERRONE F,2 - 2,283,ESP,4:43
+Action shot - Goal,4.0,2,5,3,ITA,2.0,FIGLIOLI P,2 - 3,262,ITA,4:22
+Turnover foul,6.0,2,5,3,ITA,2.0,MINGUELL M,2 - 3,241,ESP,4:01
+Turnover foul,12.0,2,5,3,ITA,2.0,NAPOLITANO C,2 - 3,212,ITA,3:32
+Steal,5.0,2,5,3,ITA,2.0,MOLINA G,2 - 3,212,ESP,3:32
+20 sec. exclusion in field,4.0,2,5,3,ITA,2.0,FIGLIOLI P,2 - 3,201,ITA,3:21
+Extra player shot - Blocked,5.0,2,5,3,ITA,2.0,MOLINA G,2 - 3,183,ESP,3:03
+Action shot - Goal,5.0,3,5,3,ITA,2.0,MOLINA G,3 - 3,176,ESP,2:56
+Turnover foul,8.0,3,5,3,ITA,2.0,GALLO V,3 - 3,154,ITA,2:34
+Turnover foul,10.0,3,5,3,ITA,2.0,PERRONE F,3 - 3,130,ESP,2:10
+Double exclusion,5.0,3,5,3,ITA,2.0,GIORGETTI A,3 - 3,130,ITA,2:10
+Double exclusion,6.0,3,5,3,ITA,2.0,MINGUELL M,3 - 3,130,ESP,2:10
+Turnover foul,11.0,3,5,3,ITA,2.0,AICARDI M,3 - 3,101,ITA,1:41
+Steal,3.0,3,5,3,ITA,2.0,de LERA R,3 - 3,101,ESP,1:41
+5m shot - Blocked,5.0,3,5,3,ITA,2.0,MOLINA G,3 - 3,73,ESP,1:13
+Turnover foul,8.0,3,5,3,ITA,2.0,ESPANOL A,3 - 3,46,ESP,0:46
+Extra player shot - Blocked,8.0,3,5,3,ITA,4.0,ESPANOL A,3 - 3,87,ESP,1:27
+Action shot - Saved,7.0,3,5,3,ITA,4.0,FIGARI N,3 - 3,57,ITA,0:57
+5m shot - Saved,6.0,3,5,3,ITA,4.0,MINGUELL M,3 - 3,42,ESP,0:42
+Time-Out,,3,5,3,ITA,4.0,,3 - 3,32,ITA,0:32
+Steal,9.0,3,5,3,ITA,2.0,PRESCIUTTI C,3 - 3,46,ITA,0:46
+20 sec. exclusion in centre,3.0,3,5,3,ITA,2.0,de LERA R,3 - 3,29,ESP,0:29
+Action shot - Post,10.0,3,5,3,ITA,2.0,FIORENTINI D,3 - 3,5,ITA,0:05
+Starting goalkeeper,1.0,3,5,3,ITA,3.0,AGUILAR I,3 - 3,480,ESP,8:00
+Starting goalkeeper,1.0,3,5,3,ITA,3.0,TEMPESTI S,3 - 3,480,ITA,8:00
+Sprint won possession,4.0,3,5,3,ITA,3.0,FIGLIOLI P,3 - 3,480,ITA,8:00
+Penalty foul,2.0,3,5,3,ITA,3.0,MUNARRIZ A,3 - 3,462,ESP,7:42
+Penalty shot - Goal,4.0,3,5,4,ITA,3.0,FIGLIOLI P,3 - 4,462,ITA,7:42
+Turnover foul,9.0,3,5,4,ITA,3.0,VALLES X,3 - 4,437,ESP,7:17
+Counter attack - Saved,9.0,3,5,4,ITA,3.0,PRESCIUTTI C,3 - 4,425,ITA,7:05
+20 sec. exclusion in centre,7.0,3,5,4,ITA,3.0,FIGARI N,3 - 4,402,ITA,6:42
+Extra player shot - Saved,6.0,3,5,4,ITA,3.0,MINGUELL M,3 - 4,386,ESP,6:26
+Action shot - Saved,12.0,3,5,4,ITA,3.0,GARCIA X,3 - 4,378,ESP,6:18
+5m shot - Post,4.0,3,5,4,ITA,3.0,FIGLIOLI P,3 - 4,351,ITA,5:51
+5m shot - Saved,6.0,3,5,4,ITA,3.0,FELUGO M,3 - 4,325,ITA,5:25
+5m shot - Blocked,6.0,3,5,4,ITA,3.0,MINGUELL M,3 - 4,301,ESP,5:01
+5m shot - Saved,8.0,3,5,4,ITA,3.0,GALLO V,3 - 4,273,ITA,4:33
+5m shot - Saved,6.0,3,5,4,ITA,3.0,MINGUELL M,3 - 4,248,ESP,4:08
+Centre shot - Missed,9.0,3,5,4,ITA,3.0,VALLES X,3 - 4,247,ESP,4:07
+5m shot - Post,4.0,3,5,4,ITA,3.0,FIGLIOLI P,3 - 4,222,ITA,3:42
+Turnover foul,9.0,3,5,4,ITA,3.0,VALLES X,3 - 4,192,ESP,3:12
+Steal,9.0,3,5,4,ITA,3.0,PRESCIUTTI C,3 - 4,192,ITA,3:12
+Turnover foul,4.0,3,5,4,ITA,3.0,FIGLIOLI P,3 - 4,175,ITA,2:55
+5m shot - Blocked,5.0,3,5,4,ITA,3.0,MOLINA G,3 - 4,155,ESP,2:35
+5m shot - Blocked,6.0,3,5,4,ITA,3.0,FELUGO M,3 - 4,127,ITA,2:07
+Turnover foul,7.0,3,5,4,ITA,3.0,SZIRANYI B,3 - 4,121,ESP,2:01
+Turnover foul,11.0,3,5,4,ITA,3.0,AICARDI M,3 - 4,110,ITA,1:50
+Steal,10.0,3,5,4,ITA,3.0,PERRONE F,3 - 4,110,ESP,1:50
+20 sec. exclusion in centre,9.0,3,5,4,ITA,3.0,PRESCIUTTI C,3 - 4,91,ITA,1:31
+Time-Out,,3,5,4,ITA,3.0,,3 - 4,91,ESP,1:31
+Extra player shot - Saved,10.0,3,5,4,ITA,3.0,PERRONE F,3 - 4,75,ESP,1:15
+20 sec. exclusion in centre,10.0,3,5,4,ITA,3.0,PERRONE F,3 - 4,48,ESP,0:48
+Extra player shot - Missed,7.0,3,5,4,ITA,3.0,FIGARI N,3 - 4,36,ITA,0:36
+Turnover foul,8.0,3,5,4,ITA,3.0,ESPANOL A,3 - 4,21,ESP,0:21
+Steal,10.0,3,5,4,ITA,3.0,FIORENTINI D,3 - 4,21,ITA,0:21
+Action shot - Saved,10.0,3,5,4,ITA,3.0,FIORENTINI D,3 - 4,1,ITA,0:01
+Starting goalkeeper,1.0,3,5,4,ITA,4.0,AGUILAR I,3 - 4,480,ESP,8:00
+Starting goalkeeper,1.0,3,5,4,ITA,4.0,TEMPESTI S,3 - 4,480,ITA,8:00
+Sprint won possession,4.0,3,5,4,ITA,4.0,FIGLIOLI P,3 - 4,480,ITA,8:00
+Turnover foul,11.0,3,5,4,ITA,4.0,AICARDI M,3 - 4,456,ITA,7:36
+Steal,10.0,3,5,4,ITA,4.0,PERRONE F,3 - 4,456,ESP,7:36
+5m shot - Saved,12.0,3,5,4,ITA,4.0,GARCIA X,3 - 4,432,ESP,7:12
+Turnover foul,7.0,3,5,4,ITA,4.0,SZIRANYI B,3 - 4,425,ESP,7:05
+Turnover foul,11.0,3,5,4,ITA,4.0,AICARDI M,3 - 4,408,ITA,6:48
+20 sec. exclusion in centre,2.0,3,5,4,ITA,4.0,PEREZ A,3 - 4,393,ITA,6:33
+Extra player shot - Saved,6.0,3,5,4,ITA,4.0,MINGUELL M,3 - 4,375,ESP,6:15
+20 sec. exclusion in field,5.0,3,5,4,ITA,4.0,GIORGETTI A,3 - 4,370,ITA,6:10
+Extra player shot - Saved,10.0,3,5,4,ITA,4.0,PERRONE F,3 - 4,351,ESP,5:51
+5m shot - Post,12.0,3,5,4,ITA,4.0,GARCIA X,3 - 4,343,ESP,5:43
+Turnover foul,5.0,3,5,4,ITA,4.0,MOLINA G,3 - 4,322,ESP,5:22
+5m shot - Saved,4.0,3,5,4,ITA,4.0,FIGLIOLI P,3 - 4,297,ITA,4:57
+5m shot - Blocked,6.0,3,5,4,ITA,4.0,MINGUELL M,3 - 4,272,ESP,4:32
+Centre shot - Saved,11.0,3,5,4,ITA,4.0,AICARDI M,3 - 4,248,ITA,4:08
+Time-Out,,3,5,4,ITA,4.0,,3 - 4,245,ESP,4:05
+Turnover foul,10.0,3,5,4,ITA,4.0,PERRONE F,3 - 4,233,ESP,3:53
+Turnover foul,12.0,3,5,4,ITA,4.0,NAPOLITANO C,3 - 4,205,ITA,3:25
+Steal,8.0,3,5,4,ITA,4.0,ESPANOL A,3 - 4,205,ESP,3:25
+Turnover foul,9.0,3,5,4,ITA,4.0,VALLES X,3 - 4,175,ESP,2:55
+Steal,9.0,3,5,4,ITA,4.0,PRESCIUTTI C,3 - 4,175,ITA,2:55
+Action shot - Saved,6.0,3,5,4,ITA,4.0,FELUGO M,3 - 4,146,ITA,2:26
+Turnover foul,6.0,3,5,4,ITA,4.0,FELUGO M,3 - 4,120,ITA,2:00
+Steal,12.0,3,5,4,ITA,4.0,GARCIA X,3 - 4,120,ESP,2:00
+20 sec. exclusion in centre,9.0,3,5,4,ITA,4.0,PRESCIUTTI C,3 - 4,103,ITA,1:43
+5m shot - Post,11.0,3,5,4,ITA,4.0,AICARDI M,3 - 4,15,ITA,0:15
+Turnover foul,10.0,3,5,4,ITA,4.0,PERRONE F,3 - 4,1,ESP,0:01
+Steal,2.0,3,5,4,ITA,4.0,PEREZ A,3 - 4,1,ITA,0:01
+Starting goalkeeper,1.0,0,6,0,SRB,1.0,AGUILAR I,0 - 0,480,ESP,8:00
+Starting goalkeeper,1.0,0,6,0,SRB,1.0,MITROVIC B,0 - 0,480,SRB,8:00
+Sprint won possession,8.0,0,6,0,SRB,1.0,ESPANOL A,0 - 0,480,ESP,8:00
+Turnover foul,10.0,0,6,0,SRB,1.0,PERRONE F,0 - 0,459,ESP,7:39
+Steal,4.0,0,6,0,SRB,1.0,UDOVICIC V,0 - 0,459,SRB,7:39
+20 sec. exclusion in centre,6.0,0,6,0,SRB,1.0,MINGUELL M,0 - 0,435,ESP,7:15
+Extra player shot - Goal,6.0,0,6,1,SRB,1.0,PIJETLOVIC D,1 - 0,422,SRB,7:02
+20 sec. exclusion in centre,3.0,0,6,1,SRB,1.0,GOCIC Z,1 - 0,396,SRB,6:36
+Extra player shot - Saved,12.0,0,6,1,SRB,1.0,GARCIA X,1 - 0,392,ESP,6:32
+Extra player shot - Saved,5.0,0,6,1,SRB,1.0,MOLINA G,1 - 0,379,ESP,6:19
+5m shot - Missed,4.0,0,6,1,SRB,1.0,UDOVICIC V,1 - 0,355,SRB,5:55
+5m shot - Missed,5.0,0,6,1,SRB,1.0,MOLINA G,1 - 0,325,ESP,5:25
+Turnover foul,2.0,0,6,1,SRB,1.0,MANDIC D,1 - 0,298,SRB,4:58
+Steal,2.0,0,6,1,SRB,1.0,MUNARRIZ A,1 - 0,298,ESP,4:58
+Action shot - Saved,12.0,0,6,1,SRB,1.0,GARCIA X,1 - 0,278,ESP,4:38
+Action shot - Saved,10.0,0,6,1,SRB,1.0,PERRONE F,1 - 0,261,ESP,4:21
+Centre shot - Saved,9.0,0,6,1,SRB,1.0,VALLES X,1 - 0,232,ESP,3:52
+Action shot - Saved,6.0,0,6,1,SRB,1.0,PIJETLOVIC D,1 - 0,207,SRB,3:27
+Penalty foul,2.0,0,6,1,SRB,1.0,MANDIC D,1 - 0,193,SRB,3:13
+Penalty shot - Goal,8.0,1,6,1,SRB,1.0,ESPANOL A,1 - 1,193,ESP,3:13
+Action shot - Saved,4.0,1,6,1,SRB,1.0,UDOVICIC V,1 - 1,161,SRB,2:41
+Centre shot - Post,7.0,1,6,1,SRB,1.0,NIKIC S,1 - 1,159,SRB,2:39
+Turnover foul,10.0,1,6,1,SRB,1.0,PERRONE F,1 - 1,132,ESP,2:12
+Steal,10.0,1,6,1,SRB,1.0,FILIPOVIC F,1 - 1,132,SRB,2:12
+Centre shot - Goal,4.0,1,6,2,SRB,1.0,UDOVICIC V,2 - 1,114,SRB,1:54
+Turnover foul,10.0,1,6,2,SRB,1.0,PERRONE F,2 - 1,95,ESP,1:35
+Steal,9.0,1,6,2,SRB,1.0,RADEN N,2 - 1,95,SRB,1:35
+5m shot - Saved,11.0,1,6,2,SRB,1.0,PRLAINOVIC A,2 - 1,66,SRB,1:06
+Centre shot - Goal,7.0,2,6,2,SRB,1.0,SZIRANYI B,2 - 2,38,ESP,0:38
+Action shot - Blocked,3.0,2,6,2,SRB,1.0,GOCIC Z,2 - 2,16,SRB,0:16
+5m shot - Saved,10.0,2,6,2,SRB,1.0,PERRONE F,2 - 2,1,ESP,0:01
+Starting goalkeeper,1.0,2,6,2,SRB,2.0,MITROVIC B,2 - 2,480,SRB,8:00
+Starting goalkeeper,1.0,2,6,2,SRB,2.0,AGUILAR I,2 - 2,480,ESP,8:00
+Sprint won possession,8.0,2,6,2,SRB,2.0,ESPANOL A,2 - 2,480,ESP,8:00
+Action shot - Saved,3.0,2,6,2,SRB,2.0,de LERA R,2 - 2,450,ESP,7:30
+20 sec. exclusion in field,6.0,2,6,2,SRB,2.0,MINGUELL M,2 - 2,446,ESP,7:26
+Extra player shot - Post,7.0,2,6,2,SRB,2.0,NIKIC S,2 - 2,434,SRB,7:14
+Turnover foul,9.0,2,6,2,SRB,2.0,VALLES X,2 - 2,407,ESP,6:47
+Centre shot - Saved,12.0,2,6,2,SRB,2.0,MITROVIC S,2 - 2,388,SRB,6:28
+Turnover foul,8.0,2,6,2,SRB,2.0,ESPANOL A,2 - 2,362,ESP,6:02
+Steal,9.0,2,6,2,SRB,2.0,RADEN N,2 - 2,362,SRB,6:02
+Turnover foul,7.0,2,6,2,SRB,2.0,NIKIC S,2 - 2,336,SRB,5:36
+Steal,8.0,2,6,2,SRB,2.0,ESPANOL A,2 - 2,336,ESP,5:36
+20 sec. exclusion in centre,9.0,2,6,2,SRB,2.0,RADEN N,2 - 2,319,SRB,5:19
+Action shot - Saved,10.0,2,6,2,SRB,2.0,PERRONE F,2 - 2,294,ESP,4:54
+Centre shot - Saved,8.0,2,6,2,SRB,2.0,ESPANOL A,2 - 2,268,ESP,4:28
+Counter attack - Saved,10.0,2,6,2,SRB,2.0,FILIPOVIC F,2 - 2,252,SRB,4:12
+Centre shot - Missed,7.0,2,6,2,SRB,2.0,NIKIC S,2 - 2,243,SRB,4:03
+Action shot - Saved,10.0,2,6,2,SRB,2.0,PERRONE F,2 - 2,219,ESP,3:39
+20 sec. exclusion in centre,5.0,2,6,2,SRB,2.0,MOLINA G,2 - 2,199,ESP,3:19
+Extra player shot - Goal,10.0,2,6,3,SRB,2.0,FILIPOVIC F,3 - 2,183,SRB,3:03
+Action shot - Saved,3.0,2,6,3,SRB,2.0,de LERA R,3 - 2,155,ESP,2:35
+Turnover foul,6.0,2,6,3,SRB,2.0,PIJETLOVIC D,3 - 2,136,SRB,2:16
+Steal,11.0,2,6,3,SRB,2.0,ESTRANY P,3 - 2,136,ESP,2:16
+Turnover foul,7.0,2,6,3,SRB,2.0,SZIRANYI B,3 - 2,108,ESP,1:48
+Steal,11.0,2,6,3,SRB,2.0,PRLAINOVIC A,3 - 2,108,SRB,1:48
+5m shot - Saved,11.0,2,6,3,SRB,2.0,PRLAINOVIC A,3 - 2,79,SRB,1:19
+Turnover foul,7.0,2,6,3,SRB,2.0,SZIRANYI B,3 - 2,51,ESP,0:51
+Steal,5.0,2,6,3,SRB,2.0,CUK M,3 - 2,51,SRB,0:51
+Action shot - Saved,11.0,2,6,3,SRB,2.0,PRLAINOVIC A,3 - 2,34,SRB,0:34
+Action shot - Saved,12.0,2,6,3,SRB,2.0,GARCIA X,3 - 2,13,ESP,0:13
+Starting goalkeeper,1.0,2,6,3,SRB,3.0,AGUILAR I,3 - 2,480,ESP,8:00
+Starting goalkeeper,1.0,2,6,3,SRB,3.0,MITROVIC B,3 - 2,480,SRB,8:00
+Centre shot - Goal,6.0,7,6,7,SRB,ET1,MINGUELL M,7 - 7,53,ESP,0:53
+20 sec. exclusion in centre,2.0,7,6,7,SRB,ET1,MUNARRIZ A,7 - 7,32,ESP,0:32
+Action shot - Blocked,12.0,7,6,7,SRB,ET1,MITROVIC S,7 - 7,10,SRB,0:10
+Centre shot - Goal,11.0,7,6,8,SRB,ET1,PRLAINOVIC A,8 - 7,9,SRB,0:09
+5m shot - Saved,6.0,7,6,8,SRB,ET1,MINGUELL M,8 - 7,1,ESP,0:01
+Starting goalkeeper,1.0,7,6,8,SRB,ET2,AGUILAR I,8 - 7,180,ESP,3:00
+Starting goalkeeper,1.0,7,6,8,SRB,ET2,MITROVIC B,8 - 7,180,SRB,3:00
+Sprint won possession,8.0,7,6,8,SRB,ET2,ESPANOL A,8 - 7,180,ESP,3:00
+Turnover foul,9.0,7,6,8,SRB,ET2,VALLES X,8 - 7,153,ESP,2:33
+Steal,6.0,7,6,8,SRB,ET2,PIJETLOVIC D,8 - 7,153,SRB,2:33
+Action shot - Goal,6.0,8,6,8,SRB,ET2,MINGUELL M,8 - 8,99,ESP,1:39
+20 sec. exclusion in centre,5.0,8,6,8,SRB,ET2,MOLINA G,8 - 8,74,ESP,1:14
+Action shot - Saved,4.0,8,6,8,SRB,ET2,UDOVICIC V,8 - 8,45,SRB,0:45
+Action shot - Saved,5.0,8,6,8,SRB,ET2,MOLINA G,8 - 8,22,ESP,0:22
+Time-Out,,8,6,8,SRB,ET2,,8 - 8,22,ESP,0:22
+Action shot - Saved,12.0,8,6,8,SRB,ET2,GARCIA X,8 - 8,1,ESP,0:01
+Sprint won possession,8.0,8,6,8,SRB,3,ESPANOL A,8 - 8,480,ESP,8:00
+Turnover foul,5.0,8,6,8,SRB,3,MOLINA G,8 - 8,451,ESP,7:31
+Steal,6.0,8,6,8,SRB,3,PIJETLOVIC D,8 - 8,451,SRB,7:31
+Turnover foul,4.0,8,6,8,SRB,3,UDOVICIC V,8 - 8,426,SRB,7:06
+Steal,9.0,8,6,8,SRB,3,VALLES X,8 - 8,426,ESP,7:06
+20 sec. exclusion in centre,6.0,8,6,8,SRB,3,PIJETLOVIC D,8 - 8,408,SRB,6:48
+Extra player shot - Post,5.0,8,6,8,SRB,3,MOLINA G,8 - 8,391,ESP,6:31
+Turnover foul,7.0,8,6,8,SRB,3,NIKIC S,8 - 8,369,SRB,6:09
+Action shot - Blocked,6.0,8,6,8,SRB,3,MINGUELL M,8 - 8,341,ESP,5:41
+Action shot - Saved,5.0,8,6,8,SRB,3,CUK M,8 - 8,313,SRB,5:13
+20 sec. exclusion in centre,10.0,8,6,8,SRB,3,FILIPOVIC F,8 - 8,297,SRB,4:57
+Extra player shot - Goal,8.0,3,6,3,SRB,3,ESPANOL A,3 - 3,281,ESP,4:41
+Turnover foul,7.0,3,6,3,SRB,3,NIKIC S,3 - 3,261,SRB,4:21
+Steal,10.0,3,6,3,SRB,3,PERRONE F,3 - 3,261,ESP,4:21
+Action shot - Blocked,4.0,3,6,3,SRB,3,UDOVICIC V,3 - 3,213,SRB,3:33
+5m shot - Saved,5.0,3,6,3,SRB,3,MOLINA G,3 - 3,185,ESP,3:05
+Action shot - Goal,2.0,3,6,4,SRB,3,MANDIC D,4 - 3,169,SRB,2:49
+Action shot - Goal,2.0,4,6,4,SRB,3,MUNARRIZ A,4 - 4,141,ESP,2:21
+5m shot - Missed,2.0,4,6,4,SRB,3,MANDIC D,4 - 4,115,SRB,1:55
+20 sec. exclusion in centre,3.0,4,6,4,SRB,3,GOCIC Z,4 - 4,100,SRB,1:40
+Extra player shot - Goal,2.0,5,6,4,SRB,3,MUNARRIZ A,4 - 5,82,ESP,1:22
+Centre shot - Goal,6.0,5,6,5,SRB,3,PIJETLOVIC D,5 - 5,60,SRB,1:00
+20 sec. exclusion in field,6.0,5,6,5,SRB,3,PIJETLOVIC D,5 - 5,34,SRB,0:34
+Extra player shot - Saved,6.0,5,6,5,SRB,3,MINGUELL M,5 - 5,14,ESP,0:14
+5m shot - Saved,10.0,5,6,5,SRB,3,FILIPOVIC F,5 - 5,2,SRB,0:02
+Starting goalkeeper,1.0,5,6,5,SRB,4,AGUILAR I,5 - 5,480,ESP,8:00
+Starting goalkeeper,1.0,5,6,5,SRB,4,MITROVIC B,5 - 5,480,SRB,8:00
+Sprint won possession,8.0,5,6,5,SRB,4,ESPANOL A,5 - 5,480,ESP,8:00
+Action shot - Goal,10.0,6,6,5,SRB,4,PERRONE F,5 - 6,456,ESP,7:36
+20 sec. exclusion in centre,10.0,6,6,5,SRB,4,PERRONE F,5 - 6,442,ESP,7:22
+Action shot - Goal,5.0,6,6,6,SRB,4,CUK M,6 - 6,419,SRB,6:59
+Turnover foul,6.0,6,6,6,SRB,4,MINGUELL M,6 - 6,391,ESP,6:31
+Steal,4.0,6,6,6,SRB,4,UDOVICIC V,6 - 6,391,SRB,6:31
+Action shot - Saved,7.0,6,6,6,SRB,4,NIKIC S,6 - 6,362,SRB,6:02
+Turnover foul,7.0,6,6,6,SRB,4,NIKIC S,6 - 6,346,SRB,5:46
+20 sec. exclusion in field,5.0,6,6,6,SRB,4,CUK M,6 - 6,320,SRB,5:20
+Time-Out,,6,6,6,SRB,4,,6 - 6,319,ESP,5:19
+Action shot - Saved,6.0,6,6,6,SRB,4,MINGUELL M,6 - 6,291,ESP,4:51
+Counter attack - Saved,7.0,6,6,6,SRB,4,NIKIC S,6 - 6,273,SRB,4:33
+Action shot - Saved,2.0,6,6,6,SRB,4,MANDIC D,6 - 6,244,SRB,4:04
+Action shot - Blocked,5.0,6,6,6,SRB,4,MOLINA G,6 - 6,216,ESP,3:36
+5m shot - Missed,10.0,6,6,6,SRB,4,FILIPOVIC F,6 - 6,191,SRB,3:11
+20 sec. exclusion in centre,4.0,6,6,6,SRB,4,UDOVICIC V,6 - 6,166,SRB,2:46
+Extra player shot - Blocked,12.0,6,6,6,SRB,4,GARCIA X,6 - 6,150,ESP,2:30
+Time-Out,,6,6,6,SRB,4,,6 - 6,150,SRB,2:30
+Centre shot - Saved,6.0,6,6,6,SRB,4,PIJETLOVIC D,6 - 6,122,SRB,2:02
+Action shot - Saved,8.0,6,6,6,SRB,4,ESPANOL A,6 - 6,104,ESP,1:44
+Action shot - Saved,10.0,6,6,6,SRB,4,PERRONE F,6 - 6,82,ESP,1:22
+5m shot - Saved,11.0,6,6,6,SRB,4,PRLAINOVIC A,6 - 6,50,SRB,0:50
+Turnover foul,8.0,6,6,6,SRB,4,ESPANOL A,6 - 6,29,ESP,0:29
+Steal,4.0,6,6,6,SRB,4,UDOVICIC V,6 - 6,29,SRB,0:29
+Time-Out,,6,6,6,SRB,4,,6 - 6,29,SRB,0:29
+20 sec. exclusion in centre,2.0,6,6,6,SRB,4,MUNARRIZ A,6 - 6,10,ESP,0:10
+Extra player shot - Post,12.0,6,6,6,SRB,4,MITROVIC S,6 - 6,2,SRB,0:02
+Starting goalkeeper,1.0,6,6,6,SRB,ET1,AGUILAR I,6 - 6,180,ESP,3:00
+Starting goalkeeper,1.0,6,6,6,SRB,ET1,MITROVIC B,6 - 6,180,SRB,3:00
+Sprint won possession,8.0,6,6,6,SRB,ET1,ESPANOL A,6 - 6,180,ESP,3:00
+Action shot - Saved,5.0,6,6,6,SRB,ET1,MOLINA G,6 - 6,154,ESP,2:34
+5m shot - Saved,8.0,6,6,6,SRB,ET1,ESPANOL A,6 - 6,132,ESP,2:12
+Turnover foul,7.0,6,6,6,SRB,ET1,SZIRANYI B,6 - 6,113,ESP,1:53
+Action shot - Goal,10.0,6,6,7,SRB,ET1,FILIPOVIC F,7 - 6,99,SRB,1:39
+20 sec. exclusion in centre,9.0,6,6,7,SRB,ET1,RADEN N,7 - 6,76,SRB,1:16
+Action shot - Post,9.0,6,6,7,SRB,ET1,VALLES X,7 - 6,55,ESP,0:55
+Starting goalkeeper,1.0,0,7,0,GRE,1.0,AGUILAR I,0 - 0,480,ESP,8:00
+Starting goalkeeper,1.0,0,7,0,GRE,1.0,TSALKANIS K,0 - 0,480,GRE,8:00
+Sprint won possession,8.0,0,7,0,GRE,1.0,ESPANOL A,0 - 0,480,ESP,8:00
+Action shot - Post,12.0,0,7,0,GRE,1.0,GARCIA X,0 - 0,454,ESP,7:34
+Centre shot - Missed,9.0,0,7,0,GRE,1.0,MOURIKIS K,0 - 0,433,GRE,7:13
+Turnover foul,6.0,0,7,0,GRE,1.0,MINGUELL M,0 - 0,419,ESP,6:59
+Steal,9.0,0,7,0,GRE,1.0,MOURIKIS K,0 - 0,419,GRE,6:59
+Action shot - Saved,12.0,0,7,0,GRE,1.0,VLACHOPOULOS A,0 - 0,393,GRE,6:33
+Turnover foul,10.0,0,7,0,GRE,1.0,PERRONE F,0 - 0,365,ESP,6:05
+5m shot - Goal,5.0,0,7,1,GRE,1.0,FOUNTOULIS I,1 - 0,341,GRE,5:41
+20 sec. exclusion in centre,6.0,0,7,1,GRE,1.0,PONTIKEAS K,1 - 0,318,GRE,5:18
+Extra player shot - Saved,6.0,0,7,1,GRE,1.0,MINGUELL M,1 - 0,304,ESP,5:04
+Extra player shot - Missed,9.0,0,7,1,GRE,1.0,VALLES X,1 - 0,298,ESP,4:58
+Action shot - Post,12.0,0,7,1,GRE,1.0,VLACHOPOULOS A,1 - 0,272,GRE,4:32
+Turnover foul,6.0,0,7,1,GRE,1.0,MINGUELL M,1 - 0,250,ESP,4:10
+Steal,5.0,0,7,1,GRE,1.0,FOUNTOULIS I,1 - 0,250,GRE,4:10
+Action shot - Saved,2.0,0,7,1,GRE,1.0,MYLONAKIS E,1 - 0,222,GRE,3:42
+Action shot - Saved,10.0,0,7,1,GRE,1.0,PERRONE F,1 - 0,205,ESP,3:25
+Centre shot - Goal,5.0,1,7,1,GRE,1.0,MOLINA G,1 - 1,204,ESP,3:24
+20 sec. exclusion in centre,2.0,1,7,1,GRE,1.0,MUNARRIZ A,1 - 1,183,ESP,3:03
+Extra player shot - Goal,8.0,1,7,2,GRE,1.0,DELAKAS E,2 - 1,168,GRE,2:48
+Action shot - Saved,5.0,1,7,2,GRE,1.0,MOLINA G,2 - 1,140,ESP,2:20
+5m shot - Missed,7.0,1,7,2,GRE,1.0,AFROUDAKIS C,2 - 1,112,GRE,1:52
+Turnover foul,7.0,1,7,2,GRE,1.0,SZIRANYI B,2 - 1,85,ESP,1:25
+Steal,8.0,1,7,2,GRE,1.0,DELAKAS E,2 - 1,85,GRE,1:25
+5m shot - Saved,5.0,1,7,2,GRE,1.0,FOUNTOULIS I,2 - 1,61,GRE,1:01
+20 sec. exclusion in centre,2.0,1,7,2,GRE,1.0,MUNARRIZ A,2 - 1,50,ESP,0:50
+Extra player shot - Missed,5.0,1,7,2,GRE,1.0,FOUNTOULIS I,2 - 1,30,GRE,0:30
+Action shot - Saved,3.0,1,7,2,GRE,1.0,de LERA R,2 - 1,7,ESP,0:07
+Starting goalkeeper,1.0,1,7,2,GRE,2.0,TSALKANIS K,2 - 1,480,GRE,8:00
+Starting goalkeeper,1.0,1,7,2,GRE,2.0,AGUILAR I,2 - 1,480,ESP,8:00
+Sprint won possession,8.0,1,7,2,GRE,2.0,ESPANOL A,2 - 1,480,ESP,8:00
+20 sec. exclusion in centre,6.0,1,7,2,GRE,2.0,PONTIKEAS K,2 - 1,458,GRE,7:38
+Extra player shot - Goal,8.0,2,7,2,GRE,2.0,ESPANOL A,2 - 2,442,ESP,7:22
+Turnover foul,10.0,2,7,2,GRE,2.0,KOLOMVOS C,2 - 2,413,GRE,6:53
+Steal,10.0,2,7,2,GRE,2.0,PERRONE F,2 - 2,413,ESP,6:53
+20 sec. exclusion in field,5.0,2,7,2,GRE,2.0,FOUNTOULIS I,2 - 2,396,GRE,6:36
+Extra player shot - Goal,8.0,3,7,2,GRE,2.0,ESPANOL A,2 - 3,379,ESP,6:19
+5m shot - Goal,8.0,3,7,3,GRE,2.0,DELAKAS E,3 - 3,352,GRE,5:52
+Turnover foul,10.0,3,7,3,GRE,2.0,PERRONE F,3 - 3,332,ESP,5:32
+Steal,8.0,3,7,3,GRE,2.0,DELAKAS E,3 - 3,332,GRE,5:32
+Turnover foul,9.0,3,7,3,GRE,2.0,MOURIKIS K,3 - 3,311,GRE,5:11
+20 sec. exclusion in centre,8.0,3,7,3,GRE,2.0,DELAKAS E,3 - 3,295,GRE,4:55
+Extra player shot - Goal,9.0,4,7,3,GRE,2.0,VALLES X,3 - 4,280,ESP,4:40
+20 sec. exclusion in centre,4.0,4,7,3,GRE,2.0,ALARCON R,3 - 4,251,ESP,4:11
+Turnover foul,7.0,4,7,3,GRE,2.0,AFROUDAKIS C,3 - 4,221,GRE,3:41
+Steal,10.0,4,7,3,GRE,2.0,PERRONE F,3 - 4,221,ESP,3:41
+20 sec. exclusion in centre,10.0,4,7,3,GRE,2.0,KOLOMVOS C,3 - 4,196,GRE,3:16
+Extra player shot - Goal,8.0,5,7,3,GRE,2.0,ESPANOL A,3 - 5,179,ESP,2:59
+Turnover foul,9.0,5,7,3,GRE,2.0,MOURIKIS K,3 - 5,160,GRE,2:40
+5m shot - Saved,6.0,5,7,3,GRE,2.0,MINGUELL M,3 - 5,133,ESP,2:13
+20 sec. exclusion in centre,6.0,5,7,3,GRE,2.0,MINGUELL M,3 - 5,120,ESP,2:00
+Action shot - Goal,11.0,5,7,4,GRE,2.0,GOUNAS A,4 - 5,95,GRE,1:35
+Turnover foul,9.0,5,7,4,GRE,2.0,VALLES X,4 - 5,66,ESP,1:06
+Steal,1.0,5,7,4,GRE,2.0,TSALKANIS K,4 - 5,66,GRE,1:06
+5m shot - Saved,7.0,5,7,4,GRE,2.0,AFROUDAKIS C,4 - 5,36,GRE,0:36
+Penalty foul,2.0,5,7,4,GRE,2.0,MYLONAKIS E,4 - 5,7,GRE,0:07
+Penalty shot - Goal,8.0,6,7,4,GRE,2.0,ESPANOL A,4 - 6,7,ESP,0:07
+5m shot - Saved,12.0,6,7,4,GRE,2.0,VLACHOPOULOS A,4 - 6,2,GRE,0:02
+Starting goalkeeper,1.0,6,7,4,GRE,3.0,TSALKANIS K,4 - 6,480,GRE,8:00
+Starting goalkeeper,1.0,6,7,4,GRE,3.0,AGUILAR I,4 - 6,480,ESP,8:00
+Sprint won possession,11.0,6,7,4,GRE,3.0,GOUNAS A,4 - 6,480,GRE,8:00
+20 sec. exclusion in centre,6.0,6,7,4,GRE,3.0,MINGUELL M,4 - 6,457,ESP,7:37
+Extra player shot - Goal,8.0,6,7,5,GRE,3.0,DELAKAS E,5 - 6,441,GRE,7:21
+Turnover foul,5.0,6,7,5,GRE,3.0,MOLINA G,5 - 6,421,ESP,7:01
+Centre shot - Saved,9.0,6,7,5,GRE,3.0,MOURIKIS K,5 - 6,397,GRE,6:37
+20 sec. exclusion in centre,8.0,6,7,5,GRE,3.0,DELAKAS E,5 - 6,373,GRE,6:13
+Extra player shot - Saved,12.0,6,7,5,GRE,3.0,GARCIA X,5 - 6,370,ESP,6:10
+Extra player shot - Goal,12.0,7,7,5,GRE,3.0,GARCIA X,5 - 7,356,ESP,5:56
+5m shot - Blocked,7.0,7,7,5,GRE,3.0,AFROUDAKIS C,5 - 7,326,GRE,5:26
+Action shot - Saved,3.0,7,7,5,GRE,3.0,de LERA R,5 - 7,300,ESP,5:00
+20 sec. exclusion in field,12.0,7,7,5,GRE,3.0,VLACHOPOULOS A,5 - 7,278,GRE,4:38
+Turnover foul,5.0,7,7,5,GRE,3.0,MOLINA G,5 - 7,252,ESP,4:12
+Steal,7.0,7,7,5,GRE,3.0,AFROUDAKIS C,5 - 7,252,GRE,4:12
+20 sec. exclusion in centre,10.0,7,7,5,GRE,3.0,PERRONE F,5 - 7,231,ESP,3:51
+5m shot - Goal,12.0,7,7,6,GRE,3.0,VLACHOPOULOS A,6 - 7,206,GRE,3:26
+Turnover foul,9.0,7,7,6,GRE,3.0,VALLES X,6 - 7,183,ESP,3:03
+Steal,6.0,7,7,6,GRE,3.0,PONTIKEAS K,6 - 7,183,GRE,3:03
+5m shot - Goal,5.0,8,7,6,GRE,3.0,MOLINA G,6 - 8,129,ESP,2:09
+20 sec. exclusion in field,9.0,8,7,6,GRE,3.0,VALLES X,6 - 8,108,ESP,1:48
+Extra player shot - Goal,10.0,8,7,7,GRE,3.0,KOLOMVOS C,7 - 8,89,GRE,1:29
+5m shot - Saved,4.0,8,7,7,GRE,3.0,ALARCON R,7 - 8,60,ESP,1:00
+Penalty foul,10.0,8,7,7,GRE,3.0,PERRONE F,7 - 8,33,ESP,0:33
+Penalty shot - Goal,5.0,8,7,8,GRE,3.0,FOUNTOULIS I,8 - 8,33,GRE,0:33
+Turnover foul,9.0,8,7,8,GRE,3.0,VALLES X,8 - 8,20,ESP,0:20
+Steal,3.0,8,7,8,GRE,3.0,GOUVIS K,8 - 8,20,GRE,0:20
+Turnover foul,12.0,8,7,8,GRE,3.0,VLACHOPOULOS A,8 - 8,4,GRE,0:04
+Starting goalkeeper,1.0,8,7,8,GRE,4.0,TSALKANIS K,8 - 8,480,GRE,8:00
+Starting goalkeeper,1.0,8,7,8,GRE,4.0,AGUILAR I,8 - 8,480,ESP,8:00
+Sprint won possession,8.0,8,7,8,GRE,4.0,ESPANOL A,8 - 8,480,ESP,8:00
+20 sec. exclusion in centre,3.0,8,7,8,GRE,4.0,GOUVIS K,8 - 8,457,GRE,7:37
+Action shot - Missed,12.0,8,7,8,GRE,4.0,GARCIA X,8 - 8,433,ESP,7:13
+Action shot - Missed,5.0,8,7,8,GRE,4.0,FOUNTOULIS I,8 - 8,406,GRE,6:46
+Turnover foul,9.0,8,7,8,GRE,4.0,VALLES X,8 - 8,389,ESP,6:29
+Steal,8.0,8,7,8,GRE,4.0,DELAKAS E,8 - 8,389,GRE,6:29
+Turnover foul,10.0,8,7,8,GRE,4.0,KOLOMVOS C,8 - 8,368,GRE,6:08
+Action shot - Missed,5.0,8,7,8,GRE,4.0,MOLINA G,8 - 8,352,ESP,5:52
+Action shot - Post,7.0,8,7,8,GRE,4.0,AFROUDAKIS C,8 - 8,334,GRE,5:34
+Action shot - Blocked,10.0,8,7,8,GRE,4.0,PERRONE F,8 - 8,317,ESP,5:17
+20 sec. exclusion in centre,5.0,8,7,8,GRE,4.0,FOUNTOULIS I,8 - 8,291,GRE,4:51
+Time-Out,,8,7,8,GRE,4.0,,8 - 8,291,ESP,4:51
+Centre shot - Goal,6.0,9,7,8,GRE,4.0,MINGUELL M,8 - 9,264,ESP,4:24
+Turnover foul,8.0,9,7,8,GRE,4.0,DELAKAS E,8 - 9,244,GRE,4:04
+Steal,6.0,9,7,8,GRE,4.0,MINGUELL M,8 - 9,244,ESP,4:04
+Action shot - Goal,8.0,10,7,8,GRE,4.0,ESPANOL A,8 - 10,225,ESP,3:45
+Turnover foul,10.0,10,7,8,GRE,4.0,KOLOMVOS C,8 - 10,204,GRE,3:24
+Steal,12.0,10,7,8,GRE,4.0,GARCIA X,8 - 10,204,ESP,3:24
+5m shot - Post,10.0,10,7,8,GRE,4.0,PERRONE F,8 - 10,179,ESP,2:59
+20 sec. exclusion in centre,5.0,10,7,8,GRE,4.0,MOLINA G,8 - 10,154,ESP,2:34
+Extra player shot - Post,10.0,10,7,8,GRE,4.0,KOLOMVOS C,8 - 10,144,GRE,2:24
+20 sec. exclusion in centre,8.0,10,7,8,GRE,4.0,DELAKAS E,8 - 10,123,GRE,2:03
+Exclusion with substitution,8.0,10,7,8,GRE,4.0,DELAKAS E,8 - 10,123,GRE,2:03
+Centre shot - Post,7.0,10,7,8,GRE,4.0,SZIRANYI B,8 - 10,97,ESP,1:37
+Time-Out,,10,7,8,GRE,4.0,,8 - 10,95,GRE,1:35
+Action shot - Saved,12.0,10,7,8,GRE,4.0,VLACHOPOULOS A,8 - 10,71,GRE,1:11
+Time-Out,,10,7,8,GRE,4.0,,8 - 10,25,GRE,0:25
+Centre shot - Saved,10.0,10,7,8,GRE,4.0,KOLOMVOS C,8 - 10,18,GRE,0:18

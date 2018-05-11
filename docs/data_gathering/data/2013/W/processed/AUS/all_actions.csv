@@ -1,0 +1,908 @@
+AUS,Action,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+0,Starting goalkeeper,1.0,1,0,NZL,1.0,MILLAR B,0 - 0,480,NZL,8:00
+0,Starting goalkeeper,1.0,1,0,NZL,1.0,BARTA L,0 - 0,480,AUS,8:00
+0,Sprint won possession,12.0,1,0,NZL,1.0,ZAGAME N,0 - 0,480,AUS,8:00
+0,Turnover foul,6.0,1,0,NZL,1.0,KNOX B,0 - 0,457,AUS,7:37
+0,Steal,12.0,1,0,NZL,1.0,MYLES A,0 - 0,457,NZL,7:37
+0,Turnover foul,4.0,1,0,NZL,1.0,LEWIS N,0 - 0,429,NZL,7:09
+0,Steal,7.0,1,0,NZL,1.0,WEBSTER R,0 - 0,429,AUS,7:09
+1,5m shot - Goal,7.0,1,0,NZL,1.0,WEBSTER R,1 - 0,405,AUS,6:45
+1,Turnover foul,3.0,1,0,NZL,1.0,MASON K,1 - 0,388,NZL,6:28
+1,Steal,10.0,1,0,NZL,1.0,SOUTHERN A,1 - 0,388,AUS,6:28
+1,Turnover foul,4.0,1,0,NZL,1.0,LINCOLN-SMITH H,1 - 0,367,AUS,6:07
+1,Turnover foul,3.0,1,0,NZL,1.0,MASON K,1 - 0,337,NZL,5:37
+1,Steal,10.0,1,0,NZL,1.0,SOUTHERN A,1 - 0,337,AUS,5:37
+1,Centre shot - Saved,12.0,1,0,NZL,1.0,ZAGAME N,1 - 0,320,AUS,5:20
+1,5m shot - Post,3.0,1,0,NZL,1.0,MASON K,1 - 0,295,NZL,4:55
+1,Turnover foul,10.0,1,0,NZL,1.0,SOUTHERN A,1 - 0,285,AUS,4:45
+1,5m shot - Saved,9.0,1,0,NZL,1.0,SIEPRATH L,1 - 0,260,NZL,4:20
+1,20 sec. exclusion in field,10.0,1,0,NZL,1.0,BOWRY C,1 - 0,259,NZL,4:19
+1,Turnover foul,7.0,1,0,NZL,1.0,WEBSTER R,1 - 0,244,AUS,4:04
+1,20 sec. exclusion in field,12.0,1,0,NZL,1.0,ZAGAME N,1 - 0,220,AUS,3:40
+1,Action shot - Saved,11.0,1,0,NZL,1.0,HUDSON K,1 - 0,197,NZL,3:17
+1,Turnover foul,8.0,1,0,NZL,1.0,McGHIE G,1 - 0,171,AUS,2:51
+1,Turnover foul,2.0,1,0,NZL,1.0,COX E,1 - 0,144,NZL,2:24
+1,Steal,8.0,1,0,NZL,1.0,McGHIE G,1 - 0,144,AUS,2:24
+2,Centre shot - Goal,4.0,1,0,NZL,1.0,LINCOLN-SMITH H,2 - 0,117,AUS,1:57
+2,20 sec. exclusion in centre,5.0,1,0,NZL,1.0,BISHOP I,2 - 0,109,AUS,1:49
+2,Extra player shot - Goal,2.0,1,1,NZL,1.0,COX E,2 - 1,90,NZL,1:30
+2,20 sec. exclusion in centre,8.0,1,1,NZL,1.0,LEWIS D,2 - 1,68,NZL,1:08
+3,Extra player shot - Goal,9.0,1,1,NZL,1.0,ARANCINI Z,3 - 1,49,AUS,0:49
+3,Turnover foul,7.0,1,1,NZL,1.0,LANDRY S,3 - 1,33,NZL,0:33
+3,5m shot - Missed,9.0,1,1,NZL,1.0,ARANCINI Z,3 - 1,15,AUS,0:15
+3,5m shot - Missed,1.0,1,1,NZL,1.0,MILLAR B,3 - 1,1,NZL,0:01
+3,Starting goalkeeper,1.0,1,1,NZL,2.0,MILLAR B,3 - 1,480,NZL,8:00
+3,Starting goalkeeper,1.0,1,1,NZL,2.0,BARTA L,3 - 1,480,AUS,8:00
+3,Sprint won possession,7.0,1,1,NZL,2.0,LANDRY S,3 - 1,480,NZL,8:00
+3,Turnover foul,4.0,1,1,NZL,2.0,LEWIS N,3 - 1,458,NZL,7:38
+4,5m shot - Goal,7.0,1,1,NZL,2.0,WEBSTER R,4 - 1,429,AUS,7:09
+4,5m shot - Saved,6.0,1,1,NZL,2.0,SMITH L,4 - 1,400,NZL,6:40
+4,Turnover foul,2.0,1,1,NZL,2.0,APPEL J,4 - 1,383,AUS,6:23
+4,5m shot - Missed,7.0,1,1,NZL,2.0,LANDRY S,4 - 1,359,NZL,5:59
+4,Action shot - Saved,3.0,1,1,NZL,2.0,BUCKLING H,4 - 1,333,AUS,5:33
+4,5m shot - Missed,11.0,1,1,NZL,2.0,HUDSON K,4 - 1,318,NZL,5:18
+4,20 sec. exclusion in field,2.0,1,1,NZL,2.0,COX E,4 - 1,296,NZL,4:56
+5,Extra player shot - Goal,10.0,1,1,NZL,2.0,SOUTHERN A,5 - 1,287,AUS,4:47
+5,Action shot - Missed,12.0,1,1,NZL,2.0,MYLES A,5 - 1,263,NZL,4:23
+6,Centre shot - Goal,4.0,1,1,NZL,2.0,LINCOLN-SMITH H,6 - 1,244,AUS,4:04
+6,20 sec. exclusion in centre,3.0,1,1,NZL,2.0,BUCKLING H,6 - 1,226,AUS,3:46
+6,Extra player shot - Goal,3.0,1,2,NZL,2.0,MASON K,6 - 2,207,NZL,3:27
+7,Centre shot - Goal,2.0,1,2,NZL,2.0,APPEL J,7 - 2,194,AUS,3:14
+7,Action shot - Goal,10.0,1,3,NZL,2.0,BOWRY C,7 - 3,176,NZL,2:56
+7,Centre shot - Saved,2.0,1,3,NZL,2.0,APPEL J,7 - 3,151,AUS,2:31
+7,5m shot - Saved,3.0,1,3,NZL,2.0,MASON K,7 - 3,127,NZL,2:07
+7,5m shot - Saved,6.0,1,3,NZL,2.0,KNOX B,7 - 3,97,AUS,1:37
+7,5m shot - Saved,10.0,1,3,NZL,2.0,BOWRY C,7 - 3,67,NZL,1:07
+7,5m shot - Saved,6.0,1,3,NZL,2.0,KNOX B,7 - 3,37,AUS,0:37
+7,5m shot - Blocked,10.0,1,3,NZL,2.0,BOWRY C,7 - 3,15,NZL,0:15
+7,5m shot - Missed,10.0,1,3,NZL,2.0,BOWRY C,7 - 3,7,NZL,0:07
+7,Starting goalkeeper,13.0,1,3,NZL,3.0,WAKEFIELD K,7 - 3,480,AUS,8:00
+7,Starting goalkeeper,1.0,1,3,NZL,3.0,MILLAR B,7 - 3,480,NZL,8:00
+7,Sprint won possession,7.0,1,3,NZL,3.0,LANDRY S,7 - 3,480,NZL,8:00
+7,5m shot - Saved,3.0,1,3,NZL,3.0,MASON K,7 - 3,459,NZL,7:39
+8,5m shot - Goal,11.0,1,3,NZL,3.0,GOFERS K,8 - 3,441,AUS,7:21
+8,5m shot - Saved,8.0,1,3,NZL,3.0,LEWIS D,8 - 3,414,NZL,6:54
+8,Action shot - Saved,11.0,1,3,NZL,3.0,GOFERS K,8 - 3,395,AUS,6:35
+8,20 sec. exclusion in centre,3.0,1,3,NZL,3.0,MASON K,8 - 3,379,NZL,6:19
+8,Extra player shot - Saved,7.0,1,3,NZL,3.0,WEBSTER R,8 - 3,368,AUS,6:08
+9,Action shot - Goal,7.0,1,3,NZL,3.0,WEBSTER R,9 - 3,340,AUS,5:40
+9,20 sec. exclusion in centre,6.0,1,3,NZL,3.0,KNOX B,9 - 3,323,AUS,5:23
+9,Extra player shot - Saved,9.0,1,3,NZL,3.0,SIEPRATH L,9 - 3,315,NZL,5:15
+9,5m shot - Saved,12.0,1,3,NZL,3.0,ZAGAME N,9 - 3,281,AUS,4:41
+9,Centre shot - Missed,2.0,1,3,NZL,3.0,APPEL J,9 - 3,274,AUS,4:34
+9,20 sec. exclusion in centre,8.0,1,3,NZL,3.0,McGHIE G,9 - 3,255,AUS,4:15
+9,Time-Out,,1,3,NZL,3.0,,9 - 3,255,NZL,4:15
+9,5m shot - Blocked,3.0,1,3,NZL,3.0,MASON K,9 - 3,229,NZL,3:49
+10,Action shot - Goal,12.0,1,3,NZL,3.0,ZAGAME N,10 - 3,219,AUS,3:39
+10,Turnover foul,6.0,1,3,NZL,3.0,SMITH L,10 - 3,202,NZL,3:22
+10,Steal,7.0,1,3,NZL,3.0,WEBSTER R,10 - 3,202,AUS,3:22
+10,Turnover foul,4.0,1,3,NZL,3.0,LINCOLN-SMITH H,10 - 3,182,AUS,3:02
+10,20 sec. exclusion in centre,7.0,1,3,NZL,3.0,WEBSTER R,10 - 3,163,AUS,2:43
+10,Extra player shot - Post,11.0,1,3,NZL,3.0,HUDSON K,10 - 3,146,NZL,2:26
+10,5m shot - Post,6.0,1,3,NZL,3.0,KNOX B,10 - 3,116,AUS,1:56
+10,Turnover foul,10.0,1,3,NZL,3.0,BOWRY C,10 - 3,89,NZL,1:29
+10,Steal,3.0,1,3,NZL,3.0,BUCKLING H,10 - 3,89,AUS,1:29
+10,Penalty foul,10.0,1,3,NZL,3.0,BOWRY C,10 - 3,81,NZL,1:21
+11,Penalty shot - Goal,10.0,1,3,NZL,3.0,SOUTHERN A,11 - 3,81,AUS,1:21
+11,5m shot - Saved,7.0,1,3,NZL,3.0,LANDRY S,11 - 3,57,NZL,0:57
+11,Turnover foul,9.0,1,3,NZL,3.0,SIEPRATH L,11 - 3,41,NZL,0:41
+11,Steal,9.0,1,3,NZL,3.0,ARANCINI Z,11 - 3,41,AUS,0:41
+11,Turnover foul,11.0,1,3,NZL,3.0,GOFERS K,11 - 3,26,AUS,0:26
+11,5m shot - Missed,6.0,1,3,NZL,3.0,SMITH L,11 - 3,6,NZL,0:06
+11,Starting goalkeeper,13.0,1,3,NZL,4.0,WAKEFIELD K,11 - 3,480,AUS,8:00
+11,Starting goalkeeper,1.0,1,3,NZL,4.0,MILLAR B,11 - 3,480,NZL,8:00
+11,Sprint won possession,8.0,1,3,NZL,4.0,McGHIE G,11 - 3,480,AUS,8:00
+11,Turnover foul,9.0,1,3,NZL,4.0,SIEPRATH L,11 - 3,421,NZL,7:01
+11,Steal,7.0,1,3,NZL,4.0,WEBSTER R,11 - 3,421,AUS,7:01
+11,Turnover foul,7.0,1,3,NZL,4.0,WEBSTER R,11 - 3,394,AUS,6:34
+11,Steal,6.0,1,3,NZL,4.0,SMITH L,11 - 3,394,NZL,6:34
+11,5m shot - Blocked,6.0,1,3,NZL,4.0,SMITH L,11 - 3,372,NZL,6:12
+11,Action shot - Saved,7.0,1,3,NZL,4.0,WEBSTER R,11 - 3,346,AUS,5:46
+11,Turnover foul,8.0,1,3,NZL,4.0,LEWIS D,11 - 3,319,NZL,5:19
+11,Steal,8.0,1,3,NZL,4.0,McGHIE G,11 - 3,319,AUS,5:19
+12,Centre shot - Goal,3.0,1,3,NZL,4.0,BUCKLING H,12 - 3,307,AUS,5:07
+12,5m shot - Missed,10.0,1,3,NZL,4.0,BOWRY C,12 - 3,286,NZL,4:46
+12,Turnover foul,10.0,1,3,NZL,4.0,SOUTHERN A,12 - 3,281,AUS,4:41
+12,5m shot - Goal,3.0,1,4,NZL,4.0,MASON K,12 - 4,275,NZL,4:35
+12,5m shot - Post,10.0,1,4,NZL,4.0,SOUTHERN A,12 - 4,256,AUS,4:16
+12,5m shot - Missed,12.0,1,4,NZL,4.0,MYLES A,12 - 4,231,NZL,3:51
+12,Action shot - Missed,8.0,1,4,NZL,4.0,McGHIE G,12 - 4,205,AUS,3:25
+12,Turnover foul,9.0,1,4,NZL,4.0,SIEPRATH L,12 - 4,193,NZL,3:13
+12,Steal,5.0,1,4,NZL,4.0,BISHOP I,12 - 4,193,AUS,3:13
+12,Time-Out,,1,4,NZL,4.0,,12 - 4,191,AUS,3:11
+12,20 sec. exclusion in centre,3.0,1,4,NZL,4.0,MASON K,12 - 4,165,NZL,2:45
+12,Turnover foul,11.0,1,4,NZL,4.0,GOFERS K,12 - 4,153,AUS,2:33
+12,5m shot - Saved,8.0,1,4,NZL,4.0,LEWIS D,12 - 4,124,NZL,2:04
+13,Centre shot - Goal,4.0,1,4,NZL,4.0,LINCOLN-SMITH H,13 - 4,109,AUS,1:49
+13,Action shot - Saved,6.0,1,4,NZL,4.0,SMITH L,13 - 4,83,NZL,1:23
+13,20 sec. exclusion in centre,10.0,1,4,NZL,4.0,BOWRY C,13 - 4,65,NZL,1:05
+13,Time-Out,,1,4,NZL,4.0,,13 - 4,65,AUS,1:05
+14,5m shot - Goal,7.0,1,4,NZL,4.0,WEBSTER R,14 - 4,49,AUS,0:49
+14,5m shot - Saved,11.0,1,4,NZL,4.0,HUDSON K,14 - 4,23,NZL,0:23
+14,20 sec. exclusion in field,8.0,1,4,NZL,4.0,LEWIS D,14 - 4,18,NZL,0:18
+15,Extra player shot - Goal,9.0,1,4,NZL,4.0,ARANCINI Z,15 - 4,2,AUS,0:02
+15,5m shot - Saved,11.0,1,4,NZL,4.0,HUDSON K,15 - 4,1,NZL,0:01
+0,Starting goalkeeper,1.0,2,0,CHN,1.0,YANG J,0 - 0,480,CHN,8:00
+0,Starting goalkeeper,13.0,2,0,CHN,1.0,WAKEFIELD K,0 - 0,480,AUS,8:00
+0,Sprint won possession,12.0,2,0,CHN,1.0,ZAGAME N,0 - 0,480,AUS,8:00
+0,Action shot - Saved,10.0,2,0,CHN,1.0,SOUTHERN A,0 - 0,457,AUS,7:37
+0,Turnover foul,4.0,2,0,CHN,1.0,SUN Y,0 - 0,441,CHN,7:21
+0,Steal,13.0,2,0,CHN,1.0,WAKEFIELD K,0 - 0,441,AUS,7:21
+0,Action shot - Blocked,5.0,2,0,CHN,1.0,BISHOP I,0 - 0,411,AUS,6:51
+0,Action shot - Goal,3.0,2,1,CHN,1.0,LIU P,0 - 1,388,CHN,6:28
+0,Turnover foul,12.0,2,1,CHN,1.0,ZAGAME N,0 - 1,364,AUS,6:04
+0,Steal,1.0,2,1,CHN,1.0,YANG J,0 - 1,364,CHN,6:04
+0,Turnover foul,7.0,2,1,CHN,1.0,WEBSTER R,0 - 1,338,AUS,5:38
+0,20 sec. exclusion in field,7.0,2,1,CHN,1.0,WEBSTER R,0 - 1,329,AUS,5:29
+0,Extra player shot - Saved,2.0,2,1,CHN,1.0,TENG F,0 - 1,310,CHN,5:10
+0,Action shot - Missed,2.0,2,1,CHN,1.0,TENG F,0 - 1,305,CHN,5:05
+1,Action shot - Goal,7.0,2,1,CHN,1.0,WEBSTER R,1 - 1,289,AUS,4:49
+1,Turnover foul,5.0,2,1,CHN,1.0,HE J,1 - 1,271,CHN,4:31
+1,Steal,8.0,2,1,CHN,1.0,McGHIE G,1 - 1,271,AUS,4:31
+1,20 sec. exclusion in centre,10.0,2,1,CHN,1.0,MA H,1 - 1,248,CHN,4:08
+1,Centre shot - Missed,2.0,2,1,CHN,1.0,APPEL J,1 - 1,218,AUS,3:38
+1,Action shot - Goal,4.0,2,2,CHN,1.0,SUN Y,1 - 2,201,CHN,3:21
+1,Action shot - Missed,6.0,2,2,CHN,1.0,KNOX B,1 - 2,178,AUS,2:58
+1,20 sec. exclusion in centre,12.0,2,2,CHN,1.0,ZAGAME N,1 - 2,158,AUS,2:38
+1,Centre shot - Goal,3.0,2,3,CHN,1.0,LIU P,1 - 3,136,CHN,2:16
+1,Action shot - Post,10.0,2,3,CHN,1.0,SOUTHERN A,1 - 3,107,AUS,1:47
+1,Action shot - Saved,2.0,2,3,CHN,1.0,TENG F,1 - 3,87,CHN,1:27
+1,Steal,5.0,2,3,CHN,1.0,HE J,1 - 3,65,CHN,1:05
+1,Turnover foul,7.0,2,3,CHN,1.0,WEBSTER R,1 - 3,65,AUS,1:05
+1,20 sec. exclusion in field,8.0,2,3,CHN,1.0,McGHIE G,1 - 3,59,AUS,0:59
+1,Turnover foul,2.0,2,3,CHN,1.0,TENG F,1 - 3,52,CHN,0:52
+1,Steal,10.0,2,3,CHN,1.0,SOUTHERN A,1 - 3,52,AUS,0:52
+1,20 sec. exclusion in centre,7.0,2,3,CHN,1.0,SONG D,1 - 3,22,CHN,0:22
+1,Time-Out,,2,3,CHN,1.0,,1 - 3,21,AUS,0:21
+1,Starting goalkeeper,1.0,2,3,CHN,2.0,YANG J,1 - 3,480,CHN,8:00
+1,Starting goalkeeper,13.0,2,3,CHN,2.0,WAKEFIELD K,1 - 3,480,AUS,8:00
+1,Sprint won possession,4.0,2,3,CHN,2.0,SUN Y,1 - 3,480,CHN,8:00
+1,Turnover foul,6.0,2,3,CHN,2.0,SUN Y,1 - 3,459,CHN,7:39
+1,Steal,7.0,2,3,CHN,2.0,WEBSTER R,1 - 3,459,AUS,7:39
+2,Centre shot - Goal,4.0,2,3,CHN,2.0,LINCOLN-SMITH H,2 - 3,433,AUS,7:13
+2,Turnover foul,6.0,2,3,CHN,2.0,SUN Y,2 - 3,409,CHN,6:49
+2,Turnover foul,7.0,2,3,CHN,2.0,WEBSTER R,2 - 3,381,AUS,6:21
+2,Turnover foul,6.0,2,3,CHN,2.0,SUN Y,2 - 3,364,CHN,6:04
+3,Counter attack - Goal,8.0,2,3,CHN,2.0,McGHIE G,3 - 3,354,AUS,5:54
+3,20 sec. exclusion in centre,6.0,2,3,CHN,2.0,KNOX B,3 - 3,335,AUS,5:35
+3,5m shot - Goal,10.0,2,4,CHN,2.0,MA H,3 - 4,310,CHN,5:10
+3,20 sec. exclusion in centre,3.0,2,4,CHN,2.0,LIU P,3 - 4,287,CHN,4:47
+3,Extra player shot - Post,12.0,2,4,CHN,2.0,ZAGAME N,3 - 4,269,AUS,4:29
+3,Action shot - Blocked,12.0,2,4,CHN,2.0,XIA Q,3 - 4,239,CHN,3:59
+3,Turnover foul,12.0,2,4,CHN,2.0,ZAGAME N,3 - 4,216,AUS,3:36
+3,Steal,2.0,2,4,CHN,2.0,TENG F,3 - 4,216,CHN,3:36
+3,Turnover foul,4.0,2,4,CHN,2.0,SUN Y,3 - 4,202,CHN,3:22
+3,Steal,12.0,2,4,CHN,2.0,ZAGAME N,3 - 4,202,AUS,3:22
+4,Action shot - Goal,8.0,2,4,CHN,2.0,McGHIE G,4 - 4,183,AUS,3:03
+4,Turnover foul,6.0,2,4,CHN,2.0,SUN Y,4 - 4,162,CHN,2:42
+4,20 sec. exclusion in field,4.0,2,4,CHN,2.0,SUN Y,4 - 4,160,CHN,2:40
+4,Action shot - Saved,5.0,2,4,CHN,2.0,BISHOP I,4 - 4,131,AUS,2:11
+4,Action shot - Saved,2.0,2,4,CHN,2.0,TENG F,4 - 4,105,CHN,1:45
+4,Centre shot - Saved,4.0,2,4,CHN,2.0,LINCOLN-SMITH H,4 - 4,78,AUS,1:18
+4,20 sec. exclusion in field,7.0,2,4,CHN,2.0,WEBSTER R,4 - 4,77,AUS,1:17
+4,Extra player shot - Goal,11.0,2,5,CHN,2.0,ZHANG C,4 - 5,64,CHN,1:04
+4,Action shot - Saved,10.0,2,5,CHN,2.0,SOUTHERN A,4 - 5,35,AUS,0:35
+4,Action shot - Post,9.0,2,5,CHN,2.0,ARANCINI Z,4 - 5,11,AUS,0:11
+4,Starting goalkeeper,1.0,2,5,CHN,3.0,YANG J,4 - 5,480,CHN,8:00
+4,Starting goalkeeper,13.0,2,5,CHN,3.0,WAKEFIELD K,4 - 5,480,AUS,8:00
+4,Time-Out,,2,5,CHN,4.0,,4 - 5,103,AUS,1:43
+13,Action shot - Goal,5.0,2,5,CHN,4.0,BISHOP I,13 - 5,79,AUS,1:19
+13,Action shot - Blocked,3.0,2,5,CHN,4.0,LIU P,13 - 5,51,CHN,0:51
+13,Turnover foul,11.0,2,5,CHN,4.0,GOFERS K,13 - 5,45,AUS,0:45
+13,Steal,6.0,2,5,CHN,4.0,SUN Y,13 - 5,45,CHN,0:45
+13,Sprint won possession,6.0,2,5,CHN,3.0,SUN Y,13 - 5,480,CHN,8:00
+13,20 sec. exclusion in centre,3.0,2,5,CHN,3.0,BUCKLING H,13 - 5,463,AUS,7:43
+13,Turnover foul,11.0,2,5,CHN,3.0,ZHANG C,13 - 5,436,CHN,7:16
+13,Steal,3.0,2,5,CHN,3.0,BUCKLING H,13 - 5,436,AUS,7:16
+13,Action shot - Saved,10.0,2,5,CHN,3.0,SOUTHERN A,13 - 5,414,AUS,6:54
+13,Turnover foul,2.0,2,5,CHN,3.0,TENG F,13 - 5,399,CHN,6:39
+13,Steal,6.0,2,5,CHN,3.0,KNOX B,13 - 5,399,AUS,6:39
+13,20 sec. exclusion in field,4.0,2,5,CHN,3.0,SUN Y,13 - 5,394,CHN,6:34
+5,Extra player shot - Goal,12.0,2,5,CHN,3.0,ZAGAME N,5 - 5,386,AUS,6:26
+5,Turnover foul,7.0,2,5,CHN,3.0,SONG D,5 - 5,360,CHN,6:00
+5,Steal,2.0,2,5,CHN,3.0,APPEL J,5 - 5,360,AUS,6:00
+5,Action shot - Post,8.0,2,5,CHN,3.0,McGHIE G,5 - 5,331,AUS,5:31
+5,5m shot - Missed,10.0,2,5,CHN,3.0,MA H,5 - 5,312,CHN,5:12
+5,Turnover foul,8.0,2,5,CHN,3.0,McGHIE G,5 - 5,311,AUS,5:11
+5,Turnover foul,4.0,2,5,CHN,3.0,SUN Y,5 - 5,297,CHN,4:57
+5,Steal,2.0,2,5,CHN,3.0,APPEL J,5 - 5,297,AUS,4:57
+6,Action shot - Goal,8.0,2,5,CHN,3.0,McGHIE G,6 - 5,272,AUS,4:32
+6,Turnover foul,5.0,2,5,CHN,3.0,HE J,6 - 5,251,CHN,4:11
+6,Steal,9.0,2,5,CHN,3.0,ARANCINI Z,6 - 5,251,AUS,4:11
+7,Centre shot - Goal,9.0,2,5,CHN,3.0,ARANCINI Z,7 - 5,228,AUS,3:48
+7,Action shot - Blocked,11.0,2,5,CHN,3.0,ZHANG C,7 - 5,203,CHN,3:23
+8,Action shot - Goal,6.0,2,5,CHN,3.0,KNOX B,8 - 5,175,AUS,2:55
+8,Action shot - Saved,11.0,2,5,CHN,3.0,ZHANG C,8 - 5,151,CHN,2:31
+8,20 sec. exclusion in field,3.0,2,5,CHN,3.0,BUCKLING H,8 - 5,139,AUS,2:19
+8,Turnover foul,5.0,2,5,CHN,3.0,HE J,8 - 5,135,CHN,2:15
+8,Steal,4.0,2,5,CHN,3.0,LINCOLN-SMITH H,8 - 5,135,AUS,2:15
+8,Turnover foul,7.0,2,5,CHN,3.0,WEBSTER R,8 - 5,106,AUS,1:46
+8,Steal,1.0,2,5,CHN,3.0,YANG J,8 - 5,106,CHN,1:46
+8,20 sec. exclusion in field,11.0,2,5,CHN,3.0,GOFERS K,8 - 5,95,AUS,1:35
+8,Time-Out,,2,5,CHN,3.0,,8 - 5,95,CHN,1:35
+8,Turnover foul,6.0,2,5,CHN,3.0,SUN Y,8 - 5,70,CHN,1:10
+8,Steal,10.0,2,5,CHN,3.0,SOUTHERN A,8 - 5,70,AUS,1:10
+8,20 sec. exclusion in centre,3.0,2,5,CHN,3.0,LIU P,8 - 5,42,CHN,0:42
+9,Extra player shot - Goal,12.0,2,5,CHN,3.0,ZAGAME N,9 - 5,30,AUS,0:30
+9,Action shot - Missed,12.0,2,5,CHN,3.0,XIA Q,9 - 5,13,CHN,0:13
+9,20 sec. exclusion in field,12.0,2,5,CHN,3.0,XIA Q,9 - 5,12,CHN,0:12
+10,Extra player shot - Goal,10.0,2,5,CHN,3.0,SOUTHERN A,10 - 5,1,AUS,0:01
+10,5m shot - Blocked,7.0,2,5,CHN,3.0,SONG D,10 - 5,1,CHN,0:01
+10,Starting goalkeeper,13.0,2,5,CHN,4.0,WAKEFIELD K,10 - 5,480,AUS,8:00
+10,Starting goalkeeper,1.0,2,5,CHN,4.0,YANG J,10 - 5,480,CHN,8:00
+10,Sprint won possession,12.0,2,5,CHN,4.0,ZAGAME N,10 - 5,480,AUS,8:00
+10,Action shot - Post,8.0,2,5,CHN,4.0,McGHIE G,10 - 5,452,AUS,7:32
+10,5m shot - Saved,10.0,2,5,CHN,4.0,MA H,10 - 5,430,CHN,7:10
+10,Turnover foul,5.0,2,5,CHN,4.0,HE J,10 - 5,410,CHN,6:50
+10,Turnover foul,4.0,2,5,CHN,4.0,LINCOLN-SMITH H,10 - 5,387,AUS,6:27
+10,Steal,1.0,2,5,CHN,4.0,YANG J,10 - 5,387,CHN,6:27
+10,Turnover foul,1.0,2,5,CHN,4.0,YANG J,10 - 5,386,CHN,6:26
+10,20 sec. exclusion in centre,4.0,2,5,CHN,4.0,SUN Y,10 - 5,372,CHN,6:12
+10,Exclusion with substitution,4.0,2,5,CHN,4.0,SUN Y,10 - 5,372,CHN,6:12
+10,Action shot - Blocked,10.0,2,5,CHN,4.0,SOUTHERN A,10 - 5,349,AUS,5:49
+10,5m shot - Blocked,10.0,2,5,CHN,4.0,MA H,10 - 5,320,CHN,5:20
+10,Action shot - Post,8.0,2,5,CHN,4.0,McGHIE G,10 - 5,290,AUS,4:50
+10,20 sec. exclusion in centre,6.0,2,5,CHN,4.0,KNOX B,10 - 5,270,AUS,4:30
+10,Extra player shot - Blocked,11.0,2,5,CHN,4.0,ZHANG C,10 - 5,251,CHN,4:11
+10,Turnover foul,8.0,2,5,CHN,4.0,XU L,10 - 5,233,CHN,3:53
+10,Steal,10.0,2,5,CHN,4.0,SOUTHERN A,10 - 5,233,AUS,3:53
+11,Counter attack - Goal,10.0,2,5,CHN,4.0,SOUTHERN A,11 - 5,218,AUS,3:38
+11,Action shot - Post,8.0,2,5,CHN,4.0,XU L,11 - 5,193,CHN,3:13
+12,Action shot - Goal,5.0,2,5,CHN,4.0,BISHOP I,12 - 5,172,AUS,2:52
+12,Turnover foul,6.0,2,5,CHN,4.0,SUN Y,12 - 5,153,CHN,2:33
+12,Steal,12.0,2,5,CHN,4.0,ZAGAME N,12 - 5,153,AUS,2:33
+12,Action shot - Saved,5.0,2,5,CHN,4.0,BISHOP I,12 - 5,125,AUS,2:05
+12,20 sec. exclusion in centre,8.0,2,5,CHN,4.0,XU L,12 - 5,103,CHN,1:43
+12,Turnover foul,6.0,2,5,CHN,4.0,SUN Y,12 - 5,42,CHN,0:42
+12,Steal,9.0,2,5,CHN,4.0,ARANCINI Z,12 - 5,42,AUS,0:42
+14,Centre shot - Goal,7.0,2,5,CHN,4.0,WEBSTER R,14 - 5,15,AUS,0:15
+14,5m shot - Missed,11.0,2,5,CHN,4.0,ZHANG C,14 - 5,1,CHN,0:01
+0,Starting goalkeeper,1.0,3,0,RSA,1.0,JACOBS A,0 - 0,480,RSA,8:00
+0,Starting goalkeeper,1.0,3,0,RSA,1.0,BARTA L,0 - 0,480,AUS,8:00
+0,Sprint won possession,11.0,3,0,RSA,1.0,GOFERS K,0 - 0,480,AUS,8:00
+0,Turnover foul,2.0,3,0,RSA,1.0,APPEL J,0 - 0,454,AUS,7:34
+0,Steal,8.0,3,0,RSA,1.0,KEET L,0 - 0,454,RSA,7:34
+0,5m shot - Saved,12.0,3,0,RSA,1.0,WHITE K,0 - 0,425,RSA,7:05
+0,20 sec. exclusion in field,8.0,3,0,RSA,1.0,KEET L,0 - 0,405,RSA,6:45
+0,Turnover foul,6.0,3,0,RSA,1.0,KNOX B,0 - 0,386,AUS,6:26
+0,Steal,2.0,3,0,RSA,1.0,SCHMIDT K,0 - 0,386,RSA,6:26
+0,Turnover foul,12.0,3,0,RSA,1.0,WHITE K,0 - 0,358,RSA,5:58
+0,Steal,11.0,3,0,RSA,1.0,GOFERS K,0 - 0,358,AUS,5:58
+0,20 sec. exclusion in field,6.0,3,0,RSA,1.0,SCHOOLING T,0 - 0,338,RSA,5:38
+0,Extra player shot - Missed,7.0,3,0,RSA,1.0,WEBSTER R,0 - 0,326,AUS,5:26
+0,Turnover foul,8.0,3,0,RSA,1.0,KEET L,0 - 0,301,RSA,5:01
+0,Steal,7.0,3,0,RSA,1.0,WEBSTER R,0 - 0,301,AUS,5:01
+0,Action shot - Saved,11.0,3,0,RSA,1.0,GOFERS K,0 - 0,288,AUS,4:48
+0,Action shot - Post,9.0,3,0,RSA,1.0,ARANCINI Z,0 - 0,269,AUS,4:29
+0,Turnover foul,8.0,3,0,RSA,1.0,KEET L,0 - 0,250,RSA,4:10
+0,Steal,2.0,3,0,RSA,1.0,APPEL J,0 - 0,250,AUS,4:10
+0,Turnover foul,8.0,3,0,RSA,1.0,McGHIE G,0 - 0,231,AUS,3:51
+0,Steal,7.0,3,0,RSA,1.0,KAY K,0 - 0,231,RSA,3:51
+0,Action shot - Saved,6.0,3,0,RSA,1.0,SCHOOLING T,0 - 0,201,RSA,3:21
+0,20 sec. exclusion in centre,2.0,3,0,RSA,1.0,SCHMIDT K,0 - 0,173,RSA,2:53
+0,Extra player shot - Saved,11.0,3,0,RSA,1.0,GOFERS K,0 - 0,158,AUS,2:38
+0,Penalty foul,1.0,3,0,RSA,1.0,JACOBS A,0 - 0,158,RSA,2:38
+1,Penalty shot - Goal,7.0,3,0,RSA,1.0,WEBSTER R,1 - 0,158,AUS,2:38
+1,Turnover foul,5.0,3,0,RSA,1.0,SCHOOLING M,1 - 0,141,RSA,2:21
+2,Action shot - Goal,12.0,3,0,RSA,1.0,ZAGAME N,2 - 0,125,AUS,2:05
+2,5m shot - Missed,10.0,3,0,RSA,1.0,KEET M,2 - 0,105,RSA,1:45
+2,Counter attack - Saved,10.0,3,0,RSA,1.0,SOUTHERN A,2 - 0,96,AUS,1:36
+3,Centre shot - Goal,4.0,3,0,RSA,1.0,LINCOLN-SMITH H,3 - 0,84,AUS,1:24
+3,Turnover foul,11.0,3,0,RSA,1.0,KILLEEN L,3 - 0,61,RSA,1:01
+3,Steal,10.0,3,0,RSA,1.0,SOUTHERN A,3 - 0,61,AUS,1:01
+4,Action shot - Goal,5.0,3,0,RSA,1.0,BISHOP I,4 - 0,38,AUS,0:38
+4,5m shot - Missed,12.0,3,0,RSA,1.0,WHITE K,4 - 0,19,RSA,0:19
+4,Starting goalkeeper,1.0,3,0,RSA,2.0,BARTA L,4 - 0,480,AUS,8:00
+4,Starting goalkeeper,1.0,3,0,RSA,2.0,JACOBS A,4 - 0,480,RSA,8:00
+4,Sprint won possession,12.0,3,0,RSA,2.0,WHITE K,4 - 0,480,RSA,8:00
+4,Action shot - Blocked,7.0,3,0,RSA,2.0,KAY K,4 - 0,460,RSA,7:40
+4,5m shot - Post,10.0,3,0,RSA,2.0,SOUTHERN A,4 - 0,446,AUS,7:26
+4,Turnover foul,12.0,3,0,RSA,2.0,WHITE K,4 - 0,429,RSA,7:09
+4,Steal,4.0,3,0,RSA,2.0,LINCOLN-SMITH H,4 - 0,429,AUS,7:09
+5,Action shot - Goal,4.0,3,0,RSA,2.0,LINCOLN-SMITH H,5 - 0,417,AUS,6:57
+5,Turnover foul,10.0,3,0,RSA,2.0,KEET M,5 - 0,400,RSA,6:40
+5,Steal,5.0,3,0,RSA,2.0,BISHOP I,5 - 0,400,AUS,6:40
+5,Turnover foul,9.0,3,0,RSA,2.0,ARANCINI Z,5 - 0,386,AUS,6:26
+5,20 sec. exclusion in field,10.0,3,0,RSA,2.0,SOUTHERN A,5 - 0,382,AUS,6:22
+5,Time-Out,,3,0,RSA,2.0,,5 - 0,381,RSA,6:21
+5,Action shot - Saved,12.0,3,0,RSA,2.0,WHITE K,5 - 0,352,RSA,5:52
+6,Centre shot - Goal,2.0,3,0,RSA,2.0,APPEL J,6 - 0,337,AUS,5:37
+6,Turnover foul,12.0,3,0,RSA,2.0,WHITE K,6 - 0,328,RSA,5:28
+6,Steal,6.0,3,0,RSA,2.0,KNOX B,6 - 0,328,AUS,5:28
+6,Counter attack - Post,3.0,3,0,RSA,2.0,BUCKLING H,6 - 0,315,AUS,5:15
+6,Turnover foul,3.0,3,0,RSA,2.0,BUCKLING H,6 - 0,310,AUS,5:10
+6,Turnover foul,2.0,3,0,RSA,2.0,SCHMIDT K,6 - 0,295,RSA,4:55
+6,Steal,3.0,3,0,RSA,2.0,BUCKLING H,6 - 0,295,AUS,4:55
+7,Counter attack - Goal,11.0,3,0,RSA,2.0,GOFERS K,7 - 0,286,AUS,4:46
+7,Action shot - Blocked,3.0,3,0,RSA,2.0,PALEY K,7 - 0,262,RSA,4:22
+7,Turnover foul,8.0,3,0,RSA,2.0,KEET L,7 - 0,243,RSA,4:03
+7,Action shot - Saved,8.0,3,0,RSA,2.0,McGHIE G,7 - 0,217,AUS,3:37
+7,20 sec. exclusion in centre,6.0,3,0,RSA,2.0,KNOX B,7 - 0,194,AUS,3:14
+7,Action shot - Goal,12.0,3,1,RSA,2.0,WHITE K,7 - 1,171,RSA,2:51
+7,5m shot - Post,8.0,3,1,RSA,2.0,McGHIE G,7 - 1,143,AUS,2:23
+7,Steal,3.0,3,1,RSA,4.0,BUCKLING H,7 - 1,88,AUS,1:28
+7,Action shot - Saved,7.0,3,1,RSA,4.0,WEBSTER R,7 - 1,70,AUS,1:10
+7,Turnover foul,1.0,3,1,RSA,2.0,JACOBS A,7 - 1,116,RSA,1:56
+7,Steal,12.0,3,1,RSA,2.0,ZAGAME N,7 - 1,116,AUS,1:56
+8,Action shot - Goal,7.0,3,1,RSA,2.0,WEBSTER R,8 - 1,102,AUS,1:42
+8,20 sec. exclusion in field,4.0,3,1,RSA,2.0,LINCOLN-SMITH H,8 - 1,85,AUS,1:25
+8,Extra player shot - Blocked,7.0,3,1,RSA,2.0,KAY K,8 - 1,73,RSA,1:13
+8,Turnover foul,7.0,3,1,RSA,2.0,WEBSTER R,8 - 1,47,AUS,0:47
+8,Steal,10.0,3,1,RSA,2.0,KEET M,8 - 1,47,RSA,0:47
+8,Action shot - Post,12.0,3,1,RSA,2.0,WHITE K,8 - 1,19,RSA,0:19
+8,20 sec. exclusion in field,10.0,3,1,RSA,2.0,KEET M,8 - 1,6,RSA,0:06
+9,Extra player shot - Goal,7.0,3,1,RSA,2.0,WEBSTER R,9 - 1,3,AUS,0:03
+9,5m shot - Saved,12.0,3,1,RSA,2.0,WHITE K,9 - 1,1,RSA,0:01
+9,Starting goalkeeper,13.0,3,1,RSA,3.0,WAKEFIELD K,9 - 1,480,AUS,8:00
+9,Starting goalkeeper,1.0,3,1,RSA,3.0,JACOBS A,9 - 1,480,RSA,8:00
+9,Sprint won possession,12.0,3,1,RSA,3.0,ZAGAME N,9 - 1,480,AUS,8:00
+9,20 sec. exclusion in field,10.0,3,1,RSA,3.0,KEET M,9 - 1,458,RSA,7:38
+10,Extra player shot - Goal,9.0,3,1,RSA,3.0,ARANCINI Z,10 - 1,443,AUS,7:23
+10,Turnover foul,5.0,3,1,RSA,3.0,SCHOOLING M,10 - 1,424,RSA,7:04
+10,Steal,8.0,3,1,RSA,3.0,McGHIE G,10 - 1,424,AUS,7:04
+10,5m shot - Missed,4.0,3,1,RSA,3.0,LINCOLN-SMITH H,10 - 1,398,AUS,6:38
+10,5m shot - Blocked,7.0,3,1,RSA,3.0,KAY K,10 - 1,368,RSA,6:08
+10,Turnover foul,2.0,3,1,RSA,3.0,APPEL J,10 - 1,341,AUS,5:41
+10,Steal,7.0,3,1,RSA,3.0,KAY K,10 - 1,341,RSA,5:41
+10,Turnover foul,7.0,3,1,RSA,3.0,KAY K,10 - 1,322,RSA,5:22
+10,20 sec. exclusion in centre,12.0,3,1,RSA,3.0,WHITE K,10 - 1,297,RSA,4:57
+11,Action shot - Goal,9.0,3,1,RSA,3.0,ARANCINI Z,11 - 1,279,AUS,4:39
+11,20 sec. exclusion in centre,3.0,3,1,RSA,3.0,BUCKLING H,11 - 1,261,AUS,4:21
+11,Extra player shot - Saved,5.0,3,1,RSA,3.0,SCHOOLING M,11 - 1,242,RSA,4:02
+11,Action shot - Post,7.0,3,1,RSA,3.0,WEBSTER R,11 - 1,219,AUS,3:39
+11,Turnover foul,7.0,3,1,RSA,3.0,KAY K,11 - 1,191,RSA,3:11
+11,Steal,4.0,3,1,RSA,3.0,LINCOLN-SMITH H,11 - 1,191,AUS,3:11
+12,Centre shot - Goal,4.0,3,1,RSA,3.0,LINCOLN-SMITH H,12 - 1,172,AUS,2:52
+12,Action shot - Missed,6.0,3,1,RSA,3.0,SCHOOLING T,12 - 1,149,RSA,2:29
+12,Action shot - Saved,3.0,3,1,RSA,3.0,BUCKLING H,12 - 1,138,AUS,2:18
+12,Turnover foul,2.0,3,1,RSA,3.0,SCHMIDT K,12 - 1,108,RSA,1:48
+12,Steal,5.0,3,1,RSA,3.0,BISHOP I,12 - 1,108,AUS,1:48
+13,Counter attack - Goal,10.0,3,1,RSA,3.0,SOUTHERN A,13 - 1,101,AUS,1:41
+13,Turnover foul,5.0,3,1,RSA,3.0,SCHOOLING M,13 - 1,83,RSA,1:23
+13,Steal,11.0,3,1,RSA,3.0,GOFERS K,13 - 1,83,AUS,1:23
+13,Penalty foul,2.0,3,1,RSA,3.0,SCHMIDT K,13 - 1,73,RSA,1:13
+14,Penalty shot - Goal,10.0,3,1,RSA,3.0,SOUTHERN A,14 - 1,73,AUS,1:13
+14,Centre shot - Missed,3.0,3,1,RSA,3.0,PALEY K,14 - 1,62,RSA,1:02
+14,Turnover foul,4.0,3,1,RSA,3.0,LINCOLN-SMITH H,14 - 1,41,AUS,0:41
+14,Steal,5.0,3,1,RSA,3.0,SCHOOLING M,14 - 1,41,RSA,0:41
+14,Turnover foul,3.0,3,1,RSA,3.0,PALEY K,14 - 1,14,RSA,0:14
+14,Steal,4.0,3,1,RSA,3.0,LINCOLN-SMITH H,14 - 1,14,AUS,0:14
+14,Action shot - Missed,4.0,3,1,RSA,3.0,LINCOLN-SMITH H,14 - 1,2,AUS,0:02
+14,Starting goalkeeper,1.0,3,1,RSA,4.0,JACOBS A,14 - 1,480,RSA,8:00
+14,Starting goalkeeper,13.0,3,1,RSA,4.0,WAKEFIELD K,14 - 1,480,AUS,8:00
+14,Sprint won possession,11.0,3,1,RSA,4.0,GOFERS K,14 - 1,480,AUS,8:00
+14,Action shot - Saved,9.0,3,1,RSA,4.0,ARANCINI Z,14 - 1,452,AUS,7:32
+14,5m shot - Blocked,5.0,3,1,RSA,4.0,BISHOP I,14 - 1,392,AUS,6:32
+14,Centre shot - Missed,11.0,3,1,RSA,4.0,GOFERS K,14 - 1,343,AUS,5:43
+15,Action shot - Goal,5.0,3,1,RSA,4.0,BISHOP I,15 - 1,305,AUS,5:05
+15,5m shot - Missed,11.0,3,1,RSA,4.0,GOFERS K,15 - 1,250,AUS,4:10
+15,Centre shot - Missed,7.0,3,1,RSA,4.0,KAY K,15 - 1,232,RSA,3:52
+15,Turnover foul,2.0,3,1,RSA,4.0,APPEL J,15 - 1,205,AUS,3:25
+15,Steal,5.0,3,1,RSA,4.0,SCHOOLING M,15 - 1,205,RSA,3:25
+15,Time-Out,,3,1,RSA,4.0,,15 - 1,199,RSA,3:19
+15,5m shot - Missed,10.0,3,1,RSA,4.0,KEET M,15 - 1,177,RSA,2:57
+15,20 sec. exclusion in field,12.0,3,1,RSA,4.0,WHITE K,15 - 1,159,RSA,2:39
+16,Extra player shot - Goal,6.0,3,1,RSA,4.0,KNOX B,16 - 1,154,AUS,2:34
+16,Turnover foul,4.0,3,1,RSA,4.0,LINCOLN-SMITH H,16 - 1,110,AUS,1:50
+16,Turnover foul,5.0,3,1,RSA,4.0,SCHOOLING M,16 - 1,88,RSA,1:28
+16,Turnover foul,12.0,3,1,RSA,4.0,ZAGAME N,16 - 1,34,AUS,0:34
+0,Starting goalkeeper,13.0,4,0,UZB,1.0,WAKEFIELD K,0 - 0,480,AUS,8:00
+0,Starting goalkeeper,1.0,4,0,UZB,1.0,DUKHANOVA E,0 - 0,480,UZB,8:00
+0,Sprint won possession,12.0,4,0,UZB,1.0,ZAGAME N,0 - 0,480,AUS,8:00
+0,Turnover foul,4.0,4,0,UZB,1.0,LINCOLN-SMITH H,0 - 0,451,AUS,7:31
+0,Steal,3.0,4,0,UZB,1.0,SARANCHA A,0 - 0,451,UZB,7:31
+0,Action shot - Missed,9.0,4,0,UZB,1.0,HALIKOVA R,0 - 0,428,UZB,7:08
+1,Centre shot - Goal,6.0,4,0,UZB,1.0,KNOX B,1 - 0,409,AUS,6:49
+1,Turnover foul,9.0,4,0,UZB,1.0,HALIKOVA R,1 - 0,382,UZB,6:22
+1,Steal,6.0,4,0,UZB,1.0,KNOX B,1 - 0,382,AUS,6:22
+1,Turnover foul,12.0,4,0,UZB,1.0,ZAGAME N,1 - 0,373,AUS,6:13
+1,Steal,1.0,4,0,UZB,1.0,DUKHANOVA E,1 - 0,373,UZB,6:13
+1,20 sec. exclusion in centre,6.0,4,0,UZB,1.0,KNOX B,1 - 0,356,AUS,5:56
+1,Action shot - Blocked,3.0,4,0,UZB,1.0,SARANCHA A,1 - 0,333,UZB,5:33
+2,Centre shot - Goal,4.0,4,0,UZB,1.0,LINCOLN-SMITH H,2 - 0,307,AUS,5:07
+2,Turnover foul,11.0,4,0,UZB,1.0,HAMITOVA G,2 - 0,294,UZB,4:54
+2,Steal,9.0,4,0,UZB,1.0,ARANCINI Z,2 - 0,294,AUS,4:54
+3,Centre shot - Goal,7.0,4,0,UZB,1.0,WEBSTER R,3 - 0,285,AUS,4:45
+4,Action shot - Goal,9.0,4,0,UZB,1.0,ARANCINI Z,4 - 0,238,AUS,3:58
+4,Turnover foul,11.0,4,0,UZB,1.0,HAMITOVA G,4 - 0,210,UZB,3:30
+4,Steal,9.0,4,0,UZB,1.0,ARANCINI Z,4 - 0,210,AUS,3:30
+4,Action shot - Post,8.0,4,0,UZB,1.0,McGHIE G,4 - 0,188,AUS,3:08
+4,Action shot - Post,7.0,4,0,UZB,1.0,WEBSTER R,4 - 0,170,AUS,2:50
+4,5m shot - Missed,3.0,4,0,UZB,1.0,SARANCHA A,4 - 0,143,UZB,2:23
+4,Penalty foul,2.0,4,0,UZB,1.0,DADABAEVA D,4 - 0,122,UZB,2:02
+5,Penalty shot - Goal,7.0,4,0,UZB,1.0,WEBSTER R,5 - 0,122,AUS,2:02
+5,Turnover foul,3.0,4,0,UZB,1.0,SARANCHA A,5 - 0,94,UZB,1:34
+5,Steal,7.0,4,0,UZB,1.0,WEBSTER R,5 - 0,94,AUS,1:34
+6,Centre shot - Goal,4.0,4,0,UZB,1.0,LINCOLN-SMITH H,6 - 0,79,AUS,1:19
+6,Turnover foul,9.0,4,0,UZB,1.0,HALIKOVA R,6 - 0,58,UZB,0:58
+6,Steal,6.0,4,0,UZB,1.0,KNOX B,6 - 0,58,AUS,0:58
+6,Centre shot - Saved,12.0,4,0,UZB,1.0,ZAGAME N,6 - 0,36,AUS,0:36
+6,Turnover foul,4.0,4,0,UZB,1.0,LINCOLN-SMITH H,6 - 0,22,AUS,0:22
+6,Starting goalkeeper,13.0,4,0,UZB,2.0,WAKEFIELD K,6 - 0,480,AUS,8:00
+6,Starting goalkeeper,1.0,4,0,UZB,2.0,DUKHANOVA E,6 - 0,480,UZB,8:00
+6,Sprint won possession,7.0,4,0,UZB,2.0,PLYUSOVA N,6 - 0,480,UZB,8:00
+6,Turnover foul,10.0,4,0,UZB,2.0,SOUTHERN A,6 - 0,441,AUS,7:21
+6,Turnover foul,7.0,4,0,UZB,2.0,PLYUSOVA N,6 - 0,416,UZB,6:56
+6,Steal,3.0,4,0,UZB,2.0,BUCKLING H,6 - 0,416,AUS,6:56
+6,Turnover foul,11.0,4,0,UZB,2.0,GOFERS K,6 - 0,406,AUS,6:46
+6,Steal,10.0,4,0,UZB,2.0,ZINUROVA A,6 - 0,406,UZB,6:46
+7,Action shot - Goal,3.0,4,0,UZB,2.0,BUCKLING H,7 - 0,365,AUS,6:05
+7,Penalty foul,10.0,4,0,UZB,2.0,SOUTHERN A,7 - 0,343,AUS,5:43
+7,Penalty shot - Goal,3.0,4,1,UZB,2.0,SARANCHA A,7 - 1,343,UZB,5:43
+8,Action shot - Goal,9.0,4,1,UZB,2.0,ARANCINI Z,8 - 1,328,AUS,5:28
+8,Action shot - Saved,4.0,4,1,UZB,2.0,DJUMALIEVA A,8 - 1,299,UZB,4:59
+8,Action shot - Saved,11.0,4,1,UZB,2.0,GOFERS K,8 - 1,273,AUS,4:33
+8,Action shot - Saved,11.0,4,1,UZB,2.0,GOFERS K,8 - 1,264,AUS,4:24
+9,Action shot - Goal,3.0,4,1,UZB,2.0,BUCKLING H,9 - 1,257,AUS,4:17
+9,Turnover foul,7.0,4,1,UZB,2.0,PLYUSOVA N,9 - 1,231,UZB,3:51
+9,Steal,11.0,4,1,UZB,2.0,GOFERS K,9 - 1,231,AUS,3:51
+9,20 sec. exclusion in field,10.0,4,1,UZB,2.0,ZINUROVA A,9 - 1,210,UZB,3:30
+10,Extra player shot - Goal,5.0,4,1,UZB,2.0,BISHOP I,10 - 1,202,AUS,3:22
+10,Turnover foul,2.0,4,1,UZB,2.0,APPEL J,10 - 1,167,AUS,2:47
+10,5m shot - Post,7.0,4,1,UZB,2.0,PLYUSOVA N,10 - 1,157,UZB,2:37
+10,Turnover foul,2.0,4,1,UZB,2.0,APPEL J,10 - 1,139,AUS,2:19
+10,Steal,1.0,4,1,UZB,2.0,DUKHANOVA E,10 - 1,139,UZB,2:19
+10,Turnover foul,7.0,4,1,UZB,2.0,PLYUSOVA N,10 - 1,110,UZB,1:50
+10,Steal,9.0,4,1,UZB,2.0,ARANCINI Z,10 - 1,110,AUS,1:50
+11,Action shot - Goal,5.0,4,1,UZB,2.0,BISHOP I,11 - 1,95,AUS,1:35
+11,20 sec. exclusion in centre,2.0,4,1,UZB,2.0,APPEL J,11 - 1,77,AUS,1:17
+11,Action shot - Missed,9.0,4,1,UZB,2.0,HALIKOVA R,11 - 1,55,UZB,0:55
+11,Centre shot - Saved,11.0,4,1,UZB,2.0,GOFERS K,11 - 1,44,AUS,0:44
+11,Action shot - Blocked,10.0,4,1,UZB,2.0,SOUTHERN A,11 - 1,26,AUS,0:26
+24,Counter attack - Goal,10.0,4,2,UZB,4.0,SOUTHERN A,24 - 2,70,AUS,1:10
+25,Action shot - Goal,9.0,4,2,UZB,4.0,ARANCINI Z,25 - 2,22,AUS,0:22
+25,Starting goalkeeper,1.0,4,2,UZB,3.0,BARTA L,25 - 2,480,AUS,8:00
+25,Starting goalkeeper,1.0,4,2,UZB,3.0,DUKHANOVA E,25 - 2,480,UZB,8:00
+25,Sprint won possession,12.0,4,2,UZB,3.0,ZAGAME N,25 - 2,480,AUS,8:00
+25,Penalty foul,3.0,4,2,UZB,3.0,SARANCHA A,25 - 2,458,UZB,7:38
+12,Penalty shot - Goal,3.0,4,1,UZB,3.0,BUCKLING H,12 - 1,458,AUS,7:38
+12,Turnover foul,4.0,4,1,UZB,3.0,DJUMALIEVA A,12 - 1,433,UZB,7:13
+12,Action shot - Blocked,7.0,4,1,UZB,3.0,WEBSTER R,12 - 1,404,AUS,6:44
+12,Turnover foul,6.0,4,1,UZB,3.0,KNOX B,12 - 1,364,AUS,6:04
+12,Steal,5.0,4,1,UZB,3.0,IVANOVA E,12 - 1,364,UZB,6:04
+12,Centre shot - Goal,3.0,4,2,UZB,3.0,SARANCHA A,12 - 2,337,UZB,5:37
+12,Centre shot - Missed,7.0,4,2,UZB,3.0,WEBSTER R,12 - 2,319,AUS,5:19
+12,5m shot - Blocked,7.0,4,2,UZB,3.0,PLYUSOVA N,12 - 2,289,UZB,4:49
+13,Action shot - Goal,3.0,4,2,UZB,3.0,BUCKLING H,13 - 2,274,AUS,4:34
+14,Action shot - Goal,6.0,4,2,UZB,3.0,KNOX B,14 - 2,224,AUS,3:44
+15,Centre shot - Goal,4.0,4,2,UZB,3.0,LINCOLN-SMITH H,15 - 2,177,AUS,2:57
+15,Turnover foul,9.0,4,2,UZB,3.0,HALIKOVA R,15 - 2,150,UZB,2:30
+15,Steal,7.0,4,2,UZB,3.0,WEBSTER R,15 - 2,150,AUS,2:30
+15,Turnover foul,6.0,4,2,UZB,3.0,KNOX B,15 - 2,134,AUS,2:14
+15,Turnover foul,10.0,4,2,UZB,3.0,ZINUROVA A,15 - 2,119,UZB,1:59
+15,Steal,3.0,4,2,UZB,3.0,BUCKLING H,15 - 2,119,AUS,1:59
+15,Action shot - Post,8.0,4,2,UZB,3.0,McGHIE G,15 - 2,96,AUS,1:36
+15,Turnover foul,10.0,4,2,UZB,3.0,ZINUROVA A,15 - 2,81,UZB,1:21
+15,Steal,7.0,4,2,UZB,3.0,WEBSTER R,15 - 2,81,AUS,1:21
+15,20 sec. exclusion in field,10.0,4,2,UZB,3.0,ZINUROVA A,15 - 2,78,UZB,1:18
+15,Extra player shot - Post,4.0,4,2,UZB,3.0,LINCOLN-SMITH H,15 - 2,63,AUS,1:03
+15,Turnover foul,8.0,4,2,UZB,3.0,SHCHEGLOVA A,15 - 2,40,UZB,0:40
+15,Steal,8.0,4,2,UZB,3.0,McGHIE G,15 - 2,40,AUS,0:40
+16,Action shot - Goal,6.0,4,2,UZB,3.0,KNOX B,16 - 2,11,AUS,0:11
+16,Starting goalkeeper,1.0,4,2,UZB,4.0,BARTA L,16 - 2,480,AUS,8:00
+16,Starting goalkeeper,1.0,4,2,UZB,4.0,DUKHANOVA E,16 - 2,480,UZB,8:00
+16,Sprint won possession,11.0,4,2,UZB,4.0,GOFERS K,16 - 2,480,AUS,8:00
+17,Centre shot - Goal,2.0,4,2,UZB,4.0,APPEL J,17 - 2,465,AUS,7:45
+17,Turnover foul,10.0,4,2,UZB,4.0,ZINUROVA A,17 - 2,448,UZB,7:28
+17,Steal,11.0,4,2,UZB,4.0,GOFERS K,17 - 2,448,AUS,7:28
+17,Counter attack - Saved,11.0,4,2,UZB,4.0,GOFERS K,17 - 2,434,AUS,7:14
+17,Turnover foul,8.0,4,2,UZB,4.0,SHCHEGLOVA A,17 - 2,420,UZB,7:00
+17,Steal,5.0,4,2,UZB,4.0,BISHOP I,17 - 2,420,AUS,7:00
+18,Action shot - Goal,10.0,4,2,UZB,4.0,SOUTHERN A,18 - 2,394,AUS,6:34
+18,Turnover foul,10.0,4,2,UZB,4.0,ZINUROVA A,18 - 2,366,UZB,6:06
+18,Steal,1.0,4,2,UZB,4.0,BARTA L,18 - 2,366,AUS,6:06
+18,Turnover foul,2.0,4,2,UZB,4.0,APPEL J,18 - 2,339,AUS,5:39
+18,Steal,3.0,4,2,UZB,4.0,SARANCHA A,18 - 2,339,UZB,5:39
+18,Turnover foul,8.0,4,2,UZB,4.0,SHCHEGLOVA A,18 - 2,312,UZB,5:12
+18,Steal,10.0,4,2,UZB,4.0,SOUTHERN A,18 - 2,312,AUS,5:12
+18,20 sec. exclusion in centre,9.0,4,2,UZB,4.0,HALIKOVA R,18 - 2,293,UZB,4:53
+19,Extra player shot - Goal,11.0,4,2,UZB,4.0,GOFERS K,19 - 2,280,AUS,4:40
+19,Centre shot - Saved,7.0,4,2,UZB,4.0,PLYUSOVA N,19 - 2,262,UZB,4:22
+20,Action shot - Goal,3.0,4,2,UZB,4.0,BUCKLING H,20 - 2,246,AUS,4:06
+20,Turnover foul,3.0,4,2,UZB,4.0,SARANCHA A,20 - 2,220,UZB,3:40
+20,Action shot - Saved,10.0,4,2,UZB,4.0,SOUTHERN A,20 - 2,206,AUS,3:26
+20,Turnover foul,3.0,4,2,UZB,4.0,SARANCHA A,20 - 2,190,UZB,3:10
+20,Steal,2.0,4,2,UZB,4.0,APPEL J,20 - 2,190,AUS,3:10
+21,Centre shot - Goal,5.0,4,2,UZB,4.0,BISHOP I,21 - 2,167,AUS,2:47
+21,Time-Out,,4,2,UZB,4.0,,21 - 2,167,UZB,2:47
+21,Turnover foul,4.0,4,2,UZB,4.0,DJUMALIEVA A,21 - 2,154,UZB,2:34
+21,Steal,5.0,4,2,UZB,4.0,BISHOP I,21 - 2,154,AUS,2:34
+21,Action shot - Saved,9.0,4,2,UZB,4.0,ARANCINI Z,21 - 2,140,AUS,2:20
+22,Centre shot - Goal,3.0,4,2,UZB,4.0,BUCKLING H,22 - 2,138,AUS,2:18
+22,20 sec. exclusion in field,10.0,4,2,UZB,4.0,ZINUROVA A,22 - 2,108,UZB,1:48
+22,Exclusion with substitution,10.0,4,2,UZB,4.0,ZINUROVA A,22 - 2,108,UZB,1:48
+23,Action shot - Goal,10.0,4,2,UZB,4.0,SOUTHERN A,23 - 2,87,AUS,1:27
+23,Turnover foul,4.0,4,2,UZB,4.0,DJUMALIEVA A,23 - 2,79,UZB,1:19
+23,Steal,2.0,4,2,UZB,4.0,APPEL J,23 - 2,79,AUS,1:19
+23,5m shot - Saved,7.0,4,2,UZB,4.0,PLYUSOVA N,23 - 2,1,UZB,0:01
+0,Starting goalkeeper,1.0,5,0,GRE,1.0,KOUVDOU E,0 - 0,480,GRE,8:00
+0,Starting goalkeeper,13.0,5,0,GRE,1.0,WAKEFIELD K,0 - 0,480,AUS,8:00
+0,Sprint won possession,12.0,5,0,GRE,1.0,ZAGAME N,0 - 0,480,AUS,8:00
+0,Turnover foul,4.0,5,0,GRE,1.0,LINCOLN-SMITH H,0 - 0,452,AUS,7:32
+0,Steal,2.0,5,0,GRE,1.0,TSOUKALA C,0 - 0,452,GRE,7:32
+0,Centre shot - Missed,7.0,5,0,GRE,1.0,ASIMAKI A,0 - 0,427,GRE,7:07
+0,Penalty foul,8.0,5,0,GRE,1.0,ROUMPESI A,0 - 0,407,GRE,6:47
+1,Penalty shot - Goal,10.0,5,0,GRE,1.0,SOUTHERN A,1 - 0,407,AUS,6:47
+1,20 sec. exclusion in centre,3.0,5,0,GRE,1.0,BUCKLING H,1 - 0,384,AUS,6:24
+1,Extra player shot - Goal,6.0,5,1,GRE,1.0,AVRAMIDOU A,1 - 1,368,GRE,6:08
+1,Turnover foul,4.0,5,1,GRE,1.0,LINCOLN-SMITH H,1 - 1,347,AUS,5:47
+1,Steal,4.0,5,1,GRE,1.0,PSOUNI I,1 - 1,347,GRE,5:47
+1,Turnover foul,7.0,5,1,GRE,1.0,ASIMAKI A,1 - 1,327,GRE,5:27
+2,5m shot - Goal,7.0,5,1,GRE,1.0,WEBSTER R,2 - 1,315,AUS,5:15
+2,Turnover foul,8.0,5,1,GRE,1.0,ROUMPESI A,2 - 1,304,GRE,5:04
+3,Counter attack - Goal,8.0,5,1,GRE,1.0,McGHIE G,3 - 1,291,AUS,4:51
+3,Turnover foul,10.0,5,1,GRE,1.0,MANOLIOUDAKI T,3 - 1,269,GRE,4:29
+3,Steal,2.0,5,1,GRE,1.0,APPEL J,3 - 1,269,AUS,4:29
+3,Turnover foul,3.0,5,1,GRE,1.0,BUCKLING H,3 - 1,264,AUS,4:24
+3,Action shot - Saved,10.0,5,1,GRE,1.0,MANOLIOUDAKI T,3 - 1,242,GRE,4:02
+3,Action shot - Blocked,2.0,5,1,GRE,1.0,TSOUKALA C,3 - 1,217,GRE,3:37
+3,Centre shot - Missed,12.0,5,1,GRE,1.0,ZAGAME N,3 - 1,206,AUS,3:26
+3,Turnover foul,7.0,5,1,GRE,1.0,ASIMAKI A,3 - 1,190,GRE,3:10
+3,Steal,8.0,5,1,GRE,1.0,McGHIE G,3 - 1,190,AUS,3:10
+3,Centre shot - Saved,2.0,5,1,GRE,1.0,APPEL J,3 - 1,162,AUS,2:42
+3,Turnover foul,6.0,5,1,GRE,1.0,KNOX B,3 - 1,140,AUS,2:20
+3,Steal,7.0,5,1,GRE,1.0,ASIMAKI A,3 - 1,140,GRE,2:20
+3,Turnover foul,2.0,5,1,GRE,1.0,APPEL J,3 - 1,90,AUS,1:30
+3,Turnover foul,8.0,5,1,GRE,1.0,ROUMPESI A,3 - 1,70,GRE,1:10
+3,Steal,12.0,5,1,GRE,1.0,ZAGAME N,3 - 1,70,AUS,1:10
+3,Action shot - Post,10.0,5,1,GRE,1.0,SOUTHERN A,3 - 1,53,AUS,0:53
+3,Turnover foul,10.0,5,1,GRE,1.0,MANOLIOUDAKI T,3 - 1,28,GRE,0:28
+3,Steal,3.0,5,1,GRE,1.0,BUCKLING H,3 - 1,28,AUS,0:28
+3,20 sec. exclusion in centre,4.0,5,1,GRE,1.0,PSOUNI I,3 - 1,4,GRE,0:04
+3,Extra player shot - Blocked,12.0,5,1,GRE,1.0,ZAGAME N,3 - 1,1,AUS,0:01
+3,Starting goalkeeper,1.0,5,1,GRE,2.0,KOUVDOU E,3 - 1,480,GRE,8:00
+3,Starting goalkeeper,13.0,5,1,GRE,2.0,WAKEFIELD K,3 - 1,480,AUS,8:00
+3,Sprint won possession,12.0,5,1,GRE,2.0,ZAGAME N,3 - 1,480,AUS,8:00
+3,5m shot - Missed,8.0,5,1,GRE,2.0,McGHIE G,3 - 1,450,AUS,7:30
+3,Turnover foul,7.0,5,1,GRE,2.0,ASIMAKI A,3 - 1,427,GRE,7:07
+3,Turnover foul,4.0,5,1,GRE,2.0,LINCOLN-SMITH H,3 - 1,400,AUS,6:40
+3,Steal,2.0,5,1,GRE,2.0,TSOUKALA C,3 - 1,400,GRE,6:40
+3,20 sec. exclusion in centre,6.0,5,1,GRE,2.0,KNOX B,3 - 1,378,AUS,6:18
+3,Extra player shot - Missed,8.0,5,1,GRE,2.0,ROUMPESI A,3 - 1,361,GRE,6:01
+3,Turnover foul,7.0,5,1,GRE,2.0,WEBSTER R,3 - 1,348,AUS,5:48
+3,Steal,2.0,5,1,GRE,2.0,TSOUKALA C,3 - 1,348,GRE,5:48
+3,Action shot - Saved,2.0,5,1,GRE,2.0,TSOUKALA C,3 - 1,327,GRE,5:27
+3,Turnover foul,8.0,5,1,GRE,2.0,McGHIE G,3 - 1,313,AUS,5:13
+3,Steal,2.0,5,1,GRE,2.0,TSOUKALA C,3 - 1,313,GRE,5:13
+3,Action shot - Saved,10.0,5,1,GRE,2.0,MANOLIOUDAKI T,3 - 1,290,GRE,4:50
+3,20 sec. exclusion in centre,7.0,5,1,GRE,2.0,ASIMAKI A,3 - 1,261,GRE,4:21
+3,Time-Out,,5,1,GRE,2.0,,3 - 1,261,AUS,4:21
+4,Action shot - Goal,8.0,5,1,GRE,2.0,McGHIE G,4 - 1,237,AUS,3:57
+4,20 sec. exclusion in field,10.0,5,1,GRE,2.0,SOUTHERN A,4 - 1,228,AUS,3:48
+4,Turnover foul,2.0,5,1,GRE,2.0,TSOUKALA C,4 - 1,210,GRE,3:30
+4,Steal,5.0,5,1,GRE,2.0,BISHOP I,4 - 1,210,AUS,3:30
+4,Turnover foul,4.0,5,1,GRE,2.0,LINCOLN-SMITH H,4 - 1,187,AUS,3:07
+4,Steal,11.0,5,1,GRE,2.0,PLEVRITOU E,4 - 1,187,GRE,3:07
+4,Action shot - Post,6.0,5,1,GRE,2.0,AVRAMIDOU A,4 - 1,163,GRE,2:43
+4,20 sec. exclusion in centre,7.0,5,1,GRE,2.0,WEBSTER R,4 - 1,118,AUS,1:58
+4,Extra player shot - Blocked,8.0,5,1,GRE,2.0,ROUMPESI A,4 - 1,99,GRE,1:39
+4,Action shot - Saved,5.0,5,1,GRE,2.0,BISHOP I,4 - 1,70,AUS,1:10
+4,20 sec. exclusion in centre,3.0,5,1,GRE,2.0,BUCKLING H,4 - 1,48,AUS,0:48
+4,Action shot - Goal,6.0,5,2,GRE,2.0,AVRAMIDOU A,4 - 2,25,GRE,0:25
+4,20 sec. exclusion in centre,3.0,5,2,GRE,2.0,DIAMANTOPOULOU V,4 - 2,8,GRE,0:08
+4,Starting goalkeeper,13.0,5,2,GRE,3.0,WAKEFIELD K,4 - 2,480,AUS,8:00
+4,Starting goalkeeper,1.0,5,2,GRE,3.0,KOUVDOU E,4 - 2,480,GRE,8:00
+4,Sprint won possession,12.0,5,2,GRE,3.0,ZAGAME N,4 - 2,480,AUS,8:00
+4,Action shot - Blocked,7.0,5,2,GRE,3.0,WEBSTER R,4 - 2,463,AUS,7:43
+4,Turnover foul,7.0,5,2,GRE,3.0,ASIMAKI A,4 - 2,441,GRE,7:21
+4,Steal,1.0,5,2,GRE,3.0,KOUVDOU E,4 - 2,441,GRE,7:21
+4,Turnover foul,12.0,5,2,GRE,3.0,ZAGAME N,4 - 2,420,AUS,7:00
+4,Action shot - Goal,8.0,5,3,GRE,3.0,ROUMPESI A,4 - 3,408,GRE,6:48
+4,Turnover foul,8.0,5,3,GRE,3.0,McGHIE G,4 - 3,379,AUS,6:19
+4,Steal,2.0,5,3,GRE,3.0,TSOUKALA C,4 - 3,379,GRE,6:19
+4,Turnover foul,7.0,5,3,GRE,3.0,ASIMAKI A,4 - 3,360,GRE,6:00
+4,20 sec. exclusion in centre,4.0,5,3,GRE,3.0,PSOUNI I,4 - 3,339,GRE,5:39
+5,Action shot - Goal,6.0,5,3,GRE,3.0,KNOX B,5 - 3,317,AUS,5:17
+5,Action shot - Saved,6.0,5,3,GRE,3.0,AVRAMIDOU A,5 - 3,292,GRE,4:52
+5,20 sec. exclusion in centre,7.0,5,3,GRE,3.0,ASIMAKI A,5 - 3,267,GRE,4:27
+6,Extra player shot - Goal,10.0,5,3,GRE,3.0,SOUTHERN A,6 - 3,253,AUS,4:13
+6,Centre shot - Goal,7.0,5,4,GRE,3.0,ASIMAKI A,6 - 4,234,GRE,3:54
+6,Turnover foul,12.0,5,4,GRE,3.0,ZAGAME N,6 - 4,208,AUS,3:28
+6,Steal,10.0,5,4,GRE,3.0,MANOLIOUDAKI T,6 - 4,208,GRE,3:28
+6,20 sec. exclusion in field,9.0,5,4,GRE,3.0,ARANCINI Z,6 - 4,207,AUS,3:27
+6,Time-Out,,5,4,GRE,3.0,,6 - 4,207,GRE,3:27
+6,Extra player shot - Saved,7.0,5,4,GRE,3.0,ASIMAKI A,6 - 4,192,GRE,3:12
+6,Turnover foul,4.0,5,4,GRE,3.0,LINCOLN-SMITH H,6 - 4,162,AUS,2:42
+6,Steal,10.0,5,4,GRE,3.0,MANOLIOUDAKI T,6 - 4,162,GRE,2:42
+6,Action shot - Post,10.0,5,4,GRE,3.0,MANOLIOUDAKI T,6 - 4,139,GRE,2:19
+6,Action shot - Saved,8.0,5,4,GRE,3.0,McGHIE G,6 - 4,114,AUS,1:54
+6,Action shot - Post,6.0,5,4,GRE,3.0,AVRAMIDOU A,6 - 4,92,GRE,1:32
+6,Action shot - Post,7.0,5,4,GRE,3.0,WEBSTER R,6 - 4,71,AUS,1:11
+6,Centre shot - Saved,12.0,5,4,GRE,3.0,ZAGAME N,6 - 4,49,AUS,0:49
+6,Turnover foul,7.0,5,4,GRE,3.0,ASIMAKI A,6 - 4,24,GRE,0:24
+6,Turnover foul,7.0,5,4,GRE,3.0,WEBSTER R,6 - 4,1,AUS,0:01
+6,Steal,11.0,5,4,GRE,3.0,PLEVRITOU E,6 - 4,1,GRE,0:01
+6,Starting goalkeeper,1.0,5,4,GRE,4.0,KOUVDOU E,6 - 4,480,GRE,8:00
+6,Starting goalkeeper,13.0,5,4,GRE,4.0,WAKEFIELD K,6 - 4,480,AUS,8:00
+6,Sprint won possession,12.0,5,4,GRE,4.0,ZAGAME N,6 - 4,480,AUS,8:00
+6,Action shot - Blocked,6.0,5,4,GRE,4.0,KNOX B,6 - 4,450,AUS,7:30
+6,Centre shot - Saved,4.0,5,4,GRE,4.0,LINCOLN-SMITH H,6 - 4,430,AUS,7:10
+6,Turnover foul,4.0,5,4,GRE,4.0,PSOUNI I,6 - 4,406,GRE,6:46
+6,Steal,7.0,5,4,GRE,4.0,WEBSTER R,6 - 4,406,AUS,6:46
+6,20 sec. exclusion in centre,6.0,5,4,GRE,4.0,KNOX B,6 - 4,357,AUS,5:57
+6,Turnover foul,6.0,5,4,GRE,4.0,AVRAMIDOU A,6 - 4,338,GRE,5:38
+6,Steal,8.0,5,4,GRE,4.0,McGHIE G,6 - 4,338,AUS,5:38
+7,Action shot - Goal,7.0,5,4,GRE,4.0,WEBSTER R,7 - 4,312,AUS,5:12
+7,Turnover foul,7.0,5,4,GRE,4.0,ASIMAKI A,7 - 4,283,GRE,4:43
+8,Centre shot - Goal,2.0,5,4,GRE,4.0,APPEL J,8 - 4,255,AUS,4:15
+8,Action shot - Post,11.0,5,4,GRE,4.0,PLEVRITOU E,8 - 4,237,GRE,3:57
+9,Counter attack - Goal,6.0,5,4,GRE,4.0,KNOX B,9 - 4,222,AUS,3:42
+9,5m shot - Saved,2.0,5,4,GRE,4.0,TSOUKALA C,9 - 4,140,GRE,2:20
+9,Counter attack - Saved,11.0,5,4,GRE,4.0,GOFERS K,9 - 4,124,AUS,2:04
+9,Action shot - Saved,7.0,5,4,GRE,4.0,WEBSTER R,9 - 4,104,AUS,1:44
+9,Turnover foul,4.0,5,4,GRE,4.0,LINCOLN-SMITH H,9 - 4,82,AUS,1:22
+9,Turnover foul,7.0,5,4,GRE,4.0,ASIMAKI A,9 - 4,72,GRE,1:12
+9,Steal,12.0,5,4,GRE,4.0,ZAGAME N,9 - 4,72,AUS,1:12
+9,20 sec. exclusion in centre,4.0,5,4,GRE,4.0,LINCOLN-SMITH H,9 - 4,26,AUS,0:26
+9,Extra player shot - Goal,8.0,5,5,GRE,4.0,ROUMPESI A,9 - 5,22,GRE,0:22
+9,20 sec. exclusion in field,10.0,5,5,GRE,4.0,MANOLIOUDAKI T,9 - 5,11,GRE,0:11
+9,Time-Out,,5,5,GRE,4.0,,9 - 5,11,AUS,0:11
+9,Extra player shot - Post,10.0,5,5,GRE,4.0,SOUTHERN A,9 - 5,5,AUS,0:05
+9,5m shot - Missed,1.0,5,5,GRE,4.0,KOUVDOU E,9 - 5,1,GRE,0:01
+0,Starting goalkeeper,13.0,6,0,RUS,1.0,WAKEFIELD K,0 - 0,480,AUS,8:00
+0,Starting goalkeeper,13.0,6,0,RUS,1.0,KARNAUKH A,0 - 0,480,RUS,8:00
+0,Sprint won possession,12.0,6,0,RUS,1.0,ZAGAME N,0 - 0,480,AUS,8:00
+0,Action shot - Missed,7.0,6,0,RUS,1.0,WEBSTER R,0 - 0,453,AUS,7:33
+0,Turnover foul,10.0,6,0,RUS,1.0,BELIAEVA O,0 - 0,438,RUS,7:18
+0,Turnover foul,4.0,6,0,RUS,1.0,LINCOLN-SMITH H,0 - 0,423,AUS,7:03
+0,Steal,11.0,6,0,RUS,1.0,IVANOVA E,0 - 0,423,RUS,7:03
+0,5m shot - Missed,3.0,6,0,RUS,1.0,PROKOFYEVA E,0 - 0,393,RUS,6:33
+0,Turnover foul,12.0,6,0,RUS,1.0,ZAGAME N,0 - 0,380,AUS,6:20
+0,Action shot - Blocked,6.0,6,0,RUS,1.0,BELOVA O,0 - 0,364,RUS,6:04
+0,Turnover foul,6.0,6,0,RUS,1.0,BELOVA O,0 - 0,348,RUS,5:48
+0,Steal,7.0,6,0,RUS,1.0,WEBSTER R,0 - 0,348,AUS,5:48
+0,Action shot - Saved,7.0,6,0,RUS,1.0,WEBSTER R,0 - 0,320,AUS,5:20
+0,5m shot - Goal,11.0,6,1,RUS,1.0,IVANOVA E,1 - 0,304,RUS,5:04
+1,Centre shot - Goal,12.0,6,1,RUS,1.0,ZAGAME N,1 - 1,282,AUS,4:42
+1,5m shot - Post,12.0,6,1,RUS,1.0,ZELENTSOVA E,1 - 1,254,RUS,4:14
+1,Turnover foul,12.0,6,1,RUS,1.0,ZAGAME N,1 - 1,226,AUS,3:46
+1,Action shot - Saved,6.0,6,1,RUS,1.0,BELOVA O,1 - 1,206,RUS,3:26
+1,Action shot - Saved,10.0,6,1,RUS,1.0,SOUTHERN A,1 - 1,182,AUS,3:02
+1,Turnover foul,2.0,6,1,RUS,1.0,APPEL J,1 - 1,166,AUS,2:46
+1,Steal,12.0,6,1,RUS,1.0,ZELENTSOVA E,1 - 1,166,RUS,2:46
+1,5m shot - Saved,5.0,6,1,RUS,1.0,ANTONOVA A,1 - 1,137,RUS,2:17
+1,Centre shot - Saved,2.0,6,1,RUS,1.0,APPEL J,1 - 1,108,AUS,1:48
+1,Turnover foul,10.0,6,1,RUS,1.0,BELIAEVA O,1 - 1,85,RUS,1:25
+1,5m shot - Missed,10.0,6,1,RUS,1.0,SOUTHERN A,1 - 1,63,AUS,1:03
+1,Action shot - Saved,11.0,6,1,RUS,1.0,IVANOVA E,1 - 1,36,RUS,0:36
+1,Turnover foul,2.0,6,1,RUS,1.0,APPEL J,1 - 1,9,AUS,0:09
+1,Steal,5.0,6,1,RUS,1.0,ANTONOVA A,1 - 1,9,RUS,0:09
+1,5m shot - Goal,3.0,6,2,RUS,1.0,PROKOFYEVA E,2 - 1,0,RUS,0:00
+1,Starting goalkeeper,13.0,6,2,RUS,2.0,KARNAUKH A,2 - 1,480,RUS,8:00
+1,Starting goalkeeper,13.0,6,2,RUS,2.0,WAKEFIELD K,2 - 1,480,AUS,8:00
+1,Sprint won possession,3.0,6,2,RUS,2.0,PROKOFYEVA E,2 - 1,480,RUS,8:00
+1,Centre shot - Post,6.0,6,2,RUS,2.0,BELOVA O,2 - 1,453,RUS,7:33
+1,Action shot - Saved,12.0,6,2,RUS,2.0,ZAGAME N,2 - 1,424,AUS,7:04
+1,Turnover foul,7.0,6,2,RUS,2.0,TANKEEVA E,2 - 1,396,RUS,6:36
+2,Counter attack - Goal,9.0,6,2,RUS,2.0,ARANCINI Z,2 - 2,386,AUS,6:26
+2,Action shot - Saved,4.0,6,2,RUS,2.0,KARIMOVA E,2 - 2,363,RUS,6:03
+2,Turnover foul,5.0,6,2,RUS,2.0,BISHOP I,2 - 2,356,AUS,5:56
+2,5m shot - Missed,12.0,6,2,RUS,2.0,ZELENTSOVA E,2 - 2,327,RUS,5:27
+2,20 sec. exclusion in centre,4.0,6,2,RUS,2.0,KARIMOVA E,2 - 2,305,RUS,5:05
+3,Extra player shot - Goal,12.0,6,2,RUS,2.0,ZAGAME N,2 - 3,293,AUS,4:53
+3,20 sec. exclusion in centre,3.0,6,2,RUS,2.0,BUCKLING H,2 - 3,273,AUS,4:33
+3,Action shot - Goal,12.0,6,3,RUS,2.0,ZELENTSOVA E,3 - 3,252,RUS,4:12
+3,Action shot - Blocked,3.0,6,3,RUS,2.0,BUCKLING H,3 - 3,233,AUS,3:53
+3,Action shot - Saved,9.0,6,3,RUS,2.0,ARANCINI Z,3 - 3,230,AUS,3:50
+3,20 sec. exclusion in field,2.0,6,3,RUS,2.0,ANTONOVA D,3 - 3,196,RUS,3:16
+3,Time-Out,,6,3,RUS,2.0,,3 - 3,196,AUS,3:16
+3,Action shot - Saved,7.0,6,3,RUS,2.0,WEBSTER R,3 - 3,173,AUS,2:53
+3,Action shot - Missed,5.0,6,3,RUS,2.0,ANTONOVA A,3 - 3,145,RUS,2:25
+4,Counter attack - Goal,3.0,6,3,RUS,2.0,BUCKLING H,3 - 4,134,AUS,2:14
+4,Turnover foul,11.0,6,3,RUS,2.0,IVANOVA E,3 - 4,107,RUS,1:47
+4,Turnover foul,4.0,6,3,RUS,2.0,LINCOLN-SMITH H,3 - 4,93,AUS,1:33
+4,5m shot - Missed,11.0,6,3,RUS,2.0,IVANOVA E,3 - 4,71,RUS,1:11
+4,Turnover foul,4.0,6,3,RUS,2.0,LINCOLN-SMITH H,3 - 4,54,AUS,0:54
+4,Turnover foul,3.0,6,3,RUS,2.0,PROKOFYEVA E,3 - 4,33,RUS,0:33
+4,Steal,10.0,6,3,RUS,2.0,SOUTHERN A,3 - 4,33,AUS,0:33
+4,Counter attack - Saved,10.0,6,3,RUS,2.0,SOUTHERN A,3 - 4,23,AUS,0:23
+4,20 sec. exclusion in field,10.0,6,3,RUS,2.0,SOUTHERN A,3 - 4,16,AUS,0:16
+4,Time-Out,,6,3,RUS,2.0,,3 - 4,16,RUS,0:16
+4,Extra player shot - Missed,3.0,6,3,RUS,2.0,PROKOFYEVA E,3 - 4,1,RUS,0:01
+4,Starting goalkeeper,13.0,6,3,RUS,3.0,KARNAUKH A,3 - 4,480,RUS,8:00
+4,Starting goalkeeper,13.0,6,3,RUS,3.0,WAKEFIELD K,3 - 4,480,AUS,8:00
+4,Sprint won possession,3.0,6,3,RUS,3.0,PROKOFYEVA E,3 - 4,480,RUS,8:00
+4,Turnover foul,11.0,6,3,RUS,4.0,IVANOVA E,3 - 4,5,RUS,0:05
+4,Action shot - Saved,10.0,6,3,RUS,3.0,BELIAEVA O,3 - 4,465,RUS,7:45
+4,Action shot - Blocked,9.0,6,3,RUS,3.0,ARANCINI Z,3 - 4,436,AUS,7:16
+4,Action shot - Missed,10.0,6,3,RUS,3.0,BELIAEVA O,3 - 4,408,RUS,6:48
+4,Action shot - Post,12.0,6,3,RUS,3.0,ZAGAME N,3 - 4,384,AUS,6:24
+4,Action shot - Blocked,3.0,6,3,RUS,3.0,PROKOFYEVA E,3 - 4,361,RUS,6:01
+4,Turnover foul,12.0,6,3,RUS,3.0,ZAGAME N,3 - 4,349,AUS,5:49
+4,20 sec. exclusion in centre,6.0,6,3,RUS,3.0,KNOX B,3 - 4,334,AUS,5:34
+4,Extra player shot - Blocked,12.0,6,3,RUS,3.0,ZELENTSOVA E,3 - 4,314,RUS,5:14
+4,Action shot - Missed,3.0,6,3,RUS,3.0,PROKOFYEVA E,3 - 4,307,RUS,5:07
+4,Turnover foul,4.0,6,3,RUS,3.0,LINCOLN-SMITH H,3 - 4,293,AUS,4:53
+4,Action shot - Goal,10.0,6,4,RUS,3.0,BELIAEVA O,4 - 4,285,RUS,4:45
+4,20 sec. exclusion in centre,6.0,6,4,RUS,3.0,BELOVA O,4 - 4,266,RUS,4:26
+4,Action shot - Saved,2.0,6,4,RUS,3.0,APPEL J,4 - 4,241,AUS,4:01
+4,Action shot - Post,5.0,6,4,RUS,3.0,ANTONOVA A,4 - 4,212,RUS,3:32
+4,5m shot - Missed,7.0,6,4,RUS,3.0,WEBSTER R,4 - 4,195,AUS,3:15
+4,Turnover foul,10.0,6,4,RUS,3.0,BELIAEVA O,4 - 4,179,RUS,2:59
+5,Centre shot - Goal,7.0,6,4,RUS,3.0,WEBSTER R,4 - 5,152,AUS,2:32
+5,20 sec. exclusion in centre,6.0,6,4,RUS,3.0,KNOX B,4 - 5,131,AUS,2:11
+5,Turnover foul,3.0,6,4,RUS,3.0,PROKOFYEVA E,4 - 5,108,RUS,1:48
+5,Steal,12.0,6,4,RUS,3.0,ZAGAME N,4 - 5,108,AUS,1:48
+5,Turnover foul,12.0,6,4,RUS,3.0,ZAGAME N,4 - 5,100,AUS,1:40
+5,Steal,6.0,6,4,RUS,3.0,BELOVA O,4 - 5,100,RUS,1:40
+5,Turnover foul,7.0,6,4,RUS,3.0,TANKEEVA E,4 - 5,84,RUS,1:24
+5,Turnover foul,4.0,6,4,RUS,3.0,LINCOLN-SMITH H,4 - 5,65,AUS,1:05
+5,Turnover foul,6.0,6,4,RUS,3.0,BELOVA O,4 - 5,37,RUS,0:37
+5,Steal,4.0,6,4,RUS,3.0,LINCOLN-SMITH H,4 - 5,37,AUS,0:37
+6,Action shot - Goal,12.0,6,4,RUS,3.0,ZAGAME N,4 - 6,8,AUS,0:08
+6,5m shot - Saved,3.0,6,4,RUS,3.0,PROKOFYEVA E,4 - 6,1,RUS,0:01
+6,Starting goalkeeper,13.0,6,4,RUS,4.0,KARNAUKH A,4 - 6,480,RUS,8:00
+6,Starting goalkeeper,13.0,6,4,RUS,4.0,WAKEFIELD K,4 - 6,480,AUS,8:00
+6,Sprint won possession,3.0,6,4,RUS,4.0,PROKOFYEVA E,4 - 6,480,RUS,8:00
+6,20 sec. exclusion in centre,4.0,6,4,RUS,4.0,LINCOLN-SMITH H,4 - 6,462,AUS,7:42
+6,Extra player shot - Goal,11.0,6,5,RUS,4.0,IVANOVA E,5 - 6,442,RUS,7:22
+6,Turnover foul,6.0,6,5,RUS,4.0,KNOX B,5 - 6,414,AUS,6:54
+6,Steal,10.0,6,5,RUS,4.0,BELIAEVA O,5 - 6,414,RUS,6:54
+6,5m shot - Saved,6.0,6,5,RUS,4.0,BELOVA O,5 - 6,386,RUS,6:26
+7,Counter attack - Goal,7.0,6,5,RUS,4.0,WEBSTER R,5 - 7,374,AUS,6:14
+7,20 sec. exclusion in centre,4.0,6,5,RUS,4.0,LINCOLN-SMITH H,5 - 7,358,AUS,5:58
+7,Turnover foul,3.0,6,5,RUS,4.0,PROKOFYEVA E,5 - 7,338,RUS,5:38
+7,Steal,8.0,6,5,RUS,4.0,McGHIE G,5 - 7,338,AUS,5:38
+8,Action shot - Goal,4.0,6,5,RUS,4.0,LINCOLN-SMITH H,5 - 8,313,AUS,5:13
+8,5m shot - Blocked,3.0,6,5,RUS,4.0,PROKOFYEVA E,5 - 8,284,RUS,4:44
+8,Turnover foul,6.0,6,5,RUS,4.0,KNOX B,5 - 8,265,AUS,4:25
+8,Steal,11.0,6,5,RUS,4.0,IVANOVA E,5 - 8,265,RUS,4:25
+8,Turnover foul,3.0,6,5,RUS,4.0,PROKOFYEVA E,5 - 8,256,RUS,4:16
+8,Steal,3.0,6,5,RUS,4.0,BUCKLING H,5 - 8,256,AUS,4:16
+8,20 sec. exclusion in field,3.0,6,5,RUS,4.0,BUCKLING H,5 - 8,204,AUS,3:24
+8,Action shot - Goal,6.0,6,6,RUS,4.0,BELOVA O,6 - 8,178,RUS,2:58
+8,Turnover foul,6.0,6,6,RUS,4.0,KNOX B,6 - 8,163,AUS,2:43
+8,Steal,6.0,6,6,RUS,4.0,BELOVA O,6 - 8,163,RUS,2:43
+8,Turnover foul,3.0,6,6,RUS,4.0,PROKOFYEVA E,6 - 8,143,RUS,2:23
+8,Steal,7.0,6,6,RUS,4.0,WEBSTER R,6 - 8,143,AUS,2:23
+9,Centre shot - Goal,10.0,6,6,RUS,4.0,SOUTHERN A,6 - 9,118,AUS,1:58
+9,Turnover foul,11.0,6,6,RUS,4.0,IVANOVA E,6 - 9,96,RUS,1:36
+9,Steal,6.0,6,6,RUS,4.0,KNOX B,6 - 9,96,AUS,1:36
+9,Turnover foul,7.0,6,6,RUS,4.0,WEBSTER R,6 - 9,72,AUS,1:12
+9,Turnover foul,10.0,6,6,RUS,4.0,BELIAEVA O,6 - 9,53,RUS,0:53
+9,Steal,12.0,6,6,RUS,4.0,ZAGAME N,6 - 9,53,AUS,0:53
+9,20 sec. exclusion in field,6.0,6,6,RUS,4.0,BELOVA O,6 - 9,44,RUS,0:44
+9,Time-Out,,6,6,RUS,4.0,,6 - 9,44,AUS,0:44
+9,Action shot - Missed,6.0,6,6,RUS,4.0,KNOX B,6 - 9,15,AUS,0:15
+9,Time-Out,,6,6,RUS,4.0,,6 - 9,14,RUS,0:14
+9,Goalkeeper substitution,1.0,6,6,RUS,4.0,BARTA L,6 - 9,14,AUS,0:14
+9,Steal,5.0,6,6,RUS,4.0,BISHOP I,6 - 9,5,AUS,0:05
+0,Starting goalkeeper,1.0,7,0,ESP,1.0,ESTER L,0 - 0,480,ESP,8:00
+0,Starting goalkeeper,13.0,7,0,ESP,1.0,WAKEFIELD K,0 - 0,480,AUS,8:00
+0,Sprint won possession,6.0,7,0,ESP,1.0,PAREJA J,0 - 0,480,ESP,8:00
+0,Turnover foul,5.0,7,0,ESP,1.0,ORTIZ M,0 - 0,452,ESP,7:32
+0,Steal,3.0,7,0,ESP,1.0,BUCKLING H,0 - 0,452,AUS,7:32
+0,Action shot - Saved,8.0,7,0,ESP,1.0,McGHIE G,0 - 0,422,AUS,7:02
+0,Turnover foul,4.0,7,0,ESP,1.0,LINCOLN-SMITH H,0 - 0,410,AUS,6:50
+0,Turnover foul,8.0,7,0,ESP,1.0,PENA P,0 - 0,391,ESP,6:31
+0,Steal,7.0,7,0,ESP,1.0,WEBSTER R,0 - 0,391,AUS,6:31
+0,Turnover foul,8.0,7,0,ESP,1.0,McGHIE G,0 - 0,371,AUS,6:11
+0,Steal,6.0,7,0,ESP,1.0,PAREJA J,0 - 0,371,ESP,6:11
+0,Turnover foul,11.0,7,0,ESP,1.0,GARCIA GODOY M,0 - 0,345,ESP,5:45
+0,Centre shot - Saved,4.0,7,0,ESP,1.0,LINCOLN-SMITH H,0 - 0,318,AUS,5:18
+0,20 sec. exclusion in centre,12.0,7,0,ESP,1.0,ZAGAME N,0 - 0,295,AUS,4:55
+0,Extra player shot - Goal,11.0,7,1,ESP,1.0,GARCIA GODOY M,0 - 1,280,ESP,4:40
+0,5m shot - Saved,7.0,7,1,ESP,1.0,WEBSTER R,0 - 1,251,AUS,4:11
+0,Turnover foul,8.0,7,1,ESP,1.0,PENA P,0 - 1,237,ESP,3:57
+0,20 sec. exclusion in centre,5.0,7,1,ESP,1.0,ORTIZ M,0 - 1,215,ESP,3:35
+0,Extra player shot - Blocked,10.0,7,1,ESP,1.0,SOUTHERN A,0 - 1,201,AUS,3:21
+0,Turnover foul,9.0,7,1,ESP,1.0,BLAS A,0 - 1,176,ESP,2:56
+0,Steal,13.0,7,1,ESP,1.0,WAKEFIELD K,0 - 1,176,AUS,2:56
+0,20 sec. exclusion in centre,6.0,7,1,ESP,1.0,KNOX B,0 - 1,117,AUS,1:57
+0,20 sec. exclusion in centre,7.0,7,1,ESP,1.0,WEBSTER R,0 - 1,117,AUS,1:57
+0,Extra player shot - Goal,12.0,7,2,ESP,1.0,LOPEZ L,0 - 2,102,ESP,1:42
+0,5m shot - Post,12.0,7,2,ESP,1.0,ZAGAME N,0 - 2,73,AUS,1:13
+0,Action shot - Saved,6.0,7,2,ESP,1.0,PAREJA J,0 - 2,48,ESP,0:48
+0,20 sec. exclusion in centre,3.0,7,2,ESP,1.0,ESPAR A,0 - 2,26,ESP,0:26
+1,Extra player shot - Goal,9.0,7,2,ESP,1.0,ARANCINI Z,1 - 2,8,AUS,0:08
+1,5m shot - Missed,4.0,7,2,ESP,1.0,TARRAGO R,1 - 2,4,ESP,0:04
+1,Turnover foul,8.0,7,2,ESP,1.0,McGHIE G,1 - 2,1,AUS,0:01
+1,Starting goalkeeper,1.0,7,2,ESP,2.0,ESTER L,1 - 2,480,ESP,8:00
+1,Starting goalkeeper,13.0,7,2,ESP,2.0,WAKEFIELD K,1 - 2,480,AUS,8:00
+1,Sprint won possession,6.0,7,2,ESP,2.0,PAREJA J,1 - 2,480,ESP,8:00
+1,Turnover foul,11.0,7,2,ESP,2.0,GARCIA GODOY M,1 - 2,458,ESP,7:38
+1,Steal,6.0,7,2,ESP,2.0,KNOX B,1 - 2,458,AUS,7:38
+1,Action shot - Saved,8.0,7,2,ESP,2.0,McGHIE G,1 - 2,432,AUS,7:12
+1,20 sec. exclusion in centre,6.0,7,2,ESP,2.0,KNOX B,1 - 2,409,AUS,6:49
+1,Extra player shot - Goal,6.0,7,3,ESP,2.0,PAREJA J,1 - 3,390,ESP,6:30
+1,20 sec. exclusion in centre,2.0,7,3,ESP,2.0,BACH M,1 - 3,372,ESP,6:12
+2,Extra player shot - Goal,8.0,7,3,ESP,2.0,McGHIE G,2 - 3,368,AUS,6:08
+2,Turnover foul,9.0,7,3,ESP,2.0,BLAS A,2 - 3,347,ESP,5:47
+2,Steal,9.0,7,3,ESP,2.0,ARANCINI Z,2 - 3,347,AUS,5:47
+2,Action shot - Post,12.0,7,3,ESP,2.0,ZAGAME N,2 - 3,322,AUS,5:22
+2,20 sec. exclusion in field,3.0,7,3,ESP,2.0,BUCKLING H,2 - 3,311,AUS,5:11
+2,Extra player shot - Goal,9.0,7,4,ESP,2.0,BLAS A,2 - 4,311,ESP,5:11
+2,Turnover foul,6.0,7,4,ESP,2.0,PAREJA J,2 - 4,255,ESP,4:15
+2,Steal,4.0,7,4,ESP,2.0,LINCOLN-SMITH H,2 - 4,255,AUS,4:15
+2,Turnover foul,12.0,7,4,ESP,2.0,ZAGAME N,2 - 4,233,AUS,3:53
+2,5m shot - Blocked,3.0,7,4,ESP,2.0,ESPAR A,2 - 4,207,ESP,3:27
+2,5m shot - Blocked,12.0,7,4,ESP,2.0,ZAGAME N,2 - 4,178,AUS,2:58
+2,20 sec. exclusion in centre,10.0,7,4,ESP,2.0,SOUTHERN A,2 - 4,158,AUS,2:38
+2,Extra player shot - Missed,4.0,7,4,ESP,2.0,TARRAGO R,2 - 4,138,ESP,2:18
+2,20 sec. exclusion in centre,3.0,7,4,ESP,2.0,ESPAR A,2 - 4,124,ESP,2:04
+3,Extra player shot - Goal,7.0,7,4,ESP,2.0,WEBSTER R,3 - 4,106,AUS,1:46
+3,5m shot - Goal,4.0,7,5,ESP,2.0,TARRAGO R,3 - 5,76,ESP,1:16
+3,20 sec. exclusion in field,7.0,7,5,ESP,2.0,MIRANDA L,3 - 5,58,ESP,0:58
+3,Extra player shot - Saved,3.0,7,5,ESP,2.0,BUCKLING H,3 - 5,44,AUS,0:44
+3,Action shot - Blocked,12.0,7,5,ESP,2.0,ZAGAME N,3 - 5,38,AUS,0:38
+3,5m shot - Missed,12.0,7,5,ESP,2.0,LOPEZ L,3 - 5,11,ESP,0:11
+3,Turnover foul,6.0,7,5,ESP,2.0,KNOX B,3 - 5,2,AUS,0:02
+3,Steal,12.0,7,5,ESP,2.0,LOPEZ L,3 - 5,2,ESP,0:02
+3,Starting goalkeeper,1.0,7,5,ESP,3.0,ESTER L,3 - 5,480,ESP,8:00
+3,Starting goalkeeper,13.0,7,5,ESP,3.0,WAKEFIELD K,3 - 5,480,AUS,8:00
+3,Exclusion with substitution,10.0,7,5,ESP,4.0,SOUTHERN A,3 - 5,174,AUS,2:54
+3,Time-Out,,7,5,ESP,4.0,,3 - 5,174,ESP,2:54
+3,Turnover foul,3.0,7,5,ESP,4.0,ESPAR A,3 - 5,147,ESP,2:27
+3,Steal,12.0,7,5,ESP,4.0,ZAGAME N,3 - 5,147,AUS,2:27
+3,Turnover foul,6.0,7,5,ESP,4.0,KNOX B,3 - 5,138,AUS,2:18
+3,Steal,3.0,7,5,ESP,4.0,ESPAR A,3 - 5,138,ESP,2:18
+3,5m shot - Saved,4.0,7,5,ESP,4.0,TARRAGO R,3 - 5,108,ESP,1:48
+3,Sprint won possession,6.0,7,5,ESP,3.0,PAREJA J,3 - 5,480,ESP,8:00
+3,5m shot - Goal,12.0,7,6,ESP,3.0,LOPEZ L,3 - 6,457,ESP,7:37
+3,20 sec. exclusion in centre,5.0,7,6,ESP,3.0,ORTIZ M,3 - 6,434,ESP,7:14
+3,Extra player shot - Missed,7.0,7,6,ESP,3.0,WEBSTER R,3 - 6,422,AUS,7:02
+3,Turnover foul,6.0,7,6,ESP,3.0,PAREJA J,3 - 6,407,ESP,6:47
+3,Steal,12.0,7,6,ESP,3.0,ZAGAME N,3 - 6,407,AUS,6:47
+3,Turnover foul,4.0,7,6,ESP,3.0,LINCOLN-SMITH H,3 - 6,381,AUS,6:21
+3,Steal,2.0,7,6,ESP,3.0,BACH M,3 - 6,381,ESP,6:21
+3,Turnover foul,11.0,7,6,ESP,3.0,GARCIA GODOY M,3 - 6,364,ESP,6:04
+3,20 sec. exclusion in field,11.0,7,6,ESP,3.0,GARCIA GODOY M,3 - 6,364,ESP,6:04
+3,Time-Out,,7,6,ESP,3.0,,3 - 6,364,AUS,6:04
+3,Action shot - Blocked,7.0,7,6,ESP,3.0,WEBSTER R,3 - 6,340,AUS,5:40
+3,20 sec. exclusion in centre,7.0,7,6,ESP,3.0,WEBSTER R,3 - 6,318,AUS,5:18
+3,Extra player shot - Blocked,6.0,7,6,ESP,3.0,PAREJA J,3 - 6,299,ESP,4:59
+3,Centre shot - Missed,6.0,7,6,ESP,3.0,KNOX B,3 - 6,273,AUS,4:33
+3,Turnover foul,4.0,7,6,ESP,3.0,TARRAGO R,3 - 6,253,ESP,4:13
+3,Steal,6.0,7,6,ESP,3.0,KNOX B,3 - 6,253,AUS,4:13
+3,Centre shot - Saved,7.0,7,6,ESP,3.0,WEBSTER R,3 - 6,228,AUS,3:48
+3,Centre shot - Missed,9.0,7,6,ESP,3.0,BLAS A,3 - 6,204,ESP,3:24
+3,20 sec. exclusion in centre,7.0,7,6,ESP,3.0,MIRANDA L,3 - 6,184,ESP,3:04
+4,Action shot - Goal,10.0,7,6,ESP,3.0,SOUTHERN A,4 - 6,161,AUS,2:41
+4,20 sec. exclusion in centre,3.0,7,6,ESP,3.0,BUCKLING H,4 - 6,143,AUS,2:23
+4,20 sec. exclusion in field,10.0,7,6,ESP,3.0,SOUTHERN A,4 - 6,134,AUS,2:14
+4,Extra player shot - Blocked,12.0,7,6,ESP,3.0,LOPEZ L,4 - 6,127,ESP,2:07
+4,Turnover foul,9.0,7,6,ESP,3.0,ARANCINI Z,4 - 6,111,AUS,1:51
+4,Steal,12.0,7,6,ESP,3.0,LOPEZ L,4 - 6,111,ESP,1:51
+4,Turnover foul,11.0,7,6,ESP,3.0,GARCIA GODOY M,4 - 6,92,ESP,1:32
+4,20 sec. exclusion in field,2.0,7,6,ESP,3.0,BACH M,4 - 6,82,ESP,1:22
+4,Extra player shot - Blocked,3.0,7,6,ESP,3.0,BUCKLING H,4 - 6,64,AUS,1:04
+4,Turnover foul,3.0,7,6,ESP,3.0,BUCKLING H,4 - 6,57,AUS,0:57
+4,Action shot - Saved,10.0,7,6,ESP,3.0,MESEGUER O,4 - 6,38,ESP,0:38
+4,20 sec. exclusion in field,7.0,7,6,ESP,3.0,WEBSTER R,4 - 6,36,AUS,0:36
+4,Exclusion with substitution,7.0,7,6,ESP,3.0,WEBSTER R,4 - 6,36,AUS,0:36
+4,Turnover foul,5.0,7,6,ESP,3.0,ORTIZ M,4 - 6,21,ESP,0:21
+4,Double exclusion,6.0,7,6,ESP,3.0,PAREJA J,4 - 6,8,ESP,0:08
+4,Double exclusion,2.0,7,6,ESP,3.0,APPEL J,4 - 6,8,AUS,0:08
+4,Turnover foul,12.0,7,6,ESP,3.0,ZAGAME N,4 - 6,2,AUS,0:02
+4,Starting goalkeeper,1.0,7,6,ESP,4.0,ESTER L,4 - 6,480,ESP,8:00
+4,Starting goalkeeper,13.0,7,6,ESP,4.0,WAKEFIELD K,4 - 6,480,AUS,8:00
+4,Sprint won possession,4.0,7,6,ESP,4.0,TARRAGO R,4 - 6,480,ESP,8:00
+4,Turnover foul,11.0,7,6,ESP,4.0,GARCIA GODOY M,4 - 6,456,ESP,7:36
+4,Steal,4.0,7,6,ESP,4.0,LINCOLN-SMITH H,4 - 6,456,AUS,7:36
+4,Turnover foul,6.0,7,6,ESP,4.0,PAREJA J,4 - 6,399,ESP,6:39
+4,Steal,3.0,7,6,ESP,4.0,BUCKLING H,4 - 6,399,AUS,6:39
+4,5m shot - Missed,6.0,7,6,ESP,4.0,KNOX B,4 - 6,386,AUS,6:26
+4,20 sec. exclusion in centre,12.0,7,6,ESP,4.0,ZAGAME N,4 - 6,369,AUS,6:09
+4,Extra player shot - Goal,11.0,7,7,ESP,4.0,GARCIA GODOY M,4 - 7,353,ESP,5:53
+5,5m shot - Goal,4.0,7,7,ESP,4.0,LINCOLN-SMITH H,5 - 7,328,AUS,5:28
+5,20 sec. exclusion in centre,3.0,7,7,ESP,4.0,BUCKLING H,5 - 7,316,AUS,5:16
+5,Exclusion with substitution,3.0,7,7,ESP,4.0,BUCKLING H,5 - 7,316,AUS,5:16
+5,Penalty foul,3.0,7,7,ESP,4.0,BUCKLING H,5 - 7,314,AUS,5:14
+5,Penalty shot - Goal,6.0,7,8,ESP,4.0,PAREJA J,5 - 8,314,ESP,5:14
+5,20 sec. exclusion in centre,5.0,7,8,ESP,4.0,ORTIZ M,5 - 8,297,ESP,4:57
+5,Exclusion with substitution,5.0,7,8,ESP,4.0,ORTIZ M,5 - 8,297,ESP,4:57
+5,Extra player shot - Saved,6.0,7,8,ESP,4.0,KNOX B,5 - 8,290,AUS,4:50
+5,5m shot - Saved,6.0,7,8,ESP,4.0,PAREJA J,5 - 8,267,ESP,4:27
+5,20 sec. exclusion in field,6.0,7,8,ESP,4.0,PAREJA J,5 - 8,249,ESP,4:09
+5,Extra player shot - Blocked,10.0,7,8,ESP,4.0,SOUTHERN A,5 - 8,228,AUS,3:48
+5,5m shot - Post,6.0,7,8,ESP,4.0,PAREJA J,5 - 8,202,ESP,3:22
+5,20 sec. exclusion in centre,12.0,7,8,ESP,4.0,LOPEZ L,5 - 8,189,ESP,3:09
+5,Penalty foul,1.0,7,8,ESP,4.0,ESTER L,5 - 8,189,ESP,3:09
+5,Penalty shot - Saved,4.0,7,8,ESP,4.0,LINCOLN-SMITH H,5 - 8,189,AUS,3:09
+5,20 sec. exclusion in field,10.0,7,8,ESP,4.0,SOUTHERN A,5 - 8,174,AUS,2:54
+5,Counter attack - Saved,6.0,7,8,ESP,4.0,KNOX B,5 - 8,98,AUS,1:38
+5,Action shot - Saved,12.0,7,8,ESP,4.0,ZAGAME N,5 - 8,81,AUS,1:21
+5,5m shot - Saved,6.0,7,8,ESP,4.0,KNOX B,5 - 8,42,AUS,0:42
+5,Time-Out,,7,8,ESP,4.0,,5 - 8,12,AUS,0:12
+5,20 sec. exclusion in field,11.0,7,8,ESP,4.0,GARCIA GODOY M,5 - 8,4,ESP,0:04
+6,Extra player shot - Goal,5.0,7,8,ESP,4.0,BISHOP I,6 - 8,1,AUS,0:01

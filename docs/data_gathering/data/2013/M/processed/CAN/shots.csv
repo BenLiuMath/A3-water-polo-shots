@@ -1,0 +1,222 @@
+Action,CAN,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time,Result,Goal
+Extra player shot,0,8.0,1,1,RSA,1.0,BELL R,0 - 1,420,RSA,7:00,Goal,1
+Penalty shot,1,9.0,1,1,RSA,1.0,DIGGLE D,1 - 1,409,CAN,6:49,Goal,1
+Centre shot,1,3.0,1,2,RSA,1.0,CARD D,1 - 2,385,RSA,6:25,Goal,1
+Extra player shot,2,8.0,1,2,RSA,1.0,GRAHAM K,2 - 2,332,CAN,5:32,Goal,1
+Extra player shot,2,2.0,1,2,RSA,1.0,le ROUX E,2 - 2,288,RSA,4:48,Blocked,0
+Centre shot,3,4.0,1,2,RSA,1.0,CONSTANTIN-BICARI,3 - 2,267,CAN,4:27,Goal,1
+Action shot,3,13.0,1,2,RSA,1.0,STEWART D,3 - 2,241,RSA,4:01,Post,0
+Centre shot,3,3.0,1,2,RSA,1.0,VIKALO O,3 - 2,214,CAN,3:34,Missed,0
+Action shot,3,5.0,1,2,RSA,1.0,BOYD J,3 - 2,166,CAN,2:46,Post,0
+Centre shot,4,3.0,1,2,RSA,1.0,VIKALO O,4 - 2,112,CAN,1:52,Goal,1
+Action shot,4,13.0,1,2,RSA,1.0,STEWART D,4 - 2,91,RSA,1:31,Blocked,0
+Centre shot,4,4.0,1,2,RSA,1.0,BADENHORST I,4 - 2,49,RSA,0:49,Missed,0
+Centre shot,4,4.0,1,2,RSA,1.0,CONSTANTIN-BICARI,4 - 2,44,CAN,0:44,Saved,0
+5m shot,4,9.0,1,2,RSA,1.0,DIGGLE D,4 - 2,2,CAN,0:02,Blocked,0
+5m shot,4,2.0,1,2,RSA,2.0,KUDABA C,4 - 2,463,CAN,7:43,Post,0
+5m shot,4,7.0,1,2,RSA,2.0,DOWNES R,4 - 2,430,RSA,7:10,Blocked,0
+Extra player shot,4,9.0,1,2,RSA,2.0,DIGGLE D,4 - 2,384,CAN,6:24,Saved,0
+Action shot,4,8.0,1,2,RSA,2.0,BELL R,4 - 2,370,RSA,6:10,Blocked,0
+Action shot,4,10.0,1,3,RSA,2.0,le ROUX P,4 - 3,352,RSA,5:52,Goal,1
+Extra player shot,4,8.0,1,3,RSA,2.0,GRAHAM K,4 - 3,332,CAN,5:32,Missed,0
+5m shot,4,8.0,1,3,RSA,2.0,GRAHAM K,4 - 3,290,CAN,4:50,Post,0
+Action shot,4,8.0,1,4,RSA,2.0,BELL R,4 - 4,231,RSA,3:51,Goal,1
+Extra player shot,5,3.0,1,4,RSA,2.0,VIKALO O,5 - 4,202,CAN,3:22,Goal,1
+Extra player shot,5,2.0,1,4,RSA,2.0,le ROUX E,5 - 4,168,RSA,2:48,Saved,0
+Penalty shot,5,2.0,1,4,RSA,2.0,le ROUX E,5 - 4,110,RSA,1:50,Saved,0
+Extra player shot,6,10.0,1,4,RSA,2.0,CONWAY J,6 - 4,73,CAN,1:13,Goal,1
+Action shot,6,2.0,1,5,RSA,2.0,le ROUX E,6 - 5,49,RSA,0:49,Goal,1
+Centre shot,15,5.0,1,10,RSA,4.0,BOYD J,15 - 10,227,CAN,3:47,Goal,1
+Extra player shot,15,2.0,1,10,RSA,4.0,le ROUX E,15 - 10,197,RSA,3:17,Missed,0
+5m shot,15,9.0,1,10,RSA,4.0,DIGGLE D,15 - 10,175,CAN,2:55,Post,0
+Action shot,15,2.0,1,10,RSA,4.0,le ROUX E,15 - 10,156,RSA,2:36,Saved,0
+5m shot,16,12.0,1,10,RSA,4.0,McELROY J,16 - 10,115,CAN,1:55,Goal,1
+Extra player shot,16,3.0,1,10,RSA,2.0,VIKALO O,16 - 10,6,CAN,0:06,Saved,0
+Centre shot,7,4.0,1,5,RSA,3.0,CONSTANTIN-BICARI,7 - 5,462,CAN,7:42,Goal,1
+Action shot,7,8.0,1,6,RSA,3.0,BELL R,7 - 6,447,RSA,7:27,Goal,1
+Action shot,8,4.0,1,6,RSA,3.0,CONSTANTIN-BICARI,8 - 6,426,CAN,7:06,Goal,1
+Action shot,8,6.0,1,6,RSA,3.0,KYTE J,8 - 6,399,RSA,6:39,Saved,0
+Extra player shot,8,8.0,1,6,RSA,3.0,BELL R,8 - 6,352,RSA,5:52,Saved,0
+Extra player shot,9,8.0,1,6,RSA,3.0,GRAHAM K,9 - 6,324,CAN,5:24,Goal,1
+Action shot,9,2.0,1,7,RSA,3.0,le ROUX E,9 - 7,312,RSA,5:12,Goal,1
+Centre shot,10,4.0,1,7,RSA,3.0,CONSTANTIN-BICARI,10 - 7,298,CAN,4:58,Goal,1
+Action shot,10,6.0,1,7,RSA,3.0,KYTE J,10 - 7,259,RSA,4:19,Saved,0
+Centre shot,10,4.0,1,7,RSA,3.0,BADENHORST I,10 - 7,212,RSA,3:32,Saved,0
+Extra player shot,10,6.0,1,8,RSA,3.0,KYTE J,10 - 8,162,RSA,2:42,Goal,1
+5m shot,10,10.0,1,8,RSA,3.0,CONWAY J,10 - 8,140,CAN,2:20,Saved,0
+Action shot,10,10.0,1,8,RSA,3.0,le ROUX P,10 - 8,114,RSA,1:54,Post,0
+5m shot,11,9.0,1,8,RSA,3.0,DIGGLE D,11 - 8,95,CAN,1:35,Goal,1
+Penalty shot,12,5.0,1,8,RSA,3.0,BOYD J,12 - 8,71,CAN,1:11,Goal,1
+Centre shot,12,3.0,1,9,RSA,3.0,CARD D,12 - 9,56,RSA,0:56,Goal,1
+Counter attack,13,7.0,1,9,RSA,3.0,TASCHERREAU A,13 - 9,7,CAN,0:07,Goal,1
+5m shot,13,4.0,1,9,RSA,3.0,BADENHORST I,13 - 9,1,RSA,0:01,Saved,0
+Centre shot,13,3.0,1,10,RSA,4.0,CARD D,13 - 10,462,RSA,7:42,Goal,1
+Action shot,13,4.0,1,10,RSA,4.0,CONSTANTIN-BICARI,13 - 10,435,CAN,7:15,Post,0
+Action shot,13,2.0,1,10,RSA,4.0,le ROUX E,13 - 10,397,RSA,6:37,Saved,0
+5m shot,13,2.0,1,10,RSA,4.0,KUDABA C,13 - 10,375,CAN,6:15,Missed,0
+Extra player shot,13,10.0,1,10,RSA,4.0,le ROUX P,13 - 10,340,RSA,5:40,Saved,0
+Action shot,13,10.0,1,10,RSA,4.0,le ROUX P,13 - 10,314,RSA,5:14,Post,0
+Penalty shot,14,8.0,1,10,RSA,4.0,GRAHAM K,14 - 10,291,CAN,4:51,Goal,1
+Centre shot,14,3.0,1,10,RSA,4.0,CARD D,14 - 10,273,RSA,4:33,Saved,0
+Extra player shot,16,13.0,1,11,RSA,4.0,STEWART D,16 - 11,88,RSA,1:28,Goal,1
+Extra player shot,17,3.0,1,11,RSA,4.0,VIKALO O,17 - 11,62,CAN,1:02,Goal,1
+Action shot,17,10.0,1,11,RSA,4.0,le ROUX P,17 - 11,38,RSA,0:38,Saved,0
+5m shot,17,5.0,1,11,RSA,4.0,BOYD J,17 - 11,15,CAN,0:15,Post,0
+Action shot,0,2.0,2,0,CRO,1.0,KUDABA C,0 - 0,452,CAN,7:32,Blocked,0
+Centre shot,0,12.0,2,0,CRO,1.0,OBRADOVIC P,0 - 0,383,CRO,6:23,Saved,0
+Centre shot,0,10.0,2,0,CRO,1.0,DOBUD N,0 - 0,368,CRO,6:08,Missed,0
+Action shot,0,12.0,2,1,CRO,1.0,OBRADOVIC P,1 - 0,255,CRO,4:15,Goal,1
+5m shot,0,8.0,2,1,CRO,1.0,GRAHAM K,1 - 0,224,CAN,3:44,Blocked,0
+Centre shot,0,4.0,2,2,CRO,1.0,PASKVALIN F,2 - 0,205,CRO,3:25,Goal,1
+Centre shot,0,4.0,2,2,CRO,1.0,CONSTANTIN-BICARI,2 - 0,179,CAN,2:59,Saved,0
+Counter attack,0,11.0,2,3,CRO,1.0,SETKA A,3 - 0,14,CRO,0:14,Goal,1
+Action shot,0,9.0,2,3,CRO,2.0,DIGGLE D,3 - 0,435,CAN,7:15,Blocked,0
+Centre shot,1,6.0,2,3,CRO,2.0,ROBINSON S,3 - 1,431,CAN,7:11,Goal,1
+Action shot,1,12.0,2,4,CRO,2.0,OBRADOVIC P,4 - 1,410,CRO,6:50,Goal,1
+5m shot,1,10.0,2,4,CRO,2.0,CONWAY J,4 - 1,382,CAN,6:22,Missed,0
+Action shot,1,5.0,2,4,CRO,2.0,JOKOVIC M,4 - 1,313,CRO,5:13,Post,0
+Penalty shot,2,8.0,2,4,CRO,2.0,GRAHAM K,4 - 2,254,CAN,4:14,Goal,1
+Extra player shot,2,9.0,2,5,CRO,2.0,SUKNO S,5 - 2,209,CRO,3:29,Goal,1
+5m shot,2,12.0,2,5,CRO,2.0,McELROY J,5 - 2,185,CAN,3:05,Saved,0
+Action shot,2,5.0,2,5,CRO,2.0,JOKOVIC M,5 - 2,157,CRO,2:37,Post,0
+Action shot,2,7.0,2,6,CRO,2.0,MUSLIM P,6 - 2,121,CRO,2:01,Goal,1
+Extra player shot,3,9.0,2,6,CRO,2.0,DIGGLE D,6 - 3,30,CAN,0:30,Goal,1
+Centre shot,3,10.0,2,6,CRO,2.0,DOBUD N,6 - 3,2,CRO,0:02,Saved,0
+Penalty shot,3,5.0,2,7,CRO,3.0,JOKOVIC M,7 - 3,462,CRO,7:42,Goal,1
+Centre shot,8,10.0,2,13,CRO,4.0,CONWAY J,13 - 8,12,CAN,0:12,Goal,1
+Action shot,8,7.0,2,13,CRO,3.0,MUSLIM P,13 - 8,418,CRO,6:58,Post,0
+Extra player shot,3,7.0,2,8,CRO,3.0,MUSLIM P,8 - 3,375,CRO,6:15,Goal,1
+Action shot,3,8.0,2,8,CRO,3.0,GRAHAM K,8 - 3,297,CAN,4:57,Blocked,0
+Penalty shot,4,4.0,2,8,CRO,3.0,CONSTANTIN-BICARI,8 - 4,296,CAN,4:56,Goal,1
+Centre shot,4,4.0,2,8,CRO,3.0,PASKVALIN F,8 - 4,273,CRO,4:33,Saved,0
+Counter attack,5,4.0,2,8,CRO,3.0,CONSTANTIN-BICARI,8 - 5,256,CAN,4:16,Goal,1
+Centre shot,5,3.0,2,8,CRO,3.0,MILAKOVIC I,8 - 5,216,CRO,3:36,Saved,0
+Action shot,5,7.0,2,9,CRO,3.0,MUSLIM P,9 - 5,177,CRO,2:57,Goal,1
+Action shot,5,5.0,2,9,CRO,3.0,JOKOVIC M,9 - 5,145,CRO,2:25,Missed,0
+Centre shot,6,3.0,2,9,CRO,3.0,VIKALO O,9 - 6,128,CAN,2:08,Goal,1
+Action shot,6,8.0,2,9,CRO,3.0,GRAHAM K,9 - 6,88,CAN,1:28,Blocked,0
+Centre shot,6,10.0,2,9,CRO,3.0,DOBUD N,9 - 6,64,CRO,1:04,Saved,0
+Penalty shot,6,8.0,2,9,CRO,3.0,GRAHAM K,9 - 6,48,CAN,0:48,Saved,0
+Centre shot,6,10.0,2,10,CRO,3.0,DOBUD N,10 - 6,22,CRO,0:22,Goal,1
+Action shot,6,7.0,2,10,CRO,3.0,MUSLIM P,10 - 6,1,CRO,0:01,Post,0
+Action shot,6,8.0,2,10,CRO,4.0,GRAHAM K,10 - 6,451,CAN,7:31,Blocked,0
+5m shot,6,4.0,2,10,CRO,4.0,CONSTANTIN-BICARI,10 - 6,405,CAN,6:45,Post,0
+Action shot,6,5.0,2,10,CRO,4.0,JOKOVIC M,10 - 6,385,CRO,6:25,Saved,0
+5m shot,6,9.0,2,11,CRO,4.0,SUKNO S,11 - 6,378,CRO,6:18,Goal,1
+5m shot,6,5.0,2,11,CRO,4.0,JOKOVIC M,11 - 6,326,CRO,5:26,Saved,0
+5m shot,6,8.0,2,11,CRO,4.0,GRAHAM K,11 - 6,296,CAN,4:56,Missed,0
+Centre shot,6,10.0,2,11,CRO,4.0,DOBUD N,11 - 6,270,CRO,4:30,Saved,0
+Centre shot,6,7.0,2,11,CRO,4.0,MUSLIM P,11 - 6,178,CRO,2:58,Missed,0
+Centre shot,6,9.0,2,12,CRO,4.0,SUKNO S,12 - 6,152,CRO,2:32,Goal,1
+Extra player shot,7,5.0,2,12,CRO,4.0,BOYD J,12 - 7,120,CAN,2:00,Goal,1
+Extra player shot,7,4.0,2,12,CRO,4.0,PASKVALIN F,12 - 7,87,CRO,1:27,Blocked,0
+Action shot,7,5.0,2,12,CRO,4.0,BOYD J,12 - 7,63,CAN,1:03,Saved,0
+Action shot,7,5.0,2,13,CRO,4.0,JOKOVIC M,13 - 7,35,CRO,0:35,Goal,1
+5m shot,7,11.0,2,13,CRO,4.0,SETKA A,13 - 7,2,CRO,0:02,Saved,0
+5m shot,0,8.0,3,0,USA,1.0,GRAHAM K,0 - 0,452,CAN,7:32,Post,0
+Action shot,0,4.0,3,1,USA,1.0,BOWEN A,0 - 1,324,USA,5:24,Goal,1
+Action shot,0,9.0,3,1,USA,1.0,DIGGLE D,0 - 1,297,CAN,4:57,Saved,0
+Action shot,0,11.0,3,1,USA,1.0,ROSENTHAL M,0 - 1,284,USA,4:44,Saved,0
+Centre shot,0,4.0,3,1,USA,1.0,CONSTANTIN-BICARI,0 - 1,266,CAN,4:26,Missed,0
+Extra player shot,0,8.0,3,1,USA,1.0,AZEVEDO A,0 - 1,243,USA,4:03,Missed,0
+5m shot,0,6.0,3,1,USA,1.0,ROBINSON S,0 - 1,217,CAN,3:37,Blocked,0
+Action shot,0,2.0,3,1,USA,1.0,KUDABA C,0 - 1,157,CAN,2:37,Blocked,0
+Action shot,0,4.0,3,2,USA,1.0,BOWEN A,0 - 2,134,USA,2:14,Goal,1
+Action shot,0,5.0,3,2,USA,1.0,BOYD J,0 - 2,106,CAN,1:46,Saved,0
+Action shot,0,9.0,3,2,USA,1.0,BUCKNER S,0 - 2,87,USA,1:27,Saved,0
+5m shot,1,12.0,3,2,USA,1.0,McELROY J,1 - 2,61,CAN,1:01,Goal,1
+Extra player shot,2,12.0,3,2,USA,1.0,McELROY J,2 - 2,0,CAN,0:00,Goal,1
+Centre shot,2,4.0,3,2,USA,2.0,CONSTANTIN-BICARI,2 - 2,452,CAN,7:32,Saved,0
+Centre shot,2,12.0,3,3,USA,2.0,MANN J,2 - 3,427,USA,7:07,Goal,1
+Extra player shot,2,12.0,3,3,USA,2.0,McELROY J,2 - 3,386,CAN,6:26,Saved,0
+Extra player shot,2,9.0,3,3,USA,2.0,BUCKNER S,2 - 3,367,USA,6:07,Missed,0
+Action shot,2,2.0,3,3,USA,2.0,KUDABA C,2 - 3,346,CAN,5:46,Saved,0
+Action shot,2,8.0,3,3,USA,2.0,AZEVEDO A,2 - 3,308,USA,5:08,Saved,0
+Action shot,2,12.0,3,3,USA,2.0,McELROY J,2 - 3,282,CAN,4:42,Blocked,0
+5m shot,2,8.0,3,3,USA,2.0,GRAHAM K,2 - 3,233,CAN,3:53,Saved,0
+Action shot,2,9.0,3,3,USA,2.0,BUCKNER S,2 - 3,34,USA,0:34,Post,0
+5m shot,2,5.0,3,3,USA,2.0,de TRANE M,2 - 3,1,USA,0:01,Saved,0
+Action shot,2,4.0,3,4,USA,3.0,BOWEN A,2 - 4,451,USA,7:31,Goal,1
+Action shot,2,2.0,3,4,USA,3.0,WIGO J,2 - 4,381,USA,6:21,Blocked,0
+Action shot,2,9.0,3,4,USA,3.0,DIGGLE D,2 - 4,360,CAN,6:00,Saved,0
+Extra player shot,2,12.0,3,5,USA,3.0,MANN J,2 - 5,315,USA,5:15,Goal,1
+Action shot,2,4.0,3,5,USA,3.0,CONSTANTIN-BICARI,2 - 5,238,CAN,3:58,Missed,0
+Action shot,2,9.0,3,5,USA,3.0,DIGGLE D,2 - 5,201,CAN,3:21,Blocked,0
+5m shot,2,4.0,3,5,USA,3.0,BOWEN A,2 - 5,171,USA,2:51,Post,0
+Extra player shot,2,2.0,3,5,USA,3.0,KUDABA C,2 - 5,125,CAN,2:05,Saved,0
+Counter attack,3,4.0,3,5,USA,3.0,CONSTANTIN-BICARI,3 - 5,38,CAN,0:38,Goal,1
+Action shot,3,4.0,3,5,USA,3.0,BOWEN A,3 - 5,13,USA,0:13,Blocked,0
+5m shot,3,10.0,3,5,USA,3.0,CONWAY J,3 - 5,1,CAN,0:01,Saved,0
+Action shot,4,12.0,3,5,USA,4.0,McELROY J,4 - 5,455,CAN,7:35,Goal,1
+Action shot,4,5.0,3,6,USA,4.0,de TRANE M,4 - 6,431,USA,7:11,Goal,1
+Centre shot,4,7.0,3,6,USA,4.0,KRUMPHOLZ J,4 - 6,398,USA,6:38,Saved,0
+Action shot,4,9.0,3,6,USA,4.0,DIGGLE D,4 - 6,371,CAN,6:11,Missed,0
+Extra player shot,4,4.0,3,6,USA,4.0,BOWEN A,4 - 6,335,USA,5:35,Post,0
+Action shot,4,2.0,3,7,USA,4.0,WIGO J,4 - 7,324,USA,5:24,Goal,1
+Action shot,4,2.0,3,7,USA,4.0,KUDABA C,4 - 7,305,CAN,5:05,Post,0
+Action shot,5,10.0,3,7,USA,4.0,CONWAY J,5 - 7,262,CAN,4:22,Goal,1
+5m shot,5,8.0,3,7,USA,4.0,AZEVEDO A,5 - 7,234,USA,3:54,Post,0
+Action shot,5,5.0,3,7,USA,4.0,BOYD J,5 - 7,213,CAN,3:33,Saved,0
+Action shot,6,2.0,3,7,USA,4.0,KUDABA C,6 - 7,195,CAN,3:15,Goal,1
+Centre shot,6,8.0,3,7,USA,4.0,AZEVEDO A,6 - 7,175,USA,2:55,Post,0
+5m shot,6,12.0,3,7,USA,4.0,McELROY J,6 - 7,147,CAN,2:27,Missed,0
+Penalty shot,6,8.0,3,8,USA,4.0,AZEVEDO A,6 - 8,130,USA,2:10,Goal,1
+Action shot,6,9.0,3,8,USA,4.0,DIGGLE D,6 - 8,81,CAN,1:21,Saved,0
+Extra player shot,7,8.0,3,8,USA,4.0,GRAHAM K,7 - 8,50,CAN,0:50,Goal,1
+Action shot,7,2.0,3,8,USA,4.0,WIGO J,7 - 8,22,USA,0:22,Blocked,0
+5m shot,0,4.0,4,0,MNE,1.0,CONSTANTIN-BICARI,0 - 0,452,CAN,7:32,Blocked,0
+Extra player shot,0,7.0,4,1,MNE,1.0,JANOVIC M,1 - 0,421,MNE,7:01,Goal,1
+Centre shot,0,4.0,4,1,MNE,1.0,CONSTANTIN-BICARI,1 - 0,400,CAN,6:40,Saved,0
+Centre shot,1,4.0,4,1,MNE,1.0,CONSTANTIN-BICARI,1 - 1,376,CAN,6:16,Goal,1
+Action shot,1,8.0,4,1,MNE,1.0,GRAHAM K,1 - 1,316,CAN,5:16,Saved,0
+Action shot,1,8.0,4,1,MNE,1.0,JANOVIC N,1 - 1,286,MNE,4:46,Post,0
+Action shot,1,9.0,4,1,MNE,1.0,IVOVIC A,1 - 1,248,MNE,4:08,Post,0
+Extra player shot,1,7.0,4,1,MNE,1.0,JANOVIC M,1 - 1,231,MNE,3:51,Blocked,0
+Action shot,1,7.0,4,2,MNE,1.0,JANOVIC M,2 - 1,214,MNE,3:34,Goal,1
+Action shot,1,5.0,4,2,MNE,1.0,BOYD J,2 - 1,154,CAN,2:34,Post,0
+Action shot,1,7.0,4,2,MNE,1.0,JANOVIC M,2 - 1,113,MNE,1:53,Saved,0
+Centre shot,1,4.0,4,2,MNE,1.0,CONSTANTIN-BICARI,2 - 1,87,CAN,1:27,Saved,0
+Action shot,1,12.0,4,2,MNE,1.0,JOKIC P,2 - 1,58,MNE,0:58,Blocked,0
+Extra player shot,1,12.0,4,2,MNE,1.0,McELROY J,2 - 1,17,CAN,0:17,Saved,0
+Action shot,1,9.0,4,2,MNE,1.0,DIGGLE D,2 - 1,3,CAN,0:03,Blocked,0
+5m shot,1,7.0,4,2,MNE,1.0,JANOVIC M,2 - 1,1,MNE,0:01,Saved,0
+Action shot,1,2.0,4,2,MNE,2.0,BRGULJAN D,2 - 1,437,MNE,7:17,Missed,0
+5m shot,1,2.0,4,2,MNE,2.0,KUDABA C,2 - 1,368,CAN,6:08,Missed,0
+5m shot,1,9.0,4,3,MNE,2.0,IVOVIC A,3 - 1,350,MNE,5:50,Goal,1
+Action shot,1,6.0,4,3,MNE,2.0,CROUSILLAT U,3 - 1,279,MNE,4:39,Saved,0
+Action shot,1,9.0,4,3,MNE,2.0,DIGGLE D,3 - 1,252,CAN,4:12,Post,0
+Action shot,1,9.0,4,3,MNE,2.0,DIGGLE D,3 - 1,130,CAN,2:10,Blocked,0
+Centre shot,1,8.0,4,4,MNE,2.0,JANOVIC N,4 - 1,112,MNE,1:52,Goal,1
+Action shot,1,5.0,4,4,MNE,2.0,BOYD J,4 - 1,70,CAN,1:10,Saved,0
+Extra player shot,1,11.0,4,5,MNE,2.0,KLIKOVAK F,5 - 1,33,MNE,0:33,Goal,1
+Centre shot,1,4.0,4,5,MNE,2.0,CONSTANTIN-BICARI,5 - 1,11,CAN,0:11,Saved,0
+5m shot,1,8.0,4,5,MNE,2.0,JANOVIC N,5 - 1,1,MNE,0:01,Missed,0
+Action shot,1,8.0,4,6,MNE,3.0,JANOVIC N,6 - 1,450,MNE,7:30,Goal,1
+Action shot,1,9.0,4,6,MNE,3.0,DIGGLE D,6 - 1,423,CAN,7:03,Post,0
+Action shot,1,8.0,4,6,MNE,3.0,JANOVIC N,6 - 1,395,MNE,6:35,Blocked,0
+Action shot,2,2.0,4,6,MNE,3.0,KUDABA C,6 - 2,368,CAN,6:08,Goal,1
+Centre shot,2,3.0,4,6,MNE,3.0,PASKOVIC V,6 - 2,285,MNE,4:45,Post,0
+5m shot,2,8.0,4,6,MNE,3.0,GRAHAM K,6 - 2,256,CAN,4:16,Saved,0
+Action shot,2,6.0,4,7,MNE,3.0,CROUSILLAT U,7 - 2,231,MNE,3:51,Goal,1
+Action shot,2,6.0,4,7,MNE,3.0,CROUSILLAT U,7 - 2,187,MNE,3:07,Post,0
+Action shot,3,8.0,4,7,MNE,3.0,GRAHAM K,7 - 3,129,CAN,2:09,Goal,1
+Action shot,3,7.0,4,7,MNE,3.0,JANOVIC M,7 - 3,99,MNE,1:39,Post,0
+Action shot,3,10.0,4,7,MNE,3.0,CONWAY J,7 - 3,69,CAN,1:09,Blocked,0
+Centre shot,3,7.0,4,7,MNE,3.0,JANOVIC M,7 - 3,39,MNE,0:39,Missed,0
+Action shot,4,2.0,4,7,MNE,3.0,KUDABA C,7 - 4,13,CAN,0:13,Goal,1
+5m shot,4,4.0,4,8,MNE,3.0,PETROVIC A,8 - 4,3,MNE,0:03,Goal,1
+5m shot,4,8.0,4,8,MNE,3.0,GRAHAM K,8 - 4,1,CAN,0:01,Blocked,0
+Centre shot,4,4.0,4,8,MNE,4.0,CONSTANTIN-BICARI,8 - 4,456,CAN,7:36,Saved,0
+Action shot,4,8.0,4,8,MNE,4.0,GRAHAM K,8 - 4,409,CAN,6:49,Blocked,0
+5m shot,4,9.0,4,9,MNE,4.0,IVOVIC A,9 - 4,385,MNE,6:25,Goal,1
+Extra player shot,4,5.0,4,9,MNE,4.0,BRGULJAN D,9 - 4,310,MNE,5:10,Post,0
+Action shot,4,9.0,4,9,MNE,4.0,DIGGLE D,9 - 4,284,CAN,4:44,Missed,0
+5m shot,4,12.0,4,9,MNE,4.0,JOKIC P,9 - 4,267,MNE,4:27,Saved,0
+Extra player shot,4,10.0,4,9,MNE,4.0,MISIC S,9 - 4,213,MNE,3:33,Saved,0
+Action shot,4,5.0,4,9,MNE,4.0,BRGULJAN D,9 - 4,190,MNE,3:10,Saved,0
+Action shot,4,9.0,4,10,MNE,4.0,IVOVIC A,10 - 4,152,MNE,2:32,Goal,1
+Extra player shot,4,4.0,4,10,MNE,4.0,CONSTANTIN-BICARI,10 - 4,134,CAN,2:14,Saved,0
+Action shot,4,12.0,4,10,MNE,4.0,McELROY J,10 - 4,112,CAN,1:52,Missed,0
+Counter attack,4,2.0,4,11,MNE,4.0,BRGULJAN D,11 - 4,101,MNE,1:41,Goal,1
+Action shot,4,2.0,4,11,MNE,4.0,KUDABA C,11 - 4,74,CAN,1:14,Saved,0
+5m shot,4,2.0,4,12,MNE,4.0,BRGULJAN D,12 - 4,45,MNE,0:45,Goal,1

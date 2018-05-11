@@ -1,0 +1,549 @@
+Action,CHN,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,0,1.0,1,0,HUN,1.0,GE W,0 - 0,480,CHN,8:00
+Starting goalkeeper,0,1.0,1,0,HUN,1.0,NAGY V,0 - 0,480,HUN,8:00
+Sprint won possession,0,8.0,1,0,HUN,1.0,WANG Y,0 - 0,480,CHN,8:00
+Turnover foul,0,11.0,1,0,HUN,1.0,ZHANG C,0 - 0,462,CHN,7:42
+Turnover foul,0,3.0,1,0,HUN,1.0,MADARAS N,0 - 0,443,HUN,7:23
+Turnover foul,0,12.0,1,0,HUN,1.0,LIANG N,0 - 0,420,CHN,7:00
+Steal,0,6.0,1,0,HUN,1.0,HOSNYANSZKY N,0 - 0,420,HUN,7:00
+Turnover foul,0,12.0,1,0,HUN,1.0,HARAI B,0 - 0,400,HUN,6:40
+Steal,0,1.0,1,0,HUN,1.0,GE W,0 - 0,400,CHN,6:40
+Action shot - Goal,1,11.0,1,0,HUN,1.0,ZHANG C,0 - 1,377,CHN,6:17
+Penalty foul,1,2.0,1,0,HUN,1.0,TAN F,0 - 1,363,CHN,6:03
+Penalty shot - Goal,1,10.0,1,1,HUN,1.0,VARGA D,1 - 1,363,HUN,6:03
+5m shot - Saved,1,3.0,1,1,HUN,1.0,LIANG Z,1 - 1,337,CHN,5:37
+5m shot - Goal,1,8.0,1,2,HUN,1.0,SZIVOS M,2 - 1,311,HUN,5:11
+5m shot - Blocked,1,7.0,1,2,HUN,1.0,LI B,2 - 1,285,CHN,4:45
+Turnover foul,1,12.0,1,2,HUN,1.0,HARAI B,2 - 1,271,HUN,4:31
+Turnover foul,1,12.0,1,2,HUN,1.0,LIANG N,2 - 1,258,CHN,4:18
+Turnover foul,1,12.0,1,2,HUN,1.0,HARAI B,2 - 1,241,HUN,4:01
+5m shot - Saved,1,3.0,1,2,HUN,1.0,LIANG Z,2 - 1,212,CHN,3:32
+20 sec. exclusion in field,1,2.0,1,2,HUN,1.0,TAN F,2 - 1,212,CHN,3:32
+5m shot - Goal,1,8.0,1,3,HUN,1.0,SZIVOS M,3 - 1,185,HUN,3:05
+20 sec. exclusion in field,1,5.0,1,3,HUN,1.0,VAMOS M,3 - 1,170,HUN,2:50
+Turnover foul,1,12.0,1,3,HUN,1.0,LIANG N,3 - 1,144,CHN,2:24
+Steal,1,5.0,1,3,HUN,1.0,VAMOS M,3 - 1,144,HUN,2:24
+Turnover foul,1,11.0,1,3,HUN,1.0,BEDO K,3 - 1,128,HUN,2:08
+Centre shot - Post,1,11.0,1,3,HUN,1.0,BEDO K,3 - 1,79,HUN,1:19
+Turnover foul,1,4.0,1,3,HUN,1.0,BATORI B,3 - 1,30,HUN,0:30
+Steal,1,9.0,1,3,HUN,1.0,XIE J,3 - 1,30,CHN,0:30
+20 sec. exclusion in field,1,6.0,1,3,HUN,1.0,HOSNYANSZKY N,3 - 1,12,HUN,0:12
+Extra player shot - Saved,1,5.0,1,3,HUN,1.0,GUO J,3 - 1,2,CHN,0:02
+Starting goalkeeper,1,1.0,1,3,HUN,2.0,NAGY V,3 - 1,480,HUN,8:00
+Starting goalkeeper,1,1.0,1,3,HUN,2.0,GE W,3 - 1,480,CHN,8:00
+Sprint won possession,1,8.0,1,3,HUN,2.0,WANG Y,3 - 1,480,CHN,8:00
+Turnover foul,1,4.0,1,3,HUN,2.0,JIANG B,3 - 1,452,CHN,7:32
+Steal,1,3.0,1,3,HUN,2.0,MADARAS N,3 - 1,452,HUN,7:32
+Turnover foul,1,10.0,1,3,HUN,2.0,VARGA D,3 - 1,424,HUN,7:04
+Steal,1,3.0,1,3,HUN,2.0,LIANG Z,3 - 1,424,CHN,7:04
+20 sec. exclusion in field,1,5.0,1,3,HUN,2.0,VAMOS M,3 - 1,401,HUN,6:41
+Extra player shot - Blocked,1,5.0,1,3,HUN,2.0,GUO J,3 - 1,383,CHN,6:23
+5m shot - Saved,1,2.0,1,3,HUN,2.0,GOR-NAGY M,3 - 1,359,HUN,5:59
+5m shot - Goal,2,3.0,1,3,HUN,2.0,LIANG Z,3 - 2,332,CHN,5:32
+20 sec. exclusion in field,2,10.0,1,3,HUN,2.0,ZHANG J,3 - 2,321,CHN,5:21
+Extra player shot - Saved,2,3.0,1,3,HUN,2.0,MADARAS N,3 - 2,313,HUN,5:13
+Centre shot - Goal,2,12.0,1,4,HUN,2.0,HARAI B,4 - 2,300,HUN,5:00
+Turnover foul,2,8.0,1,4,HUN,2.0,WANG Y,4 - 2,281,CHN,4:41
+Steal,2,8.0,1,4,HUN,2.0,SZIVOS M,4 - 2,281,HUN,4:41
+5m shot - Goal,2,8.0,1,5,HUN,2.0,SZIVOS M,5 - 2,261,HUN,4:21
+5m shot - Blocked,2,9.0,1,5,HUN,2.0,XIE J,5 - 2,246,CHN,4:06
+20 sec. exclusion in field,2,10.0,1,5,HUN,2.0,ZHANG J,5 - 2,233,CHN,3:53
+Extra player shot - Goal,2,10.0,1,6,HUN,2.0,VARGA D,6 - 2,220,HUN,3:40
+Turnover foul,2,12.0,1,6,HUN,2.0,LIANG N,6 - 2,193,CHN,3:13
+Action shot - Saved,2,3.0,1,6,HUN,2.0,MADARAS N,6 - 2,176,HUN,2:56
+Centre shot - Post,2,11.0,1,6,HUN,2.0,BEDO K,6 - 2,162,HUN,2:42
+20 sec. exclusion in field,2,11.0,1,6,HUN,2.0,BEDO K,6 - 2,160,HUN,2:40
+Time-Out,2,,1,6,HUN,2.0,,6 - 2,160,CHN,2:40
+Centre shot - Saved,2,11.0,1,6,HUN,2.0,ZHANG C,6 - 2,132,CHN,2:12
+Turnover foul,2,12.0,1,6,HUN,2.0,HARAI B,6 - 2,108,HUN,1:48
+Steal,2,8.0,1,6,HUN,2.0,WANG Y,6 - 2,108,CHN,1:48
+Turnover foul,2,12.0,1,6,HUN,2.0,LIANG N,6 - 2,92,CHN,1:32
+Action shot - Goal,2,6.0,1,7,HUN,2.0,HOSNYANSZKY N,7 - 2,78,HUN,1:18
+5m shot - Saved,2,6.0,1,7,HUN,2.0,PAN N,7 - 2,56,CHN,0:56
+Turnover foul,2,7.0,1,7,HUN,2.0,DECKER A,7 - 2,29,HUN,0:29
+Steal,2,3.0,1,7,HUN,2.0,LIANG Z,7 - 2,29,CHN,0:29
+5m shot - Post,2,6.0,1,7,HUN,4.0,PAN N,7 - 2,42,CHN,0:42
+20 sec. exclusion in field,2,4.0,1,7,HUN,4.0,BATORI B,7 - 2,41,HUN,0:41
+5m shot - Blocked,2,7.0,1,7,HUN,2.0,LI B,7 - 2,10,CHN,0:10
+Centre shot - Post,2,12.0,1,7,HUN,2.0,HARAI B,7 - 2,2,HUN,0:02
+Starting goalkeeper,2,1.0,1,7,HUN,3.0,NAGY V,7 - 2,480,HUN,8:00
+Starting goalkeeper,2,1.0,1,7,HUN,3.0,GE W,7 - 2,480,CHN,8:00
+Sprint won possession,2,5.0,1,7,HUN,3.0,VAMOS M,7 - 2,480,HUN,8:00
+Turnover foul,2,11.0,1,7,HUN,3.0,BEDO K,7 - 2,453,HUN,7:33
+Turnover foul,2,4.0,1,7,HUN,3.0,JIANG B,7 - 2,432,CHN,7:12
+Steal,2,9.0,1,7,HUN,3.0,VARGA D,7 - 2,432,HUN,7:12
+Turnover foul,2,11.0,1,7,HUN,3.0,BEDO K,7 - 2,413,HUN,6:53
+Steal,2,3.0,1,7,HUN,3.0,LIANG Z,7 - 2,413,CHN,6:53
+5m shot - Blocked,2,7.0,1,7,HUN,3.0,LI B,7 - 2,385,CHN,6:25
+5m shot - Goal,2,6.0,1,8,HUN,3.0,HOSNYANSZKY N,8 - 2,362,HUN,6:02
+Turnover foul,2,3.0,1,8,HUN,3.0,LIANG Z,8 - 2,344,CHN,5:44
+Steal,2,10.0,1,8,HUN,3.0,VARGA D,8 - 2,344,HUN,5:44
+Centre shot - Post,2,12.0,1,8,HUN,3.0,HARAI B,8 - 2,315,HUN,5:15
+20 sec. exclusion in centre,2,2.0,1,8,HUN,3.0,GOR-NAGY M,8 - 2,299,HUN,4:59
+Extra player shot - Goal,3,4.0,1,8,HUN,3.0,JIANG B,8 - 3,280,CHN,4:40
+5m shot - Post,3,3.0,1,8,HUN,3.0,MADARAS N,8 - 3,251,HUN,4:11
+Turnover foul,3,3.0,1,8,HUN,3.0,LIANG Z,8 - 3,228,CHN,3:48
+Steal,3,10.0,1,8,HUN,3.0,VARGA D,8 - 3,228,HUN,3:48
+Turnover foul,3,11.0,1,8,HUN,3.0,BEDO K,8 - 3,202,HUN,3:22
+Action shot - Saved,3,3.0,1,8,HUN,3.0,LIANG Z,8 - 3,186,CHN,3:06
+20 sec. exclusion in field,3,3.0,1,8,HUN,3.0,LIANG Z,8 - 3,160,CHN,2:40
+Extra player shot - Goal,3,11.0,1,9,HUN,3.0,BEDO K,9 - 3,156,HUN,2:36
+Turnover foul,3,12.0,1,9,HUN,3.0,LIANG N,9 - 3,130,CHN,2:10
+Steal,3,4.0,1,9,HUN,3.0,BATORI B,9 - 3,130,HUN,2:10
+5m shot - Saved,3,2.0,1,9,HUN,3.0,GOR-NAGY M,9 - 3,110,HUN,1:50
+Turnover foul,3,12.0,1,9,HUN,3.0,LIANG N,9 - 3,89,CHN,1:29
+Steal,3,2.0,1,9,HUN,3.0,GOR-NAGY M,9 - 3,89,HUN,1:29
+Centre shot - Goal,3,12.0,1,10,HUN,3.0,HARAI B,10 - 3,69,HUN,1:09
+Centre shot - Goal,4,2.0,1,10,HUN,3.0,TAN F,10 - 4,48,CHN,0:48
+Turnover foul,4,12.0,1,10,HUN,3.0,HARAI B,10 - 4,22,HUN,0:22
+5m shot - Missed,4,3.0,1,10,HUN,3.0,LIANG Z,10 - 4,9,CHN,0:09
+5m shot - Post,4,4.0,1,10,HUN,3.0,BATORI B,10 - 4,2,HUN,0:02
+Starting goalkeeper,4,1.0,1,10,HUN,4.0,NAGY V,10 - 4,480,HUN,8:00
+Starting goalkeeper,4,1.0,1,10,HUN,4.0,GE W,10 - 4,480,CHN,8:00
+Sprint won possession,4,4.0,1,10,HUN,4.0,BATORI B,10 - 4,480,HUN,8:00
+Turnover foul,4,4.0,1,10,HUN,4.0,BATORI B,10 - 4,451,HUN,7:31
+Steal,4,3.0,1,10,HUN,4.0,LIANG Z,10 - 4,451,CHN,7:31
+5m shot - Missed,4,5.0,1,10,HUN,4.0,GUO J,10 - 4,428,CHN,7:08
+Turnover foul,4,11.0,1,10,HUN,4.0,BEDO K,10 - 4,412,HUN,6:52
+Steal,4,5.0,1,10,HUN,4.0,GUO J,10 - 4,412,CHN,6:52
+Action shot - Missed,4,6.0,1,10,HUN,4.0,PAN N,10 - 4,387,CHN,6:27
+Action shot - Goal,4,4.0,1,11,HUN,4.0,BATORI B,11 - 4,370,HUN,6:10
+Turnover foul,4,2.0,1,11,HUN,4.0,TAN F,11 - 4,350,CHN,5:50
+Steal,4,9.0,1,11,HUN,4.0,VARGA D,11 - 4,350,HUN,5:50
+Counter attack - Goal,4,9.0,1,12,HUN,4.0,VARGA D,12 - 4,338,HUN,5:38
+Action shot - Goal,5,6.0,1,12,HUN,4.0,PAN N,12 - 5,318,CHN,5:18
+Turnover foul,5,4.0,1,12,HUN,4.0,BATORI B,12 - 5,288,HUN,4:48
+Steal,5,8.0,1,12,HUN,4.0,WANG Y,12 - 5,288,CHN,4:48
+20 sec. exclusion in centre,5,10.0,1,12,HUN,4.0,VARGA D,12 - 5,276,HUN,4:36
+Exclusion with substitution,5,10.0,1,12,HUN,4.0,VARGA D,12 - 5,276,HUN,4:36
+Action shot - Post,5,3.0,1,12,HUN,4.0,LIANG Z,12 - 5,259,CHN,4:19
+Turnover foul,5,12.0,1,12,HUN,4.0,LIANG N,12 - 5,202,CHN,3:22
+Steal,5,1.0,1,12,HUN,4.0,NAGY V,12 - 5,202,HUN,3:22
+Action shot - Saved,5,11.0,1,12,HUN,4.0,BEDO K,12 - 5,172,HUN,2:52
+5m shot - Saved,5,6.0,1,12,HUN,4.0,HOSNYANSZKY N,12 - 5,148,HUN,2:28
+5m shot - Missed,5,3.0,1,12,HUN,4.0,LIANG Z,12 - 5,128,CHN,2:08
+Time-Out,5,,1,12,HUN,4.0,,12 - 5,128,HUN,2:08
+Turnover foul,5,12.0,1,12,HUN,4.0,HARAI B,12 - 5,109,HUN,1:49
+Time-Out,5,,1,12,HUN,4.0,,12 - 5,106,CHN,1:46
+5m shot - Post,5,6.0,1,12,HUN,4.0,PAN N,12 - 5,85,CHN,1:25
+5m shot - Saved,5,8.0,1,12,HUN,4.0,SZIVOS M,12 - 5,65,HUN,1:05
+Extra player shot - Saved,5,8.0,1,12,HUN,4.0,WANG Y,12 - 5,28,CHN,0:28
+Action shot - Goal,5,5.0,1,13,HUN,4.0,VAMOS M,13 - 5,9,HUN,0:09
+Starting goalkeeper,0,1.0,2,0,AUS,1.0,GE W,0 - 0,480,CHN,8:00
+Starting goalkeeper,0,13.0,2,0,AUS,1.0,CLARK J,0 - 0,480,AUS,8:00
+Sprint won possession,0,11.0,2,0,AUS,1.0,HOWDEN R,0 - 0,480,AUS,8:00
+20 sec. exclusion in centre,0,3.0,2,0,AUS,1.0,LIANG Z,0 - 0,454,CHN,7:34
+Extra player shot - Blocked,0,11.0,2,0,AUS,1.0,HOWDEN R,0 - 0,436,AUS,7:16
+Action shot - Post,0,8.0,2,0,AUS,1.0,YOUNGER A,0 - 0,421,AUS,7:01
+Centre shot - Saved,0,12.0,2,0,AUS,1.0,LIANG N,0 - 0,398,CHN,6:38
+Action shot - Goal,0,2.0,2,1,AUS,1.0,CAMPBELL R,0 - 1,381,AUS,6:21
+20 sec. exclusion in centre,0,8.0,2,1,AUS,1.0,YOUNGER A,0 - 1,358,AUS,5:58
+Extra player shot - Missed,0,3.0,2,1,AUS,1.0,LIANG Z,0 - 1,340,CHN,5:40
+Action shot - Saved,0,8.0,2,1,AUS,1.0,WANG Y,0 - 1,281,CHN,4:41
+20 sec. exclusion in centre,0,11.0,2,1,AUS,1.0,ZHANG C,0 - 1,255,CHN,4:15
+Extra player shot - Saved,0,9.0,2,1,AUS,1.0,SWIFT J,0 - 1,238,AUS,3:58
+Centre shot - Saved,0,8.0,2,1,AUS,1.0,YOUNGER A,0 - 1,227,AUS,3:47
+5m shot - Goal,1,2.0,2,1,AUS,1.0,TAN F,1 - 1,206,CHN,3:26
+Turnover foul,1,6.0,2,1,AUS,1.0,GILCHRIST J,1 - 1,181,AUS,3:01
+Steal,1,9.0,2,1,AUS,1.0,XIE J,1 - 1,181,CHN,3:01
+20 sec. exclusion in centre,1,11.0,2,1,AUS,1.0,HOWDEN R,1 - 1,166,AUS,2:46
+Turnover foul,1,8.0,2,1,AUS,1.0,WANG Y,1 - 1,146,CHN,2:26
+Steal,1,10.0,2,1,AUS,1.0,MARTIN T,1 - 1,146,AUS,2:26
+Counter attack - Goal,1,7.0,2,2,AUS,1.0,ROACH A,1 - 2,131,AUS,2:11
+Turnover foul,1,9.0,2,2,AUS,1.0,XIE J,1 - 2,102,CHN,1:42
+Steal,1,11.0,2,2,AUS,1.0,HOWDEN R,1 - 2,102,AUS,1:42
+Centre shot - Saved,1,3.0,2,2,AUS,1.0,MARTIN M,1 - 2,84,AUS,1:24
+Centre shot - Goal,1,6.0,2,3,AUS,1.0,GILCHRIST J,1 - 3,72,AUS,1:12
+Turnover foul,1,4.0,2,3,AUS,1.0,JIANG B,1 - 3,48,CHN,0:48
+Steal,1,11.0,2,3,AUS,1.0,HOWDEN R,1 - 3,48,AUS,0:48
+Action shot - Goal,1,11.0,2,4,AUS,1.0,HOWDEN R,1 - 4,22,AUS,0:22
+20 sec. exclusion in centre,1,6.0,2,4,AUS,1.0,GILCHRIST J,1 - 4,9,AUS,0:09
+Extra player shot - Post,1,7.0,2,4,AUS,1.0,LI B,1 - 4,1,CHN,0:01
+Starting goalkeeper,1,1.0,2,4,AUS,2.0,GE W,1 - 4,480,CHN,8:00
+Starting goalkeeper,1,13.0,2,4,AUS,2.0,CLARK J,1 - 4,480,AUS,8:00
+Sprint won possession,1,6.0,2,4,AUS,2.0,GILCHRIST J,1 - 4,480,AUS,8:00
+Turnover foul,1,9.0,2,4,AUS,2.0,SWIFT J,1 - 4,465,AUS,7:45
+Penalty foul,1,6.0,2,4,AUS,2.0,GILCHRIST J,1 - 4,447,AUS,7:27
+Penalty shot - Goal,2,7.0,2,4,AUS,2.0,LI B,2 - 4,447,CHN,7:27
+Turnover foul,2,4.0,2,4,AUS,2.0,COTTERILL J,2 - 4,429,AUS,7:09
+Steal,2,5.0,2,4,AUS,2.0,GUO J,2 - 4,429,CHN,7:09
+5m shot - Post,2,3.0,2,4,AUS,2.0,LIANG Z,2 - 4,407,CHN,6:47
+Turnover foul,2,9.0,2,4,AUS,2.0,SWIFT J,2 - 4,392,AUS,6:32
+Steal,2,3.0,2,4,AUS,2.0,LIANG Z,2 - 4,392,CHN,6:32
+Turnover foul,2,5.0,2,4,AUS,2.0,GUO J,2 - 4,387,CHN,6:27
+Centre shot - Saved,2,7.0,2,4,AUS,2.0,ROACH A,2 - 4,379,AUS,6:19
+Turnover foul,2,3.0,2,4,AUS,2.0,LIANG Z,2 - 4,353,CHN,5:53
+Steal,2,11.0,2,4,AUS,2.0,HOWDEN R,2 - 4,353,AUS,5:53
+Action shot - Goal,2,11.0,2,5,AUS,2.0,HOWDEN R,2 - 5,336,AUS,5:36
+Action shot - Blocked,2,2.0,2,5,AUS,2.0,TAN F,2 - 5,310,CHN,5:10
+Centre shot - Saved,2,8.0,2,5,AUS,2.0,YOUNGER A,2 - 5,292,AUS,4:52
+5m shot - Saved,2,2.0,2,5,AUS,2.0,TAN F,2 - 5,262,CHN,4:22
+Turnover foul,2,3.0,2,5,AUS,2.0,MARTIN M,2 - 5,235,AUS,3:55
+Steal,2,3.0,2,5,AUS,2.0,LIANG Z,2 - 5,235,CHN,3:55
+5m shot - Saved,2,3.0,2,5,AUS,2.0,LIANG Z,2 - 5,208,CHN,3:28
+Turnover foul,2,12.0,2,5,AUS,2.0,MILLER W,2 - 5,180,AUS,3:00
+Steal,2,11.0,2,5,AUS,2.0,ZHANG C,2 - 5,180,CHN,3:00
+Turnover foul,2,2.0,2,5,AUS,2.0,TAN F,2 - 5,159,CHN,2:39
+Steal,2,8.0,2,5,AUS,2.0,YOUNGER A,2 - 5,159,AUS,2:39
+Turnover foul,2,7.0,2,5,AUS,2.0,ROACH A,2 - 5,129,AUS,2:09
+Turnover foul,2,8.0,2,5,AUS,2.0,WANG Y,2 - 5,101,CHN,1:41
+Steal,2,11.0,2,5,AUS,2.0,HOWDEN R,2 - 5,101,AUS,1:41
+Centre shot - Goal,2,10.0,2,6,AUS,2.0,MARTIN T,2 - 6,75,AUS,1:15
+Turnover foul,2,6.0,2,6,AUS,2.0,PAN N,2 - 6,63,CHN,1:03
+Action shot - Missed,2,10.0,2,6,AUS,2.0,MARTIN T,2 - 6,41,AUS,0:41
+Turnover foul,2,11.0,2,6,AUS,2.0,ZHANG C,2 - 6,18,CHN,0:18
+Double exclusion,2,7.0,2,6,AUS,4.0,LI B,2 - 6,180,CHN,3:00
+Turnover foul,2,9.0,2,6,AUS,4.0,XIE J,2 - 6,167,CHN,2:47
+Steal,2,4.0,2,6,AUS,4.0,COTTERILL J,2 - 6,167,AUS,2:47
+Turnover foul,2,9.0,2,6,AUS,4.0,SWIFT J,2 - 6,136,AUS,2:16
+Steal,2,1.0,2,6,AUS,4.0,GE W,2 - 6,136,CHN,2:16
+Turnover foul,2,2.0,2,6,AUS,4.0,TAN F,2 - 6,116,CHN,1:56
+Turnover foul,2,2.0,2,6,AUS,4.0,CAMPBELL R,2 - 6,98,AUS,1:38
+Steal,2,1.0,2,6,AUS,4.0,GE W,2 - 6,98,CHN,1:38
+Steal,2,11.0,2,6,AUS,2.0,HOWDEN R,2 - 6,18,AUS,0:18
+Turnover foul,2,6.0,2,6,AUS,2.0,GILCHRIST J,2 - 6,1,AUS,0:01
+Steal,2,11.0,2,6,AUS,2.0,ZHANG C,2 - 6,1,CHN,0:01
+Starting goalkeeper,2,13.0,2,6,AUS,3.0,CLARK J,2 - 6,480,AUS,8:00
+Starting goalkeeper,2,1.0,2,6,AUS,3.0,GE W,2 - 6,480,CHN,8:00
+Sprint won possession,2,11.0,2,6,AUS,3.0,HOWDEN R,2 - 6,480,AUS,8:00
+Action shot - Goal,2,11.0,2,7,AUS,3.0,HOWDEN R,2 - 7,453,AUS,7:33
+Turnover foul,2,2.0,2,7,AUS,3.0,TAN F,2 - 7,437,CHN,7:17
+Steal,2,8.0,2,7,AUS,3.0,YOUNGER A,2 - 7,437,AUS,7:17
+20 sec. exclusion in field,2,12.0,2,7,AUS,3.0,LIANG N,2 - 7,431,CHN,7:11
+Time-Out,2,,2,7,AUS,3.0,,2 - 7,431,AUS,7:11
+Extra player shot - Goal,2,2.0,2,8,AUS,3.0,CAMPBELL R,2 - 8,412,AUS,6:52
+5m shot - Post,2,6.0,2,8,AUS,3.0,PAN N,2 - 8,384,CHN,6:24
+Action shot - Blocked,2,11.0,2,8,AUS,3.0,ZHANG C,2 - 8,367,CHN,6:07
+Turnover foul,2,2.0,2,8,AUS,3.0,CAMPBELL R,2 - 8,339,AUS,5:39
+5m shot - Blocked,2,5.0,2,8,AUS,3.0,GUO J,2 - 8,310,CHN,5:10
+Action shot - Blocked,2,12.0,2,8,AUS,3.0,MILLER W,2 - 8,281,AUS,4:41
+Penalty foul,2,7.0,2,8,AUS,3.0,ROACH A,2 - 8,260,AUS,4:20
+Penalty shot - Goal,3,5.0,2,8,AUS,3.0,GUO J,3 - 8,260,CHN,4:20
+Turnover foul,3,9.0,2,8,AUS,3.0,SWIFT J,3 - 8,247,AUS,4:07
+Turnover foul,3,11.0,2,8,AUS,3.0,ZHANG C,3 - 8,225,CHN,3:45
+Steal,3,13.0,2,8,AUS,3.0,CLARK J,3 - 8,225,AUS,3:45
+Centre shot - Saved,3,2.0,2,8,AUS,3.0,CAMPBELL R,3 - 8,208,AUS,3:28
+20 sec. exclusion in centre,3,5.0,2,8,AUS,3.0,GUO J,3 - 8,204,CHN,3:24
+Action shot - Post,3,7.0,2,8,AUS,3.0,ROACH A,3 - 8,176,AUS,2:56
+5m shot - Blocked,3,7.0,2,8,AUS,3.0,LI B,3 - 8,151,CHN,2:31
+Action shot - Post,3,4.0,2,8,AUS,3.0,COTTERILL J,3 - 8,123,AUS,2:03
+20 sec. exclusion in field,3,4.0,2,8,AUS,3.0,COTTERILL J,3 - 8,110,AUS,1:50
+Time-Out,3,,2,8,AUS,3.0,,3 - 8,110,CHN,1:50
+Turnover foul,3,5.0,2,8,AUS,3.0,GUO J,3 - 8,84,CHN,1:24
+Steal,3,11.0,2,8,AUS,3.0,HOWDEN R,3 - 8,84,AUS,1:24
+Centre shot - Saved,3,4.0,2,8,AUS,3.0,COTTERILL J,3 - 8,64,AUS,1:04
+Turnover foul,3,8.0,2,8,AUS,3.0,YOUNGER A,3 - 8,16,AUS,0:16
+5m shot - Saved,3,2.0,2,8,AUS,3.0,TAN F,3 - 8,2,CHN,0:02
+5m shot - Saved,3,13.0,2,8,AUS,3.0,CLARK J,3 - 8,1,AUS,0:01
+Starting goalkeeper,3,1.0,2,8,AUS,4.0,GE W,3 - 8,480,CHN,8:00
+Starting goalkeeper,3,13.0,2,8,AUS,4.0,CLARK J,3 - 8,480,AUS,8:00
+Sprint won possession,3,11.0,2,8,AUS,4.0,HOWDEN R,3 - 8,480,AUS,8:00
+20 sec. exclusion in centre,3,3.0,2,8,AUS,4.0,LIANG Z,3 - 8,460,CHN,7:40
+Extra player shot - Goal,3,9.0,2,9,AUS,4.0,SWIFT J,3 - 9,457,AUS,7:37
+Action shot - Saved,3,6.0,2,9,AUS,4.0,PAN N,3 - 9,436,CHN,7:16
+20 sec. exclusion in field,3,8.0,2,9,AUS,4.0,YOUNGER A,3 - 9,425,AUS,7:05
+Extra player shot - Blocked,3,2.0,2,9,AUS,4.0,TAN F,3 - 9,408,CHN,6:48
+20 sec. exclusion in field,3,6.0,2,9,AUS,4.0,GILCHRIST J,3 - 9,399,AUS,6:39
+Exclusion with substitution,3,6.0,2,9,AUS,4.0,GILCHRIST J,3 - 9,399,AUS,6:39
+Extra player shot - Saved,3,6.0,2,9,AUS,4.0,PAN N,3 - 9,385,CHN,6:25
+Action shot - Goal,4,10.0,2,9,AUS,4.0,ZHANG J,4 - 9,377,CHN,6:17
+Turnover foul,4,9.0,2,9,AUS,4.0,SWIFT J,4 - 9,366,AUS,6:06
+Action shot - Goal,5,10.0,2,9,AUS,4.0,ZHANG J,5 - 9,342,CHN,5:42
+Turnover foul,5,2.0,2,9,AUS,4.0,CAMPBELL R,5 - 9,326,AUS,5:26
+Steal,5,10.0,2,9,AUS,4.0,ZHANG J,5 - 9,326,CHN,5:26
+Counter attack - Goal,6,3.0,2,9,AUS,4.0,LIANG Z,6 - 9,317,CHN,5:17
+20 sec. exclusion in centre,6,9.0,2,9,AUS,4.0,XIE J,6 - 9,300,CHN,5:00
+Centre shot - Saved,6,8.0,2,9,AUS,4.0,YOUNGER A,6 - 9,276,AUS,4:36
+Centre shot - Saved,6,3.0,2,9,AUS,4.0,MARTIN M,6 - 9,274,AUS,4:34
+Turnover foul,6,6.0,2,9,AUS,4.0,PAN N,6 - 9,251,CHN,4:11
+Steal,6,3.0,2,9,AUS,4.0,MARTIN M,6 - 9,251,AUS,4:11
+5m shot - Post,6,8.0,2,9,AUS,4.0,YOUNGER A,6 - 9,225,AUS,3:45
+Turnover foul,6,3.0,2,9,AUS,4.0,LIANG Z,6 - 9,206,CHN,3:26
+Steal,6,11.0,2,9,AUS,4.0,HOWDEN R,6 - 9,206,AUS,3:26
+Action shot - Post,6,11.0,2,9,AUS,4.0,HOWDEN R,6 - 9,181,AUS,3:01
+Centre shot - Post,6,8.0,2,9,AUS,4.0,YOUNGER A,6 - 9,180,AUS,3:00
+Double exclusion,6,3.0,2,9,AUS,4.0,MARTIN M,6 - 9,180,AUS,3:00
+Time-Out,6,,2,9,AUS,4.0,,6 - 9,94,CHN,1:34
+Turnover foul,6,3.0,2,9,AUS,4.0,LIANG Z,6 - 9,75,CHN,1:15
+Steal,6,13.0,2,9,AUS,4.0,CLARK J,6 - 9,75,AUS,1:15
+20 sec. exclusion in field,6,2.0,2,9,AUS,4.0,TAN F,6 - 9,55,CHN,0:55
+Time-Out,6,,2,9,AUS,4.0,,6 - 9,55,AUS,0:55
+Action shot - Saved,6,8.0,2,9,AUS,4.0,YOUNGER A,6 - 9,33,AUS,0:33
+20 sec. exclusion in centre,6,2.0,2,9,AUS,4.0,CAMPBELL R,6 - 9,9,AUS,0:09
+Extra player shot - Goal,7,11.0,2,9,AUS,4.0,ZHANG C,7 - 9,8,CHN,0:08
+Starting goalkeeper,0,13.0,3,0,SRB,1.0,WU H,0 - 0,480,CHN,8:00
+Starting goalkeeper,0,13.0,3,0,SRB,1.0,PIJETLOVIC G,0 - 0,480,SRB,8:00
+Sprint won possession,0,11.0,3,0,SRB,1.0,ZHANG C,0 - 0,480,CHN,8:00
+Turnover foul,0,12.0,3,0,SRB,1.0,LIANG N,0 - 0,451,CHN,7:31
+Steal,0,6.0,3,0,SRB,1.0,PIJETLOVIC D,0 - 0,451,SRB,7:31
+Turnover foul,0,6.0,3,0,SRB,1.0,PIJETLOVIC D,0 - 0,434,SRB,7:14
+Steal,0,3.0,3,0,SRB,1.0,LIANG Z,0 - 0,434,CHN,7:14
+5m shot - Saved,0,7.0,3,0,SRB,1.0,LI B,0 - 0,407,CHN,6:47
+Turnover foul,0,9.0,3,0,SRB,1.0,RADEN N,0 - 0,389,SRB,6:29
+Steal,0,11.0,3,0,SRB,1.0,ZHANG C,0 - 0,389,CHN,6:29
+5m shot - Post,0,11.0,3,0,SRB,1.0,ZHANG C,0 - 0,375,CHN,6:15
+Counter attack - Goal,0,10.0,3,1,SRB,1.0,FILIPOVIC F,1 - 0,357,SRB,5:57
+Action shot - Goal,1,6.0,3,1,SRB,1.0,PAN N,1 - 1,328,CHN,5:28
+Turnover foul,1,2.0,3,1,SRB,1.0,MANDIC D,1 - 1,308,SRB,5:08
+Steal,1,13.0,3,1,SRB,1.0,WU H,1 - 1,308,CHN,5:08
+5m shot - Missed,1,5.0,3,1,SRB,1.0,GUO J,1 - 1,288,CHN,4:48
+Turnover foul,1,6.0,3,1,SRB,1.0,PIJETLOVIC D,1 - 1,266,SRB,4:26
+5m shot - Post,1,3.0,3,1,SRB,1.0,LIANG Z,1 - 1,239,CHN,3:59
+Counter attack - Goal,1,4.0,3,2,SRB,1.0,UDOVICIC V,2 - 1,227,SRB,3:47
+20 sec. exclusion in field,1,10.0,3,2,SRB,1.0,FILIPOVIC F,2 - 1,202,SRB,3:22
+Extra player shot - Goal,2,9.0,3,2,SRB,1.0,XIE J,2 - 2,186,CHN,3:06
+20 sec. exclusion in centre,2,5.0,3,2,SRB,1.0,GUO J,2 - 2,169,CHN,2:49
+Extra player shot - Goal,2,12.0,3,3,SRB,1.0,MITROVIC S,3 - 2,168,SRB,2:48
+Action shot - Saved,2,5.0,3,3,SRB,1.0,GUO J,3 - 2,146,CHN,2:26
+5m shot - Goal,2,11.0,3,4,SRB,1.0,PRLAINOVIC A,4 - 2,125,SRB,2:05
+Turnover foul,2,11.0,3,4,SRB,1.0,ZHANG C,4 - 2,98,CHN,1:38
+Steal,2,2.0,3,4,SRB,1.0,MANDIC D,4 - 2,98,SRB,1:38
+Penalty foul,2,9.0,3,4,SRB,1.0,XIE J,4 - 2,80,CHN,1:20
+Penalty shot - Saved,2,2.0,3,4,SRB,1.0,MANDIC D,4 - 2,80,SRB,1:20
+20 sec. exclusion in field,2,8.0,3,4,SRB,1.0,ALEKSIC M,4 - 2,52,SRB,0:52
+Extra player shot - Goal,3,3.0,3,4,SRB,1.0,LIANG Z,4 - 3,32,CHN,0:32
+Turnover foul,3,3.0,3,4,SRB,1.0,GOCIC Z,4 - 3,6,SRB,0:06
+Steal,3,13.0,3,4,SRB,1.0,WU H,4 - 3,6,CHN,0:06
+Starting goalkeeper,3,13.0,3,4,SRB,2.0,WU H,4 - 3,480,CHN,8:00
+Starting goalkeeper,3,13.0,3,4,SRB,2.0,PIJETLOVIC G,4 - 3,480,SRB,8:00
+Sprint won possession,3,8.0,3,4,SRB,2.0,WANG Y,4 - 3,480,CHN,8:00
+Centre shot - Blocked,3,12.0,3,4,SRB,2.0,LIANG N,4 - 3,455,CHN,7:35
+Action shot - Goal,3,4.0,3,5,SRB,2.0,UDOVICIC V,5 - 3,434,SRB,7:14
+Centre shot - Saved,3,12.0,3,5,SRB,2.0,LIANG N,5 - 3,415,CHN,6:55
+Turnover foul,3,5.0,3,5,SRB,2.0,GUO J,5 - 3,389,CHN,6:29
+Steal,3,13.0,3,5,SRB,2.0,PIJETLOVIC G,5 - 3,389,SRB,6:29
+Turnover foul,3,9.0,3,5,SRB,2.0,RADEN N,5 - 3,371,SRB,6:11
+Turnover foul,3,11.0,3,5,SRB,2.0,ZHANG C,5 - 3,353,CHN,5:53
+Steal,3,2.0,3,5,SRB,2.0,MANDIC D,5 - 3,353,SRB,5:53
+Action shot - Saved,3,5.0,3,5,SRB,2.0,CUK M,5 - 3,334,SRB,5:34
+Turnover foul,3,5.0,3,5,SRB,2.0,GUO J,5 - 3,310,CHN,5:10
+Steal,3,9.0,3,5,SRB,2.0,RADEN N,5 - 3,310,SRB,5:10
+Turnover foul,3,10.0,3,5,SRB,2.0,FILIPOVIC F,5 - 3,293,SRB,4:53
+Steal,3,5.0,3,5,SRB,2.0,GUO J,5 - 3,293,CHN,4:53
+Action shot - Goal,4,11.0,3,5,SRB,2.0,ZHANG C,5 - 4,276,CHN,4:36
+5m shot - Saved,4,8.0,3,5,SRB,2.0,ALEKSIC M,5 - 4,252,SRB,4:12
+20 sec. exclusion in centre,4,5.0,3,5,SRB,2.0,GUO J,5 - 4,232,CHN,3:52
+Extra player shot - Saved,4,7.0,3,5,SRB,2.0,NIKIC S,5 - 4,229,SRB,3:49
+Extra player shot - Saved,4,7.0,3,5,SRB,2.0,NIKIC S,5 - 4,221,SRB,3:41
+Centre shot - Saved,4,4.0,3,5,SRB,2.0,JIANG B,5 - 4,196,CHN,3:16
+20 sec. exclusion in field,4,4.0,3,5,SRB,2.0,JIANG B,5 - 4,180,CHN,3:00
+Extra player shot - Goal,4,3.0,3,6,SRB,2.0,GOCIC Z,6 - 4,174,SRB,2:54
+20 sec. exclusion in field,4,7.0,3,6,SRB,2.0,NIKIC S,6 - 4,149,SRB,2:29
+Extra player shot - Goal,5,12.0,3,6,SRB,2.0,LIANG N,6 - 5,142,CHN,2:22
+Centre shot - Saved,5,6.0,3,6,SRB,2.0,PIJETLOVIC D,6 - 5,126,SRB,2:06
+5m shot - Blocked,5,3.0,3,6,SRB,2.0,LIANG Z,6 - 5,100,CHN,1:40
+5m shot - Saved,5,7.0,3,6,SRB,2.0,LI B,6 - 5,72,CHN,1:12
+Counter attack - Goal,5,12.0,3,7,SRB,2.0,MITROVIC S,7 - 5,57,SRB,0:57
+Steal,5,8.0,3,7,SRB,4.0,WANG Y,7 - 5,224,CHN,3:44
+Action shot - Blocked,5,11.0,3,7,SRB,4.0,ZHANG C,7 - 5,210,CHN,3:30
+Action shot - Saved,5,4.0,3,7,SRB,4.0,UDOVICIC V,7 - 5,191,SRB,3:11
+Turnover foul,5,6.0,3,7,SRB,4.0,PAN N,7 - 5,163,CHN,2:43
+Steal,5,7.0,3,7,SRB,4.0,NIKIC S,7 - 5,163,SRB,2:43
+Time-Out,5,,3,7,SRB,4.0,,7 - 5,162,SRB,2:42
+Turnover foul,5,5.0,3,7,SRB,4.0,CUK M,7 - 5,146,SRB,2:26
+Steal,5,11.0,3,7,SRB,4.0,ZHANG C,7 - 5,146,CHN,2:26
+Turnover foul,5,8.0,3,7,SRB,4.0,WANG Y,7 - 5,132,CHN,2:12
+Steal,5,12.0,3,7,SRB,4.0,MITROVIC S,7 - 5,132,SRB,2:12
+Turnover foul,5,5.0,3,7,SRB,2.0,GUO J,7 - 5,29,CHN,0:29
+Steal,5,3.0,3,7,SRB,2.0,GOCIC Z,7 - 5,29,SRB,0:29
+Centre shot - Goal,5,6.0,3,8,SRB,2.0,PIJETLOVIC D,8 - 5,13,SRB,0:13
+5m shot - Saved,5,5.0,3,8,SRB,2.0,GUO J,8 - 5,3,CHN,0:03
+Starting goalkeeper,5,1.0,3,8,SRB,3.0,MITROVIC B,8 - 5,480,SRB,8:00
+Starting goalkeeper,5,13.0,3,8,SRB,3.0,WU H,8 - 5,480,CHN,8:00
+Sprint won possession,5,12.0,3,8,SRB,3.0,MITROVIC S,8 - 5,480,SRB,8:00
+5m shot - Goal,5,10.0,3,9,SRB,3.0,FILIPOVIC F,9 - 5,458,SRB,7:38
+Action shot - Saved,5,6.0,3,9,SRB,3.0,PAN N,9 - 5,438,CHN,7:18
+Counter attack - Goal,5,12.0,3,10,SRB,3.0,MITROVIC S,10 - 5,425,SRB,7:05
+Centre shot - Goal,5,7.0,3,11,SRB,3.0,NIKIC S,11 - 5,380,SRB,6:20
+5m shot - Goal,6,6.0,3,11,SRB,3.0,PAN N,11 - 6,358,CHN,5:58
+Turnover foul,6,7.0,3,11,SRB,3.0,NIKIC S,11 - 6,342,SRB,5:42
+20 sec. exclusion in centre,6,3.0,3,11,SRB,3.0,GOCIC Z,11 - 6,318,SRB,5:18
+Time-Out,6,,3,11,SRB,3.0,,11 - 6,318,CHN,5:18
+Extra player shot - Goal,7,11.0,3,11,SRB,3.0,ZHANG C,11 - 7,303,CHN,5:03
+Penalty foul,7,3.0,3,11,SRB,3.0,LIANG Z,11 - 7,290,CHN,4:50
+Penalty shot - Goal,7,4.0,3,12,SRB,3.0,UDOVICIC V,12 - 7,290,SRB,4:50
+5m shot - Missed,7,11.0,3,12,SRB,3.0,ZHANG C,12 - 7,271,CHN,4:31
+Turnover foul,7,10.0,3,12,SRB,3.0,FILIPOVIC F,12 - 7,261,SRB,4:21
+Steal,7,7.0,3,12,SRB,3.0,LI B,12 - 7,261,CHN,4:21
+Action shot - Missed,7,5.0,3,12,SRB,3.0,GUO J,12 - 7,236,CHN,3:56
+Time-Out,7,,3,12,SRB,3.0,,12 - 7,236,SRB,3:56
+Turnover foul,7,8.0,3,12,SRB,3.0,ALEKSIC M,12 - 7,217,SRB,3:37
+Centre shot - Saved,7,3.0,3,12,SRB,3.0,LIANG Z,12 - 7,195,CHN,3:15
+Turnover foul,7,6.0,3,12,SRB,3.0,PIJETLOVIC D,12 - 7,169,SRB,2:49
+Steal,7,11.0,3,12,SRB,3.0,ZHANG C,12 - 7,169,CHN,2:49
+Centre shot - Saved,7,5.0,3,12,SRB,3.0,GUO J,12 - 7,147,CHN,2:27
+Turnover foul,7,9.0,3,12,SRB,3.0,RADEN N,12 - 7,124,SRB,2:04
+Steal,7,11.0,3,12,SRB,3.0,ZHANG C,12 - 7,124,CHN,2:04
+Turnover foul,7,7.0,3,12,SRB,3.0,LI B,12 - 7,100,CHN,1:40
+Steal,7,2.0,3,12,SRB,3.0,MANDIC D,12 - 7,100,SRB,1:40
+Action shot - Saved,7,9.0,3,12,SRB,3.0,RADEN N,12 - 7,77,SRB,1:17
+5m shot - Goal,8,3.0,3,12,SRB,3.0,LIANG Z,12 - 8,49,CHN,0:49
+Centre shot - Goal,8,6.0,3,13,SRB,3.0,PIJETLOVIC D,13 - 8,34,SRB,0:34
+5m shot - Missed,8,7.0,3,13,SRB,3.0,LI B,13 - 8,5,CHN,0:05
+Turnover foul,8,13.0,3,13,SRB,3.0,WU H,13 - 8,1,CHN,0:01
+Steal,8,6.0,3,13,SRB,3.0,PIJETLOVIC D,13 - 8,1,SRB,0:01
+Starting goalkeeper,8,13.0,3,13,SRB,4.0,WU H,13 - 8,480,CHN,8:00
+Starting goalkeeper,8,1.0,3,13,SRB,4.0,MITROVIC B,13 - 8,480,SRB,8:00
+Sprint won possession,8,3.0,3,13,SRB,4.0,GOCIC Z,13 - 8,480,SRB,8:00
+Penalty foul,8,10.0,3,13,SRB,4.0,ZHANG J,13 - 8,459,CHN,7:39
+Penalty shot - Saved,8,10.0,3,13,SRB,4.0,FILIPOVIC F,13 - 8,459,SRB,7:39
+Turnover foul,8,6.0,3,13,SRB,4.0,PAN N,13 - 8,432,CHN,7:12
+Steal,8,1.0,3,13,SRB,4.0,MITROVIC B,13 - 8,432,SRB,7:12
+Action shot - Goal,8,6.0,3,14,SRB,4.0,PIJETLOVIC D,14 - 8,417,SRB,6:57
+Turnover foul,8,5.0,3,14,SRB,4.0,GUO J,14 - 8,396,CHN,6:36
+Steal,8,10.0,3,14,SRB,4.0,FILIPOVIC F,14 - 8,396,SRB,6:36
+Action shot - Saved,8,12.0,3,14,SRB,4.0,MITROVIC S,14 - 8,368,SRB,6:08
+5m shot - Saved,8,5.0,3,14,SRB,4.0,GUO J,14 - 8,344,CHN,5:44
+Turnover foul,8,4.0,3,14,SRB,4.0,UDOVICIC V,14 - 8,330,SRB,5:30
+Steal,8,8.0,3,14,SRB,4.0,WANG Y,14 - 8,330,CHN,5:30
+Action shot - Saved,8,3.0,3,14,SRB,4.0,LIANG Z,14 - 8,312,CHN,5:12
+Action shot - Post,8,3.0,3,14,SRB,4.0,LIANG Z,14 - 8,307,CHN,5:07
+Action shot - Saved,8,3.0,3,14,SRB,4.0,LIANG Z,14 - 8,291,CHN,4:51
+Action shot - Saved,8,7.0,3,14,SRB,4.0,NIKIC S,14 - 8,274,SRB,4:34
+Turnover foul,8,7.0,3,14,SRB,4.0,LI B,14 - 8,245,CHN,4:05
+Steal,8,10.0,3,14,SRB,4.0,FILIPOVIC F,14 - 8,245,SRB,4:05
+Turnover foul,8,10.0,3,14,SRB,4.0,FILIPOVIC F,14 - 8,244,SRB,4:04
+Steal,8,7.0,3,14,SRB,4.0,LI B,14 - 8,244,CHN,4:04
+Turnover foul,8,10.0,3,14,SRB,4.0,ZHANG J,14 - 8,228,CHN,3:48
+Steal,8,11.0,3,14,SRB,4.0,PRLAINOVIC A,14 - 8,228,SRB,3:48
+Turnover foul,8,12.0,3,14,SRB,4.0,MITROVIC S,14 - 8,224,SRB,3:44
+Counter attack - Goal,8,12.0,3,15,SRB,4.0,MITROVIC S,15 - 8,124,SRB,2:04
+Turnover foul,8,11.0,3,15,SRB,4.0,ZHANG C,15 - 8,104,CHN,1:44
+Steal,8,1.0,3,15,SRB,4.0,MITROVIC B,15 - 8,104,SRB,1:44
+Turnover foul,8,6.0,3,15,SRB,4.0,PIJETLOVIC D,15 - 8,93,SRB,1:33
+Steal,8,5.0,3,15,SRB,4.0,GUO J,15 - 8,93,CHN,1:33
+Action shot - Goal,9,9.0,3,15,SRB,4.0,XIE J,15 - 9,76,CHN,1:16
+Centre shot - Missed,9,6.0,3,15,SRB,4.0,PIJETLOVIC D,15 - 9,58,SRB,0:58
+5m shot - Saved,9,5.0,3,15,SRB,4.0,GUO J,15 - 9,36,CHN,0:36
+Action shot - Goal,9,5.0,3,16,SRB,4.0,CUK M,16 - 9,12,SRB,0:12
+Centre shot - Saved,9,11.0,3,16,SRB,4.0,ZHANG C,16 - 9,2,CHN,0:02
+Starting goalkeeper,0,1.0,4,0,ITA,1.0,GE W,0 - 0,480,CHN,8:00
+Starting goalkeeper,0,1.0,4,0,ITA,1.0,TEMPESTI S,0 - 0,480,ITA,8:00
+Sprint won possession,0,10.0,4,0,ITA,1.0,FIORENTINI D,0 - 0,480,ITA,8:00
+Turnover foul,0,11.0,4,0,ITA,1.0,AICARDI M,0 - 0,460,ITA,7:40
+Turnover foul,0,2.0,4,0,ITA,1.0,TAN F,0 - 0,437,CHN,7:17
+Steal,0,3.0,4,0,ITA,1.0,GITTO N,0 - 0,437,ITA,7:17
+Action shot - Goal,0,8.0,4,1,ITA,1.0,GALLO V,1 - 0,413,ITA,6:53
+Turnover foul,0,12.0,4,1,ITA,1.0,LIANG N,1 - 0,395,CHN,6:35
+Turnover foul,0,8.0,4,1,ITA,1.0,GALLO V,1 - 0,378,ITA,6:18
+Steal,0,3.0,4,1,ITA,1.0,LIANG Z,1 - 0,378,CHN,6:18
+Action shot - Blocked,0,2.0,4,1,ITA,1.0,TAN F,1 - 0,348,CHN,5:48
+Turnover foul,0,11.0,4,1,ITA,1.0,ZHANG C,1 - 0,319,CHN,5:19
+Action shot - Goal,0,5.0,4,2,ITA,1.0,GIORGETTI A,2 - 0,295,ITA,4:55
+Turnover foul,0,11.0,4,2,ITA,1.0,ZHANG C,2 - 0,278,CHN,4:38
+20 sec. exclusion in field,0,2.0,4,2,ITA,1.0,TAN F,2 - 0,273,CHN,4:33
+Centre shot - Post,0,12.0,4,2,ITA,1.0,NAPOLITANO C,2 - 0,244,ITA,4:04
+20 sec. exclusion in field,0,12.0,4,2,ITA,1.0,NAPOLITANO C,2 - 0,223,ITA,3:43
+20 sec. exclusion in field,0,4.0,4,2,ITA,1.0,FIGLIOLI P,2 - 0,196,ITA,3:16
+Extra player shot - Goal,1,11.0,4,2,ITA,1.0,ZHANG C,2 - 1,188,CHN,3:08
+Action shot - Missed,1,4.0,4,2,ITA,1.0,FIGLIOLI P,2 - 1,164,ITA,2:44
+Turnover foul,1,11.0,4,2,ITA,1.0,ZHANG C,2 - 1,144,CHN,2:24
+Steal,1,8.0,4,2,ITA,1.0,GALLO V,2 - 1,144,ITA,2:24
+Turnover foul,1,9.0,4,2,ITA,1.0,PRESCIUTTI C,2 - 1,123,ITA,2:03
+Turnover foul,1,2.0,4,2,ITA,1.0,TAN F,2 - 1,102,CHN,1:42
+Steal,1,4.0,4,2,ITA,1.0,FIGLIOLI P,2 - 1,102,ITA,1:42
+Centre shot - Goal,1,11.0,4,3,ITA,1.0,AICARDI M,3 - 1,80,ITA,1:20
+Turnover foul,1,11.0,4,3,ITA,1.0,ZHANG C,3 - 1,52,CHN,0:52
+Steal,1,4.0,4,3,ITA,1.0,FIGLIOLI P,3 - 1,52,ITA,0:52
+Turnover foul,1,12.0,4,3,ITA,1.0,NAPOLITANO C,3 - 1,24,ITA,0:24
+Steal,1,3.0,4,3,ITA,1.0,LIANG Z,3 - 1,24,CHN,0:24
+Turnover foul,1,2.0,4,3,ITA,1.0,TAN F,3 - 1,2,CHN,0:02
+Starting goalkeeper,1,1.0,4,3,ITA,2.0,TEMPESTI S,3 - 1,480,ITA,8:00
+Starting goalkeeper,1,1.0,4,3,ITA,2.0,GE W,3 - 1,480,CHN,8:00
+Sprint won possession,1,4.0,4,3,ITA,2.0,FIGLIOLI P,3 - 1,480,ITA,8:00
+Turnover foul,1,12.0,4,3,ITA,2.0,NAPOLITANO C,3 - 1,454,ITA,7:34
+Turnover foul,1,5.0,4,3,ITA,2.0,GUO J,3 - 1,436,CHN,7:16
+Steal,1,6.0,4,3,ITA,2.0,FELUGO M,3 - 1,436,ITA,7:16
+20 sec. exclusion in field,1,5.0,4,3,ITA,2.0,GUO J,3 - 1,435,CHN,7:15
+Extra player shot - Goal,1,6.0,4,4,ITA,2.0,FELUGO M,4 - 1,423,ITA,7:03
+Turnover foul,1,9.0,4,4,ITA,2.0,XIE J,4 - 1,397,CHN,6:37
+Steal,1,4.0,4,4,ITA,2.0,FIGLIOLI P,4 - 1,397,ITA,6:37
+Turnover foul,1,9.0,4,4,ITA,2.0,PRESCIUTTI C,4 - 1,378,ITA,6:18
+Turnover foul,1,3.0,4,4,ITA,2.0,LIANG Z,4 - 1,353,CHN,5:53
+20 sec. exclusion in field,1,7.0,4,4,ITA,2.0,LI B,4 - 1,342,CHN,5:42
+Extra player shot - Missed,1,7.0,4,4,ITA,2.0,FIGARI N,4 - 1,322,ITA,5:22
+Action shot - Post,1,3.0,4,4,ITA,2.0,LIANG Z,4 - 1,305,CHN,5:05
+Turnover foul,1,12.0,4,4,ITA,2.0,NAPOLITANO C,4 - 1,293,ITA,4:53
+Turnover foul,1,2.0,4,4,ITA,2.0,TAN F,4 - 1,267,CHN,4:27
+Turnover foul,1,12.0,4,4,ITA,2.0,NAPOLITANO C,4 - 1,245,ITA,4:05
+Steal,1,8.0,4,4,ITA,2.0,WANG Y,4 - 1,245,CHN,4:05
+Action shot - Saved,1,8.0,4,4,ITA,2.0,WANG Y,4 - 1,220,CHN,3:40
+Centre shot - Goal,2,2.0,4,4,ITA,2.0,TAN F,4 - 2,217,CHN,3:37
+20 sec. exclusion in centre,2,5.0,4,4,ITA,2.0,GUO J,4 - 2,191,CHN,3:11
+Turnover foul,2,10.0,4,4,ITA,2.0,FIORENTINI D,4 - 2,174,ITA,2:54
+Steal,2,10.0,4,4,ITA,2.0,ZHANG J,4 - 2,174,CHN,2:54
+Turnover foul,2,3.0,4,4,ITA,2.0,LIANG Z,4 - 2,153,CHN,2:33
+Steal,2,6.0,4,4,ITA,2.0,FELUGO M,4 - 2,153,ITA,2:33
+5m shot - Saved,2,3.0,4,4,ITA,2.0,LIANG Z,4 - 2,101,CHN,1:41
+5m shot - Goal,2,6.0,4,5,ITA,2.0,FELUGO M,5 - 2,79,ITA,1:19
+Turnover foul,2,12.0,4,5,ITA,2.0,LIANG N,5 - 2,59,CHN,0:59
+20 sec. exclusion in centre,2,12.0,4,5,ITA,2.0,LIANG N,5 - 2,40,CHN,0:40
+Extra player shot - Goal,2,5.0,4,6,ITA,2.0,GIORGETTI A,6 - 2,32,ITA,0:32
+5m shot - Blocked,2,11.0,4,6,ITA,2.0,ZHANG C,6 - 2,9,CHN,0:09
+Centre shot - Post,2,5.0,4,6,ITA,4.0,GUO J,6 - 2,10,CHN,0:10
+20 sec. exclusion in field,2,10.0,4,6,ITA,4.0,FIORENTINI D,6 - 2,3,ITA,0:03
+Counter attack - Saved,2,4.0,4,6,ITA,2.0,FIGLIOLI P,6 - 2,1,ITA,0:01
+Starting goalkeeper,2,1.0,4,6,ITA,3.0,TEMPESTI S,6 - 2,480,ITA,8:00
+Starting goalkeeper,2,13.0,4,6,ITA,3.0,WU H,6 - 2,480,CHN,8:00
+Sprint won possession,2,4.0,4,6,ITA,3.0,FIGLIOLI P,6 - 2,480,ITA,8:00
+20 sec. exclusion in centre,2,2.0,4,6,ITA,3.0,TAN F,6 - 2,455,CHN,7:35
+Extra player shot - Goal,2,5.0,4,7,ITA,3.0,GIORGETTI A,7 - 2,442,ITA,7:22
+Turnover foul,2,2.0,4,7,ITA,3.0,TAN F,7 - 2,416,CHN,6:56
+Steal,2,7.0,4,7,ITA,3.0,FIGARI N,7 - 2,416,ITA,6:56
+Turnover foul,2,11.0,4,7,ITA,3.0,AICARDI M,7 - 2,395,ITA,6:35
+Turnover foul,2,8.0,4,7,ITA,3.0,WANG Y,7 - 2,376,CHN,6:16
+Steal,2,4.0,4,7,ITA,3.0,FIGLIOLI P,7 - 2,376,ITA,6:16
+Counter attack - Goal,2,9.0,4,8,ITA,3.0,PRESCIUTTI C,8 - 2,362,ITA,6:02
+5m shot - Blocked,2,7.0,4,8,ITA,3.0,LI B,8 - 2,339,CHN,5:39
+Action shot - Goal,2,8.0,4,9,ITA,3.0,GALLO V,9 - 2,316,ITA,5:16
+Turnover foul,2,2.0,4,9,ITA,3.0,TAN F,9 - 2,293,CHN,4:53
+Steal,2,6.0,4,9,ITA,3.0,FELUGO M,9 - 2,293,ITA,4:53
+20 sec. exclusion in centre,2,6.0,4,9,ITA,3.0,PAN N,9 - 2,272,CHN,4:32
+Extra player shot - Missed,2,8.0,4,9,ITA,3.0,GALLO V,9 - 2,256,ITA,4:16
+5m shot - Missed,2,6.0,4,9,ITA,3.0,PAN N,9 - 2,235,CHN,3:55
+20 sec. exclusion in field,2,6.0,4,9,ITA,3.0,PAN N,9 - 2,233,CHN,3:53
+Time-Out,2,,4,9,ITA,3.0,,9 - 2,233,ITA,3:53
+Extra player shot - Saved,2,4.0,4,9,ITA,3.0,FIGLIOLI P,9 - 2,214,ITA,3:34
+Turnover foul,2,2.0,4,9,ITA,3.0,TAN F,9 - 2,190,CHN,3:10
+Steal,2,6.0,4,9,ITA,3.0,FELUGO M,9 - 2,190,ITA,3:10
+Turnover foul,2,5.0,4,9,ITA,3.0,GIORGETTI A,9 - 2,168,ITA,2:48
+Steal,2,3.0,4,9,ITA,3.0,LIANG Z,9 - 2,168,CHN,2:48
+Action shot - Saved,2,5.0,4,9,ITA,3.0,GUO J,9 - 2,137,CHN,2:17
+Turnover foul,2,5.0,4,9,ITA,3.0,GIORGETTI A,9 - 2,115,ITA,1:55
+Steal,2,10.0,4,9,ITA,3.0,ZHANG J,9 - 2,115,CHN,1:55
+5m shot - Saved,2,2.0,4,9,ITA,3.0,TAN F,9 - 2,88,CHN,1:28
+Action shot - Blocked,2,5.0,4,9,ITA,3.0,GIORGETTI A,9 - 2,63,ITA,1:03
+Turnover foul,2,12.0,4,9,ITA,3.0,NAPOLITANO C,9 - 2,41,ITA,0:41
+Steal,2,13.0,4,9,ITA,3.0,WU H,9 - 2,41,CHN,0:41
+Action shot - Saved,2,10.0,4,9,ITA,3.0,ZHANG J,9 - 2,17,CHN,0:17
+Action shot - Blocked,2,2.0,4,9,ITA,3.0,PEREZ A,9 - 2,1,ITA,0:01
+Starting goalkeeper,2,13.0,4,9,ITA,4.0,DEL LUNGO M,9 - 2,480,ITA,8:00
+Starting goalkeeper,2,13.0,4,9,ITA,4.0,WU H,9 - 2,480,CHN,8:00
+Sprint won possession,2,4.0,4,9,ITA,4.0,FIGLIOLI P,9 - 2,480,ITA,8:00
+Centre shot - Saved,2,11.0,4,9,ITA,4.0,AICARDI M,9 - 2,461,ITA,7:41
+20 sec. exclusion in centre,2,9.0,4,9,ITA,4.0,PRESCIUTTI C,9 - 2,442,ITA,7:22
+Time-Out,2,,4,9,ITA,4.0,,9 - 2,442,CHN,7:22
+Extra player shot - Blocked,2,3.0,4,9,ITA,4.0,LIANG Z,9 - 2,424,CHN,7:04
+Action shot - Post,2,4.0,4,9,ITA,4.0,FIGLIOLI P,9 - 2,409,ITA,6:49
+Centre shot - Goal,2,11.0,4,10,ITA,4.0,AICARDI M,10 - 2,389,ITA,6:29
+5m shot - Blocked,2,3.0,4,10,ITA,4.0,LIANG Z,10 - 2,362,CHN,6:02
+Penalty foul,2,3.0,4,10,ITA,4.0,LIANG Z,10 - 2,343,CHN,5:43
+Penalty shot - Saved,2,4.0,4,10,ITA,4.0,FIGLIOLI P,10 - 2,343,ITA,5:43
+Turnover foul,2,11.0,4,10,ITA,4.0,ZHANG C,10 - 2,320,CHN,5:20
+Steal,2,3.0,4,10,ITA,4.0,GITTO N,10 - 2,320,ITA,5:20
+Action shot - Missed,2,10.0,4,10,ITA,4.0,FIORENTINI D,10 - 2,304,ITA,5:04
+Centre shot - Saved,2,9.0,4,10,ITA,4.0,XIE J,10 - 2,276,CHN,4:36
+Action shot - Goal,2,5.0,4,11,ITA,4.0,GIORGETTI A,11 - 2,258,ITA,4:18
+Action shot - Blocked,2,3.0,4,11,ITA,4.0,LIANG Z,11 - 2,233,CHN,3:53
+Centre shot - Post,2,12.0,4,11,ITA,4.0,NAPOLITANO C,11 - 2,205,ITA,3:25
+Turnover foul,2,3.0,4,11,ITA,4.0,LIANG Z,11 - 2,178,CHN,2:58
+Steal,2,10.0,4,11,ITA,4.0,FIORENTINI D,11 - 2,178,ITA,2:58
+20 sec. exclusion in centre,2,7.0,4,11,ITA,4.0,LI B,11 - 2,168,CHN,2:48
+Extra player shot - Blocked,2,10.0,4,11,ITA,4.0,FIORENTINI D,11 - 2,157,ITA,2:37
+Turnover foul,2,9.0,4,11,ITA,4.0,XIE J,11 - 2,129,CHN,2:09
+Turnover foul,2,12.0,4,11,ITA,4.0,NAPOLITANO C,11 - 2,107,ITA,1:47
+Action shot - Saved,2,5.0,4,11,ITA,4.0,GUO J,11 - 2,83,CHN,1:23
+Turnover foul,2,2.0,4,11,ITA,4.0,PEREZ A,11 - 2,56,ITA,0:56
+20 sec. exclusion in centre,2,6.0,4,11,ITA,4.0,FELUGO M,11 - 2,37,ITA,0:37
+Penalty foul,2,10.0,4,11,ITA,4.0,FIORENTINI D,11 - 2,1,ITA,0:01
+Penalty shot - Goal,3,3.0,4,11,ITA,4.0,LIANG Z,11 - 3,1,CHN,0:01

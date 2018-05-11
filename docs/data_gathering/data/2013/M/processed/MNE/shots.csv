@@ -1,0 +1,360 @@
+Action,Cap,Game,MNE,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time,Result,Goal
+Extra player shot,3.0,1,0,0,GRE,1.0,PASKOVIC V,0 - 0,427,MNE,7:07,Post,0
+5m shot,7.0,1,0,0,GRE,1.0,AFROUDAKIS C,0 - 0,342,GRE,5:42,Saved,0
+Action shot,5.0,1,0,0,GRE,1.0,FOUNTOULIS I,0 - 0,198,GRE,3:18,Blocked,0
+Action shot,2.0,1,0,0,GRE,1.0,BRGULJAN D,0 - 0,103,MNE,1:43,Missed,0
+Extra player shot,3.0,1,0,0,GRE,1.0,PASKOVIC V,0 - 0,1,MNE,0:01,Post,0
+5m shot,11.0,1,0,0,GRE,2.0,KLIKOVAK F,0 - 0,365,MNE,6:05,Missed,0
+5m shot,5.0,1,0,0,GRE,2.0,BRGULJAN D,0 - 0,326,MNE,5:26,Saved,0
+Extra player shot,10.0,1,0,1,GRE,2.0,KOLOMVOS C,0 - 1,304,GRE,5:04,Goal,1
+Action shot,6.0,1,0,1,GRE,2.0,CROUSILLAT U,0 - 1,275,MNE,4:35,Saved,0
+Extra player shot,7.0,1,0,1,GRE,2.0,JANOVIC M,0 - 1,206,MNE,3:26,Saved,0
+Extra player shot,2.0,1,0,2,GRE,2.0,MYLONAKIS E,0 - 2,161,GRE,2:41,Goal,1
+Centre shot,8.0,1,0,3,GRE,2.0,DELAKAS E,0 - 3,97,GRE,1:37,Goal,1
+Extra player shot,11.0,1,0,3,GRE,2.0,GOUNAS A,0 - 3,36,GRE,0:36,Saved,0
+Action shot,9.0,1,0,3,GRE,3.0,IVOVIC A,0 - 3,396,MNE,6:36,Saved,0
+Extra player shot,9.0,1,0,3,GRE,3.0,MOURIKIS K,0 - 3,365,GRE,6:05,Missed,0
+Action shot,7.0,1,0,3,GRE,3.0,JANOVIC M,0 - 3,298,MNE,4:58,Missed,0
+Extra player shot,8.0,1,0,3,GRE,3.0,DELAKAS E,0 - 3,278,GRE,4:38,Saved,0
+Centre shot,10.0,1,0,3,GRE,3.0,KOLOMVOS C,0 - 3,260,GRE,4:20,Missed,0
+Action shot,5.0,1,0,3,GRE,3.0,BRGULJAN D,0 - 3,240,MNE,4:00,Post,0
+Centre shot,10.0,1,0,3,GRE,3.0,KOLOMVOS C,0 - 3,229,GRE,3:49,Missed,0
+Action shot,5.0,1,0,4,GRE,3.0,FOUNTOULIS I,0 - 4,147,GRE,2:27,Goal,1
+Action shot,3.0,1,0,4,GRE,3.0,PASKOVIC V,0 - 4,121,MNE,2:01,Saved,0
+Penalty shot,9.0,1,1,4,GRE,3.0,IVOVIC A,1 - 4,74,MNE,1:14,Goal,1
+Action shot,2.0,1,1,5,GRE,3.0,MYLONAKIS E,1 - 5,26,GRE,0:26,Goal,1
+Action shot,6.0,1,1,5,GRE,4.0,CROUSILLAT U,1 - 5,450,MNE,7:30,Post,0
+Action shot,9.0,1,1,5,GRE,4.0,IVOVIC A,1 - 5,438,MNE,7:18,Saved,0
+Extra player shot,2.0,1,1,6,GRE,4.0,MYLONAKIS E,1 - 6,414,GRE,6:54,Goal,1
+Extra player shot,6.0,1,1,6,GRE,4.0,CROUSILLAT U,1 - 6,381,MNE,6:21,Saved,0
+Action shot,6.0,1,1,6,GRE,4.0,CROUSILLAT U,1 - 6,339,MNE,5:39,Saved,0
+5m shot,11.0,1,1,6,GRE,4.0,GOUNAS A,1 - 6,311,GRE,5:11,Blocked,0
+Action shot,9.0,1,2,6,GRE,4.0,IVOVIC A,2 - 6,276,MNE,4:36,Goal,1
+Action shot,8.0,1,2,6,GRE,4.0,JANOVIC N,2 - 6,219,MNE,3:39,Blocked,0
+5m shot,8.0,1,2,6,GRE,4.0,DELAKAS E,2 - 6,191,GRE,3:11,Blocked,0
+Action shot,7.0,1,2,6,GRE,4.0,JANOVIC M,2 - 6,161,MNE,2:41,Saved,0
+Extra player shot,2.0,1,2,6,GRE,4.0,BRGULJAN D,2 - 6,119,MNE,1:59,Missed,0
+Centre shot,9.0,1,2,6,GRE,4.0,MOURIKIS K,2 - 6,95,GRE,1:35,Blocked,0
+Extra player shot,8.0,1,3,6,GRE,4.0,JANOVIC N,3 - 6,56,MNE,0:56,Goal,1
+Action shot,5.0,1,3,6,GRE,4.0,FOUNTOULIS I,3 - 6,28,GRE,0:28,Blocked,0
+Counter attack,9.0,1,4,6,GRE,4.0,IVOVIC A,4 - 6,22,MNE,0:22,Goal,1
+Counter attack,7.0,2,1,0,ESP,1.0,JANOVIC M,1 - 0,453,MNE,7:33,Goal,1
+Centre shot,9.0,2,1,1,ESP,1.0,VALLES X,1 - 1,429,ESP,7:09,Goal,1
+Action shot,2.0,2,1,1,ESP,1.0,BRGULJAN D,1 - 1,402,MNE,6:42,Saved,0
+5m shot,5.0,2,1,2,ESP,1.0,MOLINA G,1 - 2,379,ESP,6:19,Goal,1
+Action shot,7.0,2,1,2,ESP,1.0,JANOVIC M,1 - 2,349,MNE,5:49,Missed,0
+Action shot,2.0,2,2,2,ESP,1.0,BRGULJAN D,2 - 2,283,MNE,4:43,Goal,1
+Action shot,8.0,2,2,3,ESP,1.0,ESPANOL A,2 - 3,242,ESP,4:02,Goal,1
+5m shot,5.0,2,2,3,ESP,1.0,BRGULJAN D,2 - 3,210,MNE,3:30,Saved,0
+Extra player shot,11.0,2,2,3,ESP,1.0,ESTRANY P,2 - 3,183,ESP,3:03,Saved,0
+Extra player shot,7.0,2,2,3,ESP,1.0,JANOVIC M,2 - 3,143,MNE,2:23,Saved,0
+5m shot,11.0,2,2,3,ESP,1.0,ESTRANY P,2 - 3,116,ESP,1:56,Post,0
+5m shot,5.0,2,2,3,ESP,1.0,BRGULJAN D,2 - 3,95,MNE,1:35,Post,0
+5m shot,6.0,2,2,3,ESP,1.0,MINGUELL M,2 - 3,55,ESP,0:55,Post,0
+Centre shot,9.0,2,2,3,ESP,1.0,VALLES X,2 - 3,52,ESP,0:52,Saved,0
+5m shot,5.0,2,2,3,ESP,1.0,BRGULJAN D,2 - 3,29,MNE,0:29,Saved,0
+5m shot,1.0,2,2,3,ESP,1.0,RADIC Z,2 - 3,1,MNE,0:01,Missed,0
+5m shot,12.0,2,2,3,ESP,2.0,GARCIA X,2 - 3,452,ESP,7:32,Saved,0
+Counter attack,12.0,2,2,3,ESP,2.0,GARCIA X,2 - 3,413,ESP,6:53,Saved,0
+5m shot,4.0,2,2,3,ESP,2.0,PETROVIC A,2 - 3,383,MNE,6:23,Saved,0
+Centre shot,7.0,2,2,3,ESP,2.0,SZIRANYI B,2 - 3,323,ESP,5:23,Saved,0
+5m shot,6.0,2,2,3,ESP,2.0,MINGUELL M,2 - 3,292,ESP,4:52,Missed,0
+5m shot,9.0,2,3,3,ESP,2.0,IVOVIC A,3 - 3,275,MNE,4:35,Goal,1
+Extra player shot,8.0,2,3,4,ESP,2.0,ESPANOL A,3 - 4,234,ESP,3:54,Goal,1
+5m shot,8.0,2,3,4,ESP,2.0,ESPANOL A,3 - 4,177,ESP,2:57,Saved,0
+Action shot,5.0,2,3,4,ESP,2.0,MOLINA G,3 - 4,111,ESP,1:51,Post,0
+Action shot,7.0,2,4,4,ESP,2.0,JANOVIC M,4 - 4,94,MNE,1:34,Goal,1
+Penalty shot,12.0,2,4,5,ESP,2.0,GARCIA X,4 - 5,73,ESP,1:13,Goal,1
+5m shot,1.0,2,4,5,ESP,2.0,RADIC Z,4 - 5,1,MNE,0:01,Missed,0
+Penalty shot,7.0,2,5,5,ESP,3.0,JANOVIC M,5 - 5,455,MNE,7:35,Goal,1
+5m shot,12.0,2,5,5,ESP,3.0,GARCIA X,5 - 5,426,ESP,7:06,Saved,0
+5m shot,2.0,2,5,5,ESP,3.0,BRGULJAN D,5 - 5,400,MNE,6:40,Saved,0
+Action shot,12.0,2,5,5,ESP,3.0,GARCIA X,5 - 5,377,ESP,6:17,Missed,0
+Centre shot,9.0,2,5,5,ESP,3.0,IVOVIC A,5 - 5,350,MNE,5:50,Saved,0
+5m shot,8.0,2,5,5,ESP,3.0,ESPANOL A,5 - 5,321,ESP,5:21,Post,0
+Action shot,2.0,2,5,5,ESP,3.0,BRGULJAN D,5 - 5,277,MNE,4:37,Saved,0
+Centre shot,7.0,2,6,5,ESP,3.0,JANOVIC M,6 - 5,239,MNE,3:59,Goal,1
+Action shot,11.0,2,6,5,ESP,3.0,ESTRANY P,6 - 5,190,ESP,3:10,Saved,0
+Extra player shot,10.0,2,6,5,ESP,3.0,PERRONE F,6 - 5,144,ESP,2:24,Missed,0
+Extra player shot,2.0,2,6,5,ESP,3.0,BRGULJAN D,6 - 5,102,MNE,1:42,Saved,0
+Centre shot,8.0,2,6,5,ESP,3.0,JANOVIC N,6 - 5,101,MNE,1:41,Saved,0
+Extra player shot,6.0,2,6,5,ESP,3.0,MINGUELL M,6 - 5,20,ESP,0:20,Blocked,0
+5m shot,10.0,2,6,5,ESP,3.0,PERRONE F,6 - 5,1,ESP,0:01,Missed,0
+Centre shot,5.0,2,6,5,ESP,4.0,MOLINA G,6 - 5,375,ESP,6:15,Missed,0
+Penalty shot,7.0,2,7,5,ESP,4.0,JANOVIC M,7 - 5,321,MNE,5:21,Goal,1
+Extra player shot,10.0,2,7,5,ESP,4.0,PERRONE F,7 - 5,293,ESP,4:53,Saved,0
+5m shot,10.0,2,7,5,ESP,4.0,PERRONE F,7 - 5,253,ESP,4:13,Blocked,0
+5m shot,4.0,2,7,5,ESP,4.0,ALARCON R,7 - 5,207,ESP,3:27,Saved,0
+Extra player shot,3.0,2,7,5,ESP,4.0,de LERA R,7 - 5,134,ESP,2:14,Post,0
+Extra player shot,12.0,2,7,5,ESP,4.0,GARCIA X,7 - 5,34,ESP,0:34,Post,0
+5m shot,9.0,2,7,5,ESP,4.0,IVOVIC A,7 - 5,13,MNE,0:13,Saved,0
+5m shot,2.0,2,7,5,ESP,4.0,BRGULJAN D,7 - 5,1,MNE,0:01,Saved,0
+Extra player shot,2.0,3,0,0,NZL,1.0,BRGULJAN D,0 - 0,406,MNE,6:46,Saved,0
+Extra player shot,11.0,3,1,0,NZL,1.0,KLIKOVAK F,1 - 0,397,MNE,6:37,Goal,1
+5m shot,8.0,3,2,0,NZL,1.0,JANOVIC N,2 - 0,364,MNE,6:04,Goal,1
+Centre shot,12.0,3,2,0,NZL,1.0,PYE A,2 - 0,342,NZL,5:42,Saved,0
+Counter attack,8.0,3,3,0,NZL,1.0,JANOVIC N,3 - 0,314,MNE,5:14,Goal,1
+Centre shot,7.0,3,4,0,NZL,1.0,JANOVIC M,4 - 0,278,MNE,4:38,Goal,1
+Action shot,12.0,3,4,0,NZL,1.0,PYE A,4 - 0,248,NZL,4:08,Saved,0
+5m shot,9.0,3,4,0,NZL,1.0,IVOVIC A,4 - 0,223,MNE,3:43,Saved,0
+Counter attack,9.0,3,5,0,NZL,1.0,IVOVIC A,5 - 0,180,MNE,3:00,Goal,1
+5m shot,5.0,3,5,0,NZL,1.0,ROSS J,5 - 0,156,NZL,2:36,Saved,0
+Action shot,5.0,3,5,0,NZL,1.0,BRGULJAN D,5 - 0,128,MNE,2:08,Post,0
+Centre shot,10.0,3,5,0,NZL,1.0,MISIC S,5 - 0,100,MNE,1:40,Missed,0
+Action shot,5.0,3,5,0,NZL,1.0,ROSS J,5 - 0,44,NZL,0:44,Saved,0
+Counter attack,4.0,3,5,0,NZL,1.0,PETROVIC A,5 - 0,33,MNE,0:33,Saved,0
+5m shot,2.0,3,5,0,NZL,1.0,LEWIS M,5 - 0,4,NZL,0:04,Saved,0
+Centre shot,9.0,3,6,0,NZL,2.0,IVOVIC A,6 - 0,454,MNE,7:34,Goal,1
+Action shot,9.0,3,6,0,NZL,2.0,LUI-FAKAOTIMANAVA,6 - 0,436,NZL,7:16,Blocked,0
+Centre shot,5.0,3,7,0,NZL,2.0,BRGULJAN D,7 - 0,410,MNE,6:50,Goal,1
+Centre shot,10.0,3,7,0,NZL,2.0,MISIC S,7 - 0,360,MNE,6:00,Post,0
+5m shot,12.0,3,7,0,NZL,2.0,PYE A,7 - 0,331,NZL,5:31,Saved,0
+Action shot,6.0,3,8,0,NZL,2.0,CROUSILLAT U,8 - 0,313,MNE,5:13,Goal,1
+5m shot,12.0,3,8,1,NZL,2.0,PYE A,8 - 1,287,NZL,4:47,Goal,1
+Penalty shot,8.0,3,9,1,NZL,2.0,JANOVIC N,9 - 1,259,MNE,4:19,Goal,1
+Counter attack,2.0,3,10,1,NZL,2.0,BRGULJAN D,10 - 1,202,MNE,3:22,Goal,1
+5m shot,2.0,3,11,1,NZL,2.0,BRGULJAN D,11 - 1,163,MNE,2:43,Goal,1
+5m shot,2.0,3,11,1,NZL,2.0,LEWIS M,11 - 1,135,NZL,2:15,Missed,0
+Extra player shot,9.0,3,11,1,NZL,2.0,IVOVIC A,11 - 1,112,MNE,1:52,Post,0
+Centre shot,11.0,3,12,1,NZL,2.0,KLIKOVAK F,12 - 1,110,MNE,1:50,Goal,1
+Extra player shot,8.0,3,13,1,NZL,2.0,JANOVIC N,13 - 1,62,MNE,1:02,Goal,1
+Extra player shot,9.0,3,13,1,NZL,2.0,LUI-FAKAOTIMANAVA,13 - 1,27,NZL,0:27,Saved,0
+Extra player shot,4.0,3,13,1,NZL,4.0,LOWERY F,13 - 1,118,NZL,1:58,Saved,0
+Counter attack,9.0,3,21,1,NZL,4.0,IVOVIC A,21 - 1,101,MNE,1:41,Goal,1
+Action shot,9.0,3,22,1,NZL,4.0,IVOVIC A,22 - 1,60,MNE,1:00,Goal,1
+Extra player shot,10.0,3,14,1,NZL,3.0,MISIC S,14 - 1,457,MNE,7:37,Goal,1
+Centre shot,7.0,3,14,1,NZL,3.0,JACKSON D,14 - 1,390,NZL,6:30,Saved,0
+Action shot,6.0,3,15,1,NZL,3.0,CROUSILLAT U,15 - 1,324,MNE,5:24,Goal,1
+Extra player shot,5.0,3,16,1,NZL,3.0,BRGULJAN D,16 - 1,288,MNE,4:48,Goal,1
+Action shot,5.0,3,16,1,NZL,3.0,BRGULJAN D,16 - 1,239,MNE,3:59,Saved,0
+Counter attack,3.0,3,17,1,NZL,3.0,PASKOVIC V,17 - 1,187,MNE,3:07,Goal,1
+Action shot,7.0,3,17,1,NZL,3.0,JANOVIC M,17 - 1,141,MNE,2:21,Post,0
+Counter attack,9.0,3,18,1,NZL,3.0,IVOVIC A,18 - 1,99,MNE,1:39,Goal,1
+Counter attack,3.0,3,19,1,NZL,3.0,PASKOVIC V,19 - 1,61,MNE,1:01,Goal,1
+Action shot,3.0,3,19,1,NZL,3.0,CURRY S,19 - 1,31,NZL,0:31,Missed,0
+Counter attack,12.0,3,19,1,NZL,3.0,JOKIC P,19 - 1,16,MNE,0:16,Post,0
+Extra player shot,8.0,3,19,1,NZL,4.0,JANOVIC N,19 - 1,443,MNE,7:23,Missed,0
+Centre shot,10.0,3,19,1,NZL,4.0,MISIC S,19 - 1,397,MNE,6:37,Saved,0
+Extra player shot,9.0,3,20,1,NZL,4.0,IVOVIC A,20 - 1,355,MNE,5:55,Goal,1
+Centre shot,9.0,3,20,1,NZL,4.0,LUI-FAKAOTIMANAVA,20 - 1,339,NZL,5:39,Missed,0
+Action shot,7.0,3,20,1,NZL,4.0,JANOVIC M,20 - 1,329,MNE,5:29,Saved,0
+Action shot,6.0,3,20,1,NZL,4.0,CROUSILLAT U,20 - 1,315,MNE,5:15,Saved,0
+Action shot,5.0,3,20,1,NZL,4.0,ROSS J,20 - 1,251,NZL,4:11,Saved,0
+Centre shot,11.0,3,20,1,NZL,4.0,TIJSEN L,20 - 1,216,NZL,3:36,Saved,0
+5m shot,12.0,3,20,1,NZL,4.0,PYE A,20 - 1,176,NZL,2:56,Saved,0
+Extra player shot,12.0,3,20,1,NZL,4.0,PYE A,20 - 1,120,NZL,2:00,Blocked,0
+Extra player shot,6.0,3,23,1,NZL,4.0,CROUSILLAT U,23 - 1,2,MNE,0:02,Goal,1
+5m shot,2.0,3,23,1,NZL,4.0,LEWIS M,23 - 1,1,NZL,0:01,Blocked,0
+5m shot,4.0,4,0,0,CAN,1.0,CONSTANTIN-BICARI,0 - 0,452,CAN,7:32,Blocked,0
+Extra player shot,7.0,4,1,0,CAN,1.0,JANOVIC M,1 - 0,421,MNE,7:01,Goal,1
+Centre shot,4.0,4,1,0,CAN,1.0,CONSTANTIN-BICARI,1 - 0,400,CAN,6:40,Saved,0
+Centre shot,4.0,4,1,1,CAN,1.0,CONSTANTIN-BICARI,1 - 1,376,CAN,6:16,Goal,1
+Action shot,8.0,4,1,1,CAN,1.0,GRAHAM K,1 - 1,316,CAN,5:16,Saved,0
+Action shot,8.0,4,1,1,CAN,1.0,JANOVIC N,1 - 1,286,MNE,4:46,Post,0
+Action shot,9.0,4,1,1,CAN,1.0,IVOVIC A,1 - 1,248,MNE,4:08,Post,0
+Extra player shot,7.0,4,1,1,CAN,1.0,JANOVIC M,1 - 1,231,MNE,3:51,Blocked,0
+Action shot,7.0,4,2,1,CAN,1.0,JANOVIC M,2 - 1,214,MNE,3:34,Goal,1
+Action shot,5.0,4,2,1,CAN,1.0,BOYD J,2 - 1,154,CAN,2:34,Post,0
+Action shot,7.0,4,2,1,CAN,1.0,JANOVIC M,2 - 1,113,MNE,1:53,Saved,0
+Centre shot,4.0,4,2,1,CAN,1.0,CONSTANTIN-BICARI,2 - 1,87,CAN,1:27,Saved,0
+Action shot,12.0,4,2,1,CAN,1.0,JOKIC P,2 - 1,58,MNE,0:58,Blocked,0
+Extra player shot,12.0,4,2,1,CAN,1.0,McELROY J,2 - 1,17,CAN,0:17,Saved,0
+Action shot,9.0,4,2,1,CAN,1.0,DIGGLE D,2 - 1,3,CAN,0:03,Blocked,0
+5m shot,7.0,4,2,1,CAN,1.0,JANOVIC M,2 - 1,1,MNE,0:01,Saved,0
+Action shot,2.0,4,2,1,CAN,2.0,BRGULJAN D,2 - 1,437,MNE,7:17,Missed,0
+5m shot,2.0,4,2,1,CAN,2.0,KUDABA C,2 - 1,368,CAN,6:08,Missed,0
+5m shot,9.0,4,3,1,CAN,2.0,IVOVIC A,3 - 1,350,MNE,5:50,Goal,1
+Action shot,6.0,4,3,1,CAN,2.0,CROUSILLAT U,3 - 1,279,MNE,4:39,Saved,0
+Action shot,9.0,4,3,1,CAN,2.0,DIGGLE D,3 - 1,252,CAN,4:12,Post,0
+Action shot,9.0,4,3,1,CAN,2.0,DIGGLE D,3 - 1,130,CAN,2:10,Blocked,0
+Centre shot,8.0,4,4,1,CAN,2.0,JANOVIC N,4 - 1,112,MNE,1:52,Goal,1
+Action shot,5.0,4,4,1,CAN,2.0,BOYD J,4 - 1,70,CAN,1:10,Saved,0
+Extra player shot,11.0,4,5,1,CAN,2.0,KLIKOVAK F,5 - 1,33,MNE,0:33,Goal,1
+Centre shot,4.0,4,5,1,CAN,2.0,CONSTANTIN-BICARI,5 - 1,11,CAN,0:11,Saved,0
+5m shot,8.0,4,5,1,CAN,2.0,JANOVIC N,5 - 1,1,MNE,0:01,Missed,0
+Action shot,8.0,4,6,1,CAN,3.0,JANOVIC N,6 - 1,450,MNE,7:30,Goal,1
+Action shot,9.0,4,6,1,CAN,3.0,DIGGLE D,6 - 1,423,CAN,7:03,Post,0
+Action shot,8.0,4,6,1,CAN,3.0,JANOVIC N,6 - 1,395,MNE,6:35,Blocked,0
+Action shot,2.0,4,6,2,CAN,3.0,KUDABA C,6 - 2,368,CAN,6:08,Goal,1
+Centre shot,3.0,4,6,2,CAN,3.0,PASKOVIC V,6 - 2,285,MNE,4:45,Post,0
+5m shot,8.0,4,6,2,CAN,3.0,GRAHAM K,6 - 2,256,CAN,4:16,Saved,0
+Action shot,6.0,4,7,2,CAN,3.0,CROUSILLAT U,7 - 2,231,MNE,3:51,Goal,1
+Action shot,6.0,4,7,2,CAN,3.0,CROUSILLAT U,7 - 2,187,MNE,3:07,Post,0
+Action shot,8.0,4,7,3,CAN,3.0,GRAHAM K,7 - 3,129,CAN,2:09,Goal,1
+Action shot,7.0,4,7,3,CAN,3.0,JANOVIC M,7 - 3,99,MNE,1:39,Post,0
+Action shot,10.0,4,7,3,CAN,3.0,CONWAY J,7 - 3,69,CAN,1:09,Blocked,0
+Centre shot,7.0,4,7,3,CAN,3.0,JANOVIC M,7 - 3,39,MNE,0:39,Missed,0
+Action shot,2.0,4,7,4,CAN,3.0,KUDABA C,7 - 4,13,CAN,0:13,Goal,1
+5m shot,4.0,4,8,4,CAN,3.0,PETROVIC A,8 - 4,3,MNE,0:03,Goal,1
+5m shot,8.0,4,8,4,CAN,3.0,GRAHAM K,8 - 4,1,CAN,0:01,Blocked,0
+Centre shot,4.0,4,8,4,CAN,4.0,CONSTANTIN-BICARI,8 - 4,456,CAN,7:36,Saved,0
+Action shot,8.0,4,8,4,CAN,4.0,GRAHAM K,8 - 4,409,CAN,6:49,Blocked,0
+5m shot,9.0,4,9,4,CAN,4.0,IVOVIC A,9 - 4,385,MNE,6:25,Goal,1
+Extra player shot,5.0,4,9,4,CAN,4.0,BRGULJAN D,9 - 4,310,MNE,5:10,Post,0
+Action shot,9.0,4,9,4,CAN,4.0,DIGGLE D,9 - 4,284,CAN,4:44,Missed,0
+5m shot,12.0,4,9,4,CAN,4.0,JOKIC P,9 - 4,267,MNE,4:27,Saved,0
+Extra player shot,10.0,4,9,4,CAN,4.0,MISIC S,9 - 4,213,MNE,3:33,Saved,0
+Action shot,5.0,4,9,4,CAN,4.0,BRGULJAN D,9 - 4,190,MNE,3:10,Saved,0
+Action shot,9.0,4,10,4,CAN,4.0,IVOVIC A,10 - 4,152,MNE,2:32,Goal,1
+Extra player shot,4.0,4,10,4,CAN,4.0,CONSTANTIN-BICARI,10 - 4,134,CAN,2:14,Saved,0
+Action shot,12.0,4,10,4,CAN,4.0,McELROY J,10 - 4,112,CAN,1:52,Missed,0
+Counter attack,2.0,4,11,4,CAN,4.0,BRGULJAN D,11 - 4,101,MNE,1:41,Goal,1
+Action shot,2.0,4,11,4,CAN,4.0,KUDABA C,11 - 4,74,CAN,1:14,Saved,0
+5m shot,2.0,4,12,4,CAN,4.0,BRGULJAN D,12 - 4,45,MNE,0:45,Goal,1
+Action shot,8.0,5,1,0,SRB,1.0,JANOVIC N,1 - 0,443,MNE,7:23,Goal,1
+Extra player shot,6.0,5,1,1,SRB,1.0,PIJETLOVIC D,1 - 1,418,SRB,6:58,Goal,1
+Action shot,8.0,5,1,1,SRB,1.0,JANOVIC N,1 - 1,393,MNE,6:33,Post,0
+5m shot,8.0,5,1,1,SRB,1.0,JANOVIC N,1 - 1,347,MNE,5:47,Post,0
+Action shot,8.0,5,1,2,SRB,1.0,ALEKSIC M,1 - 2,319,SRB,5:19,Goal,1
+Action shot,2.0,5,1,2,SRB,1.0,BRGULJAN D,1 - 2,276,MNE,4:36,Post,0
+Centre shot,5.0,5,2,2,SRB,1.0,BRGULJAN D,2 - 2,275,MNE,4:35,Goal,1
+Action shot,4.0,5,2,2,SRB,1.0,UDOVICIC V,2 - 2,192,SRB,3:12,Blocked,0
+5m shot,12.0,5,2,2,SRB,1.0,JOKIC P,2 - 2,169,MNE,2:49,Blocked,0
+Penalty shot,10.0,5,2,3,SRB,1.0,FILIPOVIC F,2 - 3,121,SRB,2:01,Goal,1
+5m shot,2.0,5,2,3,SRB,1.0,BRGULJAN D,2 - 3,92,MNE,1:32,Missed,0
+Action shot,6.0,5,2,3,SRB,1.0,PIJETLOVIC D,2 - 3,43,SRB,0:43,Saved,0
+5m shot,11.0,5,2,3,SRB,1.0,PRLAINOVIC A,2 - 3,33,SRB,0:33,Saved,0
+Extra player shot,2.0,5,2,4,SRB,2.0,MANDIC D,2 - 4,424,SRB,7:04,Goal,1
+Extra player shot,8.0,5,3,4,SRB,2.0,JANOVIC N,3 - 4,391,MNE,6:31,Goal,1
+5m shot,9.0,5,3,4,SRB,2.0,IVOVIC A,3 - 4,349,MNE,5:49,Post,0
+Extra player shot,11.0,5,3,4,SRB,2.0,PRLAINOVIC A,3 - 4,291,SRB,4:51,Blocked,0
+Action shot,10.0,5,3,4,SRB,2.0,FILIPOVIC F,3 - 4,284,SRB,4:44,Saved,0
+Centre shot,7.0,5,4,4,SRB,2.0,JANOVIC M,4 - 4,235,MNE,3:55,Goal,1
+Centre shot,7.0,5,4,5,SRB,2.0,NIKIC S,4 - 5,215,SRB,3:35,Goal,1
+Action shot,3.0,5,4,6,SRB,2.0,GOCIC Z,4 - 6,173,SRB,2:53,Goal,1
+Extra player shot,7.0,5,5,6,SRB,2.0,JANOVIC M,5 - 6,138,MNE,2:18,Goal,1
+Counter attack,2.0,5,5,6,SRB,2.0,BRGULJAN D,5 - 6,107,MNE,1:47,Saved,0
+Action shot,7.0,5,5,6,SRB,4.0,JANOVIC M,5 - 6,92,MNE,1:32,Blocked,0
+5m shot,9.0,5,9,8,SRB,4.0,IVOVIC A,9 - 8,70,MNE,1:10,Goal,1
+5m shot,11.0,5,9,8,SRB,4.0,PRLAINOVIC A,9 - 8,47,SRB,0:47,Missed,0
+Penalty shot,9.0,5,6,6,SRB,2.0,IVOVIC A,6 - 6,86,MNE,1:26,Goal,1
+Centre shot,7.0,5,6,6,SRB,2.0,NIKIC S,6 - 6,64,SRB,1:04,Missed,0
+Action shot,2.0,5,6,6,SRB,2.0,BRGULJAN D,6 - 6,19,MNE,0:19,Saved,0
+5m shot,8.0,5,6,6,SRB,2.0,JANOVIC N,6 - 6,2,MNE,0:02,Saved,0
+5m shot,9.0,5,6,6,SRB,3.0,IVOVIC A,6 - 6,420,MNE,7:00,Blocked,0
+Action shot,9.0,5,6,6,SRB,3.0,IVOVIC A,6 - 6,355,MNE,5:55,Post,0
+Action shot,9.0,5,6,6,SRB,3.0,RADEN N,6 - 6,328,SRB,5:28,Blocked,0
+5m shot,4.0,5,6,6,SRB,3.0,PETROVIC A,6 - 6,302,MNE,5:02,Missed,0
+Action shot,7.0,5,7,6,SRB,3.0,JANOVIC M,7 - 6,211,MNE,3:31,Goal,1
+Action shot,12.0,5,7,7,SRB,3.0,MITROVIC S,7 - 7,170,SRB,2:50,Goal,1
+Extra player shot,8.0,5,7,7,SRB,3.0,JANOVIC N,7 - 7,127,MNE,2:07,Saved,0
+Action shot,12.0,5,7,8,SRB,3.0,MITROVIC S,7 - 8,102,SRB,1:42,Goal,1
+Action shot,10.0,5,7,8,SRB,3.0,FILIPOVIC F,7 - 8,14,SRB,0:14,Saved,0
+Centre shot,11.0,5,7,8,SRB,4.0,KLIKOVAK F,7 - 8,453,MNE,7:33,Missed,0
+Extra player shot,11.0,5,8,8,SRB,4.0,KLIKOVAK F,8 - 8,450,MNE,7:30,Goal,1
+Action shot,2.0,5,8,8,SRB,4.0,MANDIC D,8 - 8,404,SRB,6:44,Blocked,0
+Extra player shot,2.0,5,8,8,SRB,4.0,BRGULJAN D,8 - 8,371,MNE,6:11,Blocked,0
+Counter attack,3.0,5,8,8,SRB,4.0,GOCIC Z,8 - 8,355,SRB,5:55,Missed,0
+Penalty shot,7.0,5,8,8,SRB,4.0,JANOVIC M,8 - 8,333,MNE,5:33,Saved,0
+Extra player shot,12.0,5,8,8,SRB,4.0,MITROVIC S,8 - 8,298,SRB,4:58,Saved,0
+5m shot,4.0,5,8,8,SRB,4.0,PETROVIC A,8 - 8,268,MNE,4:28,Blocked,0
+Centre shot,6.0,5,8,8,SRB,4.0,PIJETLOVIC D,8 - 8,222,SRB,3:42,Saved,0
+5m shot,9.0,5,8,8,SRB,4.0,IVOVIC A,8 - 8,200,MNE,3:20,Blocked,0
+Extra player shot,3.0,5,8,8,SRB,4.0,GOCIC Z,8 - 8,146,SRB,2:26,Saved,0
+Action shot,11.0,5,8,8,SRB,4.0,PRLAINOVIC A,8 - 8,1,SRB,0:01,Saved,0
+5m shot,9.0,6,1,0,ITA,1.0,IVOVIC A,1 - 0,455,MNE,7:35,Goal,1
+Centre shot,11.0,6,1,0,ITA,1.0,AICARDI M,1 - 0,394,ITA,6:34,Saved,0
+Action shot,7.0,6,2,0,ITA,1.0,JANOVIC M,2 - 0,355,MNE,5:55,Goal,1
+5m shot,5.0,6,2,0,ITA,1.0,GIORGETTI A,2 - 0,337,ITA,5:37,Missed,0
+5m shot,5.0,6,2,0,ITA,1.0,GIORGETTI A,2 - 0,297,ITA,4:57,Saved,0
+Extra player shot,7.0,6,2,0,ITA,1.0,JANOVIC M,2 - 0,254,MNE,4:14,Saved,0
+Penalty shot,8.0,6,3,0,ITA,1.0,JANOVIC N,3 - 0,244,MNE,4:04,Goal,1
+Extra player shot,8.0,6,3,0,ITA,1.0,GALLO V,3 - 0,211,ITA,3:31,Post,0
+Centre shot,11.0,6,3,1,ITA,1.0,AICARDI M,3 - 1,209,ITA,3:29,Goal,1
+Action shot,11.0,6,3,1,ITA,1.0,AICARDI M,3 - 1,160,ITA,2:40,Saved,0
+5m shot,8.0,6,3,1,ITA,1.0,JANOVIC N,3 - 1,132,MNE,2:12,Missed,0
+Action shot,9.0,6,3,1,ITA,1.0,PRESCIUTTI C,3 - 1,80,ITA,1:20,Missed,0
+Centre shot,11.0,6,3,1,ITA,1.0,KLIKOVAK F,3 - 1,59,MNE,0:59,Post,0
+Action shot,6.0,6,3,1,ITA,2.0,FELUGO M,3 - 1,454,ITA,7:34,Post,0
+Extra player shot,9.0,6,3,1,ITA,2.0,IVOVIC A,3 - 1,413,MNE,6:53,Blocked,0
+Penalty shot,7.0,6,4,1,ITA,2.0,JANOVIC M,4 - 1,407,MNE,6:47,Goal,1
+Extra player shot,8.0,6,4,1,ITA,2.0,GALLO V,4 - 1,371,ITA,6:11,Post,0
+Action shot,8.0,6,4,1,ITA,2.0,GALLO V,4 - 1,365,ITA,6:05,Post,0
+5m shot,3.0,6,4,1,ITA,2.0,PASKOVIC V,4 - 1,287,MNE,4:47,Post,0
+Extra player shot,2.0,6,4,1,ITA,2.0,PEREZ A,4 - 1,251,ITA,4:11,Post,0
+5m shot,8.0,6,4,1,ITA,2.0,JANOVIC N,4 - 1,225,MNE,3:45,Saved,0
+5m shot,9.0,6,4,1,ITA,2.0,PRESCIUTTI C,4 - 1,166,ITA,2:46,Post,0
+5m shot,4.0,6,4,1,ITA,2.0,PETROVIC A,4 - 1,140,MNE,2:20,Missed,0
+Action shot,6.0,6,4,1,ITA,2.0,FELUGO M,4 - 1,99,ITA,1:39,Blocked,0
+Action shot,5.0,6,5,1,ITA,2.0,BRGULJAN D,5 - 1,71,MNE,1:11,Goal,1
+5m shot,4.0,6,5,1,ITA,2.0,FIGLIOLI P,5 - 1,48,ITA,0:48,Saved,0
+5m shot,4.0,6,5,2,ITA,3.0,FIGLIOLI P,5 - 2,431,ITA,7:11,Goal,1
+Extra player shot,8.0,6,6,2,ITA,3.0,JANOVIC N,6 - 2,394,MNE,6:34,Goal,1
+5m shot,4.0,6,6,2,ITA,3.0,FIGLIOLI P,6 - 2,366,ITA,6:06,Saved,0
+Extra player shot,12.0,6,6,2,ITA,3.0,NAPOLITANO C,6 - 2,333,ITA,5:33,Post,0
+Centre shot,7.0,6,6,2,ITA,3.0,JANOVIC M,6 - 2,308,MNE,5:08,Saved,0
+5m shot,9.0,6,6,2,ITA,3.0,PRESCIUTTI C,6 - 2,283,ITA,4:43,Missed,0
+Centre shot,4.0,6,7,2,ITA,3.0,PETROVIC A,7 - 2,271,MNE,4:31,Goal,1
+Extra player shot,7.0,6,7,2,ITA,3.0,FIGARI N,7 - 2,232,ITA,3:52,Blocked,0
+Centre shot,11.0,6,7,3,ITA,3.0,AICARDI M,7 - 3,231,ITA,3:51,Goal,1
+Action shot,8.0,6,8,3,ITA,3.0,JANOVIC N,8 - 3,180,MNE,3:00,Goal,1
+5m shot,7.0,6,8,3,ITA,3.0,FIGARI N,8 - 3,155,ITA,2:35,Blocked,0
+Action shot,9.0,6,8,3,ITA,3.0,PRESCIUTTI C,8 - 3,69,ITA,1:09,Saved,0
+5m shot,8.0,6,8,4,ITA,3.0,GALLO V,8 - 4,23,ITA,0:23,Goal,1
+Extra player shot,5.0,6,9,4,ITA,3.0,BRGULJAN D,9 - 4,5,MNE,0:05,Goal,1
+5m shot,4.0,6,9,4,ITA,3.0,FIGLIOLI P,9 - 4,1,ITA,0:01,Missed,0
+5m shot,7.0,6,9,4,ITA,4.0,JANOVIC M,9 - 4,429,MNE,7:09,Blocked,0
+Centre shot,5.0,6,9,4,ITA,4.0,BRGULJAN D,9 - 4,360,MNE,6:00,Missed,0
+5m shot,2.0,6,9,4,ITA,4.0,PEREZ A,9 - 4,334,ITA,5:34,Missed,0
+5m shot,9.0,6,10,4,ITA,4.0,IVOVIC A,10 - 4,310,MNE,5:10,Goal,1
+5m shot,3.0,6,10,4,ITA,4.0,GITTO N,10 - 4,283,ITA,4:43,Blocked,0
+Action shot,4.0,6,10,5,ITA,4.0,FIGLIOLI P,10 - 5,237,ITA,3:57,Goal,1
+Action shot,7.0,6,10,5,ITA,4.0,JANOVIC M,10 - 5,214,MNE,3:34,Saved,0
+Extra player shot,4.0,6,10,6,ITA,4.0,FIGLIOLI P,10 - 6,160,ITA,2:40,Goal,1
+5m shot,9.0,6,10,7,ITA,4.0,PRESCIUTTI C,10 - 7,111,ITA,1:51,Goal,1
+5m shot,4.0,6,10,7,ITA,4.0,FIGLIOLI P,10 - 7,70,ITA,1:10,Missed,0
+Extra player shot,11.0,6,10,8,ITA,4.0,AICARDI M,10 - 8,7,ITA,0:07,Goal,1
+Action shot,2.0,7,0,0,HUN,1.0,BRGULJAN D,0 - 0,452,MNE,7:32,Saved,0
+Action shot,7.0,7,0,0,HUN,1.0,JANOVIC M,0 - 0,378,MNE,6:18,Blocked,0
+Centre shot,10.0,7,0,1,HUN,1.0,VARGA D,1 - 0,362,HUN,6:02,Goal,1
+Centre shot,12.0,7,0,2,HUN,1.0,HARAI B,2 - 0,320,HUN,5:20,Goal,1
+Action shot,9.0,7,0,2,HUN,1.0,IVOVIC A,2 - 0,292,MNE,4:52,Blocked,0
+Action shot,2.0,7,0,2,HUN,1.0,BRGULJAN D,2 - 0,277,MNE,4:37,Saved,0
+Action shot,9.0,7,0,2,HUN,1.0,IVOVIC A,2 - 0,255,MNE,4:15,Saved,0
+Action shot,7.0,7,0,2,HUN,1.0,JANOVIC M,2 - 0,224,MNE,3:44,Saved,0
+5m shot,8.0,7,0,2,HUN,1.0,JANOVIC N,2 - 0,204,MNE,3:24,Blocked,0
+5m shot,8.0,7,0,2,HUN,1.0,JANOVIC N,2 - 0,144,MNE,2:24,Saved,0
+Action shot,9.0,7,0,2,HUN,1.0,IVOVIC A,2 - 0,85,MNE,1:25,Blocked,0
+5m shot,6.0,7,0,2,HUN,1.0,HOSNYANSZKY N,2 - 0,22,HUN,0:22,Post,0
+Action shot,2.0,7,0,2,HUN,1.0,BRGULJAN D,2 - 0,2,MNE,0:02,Blocked,0
+Extra player shot,4.0,7,0,2,HUN,2.0,BATORI B,2 - 0,438,HUN,7:18,Saved,0
+Centre shot,7.0,7,0,2,HUN,2.0,DECKER A,2 - 0,373,HUN,6:13,Missed,0
+Extra player shot,3.0,7,0,2,HUN,2.0,MADARAS N,2 - 0,331,HUN,5:31,Saved,0
+Extra player shot,12.0,7,0,3,HUN,2.0,HARAI B,3 - 0,318,HUN,5:18,Goal,1
+5m shot,4.0,7,0,3,HUN,2.0,PETROVIC A,3 - 0,290,MNE,4:50,Blocked,0
+5m shot,9.0,7,0,3,HUN,2.0,VARGA D,3 - 0,226,HUN,3:46,Saved,0
+Action shot,8.0,7,0,3,HUN,2.0,SZIVOS M,3 - 0,216,HUN,3:36,Post,0
+Action shot,5.0,7,1,3,HUN,2.0,BRGULJAN D,3 - 1,187,MNE,3:07,Goal,1
+Extra player shot,3.0,7,1,3,HUN,2.0,MADARAS N,3 - 1,164,HUN,2:44,Blocked,0
+Action shot,2.0,7,1,3,HUN,2.0,BRGULJAN D,3 - 1,134,MNE,2:14,Saved,0
+Penalty shot,6.0,7,1,3,HUN,2.0,HOSNYANSZKY N,3 - 1,111,HUN,1:51,Saved,0
+Action shot,9.0,7,2,3,HUN,2.0,IVOVIC A,3 - 2,80,MNE,1:20,Goal,1
+Extra player shot,8.0,7,2,3,HUN,2.0,JANOVIC N,3 - 2,27,MNE,0:27,Saved,0
+5m shot,8.0,7,2,3,HUN,2.0,SZIVOS M,3 - 2,4,HUN,0:04,Saved,0
+Extra player shot,4.0,7,2,3,HUN,3.0,PETROVIC A,3 - 2,452,MNE,7:32,Saved,0
+Extra player shot,4.0,7,3,3,HUN,3.0,PETROVIC A,3 - 3,446,MNE,7:26,Goal,1
+Extra player shot,5.0,7,3,4,HUN,3.0,VAMOS M,4 - 3,406,HUN,6:46,Goal,1
+Centre shot,10.0,7,3,4,HUN,3.0,VARGA D,4 - 3,365,HUN,6:05,Saved,0
+Extra player shot,6.0,7,4,4,HUN,3.0,CROUSILLAT U,4 - 4,327,MNE,5:27,Goal,1
+Centre shot,8.0,7,4,5,HUN,3.0,SZIVOS M,5 - 4,305,HUN,5:05,Goal,1
+Centre shot,4.0,7,4,5,HUN,3.0,PETROVIC A,5 - 4,278,MNE,4:38,Post,0
+5m shot,9.0,7,4,5,HUN,3.0,VARGA D,5 - 4,254,HUN,4:14,Saved,0
+Action shot,3.0,7,4,5,HUN,3.0,PASKOVIC V,5 - 4,187,MNE,3:07,Missed,0
+Extra player shot,12.0,7,4,5,HUN,3.0,JOKIC P,5 - 4,123,MNE,2:03,Saved,0
+Action shot,9.0,7,4,6,HUN,3.0,VARGA D,6 - 4,102,HUN,1:42,Goal,1
+Centre shot,11.0,7,5,6,HUN,3.0,KLIKOVAK F,6 - 5,55,MNE,0:55,Goal,1
+Extra player shot,6.0,7,5,6,HUN,3.0,HOSNYANSZKY N,6 - 5,3,HUN,0:03,Saved,0
+Extra player shot,10.0,7,5,6,HUN,3.0,VARGA D,6 - 5,1,HUN,0:01,Saved,0
+5m shot,8.0,7,5,6,HUN,4.0,JANOVIC N,6 - 5,452,MNE,7:32,Saved,0
+5m shot,9.0,7,5,6,HUN,4.0,VARGA D,6 - 5,426,HUN,7:06,Blocked,0
+5m shot,9.0,7,6,6,HUN,4.0,IVOVIC A,6 - 6,401,MNE,6:41,Goal,1
+Action shot,6.0,7,6,7,HUN,4.0,HOSNYANSZKY N,7 - 6,312,HUN,5:12,Goal,1
+Extra player shot,4.0,7,6,7,HUN,4.0,PETROVIC A,7 - 6,280,MNE,4:40,Post,0
+5m shot,7.0,7,6,7,HUN,4.0,JANOVIC M,7 - 6,267,MNE,4:27,Post,0
+Action shot,3.0,7,6,7,HUN,4.0,MADARAS N,7 - 6,225,HUN,3:45,Saved,0
+Action shot,2.0,7,6,7,HUN,4.0,BRGULJAN D,7 - 6,196,MNE,3:16,Saved,0
+Action shot,9.0,7,7,7,HUN,4.0,IVOVIC A,7 - 7,124,MNE,2:04,Goal,1
+Extra player shot,8.0,7,7,8,HUN,4.0,SZIVOS M,8 - 7,79,HUN,1:19,Goal,1
+Action shot,2.0,7,7,8,HUN,4.0,BRGULJAN D,8 - 7,51,MNE,0:51,Missed,0
+5m shot,8.0,7,7,8,HUN,4.0,SZIVOS M,8 - 7,20,HUN,0:20,Saved,0
+Extra player shot,2.0,7,7,8,HUN,4.0,BRGULJAN D,8 - 7,1,MNE,0:01,Saved,0

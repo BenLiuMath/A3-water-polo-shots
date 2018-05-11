@@ -1,0 +1,916 @@
+Action,Cap,GRE,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,1.0,0,1,0,USA,1.0,KOUVDOU E,0 - 0,480,GRE,8:00
+Starting goalkeeper,1.0,0,1,0,USA,1.0,ARMSTRONG E,0 - 0,480,USA,8:00
+Sprint won possession,10.0,0,1,0,USA,1.0,RULON K,0 - 0,480,USA,8:00
+5m shot - Blocked,5.0,0,1,0,USA,1.0,CLARK C,0 - 0,456,USA,7:36
+Action shot - Missed,10.0,0,1,0,USA,1.0,MANOLIOUDAKI T,0 - 0,429,GRE,7:09
+Action shot - Post,5.0,0,1,0,USA,1.0,CLARK C,0 - 0,405,USA,6:45
+Action shot - Goal,8.0,1,1,0,USA,1.0,ROUMPESI A,0 - 1,382,GRE,6:22
+5m shot - Post,5.0,1,1,0,USA,1.0,CLARK C,0 - 1,355,USA,5:55
+20 sec. exclusion in centre,5.0,1,1,0,USA,1.0,CLARK C,0 - 1,339,USA,5:39
+Extra player shot - Goal,8.0,2,1,0,USA,1.0,ROUMPESI A,0 - 2,319,GRE,5:19
+5m shot - Saved,3.0,2,1,0,USA,1.0,SEIDEMANN M,0 - 2,302,USA,5:02
+Turnover foul,8.0,2,1,0,USA,1.0,ROUMPESI A,0 - 2,274,GRE,4:34
+Penalty foul,6.0,2,1,0,USA,1.0,AVRAMIDOU A,0 - 2,261,GRE,4:21
+Penalty shot - Goal,8.0,2,1,1,USA,1.0,NEUSHUL K,1 - 2,261,USA,4:21
+5m shot - Saved,2.0,2,1,1,USA,1.0,TSOUKALA C,1 - 2,239,GRE,3:59
+20 sec. exclusion in field,10.0,2,1,1,USA,1.0,MANOLIOUDAKI T,1 - 2,223,GRE,3:43
+Turnover foul,6.0,2,1,1,USA,1.0,STEFFENS M,1 - 2,195,USA,3:15
+Action shot - Saved,2.0,2,1,1,USA,1.0,TSOUKALA C,1 - 2,178,GRE,2:58
+5m shot - Missed,6.0,2,1,1,USA,1.0,STEFFENS M,1 - 2,150,USA,2:30
+Centre shot - Missed,7.0,2,1,1,USA,1.0,ASIMAKI A,1 - 2,129,GRE,2:09
+Turnover foul,8.0,2,1,1,USA,1.0,NEUSHUL K,1 - 2,109,USA,1:49
+5m shot - Saved,2.0,2,1,1,USA,1.0,TSOUKALA C,1 - 2,86,GRE,1:26
+5m shot - Post,3.0,2,1,1,USA,1.0,SEIDEMANN M,1 - 2,60,USA,1:00
+Turnover foul,7.0,2,1,1,USA,1.0,ASIMAKI A,1 - 2,51,GRE,0:51
+5m shot - Missed,4.0,2,1,1,USA,1.0,FATTAL R,1 - 2,24,USA,0:24
+Action shot - Post,6.0,2,1,1,USA,1.0,AVRAMIDOU A,1 - 2,2,GRE,0:02
+Starting goalkeeper,1.0,2,1,1,USA,2.0,ARMSTRONG E,1 - 2,480,USA,8:00
+Starting goalkeeper,1.0,2,1,1,USA,2.0,KOUVDOU E,1 - 2,480,GRE,8:00
+Sprint won possession,10.0,2,1,1,USA,2.0,RULON K,1 - 2,480,USA,8:00
+5m shot - Saved,5.0,2,1,1,USA,2.0,CLARK C,1 - 2,454,USA,7:34
+Centre shot - Missed,7.0,2,1,1,USA,2.0,ASIMAKI A,1 - 2,428,GRE,7:08
+5m shot - Goal,10.0,2,1,2,USA,2.0,RULON K,2 - 2,404,USA,6:44
+20 sec. exclusion in centre,3.0,2,1,2,USA,2.0,SEIDEMANN M,2 - 2,391,USA,6:31
+Action shot - Blocked,11.0,2,1,2,USA,2.0,PLEVRITOU E,2 - 2,370,GRE,6:10
+5m shot - Post,7.0,2,1,2,USA,2.0,MATHEWSON C,2 - 2,362,USA,6:02
+Action shot - Post,8.0,2,1,2,USA,2.0,ROUMPESI A,2 - 2,328,GRE,5:28
+Counter attack - Saved,11.0,2,1,2,USA,2.0,DRIES A,2 - 2,316,USA,5:16
+Turnover foul,7.0,2,1,2,USA,2.0,ASIMAKI A,2 - 2,297,GRE,4:57
+5m shot - Goal,7.0,2,1,3,USA,2.0,MATHEWSON C,3 - 2,275,USA,4:35
+20 sec. exclusion in field,8.0,2,1,3,USA,2.0,NEUSHUL K,3 - 2,264,USA,4:24
+Extra player shot - Blocked,8.0,2,1,3,USA,2.0,ROUMPESI A,3 - 2,245,GRE,4:05
+Action shot - Saved,11.0,2,1,3,USA,2.0,DRIES A,3 - 2,217,USA,3:37
+Action shot - Saved,8.0,2,1,3,USA,2.0,ROUMPESI A,3 - 2,194,GRE,3:14
+Action shot - Goal,6.0,3,1,3,USA,2.0,AVRAMIDOU A,3 - 3,175,GRE,2:55
+Centre shot - Missed,12.0,3,1,3,USA,2.0,CRAIG K,3 - 3,153,USA,2:33
+5m shot - Saved,6.0,3,1,3,USA,2.0,AVRAMIDOU A,3 - 3,122,GRE,2:02
+20 sec. exclusion in centre,6.0,3,1,3,USA,2.0,AVRAMIDOU A,3 - 3,97,GRE,1:37
+Extra player shot - Goal,4.0,3,1,4,USA,2.0,FATTAL R,4 - 3,87,USA,1:27
+20 sec. exclusion in centre,6.0,3,1,4,USA,2.0,STEFFENS M,4 - 3,73,USA,1:13
+Extra player shot - Goal,2.0,4,1,4,USA,2.0,TSOUKALA C,4 - 4,50,GRE,0:50
+5m shot - Post,2.0,4,1,4,USA,2.0,SILVER L,4 - 4,21,USA,0:21
+20 sec. exclusion in field,2.0,4,1,4,USA,2.0,SILVER L,4 - 4,17,USA,0:17
+Extra player shot - Post,8.0,4,1,4,USA,2.0,ROUMPESI A,4 - 4,1,GRE,0:01
+Starting goalkeeper,1.0,4,1,4,USA,3.0,KOUVDOU E,4 - 4,480,GRE,8:00
+Starting goalkeeper,1.0,4,1,4,USA,3.0,ARMSTRONG E,4 - 4,480,USA,8:00
+Sprint won possession,6.0,4,1,4,USA,3.0,AVRAMIDOU A,4 - 4,480,GRE,8:00
+5m shot - Saved,8.0,4,1,4,USA,3.0,ROUMPESI A,4 - 4,454,GRE,7:34
+5m shot - Goal,5.0,4,1,5,USA,3.0,CLARK C,5 - 4,426,USA,7:06
+Action shot - Goal,6.0,5,1,5,USA,3.0,AVRAMIDOU A,5 - 5,403,GRE,6:43
+5m shot - Goal,7.0,5,1,6,USA,3.0,MATHEWSON C,6 - 5,376,USA,6:16
+5m shot - Post,2.0,5,1,6,USA,3.0,TSOUKALA C,6 - 5,346,GRE,5:46
+5m shot - Goal,8.0,6,1,6,USA,3.0,ROUMPESI A,6 - 6,284,GRE,4:44
+Action shot - Saved,3.0,6,1,6,USA,3.0,SEIDEMANN M,6 - 6,262,USA,4:22
+Action shot - Saved,10.0,6,1,6,USA,3.0,MANOLIOUDAKI T,6 - 6,240,GRE,4:00
+20 sec. exclusion in centre,3.0,6,1,6,USA,3.0,SEIDEMANN M,6 - 6,222,USA,3:42
+Turnover foul,2.0,6,1,6,USA,3.0,TSOUKALA C,6 - 6,215,GRE,3:35
+Steal,8.0,6,1,6,USA,3.0,NEUSHUL K,6 - 6,215,USA,3:35
+Centre shot - Goal,12.0,6,1,7,USA,3.0,CRAIG K,7 - 6,198,USA,3:18
+5m shot - Saved,10.0,6,1,7,USA,3.0,MANOLIOUDAKI T,7 - 6,174,GRE,2:54
+Turnover foul,12.0,6,1,7,USA,3.0,CRAIG K,7 - 6,138,USA,2:18
+Steal,6.0,6,1,7,USA,3.0,AVRAMIDOU A,7 - 6,138,GRE,2:18
+5m shot - Missed,2.0,6,1,7,USA,3.0,TSOUKALA C,7 - 6,125,GRE,2:05
+5m shot - Saved,6.0,6,1,7,USA,3.0,STEFFENS M,7 - 6,102,USA,1:42
+Action shot - Saved,8.0,6,1,7,USA,3.0,ROUMPESI A,7 - 6,69,GRE,1:09
+Action shot - Goal,10.0,6,1,8,USA,3.0,RULON K,8 - 6,51,USA,0:51
+5m shot - Post,8.0,6,1,8,USA,3.0,ROUMPESI A,8 - 6,23,GRE,0:23
+5m shot - Missed,7.0,6,1,8,USA,3.0,MATHEWSON C,8 - 6,2,USA,0:02
+Starting goalkeeper,1.0,6,1,8,USA,4.0,ARMSTRONG E,8 - 6,480,USA,8:00
+Starting goalkeeper,1.0,6,1,8,USA,4.0,KOUVDOU E,8 - 6,480,GRE,8:00
+Sprint won possession,5.0,6,1,8,USA,4.0,CLARK C,8 - 6,480,USA,8:00
+Action shot - Goal,6.0,6,1,9,USA,4.0,STEFFENS M,9 - 6,451,USA,7:31
+Centre shot - Saved,7.0,6,1,9,USA,4.0,ASIMAKI A,9 - 6,422,GRE,7:02
+Action shot - Saved,9.0,6,1,9,USA,4.0,KRAUS J,9 - 6,393,USA,6:33
+Action shot - Blocked,5.0,6,1,9,USA,4.0,CLARK C,9 - 6,364,USA,6:04
+5m shot - Post,2.0,6,1,9,USA,4.0,TSOUKALA C,9 - 6,336,GRE,5:36
+Action shot - Post,10.0,6,1,9,USA,4.0,MANOLIOUDAKI T,9 - 6,315,GRE,5:15
+Turnover foul,6.0,6,1,9,USA,4.0,STEFFENS M,9 - 6,286,USA,4:46
+20 sec. exclusion in centre,4.0,6,1,9,USA,4.0,FATTAL R,9 - 6,274,USA,4:34
+Extra player shot - Blocked,6.0,6,1,9,USA,4.0,AVRAMIDOU A,9 - 6,256,GRE,4:16
+Action shot - Goal,8.0,6,1,10,USA,4.0,NEUSHUL K,10 - 6,241,USA,4:01
+20 sec. exclusion in centre,3.0,6,1,10,USA,4.0,SEIDEMANN M,10 - 6,220,USA,3:40
+Exclusion with substitution,3.0,6,1,10,USA,4.0,SEIDEMANN M,10 - 6,220,USA,3:40
+Extra player shot,7.0,6,1,10,USA,4.0,ASIMAKI A,10 - 6,209,GRE,3:29
+Turnover foul,6.0,6,1,10,USA,4.0,STEFFENS M,10 - 6,192,USA,3:12
+Steal,11.0,6,1,10,USA,4.0,PLEVRITOU E,10 - 6,192,GRE,3:12
+Turnover foul,7.0,6,1,10,USA,4.0,ASIMAKI A,10 - 6,174,GRE,2:54
+Steal,10.0,6,1,10,USA,4.0,RULON K,10 - 6,174,USA,2:54
+Action shot - Goal,6.0,6,1,11,USA,4.0,STEFFENS M,11 - 6,147,USA,2:27
+Action shot - Goal,2.0,7,1,11,USA,4.0,TSOUKALA C,11 - 7,122,GRE,2:02
+Action shot - Post,6.0,7,1,11,USA,4.0,STEFFENS M,11 - 7,95,USA,1:35
+5m shot - Blocked,2.0,7,1,11,USA,4.0,TSOUKALA C,11 - 7,77,GRE,1:17
+Action shot - Goal,6.0,7,1,12,USA,4.0,STEFFENS M,12 - 7,53,USA,0:53
+5m shot - Goal,2.0,8,1,12,USA,4.0,TSOUKALA C,12 - 8,33,GRE,0:33
+5m shot - Missed,6.0,8,1,12,USA,4.0,STEFFENS M,12 - 8,7,USA,0:07
+5m shot - Saved,2.0,8,1,12,USA,4.0,TSOUKALA C,12 - 8,1,GRE,0:01
+Starting goalkeeper,1.0,0,2,0,GBR,1.0,MORRIS R,0 - 0,480,GBR,8:00
+Starting goalkeeper,1.0,0,2,0,GBR,1.0,KOUVDOU E,0 - 0,480,GRE,8:00
+Sprint won possession,2.0,0,2,0,GBR,1.0,WILCOX C,0 - 0,480,GBR,8:00
+Turnover foul,10.0,0,2,0,GBR,1.0,WINSTANLEY-SMITH A,0 - 0,451,GBR,7:31
+Steal,10.0,0,2,0,GBR,1.0,MANOLIOUDAKI T,0 - 0,451,GRE,7:31
+Centre shot - Blocked,7.0,0,2,0,GBR,1.0,ASIMAKI A,0 - 0,430,GRE,7:10
+Turnover foul,10.0,0,2,0,GBR,1.0,WINSTANLEY-SMITH A,0 - 0,407,GBR,6:47
+Steal,10.0,0,2,0,GBR,1.0,MANOLIOUDAKI T,0 - 0,407,GRE,6:47
+Action shot - Post,4.0,0,2,0,GBR,1.0,PSOUNI I,0 - 0,379,GRE,6:19
+Centre shot - Goal,7.0,0,2,1,GBR,1.0,GIBSON L,1 - 0,355,GBR,5:55
+Turnover foul,2.0,0,2,1,GBR,1.0,TSOUKALA C,1 - 0,332,GRE,5:32
+Steal,4.0,0,2,1,GBR,1.0,GIBSON-BYRNE C,1 - 0,332,GBR,5:32
+5m shot - Blocked,6.0,0,2,1,GBR,1.0,NIXON C,1 - 0,310,GBR,5:10
+20 sec. exclusion in field,6.0,0,2,1,GBR,1.0,NIXON C,1 - 0,308,GBR,5:08
+Centre shot - Post,7.0,0,2,1,GBR,1.0,ASIMAKI A,1 - 0,282,GRE,4:42
+5m shot - Blocked,4.0,0,2,1,GBR,1.0,GIBSON-BYRNE C,1 - 0,260,GBR,4:20
+Turnover foul,7.0,0,2,1,GBR,1.0,ASIMAKI A,1 - 0,231,GRE,3:51
+Turnover foul,5.0,0,2,1,GBR,1.0,HOY A,1 - 0,219,GBR,3:39
+Steal,10.0,0,2,1,GBR,1.0,MANOLIOUDAKI T,1 - 0,219,GRE,3:39
+Penalty foul,8.0,0,2,1,GBR,1.0,MUSGROVE H,1 - 0,199,GBR,3:19
+Penalty shot - Goal,2.0,1,2,1,GBR,1.0,TSOUKALA C,1 - 1,199,GRE,3:19
+Turnover foul,11.0,1,2,1,GBR,1.0,CLAYTON F,1 - 1,180,GBR,3:00
+Steal,10.0,1,2,1,GBR,1.0,MANOLIOUDAKI T,1 - 1,180,GRE,3:00
+Centre shot - Post,10.0,1,2,1,GBR,1.0,MANOLIOUDAKI T,1 - 1,153,GRE,2:33
+Turnover foul,10.0,1,2,1,GBR,1.0,WINSTANLEY-SMITH A,1 - 1,126,GBR,2:06
+Steal,6.0,1,2,1,GBR,1.0,AVRAMIDOU A,1 - 1,126,GRE,2:06
+Turnover foul,7.0,1,2,1,GBR,1.0,ASIMAKI A,1 - 1,111,GRE,1:51
+Steal,8.0,1,2,1,GBR,1.0,MUSGROVE H,1 - 1,111,GBR,1:51
+Centre shot - Saved,7.0,1,2,1,GBR,1.0,ASIMAKI A,1 - 1,72,GRE,1:12
+Turnover foul,10.0,1,2,1,GBR,1.0,WINSTANLEY-SMITH A,1 - 1,51,GBR,0:51
+Steal,1.0,1,2,1,GBR,1.0,KOUVDOU E,1 - 1,51,GRE,0:51
+Action shot - Missed,8.0,1,2,1,GBR,1.0,ROUMPESI A,1 - 1,25,GRE,0:25
+Starting goalkeeper,1.0,1,2,1,GBR,2.0,MORRIS R,1 - 1,480,GBR,8:00
+Starting goalkeeper,1.0,1,2,1,GBR,2.0,KOUVDOU E,1 - 1,480,GRE,8:00
+Sprint won possession,6.0,1,2,1,GBR,2.0,AVRAMIDOU A,1 - 1,480,GRE,8:00
+Turnover foul,8.0,1,2,1,GBR,2.0,ROUMPESI A,1 - 1,469,GRE,7:49
+Steal,1.0,1,2,1,GBR,2.0,MORRIS R,1 - 1,469,GBR,7:49
+20 sec. exclusion in field,7.0,1,2,1,GBR,2.0,ASIMAKI A,1 - 1,467,GRE,7:47
+Action shot - Saved,7.0,1,2,1,GBR,2.0,GIBSON L,1 - 1,438,GBR,7:18
+5m shot - Goal,2.0,2,2,1,GBR,2.0,TSOUKALA C,1 - 2,410,GRE,6:50
+5m shot - Missed,10.0,2,2,1,GBR,2.0,WINSTANLEY-SMITH A,1 - 2,392,GBR,6:32
+Action shot - Blocked,6.0,2,2,1,GBR,2.0,AVRAMIDOU A,1 - 2,369,GRE,6:09
+Centre shot - Goal,7.0,2,2,2,GBR,2.0,GIBSON L,2 - 2,349,GBR,5:49
+Action shot - Missed,2.0,2,2,2,GBR,2.0,TSOUKALA C,2 - 2,327,GRE,5:27
+Turnover foul,6.0,2,2,2,GBR,2.0,NIXON C,2 - 2,321,GBR,5:21
+Centre shot - Saved,7.0,2,2,2,GBR,2.0,ASIMAKI A,2 - 2,301,GRE,5:01
+5m shot - Saved,3.0,2,2,2,GBR,2.0,McCANN F,2 - 2,273,GBR,4:33
+20 sec. exclusion in centre,6.0,2,2,2,GBR,2.0,NIXON C,2 - 2,250,GBR,4:10
+Extra player shot - Saved,3.0,2,2,2,GBR,2.0,DIAMANTOPOULOU V,2 - 2,232,GRE,3:52
+5m shot - Missed,11.0,2,2,2,GBR,2.0,CLAYTON F,2 - 2,213,GBR,3:33
+Centre shot - Goal,7.0,3,2,2,GBR,2.0,ASIMAKI A,2 - 3,200,GRE,3:20
+5m shot - Goal,4.0,3,2,3,GBR,2.0,GIBSON-BYRNE C,3 - 3,173,GBR,2:53
+Action shot - Blocked,10.0,3,2,3,GBR,2.0,MANOLIOUDAKI T,3 - 3,148,GRE,2:28
+5m shot - Missed,8.0,3,2,3,GBR,2.0,MUSGROVE H,3 - 3,128,GBR,2:08
+Turnover foul,6.0,3,2,3,GBR,2.0,AVRAMIDOU A,3 - 3,115,GRE,1:55
+Steal,8.0,3,2,3,GBR,2.0,MUSGROVE H,3 - 3,115,GBR,1:55
+Action shot - Blocked,4.0,3,2,3,GBR,2.0,GIBSON-BYRNE C,3 - 3,86,GBR,1:26
+Action shot - Post,10.0,3,2,3,GBR,2.0,MANOLIOUDAKI T,3 - 3,60,GRE,1:00
+20 sec. exclusion in centre,8.0,3,2,3,GBR,2.0,ROUMPESI A,3 - 3,32,GRE,0:32
+5m shot - Post,8.0,3,2,3,GBR,2.0,MUSGROVE H,3 - 3,2,GBR,0:02
+Starting goalkeeper,1.0,3,2,3,GBR,3.0,MORRIS R,3 - 3,480,GBR,8:00
+Starting goalkeeper,1.0,3,2,3,GBR,3.0,KOUVDOU E,3 - 3,480,GRE,8:00
+Sprint won possession,2.0,3,2,3,GBR,3.0,WILCOX C,3 - 3,480,GBR,8:00
+20 sec. exclusion in centre,10.0,3,2,3,GBR,4.0,WINSTANLEY-SMITH A,3 - 3,27,GBR,0:27
+Extra player shot - Post,11.0,3,2,3,GBR,4.0,PLEVRITOU E,3 - 3,12,GRE,0:12
+Centre shot - Missed,7.0,3,2,3,GBR,3.0,GIBSON L,3 - 3,461,GBR,7:41
+Centre shot - Goal,7.0,4,2,3,GBR,3.0,ASIMAKI A,3 - 4,444,GRE,7:24
+Turnover foul,7.0,4,2,3,GBR,3.0,GIBSON L,3 - 4,428,GBR,7:08
+Centre shot - Goal,7.0,5,2,3,GBR,3.0,ASIMAKI A,3 - 5,415,GRE,6:55
+Turnover foul,8.0,5,2,3,GBR,3.0,MUSGROVE H,3 - 5,387,GBR,6:27
+Steal,2.0,5,2,3,GBR,3.0,TSOUKALA C,3 - 5,387,GRE,6:27
+Centre shot - Goal,6.0,6,2,3,GBR,3.0,AVRAMIDOU A,3 - 6,363,GRE,6:03
+Time-Out,,6,2,3,GBR,3.0,,3 - 6,363,GBR,6:03
+Turnover foul,2.0,6,2,3,GBR,3.0,WILCOX C,3 - 6,335,GBR,5:35
+Steal,1.0,6,2,3,GBR,3.0,KOUVDOU E,3 - 6,335,GRE,5:35
+Centre shot - Missed,7.0,6,2,3,GBR,3.0,ASIMAKI A,3 - 6,310,GRE,5:10
+20 sec. exclusion in field,2.0,6,2,3,GBR,3.0,TSOUKALA C,3 - 6,300,GRE,5:00
+Extra player shot - Saved,4.0,6,2,3,GBR,3.0,GIBSON-BYRNE C,3 - 6,283,GBR,4:43
+Action shot - Missed,2.0,6,2,3,GBR,3.0,WILCOX C,3 - 6,263,GBR,4:23
+Turnover foul,7.0,6,2,3,GBR,3.0,ASIMAKI A,3 - 6,247,GRE,4:07
+20 sec. exclusion in centre,10.0,6,2,3,GBR,3.0,MANOLIOUDAKI T,3 - 6,225,GRE,3:45
+Extra player shot - Saved,6.0,6,2,3,GBR,3.0,NIXON C,3 - 6,205,GBR,3:25
+Penalty foul,6.0,6,2,3,GBR,3.0,AVRAMIDOU A,3 - 6,204,GRE,3:24
+Penalty shot - Goal,4.0,6,2,4,GBR,3.0,GIBSON-BYRNE C,4 - 6,204,GBR,3:24
+5m shot - Goal,4.0,7,2,4,GBR,3.0,PSOUNI I,4 - 7,177,GRE,2:57
+Turnover foul,9.0,7,2,4,GBR,3.0,ETIEBET P,4 - 7,158,GBR,2:38
+Steal,1.0,7,2,4,GBR,3.0,KOUVDOU E,4 - 7,158,GRE,2:38
+5m shot - Missed,2.0,7,2,4,GBR,3.0,TSOUKALA C,4 - 7,132,GRE,2:12
+5m shot - Missed,11.0,7,2,4,GBR,3.0,CLAYTON F,4 - 7,117,GBR,1:57
+Turnover foul,10.0,7,2,4,GBR,3.0,MANOLIOUDAKI T,4 - 7,92,GRE,1:32
+Steal,4.0,7,2,4,GBR,3.0,GIBSON-BYRNE C,4 - 7,92,GBR,1:32
+20 sec. exclusion in field,6.0,7,2,4,GBR,3.0,AVRAMIDOU A,4 - 7,82,GRE,1:22
+Extra player shot - Goal,10.0,7,2,5,GBR,3.0,WINSTANLEY-SMITH A,5 - 7,81,GBR,1:21
+20 sec. exclusion in field,11.0,7,2,5,GBR,3.0,CLAYTON F,5 - 7,58,GBR,0:58
+Extra player shot - Goal,7.0,8,2,5,GBR,3.0,ASIMAKI A,5 - 8,49,GRE,0:49
+Turnover foul,7.0,8,2,5,GBR,3.0,GIBSON L,5 - 8,21,GBR,0:21
+Steal,2.0,8,2,5,GBR,3.0,TSOUKALA C,5 - 8,21,GRE,0:21
+Turnover foul,6.0,8,2,5,GBR,3.0,AVRAMIDOU A,5 - 8,2,GRE,0:02
+5m shot - Saved,4.0,8,2,5,GBR,3.0,GIBSON-BYRNE C,5 - 8,1,GBR,0:01
+Starting goalkeeper,1.0,8,2,5,GBR,4.0,MORRIS R,5 - 8,480,GBR,8:00
+Starting goalkeeper,1.0,8,2,5,GBR,4.0,KOUVDOU E,5 - 8,480,GRE,8:00
+Sprint won possession,2.0,8,2,5,GBR,4.0,WILCOX C,5 - 8,480,GBR,8:00
+Turnover foul,7.0,8,2,5,GBR,4.0,GIBSON L,5 - 8,451,GBR,7:31
+Steal,8.0,8,2,5,GBR,4.0,ROUMPESI A,5 - 8,451,GRE,7:31
+Action shot - Goal,2.0,9,2,5,GBR,4.0,TSOUKALA C,5 - 9,425,GRE,7:05
+20 sec. exclusion in field,8.0,9,2,5,GBR,4.0,ROUMPESI A,5 - 9,412,GRE,6:52
+Action shot - Goal,2.0,9,2,6,GBR,4.0,WILCOX C,6 - 9,388,GBR,6:28
+20 sec. exclusion in centre,3.0,9,2,6,GBR,4.0,McCANN F,6 - 9,368,GBR,6:08
+Extra player shot - Goal,7.0,10,2,6,GBR,4.0,ASIMAKI A,6 - 10,359,GRE,5:59
+Turnover foul,7.0,10,2,6,GBR,4.0,GIBSON L,6 - 10,328,GBR,5:28
+Steal,8.0,10,2,6,GBR,4.0,ROUMPESI A,6 - 10,328,GRE,5:28
+Action shot - Post,8.0,10,2,6,GBR,4.0,ROUMPESI A,6 - 10,303,GRE,5:03
+5m shot - Goal,11.0,10,2,7,GBR,4.0,CLAYTON F,7 - 10,281,GBR,4:41
+Action shot - Saved,6.0,10,2,7,GBR,4.0,AVRAMIDOU A,7 - 10,256,GRE,4:16
+Centre shot - Goal,10.0,11,2,7,GBR,4.0,MANOLIOUDAKI T,7 - 11,255,GRE,4:15
+Time-Out,,11,2,7,GBR,4.0,,7 - 11,255,GBR,4:15
+20 sec. exclusion in centre,4.0,11,2,7,GBR,4.0,PSOUNI I,7 - 11,245,GRE,4:05
+Extra player shot - Blocked,4.0,11,2,7,GBR,4.0,GIBSON-BYRNE C,7 - 11,240,GBR,4:00
+20 sec. exclusion in centre,8.0,11,2,7,GBR,4.0,MUSGROVE H,7 - 11,220,GBR,3:40
+Time-Out,,11,2,7,GBR,4.0,,7 - 11,220,GRE,3:40
+Extra player shot - Goal,2.0,12,2,7,GBR,4.0,TSOUKALA C,7 - 12,202,GRE,3:22
+5m shot - Saved,11.0,12,2,7,GBR,4.0,CLAYTON F,7 - 12,175,GBR,2:55
+Penalty foul,7.0,12,2,7,GBR,4.0,GIBSON L,7 - 12,152,GBR,2:32
+Penalty shot - Goal,6.0,13,2,7,GBR,4.0,AVRAMIDOU A,7 - 13,152,GRE,2:32
+Action shot - Post,4.0,13,2,7,GBR,4.0,GIBSON-BYRNE C,7 - 13,131,GBR,2:11
+20 sec. exclusion in centre,5.0,13,2,7,GBR,4.0,HOY A,7 - 13,102,GBR,1:42
+Turnover foul,12.0,13,2,7,GBR,4.0,BENEKOU A,7 - 13,78,GRE,1:18
+5m shot - Saved,3.0,13,2,7,GBR,4.0,McCANN F,7 - 13,56,GBR,0:56
+5m shot - Saved,4.0,13,2,7,GBR,4.0,GIBSON-BYRNE C,7 - 13,3,GBR,0:03
+Starting goalkeeper,1.0,0,3,0,CAN,1.0,KOUVDOU E,0 - 0,480,GRE,8:00
+Starting goalkeeper,1.0,0,3,0,CAN,1.0,RELTON M,0 - 0,480,CAN,8:00
+Sprint won possession,4.0,0,3,0,CAN,1.0,PSOUNI I,0 - 0,480,GRE,8:00
+20 sec. exclusion in field,8.0,0,3,0,CAN,1.0,PERREAULT D,0 - 0,461,CAN,7:41
+Action shot - Goal,8.0,1,3,0,CAN,1.0,ROUMPESI A,0 - 1,438,GRE,7:18
+Turnover foul,2.0,1,3,0,CAN,1.0,ALOGBO K,0 - 1,409,CAN,6:49
+Steal,6.0,1,3,0,CAN,1.0,AVRAMIDOU A,0 - 1,409,GRE,6:49
+Action shot - Goal,2.0,2,3,0,CAN,1.0,TSOUKALA C,0 - 2,381,GRE,6:21
+5m shot - Saved,7.0,2,3,0,CAN,1.0,BEKHAZI J,0 - 2,352,CAN,5:52
+Centre shot - Missed,7.0,2,3,0,CAN,1.0,ASIMAKI A,0 - 2,328,GRE,5:28
+Action shot - Saved,5.0,2,3,0,CAN,1.0,EGGENS M,0 - 2,308,CAN,5:08
+20 sec. exclusion in centre,4.0,2,3,0,CAN,1.0,WRIGHT E,0 - 2,297,CAN,4:57
+Action shot - Goal,2.0,3,3,0,CAN,1.0,TSOUKALA C,0 - 3,276,GRE,4:36
+Turnover foul,3.0,3,3,0,CAN,1.0,MONTON K,0 - 3,258,CAN,4:18
+Steal,6.0,3,3,0,CAN,1.0,AVRAMIDOU A,0 - 3,258,GRE,4:18
+Action shot - Saved,2.0,3,3,0,CAN,1.0,TSOUKALA C,0 - 3,233,GRE,3:53
+Action shot - Goal,7.0,3,3,1,CAN,1.0,BEKHAZI J,1 - 3,211,CAN,3:31
+Turnover foul,7.0,3,3,1,CAN,1.0,ASIMAKI A,1 - 3,190,GRE,3:10
+Steal,12.0,3,3,1,CAN,1.0,RADU M,1 - 3,190,CAN,3:10
+Penalty foul,4.0,3,3,1,CAN,1.0,PSOUNI I,1 - 3,172,GRE,2:52
+Penalty shot - Post,7.0,3,3,1,CAN,1.0,BEKHAZI J,1 - 3,172,CAN,2:52
+20 sec. exclusion in centre,9.0,3,3,1,CAN,1.0,EGGENS C,1 - 3,162,CAN,2:42
+Action shot - Blocked,6.0,3,3,1,CAN,1.0,AVRAMIDOU A,1 - 3,139,GRE,2:19
+Turnover foul,6.0,3,3,1,CAN,1.0,AVRAMIDOU A,1 - 3,118,GRE,1:58
+Steal,5.0,3,3,1,CAN,1.0,EGGENS M,1 - 3,118,CAN,1:58
+20 sec. exclusion in centre,10.0,3,3,1,CAN,1.0,MANOLIOUDAKI T,1 - 3,98,GRE,1:38
+Turnover foul,10.0,3,3,1,CAN,1.0,ROBINSON C,1 - 3,73,CAN,1:13
+Centre shot - Post,7.0,3,3,1,CAN,1.0,ASIMAKI A,1 - 3,56,GRE,0:56
+Centre shot - Goal,3.0,3,3,2,CAN,1.0,MONTON K,2 - 3,32,CAN,0:32
+20 sec. exclusion in centre,10.0,3,3,2,CAN,1.0,ROBINSON C,2 - 3,3,CAN,0:03
+Starting goalkeeper,1.0,3,3,2,CAN,2.0,RELTON M,2 - 3,480,CAN,8:00
+Starting goalkeeper,1.0,3,3,2,CAN,2.0,KOUVDOU E,2 - 3,480,GRE,8:00
+Sprint won possession,6.0,3,3,2,CAN,2.0,AVRAMIDOU A,2 - 3,480,GRE,8:00
+Action shot - Saved,8.0,3,3,2,CAN,2.0,ROUMPESI A,2 - 3,453,GRE,7:33
+5m shot - Saved,7.0,3,3,2,CAN,2.0,BEKHAZI J,2 - 3,436,CAN,7:16
+Centre shot - Goal,2.0,3,3,3,CAN,2.0,ALOGBO K,3 - 3,419,CAN,6:59
+Turnover foul,7.0,3,3,3,CAN,2.0,ASIMAKI A,3 - 3,387,GRE,6:27
+Steal,11.0,3,3,3,CAN,2.0,VALIN S,3 - 3,387,CAN,6:27
+5m shot - Goal,5.0,3,3,4,CAN,2.0,EGGENS M,4 - 3,370,CAN,6:10
+Centre shot - Goal,7.0,4,3,4,CAN,2.0,ASIMAKI A,4 - 4,349,GRE,5:49
+20 sec. exclusion in field,7.0,4,3,4,CAN,2.0,ASIMAKI A,4 - 4,319,GRE,5:19
+Extra player shot - Saved,3.0,4,3,4,CAN,2.0,MONTON K,4 - 4,304,CAN,5:04
+20 sec. exclusion in field,3.0,4,3,4,CAN,2.0,MONTON K,4 - 4,287,CAN,4:47
+Action shot - Saved,2.0,4,3,4,CAN,2.0,TSOUKALA C,4 - 4,261,GRE,4:21
+Centre shot - Post,2.0,4,3,4,CAN,2.0,ALOGBO K,4 - 4,241,CAN,4:01
+20 sec. exclusion in centre,5.0,4,3,4,CAN,2.0,EGGENS M,4 - 4,226,CAN,3:46
+Extra player shot - Saved,11.0,4,3,4,CAN,2.0,PLEVRITOU E,4 - 4,207,GRE,3:27
+5m shot - Blocked,6.0,4,3,4,CAN,2.0,BARON la SALLE S,4 - 4,182,CAN,3:02
+Turnover foul,3.0,4,3,4,CAN,2.0,DIAMANTOPOULOU V,4 - 4,158,GRE,2:38
+Steal,11.0,4,3,4,CAN,2.0,VALIN S,4 - 4,158,CAN,2:38
+Action shot - Missed,6.0,4,3,4,CAN,2.0,BARON la SALLE S,4 - 4,132,CAN,2:12
+Action shot - Goal,11.0,5,3,4,CAN,2.0,PLEVRITOU E,4 - 5,106,GRE,1:46
+Action shot - Goal,4.0,6,3,4,CAN,2.0,PSOUNI I,4 - 6,50,GRE,0:50
+5m shot - Saved,4.0,6,3,4,CAN,2.0,WRIGHT E,4 - 6,22,CAN,0:22
+5m shot - Post,2.0,6,3,4,CAN,2.0,TSOUKALA C,4 - 6,2,GRE,0:02
+Starting goalkeeper,1.0,6,3,4,CAN,3.0,RELTON M,4 - 6,480,CAN,8:00
+Starting goalkeeper,1.0,6,3,4,CAN,3.0,KOUVDOU E,4 - 6,480,GRE,8:00
+Sprint won possession,8.0,6,3,4,CAN,3.0,PERREAULT D,4 - 6,480,CAN,8:00
+Turnover foul,7.0,6,3,4,CAN,3.0,BEKHAZI J,4 - 6,455,CAN,7:35
+Steal,10.0,6,3,4,CAN,3.0,MANOLIOUDAKI T,4 - 6,455,GRE,7:35
+Turnover foul,7.0,6,3,4,CAN,3.0,ASIMAKI A,4 - 6,430,GRE,7:10
+Steal,2.0,6,3,4,CAN,3.0,ALOGBO K,4 - 6,430,CAN,7:10
+Action shot - Goal,5.0,6,3,5,CAN,3.0,EGGENS M,5 - 6,412,CAN,6:52
+5m shot - Blocked,7.0,6,3,5,CAN,3.0,BEKHAZI J,5 - 6,352,CAN,5:52
+Penalty foul,6.0,6,3,5,CAN,3.0,AVRAMIDOU A,5 - 6,351,GRE,5:51
+Penalty shot - Saved,7.0,6,3,5,CAN,3.0,BEKHAZI J,5 - 6,351,CAN,5:51
+20 sec. exclusion in centre,10.0,6,3,5,CAN,3.0,ROBINSON C,5 - 6,338,CAN,5:38
+Action shot - Blocked,8.0,6,3,5,CAN,3.0,ROUMPESI A,5 - 6,310,GRE,5:10
+Counter attack - Goal,7.0,6,3,6,CAN,3.0,BEKHAZI J,6 - 6,299,CAN,4:59
+Centre shot - Post,7.0,6,3,6,CAN,3.0,ASIMAKI A,6 - 6,273,GRE,4:33
+Action shot - Saved,6.0,6,3,6,CAN,3.0,BARON la SALLE S,6 - 6,245,CAN,4:05
+Centre shot - Saved,3.0,6,3,6,CAN,3.0,MONTON K,6 - 6,230,CAN,3:50
+Action shot - Saved,8.0,6,3,6,CAN,3.0,ROUMPESI A,6 - 6,201,GRE,3:21
+Action shot - Missed,12.0,6,3,6,CAN,3.0,RADU M,6 - 6,175,CAN,2:55
+Centre shot - Saved,7.0,6,3,6,CAN,3.0,ASIMAKI A,6 - 6,157,GRE,2:37
+5m shot - Post,11.0,6,3,6,CAN,3.0,VALIN S,6 - 6,130,CAN,2:10
+20 sec. exclusion in centre,11.0,6,3,6,CAN,3.0,VALIN S,6 - 6,120,CAN,2:00
+Time-Out,,6,3,6,CAN,3.0,,6 - 6,120,GRE,2:00
+Action shot - Blocked,10.0,6,3,6,CAN,3.0,MANOLIOUDAKI T,6 - 6,94,GRE,1:34
+Turnover foul,2.0,6,3,6,CAN,3.0,ALOGBO K,6 - 6,73,CAN,1:13
+Turnover foul,8.0,6,3,6,CAN,3.0,ROUMPESI A,6 - 6,55,GRE,0:55
+Steal,1.0,6,3,6,CAN,3.0,RELTON M,6 - 6,55,CAN,0:55
+Turnover foul,2.0,6,3,6,CAN,3.0,ALOGBO K,6 - 6,52,CAN,0:52
+20 sec. exclusion in centre,12.0,6,3,6,CAN,3.0,RADU M,6 - 6,43,CAN,0:43
+Action shot - Post,2.0,6,3,6,CAN,3.0,TSOUKALA C,6 - 6,16,GRE,0:16
+5m shot - Goal,5.0,6,3,7,CAN,3.0,EGGENS M,7 - 6,3,CAN,0:03
+5m shot - Saved,8.0,6,3,7,CAN,3.0,ROUMPESI A,7 - 6,1,GRE,0:01
+Starting goalkeeper,1.0,6,3,7,CAN,4.0,RELTON M,7 - 6,480,CAN,8:00
+Starting goalkeeper,1.0,6,3,7,CAN,4.0,KOUVDOU E,7 - 6,480,GRE,8:00
+Sprint won possession,8.0,6,3,7,CAN,4.0,PERREAULT D,7 - 6,480,CAN,8:00
+Turnover foul,2.0,6,3,7,CAN,4.0,ALOGBO K,7 - 6,459,CAN,7:39
+Action shot - Post,8.0,6,3,7,CAN,4.0,ROUMPESI A,7 - 6,433,GRE,7:13
+20 sec. exclusion in centre,10.0,6,3,7,CAN,4.0,MANOLIOUDAKI T,7 - 6,416,GRE,6:56
+Extra player shot - Saved,5.0,6,3,7,CAN,4.0,EGGENS M,7 - 6,409,CAN,6:49
+20 sec. exclusion in centre,7.0,6,3,7,CAN,4.0,BEKHAZI J,7 - 6,398,CAN,6:38
+Extra player shot - Saved,6.0,6,3,7,CAN,4.0,AVRAMIDOU A,7 - 6,380,GRE,6:20
+Action shot - Saved,9.0,6,3,7,CAN,4.0,EGGENS C,7 - 6,353,CAN,5:53
+5m shot - Saved,9.0,6,3,7,CAN,4.0,EGGENS C,7 - 6,336,CAN,5:36
+Action shot - Post,6.0,6,3,7,CAN,4.0,AVRAMIDOU A,7 - 6,310,GRE,5:10
+20 sec. exclusion in centre,9.0,6,3,7,CAN,4.0,EGGENS C,7 - 6,291,CAN,4:51
+Action shot - Goal,6.0,7,3,7,CAN,4.0,AVRAMIDOU A,7 - 7,269,GRE,4:29
+Centre shot - Post,10.0,7,3,7,CAN,4.0,ROBINSON C,7 - 7,247,CAN,4:07
+Action shot - Missed,6.0,7,3,7,CAN,4.0,AVRAMIDOU A,7 - 7,220,GRE,3:40
+20 sec. exclusion in centre,4.0,7,3,7,CAN,4.0,PSOUNI I,7 - 7,195,GRE,3:15
+Time-Out,,7,3,7,CAN,4.0,,7 - 7,194,CAN,3:14
+Extra player shot - Blocked,8.0,7,3,7,CAN,4.0,PERREAULT D,7 - 7,177,CAN,2:57
+20 sec. exclusion in centre,10.0,7,3,7,CAN,4.0,ROBINSON C,7 - 7,158,CAN,2:38
+Exclusion with substitution,10.0,7,3,7,CAN,4.0,ROBINSON C,7 - 7,158,CAN,2:38
+Time-Out,,7,3,7,CAN,4.0,,7 - 7,157,GRE,2:37
+Extra player shot - Goal,7.0,8,3,7,CAN,4.0,ASIMAKI A,7 - 8,140,GRE,2:20
+Turnover foul,7.0,8,3,7,CAN,4.0,ASIMAKI A,7 - 8,82,GRE,1:22
+Steal,12.0,8,3,7,CAN,4.0,RADU M,7 - 8,82,CAN,1:22
+20 sec. exclusion in centre,2.0,8,3,7,CAN,4.0,TSOUKALA C,7 - 8,65,GRE,1:05
+Time-Out,,8,3,7,CAN,4.0,,7 - 8,65,CAN,1:05
+Action shot - Goal,5.0,8,3,8,CAN,4.0,EGGENS M,8 - 8,43,CAN,0:43
+5m shot - Saved,8.0,8,3,8,CAN,4.0,ROUMPESI A,8 - 8,13,GRE,0:13
+Starting goalkeeper,1.0,0,4,0,ITA,1.0,GIGLI E,0 - 0,480,ITA,8:00
+Starting goalkeeper,1.0,0,4,0,ITA,1.0,KOUVDOU E,0 - 0,480,GRE,8:00
+Sprint won possession,7.0,0,4,0,ITA,1.0,di MARIO T,0 - 0,480,ITA,8:00
+Turnover foul,12.0,0,4,0,ITA,1.0,FRASSINETTI T,0 - 0,462,ITA,7:42
+Steal,6.0,0,4,0,ITA,1.0,AVRAMIDOU A,0 - 0,462,GRE,7:42
+Action shot - Blocked,8.0,0,4,0,ITA,1.0,ROUMPESI A,0 - 0,438,GRE,7:18
+Penalty foul,4.0,0,4,0,ITA,1.0,PSOUNI I,0 - 0,417,GRE,6:57
+Penalty shot - Saved,7.0,0,4,0,ITA,1.0,di MARIO T,0 - 0,417,ITA,6:57
+Turnover foul,7.0,0,4,0,ITA,1.0,ASIMAKI A,0 - 0,401,GRE,6:41
+Steal,1.0,0,4,0,ITA,1.0,GIGLI E,0 - 0,401,ITA,6:41
+Turnover foul,4.0,0,4,0,ITA,1.0,RADICCHI F,0 - 0,373,ITA,6:13
+Steal,10.0,0,4,0,ITA,1.0,MANOLIOUDAKI T,0 - 0,373,GRE,6:13
+Action shot - Post,10.0,0,4,0,ITA,1.0,MANOLIOUDAKI T,0 - 0,347,GRE,5:47
+Action shot - Goal,8.0,0,4,1,ITA,1.0,BIANCONI R,1 - 0,326,ITA,5:26
+Turnover foul,2.0,0,4,1,ITA,1.0,TSOUKALA C,1 - 0,297,GRE,4:57
+Counter attack - Missed,9.0,0,4,1,ITA,1.0,EMMOLO G,1 - 0,288,ITA,4:48
+Turnover foul,7.0,0,4,1,ITA,1.0,ASIMAKI A,1 - 0,267,GRE,4:27
+Turnover foul,12.0,0,4,1,ITA,1.0,FRASSINETTI T,1 - 0,244,ITA,4:04
+Action shot - Blocked,4.0,0,4,1,ITA,1.0,PSOUNI I,1 - 0,222,GRE,3:42
+Counter attack - Missed,12.0,0,4,1,ITA,1.0,FRASSINETTI T,1 - 0,210,ITA,3:30
+20 sec. exclusion in centre,4.0,0,4,1,ITA,1.0,RADICCHI F,1 - 0,203,ITA,3:23
+Extra player shot - Goal,7.0,1,4,1,ITA,1.0,ASIMAKI A,1 - 1,200,GRE,3:20
+5m shot - Goal,7.0,1,4,2,ITA,1.0,di MARIO T,2 - 1,179,ITA,2:59
+Action shot - Post,8.0,1,4,2,ITA,1.0,ROUMPESI A,2 - 1,152,GRE,2:32
+20 sec. exclusion in centre,10.0,1,4,2,ITA,1.0,MANOLIOUDAKI T,2 - 1,125,GRE,2:05
+Extra player shot - Blocked,8.0,1,4,2,ITA,1.0,BIANCONI R,2 - 1,107,ITA,1:47
+Action shot - Goal,8.0,2,4,2,ITA,1.0,ROUMPESI A,2 - 2,81,GRE,1:21
+Centre shot - Saved,10.0,2,4,2,ITA,1.0,PALMIERI V,2 - 2,63,ITA,1:03
+Turnover foul,12.0,2,4,2,ITA,1.0,FRASSINETTI T,2 - 2,36,ITA,0:36
+Action shot - Saved,3.0,2,4,2,ITA,1.0,DIAMANTOPOULOU V,2 - 2,11,GRE,0:11
+5m shot - Missed,5.0,2,4,2,ITA,1.0,QUEIROLO E,2 - 2,1,ITA,0:01
+Starting goalkeeper,1.0,2,4,2,ITA,2.0,KOUVDOU E,2 - 2,480,GRE,8:00
+Starting goalkeeper,1.0,2,4,2,ITA,2.0,GIGLI E,2 - 2,480,ITA,8:00
+Sprint won possession,11.0,2,4,2,ITA,2.0,PLEVRITOU E,2 - 2,480,GRE,8:00
+20 sec. exclusion in centre,8.0,2,4,2,ITA,2.0,BIANCONI R,2 - 2,464,ITA,7:44
+Action shot - Missed,6.0,2,4,2,ITA,2.0,AVRAMIDOU A,2 - 2,436,GRE,7:16
+Action shot - Blocked,11.0,2,4,2,ITA,2.0,PLEVRITOU E,2 - 2,413,GRE,6:53
+Penalty foul,3.0,2,4,2,ITA,2.0,DIAMANTOPOULOU V,2 - 2,387,GRE,6:27
+Penalty shot - Goal,8.0,2,4,3,ITA,2.0,BIANCONI R,3 - 2,387,ITA,6:27
+5m shot - Goal,8.0,3,4,3,ITA,2.0,ROUMPESI A,3 - 3,358,GRE,5:58
+Turnover foul,12.0,3,4,3,ITA,2.0,FRASSINETTI T,3 - 3,337,ITA,5:37
+Steal,2.0,3,4,3,ITA,2.0,TSOUKALA C,3 - 3,337,GRE,5:37
+Turnover foul,7.0,3,4,3,ITA,2.0,ASIMAKI A,3 - 3,318,GRE,5:18
+Steal,6.0,3,4,3,ITA,2.0,AIELLO R,3 - 3,318,ITA,5:18
+5m shot - Missed,8.0,3,4,3,ITA,2.0,BIANCONI R,3 - 3,289,ITA,4:49
+Action shot - Saved,2.0,3,4,3,ITA,2.0,TSOUKALA C,3 - 3,263,GRE,4:23
+5m shot - Blocked,3.0,3,4,3,ITA,2.0,GARIBOTTI A,3 - 3,241,ITA,4:01
+Action shot - Post,6.0,3,4,3,ITA,2.0,AVRAMIDOU A,3 - 3,219,GRE,3:39
+Centre shot - Goal,7.0,4,4,3,ITA,2.0,ASIMAKI A,3 - 4,218,GRE,3:38
+Turnover foul,12.0,4,4,3,ITA,2.0,FRASSINETTI T,3 - 4,189,ITA,3:09
+Steal,2.0,4,4,3,ITA,2.0,TSOUKALA C,3 - 4,189,GRE,3:09
+Action shot - Goal,2.0,5,4,3,ITA,2.0,TSOUKALA C,3 - 5,173,GRE,2:53
+Turnover foul,9.0,5,4,3,ITA,2.0,EMMOLO G,3 - 5,148,ITA,2:28
+20 sec. exclusion in centre,9.0,5,4,3,ITA,2.0,EMMOLO G,3 - 5,130,ITA,2:10
+Extra player shot - Post,10.0,5,4,3,ITA,2.0,MANOLIOUDAKI T,3 - 5,112,GRE,1:52
+Action shot - Blocked,3.0,5,4,3,ITA,2.0,GARIBOTTI A,3 - 5,85,ITA,1:25
+Turnover foul,7.0,5,4,3,ITA,2.0,ASIMAKI A,3 - 5,69,GRE,1:09
+Action shot - Goal,3.0,5,4,4,ITA,2.0,GARIBOTTI A,4 - 5,47,ITA,0:47
+Action shot - Saved,6.0,5,4,4,ITA,2.0,AVRAMIDOU A,4 - 5,22,GRE,0:22
+Turnover foul,4.0,5,4,4,ITA,2.0,RADICCHI F,4 - 5,10,ITA,0:10
+Steal,10.0,5,4,4,ITA,2.0,MANOLIOUDAKI T,4 - 5,10,GRE,0:10
+20 sec. exclusion in field,4.0,5,4,4,ITA,2.0,RADICCHI F,4 - 5,8,ITA,0:08
+Starting goalkeeper,1.0,5,4,4,ITA,3.0,GIGLI E,4 - 5,480,ITA,8:00
+Turnover foul,8.0,5,4,4,ITA,4,BIANCONI R,4 - 5,4,ITA,0:04
+Steal,8.0,5,4,4,ITA,4,ROUMPESI A,4 - 5,4,GRE,0:04
+Time-Out,,5,4,4,ITA,4,,4 - 5,4,GRE,0:04
+5m shot - Saved,8.0,5,4,4,ITA,4,ROUMPESI A,4 - 5,1,GRE,0:01
+Starting goalkeeper,1.0,5,4,4,ITA,ET1,GIGLI E,4 - 5,180,ITA,3:00
+Starting goalkeeper,1.0,5,4,4,ITA,ET1,KOUVDOU E,4 - 5,180,GRE,3:00
+Sprint won possession,7.0,5,4,4,ITA,ET1,di MARIO T,4 - 5,180,ITA,3:00
+Turnover foul,6.0,5,4,4,ITA,ET1,AIELLO R,4 - 5,160,ITA,2:40
+Turnover foul,7.0,5,4,4,ITA,ET1,ASIMAKI A,4 - 5,140,GRE,2:20
+Steal,1.0,5,4,4,ITA,ET1,GIGLI E,4 - 5,140,ITA,2:20
+Turnover foul,12.0,5,4,4,ITA,ET1,FRASSINETTI T,4 - 5,112,ITA,1:52
+Steal,8.0,5,4,4,ITA,ET1,ROUMPESI A,4 - 5,112,GRE,1:52
+Action shot - Missed,10.0,5,4,4,ITA,ET1,MANOLIOUDAKI T,4 - 5,88,GRE,1:28
+20 sec. exclusion in centre,7.0,5,4,4,ITA,ET1,ASIMAKI A,4 - 5,64,GRE,1:04
+Extra player shot - Goal,9.0,9,4,10,ITA,ET1,EMMOLO G,10 - 9,44,ITA,0:44
+20 sec. exclusion in centre,11.0,9,4,10,ITA,ET1,COTTI A,10 - 9,22,ITA,0:22
+Extra player shot - Goal,10.0,10,4,10,ITA,ET1,MANOLIOUDAKI T,10 - 10,10,GRE,0:10
+5m shot - Blocked,8.0,10,4,10,ITA,ET1,BIANCONI R,10 - 10,1,ITA,0:01
+Starting goalkeeper,1.0,10,4,10,ITA,ET2,GIGLI E,10 - 10,180,ITA,3:00
+Starting goalkeeper,1.0,10,4,10,ITA,ET2,KOUVDOU E,10 - 10,180,GRE,3:00
+Sprint won possession,7.0,10,4,10,ITA,ET2,di MARIO T,10 - 10,180,ITA,3:00
+5m shot - Blocked,9.0,10,4,10,ITA,ET2,EMMOLO G,10 - 10,150,ITA,2:30
+Centre shot - Saved,7.0,10,4,10,ITA,ET2,ASIMAKI A,10 - 10,120,GRE,2:00
+Starting goalkeeper,1.0,10,4,10,ITA,3.0,KOUVDOU E,10 - 10,480,GRE,8:00
+Sprint won possession,7.0,10,4,10,ITA,3.0,di MARIO T,10 - 10,480,ITA,8:00
+5m shot - Missed,4.0,10,4,10,ITA,3.0,RADICCHI F,10 - 10,455,ITA,7:35
+Action shot - Goal,2.0,6,4,4,ITA,3.0,TSOUKALA C,4 - 6,433,GRE,7:13
+Turnover foul,4.0,6,4,4,ITA,3.0,RADICCHI F,4 - 6,405,ITA,6:45
+Steal,7.0,6,4,4,ITA,3.0,ASIMAKI A,4 - 6,405,GRE,6:45
+Action shot - Post,10.0,6,4,4,ITA,3.0,MANOLIOUDAKI T,4 - 6,376,GRE,6:16
+20 sec. exclusion in centre,10.0,6,4,4,ITA,3.0,MANOLIOUDAKI T,4 - 6,365,GRE,6:05
+Action shot - Missed,9.0,6,4,4,ITA,3.0,EMMOLO G,4 - 6,342,ITA,5:42
+Turnover foul,7.0,6,4,4,ITA,3.0,ASIMAKI A,4 - 6,321,GRE,5:21
+Steal,9.0,6,4,4,ITA,3.0,EMMOLO G,4 - 6,321,ITA,5:21
+Turnover foul,12.0,6,4,4,ITA,3.0,FRASSINETTI T,4 - 6,302,ITA,5:02
+5m shot - Saved,2.0,6,4,4,ITA,3.0,TSOUKALA C,4 - 6,274,GRE,4:34
+Action shot - Goal,7.0,6,4,5,ITA,3.0,di MARIO T,5 - 6,261,ITA,4:21
+Action shot - Blocked,11.0,6,4,5,ITA,3.0,PLEVRITOU E,5 - 6,239,GRE,3:59
+Turnover foul,10.0,6,4,5,ITA,3.0,PALMIERI V,5 - 6,228,ITA,3:48
+Turnover foul,7.0,6,4,5,ITA,3.0,ASIMAKI A,5 - 6,209,GRE,3:29
+Steal,4.0,6,4,5,ITA,3.0,RADICCHI F,5 - 6,209,ITA,3:29
+20 sec. exclusion in centre,2.0,6,4,5,ITA,3.0,TSOUKALA C,5 - 6,188,GRE,3:08
+Time-Out,,6,4,5,ITA,3.0,,5 - 6,188,ITA,3:08
+Turnover foul,7.0,6,4,5,ITA,3.0,di MARIO T,5 - 6,163,ITA,2:43
+20 sec. exclusion in centre,8.0,6,4,5,ITA,3.0,BIANCONI R,5 - 6,135,ITA,2:15
+Time-Out,,6,4,5,ITA,3.0,,5 - 6,133,GRE,2:13
+Centre shot - Saved,7.0,6,4,5,ITA,3.0,ASIMAKI A,5 - 6,109,GRE,1:49
+Centre shot - Goal,10.0,7,4,5,ITA,3.0,MANOLIOUDAKI T,5 - 7,107,GRE,1:47
+5m shot - Missed,5.0,7,4,5,ITA,3.0,QUEIROLO E,5 - 7,92,ITA,1:32
+Action shot - Missed,2.0,7,4,5,ITA,3.0,TSOUKALA C,5 - 7,73,GRE,1:13
+Turnover foul,5.0,7,4,5,ITA,3.0,QUEIROLO E,5 - 7,46,ITA,0:46
+Steal,10.0,7,4,5,ITA,3.0,MANOLIOUDAKI T,5 - 7,46,GRE,0:46
+Turnover foul,7.0,7,4,5,ITA,3.0,ASIMAKI A,5 - 7,18,GRE,0:18
+Steal,7.0,7,4,5,ITA,3.0,di MARIO T,5 - 7,18,ITA,0:18
+5m shot - Post,7.0,7,4,5,ITA,3.0,di MARIO T,5 - 7,3,ITA,0:03
+Action shot - Saved,11.0,7,4,5,ITA,3.0,COTTI A,5 - 7,1,ITA,0:01
+Starting goalkeeper,1.0,7,4,5,ITA,4.0,GIGLI E,5 - 7,480,ITA,8:00
+Starting goalkeeper,1.0,7,4,5,ITA,4.0,KOUVDOU E,5 - 7,480,GRE,8:00
+Sprint won possession,12.0,7,4,5,ITA,4.0,FRASSINETTI T,5 - 7,480,ITA,8:00
+5m shot - Goal,4.0,7,4,6,ITA,4.0,RADICCHI F,6 - 7,464,ITA,7:44
+Action shot - Goal,10.0,8,4,6,ITA,4.0,MANOLIOUDAKI T,6 - 8,440,GRE,7:20
+5m shot - Goal,4.0,8,4,7,ITA,4.0,RADICCHI F,7 - 8,419,ITA,6:59
+Action shot - Missed,4.0,8,4,7,ITA,4.0,PSOUNI I,7 - 8,399,GRE,6:39
+Penalty foul,4.0,8,4,7,ITA,4.0,PSOUNI I,7 - 8,374,GRE,6:14
+Penalty shot - Goal,8.0,8,4,8,ITA,4.0,BIANCONI R,8 - 8,374,ITA,6:14
+Centre shot - Blocked,7.0,8,4,8,ITA,4.0,ASIMAKI A,8 - 8,350,GRE,5:50
+5m shot - Saved,8.0,8,4,8,ITA,4.0,BIANCONI R,8 - 8,322,ITA,5:22
+5m shot - Blocked,9.0,8,4,8,ITA,4.0,EMMOLO G,8 - 8,303,ITA,5:03
+20 sec. exclusion in centre,4.0,8,4,8,ITA,4.0,RADICCHI F,8 - 8,285,ITA,4:45
+Exclusion with substitution,4.0,8,4,8,ITA,4.0,RADICCHI F,8 - 8,285,ITA,4:45
+Extra player shot - Saved,8.0,8,4,8,ITA,4.0,ROUMPESI A,8 - 8,277,GRE,4:37
+Action shot - Saved,11.0,8,4,8,ITA,4.0,COTTI A,8 - 8,251,ITA,4:11
+Turnover foul,11.0,8,4,8,ITA,4.0,COTTI A,8 - 8,225,ITA,3:45
+Steal,11.0,8,4,8,ITA,4.0,COTTI A,8 - 8,225,ITA,3:45
+Turnover foul,10.0,8,4,8,ITA,4.0,MANOLIOUDAKI T,8 - 8,220,GRE,3:40
+Steal,10.0,8,4,8,ITA,4.0,MANOLIOUDAKI T,8 - 8,220,GRE,3:40
+Action shot - Blocked,6.0,8,4,8,ITA,4.0,AVRAMIDOU A,8 - 8,194,GRE,3:14
+5m shot - Missed,7.0,8,4,8,ITA,4.0,di MARIO T,8 - 8,168,ITA,2:48
+Turnover foul,4.0,8,4,8,ITA,4.0,PSOUNI I,8 - 8,145,GRE,2:25
+Steal,8.0,8,4,8,ITA,4.0,BIANCONI R,8 - 8,145,ITA,2:25
+Counter attack - Goal,11.0,8,4,9,ITA,4.0,COTTI A,9 - 8,129,ITA,2:09
+Action shot - Saved,10.0,8,4,9,ITA,4.0,MANOLIOUDAKI T,9 - 8,102,GRE,1:42
+Turnover foul,10.0,8,4,9,ITA,4.0,MANOLIOUDAKI T,9 - 8,79,GRE,1:19
+Steal,9.0,8,4,9,ITA,4.0,EMMOLO G,9 - 8,79,ITA,1:19
+Turnover foul,12.0,8,4,9,ITA,4.0,FRASSINETTI T,9 - 8,56,ITA,0:56
+Action shot - Goal,10.0,9,4,9,ITA,4.0,MANOLIOUDAKI T,9 - 9,31,GRE,0:31
+Turnover foul,7.0,9,4,9,ITA,ET2,ASIMAKI A,9 - 9,99,GRE,1:39
+Steal,11.0,9,4,9,ITA,ET2,COTTI A,9 - 9,99,ITA,1:39
+Time-Out,,9,4,9,ITA,ET2,,9 - 9,94,ITA,1:34
+Turnover foul,12.0,9,4,9,ITA,ET2,FRASSINETTI T,9 - 9,71,ITA,1:11
+Steal,2.0,9,4,9,ITA,ET2,TSOUKALA C,9 - 9,71,GRE,1:11
+Turnover foul,7.0,9,4,9,ITA,ET2,ASIMAKI A,9 - 9,47,GRE,0:47
+Steal,8.0,9,4,9,ITA,ET2,BIANCONI R,9 - 9,47,ITA,0:47
+Action shot - Saved,3.0,9,4,9,ITA,ET2,GARIBOTTI A,9 - 9,18,ITA,0:18
+5m shot - Missed,3.0,9,4,9,ITA,ET2,GARIBOTTI A,9 - 9,2,ITA,0:02
+Time-Out,,9,4,9,ITA,ET2,,9 - 9,2,GRE,0:02
+5m shot - Saved,8.0,9,4,9,ITA,ET2,ROUMPESI A,9 - 9,1,GRE,0:01
+Starting goalkeeper,1.0,0,5,0,AUS,1.0,KOUVDOU E,0 - 0,480,GRE,8:00
+Starting goalkeeper,13.0,0,5,0,AUS,1.0,WAKEFIELD K,0 - 0,480,AUS,8:00
+Sprint won possession,12.0,0,5,0,AUS,1.0,ZAGAME N,0 - 0,480,AUS,8:00
+Turnover foul,4.0,0,5,0,AUS,1.0,LINCOLN-SMITH H,0 - 0,452,AUS,7:32
+Steal,2.0,0,5,0,AUS,1.0,TSOUKALA C,0 - 0,452,GRE,7:32
+Centre shot - Missed,7.0,0,5,0,AUS,1.0,ASIMAKI A,0 - 0,427,GRE,7:07
+Penalty foul,8.0,0,5,0,AUS,1.0,ROUMPESI A,0 - 0,407,GRE,6:47
+Penalty shot - Goal,10.0,0,5,1,AUS,1.0,SOUTHERN A,1 - 0,407,AUS,6:47
+20 sec. exclusion in centre,3.0,0,5,1,AUS,1.0,BUCKLING H,1 - 0,384,AUS,6:24
+Extra player shot - Goal,6.0,1,5,1,AUS,1.0,AVRAMIDOU A,1 - 1,368,GRE,6:08
+Turnover foul,4.0,1,5,1,AUS,1.0,LINCOLN-SMITH H,1 - 1,347,AUS,5:47
+Steal,4.0,1,5,1,AUS,1.0,PSOUNI I,1 - 1,347,GRE,5:47
+Turnover foul,7.0,1,5,1,AUS,1.0,ASIMAKI A,1 - 1,327,GRE,5:27
+5m shot - Goal,7.0,1,5,2,AUS,1.0,WEBSTER R,2 - 1,315,AUS,5:15
+Turnover foul,8.0,1,5,2,AUS,1.0,ROUMPESI A,2 - 1,304,GRE,5:04
+Counter attack - Goal,8.0,1,5,3,AUS,1.0,McGHIE G,3 - 1,291,AUS,4:51
+Turnover foul,10.0,1,5,3,AUS,1.0,MANOLIOUDAKI T,3 - 1,269,GRE,4:29
+Steal,2.0,1,5,3,AUS,1.0,APPEL J,3 - 1,269,AUS,4:29
+Turnover foul,3.0,1,5,3,AUS,1.0,BUCKLING H,3 - 1,264,AUS,4:24
+Action shot - Saved,10.0,1,5,3,AUS,1.0,MANOLIOUDAKI T,3 - 1,242,GRE,4:02
+Action shot - Blocked,2.0,1,5,3,AUS,1.0,TSOUKALA C,3 - 1,217,GRE,3:37
+Centre shot - Missed,12.0,1,5,3,AUS,1.0,ZAGAME N,3 - 1,206,AUS,3:26
+Turnover foul,7.0,1,5,3,AUS,1.0,ASIMAKI A,3 - 1,190,GRE,3:10
+Steal,8.0,1,5,3,AUS,1.0,McGHIE G,3 - 1,190,AUS,3:10
+Centre shot - Saved,2.0,1,5,3,AUS,1.0,APPEL J,3 - 1,162,AUS,2:42
+Turnover foul,6.0,1,5,3,AUS,1.0,KNOX B,3 - 1,140,AUS,2:20
+Steal,7.0,1,5,3,AUS,1.0,ASIMAKI A,3 - 1,140,GRE,2:20
+Turnover foul,2.0,1,5,3,AUS,1.0,APPEL J,3 - 1,90,AUS,1:30
+Turnover foul,8.0,1,5,3,AUS,1.0,ROUMPESI A,3 - 1,70,GRE,1:10
+Steal,12.0,1,5,3,AUS,1.0,ZAGAME N,3 - 1,70,AUS,1:10
+Action shot - Post,10.0,1,5,3,AUS,1.0,SOUTHERN A,3 - 1,53,AUS,0:53
+Turnover foul,10.0,1,5,3,AUS,1.0,MANOLIOUDAKI T,3 - 1,28,GRE,0:28
+Steal,3.0,1,5,3,AUS,1.0,BUCKLING H,3 - 1,28,AUS,0:28
+20 sec. exclusion in centre,4.0,1,5,3,AUS,1.0,PSOUNI I,3 - 1,4,GRE,0:04
+Extra player shot - Blocked,12.0,1,5,3,AUS,1.0,ZAGAME N,3 - 1,1,AUS,0:01
+Starting goalkeeper,1.0,1,5,3,AUS,2.0,KOUVDOU E,3 - 1,480,GRE,8:00
+Starting goalkeeper,13.0,1,5,3,AUS,2.0,WAKEFIELD K,3 - 1,480,AUS,8:00
+Sprint won possession,12.0,1,5,3,AUS,2.0,ZAGAME N,3 - 1,480,AUS,8:00
+5m shot - Missed,8.0,1,5,3,AUS,2.0,McGHIE G,3 - 1,450,AUS,7:30
+Turnover foul,7.0,1,5,3,AUS,2.0,ASIMAKI A,3 - 1,427,GRE,7:07
+Turnover foul,4.0,1,5,3,AUS,2.0,LINCOLN-SMITH H,3 - 1,400,AUS,6:40
+Steal,2.0,1,5,3,AUS,2.0,TSOUKALA C,3 - 1,400,GRE,6:40
+20 sec. exclusion in centre,6.0,1,5,3,AUS,2.0,KNOX B,3 - 1,378,AUS,6:18
+Extra player shot - Missed,8.0,1,5,3,AUS,2.0,ROUMPESI A,3 - 1,361,GRE,6:01
+Turnover foul,7.0,1,5,3,AUS,2.0,WEBSTER R,3 - 1,348,AUS,5:48
+Steal,2.0,1,5,3,AUS,2.0,TSOUKALA C,3 - 1,348,GRE,5:48
+Action shot - Saved,2.0,1,5,3,AUS,2.0,TSOUKALA C,3 - 1,327,GRE,5:27
+Turnover foul,8.0,1,5,3,AUS,2.0,McGHIE G,3 - 1,313,AUS,5:13
+Steal,2.0,1,5,3,AUS,2.0,TSOUKALA C,3 - 1,313,GRE,5:13
+Action shot - Saved,10.0,1,5,3,AUS,2.0,MANOLIOUDAKI T,3 - 1,290,GRE,4:50
+20 sec. exclusion in centre,7.0,1,5,3,AUS,2.0,ASIMAKI A,3 - 1,261,GRE,4:21
+Time-Out,,1,5,3,AUS,2.0,,3 - 1,261,AUS,4:21
+Action shot - Goal,8.0,1,5,4,AUS,2.0,McGHIE G,4 - 1,237,AUS,3:57
+20 sec. exclusion in field,10.0,1,5,4,AUS,2.0,SOUTHERN A,4 - 1,228,AUS,3:48
+Turnover foul,2.0,1,5,4,AUS,2.0,TSOUKALA C,4 - 1,210,GRE,3:30
+Steal,5.0,1,5,4,AUS,2.0,BISHOP I,4 - 1,210,AUS,3:30
+Turnover foul,4.0,1,5,4,AUS,2.0,LINCOLN-SMITH H,4 - 1,187,AUS,3:07
+Steal,11.0,1,5,4,AUS,2.0,PLEVRITOU E,4 - 1,187,GRE,3:07
+Action shot - Post,6.0,1,5,4,AUS,2.0,AVRAMIDOU A,4 - 1,163,GRE,2:43
+20 sec. exclusion in centre,7.0,1,5,4,AUS,2.0,WEBSTER R,4 - 1,118,AUS,1:58
+Extra player shot - Blocked,8.0,1,5,4,AUS,2.0,ROUMPESI A,4 - 1,99,GRE,1:39
+Action shot - Saved,5.0,1,5,4,AUS,2.0,BISHOP I,4 - 1,70,AUS,1:10
+20 sec. exclusion in centre,3.0,1,5,4,AUS,2.0,BUCKLING H,4 - 1,48,AUS,0:48
+Action shot - Goal,6.0,2,5,4,AUS,2.0,AVRAMIDOU A,4 - 2,25,GRE,0:25
+20 sec. exclusion in centre,3.0,2,5,4,AUS,2.0,DIAMANTOPOULOU V,4 - 2,8,GRE,0:08
+Starting goalkeeper,13.0,2,5,4,AUS,3.0,WAKEFIELD K,4 - 2,480,AUS,8:00
+Starting goalkeeper,1.0,2,5,4,AUS,3.0,KOUVDOU E,4 - 2,480,GRE,8:00
+Sprint won possession,12.0,2,5,4,AUS,3.0,ZAGAME N,4 - 2,480,AUS,8:00
+Action shot - Blocked,7.0,2,5,4,AUS,3.0,WEBSTER R,4 - 2,463,AUS,7:43
+Turnover foul,7.0,2,5,4,AUS,3.0,ASIMAKI A,4 - 2,441,GRE,7:21
+Steal,1.0,2,5,4,AUS,3.0,KOUVDOU E,4 - 2,441,GRE,7:21
+Turnover foul,12.0,2,5,4,AUS,3.0,ZAGAME N,4 - 2,420,AUS,7:00
+Action shot - Goal,8.0,3,5,4,AUS,3.0,ROUMPESI A,4 - 3,408,GRE,6:48
+Turnover foul,8.0,3,5,4,AUS,3.0,McGHIE G,4 - 3,379,AUS,6:19
+Steal,2.0,3,5,4,AUS,3.0,TSOUKALA C,4 - 3,379,GRE,6:19
+Turnover foul,7.0,3,5,4,AUS,3.0,ASIMAKI A,4 - 3,360,GRE,6:00
+20 sec. exclusion in centre,4.0,3,5,4,AUS,3.0,PSOUNI I,4 - 3,339,GRE,5:39
+Action shot - Goal,6.0,3,5,5,AUS,3.0,KNOX B,5 - 3,317,AUS,5:17
+Action shot - Saved,6.0,3,5,5,AUS,3.0,AVRAMIDOU A,5 - 3,292,GRE,4:52
+20 sec. exclusion in centre,7.0,3,5,5,AUS,3.0,ASIMAKI A,5 - 3,267,GRE,4:27
+Extra player shot - Goal,10.0,3,5,6,AUS,3.0,SOUTHERN A,6 - 3,253,AUS,4:13
+Centre shot - Goal,7.0,4,5,6,AUS,3.0,ASIMAKI A,6 - 4,234,GRE,3:54
+Turnover foul,12.0,4,5,6,AUS,3.0,ZAGAME N,6 - 4,208,AUS,3:28
+Steal,10.0,4,5,6,AUS,3.0,MANOLIOUDAKI T,6 - 4,208,GRE,3:28
+20 sec. exclusion in field,9.0,4,5,6,AUS,3.0,ARANCINI Z,6 - 4,207,AUS,3:27
+Time-Out,,4,5,6,AUS,3.0,,6 - 4,207,GRE,3:27
+Extra player shot - Saved,7.0,4,5,6,AUS,3.0,ASIMAKI A,6 - 4,192,GRE,3:12
+Turnover foul,4.0,4,5,6,AUS,3.0,LINCOLN-SMITH H,6 - 4,162,AUS,2:42
+Steal,10.0,4,5,6,AUS,3.0,MANOLIOUDAKI T,6 - 4,162,GRE,2:42
+Action shot - Post,10.0,4,5,6,AUS,3.0,MANOLIOUDAKI T,6 - 4,139,GRE,2:19
+Action shot - Saved,8.0,4,5,6,AUS,3.0,McGHIE G,6 - 4,114,AUS,1:54
+Action shot - Post,6.0,4,5,6,AUS,3.0,AVRAMIDOU A,6 - 4,92,GRE,1:32
+Action shot - Post,7.0,4,5,6,AUS,3.0,WEBSTER R,6 - 4,71,AUS,1:11
+Centre shot - Saved,12.0,4,5,6,AUS,3.0,ZAGAME N,6 - 4,49,AUS,0:49
+Turnover foul,7.0,4,5,6,AUS,3.0,ASIMAKI A,6 - 4,24,GRE,0:24
+Turnover foul,7.0,4,5,6,AUS,3.0,WEBSTER R,6 - 4,1,AUS,0:01
+Steal,11.0,4,5,6,AUS,3.0,PLEVRITOU E,6 - 4,1,GRE,0:01
+Starting goalkeeper,1.0,4,5,6,AUS,4.0,KOUVDOU E,6 - 4,480,GRE,8:00
+Starting goalkeeper,13.0,4,5,6,AUS,4.0,WAKEFIELD K,6 - 4,480,AUS,8:00
+Sprint won possession,12.0,4,5,6,AUS,4.0,ZAGAME N,6 - 4,480,AUS,8:00
+Action shot - Blocked,6.0,4,5,6,AUS,4.0,KNOX B,6 - 4,450,AUS,7:30
+Centre shot - Saved,4.0,4,5,6,AUS,4.0,LINCOLN-SMITH H,6 - 4,430,AUS,7:10
+Turnover foul,4.0,4,5,6,AUS,4.0,PSOUNI I,6 - 4,406,GRE,6:46
+Steal,7.0,4,5,6,AUS,4.0,WEBSTER R,6 - 4,406,AUS,6:46
+20 sec. exclusion in centre,6.0,4,5,6,AUS,4.0,KNOX B,6 - 4,357,AUS,5:57
+Turnover foul,6.0,4,5,6,AUS,4.0,AVRAMIDOU A,6 - 4,338,GRE,5:38
+Steal,8.0,4,5,6,AUS,4.0,McGHIE G,6 - 4,338,AUS,5:38
+Action shot - Goal,7.0,4,5,7,AUS,4.0,WEBSTER R,7 - 4,312,AUS,5:12
+Turnover foul,7.0,4,5,7,AUS,4.0,ASIMAKI A,7 - 4,283,GRE,4:43
+Centre shot - Goal,2.0,4,5,8,AUS,4.0,APPEL J,8 - 4,255,AUS,4:15
+Action shot - Post,11.0,4,5,8,AUS,4.0,PLEVRITOU E,8 - 4,237,GRE,3:57
+Counter attack - Goal,6.0,4,5,9,AUS,4.0,KNOX B,9 - 4,222,AUS,3:42
+5m shot - Saved,2.0,4,5,9,AUS,4.0,TSOUKALA C,9 - 4,140,GRE,2:20
+Counter attack - Saved,11.0,4,5,9,AUS,4.0,GOFERS K,9 - 4,124,AUS,2:04
+Action shot - Saved,7.0,4,5,9,AUS,4.0,WEBSTER R,9 - 4,104,AUS,1:44
+Turnover foul,4.0,4,5,9,AUS,4.0,LINCOLN-SMITH H,9 - 4,82,AUS,1:22
+Turnover foul,7.0,4,5,9,AUS,4.0,ASIMAKI A,9 - 4,72,GRE,1:12
+Steal,12.0,4,5,9,AUS,4.0,ZAGAME N,9 - 4,72,AUS,1:12
+20 sec. exclusion in centre,4.0,4,5,9,AUS,4.0,LINCOLN-SMITH H,9 - 4,26,AUS,0:26
+Extra player shot - Goal,8.0,5,5,9,AUS,4.0,ROUMPESI A,9 - 5,22,GRE,0:22
+20 sec. exclusion in field,10.0,5,5,9,AUS,4.0,MANOLIOUDAKI T,9 - 5,11,GRE,0:11
+Time-Out,,5,5,9,AUS,4.0,,9 - 5,11,AUS,0:11
+Extra player shot - Post,10.0,5,5,9,AUS,4.0,SOUTHERN A,9 - 5,5,AUS,0:05
+5m shot - Missed,1.0,5,5,9,AUS,4.0,KOUVDOU E,9 - 5,1,GRE,0:01
+Starting goalkeeper,1.0,0,6,0,CAN,1.0,KOUVDOU E,0 - 0,480,GRE,8:00
+Starting goalkeeper,1.0,0,6,0,CAN,1.0,RELTON M,0 - 0,480,CAN,8:00
+Sprint won possession,8.0,0,6,0,CAN,1.0,PERREAULT D,0 - 0,480,CAN,8:00
+20 sec. exclusion in centre,2.0,0,6,0,CAN,1.0,TSOUKALA C,0 - 0,469,GRE,7:49
+Extra player shot - Missed,8.0,0,6,0,CAN,1.0,PERREAULT D,0 - 0,453,CAN,7:33
+20 sec. exclusion in centre,5.0,0,6,0,CAN,1.0,EGGENS M,0 - 0,430,CAN,7:10
+Extra player shot - Goal,7.0,1,6,0,CAN,1.0,ASIMAKI A,0 - 1,415,GRE,6:55
+Centre shot - Missed,2.0,1,6,0,CAN,1.0,ALOGBO K,0 - 1,403,CAN,6:43
+Turnover foul,7.0,1,6,0,CAN,1.0,ASIMAKI A,0 - 1,390,GRE,6:30
+Action shot - Blocked,4.0,1,6,0,CAN,1.0,WRIGHT E,0 - 1,372,CAN,6:12
+Action shot - Missed,10.0,1,6,0,CAN,1.0,MANOLIOUDAKI T,0 - 1,348,GRE,5:48
+Action shot - Saved,8.0,1,6,0,CAN,1.0,PERREAULT D,0 - 1,322,CAN,5:22
+20 sec. exclusion in centre,9.0,1,6,0,CAN,1.0,EGGENS C,0 - 1,302,CAN,5:02
+Extra player shot - Goal,6.0,2,6,0,CAN,1.0,AVRAMIDOU A,0 - 2,301,GRE,5:01
+20 sec. exclusion in centre,3.0,2,6,0,CAN,1.0,DIAMANTOPOULOU V,0 - 2,279,GRE,4:39
+Extra player shot - Goal,12.0,2,6,1,CAN,1.0,RADU M,1 - 2,273,CAN,4:33
+Action shot - Goal,10.0,3,6,1,CAN,1.0,MANOLIOUDAKI T,1 - 3,245,GRE,4:05
+Action shot - Missed,4.0,3,6,1,CAN,1.0,WRIGHT E,1 - 3,228,CAN,3:48
+Action shot - Goal,2.0,4,6,1,CAN,1.0,TSOUKALA C,1 - 4,207,GRE,3:27
+Turnover foul,10.0,4,6,1,CAN,1.0,ROBINSON C,1 - 4,200,CAN,3:20
+Action shot - Goal,8.0,5,6,1,CAN,1.0,ROUMPESI A,1 - 5,190,GRE,3:10
+20 sec. exclusion in centre,4.0,5,6,1,CAN,1.0,PSOUNI I,1 - 5,172,GRE,2:52
+Turnover foul,9.0,5,6,1,CAN,1.0,EGGENS C,1 - 5,163,CAN,2:43
+Steal,10.0,5,6,1,CAN,1.0,MANOLIOUDAKI T,1 - 5,163,GRE,2:43
+5m shot - Saved,2.0,5,6,1,CAN,1.0,TSOUKALA C,1 - 5,135,GRE,2:15
+Turnover foul,2.0,5,6,1,CAN,1.0,ALOGBO K,1 - 5,109,CAN,1:49
+Steal,6.0,5,6,1,CAN,1.0,AVRAMIDOU A,1 - 5,109,GRE,1:49
+Turnover foul,12.0,5,6,1,CAN,1.0,BENEKOU A,1 - 5,84,GRE,1:24
+Action shot - Missed,8.0,5,6,1,CAN,1.0,PERREAULT D,1 - 5,68,CAN,1:08
+5m shot - Post,6.0,5,6,1,CAN,1.0,AVRAMIDOU A,1 - 5,41,GRE,0:41
+Turnover foul,2.0,5,6,1,CAN,1.0,ALOGBO K,1 - 5,19,CAN,0:19
+Steal,6.0,5,6,1,CAN,1.0,AVRAMIDOU A,1 - 5,19,GRE,0:19
+5m shot - Saved,8.0,5,6,1,CAN,1.0,ROUMPESI A,1 - 5,3,GRE,0:03
+Starting goalkeeper,1.0,5,6,1,CAN,2.0,KOUVDOU E,1 - 5,480,GRE,8:00
+Starting goalkeeper,1.0,5,6,1,CAN,2.0,RELTON M,1 - 5,480,CAN,8:00
+Sprint won possession,6.0,5,6,1,CAN,2.0,AVRAMIDOU A,1 - 5,480,GRE,8:00
+Turnover foul,7.0,5,6,1,CAN,2.0,ASIMAKI A,1 - 5,459,GRE,7:39
+Steal,4.0,5,6,1,CAN,2.0,WRIGHT E,1 - 5,459,CAN,7:39
+Action shot - Goal,10.0,5,6,2,CAN,2.0,ROBINSON C,2 - 5,445,CAN,7:25
+5m shot - Post,10.0,5,6,2,CAN,2.0,MANOLIOUDAKI T,2 - 5,421,GRE,7:01
+20 sec. exclusion in centre,10.0,5,6,2,CAN,2.0,ROBINSON C,2 - 5,396,CAN,6:36
+Turnover foul,10.0,5,6,2,CAN,2.0,MANOLIOUDAKI T,2 - 5,381,GRE,6:21
+Turnover foul,11.0,5,6,2,CAN,2.0,VALIN S,2 - 5,365,CAN,6:05
+Steal,10.0,5,6,2,CAN,2.0,MANOLIOUDAKI T,2 - 5,365,GRE,6:05
+Centre shot - Goal,7.0,6,6,2,CAN,2.0,ASIMAKI A,2 - 6,336,GRE,5:36
+Steal,3.0,6,6,2,CAN,2.0,DIAMANTOPOULOU V,2 - 6,308,GRE,5:08
+Turnover foul,5.0,6,6,2,CAN,2.0,EGGENS M,2 - 6,308,CAN,5:08
+20 sec. exclusion in centre,12.0,6,6,2,CAN,2.0,RADU M,2 - 6,288,CAN,4:48
+Turnover foul,8.0,6,6,2,CAN,2.0,ROUMPESI A,2 - 6,269,GRE,4:29
+Steal,7.0,6,6,2,CAN,2.0,BEKHAZI J,2 - 6,269,CAN,4:29
+20 sec. exclusion in field,3.0,6,6,2,CAN,2.0,DIAMANTOPOULOU V,2 - 6,253,GRE,4:13
+Extra player shot - Goal,5.0,6,6,3,CAN,2.0,EGGENS M,3 - 6,247,CAN,4:07
+20 sec. exclusion in field,6.0,6,6,3,CAN,2.0,BARON la SALLE S,3 - 6,236,CAN,3:56
+Extra player shot - Saved,2.0,6,6,3,CAN,2.0,TSOUKALA C,3 - 6,217,GRE,3:37
+Turnover foul,3.0,6,6,3,CAN,2.0,MONTON K,3 - 6,189,CAN,3:09
+Centre shot - Missed,7.0,6,6,3,CAN,2.0,ASIMAKI A,3 - 6,171,GRE,2:51
+Action shot - Saved,11.0,6,6,3,CAN,2.0,VALIN S,3 - 6,159,CAN,2:39
+5m shot - Saved,5.0,6,6,3,CAN,2.0,EGGENS M,3 - 6,140,CAN,2:20
+Action shot - Post,2.0,6,6,3,CAN,2.0,TSOUKALA C,3 - 6,112,GRE,1:52
+Action shot - Goal,5.0,6,6,4,CAN,2.0,EGGENS M,4 - 6,85,CAN,1:25
+20 sec. exclusion in centre,11.0,6,6,4,CAN,2.0,VALIN S,4 - 6,64,CAN,1:04
+Extra player shot - Saved,6.0,6,6,4,CAN,2.0,AVRAMIDOU A,4 - 6,45,GRE,0:45
+Turnover foul,2.0,6,6,4,CAN,2.0,ALOGBO K,4 - 6,26,CAN,0:26
+Extra player shot - Goal,8.0,12,6,7,CAN,4.0,ROUMPESI A,7 - 12,104,GRE,1:44
+Turnover foul,10.0,12,6,7,CAN,4.0,ROBINSON C,7 - 12,80,CAN,1:20
+Steal,6.0,12,6,7,CAN,4.0,AVRAMIDOU A,7 - 12,80,GRE,1:20
+20 sec. exclusion in centre,10.0,12,6,7,CAN,4.0,MANOLIOUDAKI T,7 - 12,25,GRE,0:25
+Extra player shot - Goal,4.0,12,6,8,CAN,4.0,WRIGHT E,8 - 12,22,CAN,0:22
+Turnover foul,11.0,12,6,8,CAN,4.0,PLEVRITOU E,8 - 12,12,GRE,0:12
+Centre shot - Missed,7.0,12,6,8,CAN,2.0,ASIMAKI A,8 - 12,2,GRE,0:02
+Starting goalkeeper,1.0,12,6,8,CAN,3.0,RELTON M,8 - 12,480,CAN,8:00
+Starting goalkeeper,1.0,12,6,8,CAN,3.0,KOUVDOU E,8 - 12,480,GRE,8:00
+Sprint won possession,5.0,12,6,8,CAN,3.0,EGGENS M,8 - 12,480,CAN,8:00
+20 sec. exclusion in field,4.0,12,6,8,CAN,3.0,PSOUNI I,8 - 12,462,GRE,7:42
+Extra player shot - Goal,4.0,6,6,5,CAN,3.0,WRIGHT E,5 - 6,443,CAN,7:23
+20 sec. exclusion in centre,9.0,6,6,5,CAN,3.0,EGGENS C,5 - 6,425,CAN,7:05
+Extra player shot - Saved,8.0,6,6,5,CAN,3.0,ROUMPESI A,5 - 6,407,GRE,6:47
+Action shot - Saved,2.0,6,6,5,CAN,3.0,TSOUKALA C,5 - 6,379,GRE,6:19
+Action shot - Goal,3.0,7,6,5,CAN,3.0,DIAMANTOPOULOU V,5 - 7,361,GRE,6:01
+20 sec. exclusion in centre,3.0,7,6,5,CAN,3.0,DIAMANTOPOULOU V,5 - 7,346,GRE,5:46
+Exclusion with substitution,3.0,7,6,5,CAN,3.0,DIAMANTOPOULOU V,5 - 7,346,GRE,5:46
+Extra player shot - Blocked,5.0,7,6,5,CAN,3.0,EGGENS M,5 - 7,342,CAN,5:42
+Action shot - Post,4.0,7,6,5,CAN,3.0,PSOUNI I,5 - 7,317,GRE,5:17
+Turnover foul,3.0,7,6,5,CAN,3.0,MONTON K,5 - 7,297,CAN,4:57
+Steal,10.0,7,6,5,CAN,3.0,MANOLIOUDAKI T,5 - 7,297,GRE,4:57
+Action shot - Missed,2.0,7,6,5,CAN,3.0,TSOUKALA C,5 - 7,274,GRE,4:34
+Turnover foul,3.0,7,6,5,CAN,3.0,MONTON K,5 - 7,250,CAN,4:10
+Penalty foul,7.0,7,6,5,CAN,3.0,BEKHAZI J,5 - 7,230,CAN,3:50
+Penalty shot - Goal,6.0,8,6,5,CAN,3.0,AVRAMIDOU A,5 - 8,230,GRE,3:50
+Action shot - Saved,10.0,8,6,5,CAN,3.0,ROBINSON C,5 - 8,206,CAN,3:26
+Action shot - Goal,2.0,9,6,5,CAN,3.0,TSOUKALA C,5 - 9,180,GRE,3:00
+Action shot - Saved,6.0,9,6,5,CAN,3.0,BARON la SALLE S,5 - 9,155,CAN,2:35
+Turnover foul,5.0,9,6,5,CAN,3.0,PLEVRITOU M,5 - 9,134,GRE,2:14
+Steal,10.0,9,6,5,CAN,3.0,ROBINSON C,5 - 9,134,CAN,2:14
+5m shot - Post,5.0,9,6,5,CAN,3.0,EGGENS M,5 - 9,105,CAN,1:45
+Action shot - Goal,2.0,10,6,5,CAN,3.0,TSOUKALA C,5 - 10,84,GRE,1:24
+Turnover foul,12.0,10,6,5,CAN,3.0,RADU M,5 - 10,65,CAN,1:05
+Action shot - Saved,8.0,10,6,5,CAN,3.0,ROUMPESI A,5 - 10,40,GRE,0:40
+20 sec. exclusion in field,8.0,10,6,5,CAN,3.0,PERREAULT D,5 - 10,25,CAN,0:25
+Extra player shot - Goal,2.0,11,6,5,CAN,3.0,TSOUKALA C,5 - 11,9,GRE,0:09
+Turnover foul,7.0,11,6,5,CAN,3.0,BEKHAZI J,5 - 11,1,CAN,0:01
+Starting goalkeeper,1.0,11,6,5,CAN,4.0,RELTON M,5 - 11,480,CAN,8:00
+Starting goalkeeper,1.0,11,6,5,CAN,4.0,KOUVDOU E,5 - 11,480,GRE,8:00
+Sprint won possession,8.0,11,6,5,CAN,4.0,PERREAULT D,5 - 11,480,CAN,8:00
+Action shot - Missed,7.0,11,6,5,CAN,4.0,BEKHAZI J,5 - 11,469,CAN,7:49
+20 sec. exclusion in centre,12.0,11,6,5,CAN,4.0,RADU M,5 - 11,448,CAN,7:28
+Extra player shot - Blocked,2.0,11,6,5,CAN,4.0,TSOUKALA C,5 - 11,432,GRE,7:12
+20 sec. exclusion in centre,9.0,11,6,5,CAN,4.0,KOTSIA C,5 - 11,422,GRE,7:02
+Time-Out,,11,6,5,CAN,4.0,,5 - 11,421,CAN,7:01
+Extra player shot - Post,7.0,11,6,5,CAN,4.0,BEKHAZI J,5 - 11,407,CAN,6:47
+Turnover foul,7.0,11,6,5,CAN,4.0,ASIMAKI A,5 - 11,378,GRE,6:18
+Steal,3.0,11,6,5,CAN,4.0,MONTON K,5 - 11,378,CAN,6:18
+Centre shot - Missed,10.0,11,6,5,CAN,4.0,ROBINSON C,5 - 11,352,CAN,5:52
+Turnover foul,10.0,11,6,5,CAN,4.0,MANOLIOUDAKI T,5 - 11,351,GRE,5:51
+20 sec. exclusion in centre,8.0,11,6,5,CAN,4.0,ROUMPESI A,5 - 11,341,GRE,5:41
+Extra player shot - Goal,7.0,11,6,6,CAN,4.0,BEKHAZI J,6 - 11,330,CAN,5:30
+20 sec. exclusion in field,11.0,11,6,6,CAN,4.0,VALIN S,6 - 11,318,CAN,5:18
+Time-Out,,11,6,6,CAN,4.0,,6 - 11,318,GRE,5:18
+Action shot - Post,6.0,11,6,6,CAN,4.0,AVRAMIDOU A,6 - 11,293,GRE,4:53
+Counter attack - Goal,11.0,11,6,7,CAN,4.0,VALIN S,7 - 11,276,CAN,4:36
+Action shot - Post,4.0,11,6,7,CAN,4.0,PSOUNI I,7 - 11,249,GRE,4:09
+Turnover foul,10.0,11,6,7,CAN,4.0,ROBINSON C,7 - 11,232,CAN,3:52
+Steal,8.0,11,6,7,CAN,4.0,ROUMPESI A,7 - 11,232,GRE,3:52
+Action shot - Post,2.0,11,6,7,CAN,4.0,TSOUKALA C,7 - 11,203,GRE,3:23
+Turnover foul,4.0,11,6,7,CAN,4.0,WRIGHT E,7 - 11,173,CAN,2:53
+Steal,11.0,11,6,7,CAN,4.0,PLEVRITOU E,7 - 11,173,GRE,2:53
+Turnover foul,7.0,11,6,7,CAN,4.0,ASIMAKI A,7 - 11,146,GRE,2:26
+Steal,7.0,11,6,7,CAN,4.0,BEKHAZI J,7 - 11,146,CAN,2:26
+Action shot - Post,11.0,11,6,7,CAN,4.0,VALIN S,7 - 11,125,CAN,2:05
+20 sec. exclusion in field,9.0,11,6,7,CAN,4.0,EGGENS C,7 - 11,121,CAN,2:01
+Exclusion with substitution,9.0,11,6,7,CAN,4.0,EGGENS C,7 - 11,121,CAN,2:01
+Time-Out,,11,6,7,CAN,4.0,,7 - 11,121,GRE,2:01
+20 sec. exclusion in field,10.0,11,6,7,CAN,4.0,MANOLIOUDAKI T,7 - 11,11,GRE,0:11
+Time-Out,,11,6,7,CAN,4.0,,7 - 11,11,CAN,0:11
+Extra player shot - Blocked,4.0,11,6,7,CAN,4.0,WRIGHT E,7 - 11,2,CAN,0:02
+20 sec. exclusion in centre,1.0,11,6,7,CAN,4.0,KOUVDOU E,7 - 11,0,GRE,0:00
+Exclusion with substitution,1.0,11,6,7,CAN,4.0,KOUVDOU E,7 - 11,0,GRE,0:00
+Starting goalkeeper,1.0,0,7,0,USA,1.0,ARMSTRONG E,0 - 0,480,USA,8:00
+Starting goalkeeper,1.0,0,7,0,USA,1.0,KOUVDOU E,0 - 0,480,GRE,8:00
+Sprint won possession,6.0,0,7,0,USA,1.0,AVRAMIDOU A,0 - 0,480,GRE,8:00
+Action shot - Saved,8.0,0,7,0,USA,1.0,ROUMPESI A,0 - 0,453,GRE,7:33
+Turnover foul,12.0,0,7,0,USA,1.0,CRAIG K,0 - 0,433,USA,7:13
+5m shot - Goal,10.0,1,7,0,USA,1.0,MANOLIOUDAKI T,1 - 0,411,GRE,6:51
+5m shot - Goal,6.0,1,7,1,USA,1.0,STEFFENS M,1 - 1,385,USA,6:25
+Action shot - Saved,10.0,1,7,1,USA,1.0,MANOLIOUDAKI T,1 - 1,357,GRE,5:57
+Action shot - Goal,6.0,2,7,1,USA,1.0,AVRAMIDOU A,2 - 1,301,GRE,5:01
+Action shot - Goal,5.0,2,7,2,USA,1.0,CLARK C,2 - 2,279,USA,4:39
+20 sec. exclusion in field,6.0,2,7,2,USA,1.0,STEFFENS M,2 - 2,271,USA,4:31
+Extra player shot - Goal,8.0,3,7,2,USA,1.0,ROUMPESI A,3 - 2,252,GRE,4:12
+Action shot - Goal,4.0,3,7,3,USA,1.0,FATTAL R,3 - 3,225,USA,3:45
+Turnover foul,7.0,3,7,3,USA,1.0,ASIMAKI A,3 - 3,205,GRE,3:25
+Turnover foul,11.0,3,7,3,USA,1.0,DRIES A,3 - 3,180,USA,3:00
+Turnover foul,7.0,3,7,3,USA,1.0,ASIMAKI A,3 - 3,162,GRE,2:42
+20 sec. exclusion in field,10.0,3,7,3,USA,1.0,MANOLIOUDAKI T,3 - 3,152,GRE,2:32
+Extra player shot - Saved,4.0,3,7,3,USA,1.0,FATTAL R,3 - 3,140,USA,2:20
+Turnover foul,7.0,3,7,3,USA,1.0,ASIMAKI A,3 - 3,118,GRE,1:58
+Steal,4.0,3,7,3,USA,1.0,FATTAL R,3 - 3,118,USA,1:58
+Centre shot - Goal,11.0,3,7,4,USA,1.0,DRIES A,3 - 4,102,USA,1:42
+Action shot - Saved,11.0,3,7,4,USA,1.0,PLEVRITOU E,3 - 4,78,GRE,1:18
+5m shot - Goal,4.0,4,7,4,USA,1.0,PSOUNI I,4 - 4,25,GRE,0:25
+Action shot - Saved,6.0,4,7,4,USA,1.0,STEFFENS M,4 - 4,1,USA,0:01
+Starting goalkeeper,1.0,4,7,4,USA,2.0,ARMSTRONG E,4 - 4,480,USA,8:00
+Starting goalkeeper,1.0,4,7,4,USA,2.0,KOUVDOU E,4 - 4,480,GRE,8:00
+Sprint won possession,10.0,4,7,4,USA,2.0,RULON K,4 - 4,480,USA,8:00
+20 sec. exclusion in centre,4.0,4,7,4,USA,2.0,PSOUNI I,4 - 4,453,GRE,7:33
+Action shot - Goal,10.0,4,7,5,USA,2.0,RULON K,4 - 5,427,USA,7:07
+Goalkeeper substitution,13.0,4,7,5,USA,2.0,DIAMANTOPOULOU C,4 - 5,427,GRE,7:07
+Turnover foul,7.0,4,7,5,USA,2.0,ASIMAKI A,4 - 5,415,GRE,6:55
+Steal,5.0,4,7,5,USA,2.0,CLARK C,4 - 5,415,USA,6:55
+Turnover foul,2.0,4,7,5,USA,2.0,SILVER L,4 - 5,390,USA,6:30
+Steal,2.0,4,7,5,USA,2.0,TSOUKALA C,4 - 5,390,GRE,6:30
+Action shot - Saved,8.0,4,7,5,USA,2.0,ROUMPESI A,4 - 5,364,GRE,6:04
+Action shot - Post,2.0,4,7,5,USA,2.0,SILVER L,4 - 5,350,USA,5:50
+20 sec. exclusion in centre,3.0,4,7,5,USA,2.0,DIAMANTOPOULOU V,4 - 5,338,GRE,5:38
+Extra player shot - Blocked,2.0,4,7,5,USA,2.0,SILVER L,4 - 5,318,USA,5:18
+Turnover foul,12.0,4,7,5,USA,2.0,CRAIG K,4 - 5,298,USA,4:58
+Action shot - Goal,9.0,5,7,5,USA,2.0,KOTSIA C,5 - 5,274,GRE,4:34
+Turnover foul,11.0,5,7,5,USA,2.0,DRIES A,5 - 5,252,USA,4:12
+Steal,6.0,5,7,5,USA,2.0,AVRAMIDOU A,5 - 5,252,GRE,4:12
+Turnover foul,7.0,5,7,5,USA,2.0,ASIMAKI A,5 - 5,233,GRE,3:53
+20 sec. exclusion in centre,9.0,5,7,5,USA,2.0,KOTSIA C,5 - 5,211,GRE,3:31
+Extra player shot - Blocked,11.0,5,7,5,USA,2.0,DRIES A,5 - 5,200,USA,3:20
+Turnover foul,6.0,5,7,5,USA,2.0,AVRAMIDOU A,5 - 5,186,GRE,3:06
+Action shot - Goal,3.0,5,7,6,USA,2.0,SEIDEMANN M,5 - 6,166,USA,2:46
+20 sec. exclusion in field,8.0,5,7,6,USA,2.0,NEUSHUL K,5 - 6,156,USA,2:36
+Action shot - Saved,8.0,5,7,6,USA,2.0,ROUMPESI A,5 - 6,130,GRE,2:10
+Turnover foul,8.0,5,7,6,USA,2.0,NEUSHUL K,5 - 6,114,USA,1:54
+20 sec. exclusion in centre,3.0,5,7,6,USA,2.0,SEIDEMANN M,5 - 6,100,USA,1:40
+Extra player shot - Saved,8.0,5,7,6,USA,2.0,ROUMPESI A,5 - 6,82,GRE,1:22
+5m shot - Saved,4.0,5,7,6,USA,2.0,FATTAL R,5 - 6,56,USA,0:56
+Action shot - Post,9.0,5,7,6,USA,2.0,KRAUS J,5 - 6,39,USA,0:39
+20 sec. exclusion in field,7.0,5,7,6,USA,2.0,MATHEWSON C,5 - 6,25,USA,0:25
+Extra player shot - Missed,2.0,5,7,6,USA,2.0,TSOUKALA C,5 - 6,6,GRE,0:06
+Starting goalkeeper,1.0,5,7,6,USA,3.0,ARMSTRONG E,5 - 6,480,USA,8:00
+Starting goalkeeper,13.0,5,7,6,USA,3.0,DIAMANTOPOULOU C,5 - 6,480,GRE,8:00
+Sprint won possession,4.0,5,7,6,USA,3.0,PSOUNI I,5 - 6,480,GRE,8:00
+Turnover foul,6.0,5,7,6,USA,3.0,AVRAMIDOU A,5 - 6,452,GRE,7:32
+Steal,6.0,5,7,6,USA,3.0,STEFFENS M,5 - 6,452,USA,7:32
+Action shot - Missed,10.0,5,7,6,USA,3.0,RULON K,5 - 6,429,USA,7:09
+Action shot - Post,2.0,5,7,6,USA,3.0,TSOUKALA C,5 - 6,399,GRE,6:39
+Turnover foul,12.0,5,7,6,USA,ET1,CRAIG K,5 - 6,59,USA,0:59
+Steal,3.0,5,7,6,USA,ET1,DIAMANTOPOULOU V,5 - 6,59,GRE,0:59
+20 sec. exclusion in centre,12.0,5,7,6,USA,ET1,CRAIG K,5 - 6,42,USA,0:42
+Action shot - Saved,2.0,5,7,6,USA,ET1,TSOUKALA C,5 - 6,18,GRE,0:18
+Starting goalkeeper,13.0,5,7,6,USA,ET2,DIAMANTOPOULOU C,5 - 6,180,GRE,3:00
+Starting goalkeeper,1.0,5,7,6,USA,ET2,ARMSTRONG E,5 - 6,180,USA,3:00
+Sprint won possession,6.0,5,7,6,USA,ET2,AVRAMIDOU A,5 - 6,180,GRE,3:00
+Action shot - Blocked,3.0,5,7,6,USA,ET2,DIAMANTOPOULOU V,5 - 6,152,GRE,2:32
+Action shot - Post,8.0,5,7,6,USA,ET2,NEUSHUL K,5 - 6,123,USA,2:03
+Turnover foul,12.0,5,7,6,USA,ET2,CRAIG K,5 - 6,105,USA,1:45
+Turnover foul,10.0,5,7,6,USA,ET2,MANOLIOUDAKI T,5 - 6,77,GRE,1:17
+Steal,10.0,5,7,6,USA,ET2,RULON K,5 - 6,77,USA,1:17
+Time-Out,,5,7,6,USA,ET2,,5 - 6,77,USA,1:17
+Action shot - Goal,7.0,11,7,11,USA,ET2,MATHEWSON C,11 - 11,54,USA,0:54
+Action shot - Goal,6.0,6,7,6,USA,3,AVRAMIDOU A,6 - 6,379,GRE,6:19
+Action shot - Saved,10.0,6,7,6,USA,3,RULON K,6 - 6,354,USA,5:54
+20 sec. exclusion in centre,10.0,6,7,6,USA,3,RULON K,6 - 6,332,USA,5:32
+Centre shot - Saved,10.0,6,7,6,USA,3,MANOLIOUDAKI T,6 - 6,310,GRE,5:10
+5m shot - Goal,7.0,6,7,7,USA,3,MATHEWSON C,6 - 7,285,USA,4:45
+Action shot - Missed,6.0,6,7,7,USA,3,AVRAMIDOU A,6 - 7,262,GRE,4:22
+Turnover foul,11.0,6,7,7,USA,3,DRIES A,6 - 7,245,USA,4:05
+Steal,8.0,6,7,7,USA,3,ROUMPESI A,6 - 7,245,GRE,4:05
+Penalty foul,5.0,6,7,7,USA,3,CLARK C,6 - 7,228,USA,3:48
+Penalty shot - Saved,6.0,6,7,7,USA,3,AVRAMIDOU A,6 - 7,228,GRE,3:48
+20 sec. exclusion in centre,4.0,6,7,7,USA,3,PSOUNI I,6 - 7,215,GRE,3:35
+Extra player shot - Goal,7.0,6,7,8,USA,3,MATHEWSON C,6 - 8,202,USA,3:22
+Action shot - Saved,3.0,6,7,8,USA,3,DIAMANTOPOULOU V,6 - 8,173,GRE,2:53
+Turnover foul,7.0,6,7,8,USA,3,ASIMAKI A,6 - 8,164,GRE,2:44
+Turnover foul,6.0,6,7,8,USA,3,STEFFENS M,6 - 8,148,USA,2:28
+Steal,8.0,6,7,8,USA,3,ROUMPESI A,6 - 8,148,GRE,2:28
+20 sec. exclusion in field,11.0,6,7,8,USA,3,DRIES A,6 - 8,131,USA,2:11
+Time-Out,,6,7,8,USA,3,,6 - 8,131,GRE,2:11
+Extra player shot - Post,8.0,6,7,8,USA,3,ROUMPESI A,6 - 8,113,GRE,1:53
+Centre shot - Goal,12.0,6,7,9,USA,3,CRAIG K,6 - 9,89,USA,1:29
+20 sec. exclusion in field,7.0,6,7,9,USA,3,MATHEWSON C,6 - 9,77,USA,1:17
+Action shot - Saved,6.0,6,7,9,USA,3,AVRAMIDOU A,6 - 9,49,GRE,0:49
+5m shot - Saved,9.0,6,7,9,USA,3,KRAUS J,6 - 9,19,USA,0:19
+5m shot - Saved,8.0,6,7,9,USA,3,ROUMPESI A,6 - 9,1,GRE,0:01
+Starting goalkeeper,1.0,6,7,9,USA,4,ARMSTRONG E,6 - 9,480,USA,8:00
+Starting goalkeeper,13.0,6,7,9,USA,4,DIAMANTOPOULOU C,6 - 9,480,GRE,8:00
+Sprint won possession,8.0,6,7,9,USA,4,NEUSHUL K,6 - 9,480,USA,8:00
+Turnover foul,6.0,6,7,9,USA,4,STEFFENS M,6 - 9,452,USA,7:32
+Turnover foul,4.0,6,7,9,USA,4,PSOUNI I,6 - 9,429,GRE,7:09
+Steal,8.0,6,7,9,USA,4,NEUSHUL K,6 - 9,429,USA,7:09
+5m shot - Post,9.0,6,7,9,USA,4,KRAUS J,6 - 9,399,USA,6:39
+20 sec. exclusion in centre,6.0,6,7,9,USA,4,STEFFENS M,6 - 9,377,USA,6:17
+Extra player shot - Goal,2.0,7,7,9,USA,4,TSOUKALA C,7 - 9,355,GRE,5:55
+Action shot - Goal,3.0,7,7,10,USA,4,SEIDEMANN M,7 - 10,338,USA,5:38
+Turnover foul,7.0,7,7,10,USA,4,ASIMAKI A,7 - 10,324,GRE,5:24
+Steal,12.0,7,7,10,USA,4,CRAIG K,7 - 10,324,USA,5:24
+Turnover foul,3.0,7,7,10,USA,4,SEIDEMANN M,7 - 10,297,USA,4:57
+Action shot - Goal,8.0,8,7,10,USA,4,ROUMPESI A,8 - 10,271,GRE,4:31
+Turnover foul,12.0,8,7,10,USA,4,CRAIG K,8 - 10,244,USA,4:04
+Steal,4.0,8,7,10,USA,4,PSOUNI I,8 - 10,244,GRE,4:04
+Centre shot - Post,7.0,8,7,10,USA,4,ASIMAKI A,8 - 10,223,GRE,3:43
+5m shot - Saved,3.0,8,7,10,USA,4,SEIDEMANN M,8 - 10,196,USA,3:16
+Turnover foul,7.0,8,7,10,USA,4,ASIMAKI A,8 - 10,171,GRE,2:51
+Action shot - Blocked,8.0,8,7,10,USA,4,NEUSHUL K,8 - 10,142,USA,2:22
+Time-Out,,8,7,10,USA,4,,8 - 10,141,GRE,2:21
+20 sec. exclusion in centre,3.0,8,7,10,USA,4,SEIDEMANN M,8 - 10,122,USA,2:02
+Extra player shot - Goal,6.0,9,7,10,USA,4,AVRAMIDOU A,9 - 10,120,GRE,2:00
+Action shot - Missed,8.0,9,7,10,USA,4,NEUSHUL K,9 - 10,93,USA,1:33
+Turnover foul,7.0,9,7,10,USA,4,ASIMAKI A,9 - 10,74,GRE,1:14
+20 sec. exclusion in centre,4.0,9,7,10,USA,4,PSOUNI I,9 - 10,53,GRE,0:53
+Exclusion with substitution,4.0,9,7,10,USA,4,PSOUNI I,9 - 10,53,GRE,0:53
+Time-Out,,9,7,10,USA,4,,9 - 10,53,USA,0:53
+Action shot - Missed,7.0,9,7,10,USA,4,MATHEWSON C,9 - 10,28,USA,0:28
+20 sec. exclusion in centre,8.0,9,7,10,USA,4,NEUSHUL K,9 - 10,3,USA,0:03
+Extra player shot - Goal,6.0,10,7,10,USA,4,AVRAMIDOU A,10 - 10,0,GRE,0:00
+Starting goalkeeper,13.0,10,7,10,USA,ET1,DIAMANTOPOULOU C,10 - 10,180,GRE,3:00
+Starting goalkeeper,1.0,10,7,10,USA,ET1,ARMSTRONG E,10 - 10,180,USA,3:00
+Sprint won possession,10.0,10,7,10,USA,ET1,RULON K,10 - 10,180,USA,3:00
+Turnover foul,12.0,10,7,10,USA,ET1,CRAIG K,10 - 10,161,USA,2:41
+Turnover foul,7.0,10,7,10,USA,ET1,ASIMAKI A,10 - 10,145,GRE,2:25
+20 sec. exclusion in centre,3.0,10,7,10,USA,ET1,DIAMANTOPOULOU V,10 - 10,130,GRE,2:10
+Extra player shot - Blocked,10.0,10,7,10,USA,ET1,RULON K,10 - 10,113,USA,1:53
+Centre shot - Goal,7.0,11,7,10,USA,ET1,ASIMAKI A,11 - 10,85,GRE,1:25
+Action shot - Blocked,7.0,11,7,10,USA,ET2,ASIMAKI A,11 - 10,28,GRE,0:28
+Time-Out,,11,7,10,USA,ET2,,11 - 10,28,USA,0:28
+Turnover foul,12.0,11,7,10,USA,ET2,CRAIG K,11 - 10,5,USA,0:05
+Time-Out,,11,7,10,USA,ET2,,11 - 10,5,GRE,0:05

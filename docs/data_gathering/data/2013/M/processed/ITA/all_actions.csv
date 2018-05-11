@@ -1,0 +1,905 @@
+Action,Cap,Game,ITA,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,1.0,1,0,0,ROU,1.0,STOENESCU D,0 - 0,480,ROU,8:00
+Starting goalkeeper,1.0,1,0,0,ROU,1.0,TEMPESTI S,0 - 0,480,ITA,8:00
+Sprint won possession,10.0,1,0,0,ROU,1.0,FIORENTINI D,0 - 0,480,ITA,8:00
+Centre shot - Goal,11.0,1,1,0,ROU,1.0,AICARDI M,1 - 0,462,ITA,7:42
+Turnover foul,8.0,1,1,0,ROU,1.0,CHIOVEANU M,1 - 0,433,ROU,7:13
+Steal,8.0,1,1,0,ROU,1.0,GALLO V,1 - 0,433,ITA,7:13
+20 sec. exclusion in field,11.0,1,1,0,ROU,1.0,GHIBAN A,1 - 0,418,ROU,6:58
+Extra player shot - Goal,11.0,1,2,0,ROU,1.0,AICARDI M,2 - 0,412,ITA,6:52
+Action shot - Missed,11.0,1,2,0,ROU,1.0,GHIBAN A,2 - 0,389,ROU,6:29
+Turnover foul,8.0,1,2,0,ROU,1.0,GALLO V,2 - 0,373,ITA,6:13
+Turnover foul,3.0,1,2,0,ROU,1.0,GITTO N,2 - 0,316,ITA,5:16
+20 sec. exclusion in field,5.0,1,2,0,ROU,1.0,GIORGETTI A,2 - 0,295,ITA,4:55
+Turnover foul,3.0,1,2,0,ROU,1.0,NEGREAN T,2 - 0,277,ROU,4:37
+20 sec. exclusion in centre,6.0,1,2,0,ROU,1.0,BUSILA A,2 - 0,255,ROU,4:15
+Extra player shot - Goal,6.0,1,3,0,ROU,1.0,FELUGO M,3 - 0,241,ITA,4:01
+Turnover foul,2.0,1,3,0,ROU,1.0,IANC P,3 - 0,224,ROU,3:44
+20 sec. exclusion in field,5.0,1,3,0,ROU,1.0,TEOHARI D,3 - 0,214,ROU,3:34
+Action shot - Saved,8.0,1,3,0,ROU,1.0,GALLO V,3 - 0,188,ITA,3:08
+Turnover foul,10.0,1,3,0,ROU,1.0,GEORGESCU R,3 - 0,171,ROU,2:51
+5m shot - Goal,9.0,1,4,0,ROU,1.0,PRESCIUTTI C,4 - 0,142,ITA,2:22
+Turnover foul,10.0,1,4,0,ROU,1.0,GEORGESCU R,4 - 0,114,ROU,1:54
+Steal,4.0,1,4,0,ROU,1.0,FIGLIOLI P,4 - 0,114,ITA,1:54
+5m shot - Blocked,9.0,1,4,0,ROU,1.0,PRESCIUTTI C,4 - 0,88,ITA,1:28
+5m shot - Goal,3.0,1,4,1,ROU,1.0,NEGREAN T,4 - 1,61,ROU,1:01
+Turnover foul,11.0,1,4,1,ROU,1.0,AICARDI M,4 - 1,43,ITA,0:43
+20 sec. exclusion in field,11.0,1,4,1,ROU,1.0,AICARDI M,4 - 1,42,ITA,0:42
+Action shot - Post,10.0,1,4,1,ROU,1.0,GEORGESCU R,4 - 1,18,ROU,0:18
+5m shot - Saved,7.0,1,4,1,ROU,1.0,FIGARI N,4 - 1,1,ITA,0:01
+Starting goalkeeper,1.0,1,4,1,ROU,2.0,STOENESCU D,4 - 1,480,ROU,8:00
+Starting goalkeeper,1.0,1,4,1,ROU,2.0,TEMPESTI S,4 - 1,480,ITA,8:00
+Sprint won possession,4.0,1,4,1,ROU,2.0,FIGLIOLI P,4 - 1,480,ITA,8:00
+Turnover foul,5.0,1,4,1,ROU,2.0,GIORGETTI A,4 - 1,456,ITA,7:36
+Steal,1.0,1,4,1,ROU,2.0,STOENESCU D,4 - 1,456,ROU,7:36
+5m shot - Saved,11.0,1,4,1,ROU,2.0,GHIBAN A,4 - 1,432,ROU,7:12
+Counter attack - Goal,8.0,1,5,1,ROU,2.0,GALLO V,5 - 1,421,ITA,7:01
+Turnover foul,11.0,1,5,1,ROU,2.0,GHIBAN A,5 - 1,395,ROU,6:35
+Steal,3.0,1,5,1,ROU,2.0,GITTO N,5 - 1,395,ITA,6:35
+5m shot - Blocked,4.0,1,5,1,ROU,2.0,FIGLIOLI P,5 - 1,368,ITA,6:08
+20 sec. exclusion in field,5.0,1,5,1,ROU,2.0,GIORGETTI A,5 - 1,352,ITA,5:52
+Action shot - Goal,8.0,1,5,2,ROU,2.0,CHIOVEANU M,5 - 2,328,ROU,5:28
+20 sec. exclusion in field,7.0,1,5,2,ROU,2.0,MATEI A,5 - 2,309,ROU,5:09
+Extra player shot - Blocked,4.0,1,5,2,ROU,2.0,FIGLIOLI P,5 - 2,307,ITA,5:07
+Action shot - Saved,10.0,1,5,2,ROU,2.0,GEORGESCU R,5 - 2,273,ROU,4:33
+Action shot - Saved,9.0,1,5,2,ROU,2.0,GOANTA D,5 - 2,251,ROU,4:11
+20 sec. exclusion in field,9.0,1,5,2,ROU,2.0,GOANTA D,5 - 2,250,ROU,4:10
+Action shot - Saved,4.0,1,5,2,ROU,2.0,FIGLIOLI P,5 - 2,226,ITA,3:46
+Turnover foul,5.0,1,5,2,ROU,2.0,TEOHARI D,5 - 2,205,ROU,3:25
+Steal,12.0,1,5,2,ROU,2.0,NAPOLITANO C,5 - 2,205,ITA,3:25
+5m shot - Missed,4.0,1,5,2,ROU,2.0,FIGLIOLI P,5 - 2,181,ITA,3:01
+Centre shot - Saved,12.0,1,5,2,ROU,2.0,NAPOLITANO C,5 - 2,138,ITA,2:18
+Turnover foul,3.0,1,5,2,ROU,2.0,NEGREAN T,5 - 2,119,ROU,1:59
+Steal,12.0,1,5,2,ROU,2.0,NAPOLITANO C,5 - 2,119,ITA,1:59
+20 sec. exclusion in field,10.0,1,5,2,ROU,2.0,GEORGESCU R,5 - 2,92,ROU,1:32
+Time-Out,,1,5,2,ROU,2.0,,5 - 2,92,ITA,1:32
+Extra player shot - Saved,11.0,1,5,2,ROU,2.0,AICARDI M,5 - 2,72,ITA,1:12
+20 sec. exclusion in field,9.0,1,5,2,ROU,2.0,PRESCIUTTI C,5 - 2,52,ITA,0:52
+Extra player shot - Saved,3.0,1,5,2,ROU,2.0,NEGREAN T,5 - 2,34,ROU,0:34
+Turnover foul,8.0,1,5,2,ROU,2.0,CHIOVEANU M,5 - 2,22,ROU,0:22
+Penalty foul,11.0,1,5,2,ROU,2.0,GHIBAN A,5 - 2,1,ROU,0:01
+Penalty shot - Post,5.0,1,5,2,ROU,2.0,GIORGETTI A,5 - 2,1,ITA,0:01
+Starting goalkeeper,1.0,1,5,2,ROU,3.0,STOENESCU D,5 - 2,480,ROU,8:00
+Starting goalkeeper,1.0,1,5,2,ROU,3.0,TEMPESTI S,5 - 2,480,ITA,8:00
+Sprint won possession,4.0,1,5,2,ROU,3.0,FIGLIOLI P,5 - 2,480,ITA,8:00
+5m shot - Blocked,4.0,1,5,2,ROU,3.0,FIGLIOLI P,5 - 2,450,ITA,7:30
+5m shot - Saved,9.0,1,5,2,ROU,3.0,PRESCIUTTI C,5 - 2,423,ITA,7:03
+Turnover foul,11.0,1,5,2,ROU,3.0,AICARDI M,5 - 2,417,ITA,6:57
+Action shot - Blocked,4.0,1,5,2,ROU,3.0,DIACONU N,5 - 2,394,ROU,6:34
+20 sec. exclusion in field,6.0,1,5,2,ROU,3.0,BUSILA A,5 - 2,377,ROU,6:17
+Extra player shot - Goal,2.0,1,6,2,ROU,3.0,PEREZ A,6 - 2,365,ITA,6:05
+5m shot - Saved,11.0,1,6,2,ROU,3.0,GHIBAN A,6 - 2,339,ROU,5:39
+20 sec. exclusion in field,5.0,1,6,2,ROU,3.0,GIORGETTI A,6 - 2,314,ITA,5:14
+Exclusion with substitution,5.0,1,6,2,ROU,3.0,GIORGETTI A,6 - 2,314,ITA,5:14
+Time-Out,,1,6,2,ROU,3.0,,6 - 2,314,ROU,5:14
+5m shot - Saved,6.0,1,6,2,ROU,3.0,BUSILA A,6 - 2,287,ROU,4:47
+Turnover foul,7.0,1,6,2,ROU,3.0,FIGARI N,6 - 2,280,ITA,4:40
+Turnover foul,8.0,1,6,2,ROU,3.0,CHIOVEANU M,6 - 2,279,ROU,4:39
+20 sec. exclusion in field,7.0,1,6,2,ROU,3.0,FIGARI N,6 - 2,264,ITA,4:24
+Turnover foul,3.0,1,6,2,ROU,3.0,NEGREAN T,6 - 2,249,ROU,4:09
+Action shot - Blocked,12.0,1,6,2,ROU,3.0,NAPOLITANO C,6 - 2,233,ITA,3:53
+5m shot - Goal,7.0,1,6,3,ROU,3.0,MATEI A,6 - 3,211,ROU,3:31
+5m shot - Saved,6.0,1,6,3,ROU,3.0,FELUGO M,6 - 3,179,ITA,2:59
+Action shot - Saved,2.0,1,6,3,ROU,3.0,PEREZ A,6 - 3,149,ITA,2:29
+20 sec. exclusion in field,4.0,1,6,3,ROU,3.0,DIACONU N,6 - 3,131,ROU,2:11
+Action shot - Goal,4.0,1,7,3,ROU,3.0,FIGLIOLI P,7 - 3,110,ITA,1:50
+5m shot - Goal,4.0,1,7,4,ROU,3.0,DIACONU N,7 - 4,85,ROU,1:25
+Turnover foul,11.0,1,7,4,ROU,3.0,AICARDI M,7 - 4,59,ITA,0:59
+Steal,1.0,1,7,4,ROU,3.0,STOENESCU D,7 - 4,59,ROU,0:59
+Turnover foul,10.0,1,7,4,ROU,3.0,GEORGESCU R,7 - 4,32,ROU,0:32
+Steal,1.0,1,7,4,ROU,3.0,TEMPESTI S,7 - 4,32,ITA,0:32
+5m shot - Saved,6.0,1,7,4,ROU,3.0,FELUGO M,7 - 4,8,ITA,0:08
+Starting goalkeeper,1.0,1,7,4,ROU,4.0,TEMPESTI S,7 - 4,480,ITA,8:00
+Starting goalkeeper,1.0,1,7,4,ROU,4.0,STOENESCU D,7 - 4,480,ROU,8:00
+Sprint won possession,4.0,1,7,4,ROU,4.0,FIGLIOLI P,7 - 4,480,ITA,8:00
+5m shot - Saved,8.0,1,7,4,ROU,4.0,GALLO V,7 - 4,452,ITA,7:32
+Turnover foul,12.0,1,7,4,ROU,4.0,NAPOLITANO C,7 - 4,447,ITA,7:27
+Turnover foul,8.0,1,7,4,ROU,4.0,CHIOVEANU M,7 - 4,435,ROU,7:15
+5m shot - Blocked,8.0,1,7,4,ROU,4.0,GALLO V,7 - 4,422,ITA,7:02
+5m shot - Missed,8.0,1,7,4,ROU,4.0,GALLO V,7 - 4,418,ITA,6:58
+5m shot - Saved,4.0,1,7,4,ROU,4.0,DIACONU N,7 - 4,397,ROU,6:37
+Centre shot - Missed,4.0,1,7,4,ROU,4.0,FIGLIOLI P,7 - 4,380,ITA,6:20
+5m shot - Missed,7.0,1,7,4,ROU,4.0,MATEI A,7 - 4,356,ROU,5:56
+5m shot - Missed,4.0,1,7,4,ROU,4.0,FIGLIOLI P,7 - 4,338,ITA,5:38
+20 sec. exclusion in field,12.0,1,7,4,ROU,4.0,NAPOLITANO C,7 - 4,336,ITA,5:36
+Time-Out,,1,7,4,ROU,4.0,,7 - 4,336,ROU,5:36
+5m shot - Missed,11.0,1,7,4,ROU,4.0,GHIBAN A,7 - 4,313,ROU,5:13
+Centre shot - Saved,9.0,1,7,4,ROU,4.0,PRESCIUTTI C,7 - 4,287,ITA,4:47
+20 sec. exclusion in field,10.0,1,7,4,ROU,4.0,FIORENTINI D,7 - 4,268,ITA,4:28
+Action shot - Missed,12.0,1,7,4,ROU,4.0,CRETU A,7 - 4,245,ROU,4:05
+Centre shot - Goal,11.0,1,8,4,ROU,4.0,AICARDI M,8 - 4,218,ITA,3:38
+Turnover foul,7.0,1,8,4,ROU,4.0,MATEI A,8 - 4,197,ROU,3:17
+Centre shot - Post,11.0,1,8,4,ROU,4.0,AICARDI M,8 - 4,179,ITA,2:59
+Action shot - Goal,2.0,1,9,4,ROU,4.0,PEREZ A,9 - 4,155,ITA,2:35
+5m shot - Blocked,7.0,1,9,4,ROU,4.0,MATEI A,9 - 4,123,ROU,2:03
+5m shot - Missed,8.0,1,9,4,ROU,4.0,GALLO V,9 - 4,99,ITA,1:39
+5m shot - Missed,8.0,1,9,4,ROU,4.0,CHIOVEANU M,9 - 4,71,ROU,1:11
+Action shot - Goal,4.0,1,10,4,ROU,4.0,FIGLIOLI P,10 - 4,52,ITA,0:52
+5m shot - Blocked,7.0,1,10,4,ROU,4.0,MATEI A,10 - 4,27,ROU,0:27
+5m shot - Missed,9.0,1,10,4,ROU,4.0,PRESCIUTTI C,10 - 4,2,ITA,0:02
+5m shot - Saved,4.0,1,10,4,ROU,4.0,DIACONU N,10 - 4,1,ROU,0:01
+Starting goalkeeper,1.0,2,0,0,GER,1.0,KONG R,0 - 0,480,GER,8:00
+Starting goalkeeper,1.0,2,0,0,GER,1.0,TEMPESTI S,0 - 0,480,ITA,8:00
+Sprint won possession,10.0,2,0,0,GER,1.0,FIORENTINI D,0 - 0,480,ITA,8:00
+Turnover foul,10.0,2,0,0,GER,1.0,FIORENTINI D,0 - 0,460,ITA,7:40
+Steal,9.0,2,0,0,GER,1.0,STAMM M,0 - 0,460,GER,7:40
+Turnover foul,2.0,2,0,0,GER,1.0,BUKOWSKI E,0 - 0,439,GER,7:19
+Steal,5.0,2,0,0,GER,1.0,GIORGETTI A,0 - 0,439,ITA,7:19
+Centre shot - Saved,3.0,2,0,0,GER,1.0,GITTO N,0 - 0,418,ITA,6:58
+5m shot - Missed,6.0,2,0,0,GER,1.0,FELUGO M,0 - 0,393,ITA,6:33
+5m shot - Saved,4.0,2,0,0,GER,1.0,REAL J,0 - 0,367,GER,6:07
+Turnover foul,7.0,2,0,0,GER,1.0,NOSSEK H,0 - 0,339,GER,5:39
+Steal,1.0,2,0,0,GER,1.0,TEMPESTI S,0 - 0,339,ITA,5:39
+Turnover foul,8.0,2,0,0,GER,1.0,GALLO V,0 - 0,324,ITA,5:24
+20 sec. exclusion in field,10.0,2,0,0,GER,1.0,FIORENTINI D,0 - 0,321,ITA,5:21
+Centre shot - Goal,4.0,2,0,1,GER,1.0,REAL J,0 - 1,297,GER,4:57
+Turnover foul,12.0,2,0,1,GER,1.0,NAPOLITANO C,0 - 1,272,ITA,4:32
+Steal,4.0,2,0,1,GER,1.0,REAL J,0 - 1,272,GER,4:32
+5m shot - Saved,4.0,2,0,1,GER,1.0,REAL J,0 - 1,250,GER,4:10
+Turnover foul,12.0,2,0,1,GER,1.0,NAPOLITANO C,0 - 1,230,ITA,3:50
+Steal,1.0,2,0,1,GER,1.0,KONG R,0 - 1,230,GER,3:50
+5m shot - Saved,9.0,2,0,1,GER,1.0,STAMM M,0 - 1,201,GER,3:21
+5m shot - Goal,4.0,2,1,1,GER,1.0,FIGLIOLI P,1 - 1,177,ITA,2:57
+5m shot - Saved,6.0,2,1,1,GER,1.0,JUENGLING M,1 - 1,147,GER,2:27
+Action shot - Saved,12.0,2,1,1,GER,1.0,EIDNER D,1 - 1,132,GER,2:12
+20 sec. exclusion in field,9.0,2,1,1,GER,1.0,STAMM M,1 - 1,117,GER,1:57
+Extra player shot - Goal,5.0,2,2,1,GER,1.0,GIORGETTI A,2 - 1,104,ITA,1:44
+5m shot - Saved,4.0,2,2,1,GER,1.0,REAL J,2 - 1,76,GER,1:16
+Centre shot - Goal,11.0,2,3,1,GER,1.0,AICARDI M,3 - 1,56,ITA,0:56
+20 sec. exclusion in centre,4.0,2,3,1,GER,1.0,FIGLIOLI P,3 - 1,41,ITA,0:41
+Centre shot - Post,2.0,2,3,1,GER,1.0,BUKOWSKI E,3 - 1,17,GER,0:17
+Starting goalkeeper,1.0,2,3,1,GER,2.0,KONG R,3 - 1,480,GER,8:00
+Starting goalkeeper,1.0,2,3,1,GER,2.0,TEMPESTI S,3 - 1,480,ITA,8:00
+Sprint won possession,10.0,2,3,1,GER,2.0,FIORENTINI D,3 - 1,480,ITA,8:00
+20 sec. exclusion in field,4.0,2,3,1,GER,2.0,REAL J,3 - 1,453,GER,7:33
+20 sec. exclusion in centre,11.0,2,3,1,GER,2.0,SCHLOTTERBECK A,3 - 1,446,GER,7:26
+Extra player shot - Missed,10.0,2,3,1,GER,2.0,FIORENTINI D,3 - 1,433,ITA,7:13
+Turnover foul,9.0,2,3,1,GER,2.0,STAMM M,3 - 1,411,GER,6:51
+Steal,6.0,2,3,1,GER,2.0,FELUGO M,3 - 1,411,ITA,6:51
+5m shot - Saved,6.0,2,3,1,GER,2.0,FELUGO M,3 - 1,385,ITA,6:25
+Turnover foul,12.0,2,3,1,GER,2.0,NAPOLITANO C,3 - 1,381,ITA,6:21
+20 sec. exclusion in field,8.0,2,3,1,GER,2.0,GALLO V,3 - 1,367,ITA,6:07
+Turnover foul,7.0,2,3,1,GER,2.0,NOSSEK H,3 - 1,352,GER,5:52
+Action shot - Goal,6.0,2,4,1,GER,2.0,FELUGO M,4 - 1,331,ITA,5:31
+Turnover foul,2.0,2,4,1,GER,2.0,BUKOWSKI E,4 - 1,303,GER,5:03
+Steal,7.0,2,4,1,GER,2.0,FIGARI N,4 - 1,303,ITA,5:03
+Centre shot - Goal,11.0,2,5,1,GER,2.0,AICARDI M,5 - 1,279,ITA,4:39
+Time-Out,,2,5,1,GER,2.0,,5 - 1,279,GER,4:39
+Turnover foul,9.0,2,5,1,GER,2.0,STAMM M,5 - 1,251,GER,4:11
+Steal,9.0,2,5,1,GER,2.0,PRESCIUTTI C,5 - 1,251,ITA,4:11
+Action shot - Saved,7.0,2,5,1,GER,2.0,FIGARI N,5 - 1,223,ITA,3:43
+20 sec. exclusion in centre,2.0,2,5,1,GER,2.0,PEREZ A,5 - 1,207,ITA,3:27
+Extra player shot - Goal,8.0,2,5,2,GER,2.0,SCHUELER P,5 - 2,189,GER,3:09
+Turnover foul,4.0,2,5,2,GER,2.0,FIGLIOLI P,5 - 2,170,ITA,2:50
+Turnover foul,12.0,2,5,2,GER,2.0,EIDNER D,5 - 2,146,GER,2:26
+Turnover foul,5.0,2,5,2,GER,2.0,GIORGETTI A,5 - 2,135,ITA,2:15
+Steal,9.0,2,5,2,GER,2.0,STAMM M,5 - 2,135,GER,2:15
+5m shot - Saved,7.0,2,5,2,GER,2.0,NOSSEK H,5 - 2,117,GER,1:57
+20 sec. exclusion in centre,7.0,2,5,2,GER,2.0,FIGARI N,5 - 2,97,ITA,1:37
+Turnover foul,2.0,2,5,2,GER,2.0,BUKOWSKI E,5 - 2,75,GER,1:15
+Steal,5.0,2,5,2,GER,2.0,GIORGETTI A,5 - 2,75,ITA,1:15
+20 sec. exclusion in field,7.0,2,5,2,GER,2.0,NOSSEK H,5 - 2,48,GER,0:48
+Extra player shot - Goal,9.0,2,6,2,GER,2.0,PRESCIUTTI C,6 - 2,32,ITA,0:32
+20 sec. exclusion in field,6.0,2,6,2,GER,2.0,FELUGO M,6 - 2,11,ITA,0:11
+Extra player shot - Saved,10.0,2,6,2,GER,2.0,OELER M,6 - 2,5,GER,0:05
+Starting goalkeeper,1.0,2,6,2,GER,3.0,TEMPESTI S,6 - 2,480,ITA,8:00
+Starting goalkeeper,13.0,2,6,2,GER,3.0,SCHENKEL M,6 - 2,480,GER,8:00
+Sprint won possession,4.0,2,6,2,GER,3.0,FIGLIOLI P,6 - 2,480,ITA,8:00
+5m shot - Goal,5.0,2,7,2,GER,3.0,GIORGETTI A,7 - 2,451,ITA,7:31
+Turnover foul,11.0,2,7,2,GER,3.0,SCHLOTTERBECK A,7 - 2,431,GER,7:11
+Steal,11.0,2,7,2,GER,3.0,AICARDI M,7 - 2,431,ITA,7:11
+20 sec. exclusion in field,11.0,2,7,2,GER,3.0,SCHLOTTERBECK A,7 - 2,410,GER,6:50
+Extra player shot - Saved,5.0,2,7,2,GER,3.0,GIORGETTI A,7 - 2,391,ITA,6:31
+20 sec. exclusion in field,12.0,2,7,2,GER,3.0,EIDNER D,7 - 2,368,GER,6:08
+Extra player shot - Goal,8.0,2,8,2,GER,3.0,GALLO V,8 - 2,360,ITA,6:00
+Turnover foul,4.0,2,8,2,GER,3.0,REAL J,8 - 2,332,GER,5:32
+Steal,9.0,2,8,2,GER,3.0,PRESCIUTTI C,8 - 2,332,ITA,5:32
+Penalty foul,4.0,2,8,2,GER,3.0,REAL J,8 - 2,305,GER,5:05
+Penalty shot - Saved,8.0,2,8,2,GER,3.0,GALLO V,8 - 2,305,ITA,5:05
+Turnover foul,9.0,2,8,2,GER,3.0,STAMM M,8 - 2,278,GER,4:38
+5m shot - Saved,7.0,2,8,2,GER,3.0,FIGARI N,8 - 2,258,ITA,4:18
+Turnover foul,2.0,2,8,2,GER,3.0,PEREZ A,8 - 2,244,ITA,4:04
+5m shot - Goal,7.0,2,8,3,GER,3.0,NOSSEK H,8 - 3,231,GER,3:51
+Action shot - Saved,4.0,2,8,3,GER,3.0,FIGLIOLI P,8 - 3,205,ITA,3:25
+20 sec. exclusion in centre,11.0,2,8,3,GER,3.0,AICARDI M,8 - 3,193,ITA,3:13
+Extra player shot - Blocked,6.0,2,8,3,GER,3.0,JUENGLING M,8 - 3,178,GER,2:58
+Action shot - Goal,3.0,2,8,4,GER,3.0,MIERS E,8 - 4,170,GER,2:50
+5m shot - Post,4.0,2,8,4,GER,3.0,FIGLIOLI P,8 - 4,140,ITA,2:20
+20 sec. exclusion in field,9.0,2,8,4,GER,3.0,STAMM M,8 - 4,107,GER,1:47
+Time-Out,,2,8,4,GER,3.0,,8 - 4,107,ITA,1:47
+Action shot - Blocked,5.0,2,8,4,GER,3.0,GIORGETTI A,8 - 4,84,ITA,1:24
+5m shot - Post,8.0,2,8,4,GER,3.0,GALLO V,8 - 4,55,ITA,0:55
+5m shot - Goal,4.0,2,8,5,GER,3.0,REAL J,8 - 5,26,GER,0:26
+5m shot - Goal,8.0,2,9,5,GER,3.0,GALLO V,9 - 5,5,ITA,0:05
+5m shot - Saved,12.0,2,9,5,GER,3.0,EIDNER D,9 - 5,1,GER,0:01
+Starting goalkeeper,13.0,2,9,5,GER,4.0,SCHENKEL M,9 - 5,480,GER,8:00
+Starting goalkeeper,1.0,2,9,5,GER,4.0,TEMPESTI S,9 - 5,480,ITA,8:00
+Sprint won possession,4.0,2,9,5,GER,4.0,FIGLIOLI P,9 - 5,480,ITA,8:00
+Turnover foul,6.0,2,9,5,GER,4.0,FELUGO M,9 - 5,459,ITA,7:39
+Steal,9.0,2,9,5,GER,4.0,STAMM M,9 - 5,459,GER,7:39
+Turnover foul,12.0,2,9,5,GER,4.0,EIDNER D,9 - 5,434,GER,7:14
+Counter attack - Post,9.0,2,9,5,GER,4.0,PRESCIUTTI C,9 - 5,420,ITA,7:00
+5m shot - Saved,4.0,2,9,5,GER,4.0,FIGLIOLI P,9 - 5,391,ITA,6:31
+5m shot - Missed,6.0,2,9,5,GER,4.0,FELUGO M,9 - 5,363,ITA,6:03
+Turnover foul,10.0,2,9,5,GER,4.0,OELER M,9 - 5,345,GER,5:45
+Steal,6.0,2,9,5,GER,4.0,FELUGO M,9 - 5,345,ITA,5:45
+Action shot - Post,6.0,2,9,5,GER,4.0,FELUGO M,9 - 5,322,ITA,5:22
+5m shot - Saved,4.0,2,9,5,GER,4.0,REAL J,9 - 5,300,GER,5:00
+Centre shot - Post,11.0,2,9,5,GER,4.0,AICARDI M,9 - 5,275,ITA,4:35
+Time-Out,,2,9,5,GER,4.0,,9 - 5,275,GER,4:35
+Turnover foul,8.0,2,9,5,GER,4.0,SCHUELER P,9 - 5,257,GER,4:17
+Steal,5.0,2,9,5,GER,4.0,GIORGETTI A,9 - 5,257,ITA,4:17
+Turnover foul,12.0,2,9,5,GER,4.0,NAPOLITANO C,9 - 5,240,ITA,4:00
+Counter attack - Goal,11.0,2,9,6,GER,4.0,SCHLOTTERBECK A,9 - 6,229,GER,3:49
+20 sec. exclusion in field,5.0,2,9,6,GER,4.0,ROHE T,9 - 6,212,GER,3:32
+Extra player shot - Goal,9.0,2,10,6,GER,4.0,PRESCIUTTI C,10 - 6,207,ITA,3:27
+Turnover foul,8.0,2,10,6,GER,4.0,SCHUELER P,10 - 6,182,GER,3:02
+Centre shot - Saved,11.0,2,10,6,GER,4.0,AICARDI M,10 - 6,165,ITA,2:45
+Centre shot - Goal,11.0,2,10,7,GER,4.0,SCHLOTTERBECK A,10 - 7,141,GER,2:21
+Turnover foul,11.0,2,10,7,GER,4.0,AICARDI M,10 - 7,120,ITA,2:00
+Steal,7.0,2,10,7,GER,4.0,NOSSEK H,10 - 7,120,GER,2:00
+Turnover foul,9.0,2,10,7,GER,4.0,STAMM M,10 - 7,98,GER,1:38
+Steal,11.0,2,10,7,GER,4.0,AICARDI M,10 - 7,98,ITA,1:38
+Action shot - Goal,10.0,2,10,8,GER,4.0,OELER M,10 - 8,52,GER,0:52
+Time-Out,,2,10,8,GER,4.0,,10 - 8,52,ITA,0:52
+Centre shot - Saved,11.0,2,10,8,GER,4.0,AICARDI M,10 - 8,30,ITA,0:30
+Turnover foul,11.0,2,10,8,GER,4.0,AICARDI M,10 - 8,7,ITA,0:07
+Starting goalkeeper,1.0,3,0,0,KAZ,1.0,MAXIMOV N,0 - 0,480,KAZ,8:00
+Starting goalkeeper,1.0,3,0,0,KAZ,1.0,TEMPESTI S,0 - 0,480,ITA,8:00
+Sprint won possession,10.0,3,0,0,KAZ,1.0,FIORENTINI D,0 - 0,480,ITA,8:00
+Centre shot - Saved,11.0,3,0,0,KAZ,1.0,AICARDI M,0 - 0,463,ITA,7:43
+5m shot - Post,6.0,3,0,0,KAZ,1.0,FELUGO M,0 - 0,435,ITA,7:15
+Turnover foul,2.0,3,0,0,KAZ,1.0,GUBAREV S,0 - 0,404,KAZ,6:44
+Steal,10.0,3,0,0,KAZ,1.0,FIORENTINI D,0 - 0,404,ITA,6:44
+Turnover foul,11.0,3,0,0,KAZ,1.0,AICARDI M,0 - 0,382,ITA,6:22
+Steal,6.0,3,0,0,KAZ,1.0,SHMIDER A,0 - 0,382,KAZ,6:22
+Turnover foul,2.0,3,0,0,KAZ,1.0,GUBAREV S,0 - 0,359,KAZ,5:59
+Steal,8.0,3,0,0,KAZ,1.0,GALLO V,0 - 0,359,ITA,5:59
+20 sec. exclusion in centre,6.0,3,0,0,KAZ,1.0,SHMIDER A,0 - 0,338,KAZ,5:38
+Extra player shot - Goal,11.0,3,1,0,KAZ,1.0,AICARDI M,1 - 0,325,ITA,5:25
+Turnover foul,12.0,3,1,0,KAZ,1.0,PEKOVICH B,1 - 0,312,KAZ,5:12
+Action shot - Goal,4.0,3,2,0,KAZ,1.0,FIGLIOLI P,2 - 0,302,ITA,5:02
+20 sec. exclusion in centre,7.0,3,2,0,KAZ,1.0,FIGARI N,2 - 0,290,ITA,4:50
+Extra player shot - Saved,12.0,3,2,0,KAZ,1.0,PEKOVICH B,2 - 0,275,KAZ,4:35
+Turnover foul,12.0,3,2,0,KAZ,1.0,NAPOLITANO C,2 - 0,248,ITA,4:08
+Turnover foul,2.0,3,2,0,KAZ,1.0,GUBAREV S,2 - 0,227,KAZ,3:47
+20 sec. exclusion in centre,12.0,3,2,0,KAZ,1.0,PEKOVICH B,2 - 0,212,KAZ,3:32
+Extra player shot - Saved,12.0,3,2,0,KAZ,1.0,NAPOLITANO C,2 - 0,196,ITA,3:16
+Turnover foul,11.0,3,2,0,KAZ,1.0,MANAFOV R,2 - 0,170,KAZ,2:50
+Steal,9.0,3,2,0,KAZ,1.0,PRESCIUTTI C,2 - 0,170,ITA,2:50
+20 sec. exclusion in centre,7.0,3,2,0,KAZ,1.0,USHAKOV V,2 - 0,148,KAZ,2:28
+Extra player shot - Saved,12.0,3,2,0,KAZ,1.0,NAPOLITANO C,2 - 0,131,ITA,2:11
+Centre shot - Saved,2.0,3,2,0,KAZ,1.0,PEREZ A,2 - 0,126,ITA,2:06
+Turnover foul,11.0,3,2,0,KAZ,1.0,MANAFOV R,2 - 0,96,KAZ,1:36
+Steal,9.0,3,2,0,KAZ,1.0,PRESCIUTTI C,2 - 0,96,ITA,1:36
+Turnover foul,9.0,3,2,0,KAZ,1.0,PRESCIUTTI C,2 - 0,66,ITA,1:06
+Steal,6.0,3,2,0,KAZ,1.0,SHMIDER A,2 - 0,66,KAZ,1:06
+Action shot - Missed,4.0,3,2,0,KAZ,1.0,PILIPENKO R,2 - 0,40,KAZ,0:40
+5m shot - Saved,5.0,3,2,0,KAZ,1.0,GIORGETTI A,2 - 0,16,ITA,0:16
+Centre shot - Goal,11.0,3,3,0,KAZ,1.0,AICARDI M,3 - 0,5,ITA,0:05
+20 sec. exclusion in field,9.0,3,3,0,KAZ,1.0,PRESCIUTTI C,3 - 0,4,ITA,0:04
+Starting goalkeeper,1.0,3,3,0,KAZ,2.0,TEMPESTI S,3 - 0,480,ITA,8:00
+Starting goalkeeper,1.0,3,3,0,KAZ,2.0,MAXIMOV N,3 - 0,480,KAZ,8:00
+Sprint won possession,4.0,3,3,0,KAZ,2.0,FIGLIOLI P,3 - 0,480,ITA,8:00
+Turnover foul,11.0,3,3,0,KAZ,2.0,AICARDI M,3 - 0,456,ITA,7:36
+Steal,5.0,3,3,0,KAZ,2.0,SHAKENOV M,3 - 0,456,KAZ,7:36
+Turnover foul,12.0,3,3,0,KAZ,2.0,PEKOVICH B,3 - 0,435,KAZ,7:15
+5m shot - Goal,4.0,3,4,0,KAZ,2.0,FIGLIOLI P,4 - 0,418,ITA,6:58
+20 sec. exclusion in centre,3.0,3,4,0,KAZ,2.0,GITTO N,4 - 0,401,ITA,6:41
+Action shot - Goal,2.0,3,4,1,KAZ,2.0,GUBAREV S,4 - 1,378,KAZ,6:18
+20 sec. exclusion in centre,4.0,3,4,1,KAZ,2.0,PILIPENKO R,4 - 1,362,KAZ,6:02
+Extra player shot - Post,5.0,3,4,1,KAZ,2.0,GIORGETTI A,4 - 1,345,ITA,5:45
+Turnover foul,12.0,3,4,1,KAZ,2.0,PEKOVICH B,4 - 1,320,KAZ,5:20
+Steal,2.0,3,4,1,KAZ,2.0,PEREZ A,4 - 1,320,ITA,5:20
+Action shot - Goal,5.0,3,5,1,KAZ,2.0,GIORGETTI A,5 - 1,300,ITA,5:00
+5m shot - Goal,9.0,3,5,2,KAZ,2.0,UKUMANOV R,5 - 2,272,KAZ,4:32
+5m shot - Post,6.0,3,5,2,KAZ,2.0,FELUGO M,5 - 2,242,ITA,4:02
+Centre shot - Goal,9.0,3,6,2,KAZ,2.0,PRESCIUTTI C,6 - 2,203,ITA,3:23
+20 sec. exclusion in centre,7.0,3,6,2,KAZ,2.0,FIGARI N,6 - 2,180,ITA,3:00
+Extra player shot - Saved,4.0,3,6,2,KAZ,2.0,PILIPENKO R,6 - 2,164,KAZ,2:44
+Centre shot - Saved,11.0,3,6,2,KAZ,2.0,AICARDI M,6 - 2,134,ITA,2:14
+Turnover foul,5.0,3,6,2,KAZ,2.0,SHAKENOV M,6 - 2,112,KAZ,1:52
+Steal,8.0,3,6,2,KAZ,2.0,GALLO V,6 - 2,112,ITA,1:52
+Centre shot - Saved,11.0,3,6,2,KAZ,2.0,AICARDI M,6 - 2,92,ITA,1:32
+Turnover foul,4.0,3,6,2,KAZ,2.0,PILIPENKO R,6 - 2,71,KAZ,1:11
+Steal,1.0,3,6,2,KAZ,2.0,TEMPESTI S,6 - 2,71,ITA,1:11
+Action shot - Saved,8.0,3,6,2,KAZ,2.0,GALLO V,6 - 2,57,ITA,0:57
+Action shot - Saved,6.0,3,6,2,KAZ,2.0,FELUGO M,6 - 2,33,ITA,0:33
+Turnover foul,5.0,3,6,2,KAZ,2.0,SHAKENOV M,6 - 2,25,KAZ,0:25
+5m shot - Post,4.0,3,6,2,KAZ,2.0,FIGLIOLI P,6 - 2,13,ITA,0:13
+Extra player shot - Saved,8.0,3,6,2,KAZ,4.0,GALLO V,6 - 2,60,ITA,1:00
+Extra player shot - Goal,8.0,3,12,6,KAZ,4.0,GALLO V,12 - 6,54,ITA,0:54
+Turnover foul,7.0,3,12,6,KAZ,4.0,USHAKOV V,12 - 6,41,KAZ,0:41
+Steal,9.0,3,12,6,KAZ,4.0,PRESCIUTTI C,12 - 6,41,ITA,0:41
+Starting goalkeeper,1.0,3,12,6,KAZ,3.0,MAXIMOV N,12 - 6,480,KAZ,8:00
+Starting goalkeeper,1.0,3,12,6,KAZ,3.0,TEMPESTI S,12 - 6,480,ITA,8:00
+Sprint won possession,5.0,3,12,6,KAZ,3.0,GIORGETTI A,12 - 6,480,ITA,8:00
+Action shot - Missed,6.0,3,12,6,KAZ,3.0,FELUGO M,12 - 6,453,ITA,7:33
+Turnover foul,12.0,3,12,6,KAZ,3.0,PEKOVICH B,12 - 6,432,KAZ,7:12
+Steal,3.0,3,12,6,KAZ,3.0,GITTO N,12 - 6,432,ITA,7:12
+Turnover foul,12.0,3,12,6,KAZ,3.0,NAPOLITANO C,12 - 6,404,ITA,6:44
+Steal,1.0,3,12,6,KAZ,3.0,MAXIMOV N,12 - 6,404,KAZ,6:44
+Action shot - Blocked,9.0,3,12,6,KAZ,3.0,UKUMANOV R,12 - 6,379,KAZ,6:19
+20 sec. exclusion in centre,9.0,3,12,6,KAZ,3.0,UKUMANOV R,12 - 6,362,KAZ,6:02
+Turnover foul,8.0,3,12,6,KAZ,3.0,GALLO V,12 - 6,336,ITA,5:36
+Steal,2.0,3,12,6,KAZ,3.0,GUBAREV S,12 - 6,336,KAZ,5:36
+5m shot - Blocked,3.0,3,12,6,KAZ,3.0,MEDVEDEV Y,12 - 6,313,KAZ,5:13
+Turnover foul,5.0,3,12,6,KAZ,3.0,GIORGETTI A,12 - 6,289,ITA,4:49
+Action shot - Blocked,7.0,3,12,6,KAZ,3.0,USHAKOV V,12 - 6,268,KAZ,4:28
+20 sec. exclusion in field,9.0,3,12,6,KAZ,3.0,PRESCIUTTI C,12 - 6,262,ITA,4:22
+Time-Out,,3,12,6,KAZ,3.0,,12 - 6,262,KAZ,4:22
+Turnover foul,9.0,3,12,6,KAZ,3.0,UKUMANOV R,12 - 6,239,KAZ,3:59
+Steal,5.0,3,12,6,KAZ,3.0,GIORGETTI A,12 - 6,239,ITA,3:59
+20 sec. exclusion in centre,7.0,3,12,6,KAZ,3.0,USHAKOV V,12 - 6,218,KAZ,3:38
+Extra player shot - Goal,4.0,3,7,2,KAZ,3.0,FIGLIOLI P,7 - 2,206,ITA,3:26
+Action shot - Saved,5.0,3,7,2,KAZ,3.0,SHAKENOV M,7 - 2,187,KAZ,3:07
+5m shot - Post,2.0,3,7,2,KAZ,3.0,PEREZ A,7 - 2,165,ITA,2:45
+20 sec. exclusion in centre,5.0,3,7,2,KAZ,3.0,SHAKENOV M,7 - 2,146,KAZ,2:26
+Extra player shot - Saved,4.0,3,7,2,KAZ,3.0,FIGLIOLI P,7 - 2,142,ITA,2:22
+20 sec. exclusion in field,2.0,3,7,2,KAZ,3.0,PEREZ A,7 - 2,128,ITA,2:08
+Extra player shot - Goal,4.0,3,7,3,KAZ,3.0,PILIPENKO R,7 - 3,122,KAZ,2:02
+20 sec. exclusion in centre,4.0,3,7,3,KAZ,3.0,PILIPENKO R,7 - 3,102,KAZ,1:42
+Extra player shot - Saved,5.0,3,7,3,KAZ,3.0,GIORGETTI A,7 - 3,83,ITA,1:23
+Action shot - Goal,5.0,3,8,3,KAZ,3.0,GIORGETTI A,8 - 3,80,ITA,1:20
+20 sec. exclusion in centre,3.0,3,8,3,KAZ,3.0,GITTO N,8 - 3,54,ITA,0:54
+Turnover foul,7.0,3,8,3,KAZ,3.0,USHAKOV V,8 - 3,49,KAZ,0:49
+Steal,9.0,3,8,3,KAZ,3.0,PRESCIUTTI C,8 - 3,49,ITA,0:49
+5m shot - Saved,5.0,3,8,3,KAZ,3.0,GIORGETTI A,8 - 3,20,ITA,0:20
+5m shot - Missed,12.0,3,8,3,KAZ,3.0,PEKOVICH B,8 - 3,2,KAZ,0:02
+Starting goalkeeper,1.0,3,8,3,KAZ,4.0,TEMPESTI S,8 - 3,480,ITA,8:00
+Starting goalkeeper,1.0,3,8,3,KAZ,4.0,MAXIMOV N,8 - 3,480,KAZ,8:00
+Sprint won possession,10.0,3,8,3,KAZ,4.0,FIORENTINI D,8 - 3,480,ITA,8:00
+Turnover foul,5.0,3,8,3,KAZ,4.0,GIORGETTI A,8 - 3,453,ITA,7:33
+Steal,1.0,3,8,3,KAZ,4.0,MAXIMOV N,8 - 3,453,KAZ,7:33
+20 sec. exclusion in centre,2.0,3,8,3,KAZ,4.0,PEREZ A,8 - 3,427,ITA,7:07
+Extra player shot - Goal,12.0,3,8,4,KAZ,4.0,PEKOVICH B,8 - 4,409,KAZ,6:49
+20 sec. exclusion in centre,8.0,3,8,4,KAZ,4.0,KOLIADENKO A,8 - 4,381,KAZ,6:21
+Extra player shot - Goal,5.0,3,9,4,KAZ,4.0,GIORGETTI A,9 - 4,367,ITA,6:07
+Turnover foul,11.0,3,9,4,KAZ,4.0,MANAFOV R,9 - 4,353,KAZ,5:53
+Turnover foul,11.0,3,9,4,KAZ,4.0,AICARDI M,9 - 4,336,ITA,5:36
+Turnover foul,11.0,3,9,4,KAZ,4.0,MANAFOV R,9 - 4,320,KAZ,5:20
+5m shot - Goal,8.0,3,10,4,KAZ,4.0,GALLO V,10 - 4,299,ITA,4:59
+Turnover foul,5.0,3,10,4,KAZ,4.0,SHAKENOV M,10 - 4,280,KAZ,4:40
+Steal,11.0,3,10,4,KAZ,4.0,AICARDI M,10 - 4,280,ITA,4:40
+5m shot - Goal,4.0,3,11,4,KAZ,4.0,FIGLIOLI P,11 - 4,253,ITA,4:13
+20 sec. exclusion in field,7.0,3,11,4,KAZ,4.0,FIGARI N,11 - 4,243,ITA,4:03
+Exclusion with substitution,7.0,3,11,4,KAZ,4.0,FIGARI N,11 - 4,243,ITA,4:03
+Extra player shot - Goal,8.0,3,11,5,KAZ,4.0,KOLIADENKO A,11 - 5,227,KAZ,3:47
+Goalkeeper substitution,13.0,3,11,5,KAZ,4.0,DEL LUNGO M,11 - 5,227,ITA,3:47
+Turnover foul,12.0,3,11,5,KAZ,4.0,NAPOLITANO C,11 - 5,201,ITA,3:21
+5m shot - Saved,9.0,3,11,5,KAZ,4.0,UKUMANOV R,11 - 5,179,KAZ,2:59
+5m shot - Saved,8.0,3,11,5,KAZ,4.0,GALLO V,11 - 5,150,ITA,2:30
+5m shot - Saved,7.0,3,11,5,KAZ,4.0,USHAKOV V,11 - 5,124,KAZ,2:04
+20 sec. exclusion in centre,10.0,3,11,5,KAZ,4.0,FIORENTINI D,11 - 5,121,ITA,2:01
+Action shot - Goal,8.0,3,11,6,KAZ,4.0,KOLIADENKO A,11 - 6,98,KAZ,1:38
+20 sec. exclusion in centre,4.0,3,11,6,KAZ,4.0,PILIPENKO R,11 - 6,74,KAZ,1:14
+Exclusion with substitution,4.0,3,11,6,KAZ,4.0,PILIPENKO R,11 - 6,74,KAZ,1:14
+Turnover foul,12.0,3,11,6,KAZ,4.0,NAPOLITANO C,11 - 6,11,ITA,0:11
+Steal,9.0,3,11,6,KAZ,4.0,UKUMANOV R,11 - 6,11,KAZ,0:11
+5m shot - Saved,6.0,3,11,6,KAZ,4.0,SHMIDER A,11 - 6,1,KAZ,0:01
+Starting goalkeeper,1.0,4,0,0,CHN,1.0,GE W,0 - 0,480,CHN,8:00
+Starting goalkeeper,1.0,4,0,0,CHN,1.0,TEMPESTI S,0 - 0,480,ITA,8:00
+Sprint won possession,10.0,4,0,0,CHN,1.0,FIORENTINI D,0 - 0,480,ITA,8:00
+Turnover foul,11.0,4,0,0,CHN,1.0,AICARDI M,0 - 0,460,ITA,7:40
+Turnover foul,2.0,4,0,0,CHN,1.0,TAN F,0 - 0,437,CHN,7:17
+Steal,3.0,4,0,0,CHN,1.0,GITTO N,0 - 0,437,ITA,7:17
+Action shot - Goal,8.0,4,1,0,CHN,1.0,GALLO V,1 - 0,413,ITA,6:53
+Turnover foul,12.0,4,1,0,CHN,1.0,LIANG N,1 - 0,395,CHN,6:35
+Turnover foul,8.0,4,1,0,CHN,1.0,GALLO V,1 - 0,378,ITA,6:18
+Steal,3.0,4,1,0,CHN,1.0,LIANG Z,1 - 0,378,CHN,6:18
+Action shot - Blocked,2.0,4,1,0,CHN,1.0,TAN F,1 - 0,348,CHN,5:48
+Turnover foul,11.0,4,1,0,CHN,1.0,ZHANG C,1 - 0,319,CHN,5:19
+Action shot - Goal,5.0,4,2,0,CHN,1.0,GIORGETTI A,2 - 0,295,ITA,4:55
+Turnover foul,11.0,4,2,0,CHN,1.0,ZHANG C,2 - 0,278,CHN,4:38
+20 sec. exclusion in field,2.0,4,2,0,CHN,1.0,TAN F,2 - 0,273,CHN,4:33
+Centre shot - Post,12.0,4,2,0,CHN,1.0,NAPOLITANO C,2 - 0,244,ITA,4:04
+20 sec. exclusion in field,12.0,4,2,0,CHN,1.0,NAPOLITANO C,2 - 0,223,ITA,3:43
+20 sec. exclusion in field,4.0,4,2,0,CHN,1.0,FIGLIOLI P,2 - 0,196,ITA,3:16
+Extra player shot - Goal,11.0,4,2,1,CHN,1.0,ZHANG C,2 - 1,188,CHN,3:08
+Action shot - Missed,4.0,4,2,1,CHN,1.0,FIGLIOLI P,2 - 1,164,ITA,2:44
+Turnover foul,11.0,4,2,1,CHN,1.0,ZHANG C,2 - 1,144,CHN,2:24
+Steal,8.0,4,2,1,CHN,1.0,GALLO V,2 - 1,144,ITA,2:24
+Turnover foul,9.0,4,2,1,CHN,1.0,PRESCIUTTI C,2 - 1,123,ITA,2:03
+Turnover foul,2.0,4,2,1,CHN,1.0,TAN F,2 - 1,102,CHN,1:42
+Steal,4.0,4,2,1,CHN,1.0,FIGLIOLI P,2 - 1,102,ITA,1:42
+Centre shot - Goal,11.0,4,3,1,CHN,1.0,AICARDI M,3 - 1,80,ITA,1:20
+Turnover foul,11.0,4,3,1,CHN,1.0,ZHANG C,3 - 1,52,CHN,0:52
+Steal,4.0,4,3,1,CHN,1.0,FIGLIOLI P,3 - 1,52,ITA,0:52
+Turnover foul,12.0,4,3,1,CHN,1.0,NAPOLITANO C,3 - 1,24,ITA,0:24
+Steal,3.0,4,3,1,CHN,1.0,LIANG Z,3 - 1,24,CHN,0:24
+Turnover foul,2.0,4,3,1,CHN,1.0,TAN F,3 - 1,2,CHN,0:02
+Starting goalkeeper,1.0,4,3,1,CHN,2.0,TEMPESTI S,3 - 1,480,ITA,8:00
+Starting goalkeeper,1.0,4,3,1,CHN,2.0,GE W,3 - 1,480,CHN,8:00
+Sprint won possession,4.0,4,3,1,CHN,2.0,FIGLIOLI P,3 - 1,480,ITA,8:00
+Turnover foul,12.0,4,3,1,CHN,2.0,NAPOLITANO C,3 - 1,454,ITA,7:34
+Turnover foul,5.0,4,3,1,CHN,2.0,GUO J,3 - 1,436,CHN,7:16
+Steal,6.0,4,3,1,CHN,2.0,FELUGO M,3 - 1,436,ITA,7:16
+20 sec. exclusion in field,5.0,4,3,1,CHN,2.0,GUO J,3 - 1,435,CHN,7:15
+Extra player shot - Goal,6.0,4,4,1,CHN,2.0,FELUGO M,4 - 1,423,ITA,7:03
+Turnover foul,9.0,4,4,1,CHN,2.0,XIE J,4 - 1,397,CHN,6:37
+Steal,4.0,4,4,1,CHN,2.0,FIGLIOLI P,4 - 1,397,ITA,6:37
+Turnover foul,9.0,4,4,1,CHN,2.0,PRESCIUTTI C,4 - 1,378,ITA,6:18
+Turnover foul,3.0,4,4,1,CHN,2.0,LIANG Z,4 - 1,353,CHN,5:53
+20 sec. exclusion in field,7.0,4,4,1,CHN,2.0,LI B,4 - 1,342,CHN,5:42
+Extra player shot - Missed,7.0,4,4,1,CHN,2.0,FIGARI N,4 - 1,322,ITA,5:22
+Action shot - Post,3.0,4,4,1,CHN,2.0,LIANG Z,4 - 1,305,CHN,5:05
+Turnover foul,12.0,4,4,1,CHN,2.0,NAPOLITANO C,4 - 1,293,ITA,4:53
+Turnover foul,2.0,4,4,1,CHN,2.0,TAN F,4 - 1,267,CHN,4:27
+Turnover foul,12.0,4,4,1,CHN,2.0,NAPOLITANO C,4 - 1,245,ITA,4:05
+Steal,8.0,4,4,1,CHN,2.0,WANG Y,4 - 1,245,CHN,4:05
+Action shot - Saved,8.0,4,4,1,CHN,2.0,WANG Y,4 - 1,220,CHN,3:40
+Centre shot - Goal,2.0,4,4,2,CHN,2.0,TAN F,4 - 2,217,CHN,3:37
+20 sec. exclusion in centre,5.0,4,4,2,CHN,2.0,GUO J,4 - 2,191,CHN,3:11
+Turnover foul,10.0,4,4,2,CHN,2.0,FIORENTINI D,4 - 2,174,ITA,2:54
+Steal,10.0,4,4,2,CHN,2.0,ZHANG J,4 - 2,174,CHN,2:54
+Turnover foul,3.0,4,4,2,CHN,2.0,LIANG Z,4 - 2,153,CHN,2:33
+Steal,6.0,4,4,2,CHN,2.0,FELUGO M,4 - 2,153,ITA,2:33
+5m shot - Saved,3.0,4,4,2,CHN,2.0,LIANG Z,4 - 2,101,CHN,1:41
+5m shot - Goal,6.0,4,5,2,CHN,2.0,FELUGO M,5 - 2,79,ITA,1:19
+Turnover foul,12.0,4,5,2,CHN,2.0,LIANG N,5 - 2,59,CHN,0:59
+20 sec. exclusion in centre,12.0,4,5,2,CHN,2.0,LIANG N,5 - 2,40,CHN,0:40
+Extra player shot - Goal,5.0,4,6,2,CHN,2.0,GIORGETTI A,6 - 2,32,ITA,0:32
+5m shot - Blocked,11.0,4,6,2,CHN,2.0,ZHANG C,6 - 2,9,CHN,0:09
+Centre shot - Post,5.0,4,6,2,CHN,4.0,GUO J,6 - 2,10,CHN,0:10
+20 sec. exclusion in field,10.0,4,6,2,CHN,4.0,FIORENTINI D,6 - 2,3,ITA,0:03
+Counter attack - Saved,4.0,4,6,2,CHN,2.0,FIGLIOLI P,6 - 2,1,ITA,0:01
+Starting goalkeeper,1.0,4,6,2,CHN,3.0,TEMPESTI S,6 - 2,480,ITA,8:00
+Starting goalkeeper,13.0,4,6,2,CHN,3.0,WU H,6 - 2,480,CHN,8:00
+Sprint won possession,4.0,4,6,2,CHN,3.0,FIGLIOLI P,6 - 2,480,ITA,8:00
+20 sec. exclusion in centre,2.0,4,6,2,CHN,3.0,TAN F,6 - 2,455,CHN,7:35
+Extra player shot - Goal,5.0,4,7,2,CHN,3.0,GIORGETTI A,7 - 2,442,ITA,7:22
+Turnover foul,2.0,4,7,2,CHN,3.0,TAN F,7 - 2,416,CHN,6:56
+Steal,7.0,4,7,2,CHN,3.0,FIGARI N,7 - 2,416,ITA,6:56
+Turnover foul,11.0,4,7,2,CHN,3.0,AICARDI M,7 - 2,395,ITA,6:35
+Turnover foul,8.0,4,7,2,CHN,3.0,WANG Y,7 - 2,376,CHN,6:16
+Steal,4.0,4,7,2,CHN,3.0,FIGLIOLI P,7 - 2,376,ITA,6:16
+Counter attack - Goal,9.0,4,8,2,CHN,3.0,PRESCIUTTI C,8 - 2,362,ITA,6:02
+5m shot - Blocked,7.0,4,8,2,CHN,3.0,LI B,8 - 2,339,CHN,5:39
+Action shot - Goal,8.0,4,9,2,CHN,3.0,GALLO V,9 - 2,316,ITA,5:16
+Turnover foul,2.0,4,9,2,CHN,3.0,TAN F,9 - 2,293,CHN,4:53
+Steal,6.0,4,9,2,CHN,3.0,FELUGO M,9 - 2,293,ITA,4:53
+20 sec. exclusion in centre,6.0,4,9,2,CHN,3.0,PAN N,9 - 2,272,CHN,4:32
+Extra player shot - Missed,8.0,4,9,2,CHN,3.0,GALLO V,9 - 2,256,ITA,4:16
+5m shot - Missed,6.0,4,9,2,CHN,3.0,PAN N,9 - 2,235,CHN,3:55
+20 sec. exclusion in field,6.0,4,9,2,CHN,3.0,PAN N,9 - 2,233,CHN,3:53
+Time-Out,,4,9,2,CHN,3.0,,9 - 2,233,ITA,3:53
+Extra player shot - Saved,4.0,4,9,2,CHN,3.0,FIGLIOLI P,9 - 2,214,ITA,3:34
+Turnover foul,2.0,4,9,2,CHN,3.0,TAN F,9 - 2,190,CHN,3:10
+Steal,6.0,4,9,2,CHN,3.0,FELUGO M,9 - 2,190,ITA,3:10
+Turnover foul,5.0,4,9,2,CHN,3.0,GIORGETTI A,9 - 2,168,ITA,2:48
+Steal,3.0,4,9,2,CHN,3.0,LIANG Z,9 - 2,168,CHN,2:48
+Action shot - Saved,5.0,4,9,2,CHN,3.0,GUO J,9 - 2,137,CHN,2:17
+Turnover foul,5.0,4,9,2,CHN,3.0,GIORGETTI A,9 - 2,115,ITA,1:55
+Steal,10.0,4,9,2,CHN,3.0,ZHANG J,9 - 2,115,CHN,1:55
+5m shot - Saved,2.0,4,9,2,CHN,3.0,TAN F,9 - 2,88,CHN,1:28
+Action shot - Blocked,5.0,4,9,2,CHN,3.0,GIORGETTI A,9 - 2,63,ITA,1:03
+Turnover foul,12.0,4,9,2,CHN,3.0,NAPOLITANO C,9 - 2,41,ITA,0:41
+Steal,13.0,4,9,2,CHN,3.0,WU H,9 - 2,41,CHN,0:41
+Action shot - Saved,10.0,4,9,2,CHN,3.0,ZHANG J,9 - 2,17,CHN,0:17
+Action shot - Blocked,2.0,4,9,2,CHN,3.0,PEREZ A,9 - 2,1,ITA,0:01
+Starting goalkeeper,13.0,4,9,2,CHN,4.0,DEL LUNGO M,9 - 2,480,ITA,8:00
+Starting goalkeeper,13.0,4,9,2,CHN,4.0,WU H,9 - 2,480,CHN,8:00
+Sprint won possession,4.0,4,9,2,CHN,4.0,FIGLIOLI P,9 - 2,480,ITA,8:00
+Centre shot - Saved,11.0,4,9,2,CHN,4.0,AICARDI M,9 - 2,461,ITA,7:41
+20 sec. exclusion in centre,9.0,4,9,2,CHN,4.0,PRESCIUTTI C,9 - 2,442,ITA,7:22
+Time-Out,,4,9,2,CHN,4.0,,9 - 2,442,CHN,7:22
+Extra player shot - Blocked,3.0,4,9,2,CHN,4.0,LIANG Z,9 - 2,424,CHN,7:04
+Action shot - Post,4.0,4,9,2,CHN,4.0,FIGLIOLI P,9 - 2,409,ITA,6:49
+Centre shot - Goal,11.0,4,10,2,CHN,4.0,AICARDI M,10 - 2,389,ITA,6:29
+5m shot - Blocked,3.0,4,10,2,CHN,4.0,LIANG Z,10 - 2,362,CHN,6:02
+Penalty foul,3.0,4,10,2,CHN,4.0,LIANG Z,10 - 2,343,CHN,5:43
+Penalty shot - Saved,4.0,4,10,2,CHN,4.0,FIGLIOLI P,10 - 2,343,ITA,5:43
+Turnover foul,11.0,4,10,2,CHN,4.0,ZHANG C,10 - 2,320,CHN,5:20
+Steal,3.0,4,10,2,CHN,4.0,GITTO N,10 - 2,320,ITA,5:20
+Action shot - Missed,10.0,4,10,2,CHN,4.0,FIORENTINI D,10 - 2,304,ITA,5:04
+Centre shot - Saved,9.0,4,10,2,CHN,4.0,XIE J,10 - 2,276,CHN,4:36
+Action shot - Goal,5.0,4,11,2,CHN,4.0,GIORGETTI A,11 - 2,258,ITA,4:18
+Action shot - Blocked,3.0,4,11,2,CHN,4.0,LIANG Z,11 - 2,233,CHN,3:53
+Centre shot - Post,12.0,4,11,2,CHN,4.0,NAPOLITANO C,11 - 2,205,ITA,3:25
+Turnover foul,3.0,4,11,2,CHN,4.0,LIANG Z,11 - 2,178,CHN,2:58
+Steal,10.0,4,11,2,CHN,4.0,FIORENTINI D,11 - 2,178,ITA,2:58
+20 sec. exclusion in centre,7.0,4,11,2,CHN,4.0,LI B,11 - 2,168,CHN,2:48
+Extra player shot - Blocked,10.0,4,11,2,CHN,4.0,FIORENTINI D,11 - 2,157,ITA,2:37
+Turnover foul,9.0,4,11,2,CHN,4.0,XIE J,11 - 2,129,CHN,2:09
+Turnover foul,12.0,4,11,2,CHN,4.0,NAPOLITANO C,11 - 2,107,ITA,1:47
+Action shot - Saved,5.0,4,11,2,CHN,4.0,GUO J,11 - 2,83,CHN,1:23
+Turnover foul,2.0,4,11,2,CHN,4.0,PEREZ A,11 - 2,56,ITA,0:56
+20 sec. exclusion in centre,6.0,4,11,2,CHN,4.0,FELUGO M,11 - 2,37,ITA,0:37
+Penalty foul,10.0,4,11,2,CHN,4.0,FIORENTINI D,11 - 2,1,ITA,0:01
+Penalty shot - Goal,3.0,4,11,3,CHN,4.0,LIANG Z,11 - 3,1,CHN,0:01
+Starting goalkeeper,1.0,5,0,0,ESP,1.0,AGUILAR I,0 - 0,480,ESP,8:00
+Starting goalkeeper,1.0,5,0,0,ESP,1.0,TEMPESTI S,0 - 0,480,ITA,8:00
+Sprint won possession,10.0,5,0,0,ESP,1.0,FIORENTINI D,0 - 0,480,ITA,8:00
+Turnover foul,5.0,5,0,0,ESP,1.0,GIORGETTI A,0 - 0,455,ITA,7:35
+Steal,1.0,5,0,0,ESP,1.0,AGUILAR I,0 - 0,455,ESP,7:35
+Turnover foul,6.0,5,0,0,ESP,1.0,MINGUELL M,0 - 0,434,ESP,7:14
+Steal,3.0,5,0,0,ESP,1.0,GITTO N,0 - 0,434,ITA,7:14
+Action shot - Blocked,5.0,5,0,0,ESP,1.0,GIORGETTI A,0 - 0,405,ITA,6:45
+Action shot - Post,5.0,5,0,0,ESP,1.0,GIORGETTI A,0 - 0,378,ITA,6:18
+Action shot - Saved,6.0,5,0,0,ESP,1.0,FELUGO M,0 - 0,354,ITA,5:54
+Turnover foul,11.0,5,0,0,ESP,1.0,AICARDI M,0 - 0,335,ITA,5:35
+5m shot - Post,12.0,5,0,0,ESP,1.0,GARCIA X,0 - 0,308,ESP,5:08
+Action shot - Goal,5.0,5,1,0,ESP,1.0,GIORGETTI A,0 - 1,293,ITA,4:53
+Turnover foul,9.0,5,1,0,ESP,1.0,VALLES X,0 - 1,274,ESP,4:34
+Action shot - Missed,6.0,5,1,0,ESP,1.0,FELUGO M,0 - 1,244,ITA,4:04
+20 sec. exclusion in centre,3.0,5,1,0,ESP,1.0,GITTO N,0 - 1,220,ITA,3:40
+Extra player shot - Goal,10.0,5,1,1,ESP,1.0,PERRONE F,1 - 1,200,ESP,3:20
+Turnover foul,11.0,5,1,1,ESP,1.0,AICARDI M,1 - 1,183,ITA,3:03
+Steal,5.0,5,1,1,ESP,1.0,MOLINA G,1 - 1,183,ESP,3:03
+5m shot - Saved,8.0,5,1,1,ESP,1.0,ESPANOL A,1 - 1,162,ESP,2:42
+Turnover foul,5.0,5,1,1,ESP,1.0,GIORGETTI A,1 - 1,140,ITA,2:20
+Steal,8.0,5,1,1,ESP,1.0,ESPANOL A,1 - 1,140,ESP,2:20
+5m shot - Blocked,5.0,5,1,1,ESP,1.0,MOLINA G,1 - 1,117,ESP,1:57
+5m shot - Goal,7.0,5,2,1,ESP,1.0,FIGARI N,1 - 2,96,ITA,1:36
+Penalty foul,2.0,5,2,1,ESP,1.0,PEREZ A,1 - 2,79,ITA,1:19
+Penalty shot - Goal,8.0,5,2,2,ESP,1.0,ESPANOL A,2 - 2,79,ESP,1:19
+20 sec. exclusion in centre,2.0,5,2,2,ESP,1.0,MUNARRIZ A,2 - 2,60,ESP,1:00
+Turnover foul,11.0,5,2,2,ESP,1.0,AICARDI M,2 - 2,59,ITA,0:59
+Steal,6.0,5,2,2,ESP,1.0,MINGUELL M,2 - 2,59,ESP,0:59
+5m shot - Missed,5.0,5,2,2,ESP,1.0,MOLINA G,2 - 2,33,ESP,0:33
+Turnover foul,11.0,5,2,2,ESP,1.0,AICARDI M,2 - 2,15,ITA,0:15
+Turnover foul,10.0,5,2,2,ESP,1.0,PERRONE F,2 - 2,2,ESP,0:02
+Steal,4.0,5,2,2,ESP,1.0,FIGLIOLI P,2 - 2,2,ITA,0:02
+Starting goalkeeper,1.0,5,2,2,ESP,2.0,AGUILAR I,2 - 2,480,ESP,8:00
+Starting goalkeeper,1.0,5,2,2,ESP,2.0,TEMPESTI S,2 - 2,480,ITA,8:00
+Sprint won possession,4.0,5,2,2,ESP,2.0,FIGLIOLI P,2 - 2,480,ITA,8:00
+Turnover foul,11.0,5,2,2,ESP,2.0,AICARDI M,2 - 2,451,ITA,7:31
+Steal,12.0,5,2,2,ESP,2.0,GARCIA X,2 - 2,451,ESP,7:31
+5m shot - Saved,12.0,5,2,2,ESP,2.0,GARCIA X,2 - 2,422,ESP,7:02
+Action shot - Blocked,6.0,5,2,2,ESP,2.0,FELUGO M,2 - 2,397,ITA,6:37
+Double exclusion,11.0,5,2,2,ESP,2.0,AICARDI M,2 - 2,395,ITA,6:35
+Double exclusion,6.0,5,2,2,ESP,2.0,MINGUELL M,2 - 2,395,ESP,6:35
+Turnover foul,7.0,5,2,2,ESP,2.0,SZIRANYI B,2 - 2,382,ESP,6:22
+Centre shot - Post,12.0,5,2,2,ESP,2.0,NAPOLITANO C,2 - 2,366,ITA,6:06
+5m shot - Blocked,10.0,5,2,2,ESP,2.0,PERRONE F,2 - 2,337,ESP,5:37
+Turnover foul,7.0,5,2,2,ESP,2.0,SZIRANYI B,2 - 2,308,ESP,5:08
+Steal,3.0,5,2,2,ESP,2.0,GITTO N,2 - 2,308,ITA,5:08
+20 sec. exclusion in centre,10.0,5,2,2,ESP,2.0,PERRONE F,2 - 2,283,ESP,4:43
+Action shot - Goal,4.0,5,3,2,ESP,2.0,FIGLIOLI P,2 - 3,262,ITA,4:22
+Turnover foul,6.0,5,3,2,ESP,2.0,MINGUELL M,2 - 3,241,ESP,4:01
+Turnover foul,12.0,5,3,2,ESP,2.0,NAPOLITANO C,2 - 3,212,ITA,3:32
+Steal,5.0,5,3,2,ESP,2.0,MOLINA G,2 - 3,212,ESP,3:32
+20 sec. exclusion in field,4.0,5,3,2,ESP,2.0,FIGLIOLI P,2 - 3,201,ITA,3:21
+Extra player shot - Blocked,5.0,5,3,2,ESP,2.0,MOLINA G,2 - 3,183,ESP,3:03
+Action shot - Goal,5.0,5,3,3,ESP,2.0,MOLINA G,3 - 3,176,ESP,2:56
+Turnover foul,8.0,5,3,3,ESP,2.0,GALLO V,3 - 3,154,ITA,2:34
+Turnover foul,10.0,5,3,3,ESP,2.0,PERRONE F,3 - 3,130,ESP,2:10
+Double exclusion,5.0,5,3,3,ESP,2.0,GIORGETTI A,3 - 3,130,ITA,2:10
+Double exclusion,6.0,5,3,3,ESP,2.0,MINGUELL M,3 - 3,130,ESP,2:10
+Turnover foul,11.0,5,3,3,ESP,2.0,AICARDI M,3 - 3,101,ITA,1:41
+Steal,3.0,5,3,3,ESP,2.0,de LERA R,3 - 3,101,ESP,1:41
+5m shot - Blocked,5.0,5,3,3,ESP,2.0,MOLINA G,3 - 3,73,ESP,1:13
+Turnover foul,8.0,5,3,3,ESP,2.0,ESPANOL A,3 - 3,46,ESP,0:46
+Extra player shot - Blocked,8.0,5,3,3,ESP,4.0,ESPANOL A,3 - 3,87,ESP,1:27
+Action shot - Saved,7.0,5,3,3,ESP,4.0,FIGARI N,3 - 3,57,ITA,0:57
+5m shot - Saved,6.0,5,3,3,ESP,4.0,MINGUELL M,3 - 3,42,ESP,0:42
+Time-Out,,5,3,3,ESP,4.0,,3 - 3,32,ITA,0:32
+Steal,9.0,5,3,3,ESP,2.0,PRESCIUTTI C,3 - 3,46,ITA,0:46
+20 sec. exclusion in centre,3.0,5,3,3,ESP,2.0,de LERA R,3 - 3,29,ESP,0:29
+Action shot - Post,10.0,5,3,3,ESP,2.0,FIORENTINI D,3 - 3,5,ITA,0:05
+Starting goalkeeper,1.0,5,3,3,ESP,3.0,AGUILAR I,3 - 3,480,ESP,8:00
+Starting goalkeeper,1.0,5,3,3,ESP,3.0,TEMPESTI S,3 - 3,480,ITA,8:00
+Sprint won possession,4.0,5,3,3,ESP,3.0,FIGLIOLI P,3 - 3,480,ITA,8:00
+Penalty foul,2.0,5,3,3,ESP,3.0,MUNARRIZ A,3 - 3,462,ESP,7:42
+Penalty shot - Goal,4.0,5,4,3,ESP,3.0,FIGLIOLI P,3 - 4,462,ITA,7:42
+Turnover foul,9.0,5,4,3,ESP,3.0,VALLES X,3 - 4,437,ESP,7:17
+Counter attack - Saved,9.0,5,4,3,ESP,3.0,PRESCIUTTI C,3 - 4,425,ITA,7:05
+20 sec. exclusion in centre,7.0,5,4,3,ESP,3.0,FIGARI N,3 - 4,402,ITA,6:42
+Extra player shot - Saved,6.0,5,4,3,ESP,3.0,MINGUELL M,3 - 4,386,ESP,6:26
+Action shot - Saved,12.0,5,4,3,ESP,3.0,GARCIA X,3 - 4,378,ESP,6:18
+5m shot - Post,4.0,5,4,3,ESP,3.0,FIGLIOLI P,3 - 4,351,ITA,5:51
+5m shot - Saved,6.0,5,4,3,ESP,3.0,FELUGO M,3 - 4,325,ITA,5:25
+5m shot - Blocked,6.0,5,4,3,ESP,3.0,MINGUELL M,3 - 4,301,ESP,5:01
+5m shot - Saved,8.0,5,4,3,ESP,3.0,GALLO V,3 - 4,273,ITA,4:33
+5m shot - Saved,6.0,5,4,3,ESP,3.0,MINGUELL M,3 - 4,248,ESP,4:08
+Centre shot - Missed,9.0,5,4,3,ESP,3.0,VALLES X,3 - 4,247,ESP,4:07
+5m shot - Post,4.0,5,4,3,ESP,3.0,FIGLIOLI P,3 - 4,222,ITA,3:42
+Turnover foul,9.0,5,4,3,ESP,3.0,VALLES X,3 - 4,192,ESP,3:12
+Steal,9.0,5,4,3,ESP,3.0,PRESCIUTTI C,3 - 4,192,ITA,3:12
+Turnover foul,4.0,5,4,3,ESP,3.0,FIGLIOLI P,3 - 4,175,ITA,2:55
+5m shot - Blocked,5.0,5,4,3,ESP,3.0,MOLINA G,3 - 4,155,ESP,2:35
+5m shot - Blocked,6.0,5,4,3,ESP,3.0,FELUGO M,3 - 4,127,ITA,2:07
+Turnover foul,7.0,5,4,3,ESP,3.0,SZIRANYI B,3 - 4,121,ESP,2:01
+Turnover foul,11.0,5,4,3,ESP,3.0,AICARDI M,3 - 4,110,ITA,1:50
+Steal,10.0,5,4,3,ESP,3.0,PERRONE F,3 - 4,110,ESP,1:50
+20 sec. exclusion in centre,9.0,5,4,3,ESP,3.0,PRESCIUTTI C,3 - 4,91,ITA,1:31
+Time-Out,,5,4,3,ESP,3.0,,3 - 4,91,ESP,1:31
+Extra player shot - Saved,10.0,5,4,3,ESP,3.0,PERRONE F,3 - 4,75,ESP,1:15
+20 sec. exclusion in centre,10.0,5,4,3,ESP,3.0,PERRONE F,3 - 4,48,ESP,0:48
+Extra player shot - Missed,7.0,5,4,3,ESP,3.0,FIGARI N,3 - 4,36,ITA,0:36
+Turnover foul,8.0,5,4,3,ESP,3.0,ESPANOL A,3 - 4,21,ESP,0:21
+Steal,10.0,5,4,3,ESP,3.0,FIORENTINI D,3 - 4,21,ITA,0:21
+Action shot - Saved,10.0,5,4,3,ESP,3.0,FIORENTINI D,3 - 4,1,ITA,0:01
+Starting goalkeeper,1.0,5,4,3,ESP,4.0,AGUILAR I,3 - 4,480,ESP,8:00
+Starting goalkeeper,1.0,5,4,3,ESP,4.0,TEMPESTI S,3 - 4,480,ITA,8:00
+Sprint won possession,4.0,5,4,3,ESP,4.0,FIGLIOLI P,3 - 4,480,ITA,8:00
+Turnover foul,11.0,5,4,3,ESP,4.0,AICARDI M,3 - 4,456,ITA,7:36
+Steal,10.0,5,4,3,ESP,4.0,PERRONE F,3 - 4,456,ESP,7:36
+5m shot - Saved,12.0,5,4,3,ESP,4.0,GARCIA X,3 - 4,432,ESP,7:12
+Turnover foul,7.0,5,4,3,ESP,4.0,SZIRANYI B,3 - 4,425,ESP,7:05
+Turnover foul,11.0,5,4,3,ESP,4.0,AICARDI M,3 - 4,408,ITA,6:48
+20 sec. exclusion in centre,2.0,5,4,3,ESP,4.0,PEREZ A,3 - 4,393,ITA,6:33
+Extra player shot - Saved,6.0,5,4,3,ESP,4.0,MINGUELL M,3 - 4,375,ESP,6:15
+20 sec. exclusion in field,5.0,5,4,3,ESP,4.0,GIORGETTI A,3 - 4,370,ITA,6:10
+Extra player shot - Saved,10.0,5,4,3,ESP,4.0,PERRONE F,3 - 4,351,ESP,5:51
+5m shot - Post,12.0,5,4,3,ESP,4.0,GARCIA X,3 - 4,343,ESP,5:43
+Turnover foul,5.0,5,4,3,ESP,4.0,MOLINA G,3 - 4,322,ESP,5:22
+5m shot - Saved,4.0,5,4,3,ESP,4.0,FIGLIOLI P,3 - 4,297,ITA,4:57
+5m shot - Blocked,6.0,5,4,3,ESP,4.0,MINGUELL M,3 - 4,272,ESP,4:32
+Centre shot - Saved,11.0,5,4,3,ESP,4.0,AICARDI M,3 - 4,248,ITA,4:08
+Time-Out,,5,4,3,ESP,4.0,,3 - 4,245,ESP,4:05
+Turnover foul,10.0,5,4,3,ESP,4.0,PERRONE F,3 - 4,233,ESP,3:53
+Turnover foul,12.0,5,4,3,ESP,4.0,NAPOLITANO C,3 - 4,205,ITA,3:25
+Steal,8.0,5,4,3,ESP,4.0,ESPANOL A,3 - 4,205,ESP,3:25
+Turnover foul,9.0,5,4,3,ESP,4.0,VALLES X,3 - 4,175,ESP,2:55
+Steal,9.0,5,4,3,ESP,4.0,PRESCIUTTI C,3 - 4,175,ITA,2:55
+Action shot - Saved,6.0,5,4,3,ESP,4.0,FELUGO M,3 - 4,146,ITA,2:26
+Turnover foul,6.0,5,4,3,ESP,4.0,FELUGO M,3 - 4,120,ITA,2:00
+Steal,12.0,5,4,3,ESP,4.0,GARCIA X,3 - 4,120,ESP,2:00
+20 sec. exclusion in centre,9.0,5,4,3,ESP,4.0,PRESCIUTTI C,3 - 4,103,ITA,1:43
+5m shot - Post,11.0,5,4,3,ESP,4.0,AICARDI M,3 - 4,15,ITA,0:15
+Turnover foul,10.0,5,4,3,ESP,4.0,PERRONE F,3 - 4,1,ESP,0:01
+Steal,2.0,5,4,3,ESP,4.0,PEREZ A,3 - 4,1,ITA,0:01
+Starting goalkeeper,1.0,6,0,0,MNE,1.0,TEMPESTI S,0 - 0,480,ITA,8:00
+Starting goalkeeper,13.0,6,0,0,MNE,1.0,SCEPANOVIC M,0 - 0,480,MNE,8:00
+Sprint won possession,3.0,6,0,0,MNE,1.0,PASKOVIC V,0 - 0,480,MNE,8:00
+5m shot - Goal,9.0,6,0,1,MNE,1.0,IVOVIC A,1 - 0,455,MNE,7:35
+Turnover foul,11.0,6,0,1,MNE,1.0,AICARDI M,1 - 0,441,ITA,7:21
+Turnover foul,3.0,6,0,1,MNE,1.0,PASKOVIC V,1 - 0,414,MNE,6:54
+Centre shot - Saved,11.0,6,0,1,MNE,1.0,AICARDI M,1 - 0,394,ITA,6:34
+20 sec. exclusion in centre,10.0,6,0,1,MNE,1.0,FIORENTINI D,1 - 0,376,ITA,6:16
+Action shot - Goal,7.0,6,0,2,MNE,1.0,JANOVIC M,2 - 0,355,MNE,5:55
+5m shot - Missed,5.0,6,0,2,MNE,1.0,GIORGETTI A,2 - 0,337,ITA,5:37
+Turnover foul,7.0,6,0,2,MNE,1.0,JANOVIC M,2 - 0,323,MNE,5:23
+5m shot - Saved,5.0,6,0,2,MNE,1.0,GIORGETTI A,2 - 0,297,ITA,4:57
+20 sec. exclusion in field,4.0,6,0,2,MNE,1.0,FIGLIOLI P,2 - 0,274,ITA,4:34
+Extra player shot - Saved,7.0,6,0,2,MNE,1.0,JANOVIC M,2 - 0,254,MNE,4:14
+Penalty foul,8.0,6,0,2,MNE,1.0,GALLO V,2 - 0,244,ITA,4:04
+Penalty shot - Goal,8.0,6,0,3,MNE,1.0,JANOVIC N,3 - 0,244,MNE,4:04
+20 sec. exclusion in centre,4.0,6,0,3,MNE,1.0,PETROVIC A,3 - 0,231,MNE,3:51
+Extra player shot - Post,8.0,6,0,3,MNE,1.0,GALLO V,3 - 0,211,ITA,3:31
+Centre shot - Goal,11.0,6,1,3,MNE,1.0,AICARDI M,3 - 1,209,ITA,3:29
+Turnover foul,10.0,6,1,3,MNE,1.0,MISIC S,3 - 1,179,MNE,2:59
+Steal,9.0,6,1,3,MNE,1.0,PRESCIUTTI C,3 - 1,179,ITA,2:59
+Action shot - Saved,11.0,6,1,3,MNE,1.0,AICARDI M,3 - 1,160,ITA,2:40
+5m shot - Missed,8.0,6,1,3,MNE,1.0,JANOVIC N,3 - 1,132,MNE,2:12
+Turnover foul,11.0,6,1,3,MNE,1.0,AICARDI M,3 - 1,119,ITA,1:59
+Steal,7.0,6,1,3,MNE,1.0,JANOVIC M,3 - 1,119,MNE,1:59
+Turnover foul,2.0,6,1,3,MNE,1.0,BRGULJAN D,3 - 1,98,MNE,1:38
+Action shot - Missed,9.0,6,1,3,MNE,1.0,PRESCIUTTI C,3 - 1,80,ITA,1:20
+20 sec. exclusion in field,9.0,6,1,3,MNE,1.0,PRESCIUTTI C,3 - 1,80,ITA,1:20
+Centre shot - Post,11.0,6,1,3,MNE,1.0,KLIKOVAK F,3 - 1,59,MNE,0:59
+Turnover foul,11.0,6,1,3,MNE,1.0,AICARDI M,3 - 1,28,ITA,0:28
+Steal,9.0,6,1,3,MNE,1.0,IVOVIC A,3 - 1,28,MNE,0:28
+Turnover foul,7.0,6,1,3,MNE,1.0,JANOVIC M,3 - 1,1,MNE,0:01
+Steal,1.0,6,1,3,MNE,1.0,TEMPESTI S,3 - 1,1,ITA,0:01
+Starting goalkeeper,13.0,6,1,3,MNE,2.0,SCEPANOVIC M,3 - 1,480,MNE,8:00
+Starting goalkeeper,1.0,6,1,3,MNE,2.0,TEMPESTI S,3 - 1,480,ITA,8:00
+Starting goalkeeper,1.0,6,1,3,MNE,2.0,TEMPESTI S,3 - 1,480,ITA,8:00
+Sprint won possession,4.0,6,1,3,MNE,2.0,FIGLIOLI P,3 - 1,480,ITA,8:00
+Action shot - Post,6.0,6,1,3,MNE,2.0,FELUGO M,3 - 1,454,ITA,7:34
+20 sec. exclusion in centre,6.0,6,1,3,MNE,2.0,FELUGO M,3 - 1,431,ITA,7:11
+Extra player shot - Blocked,9.0,6,1,3,MNE,2.0,IVOVIC A,3 - 1,413,MNE,6:53
+Penalty foul,4.0,6,1,3,MNE,2.0,FIGLIOLI P,3 - 1,407,ITA,6:47
+Penalty shot - Goal,7.0,6,1,4,MNE,2.0,JANOVIC M,4 - 1,407,MNE,6:47
+20 sec. exclusion in centre,12.0,6,1,4,MNE,2.0,JOKIC P,4 - 1,390,MNE,6:30
+Extra player shot - Post,8.0,6,1,4,MNE,2.0,GALLO V,4 - 1,371,ITA,6:11
+Action shot - Post,8.0,6,1,4,MNE,2.0,GALLO V,4 - 1,365,ITA,6:05
+Turnover foul,10.0,6,1,4,MNE,2.0,MISIC S,4 - 1,350,MNE,5:50
+Turnover foul,5.0,6,1,4,MNE,2.0,GIORGETTI A,4 - 1,337,ITA,5:37
+Turnover foul,10.0,6,1,4,MNE,2.0,MISIC S,4 - 1,326,MNE,5:26
+Turnover foul,2.0,6,1,4,MNE,2.0,PEREZ A,4 - 1,307,ITA,5:07
+5m shot - Post,3.0,6,1,4,MNE,2.0,PASKOVIC V,4 - 1,287,MNE,4:47
+20 sec. exclusion in field,9.0,6,1,4,MNE,2.0,IVOVIC A,4 - 1,268,MNE,4:28
+Extra player shot - Post,2.0,6,1,4,MNE,2.0,PEREZ A,4 - 1,251,ITA,4:11
+5m shot - Saved,8.0,6,1,4,MNE,2.0,JANOVIC N,4 - 1,225,MNE,3:45
+Turnover foul,11.0,6,1,4,MNE,2.0,KLIKOVAK F,4 - 1,214,MNE,3:34
+Turnover foul,8.0,6,1,4,MNE,2.0,GALLO V,4 - 1,195,ITA,3:15
+Steal,8.0,6,1,4,MNE,2.0,JANOVIC N,4 - 1,195,MNE,3:15
+Turnover foul,11.0,6,1,4,MNE,2.0,KLIKOVAK F,4 - 1,185,MNE,3:05
+Steal,5.0,6,1,4,MNE,2.0,GIORGETTI A,4 - 1,185,ITA,3:05
+5m shot - Post,9.0,6,1,4,MNE,2.0,PRESCIUTTI C,4 - 1,166,ITA,2:46
+5m shot - Missed,4.0,6,1,4,MNE,2.0,PETROVIC A,4 - 1,140,MNE,2:20
+20 sec. exclusion in centre,4.0,6,1,4,MNE,2.0,PETROVIC A,4 - 1,122,MNE,2:02
+Time-Out,,6,1,4,MNE,2.0,,4 - 1,122,ITA,2:02
+Action shot - Blocked,6.0,6,1,4,MNE,2.0,FELUGO M,4 - 1,99,ITA,1:39
+Action shot - Goal,5.0,6,1,5,MNE,2.0,BRGULJAN D,5 - 1,71,MNE,1:11
+5m shot - Saved,4.0,6,1,5,MNE,2.0,FIGLIOLI P,5 - 1,48,ITA,0:48
+Turnover foul,12.0,6,1,5,MNE,2.0,NAPOLITANO C,5 - 1,20,ITA,0:20
+Steal,5.0,6,1,5,MNE,2.0,BRGULJAN D,5 - 1,20,MNE,0:20
+Starting goalkeeper,1.0,6,1,5,MNE,3.0,TEMPESTI S,5 - 1,480,ITA,8:00
+Starting goalkeeper,13.0,6,1,5,MNE,3.0,SCEPANOVIC M,5 - 1,480,MNE,8:00
+Sprint won possession,4.0,6,1,5,MNE,3.0,FIGLIOLI P,5 - 1,480,ITA,8:00
+Turnover foul,11.0,6,1,5,MNE,3.0,AICARDI M,5 - 1,462,ITA,7:42
+Turnover foul,11.0,6,1,5,MNE,3.0,KLIKOVAK F,5 - 1,448,MNE,7:28
+Steal,3.0,6,1,5,MNE,3.0,GITTO N,5 - 1,448,ITA,7:28
+5m shot - Goal,4.0,6,2,5,MNE,3.0,FIGLIOLI P,5 - 2,431,ITA,7:11
+20 sec. exclusion in centre,7.0,6,2,5,MNE,3.0,FIGARI N,5 - 2,414,ITA,6:54
+Extra player shot - Goal,8.0,6,2,6,MNE,3.0,JANOVIC N,6 - 2,394,MNE,6:34
+5m shot - Saved,4.0,6,2,6,MNE,3.0,FIGLIOLI P,6 - 2,366,ITA,6:06
+20 sec. exclusion in centre,12.0,6,2,6,MNE,3.0,JOKIC P,6 - 2,351,MNE,5:51
+Extra player shot - Post,12.0,6,2,6,MNE,3.0,NAPOLITANO C,6 - 2,333,ITA,5:33
+Centre shot - Saved,7.0,6,2,6,MNE,3.0,JANOVIC M,6 - 2,308,MNE,5:08
+5m shot - Missed,9.0,6,2,6,MNE,3.0,PRESCIUTTI C,6 - 2,283,ITA,4:43
+Centre shot - Goal,4.0,6,2,7,MNE,3.0,PETROVIC A,7 - 2,271,MNE,4:31
+20 sec. exclusion in centre,7.0,6,2,7,MNE,3.0,JANOVIC M,7 - 2,252,MNE,4:12
+Extra player shot - Blocked,7.0,6,2,7,MNE,3.0,FIGARI N,7 - 2,232,ITA,3:52
+Centre shot - Goal,11.0,6,3,7,MNE,3.0,AICARDI M,7 - 3,231,ITA,3:51
+20 sec. exclusion in centre,2.0,6,3,7,MNE,3.0,PEREZ A,7 - 3,206,ITA,3:26
+Time-Out,,6,3,7,MNE,3.0,,7 - 3,206,MNE,3:26
+Action shot - Goal,8.0,6,3,8,MNE,3.0,JANOVIC N,8 - 3,180,MNE,3:00
+5m shot - Blocked,7.0,6,3,8,MNE,3.0,FIGARI N,8 - 3,155,ITA,2:35
+Turnover foul,9.0,6,3,8,MNE,3.0,PRESCIUTTI C,8 - 3,138,ITA,2:18
+20 sec. exclusion in centre,10.0,6,3,8,MNE,3.0,FIORENTINI D,8 - 3,112,ITA,1:52
+Turnover foul,7.0,6,3,8,MNE,3.0,JANOVIC M,8 - 3,92,MNE,1:32
+Steal,7.0,6,3,8,MNE,3.0,FIGARI N,8 - 3,92,ITA,1:32
+20 sec. exclusion in field,9.0,6,3,8,MNE,3.0,IVOVIC A,8 - 3,92,MNE,1:32
+Action shot - Saved,9.0,6,3,8,MNE,3.0,PRESCIUTTI C,8 - 3,69,ITA,1:09
+Turnover foul,7.0,6,3,8,MNE,3.0,JANOVIC M,8 - 3,42,MNE,0:42
+Steal,7.0,6,3,8,MNE,3.0,FIGARI N,8 - 3,42,ITA,0:42
+5m shot - Goal,8.0,6,4,8,MNE,3.0,GALLO V,8 - 4,23,ITA,0:23
+20 sec. exclusion in centre,6.0,6,4,8,MNE,3.0,FELUGO M,8 - 4,10,ITA,0:10
+Extra player shot - Goal,5.0,6,4,9,MNE,3.0,BRGULJAN D,9 - 4,5,MNE,0:05
+5m shot - Missed,4.0,6,4,9,MNE,3.0,FIGLIOLI P,9 - 4,1,ITA,0:01
+Starting goalkeeper,1.0,6,4,9,MNE,4.0,TEMPESTI S,9 - 4,480,ITA,8:00
+Starting goalkeeper,13.0,6,4,9,MNE,4.0,SCEPANOVIC M,9 - 4,480,MNE,8:00
+Sprint won possession,4.0,6,4,9,MNE,4.0,FIGLIOLI P,9 - 4,480,ITA,8:00
+Turnover foul,11.0,6,4,9,MNE,4.0,AICARDI M,9 - 4,459,ITA,7:39
+5m shot - Blocked,7.0,6,4,9,MNE,4.0,JANOVIC M,9 - 4,429,MNE,7:09
+Turnover foul,8.0,6,4,9,MNE,4.0,GALLO V,9 - 4,408,ITA,6:48
+Steal,5.0,6,4,9,MNE,4.0,BRGULJAN D,9 - 4,408,MNE,6:48
+Turnover foul,4.0,6,4,9,MNE,4.0,PETROVIC A,9 - 4,385,MNE,6:25
+Turnover foul,5.0,6,4,9,MNE,4.0,GIORGETTI A,9 - 4,384,ITA,6:24
+Centre shot - Missed,5.0,6,4,9,MNE,4.0,BRGULJAN D,9 - 4,360,MNE,6:00
+5m shot - Missed,2.0,6,4,9,MNE,4.0,PEREZ A,9 - 4,334,ITA,5:34
+5m shot - Goal,9.0,6,4,10,MNE,4.0,IVOVIC A,10 - 4,310,MNE,5:10
+5m shot - Blocked,3.0,6,4,10,MNE,4.0,GITTO N,10 - 4,283,ITA,4:43
+Turnover foul,9.0,6,4,10,MNE,4.0,IVOVIC A,10 - 4,256,MNE,4:16
+Action shot - Goal,4.0,6,5,10,MNE,4.0,FIGLIOLI P,10 - 5,237,ITA,3:57
+Action shot - Saved,7.0,6,5,10,MNE,4.0,JANOVIC M,10 - 5,214,MNE,3:34
+20 sec. exclusion in field,8.0,6,5,10,MNE,4.0,JANOVIC N,10 - 5,180,MNE,3:00
+Extra player shot - Goal,4.0,6,6,10,MNE,4.0,FIGLIOLI P,10 - 6,160,ITA,2:40
+Turnover foul,9.0,6,6,10,MNE,4.0,IVOVIC A,10 - 6,135,MNE,2:15
+Steal,9.0,6,6,10,MNE,4.0,PRESCIUTTI C,10 - 6,135,ITA,2:15
+5m shot - Goal,9.0,6,7,10,MNE,4.0,PRESCIUTTI C,10 - 7,111,ITA,1:51
+Time-Out,,6,7,10,MNE,4.0,,10 - 7,91,MNE,1:31
+5m shot - Missed,4.0,6,7,10,MNE,4.0,FIGLIOLI P,10 - 7,70,ITA,1:10
+20 sec. exclusion in field,8.0,6,7,10,MNE,4.0,JANOVIC N,10 - 7,23,MNE,0:23
+Extra player shot - Goal,11.0,6,8,10,MNE,4.0,AICARDI M,10 - 8,7,ITA,0:07
+Starting goalkeeper,1.0,7,0,0,CRO,1.0,PAVIC J,0 - 0,480,CRO,8:00
+Starting goalkeeper,1.0,7,0,0,CRO,1.0,TEMPESTI S,0 - 0,480,ITA,8:00
+Sprint won possession,4.0,7,0,0,CRO,1.0,FIGLIOLI P,0 - 0,480,ITA,8:00
+Turnover foul,11.0,7,0,0,CRO,1.0,AICARDI M,0 - 0,465,ITA,7:45
+Action shot - Goal,9.0,7,0,1,CRO,1.0,SUKNO S,1 - 0,451,CRO,7:31
+20 sec. exclusion in centre,3.0,7,0,1,CRO,1.0,MILAKOVIC I,1 - 0,426,CRO,7:06
+Extra player shot - Goal,5.0,7,1,1,CRO,1.0,GIORGETTI A,1 - 1,408,ITA,6:48
+Action shot - Saved,6.0,7,1,1,CRO,1.0,FELUGO M,1 - 1,348,ITA,5:48
+Turnover foul,10.0,7,1,1,CRO,1.0,DOBUD N,1 - 1,322,CRO,5:22
+Steal,1.0,7,1,1,CRO,1.0,TEMPESTI S,1 - 1,322,ITA,5:22
+20 sec. exclusion in field,3.0,7,1,1,CRO,1.0,GITTO N,1 - 1,302,ITA,5:02
+Action shot - Saved,12.0,7,1,1,CRO,1.0,OBRADOVIC P,1 - 1,276,CRO,4:36
+Turnover foul,11.0,7,1,1,CRO,1.0,AICARDI M,1 - 1,248,ITA,4:08
+Steal,9.0,7,1,1,CRO,1.0,SUKNO S,1 - 1,248,CRO,4:08
+20 sec. exclusion in centre,7.0,7,1,1,CRO,1.0,FIGARI N,1 - 1,221,ITA,3:41
+Extra player shot - Goal,9.0,7,1,2,CRO,1.0,SUKNO S,2 - 1,209,CRO,3:29
+20 sec. exclusion in centre,2.0,7,1,2,CRO,1.0,LONCAR L,2 - 1,190,CRO,3:10
+Extra player shot - Saved,9.0,7,1,2,CRO,1.0,PRESCIUTTI C,2 - 1,185,ITA,3:05
+Extra player shot - Goal,2.0,7,2,2,CRO,1.0,PEREZ A,2 - 2,171,ITA,2:51
+Turnover foul,4.0,7,2,2,CRO,1.0,PASKVALIN F,2 - 2,144,CRO,2:24
+Steal,12.0,7,2,2,CRO,1.0,NAPOLITANO C,2 - 2,144,ITA,2:24
+Action shot - Post,8.0,7,2,2,CRO,1.0,GALLO V,2 - 2,121,ITA,2:01
+20 sec. exclusion in field,12.0,7,2,2,CRO,1.0,NAPOLITANO C,2 - 2,120,ITA,2:00
+Action shot - Goal,6.0,7,2,3,CRO,1.0,BUKIC L,3 - 2,96,CRO,1:36
+20 sec. exclusion in centre,8.0,7,2,3,CRO,1.0,BUSLJE A,3 - 2,72,CRO,1:12
+Extra player shot - Saved,8.0,7,2,3,CRO,1.0,GALLO V,3 - 2,52,ITA,0:52
+20 sec. exclusion in centre,11.0,7,2,3,CRO,1.0,AICARDI M,3 - 2,32,ITA,0:32
+Centre shot - Goal,4.0,7,2,4,CRO,1.0,PASKVALIN F,4 - 2,11,CRO,0:11
+Turnover foul,6.0,7,2,4,CRO,1.0,FELUGO M,4 - 2,3,ITA,0:03
+Starting goalkeeper,1.0,7,2,4,CRO,2.0,PAVIC J,4 - 2,480,CRO,8:00
+Starting goalkeeper,1.0,7,2,4,CRO,2.0,TEMPESTI S,4 - 2,480,ITA,8:00
+Sprint won possession,9.0,7,2,4,CRO,2.0,SUKNO S,4 - 2,480,CRO,8:00
+5m shot - Goal,5.0,7,2,5,CRO,2.0,JOKOVIC M,5 - 2,453,CRO,7:33
+5m shot - Blocked,4.0,7,2,5,CRO,2.0,FIGLIOLI P,5 - 2,425,ITA,7:05
+Action shot - Saved,6.0,7,2,5,CRO,2.0,FELUGO M,5 - 2,398,ITA,6:38
+20 sec. exclusion in field,4.0,7,2,5,CRO,2.0,FIGLIOLI P,5 - 2,384,ITA,6:24
+Double exclusion,7.0,7,2,5,CRO,2.0,FIGARI N,5 - 2,372,ITA,6:12
+Double exclusion,3.0,7,2,5,CRO,2.0,MILAKOVIC I,5 - 2,372,CRO,6:12
+Centre shot - Goal,10.0,7,2,6,CRO,2.0,DOBUD N,6 - 2,350,CRO,5:50
+Action shot - Post,2.0,7,2,6,CRO,2.0,PEREZ A,6 - 2,322,ITA,5:22
+Turnover foul,4.0,7,2,6,CRO,2.0,PASKVALIN F,6 - 2,302,CRO,5:02
+20 sec. exclusion in field,4.0,7,2,6,CRO,2.0,PASKVALIN F,6 - 2,281,CRO,4:41
+Centre shot - Saved,12.0,7,2,6,CRO,2.0,NAPOLITANO C,6 - 2,257,ITA,4:17
+20 sec. exclusion in centre,5.0,7,2,6,CRO,2.0,GIORGETTI A,6 - 2,240,ITA,4:00
+Extra player shot - Goal,9.0,7,2,7,CRO,2.0,SUKNO S,7 - 2,222,CRO,3:42
+Time-Out,,7,2,7,CRO,2.0,,7 - 2,222,ITA,3:42
+20 sec. exclusion in centre,2.0,7,2,7,CRO,2.0,LONCAR L,7 - 2,209,CRO,3:29
+Extra player shot - Blocked,8.0,7,2,7,CRO,2.0,GALLO V,7 - 2,189,ITA,3:09
+Action shot - Missed,11.0,7,2,7,CRO,2.0,AICARDI M,7 - 2,185,ITA,3:05
+Turnover foul,4.0,7,2,7,CRO,2.0,PASKVALIN F,7 - 2,158,CRO,2:38
+20 sec. exclusion in field,4.0,7,2,7,CRO,2.0,PASKVALIN F,7 - 2,158,CRO,2:38
+Centre shot - Missed,11.0,7,2,7,CRO,2.0,AICARDI M,7 - 2,135,ITA,2:15
+Action shot - Missed,11.0,7,2,7,CRO,2.0,SETKA A,7 - 2,107,CRO,1:47
+20 sec. exclusion in centre,11.0,7,2,7,CRO,2.0,SETKA A,7 - 2,93,CRO,1:33
+Extra player shot - Goal,5.0,7,3,7,CRO,2.0,GIORGETTI A,7 - 3,75,ITA,1:15
+Turnover foul,10.0,7,3,7,CRO,2.0,DOBUD N,7 - 3,47,CRO,0:47
+Steal,5.0,7,3,7,CRO,2.0,GIORGETTI A,7 - 3,47,ITA,0:47
+20 sec. exclusion in field,6.0,7,3,7,CRO,2.0,FELUGO M,7 - 3,36,ITA,0:36
+Action shot - Goal,5.0,7,3,8,CRO,2.0,JOKOVIC M,8 - 3,15,CRO,0:15
+Action shot - Blocked,5.0,7,3,8,CRO,2.0,GIORGETTI A,8 - 3,1,ITA,0:01
+Starting goalkeeper,1.0,7,3,8,CRO,3.0,PAVIC J,8 - 3,480,CRO,8:00
+Starting goalkeeper,1.0,7,3,8,CRO,3.0,TEMPESTI S,8 - 3,480,ITA,8:00
+Sprint won possession,4.0,7,3,8,CRO,3.0,FIGLIOLI P,8 - 3,480,ITA,8:00
+Extra player shot - Goal,6.0,7,7,10,CRO,4.0,FELUGO M,10 - 7,118,ITA,1:58
+5m shot - Saved,12.0,7,7,10,CRO,4.0,OBRADOVIC P,10 - 7,90,CRO,1:30
+Counter attack - Saved,6.0,7,7,10,CRO,4.0,FELUGO M,10 - 7,69,ITA,1:09
+Time-Out,,7,7,10,CRO,4.0,,10 - 7,52,CRO,0:52
+20 sec. exclusion in field,5.0,7,7,10,CRO,4.0,GIORGETTI A,10 - 7,42,ITA,0:42
+Exclusion with substitution,5.0,7,7,10,CRO,4.0,GIORGETTI A,10 - 7,42,ITA,0:42
+20 sec. exclusion in centre,12.0,7,7,10,CRO,3.0,OBRADOVIC P,10 - 7,464,CRO,7:44
+Extra player shot - Blocked,4.0,7,7,10,CRO,3.0,FIGLIOLI P,10 - 7,444,ITA,7:24
+Turnover foul,9.0,7,7,10,CRO,3.0,SUKNO S,10 - 7,420,CRO,7:00
+20 sec. exclusion in centre,5.0,7,7,10,CRO,3.0,JOKOVIC M,10 - 7,412,CRO,6:52
+Exclusion with substitution,9.0,7,7,10,CRO,3.0,SUKNO S,10 - 7,405,CRO,6:45
+Exclusion with substitution,2.0,7,7,10,CRO,3.0,PEREZ A,10 - 7,405,ITA,6:45
+Action shot - Saved,9.0,7,7,10,CRO,3.0,PRESCIUTTI C,10 - 7,387,ITA,6:27
+20 sec. exclusion in field,5.0,7,7,10,CRO,3.0,JOKOVIC M,10 - 7,376,CRO,6:16
+Extra player shot - Goal,5.0,7,4,8,CRO,3.0,GIORGETTI A,8 - 4,374,ITA,6:14
+Exclusion with substitution,8.0,7,4,8,CRO,3.0,BUSLJE A,8 - 4,364,CRO,6:04
+20 sec. exclusion in field,4.0,7,4,8,CRO,3.0,FIGLIOLI P,8 - 4,358,ITA,5:58
+Action shot - Post,5.0,7,4,8,CRO,3.0,JOKOVIC M,8 - 4,334,CRO,5:34
+Turnover foul,3.0,7,4,8,CRO,3.0,GITTO N,8 - 4,314,ITA,5:14
+Steal,10.0,7,4,8,CRO,3.0,DOBUD N,8 - 4,314,CRO,5:14
+Action shot - Saved,7.0,7,4,8,CRO,3.0,MUSLIM P,8 - 4,286,CRO,4:46
+20 sec. exclusion in field,12.0,7,4,8,CRO,3.0,OBRADOVIC P,8 - 4,286,CRO,4:46
+Turnover foul,8.0,7,4,8,CRO,3.0,GALLO V,8 - 4,257,ITA,4:17
+Steal,7.0,7,4,8,CRO,3.0,MUSLIM P,8 - 4,257,CRO,4:17
+20 sec. exclusion in field,8.0,7,4,8,CRO,3.0,GALLO V,8 - 4,247,ITA,4:07
+Time-Out,,7,4,8,CRO,3.0,,8 - 4,247,CRO,4:07
+20 sec. exclusion in field,5.0,7,4,8,CRO,3.0,GIORGETTI A,8 - 4,230,ITA,3:50
+Turnover foul,5.0,7,4,8,CRO,3.0,JOKOVIC M,8 - 4,218,CRO,3:38
+Steal,12.0,7,4,8,CRO,3.0,NAPOLITANO C,8 - 4,218,ITA,3:38
+20 sec. exclusion in field,11.0,7,4,8,CRO,3.0,SETKA A,8 - 4,217,CRO,3:37
+Action shot - Post,3.0,7,4,8,CRO,3.0,GITTO N,8 - 4,189,ITA,3:09
+Action shot - Missed,12.0,7,4,8,CRO,3.0,OBRADOVIC P,8 - 4,162,CRO,2:42
+Turnover foul,9.0,7,4,8,CRO,3.0,PRESCIUTTI C,8 - 4,144,ITA,2:24
+Steal,12.0,7,4,8,CRO,3.0,OBRADOVIC P,8 - 4,144,CRO,2:24
+5m shot - Saved,12.0,7,4,8,CRO,3.0,OBRADOVIC P,8 - 4,119,CRO,1:59
+Action shot - Saved,4.0,7,4,8,CRO,3.0,FIGLIOLI P,8 - 4,103,ITA,1:43
+20 sec. exclusion in centre,4.0,7,4,8,CRO,3.0,FIGLIOLI P,8 - 4,83,ITA,1:23
+Exclusion with substitution,4.0,7,4,8,CRO,3.0,FIGLIOLI P,8 - 4,83,ITA,1:23
+Action shot - Goal,5.0,7,4,9,CRO,3.0,JOKOVIC M,9 - 4,72,CRO,1:12
+Turnover foul,11.0,7,4,9,CRO,3.0,AICARDI M,9 - 4,62,ITA,1:02
+Turnover foul,12.0,7,4,9,CRO,3.0,OBRADOVIC P,9 - 4,46,CRO,0:46
+Action shot - Goal,9.0,7,5,9,CRO,3.0,PRESCIUTTI C,9 - 5,21,ITA,0:21
+Turnover foul,10.0,7,5,9,CRO,3.0,DOBUD N,9 - 5,8,CRO,0:08
+Starting goalkeeper,1.0,7,5,9,CRO,4.0,PAVIC J,9 - 5,480,CRO,8:00
+Starting goalkeeper,1.0,7,5,9,CRO,4.0,TEMPESTI S,9 - 5,480,ITA,8:00
+Sprint won possession,10.0,7,5,9,CRO,4.0,FIORENTINI D,9 - 5,480,ITA,8:00
+20 sec. exclusion in centre,3.0,7,5,9,CRO,4.0,MILAKOVIC I,9 - 5,465,CRO,7:45
+Exclusion with substitution,3.0,7,5,9,CRO,4.0,MILAKOVIC I,9 - 5,465,CRO,7:45
+Turnover foul,9.0,7,5,9,CRO,4.0,PRESCIUTTI C,9 - 5,454,ITA,7:34
+Steal,11.0,7,5,9,CRO,4.0,SETKA A,9 - 5,454,CRO,7:34
+20 sec. exclusion in centre,10.0,7,5,9,CRO,4.0,FIORENTINI D,9 - 5,425,ITA,7:05
+Extra player shot - Post,10.0,7,5,9,CRO,4.0,DOBUD N,9 - 5,419,CRO,6:59
+Extra player shot - Saved,5.0,7,5,9,CRO,4.0,JOKOVIC M,9 - 5,408,CRO,6:48
+5m shot - Saved,7.0,7,5,9,CRO,4.0,MUSLIM P,9 - 5,378,CRO,6:18
+Turnover foul,5.0,7,5,9,CRO,4.0,GIORGETTI A,9 - 5,377,ITA,6:17
+Turnover foul,10.0,7,5,9,CRO,4.0,DOBUD N,9 - 5,350,CRO,5:50
+Steal,11.0,7,5,9,CRO,4.0,AICARDI M,9 - 5,350,ITA,5:50
+Turnover foul,10.0,7,5,9,CRO,4.0,FIORENTINI D,9 - 5,322,ITA,5:22
+Action shot - Saved,2.0,7,5,9,CRO,4.0,LONCAR L,9 - 5,294,CRO,4:54
+Action shot - Blocked,8.0,7,5,9,CRO,4.0,GALLO V,9 - 5,274,ITA,4:34
+Turnover foul,11.0,7,5,9,CRO,4.0,SETKA A,9 - 5,251,CRO,4:11
+Steal,1.0,7,5,9,CRO,4.0,TEMPESTI S,9 - 5,251,ITA,4:11
+Penalty foul,2.0,7,5,9,CRO,4.0,LONCAR L,9 - 5,227,CRO,3:47
+Exclusion with substitution,2.0,7,5,9,CRO,4.0,LONCAR L,9 - 5,227,CRO,3:47
+Penalty shot - Goal,6.0,7,6,9,CRO,4.0,FELUGO M,9 - 6,227,ITA,3:47
+5m shot - Goal,12.0,7,6,10,CRO,4.0,OBRADOVIC P,10 - 6,202,CRO,3:22
+Turnover foul,6.0,7,6,10,CRO,4.0,FELUGO M,10 - 6,182,ITA,3:02
+20 sec. exclusion in centre,4.0,7,6,10,CRO,4.0,PASKVALIN F,10 - 6,130,CRO,2:10
+Exclusion with substitution,4.0,7,6,10,CRO,4.0,PASKVALIN F,10 - 6,130,CRO,2:10
+Action shot - Missed,10.0,7,6,10,CRO,4.0,DOBUD N,10 - 6,12,CRO,0:12
+Time-Out,,7,6,10,CRO,4.0,,10 - 6,12,ITA,0:12
+20 sec. exclusion in centre,5.0,7,6,10,CRO,4.0,JOKOVIC M,10 - 6,6,CRO,0:06
+Exclusion with substitution,5.0,7,6,10,CRO,4.0,JOKOVIC M,10 - 6,6,CRO,0:06
+Extra player shot - Goal,12.0,7,8,10,CRO,4.0,NAPOLITANO C,10 - 8,2,ITA,0:02

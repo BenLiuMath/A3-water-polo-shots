@@ -1,0 +1,492 @@
+Action,Cap,Game,KAZ,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,1.0,1,0,0,GER,1.0,MAXIMOV N,0 - 0,480,KAZ,8:00
+Starting goalkeeper,13.0,1,0,0,GER,1.0,SCHENKEL M,0 - 0,480,GER,8:00
+Sprint won possession,10.0,1,0,0,GER,1.0,OELER M,0 - 0,480,GER,8:00
+Turnover foul,9.0,1,0,0,GER,1.0,STAMM M,0 - 0,453,GER,7:33
+Steal,7.0,1,0,0,GER,1.0,USHAKOV V,0 - 0,453,KAZ,7:33
+5m shot - Post,9.0,1,0,0,GER,1.0,UKUMANOV R,0 - 0,426,KAZ,7:06
+5m shot - Blocked,4.0,1,0,0,GER,1.0,REAL J,0 - 0,399,GER,6:39
+20 sec. exclusion in centre,4.0,1,0,0,GER,1.0,REAL J,0 - 0,373,GER,6:13
+Action shot - Goal,7.0,1,1,0,GER,1.0,USHAKOV V,0 - 1,349,KAZ,5:49
+20 sec. exclusion in centre,4.0,1,1,0,GER,1.0,PILIPENKO R,0 - 1,334,KAZ,5:34
+Extra player shot - Goal,2.0,1,1,1,GER,1.0,BUKOWSKI E,1 - 1,316,GER,5:16
+20 sec. exclusion in field,10.0,1,1,1,GER,1.0,OELER M,1 - 1,288,GER,4:48
+Centre shot - Saved,11.0,1,1,1,GER,1.0,MANAFOV R,1 - 1,263,KAZ,4:23
+Turnover foul,9.0,1,1,1,GER,1.0,STAMM M,1 - 1,247,GER,4:07
+Steal,8.0,1,1,1,GER,1.0,KOLIADENKO A,1 - 1,247,KAZ,4:07
+Action shot - Goal,7.0,1,2,1,GER,1.0,USHAKOV V,1 - 2,226,KAZ,3:46
+5m shot - Goal,7.0,1,2,2,GER,1.0,NOSSEK H,2 - 2,199,GER,3:19
+Turnover foul,4.0,1,2,2,GER,1.0,PILIPENKO R,2 - 2,182,KAZ,3:02
+5m shot - Post,7.0,1,2,2,GER,1.0,NOSSEK H,2 - 2,155,GER,2:35
+20 sec. exclusion in centre,8.0,1,2,2,GER,1.0,SCHUELER P,2 - 2,125,GER,2:05
+Action shot - Missed,9.0,1,2,2,GER,1.0,UKUMANOV R,2 - 2,108,KAZ,1:48
+5m shot - Saved,7.0,1,2,2,GER,1.0,NOSSEK H,2 - 2,79,GER,1:19
+Centre shot - Saved,5.0,1,2,2,GER,1.0,SHAKENOV M,2 - 2,56,KAZ,0:56
+Action shot - Goal,3.0,1,2,3,GER,1.0,MIERS E,3 - 2,43,GER,0:43
+Centre shot - Goal,12.0,1,3,3,GER,1.0,PEKOVICH B,3 - 3,14,KAZ,0:14
+20 sec. exclusion in field,3.0,1,3,3,GER,1.0,MEDVEDEV Y,3 - 3,5,KAZ,0:05
+Extra player shot - Missed,3.0,1,3,3,GER,1.0,MIERS E,3 - 3,1,GER,0:01
+Starting goalkeeper,1.0,1,3,3,GER,2.0,MAXIMOV N,3 - 3,480,KAZ,8:00
+Starting goalkeeper,13.0,1,3,3,GER,2.0,SCHENKEL M,3 - 3,480,GER,8:00
+Sprint won possession,2.0,1,3,3,GER,2.0,GUBAREV S,3 - 3,480,KAZ,8:00
+20 sec. exclusion in field,4.0,1,3,3,GER,2.0,REAL J,3 - 3,462,GER,7:42
+Extra player shot - Missed,4.0,1,3,3,GER,2.0,PILIPENKO R,3 - 3,445,KAZ,7:25
+20 sec. exclusion in centre,6.0,1,3,3,GER,2.0,SHMIDER A,3 - 3,425,KAZ,7:05
+5m shot - Goal,2.0,1,3,4,GER,2.0,BUKOWSKI E,4 - 3,403,GER,6:43
+Turnover foul,12.0,1,3,4,GER,2.0,PEKOVICH B,4 - 3,383,KAZ,6:23
+5m shot - Post,7.0,1,3,4,GER,2.0,NOSSEK H,4 - 3,357,GER,5:57
+Turnover foul,7.0,1,3,4,GER,2.0,USHAKOV V,4 - 3,335,KAZ,5:35
+Steal,7.0,1,3,4,GER,2.0,NOSSEK H,4 - 3,335,GER,5:35
+Centre shot - Saved,12.0,1,3,4,GER,2.0,EIDNER D,4 - 3,307,GER,5:07
+20 sec. exclusion in field,12.0,1,3,4,GER,2.0,EIDNER D,4 - 3,305,GER,5:05
+Action shot - Blocked,12.0,1,3,4,GER,2.0,PEKOVICH B,4 - 3,280,KAZ,4:40
+20 sec. exclusion in field,12.0,1,3,4,GER,2.0,PEKOVICH B,4 - 3,279,KAZ,4:39
+5m shot - Goal,7.0,1,3,5,GER,2.0,NOSSEK H,5 - 3,257,GER,4:17
+Turnover foul,9.0,1,3,5,GER,2.0,UKUMANOV R,5 - 3,236,KAZ,3:56
+Steal,3.0,1,3,5,GER,2.0,MIERS E,5 - 3,236,GER,3:56
+Turnover foul,11.0,1,3,5,GER,2.0,SCHLOTTERBECK A,5 - 3,232,GER,3:52
+20 sec. exclusion in centre,3.0,1,3,5,GER,2.0,MIERS E,5 - 3,218,GER,3:38
+Extra player shot - Post,5.0,1,3,5,GER,2.0,SHAKENOV M,5 - 3,202,KAZ,3:22
+20 sec. exclusion in field,6.0,1,3,5,GER,2.0,SHMIDER A,5 - 3,181,KAZ,3:01
+Extra player shot - Post,3.0,1,3,5,GER,2.0,MIERS E,5 - 3,163,GER,2:43
+Centre shot - Saved,11.0,1,3,5,GER,2.0,MANAFOV R,5 - 3,141,KAZ,2:21
+5m shot - Goal,8.0,1,3,6,GER,2.0,SCHUELER P,6 - 3,118,GER,1:58
+Time-Out,,1,3,6,GER,2.0,,6 - 3,118,KAZ,1:58
+20 sec. exclusion in centre,5.0,1,3,6,GER,2.0,ROHE T,6 - 3,92,GER,1:32
+Extra player shot - Saved,9.0,1,3,6,GER,2.0,UKUMANOV R,6 - 3,73,KAZ,1:13
+Turnover foul,12.0,1,3,6,GER,2.0,EIDNER D,6 - 3,55,GER,0:55
+Steal,7.0,1,3,6,GER,2.0,USHAKOV V,6 - 3,55,KAZ,0:55
+Turnover foul,12.0,1,3,6,GER,2.0,PEKOVICH B,6 - 3,29,KAZ,0:29
+5m shot - Saved,7.0,1,3,6,GER,2.0,NOSSEK H,6 - 3,13,GER,0:13
+Starting goalkeeper,13.0,1,3,6,GER,3.0,SCHENKEL M,6 - 3,480,GER,8:00
+Starting goalkeeper,1.0,1,3,6,GER,3.0,MAXIMOV N,6 - 3,480,KAZ,8:00
+Sprint won possession,3.0,1,3,6,GER,3.0,MIERS E,6 - 3,480,GER,8:00
+5m shot - Missed,2.0,1,3,6,GER,3.0,BUKOWSKI E,6 - 3,450,GER,7:30
+20 sec. exclusion in centre,7.0,1,3,6,GER,3.0,NOSSEK H,6 - 3,431,GER,7:11
+Extra player shot - Goal,2.0,1,4,6,GER,3.0,GUBAREV S,6 - 4,414,KAZ,6:54
+Turnover foul,10.0,1,4,6,GER,3.0,OELER M,6 - 4,385,GER,6:25
+Steal,2.0,1,4,6,GER,3.0,GUBAREV S,6 - 4,385,KAZ,6:25
+Turnover foul,7.0,1,4,6,GER,3.0,USHAKOV V,6 - 4,358,KAZ,5:58
+Steal,4.0,1,4,6,GER,3.0,REAL J,6 - 4,358,GER,5:58
+Turnover foul,11.0,1,4,6,GER,3.0,SCHLOTTERBECK A,6 - 4,338,GER,5:38
+Turnover foul,10.0,1,4,6,GER,3.0,RUDAY M,6 - 4,307,KAZ,5:07
+Steal,4.0,1,4,6,GER,3.0,REAL J,6 - 4,307,GER,5:07
+5m shot - Saved,4.0,1,4,6,GER,3.0,REAL J,6 - 4,292,GER,4:52
+5m shot - Goal,10.0,1,4,7,GER,3.0,OELER M,7 - 4,244,GER,4:04
+20 sec. exclusion in field,5.0,1,4,7,GER,3.0,ROHE T,7 - 4,224,GER,3:44
+Action shot - Saved,5.0,1,4,7,GER,3.0,SHAKENOV M,7 - 4,203,KAZ,3:23
+Action shot - Blocked,6.0,1,4,7,GER,3.0,JUENGLING M,7 - 4,177,GER,2:57
+Turnover foul,12.0,1,4,7,GER,3.0,PEKOVICH B,7 - 4,156,KAZ,2:36
+Steal,10.0,1,4,7,GER,3.0,OELER M,7 - 4,156,GER,2:36
+5m shot - Post,2.0,1,4,7,GER,3.0,BUKOWSKI E,7 - 4,134,GER,2:14
+5m shot - Blocked,3.0,1,4,7,GER,3.0,MEDVEDEV Y,7 - 4,104,KAZ,1:44
+5m shot - Blocked,12.0,1,4,7,GER,3.0,EIDNER D,7 - 4,86,GER,1:26
+5m shot - Saved,7.0,1,4,7,GER,3.0,USHAKOV V,7 - 4,47,KAZ,0:47
+Penalty foul,6.0,1,4,7,GER,3.0,SHMIDER A,7 - 4,36,KAZ,0:36
+Exclusion with substitution,6.0,1,4,7,GER,3.0,SHMIDER A,7 - 4,36,KAZ,0:36
+Penalty shot - Goal,7.0,1,4,8,GER,3.0,NOSSEK H,8 - 4,36,GER,0:36
+Turnover foul,7.0,1,4,8,GER,3.0,USHAKOV V,8 - 4,22,KAZ,0:22
+Centre shot - Goal,9.0,1,4,9,GER,3.0,STAMM M,9 - 4,8,GER,0:08
+5m shot - Saved,7.0,1,4,9,GER,3.0,USHAKOV V,9 - 4,2,KAZ,0:02
+Starting goalkeeper,13.0,1,4,9,GER,4.0,SCHENKEL M,9 - 4,480,GER,8:00
+Starting goalkeeper,1.0,1,4,9,GER,4.0,MAXIMOV N,9 - 4,480,KAZ,8:00
+Sprint won possession,3.0,1,4,9,GER,4.0,MIERS E,9 - 4,480,GER,8:00
+Turnover foul,8.0,1,4,9,GER,4.0,SCHUELER P,9 - 4,459,GER,7:39
+Steal,3.0,1,4,9,GER,4.0,MEDVEDEV Y,9 - 4,459,KAZ,7:39
+Turnover foul,2.0,1,4,9,GER,4.0,GUBAREV S,9 - 4,443,KAZ,7:23
+Steal,8.0,1,4,9,GER,4.0,SCHUELER P,9 - 4,443,GER,7:23
+Turnover foul,4.0,1,4,9,GER,4.0,REAL J,9 - 4,419,GER,6:59
+Steal,9.0,1,4,9,GER,4.0,UKUMANOV R,9 - 4,419,KAZ,6:59
+5m shot - Post,9.0,1,4,9,GER,4.0,UKUMANOV R,9 - 4,393,KAZ,6:33
+Centre shot - Saved,11.0,1,4,9,GER,4.0,SCHLOTTERBECK A,9 - 4,365,GER,6:05
+Turnover foul,3.0,1,4,9,GER,4.0,MEDVEDEV Y,9 - 4,338,KAZ,5:38
+Steal,7.0,1,4,9,GER,4.0,NOSSEK H,9 - 4,338,GER,5:38
+Turnover foul,11.0,1,4,9,GER,4.0,SCHLOTTERBECK A,9 - 4,316,GER,5:16
+Turnover foul,9.0,1,4,9,GER,4.0,UKUMANOV R,9 - 4,297,KAZ,4:57
+Time-Out,,1,4,9,GER,4.0,,9 - 4,295,GER,4:55
+5m shot - Saved,10.0,1,4,9,GER,4.0,OELER M,9 - 4,269,GER,4:29
+5m shot - Goal,7.0,1,5,9,GER,4.0,USHAKOV V,9 - 5,240,KAZ,4:00
+20 sec. exclusion in field,9.0,1,5,9,GER,4.0,UKUMANOV R,9 - 5,222,KAZ,3:42
+5m shot - Saved,7.0,1,5,9,GER,4.0,NOSSEK H,9 - 5,192,GER,3:12
+Counter attack - Goal,2.0,1,6,9,GER,4.0,GUBAREV S,9 - 6,178,KAZ,2:58
+Turnover foul,12.0,1,6,9,GER,4.0,EIDNER D,9 - 6,161,GER,2:41
+Counter attack - Goal,4.0,1,7,9,GER,4.0,PILIPENKO R,9 - 7,148,KAZ,2:28
+5m shot - Saved,10.0,1,7,9,GER,4.0,OELER M,9 - 7,119,GER,1:59
+Counter attack - Goal,9.0,1,8,9,GER,4.0,UKUMANOV R,9 - 8,109,KAZ,1:49
+20 sec. exclusion in centre,4.0,1,8,9,GER,4.0,PILIPENKO R,9 - 8,82,KAZ,1:22
+Extra player shot - Saved,7.0,1,8,9,GER,4.0,NOSSEK H,9 - 8,71,GER,1:11
+Action shot - Saved,9.0,1,8,9,GER,4.0,STAMM M,9 - 8,58,GER,0:58
+Turnover foul,11.0,1,8,9,GER,4.0,SCHLOTTERBECK A,9 - 8,32,GER,0:32
+Steal,2.0,1,8,9,GER,4.0,GUBAREV S,9 - 8,32,KAZ,0:32
+Time-Out,,1,8,9,GER,4.0,,9 - 8,32,KAZ,0:32
+5m shot - Blocked,2.0,1,8,9,GER,4.0,GUBAREV S,9 - 8,7,KAZ,0:07
+Starting goalkeeper,1.0,2,0,0,ROU,1.0,MAXIMOV N,0 - 0,480,KAZ,8:00
+Starting goalkeeper,1.0,2,0,0,ROU,1.0,STOENESCU D,0 - 0,480,ROU,8:00
+Sprint won possession,7.0,2,0,0,ROU,1.0,MATEI A,0 - 0,480,ROU,8:00
+Turnover foul,8.0,2,0,0,ROU,1.0,CHIOVEANU M,0 - 0,456,ROU,7:36
+Steal,9.0,2,0,0,ROU,1.0,UKUMANOV R,0 - 0,456,KAZ,7:36
+20 sec. exclusion in centre,6.0,2,0,0,ROU,1.0,BUSILA A,0 - 0,435,ROU,7:15
+Extra player shot - Post,9.0,2,0,0,ROU,1.0,UKUMANOV R,0 - 0,418,KAZ,6:58
+Turnover foul,12.0,2,0,0,ROU,1.0,CRETU A,0 - 0,391,ROU,6:31
+Steal,1.0,2,0,0,ROU,1.0,MAXIMOV N,0 - 0,391,KAZ,6:31
+20 sec. exclusion in field,12.0,2,0,0,ROU,1.0,CRETU A,0 - 0,379,ROU,6:19
+Action shot - Blocked,9.0,2,0,0,ROU,1.0,UKUMANOV R,0 - 0,355,KAZ,5:55
+20 sec. exclusion in field,6.0,2,0,0,ROU,1.0,SHMIDER A,0 - 0,334,KAZ,5:34
+Extra player shot - Blocked,3.0,2,0,0,ROU,1.0,NEGREAN T,0 - 0,320,ROU,5:20
+Turnover foul,4.0,2,0,0,ROU,1.0,DIACONU N,0 - 0,266,ROU,4:26
+Steal,7.0,2,0,0,ROU,1.0,USHAKOV V,0 - 0,266,KAZ,4:26
+20 sec. exclusion in centre,9.0,2,0,0,ROU,1.0,GOANTA D,0 - 0,247,ROU,4:07
+Extra player shot - Goal,6.0,2,1,0,ROU,1.0,SHMIDER A,1 - 0,230,KAZ,3:50
+20 sec. exclusion in field,4.0,2,1,0,ROU,1.0,PILIPENKO R,1 - 0,204,KAZ,3:24
+Extra player shot - Post,10.0,2,1,0,ROU,1.0,GEORGESCU R,1 - 0,184,ROU,3:04
+Turnover foul,2.0,2,1,0,ROU,1.0,GUBAREV S,1 - 0,168,KAZ,2:48
+Steal,1.0,2,1,0,ROU,1.0,STOENESCU D,1 - 0,168,ROU,2:48
+5m shot - Saved,7.0,2,1,0,ROU,1.0,MATEI A,1 - 0,141,ROU,2:21
+20 sec. exclusion in centre,7.0,2,1,0,ROU,1.0,MATEI A,1 - 0,120,ROU,2:00
+Turnover foul,12.0,2,1,0,ROU,1.0,PEKOVICH B,1 - 0,112,KAZ,1:52
+Centre shot - Missed,2.0,2,1,0,ROU,1.0,IANC P,1 - 0,90,ROU,1:30
+5m shot - Blocked,7.0,2,1,0,ROU,1.0,USHAKOV V,1 - 0,65,KAZ,1:05
+5m shot - Blocked,10.0,2,1,0,ROU,1.0,GEORGESCU R,1 - 0,38,ROU,0:38
+20 sec. exclusion in field,7.0,2,1,0,ROU,1.0,USHAKOV V,1 - 0,29,KAZ,0:29
+Extra player shot - Saved,9.0,2,1,0,ROU,1.0,GOANTA D,1 - 0,9,ROU,0:09
+Starting goalkeeper,1.0,2,1,0,ROU,2.0,MAXIMOV N,1 - 0,480,KAZ,8:00
+Starting goalkeeper,1.0,2,1,0,ROU,2.0,STOENESCU D,1 - 0,480,ROU,8:00
+Sprint won possession,5.0,2,1,0,ROU,2.0,SHAKENOV M,1 - 0,480,KAZ,8:00
+20 sec. exclusion in field,4.0,2,1,0,ROU,2.0,PILIPENKO R,1 - 0,427,KAZ,7:07
+Extra player shot - Post,5.0,2,1,0,ROU,2.0,TEOHARI D,1 - 0,407,ROU,6:47
+20 sec. exclusion in centre,6.0,2,1,0,ROU,2.0,BUSILA A,1 - 0,382,ROU,6:22
+Action shot - Goal,6.0,2,2,0,ROU,2.0,SHMIDER A,2 - 0,359,KAZ,5:59
+Turnover foul,8.0,2,2,0,ROU,2.0,CHIOVEANU M,2 - 0,344,ROU,5:44
+5m shot - Missed,9.0,2,2,0,ROU,2.0,UKUMANOV R,2 - 0,317,KAZ,5:17
+5m shot - Blocked,12.0,2,2,0,ROU,2.0,CRETU A,2 - 0,289,ROU,4:49
+Turnover foul,10.0,2,2,0,ROU,2.0,RUDAY M,2 - 0,262,KAZ,4:22
+Steal,12.0,2,2,0,ROU,2.0,CRETU A,2 - 0,262,ROU,4:22
+5m shot - Goal,12.0,2,2,1,ROU,2.0,CRETU A,2 - 1,233,ROU,3:53
+20 sec. exclusion in centre,12.0,2,2,1,ROU,2.0,CRETU A,2 - 1,212,ROU,3:32
+Extra player shot - Blocked,2.0,2,2,1,ROU,2.0,GUBAREV S,2 - 1,193,KAZ,3:13
+Action shot - Goal,3.0,2,3,1,ROU,2.0,MEDVEDEV Y,3 - 1,190,KAZ,3:10
+20 sec. exclusion in field,3.0,2,3,1,ROU,2.0,MEDVEDEV Y,3 - 1,173,KAZ,2:53
+Extra player shot - Goal,2.0,2,3,2,ROU,2.0,IANC P,3 - 2,156,ROU,2:36
+20 sec. exclusion in field,8.0,2,3,2,ROU,2.0,CHIOVEANU M,3 - 2,130,ROU,2:10
+Action shot - Blocked,7.0,2,3,2,ROU,2.0,USHAKOV V,3 - 2,106,KAZ,1:46
+Action shot - Saved,3.0,2,3,2,ROU,2.0,NEGREAN T,3 - 2,86,ROU,1:26
+5m shot - Blocked,5.0,2,3,2,ROU,2.0,TEOHARI D,3 - 2,59,ROU,0:59
+20 sec. exclusion in centre,11.0,2,3,2,ROU,2.0,GHIBAN A,3 - 2,40,ROU,0:40
+5m shot - Saved,3.0,2,3,2,ROU,2.0,NEGREAN T,3 - 2,1,ROU,0:01
+Starting goalkeeper,1.0,2,3,2,ROU,3.0,MAXIMOV N,3 - 2,480,KAZ,8:00
+Starting goalkeeper,1.0,2,3,2,ROU,3.0,STOENESCU D,3 - 2,480,ROU,8:00
+Sprint won possession,3.0,2,3,2,ROU,3.0,MEDVEDEV Y,3 - 2,480,KAZ,8:00
+Turnover foul,7.0,2,3,2,ROU,3.0,USHAKOV V,3 - 2,455,KAZ,7:35
+Steal,4.0,2,3,2,ROU,3.0,DIACONU N,3 - 2,455,ROU,7:35
+20 sec. exclusion in centre,6.0,2,3,2,ROU,3.0,SHMIDER A,3 - 2,432,KAZ,7:12
+Extra player shot - Goal,3.0,2,3,3,ROU,3.0,NEGREAN T,3 - 3,413,ROU,6:53
+5m shot - Goal,3.0,2,4,3,ROU,3.0,MEDVEDEV Y,4 - 3,390,KAZ,6:30
+Turnover foul,8.0,2,4,3,ROU,3.0,CHIOVEANU M,4 - 3,371,ROU,6:11
+Action shot - Saved,9.0,2,4,3,ROU,3.0,UKUMANOV R,4 - 3,347,KAZ,5:47
+Turnover foul,4.0,2,4,3,ROU,3.0,DIACONU N,4 - 3,320,ROU,5:20
+Steal,8.0,2,4,3,ROU,3.0,KOLIADENKO A,4 - 3,320,KAZ,5:20
+Action shot - Goal,8.0,2,5,3,ROU,3.0,KOLIADENKO A,5 - 3,292,KAZ,4:52
+Turnover foul,2.0,2,5,3,ROU,3.0,IANC P,5 - 3,269,ROU,4:29
+Steal,9.0,2,5,3,ROU,3.0,UKUMANOV R,5 - 3,269,KAZ,4:29
+5m shot - Saved,2.0,2,5,3,ROU,3.0,GUBAREV S,5 - 3,241,KAZ,4:01
+20 sec. exclusion in field,4.0,2,5,3,ROU,3.0,PILIPENKO R,5 - 3,226,KAZ,3:46
+Exclusion with substitution,4.0,2,5,3,ROU,3.0,PILIPENKO R,5 - 3,226,KAZ,3:46
+Time-Out,,2,5,3,ROU,3.0,,5 - 3,226,ROU,3:46
+Turnover foul,8.0,2,5,3,ROU,3.0,CHIOVEANU M,5 - 3,205,ROU,3:25
+Steal,9.0,2,5,3,ROU,3.0,UKUMANOV R,5 - 3,205,KAZ,3:25
+5m shot - Saved,2.0,2,5,3,ROU,3.0,GUBAREV S,5 - 3,175,KAZ,2:55
+20 sec. exclusion in centre,9.0,2,5,3,ROU,3.0,GOANTA D,5 - 3,153,ROU,2:33
+Centre shot - Goal,12.0,2,6,3,ROU,3.0,PEKOVICH B,6 - 3,130,KAZ,2:10
+Turnover foul,8.0,2,6,3,ROU,3.0,CHIOVEANU M,6 - 3,113,ROU,1:53
+Steal,5.0,2,6,3,ROU,3.0,SHAKENOV M,6 - 3,113,KAZ,1:53
+5m shot - Saved,7.0,2,6,3,ROU,3.0,USHAKOV V,6 - 3,86,KAZ,1:26
+5m shot - Blocked,11.0,2,6,3,ROU,3.0,GHIBAN A,6 - 3,62,ROU,1:02
+20 sec. exclusion in centre,9.0,2,6,3,ROU,3.0,UKUMANOV R,6 - 3,62,KAZ,1:02
+Extra player shot - Blocked,3.0,2,6,3,ROU,3.0,NEGREAN T,6 - 3,46,ROU,0:46
+20 sec. exclusion in field,12.0,2,6,3,ROU,3.0,CRETU A,6 - 3,32,ROU,0:32
+Exclusion with substitution,12.0,2,6,3,ROU,3.0,CRETU A,6 - 3,32,ROU,0:32
+Action shot - Goal,5.0,2,7,3,ROU,3.0,SHAKENOV M,7 - 3,6,KAZ,0:06
+5m shot - Blocked,4.0,2,7,3,ROU,3.0,DIACONU N,7 - 3,1,ROU,0:01
+Starting goalkeeper,1.0,2,7,3,ROU,4.0,MAXIMOV N,7 - 3,480,KAZ,8:00
+Starting goalkeeper,1.0,2,7,3,ROU,4.0,STOENESCU D,7 - 3,480,ROU,8:00
+Sprint won possession,7.0,2,7,3,ROU,4.0,MATEI A,7 - 3,480,ROU,8:00
+5m shot - Saved,11.0,2,7,3,ROU,4.0,GHIBAN A,7 - 3,454,ROU,7:34
+20 sec. exclusion in field,2.0,2,7,3,ROU,4.0,IANC P,7 - 3,449,ROU,7:29
+Time-Out,,2,7,3,ROU,4.0,,7 - 3,449,KAZ,7:29
+Turnover foul,9.0,2,7,3,ROU,4.0,UKUMANOV R,7 - 3,425,KAZ,7:05
+Turnover foul,7.0,2,7,3,ROU,4.0,MATEI A,7 - 3,397,ROU,6:37
+Steal,12.0,2,7,3,ROU,4.0,PEKOVICH B,7 - 3,397,KAZ,6:37
+Centre shot - Saved,12.0,2,7,3,ROU,4.0,PEKOVICH B,7 - 3,367,KAZ,6:07
+20 sec. exclusion in field,5.0,2,7,3,ROU,4.0,SHAKENOV M,7 - 3,342,KAZ,5:42
+Action shot - Blocked,11.0,2,7,3,ROU,4.0,GHIBAN A,7 - 3,313,ROU,5:13
+Turnover foul,7.0,2,7,3,ROU,4.0,USHAKOV V,7 - 3,286,KAZ,4:46
+Steal,4.0,2,7,3,ROU,4.0,DIACONU N,7 - 3,286,ROU,4:46
+20 sec. exclusion in centre,12.0,2,7,3,ROU,4.0,PEKOVICH B,7 - 3,267,KAZ,4:27
+Extra player shot - Saved,7.0,2,7,3,ROU,4.0,MATEI A,7 - 3,251,ROU,4:11
+Action shot - Saved,3.0,2,7,3,ROU,4.0,NEGREAN T,7 - 3,242,ROU,4:02
+Turnover foul,2.0,2,7,3,ROU,4.0,IANC P,7 - 3,224,ROU,3:44
+Steal,6.0,2,7,3,ROU,4.0,SHMIDER A,7 - 3,224,KAZ,3:44
+5m shot - Saved,9.0,2,7,3,ROU,4.0,UKUMANOV R,7 - 3,198,KAZ,3:18
+Turnover foul,4.0,2,7,3,ROU,4.0,DIACONU N,7 - 3,181,ROU,3:01
+Steal,7.0,2,7,3,ROU,4.0,USHAKOV V,7 - 3,181,KAZ,3:01
+20 sec. exclusion in centre,8.0,2,7,3,ROU,4.0,KOLIADENKO A,7 - 3,140,KAZ,2:20
+Time-Out,,2,7,3,ROU,4.0,,7 - 3,140,ROU,2:20
+Turnover foul,8.0,2,7,3,ROU,4.0,CHIOVEANU M,7 - 3,132,ROU,2:12
+5m shot - Missed,7.0,2,7,3,ROU,4.0,USHAKOV V,7 - 3,102,KAZ,1:42
+20 sec. exclusion in field,9.0,2,7,3,ROU,4.0,UKUMANOV R,7 - 3,85,KAZ,1:25
+20 sec. exclusion in centre,6.0,2,7,3,ROU,4.0,SHMIDER A,7 - 3,69,KAZ,1:09
+Turnover foul,5.0,2,7,3,ROU,4.0,TEOHARI D,7 - 3,57,ROU,0:57
+Steal,3.0,2,7,3,ROU,4.0,MEDVEDEV Y,7 - 3,57,KAZ,0:57
+5m shot - Saved,5.0,2,7,3,ROU,4.0,SHAKENOV M,7 - 3,32,KAZ,0:32
+Action shot - Goal,7.0,2,7,4,ROU,4.0,MATEI A,7 - 4,10,ROU,0:10
+Starting goalkeeper,1.0,3,0,0,ITA,1.0,MAXIMOV N,0 - 0,480,KAZ,8:00
+Starting goalkeeper,1.0,3,0,0,ITA,1.0,TEMPESTI S,0 - 0,480,ITA,8:00
+Sprint won possession,10.0,3,0,0,ITA,1.0,FIORENTINI D,0 - 0,480,ITA,8:00
+Centre shot - Saved,11.0,3,0,0,ITA,1.0,AICARDI M,0 - 0,463,ITA,7:43
+5m shot - Post,6.0,3,0,0,ITA,1.0,FELUGO M,0 - 0,435,ITA,7:15
+Turnover foul,2.0,3,0,0,ITA,1.0,GUBAREV S,0 - 0,404,KAZ,6:44
+Steal,10.0,3,0,0,ITA,1.0,FIORENTINI D,0 - 0,404,ITA,6:44
+Turnover foul,11.0,3,0,0,ITA,1.0,AICARDI M,0 - 0,382,ITA,6:22
+Steal,6.0,3,0,0,ITA,1.0,SHMIDER A,0 - 0,382,KAZ,6:22
+Turnover foul,2.0,3,0,0,ITA,1.0,GUBAREV S,0 - 0,359,KAZ,5:59
+Steal,8.0,3,0,0,ITA,1.0,GALLO V,0 - 0,359,ITA,5:59
+20 sec. exclusion in centre,6.0,3,0,0,ITA,1.0,SHMIDER A,0 - 0,338,KAZ,5:38
+Extra player shot - Goal,11.0,3,0,1,ITA,1.0,AICARDI M,1 - 0,325,ITA,5:25
+Turnover foul,12.0,3,0,1,ITA,1.0,PEKOVICH B,1 - 0,312,KAZ,5:12
+Action shot - Goal,4.0,3,0,2,ITA,1.0,FIGLIOLI P,2 - 0,302,ITA,5:02
+20 sec. exclusion in centre,7.0,3,0,2,ITA,1.0,FIGARI N,2 - 0,290,ITA,4:50
+Extra player shot - Saved,12.0,3,0,2,ITA,1.0,PEKOVICH B,2 - 0,275,KAZ,4:35
+Turnover foul,12.0,3,0,2,ITA,1.0,NAPOLITANO C,2 - 0,248,ITA,4:08
+Turnover foul,2.0,3,0,2,ITA,1.0,GUBAREV S,2 - 0,227,KAZ,3:47
+20 sec. exclusion in centre,12.0,3,0,2,ITA,1.0,PEKOVICH B,2 - 0,212,KAZ,3:32
+Extra player shot - Saved,12.0,3,0,2,ITA,1.0,NAPOLITANO C,2 - 0,196,ITA,3:16
+Turnover foul,11.0,3,0,2,ITA,1.0,MANAFOV R,2 - 0,170,KAZ,2:50
+Steal,9.0,3,0,2,ITA,1.0,PRESCIUTTI C,2 - 0,170,ITA,2:50
+20 sec. exclusion in centre,7.0,3,0,2,ITA,1.0,USHAKOV V,2 - 0,148,KAZ,2:28
+Extra player shot - Saved,12.0,3,0,2,ITA,1.0,NAPOLITANO C,2 - 0,131,ITA,2:11
+Centre shot - Saved,2.0,3,0,2,ITA,1.0,PEREZ A,2 - 0,126,ITA,2:06
+Turnover foul,11.0,3,0,2,ITA,1.0,MANAFOV R,2 - 0,96,KAZ,1:36
+Steal,9.0,3,0,2,ITA,1.0,PRESCIUTTI C,2 - 0,96,ITA,1:36
+Turnover foul,9.0,3,0,2,ITA,1.0,PRESCIUTTI C,2 - 0,66,ITA,1:06
+Steal,6.0,3,0,2,ITA,1.0,SHMIDER A,2 - 0,66,KAZ,1:06
+Action shot - Missed,4.0,3,0,2,ITA,1.0,PILIPENKO R,2 - 0,40,KAZ,0:40
+5m shot - Saved,5.0,3,0,2,ITA,1.0,GIORGETTI A,2 - 0,16,ITA,0:16
+Centre shot - Goal,11.0,3,0,3,ITA,1.0,AICARDI M,3 - 0,5,ITA,0:05
+20 sec. exclusion in field,9.0,3,0,3,ITA,1.0,PRESCIUTTI C,3 - 0,4,ITA,0:04
+Starting goalkeeper,1.0,3,0,3,ITA,2.0,TEMPESTI S,3 - 0,480,ITA,8:00
+Starting goalkeeper,1.0,3,0,3,ITA,2.0,MAXIMOV N,3 - 0,480,KAZ,8:00
+Sprint won possession,4.0,3,0,3,ITA,2.0,FIGLIOLI P,3 - 0,480,ITA,8:00
+Turnover foul,11.0,3,0,3,ITA,2.0,AICARDI M,3 - 0,456,ITA,7:36
+Steal,5.0,3,0,3,ITA,2.0,SHAKENOV M,3 - 0,456,KAZ,7:36
+Turnover foul,12.0,3,0,3,ITA,2.0,PEKOVICH B,3 - 0,435,KAZ,7:15
+5m shot - Goal,4.0,3,0,4,ITA,2.0,FIGLIOLI P,4 - 0,418,ITA,6:58
+20 sec. exclusion in centre,3.0,3,0,4,ITA,2.0,GITTO N,4 - 0,401,ITA,6:41
+Action shot - Goal,2.0,3,1,4,ITA,2.0,GUBAREV S,4 - 1,378,KAZ,6:18
+20 sec. exclusion in centre,4.0,3,1,4,ITA,2.0,PILIPENKO R,4 - 1,362,KAZ,6:02
+Extra player shot - Post,5.0,3,1,4,ITA,2.0,GIORGETTI A,4 - 1,345,ITA,5:45
+Turnover foul,12.0,3,1,4,ITA,2.0,PEKOVICH B,4 - 1,320,KAZ,5:20
+Steal,2.0,3,1,4,ITA,2.0,PEREZ A,4 - 1,320,ITA,5:20
+Action shot - Goal,5.0,3,1,5,ITA,2.0,GIORGETTI A,5 - 1,300,ITA,5:00
+5m shot - Goal,9.0,3,2,5,ITA,2.0,UKUMANOV R,5 - 2,272,KAZ,4:32
+5m shot - Post,6.0,3,2,5,ITA,2.0,FELUGO M,5 - 2,242,ITA,4:02
+Centre shot - Goal,9.0,3,2,6,ITA,2.0,PRESCIUTTI C,6 - 2,203,ITA,3:23
+20 sec. exclusion in centre,7.0,3,2,6,ITA,2.0,FIGARI N,6 - 2,180,ITA,3:00
+Extra player shot - Saved,4.0,3,2,6,ITA,2.0,PILIPENKO R,6 - 2,164,KAZ,2:44
+Centre shot - Saved,11.0,3,2,6,ITA,2.0,AICARDI M,6 - 2,134,ITA,2:14
+Turnover foul,5.0,3,2,6,ITA,2.0,SHAKENOV M,6 - 2,112,KAZ,1:52
+Steal,8.0,3,2,6,ITA,2.0,GALLO V,6 - 2,112,ITA,1:52
+Centre shot - Saved,11.0,3,2,6,ITA,2.0,AICARDI M,6 - 2,92,ITA,1:32
+Turnover foul,4.0,3,2,6,ITA,2.0,PILIPENKO R,6 - 2,71,KAZ,1:11
+Steal,1.0,3,2,6,ITA,2.0,TEMPESTI S,6 - 2,71,ITA,1:11
+Action shot - Saved,8.0,3,2,6,ITA,2.0,GALLO V,6 - 2,57,ITA,0:57
+Action shot - Saved,6.0,3,2,6,ITA,2.0,FELUGO M,6 - 2,33,ITA,0:33
+Turnover foul,5.0,3,2,6,ITA,2.0,SHAKENOV M,6 - 2,25,KAZ,0:25
+5m shot - Post,4.0,3,2,6,ITA,2.0,FIGLIOLI P,6 - 2,13,ITA,0:13
+Extra player shot - Saved,8.0,3,2,6,ITA,4.0,GALLO V,6 - 2,60,ITA,1:00
+Extra player shot - Goal,8.0,3,6,12,ITA,4.0,GALLO V,12 - 6,54,ITA,0:54
+Turnover foul,7.0,3,6,12,ITA,4.0,USHAKOV V,12 - 6,41,KAZ,0:41
+Steal,9.0,3,6,12,ITA,4.0,PRESCIUTTI C,12 - 6,41,ITA,0:41
+Starting goalkeeper,1.0,3,6,12,ITA,3.0,MAXIMOV N,12 - 6,480,KAZ,8:00
+Starting goalkeeper,1.0,3,6,12,ITA,3.0,TEMPESTI S,12 - 6,480,ITA,8:00
+Sprint won possession,5.0,3,6,12,ITA,3.0,GIORGETTI A,12 - 6,480,ITA,8:00
+Action shot - Missed,6.0,3,6,12,ITA,3.0,FELUGO M,12 - 6,453,ITA,7:33
+Turnover foul,12.0,3,6,12,ITA,3.0,PEKOVICH B,12 - 6,432,KAZ,7:12
+Steal,3.0,3,6,12,ITA,3.0,GITTO N,12 - 6,432,ITA,7:12
+Turnover foul,12.0,3,6,12,ITA,3.0,NAPOLITANO C,12 - 6,404,ITA,6:44
+Steal,1.0,3,6,12,ITA,3.0,MAXIMOV N,12 - 6,404,KAZ,6:44
+Action shot - Blocked,9.0,3,6,12,ITA,3.0,UKUMANOV R,12 - 6,379,KAZ,6:19
+20 sec. exclusion in centre,9.0,3,6,12,ITA,3.0,UKUMANOV R,12 - 6,362,KAZ,6:02
+Turnover foul,8.0,3,6,12,ITA,3.0,GALLO V,12 - 6,336,ITA,5:36
+Steal,2.0,3,6,12,ITA,3.0,GUBAREV S,12 - 6,336,KAZ,5:36
+5m shot - Blocked,3.0,3,6,12,ITA,3.0,MEDVEDEV Y,12 - 6,313,KAZ,5:13
+Turnover foul,5.0,3,6,12,ITA,3.0,GIORGETTI A,12 - 6,289,ITA,4:49
+Action shot - Blocked,7.0,3,6,12,ITA,3.0,USHAKOV V,12 - 6,268,KAZ,4:28
+20 sec. exclusion in field,9.0,3,6,12,ITA,3.0,PRESCIUTTI C,12 - 6,262,ITA,4:22
+Time-Out,,3,6,12,ITA,3.0,,12 - 6,262,KAZ,4:22
+Turnover foul,9.0,3,6,12,ITA,3.0,UKUMANOV R,12 - 6,239,KAZ,3:59
+Steal,5.0,3,6,12,ITA,3.0,GIORGETTI A,12 - 6,239,ITA,3:59
+20 sec. exclusion in centre,7.0,3,6,12,ITA,3.0,USHAKOV V,12 - 6,218,KAZ,3:38
+Extra player shot - Goal,4.0,3,2,7,ITA,3.0,FIGLIOLI P,7 - 2,206,ITA,3:26
+Action shot - Saved,5.0,3,2,7,ITA,3.0,SHAKENOV M,7 - 2,187,KAZ,3:07
+5m shot - Post,2.0,3,2,7,ITA,3.0,PEREZ A,7 - 2,165,ITA,2:45
+20 sec. exclusion in centre,5.0,3,2,7,ITA,3.0,SHAKENOV M,7 - 2,146,KAZ,2:26
+Extra player shot - Saved,4.0,3,2,7,ITA,3.0,FIGLIOLI P,7 - 2,142,ITA,2:22
+20 sec. exclusion in field,2.0,3,2,7,ITA,3.0,PEREZ A,7 - 2,128,ITA,2:08
+Extra player shot - Goal,4.0,3,3,7,ITA,3.0,PILIPENKO R,7 - 3,122,KAZ,2:02
+20 sec. exclusion in centre,4.0,3,3,7,ITA,3.0,PILIPENKO R,7 - 3,102,KAZ,1:42
+Extra player shot - Saved,5.0,3,3,7,ITA,3.0,GIORGETTI A,7 - 3,83,ITA,1:23
+Action shot - Goal,5.0,3,3,8,ITA,3.0,GIORGETTI A,8 - 3,80,ITA,1:20
+20 sec. exclusion in centre,3.0,3,3,8,ITA,3.0,GITTO N,8 - 3,54,ITA,0:54
+Turnover foul,7.0,3,3,8,ITA,3.0,USHAKOV V,8 - 3,49,KAZ,0:49
+Steal,9.0,3,3,8,ITA,3.0,PRESCIUTTI C,8 - 3,49,ITA,0:49
+5m shot - Saved,5.0,3,3,8,ITA,3.0,GIORGETTI A,8 - 3,20,ITA,0:20
+5m shot - Missed,12.0,3,3,8,ITA,3.0,PEKOVICH B,8 - 3,2,KAZ,0:02
+Starting goalkeeper,1.0,3,3,8,ITA,4.0,TEMPESTI S,8 - 3,480,ITA,8:00
+Starting goalkeeper,1.0,3,3,8,ITA,4.0,MAXIMOV N,8 - 3,480,KAZ,8:00
+Sprint won possession,10.0,3,3,8,ITA,4.0,FIORENTINI D,8 - 3,480,ITA,8:00
+Turnover foul,5.0,3,3,8,ITA,4.0,GIORGETTI A,8 - 3,453,ITA,7:33
+Steal,1.0,3,3,8,ITA,4.0,MAXIMOV N,8 - 3,453,KAZ,7:33
+20 sec. exclusion in centre,2.0,3,3,8,ITA,4.0,PEREZ A,8 - 3,427,ITA,7:07
+Extra player shot - Goal,12.0,3,4,8,ITA,4.0,PEKOVICH B,8 - 4,409,KAZ,6:49
+20 sec. exclusion in centre,8.0,3,4,8,ITA,4.0,KOLIADENKO A,8 - 4,381,KAZ,6:21
+Extra player shot - Goal,5.0,3,4,9,ITA,4.0,GIORGETTI A,9 - 4,367,ITA,6:07
+Turnover foul,11.0,3,4,9,ITA,4.0,MANAFOV R,9 - 4,353,KAZ,5:53
+Turnover foul,11.0,3,4,9,ITA,4.0,AICARDI M,9 - 4,336,ITA,5:36
+Turnover foul,11.0,3,4,9,ITA,4.0,MANAFOV R,9 - 4,320,KAZ,5:20
+5m shot - Goal,8.0,3,4,10,ITA,4.0,GALLO V,10 - 4,299,ITA,4:59
+Turnover foul,5.0,3,4,10,ITA,4.0,SHAKENOV M,10 - 4,280,KAZ,4:40
+Steal,11.0,3,4,10,ITA,4.0,AICARDI M,10 - 4,280,ITA,4:40
+5m shot - Goal,4.0,3,4,11,ITA,4.0,FIGLIOLI P,11 - 4,253,ITA,4:13
+20 sec. exclusion in field,7.0,3,4,11,ITA,4.0,FIGARI N,11 - 4,243,ITA,4:03
+Exclusion with substitution,7.0,3,4,11,ITA,4.0,FIGARI N,11 - 4,243,ITA,4:03
+Extra player shot - Goal,8.0,3,5,11,ITA,4.0,KOLIADENKO A,11 - 5,227,KAZ,3:47
+Goalkeeper substitution,13.0,3,5,11,ITA,4.0,DEL LUNGO M,11 - 5,227,ITA,3:47
+Turnover foul,12.0,3,5,11,ITA,4.0,NAPOLITANO C,11 - 5,201,ITA,3:21
+5m shot - Saved,9.0,3,5,11,ITA,4.0,UKUMANOV R,11 - 5,179,KAZ,2:59
+5m shot - Saved,8.0,3,5,11,ITA,4.0,GALLO V,11 - 5,150,ITA,2:30
+5m shot - Saved,7.0,3,5,11,ITA,4.0,USHAKOV V,11 - 5,124,KAZ,2:04
+20 sec. exclusion in centre,10.0,3,5,11,ITA,4.0,FIORENTINI D,11 - 5,121,ITA,2:01
+Action shot - Goal,8.0,3,6,11,ITA,4.0,KOLIADENKO A,11 - 6,98,KAZ,1:38
+20 sec. exclusion in centre,4.0,3,6,11,ITA,4.0,PILIPENKO R,11 - 6,74,KAZ,1:14
+Exclusion with substitution,4.0,3,6,11,ITA,4.0,PILIPENKO R,11 - 6,74,KAZ,1:14
+Turnover foul,12.0,3,6,11,ITA,4.0,NAPOLITANO C,11 - 6,11,ITA,0:11
+Steal,9.0,3,6,11,ITA,4.0,UKUMANOV R,11 - 6,11,KAZ,0:11
+5m shot - Saved,6.0,3,6,11,ITA,4.0,SHMIDER A,11 - 6,1,KAZ,0:01
+Starting goalkeeper,1.0,4,0,0,HUN,1.0,NAGY V,0 - 0,480,HUN,8:00
+Starting goalkeeper,1.0,4,0,0,HUN,1.0,MAXIMOV N,0 - 0,480,KAZ,8:00
+Sprint won possession,10.0,4,0,0,HUN,1.0,VARGA D,0 - 0,480,HUN,8:00
+5m shot - Goal,8.0,4,0,1,HUN,1.0,SZIVOS M,1 - 0,455,HUN,7:35
+Turnover foul,12.0,4,0,1,HUN,1.0,PEKOVICH B,1 - 0,444,KAZ,7:24
+Turnover foul,12.0,4,0,1,HUN,1.0,HARAI B,1 - 0,418,HUN,6:58
+Steal,9.0,4,0,1,HUN,1.0,UKUMANOV R,1 - 0,418,KAZ,6:58
+20 sec. exclusion in centre,2.0,4,0,1,HUN,1.0,GOR-NAGY M,1 - 0,401,HUN,6:41
+Action shot - Goal,2.0,4,1,1,HUN,1.0,GUBAREV S,1 - 1,379,KAZ,6:19
+20 sec. exclusion in centre,4.0,4,1,1,HUN,1.0,PILIPENKO R,1 - 1,352,KAZ,5:52
+Extra player shot - Goal,9.0,4,1,2,HUN,1.0,VARGA D,2 - 1,336,HUN,5:36
+5m shot - Goal,7.0,4,2,2,HUN,1.0,USHAKOV V,2 - 2,313,KAZ,5:13
+Turnover foul,11.0,4,2,2,HUN,1.0,BEDO K,2 - 2,287,HUN,4:47
+Turnover foul,12.0,4,2,2,HUN,1.0,PEKOVICH B,2 - 2,264,KAZ,4:24
+Turnover foul,5.0,4,2,2,HUN,1.0,VAMOS M,2 - 2,250,HUN,4:10
+Turnover foul,9.0,4,2,2,HUN,1.0,UKUMANOV R,2 - 2,229,KAZ,3:49
+Steal,6.0,4,2,2,HUN,1.0,HOSNYANSZKY N,2 - 2,229,HUN,3:49
+20 sec. exclusion in centre,6.0,4,2,2,HUN,1.0,SHMIDER A,2 - 2,210,KAZ,3:30
+Extra player shot - Missed,10.0,4,2,2,HUN,1.0,VARGA D,2 - 2,196,HUN,3:16
+Turnover foul,9.0,4,2,2,HUN,1.0,UKUMANOV R,2 - 2,177,KAZ,2:57
+Turnover foul,11.0,4,2,2,HUN,1.0,BEDO K,2 - 2,161,HUN,2:41
+20 sec. exclusion in centre,7.0,4,2,2,HUN,1.0,DECKER A,2 - 2,139,HUN,2:19
+Action shot - Goal,2.0,4,3,2,HUN,1.0,GUBAREV S,2 - 3,116,KAZ,1:56
+Turnover foul,3.0,4,3,2,HUN,1.0,MADARAS N,2 - 3,103,HUN,1:43
+Steal,5.0,4,3,2,HUN,1.0,SHAKENOV M,2 - 3,103,KAZ,1:43
+20 sec. exclusion in field,5.0,4,3,2,HUN,1.0,VAMOS M,2 - 3,79,HUN,1:19
+Extra player shot - Goal,7.0,4,4,2,HUN,1.0,USHAKOV V,2 - 4,62,KAZ,1:02
+Action shot - Blocked,2.0,4,4,2,HUN,1.0,GOR-NAGY M,2 - 4,35,HUN,0:35
+5m shot - Blocked,4.0,4,4,2,HUN,1.0,PILIPENKO R,2 - 4,5,KAZ,0:05
+5m shot - Saved,8.0,4,4,2,HUN,1.0,SZIVOS M,2 - 4,1,HUN,0:01
+Starting goalkeeper,1.0,4,4,2,HUN,2.0,MAXIMOV N,2 - 4,480,KAZ,8:00
+Starting goalkeeper,1.0,4,4,2,HUN,2.0,NAGY V,2 - 4,480,HUN,8:00
+Sprint won possession,10.0,4,4,2,HUN,2.0,VARGA D,2 - 4,480,HUN,8:00
+5m shot - Goal,9.0,4,4,3,HUN,2.0,VARGA D,3 - 4,456,HUN,7:36
+Turnover foul,7.0,4,4,3,HUN,2.0,USHAKOV V,3 - 4,428,KAZ,7:08
+Steal,3.0,4,4,3,HUN,2.0,MADARAS N,3 - 4,428,HUN,7:08
+20 sec. exclusion in centre,2.0,4,4,3,HUN,2.0,GUBAREV S,3 - 4,406,KAZ,6:46
+Extra player shot - Goal,12.0,4,4,4,HUN,2.0,HARAI B,4 - 4,401,HUN,6:41
+Turnover foul,12.0,4,4,4,HUN,2.0,PEKOVICH B,4 - 4,381,KAZ,6:21
+20 sec. exclusion in centre,8.0,4,4,4,HUN,2.0,KOLIADENKO A,4 - 4,361,KAZ,6:01
+Extra player shot - Goal,7.0,4,4,5,HUN,2.0,DECKER A,5 - 4,349,HUN,5:49
+20 sec. exclusion in centre,7.0,4,4,5,HUN,2.0,DECKER A,5 - 4,336,HUN,5:36
+Extra player shot - Saved,3.0,4,4,5,HUN,2.0,MEDVEDEV Y,5 - 4,321,KAZ,5:21
+Action shot - Saved,6.0,4,4,5,HUN,2.0,HOSNYANSZKY N,5 - 4,291,HUN,4:51
+20 sec. exclusion in field,7.0,4,4,5,HUN,2.0,DECKER A,5 - 4,280,HUN,4:40
+Exclusion with substitution,7.0,4,4,5,HUN,2.0,DECKER A,5 - 4,280,HUN,4:40
+Time-Out,,4,4,5,HUN,2.0,,5 - 4,280,KAZ,4:40
+Action shot - Goal,2.0,4,5,5,HUN,2.0,GUBAREV S,5 - 5,256,KAZ,4:16
+Action shot - Goal,6.0,4,5,6,HUN,2.0,HOSNYANSZKY N,6 - 5,240,HUN,4:00
+Turnover foul,7.0,4,5,6,HUN,2.0,USHAKOV V,6 - 5,218,KAZ,3:38
+Steal,10.0,4,5,6,HUN,2.0,VARGA D,6 - 5,218,HUN,3:38
+Action shot - Goal,2.0,4,5,7,HUN,2.0,GOR-NAGY M,7 - 5,201,HUN,3:21
+Turnover foul,9.0,4,5,7,HUN,2.0,UKUMANOV R,7 - 5,183,KAZ,3:03
+Steal,12.0,4,5,7,HUN,2.0,HARAI B,7 - 5,183,HUN,3:03
+Action shot - Saved,3.0,4,5,7,HUN,2.0,MADARAS N,7 - 5,165,HUN,2:45
+20 sec. exclusion in field,4.0,4,5,7,HUN,2.0,PILIPENKO R,7 - 5,119,KAZ,1:59
+Extra player shot - Goal,3.0,4,5,8,HUN,2.0,MADARAS N,8 - 5,107,HUN,1:47
+Turnover foul,10.0,4,5,8,HUN,2.0,RUDAY M,8 - 5,97,KAZ,1:37
+5m shot - Post,4.0,4,5,8,HUN,2.0,BATORI B,8 - 5,68,HUN,1:08
+20 sec. exclusion in centre,9.0,4,5,8,HUN,2.0,UKUMANOV R,8 - 5,17,KAZ,0:17
+Extra player shot - Goal,8.0,4,5,9,HUN,2.0,SZIVOS M,9 - 5,5,HUN,0:05
+5m shot - Saved,7.0,4,5,9,HUN,2.0,USHAKOV V,9 - 5,1,KAZ,0:01
+Starting goalkeeper,1.0,4,5,9,HUN,3.0,NAGY V,9 - 5,480,HUN,8:00
+Starting goalkeeper,1.0,4,5,9,HUN,3.0,MAXIMOV N,9 - 5,480,KAZ,8:00
+Sprint won possession,5.0,4,5,9,HUN,3.0,VAMOS M,9 - 5,480,HUN,8:00
+Action shot - Post,5.0,4,5,9,HUN,3.0,VAMOS M,9 - 5,455,HUN,7:35
+Action shot - Saved,8.0,4,5,9,HUN,3.0,KOLIADENKO A,9 - 5,433,KAZ,7:13
+20 sec. exclusion in field,9.0,4,5,9,HUN,3.0,UKUMANOV R,9 - 5,406,KAZ,6:46
+Extra player shot - Goal,10.0,4,5,10,HUN,3.0,VARGA D,10 - 5,401,HUN,6:41
+5m shot - Missed,7.0,4,5,10,HUN,3.0,USHAKOV V,10 - 5,373,KAZ,6:13
+Action shot - Goal,3.0,4,5,11,HUN,3.0,MADARAS N,11 - 5,353,HUN,5:53
+Action shot - Goal,5.0,4,5,12,HUN,3.0,VAMOS M,12 - 5,307,HUN,5:07
+Time-Out,,4,5,12,HUN,3.0,,12 - 5,307,KAZ,5:07
+Action shot - Saved,6.0,4,5,12,HUN,3.0,SHMIDER A,12 - 5,281,KAZ,4:41
+Turnover foul,11.0,4,5,12,HUN,3.0,MANAFOV R,12 - 5,268,KAZ,4:28
+Action shot - Post,9.0,4,5,12,HUN,3.0,VARGA D,12 - 5,247,HUN,4:07
+Action shot - Saved,9.0,4,5,12,HUN,3.0,UKUMANOV R,12 - 5,222,KAZ,3:42
+20 sec. exclusion in centre,7.0,4,5,12,HUN,3.0,USHAKOV V,12 - 5,198,KAZ,3:18
+Extra player shot - Goal,11.0,4,5,13,HUN,3.0,BEDO K,13 - 5,182,HUN,3:02
+20 sec. exclusion in centre,9.0,4,5,13,HUN,3.0,VARGA D,13 - 5,159,HUN,2:39
+Extra player shot - Saved,8.0,4,5,13,HUN,3.0,KOLIADENKO A,13 - 5,141,KAZ,2:21
+Action shot - Goal,3.0,4,6,13,HUN,3.0,MEDVEDEV Y,13 - 6,135,KAZ,2:15
+20 sec. exclusion in field,4.0,4,6,13,HUN,3.0,PILIPENKO R,13 - 6,116,KAZ,1:56
+Exclusion with substitution,4.0,4,6,13,HUN,3.0,PILIPENKO R,13 - 6,116,KAZ,1:56
+Extra player shot - Saved,12.0,4,6,13,HUN,3.0,HARAI B,13 - 6,102,HUN,1:42
+20 sec. exclusion in centre,8.0,4,6,13,HUN,3.0,KOLIADENKO A,13 - 6,56,KAZ,0:56
+Extra player shot - Goal,6.0,4,6,14,HUN,3.0,HOSNYANSZKY N,14 - 6,51,HUN,0:51
+5m shot - Saved,2.0,4,6,14,HUN,3.0,GUBAREV S,14 - 6,21,KAZ,0:21
+Action shot - Goal,4.0,4,6,15,HUN,3.0,BATORI B,15 - 6,1,HUN,0:01
+5m shot - Saved,7.0,4,6,15,HUN,3.0,USHAKOV V,15 - 6,1,KAZ,0:01
+Starting goalkeeper,1.0,4,6,15,HUN,4.0,NAGY V,15 - 6,480,HUN,8:00
+Starting goalkeeper,1.0,4,6,15,HUN,4.0,MAXIMOV N,15 - 6,480,KAZ,8:00
+Sprint won possession,4.0,4,6,15,HUN,4.0,BATORI B,15 - 6,480,HUN,8:00
+20 sec. exclusion in centre,8.0,4,6,15,HUN,4.0,KOLIADENKO A,15 - 6,455,KAZ,7:35
+Exclusion with substitution,8.0,4,6,15,HUN,4.0,KOLIADENKO A,15 - 6,455,KAZ,7:35
+Action shot - Goal,4.0,4,6,16,HUN,4.0,BATORI B,16 - 6,431,HUN,7:11
+Centre shot - Missed,11.0,4,6,16,HUN,4.0,BEDO K,16 - 6,378,HUN,6:18
+20 sec. exclusion in centre,2.0,4,6,16,HUN,4.0,GOR-NAGY M,16 - 6,356,HUN,5:56
+Centre shot - Missed,5.0,4,6,16,HUN,4.0,SHAKENOV M,16 - 6,331,KAZ,5:31
+Action shot - Saved,10.0,4,6,16,HUN,4.0,VARGA D,16 - 6,314,HUN,5:14
+20 sec. exclusion in centre,11.0,4,6,16,HUN,4.0,MANAFOV R,16 - 6,298,KAZ,4:58
+Action shot - Blocked,9.0,4,6,16,HUN,4.0,VARGA D,16 - 6,266,HUN,4:26
+Turnover foul,2.0,4,6,16,HUN,4.0,GUBAREV S,16 - 6,247,KAZ,4:07
+Steal,11.0,4,6,16,HUN,4.0,BEDO K,16 - 6,247,HUN,4:07
+Counter attack - Saved,3.0,4,6,16,HUN,4.0,MADARAS N,16 - 6,232,HUN,3:52
+Turnover foul,3.0,4,6,16,HUN,4.0,MADARAS N,16 - 6,229,HUN,3:49
+5m shot - Saved,5.0,4,6,16,HUN,4.0,SHAKENOV M,16 - 6,199,KAZ,3:19
+Action shot - Blocked,3.0,4,6,16,HUN,4.0,MADARAS N,16 - 6,169,HUN,2:49
+Turnover foul,12.0,4,6,16,HUN,4.0,PEKOVICH B,16 - 6,143,KAZ,2:23
+Steal,4.0,4,6,16,HUN,4.0,BATORI B,16 - 6,143,HUN,2:23
+Time-Out,,4,6,16,HUN,4.0,,16 - 6,137,HUN,2:17
+Turnover foul,4.0,4,6,16,HUN,4.0,BATORI B,16 - 6,118,HUN,1:58
+Turnover foul,12.0,4,6,16,HUN,4.0,HARAI B,16 - 6,66,HUN,1:06
+20 sec. exclusion in centre,6.0,4,6,16,HUN,4.0,HOSNYANSZKY N,16 - 6,53,HUN,0:53
+Extra player shot - Goal,12.0,4,7,16,HUN,4.0,PEKOVICH B,16 - 7,38,KAZ,0:38
+5m shot - Post,8.0,4,7,16,HUN,4.0,SZIVOS M,16 - 7,10,HUN,0:10
+Turnover foul,5.0,4,7,16,HUN,4.0,SHAKENOV M,16 - 7,3,KAZ,0:03
+Steal,1.0,4,7,16,HUN,4.0,NAGY V,16 - 7,3,HUN,0:03

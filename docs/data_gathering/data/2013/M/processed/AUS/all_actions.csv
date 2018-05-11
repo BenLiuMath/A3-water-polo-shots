@@ -1,0 +1,873 @@
+AUS,Action,Cap,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+0,Starting goalkeeper,13.0,1,0,SRB,1.0,CLARK J,0 - 0,480,AUS,8:00
+0,Starting goalkeeper,1.0,1,0,SRB,1.0,MITROVIC B,0 - 0,480,SRB,8:00
+0,Sprint won possession,11.0,1,0,SRB,1.0,HOWDEN R,0 - 0,480,AUS,8:00
+0,Turnover foul,11.0,1,0,SRB,1.0,HOWDEN R,0 - 0,452,AUS,7:32
+0,Steal,11.0,1,0,SRB,1.0,PRLAINOVIC A,0 - 0,452,SRB,7:32
+0,Action shot - Blocked,4.0,1,0,SRB,1.0,UDOVICIC V,0 - 0,423,SRB,7:03
+0,Action shot - Post,5.0,1,0,SRB,1.0,POWER N,0 - 0,399,AUS,6:39
+0,Turnover foul,6.0,1,0,SRB,1.0,PIJETLOVIC D,0 - 0,373,SRB,6:13
+0,Counter attack - Goal,4.0,1,1,SRB,1.0,UDOVICIC V,1 - 0,335,SRB,5:35
+0,Turnover foul,7.0,1,1,SRB,1.0,ROACH A,1 - 0,306,AUS,5:06
+0,Steal,10.0,1,1,SRB,1.0,FILIPOVIC F,1 - 0,306,SRB,5:06
+0,Action shot - Blocked,11.0,1,1,SRB,1.0,PRLAINOVIC A,1 - 0,277,SRB,4:37
+0,20 sec. exclusion in field,7.0,1,1,SRB,1.0,NIKIC S,1 - 0,258,SRB,4:18
+1,Extra player shot - Goal,11.0,1,1,SRB,1.0,HOWDEN R,1 - 1,257,AUS,4:17
+1,20 sec. exclusion in field,6.0,1,1,SRB,1.0,GILCHRIST J,1 - 1,246,AUS,4:06
+1,Extra player shot - Goal,6.0,1,2,SRB,1.0,PIJETLOVIC D,2 - 1,228,SRB,3:48
+2,Centre shot - Goal,9.0,1,2,SRB,1.0,SWIFT J,2 - 2,206,AUS,3:26
+2,Turnover foul,6.0,1,2,SRB,1.0,PIJETLOVIC D,2 - 2,186,SRB,3:06
+2,Steal,2.0,1,2,SRB,1.0,CAMPBELL R,2 - 2,186,AUS,3:06
+2,Action shot - Saved,2.0,1,2,SRB,1.0,CAMPBELL R,2 - 2,159,AUS,2:39
+2,20 sec. exclusion in field,4.0,1,2,SRB,1.0,COTTERILL J,2 - 2,142,AUS,2:22
+2,20 sec. exclusion in field,12.0,1,2,SRB,1.0,MILLER W,2 - 2,126,AUS,2:06
+2,Extra player shot - Goal,4.0,1,3,SRB,1.0,UDOVICIC V,3 - 2,124,SRB,2:04
+2,Action shot - Saved,6.0,1,3,SRB,1.0,GILCHRIST J,3 - 2,95,AUS,1:35
+2,20 sec. exclusion in centre,8.0,1,3,SRB,1.0,ALEKSIC M,3 - 2,81,SRB,1:21
+3,Extra player shot - Goal,8.0,1,3,SRB,1.0,YOUNGER A,3 - 3,66,AUS,1:06
+3,20 sec. exclusion in centre,5.0,1,3,SRB,1.0,POWER N,3 - 3,44,AUS,0:44
+3,Extra player shot - Goal,10.0,1,4,SRB,1.0,FILIPOVIC F,4 - 3,29,SRB,0:29
+3,Action shot - Saved,2.0,1,4,SRB,1.0,CAMPBELL R,4 - 3,3,AUS,0:03
+3,Action shot - Blocked,12.0,1,4,SRB,1.0,MILLER W,4 - 3,2,AUS,0:02
+3,Starting goalkeeper,1.0,1,4,SRB,2.0,MITROVIC B,4 - 3,480,SRB,8:00
+3,Starting goalkeeper,13.0,1,4,SRB,2.0,CLARK J,4 - 3,480,AUS,8:00
+3,Sprint won possession,11.0,1,4,SRB,2.0,HOWDEN R,4 - 3,480,AUS,8:00
+3,Turnover foul,7.0,1,4,SRB,2.0,NIKIC S,4 - 3,426,SRB,7:06
+3,Steal,7.0,1,4,SRB,2.0,ROACH A,4 - 3,426,AUS,7:06
+3,20 sec. exclusion in field,3.0,1,4,SRB,2.0,GOCIC Z,4 - 3,419,SRB,6:59
+3,Turnover foul,2.0,1,4,SRB,2.0,CAMPBELL R,4 - 3,392,AUS,6:32
+3,Steal,11.0,1,4,SRB,2.0,PRLAINOVIC A,4 - 3,392,SRB,6:32
+3,20 sec. exclusion in field,8.0,1,4,SRB,2.0,YOUNGER A,4 - 3,366,AUS,6:06
+3,Extra player shot - Goal,7.0,1,5,SRB,2.0,NIKIC S,5 - 3,352,SRB,5:52
+3,20 sec. exclusion in centre,10.0,1,5,SRB,2.0,FILIPOVIC F,5 - 3,332,SRB,5:32
+3,Extra player shot - Missed,7.0,1,5,SRB,2.0,ROACH A,5 - 3,319,AUS,5:19
+3,20 sec. exclusion in field,10.0,1,5,SRB,2.0,MARTIN T,5 - 3,306,AUS,5:06
+3,Extra player shot - Blocked,10.0,1,5,SRB,2.0,FILIPOVIC F,5 - 3,288,SRB,4:48
+3,20 sec. exclusion in field,5.0,1,5,SRB,2.0,CUK M,5 - 3,267,SRB,4:27
+3,Turnover foul,7.0,1,5,SRB,2.0,ROACH A,5 - 3,260,AUS,4:20
+3,Turnover foul,6.0,1,5,SRB,2.0,PIJETLOVIC D,5 - 3,235,SRB,3:55
+3,Action shot - Missed,8.0,1,5,SRB,2.0,YOUNGER A,5 - 3,211,AUS,3:31
+3,20 sec. exclusion in centre,10.0,1,5,SRB,2.0,MARTIN T,5 - 3,194,AUS,3:14
+3,Extra player shot - Goal,10.0,1,6,SRB,2.0,FILIPOVIC F,6 - 3,186,SRB,3:06
+3,Action shot - Post,2.0,1,6,SRB,2.0,CAMPBELL R,6 - 3,162,AUS,2:42
+3,Action shot - Blocked,11.0,1,6,SRB,2.0,PRLAINOVIC A,6 - 3,138,SRB,2:18
+3,5m shot - Saved,9.0,1,6,SRB,2.0,SWIFT J,6 - 3,111,AUS,1:51
+3,Action shot - Saved,2.0,1,6,SRB,2.0,MANDIC D,6 - 3,88,SRB,1:28
+3,Action shot - Missed,6.0,1,6,SRB,2.0,GILCHRIST J,6 - 3,61,AUS,1:01
+3,Turnover foul,3.0,1,6,SRB,2.0,GOCIC Z,6 - 3,40,SRB,0:40
+3,Steal,8.0,1,6,SRB,2.0,YOUNGER A,6 - 3,40,AUS,0:40
+3,Turnover foul,9.0,1,6,SRB,2.0,SWIFT J,6 - 3,11,AUS,0:11
+3,Starting goalkeeper,13.0,1,6,SRB,3.0,CLARK J,6 - 3,480,AUS,8:00
+3,Starting goalkeeper,13.0,1,6,SRB,3.0,PIJETLOVIC G,6 - 3,480,SRB,8:00
+3,Sprint won possession,12.0,1,6,SRB,3.0,MILLER W,6 - 3,480,AUS,8:00
+3,Centre shot - Saved,9.0,1,6,SRB,3.0,SWIFT J,6 - 3,452,AUS,7:32
+3,Turnover foul,9.0,1,6,SRB,3.0,RADEN N,6 - 3,433,SRB,7:13
+3,Steal,8.0,1,6,SRB,3.0,YOUNGER A,6 - 3,433,AUS,7:13
+3,Turnover foul,9.0,1,6,SRB,3.0,SWIFT J,6 - 3,418,AUS,6:58
+3,Turnover foul,5.0,1,6,SRB,3.0,CUK M,6 - 3,392,SRB,6:32
+3,Steal,11.0,1,6,SRB,3.0,HOWDEN R,6 - 3,392,AUS,6:32
+3,Centre shot - Saved,8.0,1,6,SRB,3.0,YOUNGER A,6 - 3,372,AUS,6:12
+3,Action shot - Saved,11.0,1,6,SRB,3.0,PRLAINOVIC A,6 - 3,349,SRB,5:49
+3,20 sec. exclusion in field,6.0,1,6,SRB,3.0,PIJETLOVIC D,6 - 3,349,SRB,5:49
+3,Time-Out,,1,6,SRB,3.0,,6 - 3,349,AUS,5:49
+4,Action shot - Goal,2.0,1,6,SRB,3.0,CAMPBELL R,6 - 4,325,AUS,5:25
+4,20 sec. exclusion in field,8.0,1,6,SRB,3.0,YOUNGER A,6 - 4,313,AUS,5:13
+4,Action shot - Saved,9.0,1,6,SRB,3.0,RADEN N,6 - 4,290,SRB,4:50
+4,Turnover foul,10.0,1,6,SRB,3.0,FILIPOVIC F,6 - 4,269,SRB,4:29
+4,Steal,7.0,1,6,SRB,3.0,ROACH A,6 - 4,269,AUS,4:29
+5,Centre shot - Goal,10.0,1,6,SRB,3.0,MARTIN T,6 - 5,244,AUS,4:04
+5,20 sec. exclusion in centre,5.0,1,6,SRB,3.0,POWER N,6 - 5,215,AUS,3:35
+5,Extra player shot - Goal,4.0,1,7,SRB,3.0,UDOVICIC V,7 - 5,214,SRB,3:34
+5,Action shot - Missed,2.0,1,7,SRB,3.0,MANDIC D,7 - 5,167,SRB,2:47
+5,20 sec. exclusion in centre,3.0,1,7,SRB,3.0,GOCIC Z,7 - 5,148,SRB,2:28
+5,Extra player shot - Saved,4.0,1,7,SRB,3.0,COTTERILL J,7 - 5,125,AUS,2:05
+5,Turnover foul,6.0,1,7,SRB,3.0,PIJETLOVIC D,7 - 5,106,SRB,1:46
+5,Steal,13.0,1,7,SRB,3.0,CLARK J,7 - 5,106,AUS,1:46
+5,20 sec. exclusion in field,8.0,1,7,SRB,3.0,ALEKSIC M,7 - 5,93,SRB,1:33
+5,Time-Out,,1,7,SRB,3.0,,7 - 5,93,AUS,1:33
+5,Turnover foul,11.0,1,7,SRB,3.0,HOWDEN R,7 - 5,77,AUS,1:17
+5,Steal,12.0,1,7,SRB,3.0,MITROVIC S,7 - 5,77,SRB,1:17
+5,Turnover foul,10.0,1,7,SRB,3.0,FILIPOVIC F,7 - 5,52,SRB,0:52
+5,Steal,11.0,1,7,SRB,3.0,HOWDEN R,7 - 5,52,AUS,0:52
+5,Turnover foul,9.0,1,7,SRB,3.0,SWIFT J,7 - 5,23,AUS,0:23
+5,20 sec. exclusion in centre,6.0,1,7,SRB,3.0,GILCHRIST J,7 - 5,1,AUS,0:01
+5,Extra player shot - Blocked,4.0,1,7,SRB,3.0,UDOVICIC V,7 - 5,1,SRB,0:01
+5,Starting goalkeeper,13.0,1,7,SRB,4.0,PIJETLOVIC G,7 - 5,480,SRB,8:00
+5,Starting goalkeeper,13.0,1,7,SRB,4.0,CLARK J,7 - 5,480,AUS,8:00
+5,Sprint won possession,11.0,1,7,SRB,4.0,HOWDEN R,7 - 5,480,AUS,8:00
+5,Action shot - Goal,3.0,1,8,SRB,4.0,GOCIC Z,8 - 5,435,SRB,7:15
+5,Turnover foul,8.0,1,8,SRB,4.0,ALEKSIC M,8 - 5,379,SRB,6:19
+5,Steal,8.0,1,8,SRB,4.0,YOUNGER A,8 - 5,379,AUS,6:19
+5,Centre shot - Missed,9.0,1,8,SRB,4.0,SWIFT J,8 - 5,356,AUS,5:56
+5,Turnover foul,8.0,1,8,SRB,4.0,ALEKSIC M,8 - 5,332,SRB,5:32
+5,Action shot - Saved,10.0,1,8,SRB,4.0,MARTIN T,8 - 5,313,AUS,5:13
+5,Turnover foul,5.0,1,8,SRB,4.0,CUK M,8 - 5,310,SRB,5:10
+5,Action shot - Missed,2.0,1,8,SRB,4.0,CAMPBELL R,8 - 5,295,AUS,4:55
+5,Action shot - Saved,5.0,1,8,SRB,4.0,CUK M,8 - 5,272,SRB,4:32
+5,20 sec. exclusion in centre,2.0,1,8,SRB,4.0,MANDIC D,8 - 5,251,SRB,4:11
+5,Extra player shot - Saved,12.0,1,8,SRB,4.0,MILLER W,8 - 5,238,AUS,3:58
+5,Time-Out,,1,8,SRB,4.0,,8 - 5,238,SRB,3:58
+5,20 sec. exclusion in field,5.0,1,8,SRB,4.0,POWER N,8 - 5,225,AUS,3:45
+5,Extra player shot - Goal,6.0,1,9,SRB,4.0,PIJETLOVIC D,9 - 5,211,SRB,3:31
+5,Turnover foul,8.0,1,9,SRB,4.0,YOUNGER A,9 - 5,187,AUS,3:07
+5,Steal,6.0,1,9,SRB,4.0,PIJETLOVIC D,9 - 5,187,SRB,3:07
+5,Action shot - Post,9.0,1,9,SRB,4.0,RADEN N,9 - 5,165,SRB,2:45
+6,5m shot - Goal,7.0,1,9,SRB,4.0,ROACH A,9 - 6,141,AUS,2:21
+6,Turnover foul,6.0,1,9,SRB,4.0,PIJETLOVIC D,9 - 6,121,SRB,2:01
+6,Steal,7.0,1,9,SRB,4.0,ROACH A,9 - 6,121,AUS,2:01
+7,5m shot - Goal,12.0,1,9,SRB,4.0,MILLER W,9 - 7,96,AUS,1:36
+7,Centre shot - Goal,6.0,1,10,SRB,4.0,PIJETLOVIC D,10 - 7,78,SRB,1:18
+7,Turnover foul,7.0,1,10,SRB,4.0,ROACH A,10 - 7,49,AUS,0:49
+7,Steal,13.0,1,10,SRB,4.0,PIJETLOVIC G,10 - 7,49,SRB,0:49
+7,Action shot - Post,11.0,1,10,SRB,4.0,PRLAINOVIC A,10 - 7,21,SRB,0:21
+7,Turnover foul,13.0,1,10,SRB,4.0,CLARK J,10 - 7,12,AUS,0:12
+0,Starting goalkeeper,1.0,2,0,CHN,1.0,GE W,0 - 0,480,CHN,8:00
+0,Starting goalkeeper,13.0,2,0,CHN,1.0,CLARK J,0 - 0,480,AUS,8:00
+0,Sprint won possession,11.0,2,0,CHN,1.0,HOWDEN R,0 - 0,480,AUS,8:00
+0,20 sec. exclusion in centre,3.0,2,0,CHN,1.0,LIANG Z,0 - 0,454,CHN,7:34
+0,Extra player shot - Blocked,11.0,2,0,CHN,1.0,HOWDEN R,0 - 0,436,AUS,7:16
+0,Action shot - Post,8.0,2,0,CHN,1.0,YOUNGER A,0 - 0,421,AUS,7:01
+0,Centre shot - Saved,12.0,2,0,CHN,1.0,LIANG N,0 - 0,398,CHN,6:38
+1,Action shot - Goal,2.0,2,0,CHN,1.0,CAMPBELL R,0 - 1,381,AUS,6:21
+1,20 sec. exclusion in centre,8.0,2,0,CHN,1.0,YOUNGER A,0 - 1,358,AUS,5:58
+1,Extra player shot - Missed,3.0,2,0,CHN,1.0,LIANG Z,0 - 1,340,CHN,5:40
+1,Action shot - Saved,8.0,2,0,CHN,1.0,WANG Y,0 - 1,281,CHN,4:41
+1,20 sec. exclusion in centre,11.0,2,0,CHN,1.0,ZHANG C,0 - 1,255,CHN,4:15
+1,Extra player shot - Saved,9.0,2,0,CHN,1.0,SWIFT J,0 - 1,238,AUS,3:58
+1,Centre shot - Saved,8.0,2,0,CHN,1.0,YOUNGER A,0 - 1,227,AUS,3:47
+1,5m shot - Goal,2.0,2,1,CHN,1.0,TAN F,1 - 1,206,CHN,3:26
+1,Turnover foul,6.0,2,1,CHN,1.0,GILCHRIST J,1 - 1,181,AUS,3:01
+1,Steal,9.0,2,1,CHN,1.0,XIE J,1 - 1,181,CHN,3:01
+1,20 sec. exclusion in centre,11.0,2,1,CHN,1.0,HOWDEN R,1 - 1,166,AUS,2:46
+1,Turnover foul,8.0,2,1,CHN,1.0,WANG Y,1 - 1,146,CHN,2:26
+1,Steal,10.0,2,1,CHN,1.0,MARTIN T,1 - 1,146,AUS,2:26
+2,Counter attack - Goal,7.0,2,1,CHN,1.0,ROACH A,1 - 2,131,AUS,2:11
+2,Turnover foul,9.0,2,1,CHN,1.0,XIE J,1 - 2,102,CHN,1:42
+2,Steal,11.0,2,1,CHN,1.0,HOWDEN R,1 - 2,102,AUS,1:42
+2,Centre shot - Saved,3.0,2,1,CHN,1.0,MARTIN M,1 - 2,84,AUS,1:24
+3,Centre shot - Goal,6.0,2,1,CHN,1.0,GILCHRIST J,1 - 3,72,AUS,1:12
+3,Turnover foul,4.0,2,1,CHN,1.0,JIANG B,1 - 3,48,CHN,0:48
+3,Steal,11.0,2,1,CHN,1.0,HOWDEN R,1 - 3,48,AUS,0:48
+4,Action shot - Goal,11.0,2,1,CHN,1.0,HOWDEN R,1 - 4,22,AUS,0:22
+4,20 sec. exclusion in centre,6.0,2,1,CHN,1.0,GILCHRIST J,1 - 4,9,AUS,0:09
+4,Extra player shot - Post,7.0,2,1,CHN,1.0,LI B,1 - 4,1,CHN,0:01
+4,Starting goalkeeper,1.0,2,1,CHN,2.0,GE W,1 - 4,480,CHN,8:00
+4,Starting goalkeeper,13.0,2,1,CHN,2.0,CLARK J,1 - 4,480,AUS,8:00
+4,Sprint won possession,6.0,2,1,CHN,2.0,GILCHRIST J,1 - 4,480,AUS,8:00
+4,Turnover foul,9.0,2,1,CHN,2.0,SWIFT J,1 - 4,465,AUS,7:45
+4,Penalty foul,6.0,2,1,CHN,2.0,GILCHRIST J,1 - 4,447,AUS,7:27
+4,Penalty shot - Goal,7.0,2,2,CHN,2.0,LI B,2 - 4,447,CHN,7:27
+4,Turnover foul,4.0,2,2,CHN,2.0,COTTERILL J,2 - 4,429,AUS,7:09
+4,Steal,5.0,2,2,CHN,2.0,GUO J,2 - 4,429,CHN,7:09
+4,5m shot - Post,3.0,2,2,CHN,2.0,LIANG Z,2 - 4,407,CHN,6:47
+4,Turnover foul,9.0,2,2,CHN,2.0,SWIFT J,2 - 4,392,AUS,6:32
+4,Steal,3.0,2,2,CHN,2.0,LIANG Z,2 - 4,392,CHN,6:32
+4,Turnover foul,5.0,2,2,CHN,2.0,GUO J,2 - 4,387,CHN,6:27
+4,Centre shot - Saved,7.0,2,2,CHN,2.0,ROACH A,2 - 4,379,AUS,6:19
+4,Turnover foul,3.0,2,2,CHN,2.0,LIANG Z,2 - 4,353,CHN,5:53
+4,Steal,11.0,2,2,CHN,2.0,HOWDEN R,2 - 4,353,AUS,5:53
+5,Action shot - Goal,11.0,2,2,CHN,2.0,HOWDEN R,2 - 5,336,AUS,5:36
+5,Action shot - Blocked,2.0,2,2,CHN,2.0,TAN F,2 - 5,310,CHN,5:10
+5,Centre shot - Saved,8.0,2,2,CHN,2.0,YOUNGER A,2 - 5,292,AUS,4:52
+5,5m shot - Saved,2.0,2,2,CHN,2.0,TAN F,2 - 5,262,CHN,4:22
+5,Turnover foul,3.0,2,2,CHN,2.0,MARTIN M,2 - 5,235,AUS,3:55
+5,Steal,3.0,2,2,CHN,2.0,LIANG Z,2 - 5,235,CHN,3:55
+5,5m shot - Saved,3.0,2,2,CHN,2.0,LIANG Z,2 - 5,208,CHN,3:28
+5,Turnover foul,12.0,2,2,CHN,2.0,MILLER W,2 - 5,180,AUS,3:00
+5,Steal,11.0,2,2,CHN,2.0,ZHANG C,2 - 5,180,CHN,3:00
+5,Turnover foul,2.0,2,2,CHN,2.0,TAN F,2 - 5,159,CHN,2:39
+5,Steal,8.0,2,2,CHN,2.0,YOUNGER A,2 - 5,159,AUS,2:39
+5,Turnover foul,7.0,2,2,CHN,2.0,ROACH A,2 - 5,129,AUS,2:09
+5,Turnover foul,8.0,2,2,CHN,2.0,WANG Y,2 - 5,101,CHN,1:41
+5,Steal,11.0,2,2,CHN,2.0,HOWDEN R,2 - 5,101,AUS,1:41
+6,Centre shot - Goal,10.0,2,2,CHN,2.0,MARTIN T,2 - 6,75,AUS,1:15
+6,Turnover foul,6.0,2,2,CHN,2.0,PAN N,2 - 6,63,CHN,1:03
+6,Action shot - Missed,10.0,2,2,CHN,2.0,MARTIN T,2 - 6,41,AUS,0:41
+6,Turnover foul,11.0,2,2,CHN,2.0,ZHANG C,2 - 6,18,CHN,0:18
+6,Double exclusion,7.0,2,2,CHN,4.0,LI B,2 - 6,180,CHN,3:00
+6,Turnover foul,9.0,2,2,CHN,4.0,XIE J,2 - 6,167,CHN,2:47
+6,Steal,4.0,2,2,CHN,4.0,COTTERILL J,2 - 6,167,AUS,2:47
+6,Turnover foul,9.0,2,2,CHN,4.0,SWIFT J,2 - 6,136,AUS,2:16
+6,Steal,1.0,2,2,CHN,4.0,GE W,2 - 6,136,CHN,2:16
+6,Turnover foul,2.0,2,2,CHN,4.0,TAN F,2 - 6,116,CHN,1:56
+6,Turnover foul,2.0,2,2,CHN,4.0,CAMPBELL R,2 - 6,98,AUS,1:38
+6,Steal,1.0,2,2,CHN,4.0,GE W,2 - 6,98,CHN,1:38
+6,Steal,11.0,2,2,CHN,2.0,HOWDEN R,2 - 6,18,AUS,0:18
+6,Turnover foul,6.0,2,2,CHN,2.0,GILCHRIST J,2 - 6,1,AUS,0:01
+6,Steal,11.0,2,2,CHN,2.0,ZHANG C,2 - 6,1,CHN,0:01
+6,Starting goalkeeper,13.0,2,2,CHN,3.0,CLARK J,2 - 6,480,AUS,8:00
+6,Starting goalkeeper,1.0,2,2,CHN,3.0,GE W,2 - 6,480,CHN,8:00
+6,Sprint won possession,11.0,2,2,CHN,3.0,HOWDEN R,2 - 6,480,AUS,8:00
+7,Action shot - Goal,11.0,2,2,CHN,3.0,HOWDEN R,2 - 7,453,AUS,7:33
+7,Turnover foul,2.0,2,2,CHN,3.0,TAN F,2 - 7,437,CHN,7:17
+7,Steal,8.0,2,2,CHN,3.0,YOUNGER A,2 - 7,437,AUS,7:17
+7,20 sec. exclusion in field,12.0,2,2,CHN,3.0,LIANG N,2 - 7,431,CHN,7:11
+7,Time-Out,,2,2,CHN,3.0,,2 - 7,431,AUS,7:11
+8,Extra player shot - Goal,2.0,2,2,CHN,3.0,CAMPBELL R,2 - 8,412,AUS,6:52
+8,5m shot - Post,6.0,2,2,CHN,3.0,PAN N,2 - 8,384,CHN,6:24
+8,Action shot - Blocked,11.0,2,2,CHN,3.0,ZHANG C,2 - 8,367,CHN,6:07
+8,Turnover foul,2.0,2,2,CHN,3.0,CAMPBELL R,2 - 8,339,AUS,5:39
+8,5m shot - Blocked,5.0,2,2,CHN,3.0,GUO J,2 - 8,310,CHN,5:10
+8,Action shot - Blocked,12.0,2,2,CHN,3.0,MILLER W,2 - 8,281,AUS,4:41
+8,Penalty foul,7.0,2,2,CHN,3.0,ROACH A,2 - 8,260,AUS,4:20
+8,Penalty shot - Goal,5.0,2,3,CHN,3.0,GUO J,3 - 8,260,CHN,4:20
+8,Turnover foul,9.0,2,3,CHN,3.0,SWIFT J,3 - 8,247,AUS,4:07
+8,Turnover foul,11.0,2,3,CHN,3.0,ZHANG C,3 - 8,225,CHN,3:45
+8,Steal,13.0,2,3,CHN,3.0,CLARK J,3 - 8,225,AUS,3:45
+8,Centre shot - Saved,2.0,2,3,CHN,3.0,CAMPBELL R,3 - 8,208,AUS,3:28
+8,20 sec. exclusion in centre,5.0,2,3,CHN,3.0,GUO J,3 - 8,204,CHN,3:24
+8,Action shot - Post,7.0,2,3,CHN,3.0,ROACH A,3 - 8,176,AUS,2:56
+8,5m shot - Blocked,7.0,2,3,CHN,3.0,LI B,3 - 8,151,CHN,2:31
+8,Action shot - Post,4.0,2,3,CHN,3.0,COTTERILL J,3 - 8,123,AUS,2:03
+8,20 sec. exclusion in field,4.0,2,3,CHN,3.0,COTTERILL J,3 - 8,110,AUS,1:50
+8,Time-Out,,2,3,CHN,3.0,,3 - 8,110,CHN,1:50
+8,Turnover foul,5.0,2,3,CHN,3.0,GUO J,3 - 8,84,CHN,1:24
+8,Steal,11.0,2,3,CHN,3.0,HOWDEN R,3 - 8,84,AUS,1:24
+8,Centre shot - Saved,4.0,2,3,CHN,3.0,COTTERILL J,3 - 8,64,AUS,1:04
+8,Turnover foul,8.0,2,3,CHN,3.0,YOUNGER A,3 - 8,16,AUS,0:16
+8,5m shot - Saved,2.0,2,3,CHN,3.0,TAN F,3 - 8,2,CHN,0:02
+8,5m shot - Saved,13.0,2,3,CHN,3.0,CLARK J,3 - 8,1,AUS,0:01
+8,Starting goalkeeper,1.0,2,3,CHN,4.0,GE W,3 - 8,480,CHN,8:00
+8,Starting goalkeeper,13.0,2,3,CHN,4.0,CLARK J,3 - 8,480,AUS,8:00
+8,Sprint won possession,11.0,2,3,CHN,4.0,HOWDEN R,3 - 8,480,AUS,8:00
+8,20 sec. exclusion in centre,3.0,2,3,CHN,4.0,LIANG Z,3 - 8,460,CHN,7:40
+9,Extra player shot - Goal,9.0,2,3,CHN,4.0,SWIFT J,3 - 9,457,AUS,7:37
+9,Action shot - Saved,6.0,2,3,CHN,4.0,PAN N,3 - 9,436,CHN,7:16
+9,20 sec. exclusion in field,8.0,2,3,CHN,4.0,YOUNGER A,3 - 9,425,AUS,7:05
+9,Extra player shot - Blocked,2.0,2,3,CHN,4.0,TAN F,3 - 9,408,CHN,6:48
+9,20 sec. exclusion in field,6.0,2,3,CHN,4.0,GILCHRIST J,3 - 9,399,AUS,6:39
+9,Exclusion with substitution,6.0,2,3,CHN,4.0,GILCHRIST J,3 - 9,399,AUS,6:39
+9,Extra player shot - Saved,6.0,2,3,CHN,4.0,PAN N,3 - 9,385,CHN,6:25
+9,Action shot - Goal,10.0,2,4,CHN,4.0,ZHANG J,4 - 9,377,CHN,6:17
+9,Turnover foul,9.0,2,4,CHN,4.0,SWIFT J,4 - 9,366,AUS,6:06
+9,Action shot - Goal,10.0,2,5,CHN,4.0,ZHANG J,5 - 9,342,CHN,5:42
+9,Turnover foul,2.0,2,5,CHN,4.0,CAMPBELL R,5 - 9,326,AUS,5:26
+9,Steal,10.0,2,5,CHN,4.0,ZHANG J,5 - 9,326,CHN,5:26
+9,Counter attack - Goal,3.0,2,6,CHN,4.0,LIANG Z,6 - 9,317,CHN,5:17
+9,20 sec. exclusion in centre,9.0,2,6,CHN,4.0,XIE J,6 - 9,300,CHN,5:00
+9,Centre shot - Saved,8.0,2,6,CHN,4.0,YOUNGER A,6 - 9,276,AUS,4:36
+9,Centre shot - Saved,3.0,2,6,CHN,4.0,MARTIN M,6 - 9,274,AUS,4:34
+9,Turnover foul,6.0,2,6,CHN,4.0,PAN N,6 - 9,251,CHN,4:11
+9,Steal,3.0,2,6,CHN,4.0,MARTIN M,6 - 9,251,AUS,4:11
+9,5m shot - Post,8.0,2,6,CHN,4.0,YOUNGER A,6 - 9,225,AUS,3:45
+9,Turnover foul,3.0,2,6,CHN,4.0,LIANG Z,6 - 9,206,CHN,3:26
+9,Steal,11.0,2,6,CHN,4.0,HOWDEN R,6 - 9,206,AUS,3:26
+9,Action shot - Post,11.0,2,6,CHN,4.0,HOWDEN R,6 - 9,181,AUS,3:01
+9,Centre shot - Post,8.0,2,6,CHN,4.0,YOUNGER A,6 - 9,180,AUS,3:00
+9,Double exclusion,3.0,2,6,CHN,4.0,MARTIN M,6 - 9,180,AUS,3:00
+9,Time-Out,,2,6,CHN,4.0,,6 - 9,94,CHN,1:34
+9,Turnover foul,3.0,2,6,CHN,4.0,LIANG Z,6 - 9,75,CHN,1:15
+9,Steal,13.0,2,6,CHN,4.0,CLARK J,6 - 9,75,AUS,1:15
+9,20 sec. exclusion in field,2.0,2,6,CHN,4.0,TAN F,6 - 9,55,CHN,0:55
+9,Time-Out,,2,6,CHN,4.0,,6 - 9,55,AUS,0:55
+9,Action shot - Saved,8.0,2,6,CHN,4.0,YOUNGER A,6 - 9,33,AUS,0:33
+9,20 sec. exclusion in centre,2.0,2,6,CHN,4.0,CAMPBELL R,6 - 9,9,AUS,0:09
+9,Extra player shot - Goal,11.0,2,7,CHN,4.0,ZHANG C,7 - 9,8,CHN,0:08
+0,Starting goalkeeper,13.0,3,0,HUN,1.0,CLARK J,0 - 0,480,AUS,8:00
+0,Starting goalkeeper,13.0,3,0,HUN,1.0,DECKER A,0 - 0,480,HUN,8:00
+0,Sprint won possession,11.0,3,0,HUN,1.0,HOWDEN R,0 - 0,480,AUS,8:00
+0,Action shot - Saved,11.0,3,0,HUN,1.0,HOWDEN R,0 - 0,455,AUS,7:35
+0,Action shot - Blocked,3.0,3,0,HUN,1.0,MADARAS N,0 - 0,403,HUN,6:43
+0,Turnover foul,8.0,3,0,HUN,1.0,SZIVOS M,0 - 0,379,HUN,6:19
+0,Steal,11.0,3,0,HUN,1.0,HOWDEN R,0 - 0,379,AUS,6:19
+0,Action shot - Saved,2.0,3,0,HUN,1.0,CAMPBELL R,0 - 0,348,AUS,5:48
+0,20 sec. exclusion in centre,5.0,3,0,HUN,1.0,POWER N,0 - 0,318,AUS,5:18
+0,Extra player shot - Goal,12.0,3,1,HUN,1.0,HARAI B,1 - 0,301,HUN,5:01
+0,20 sec. exclusion in centre,6.0,3,1,HUN,1.0,HOSNYANSZKY N,1 - 0,279,HUN,4:39
+0,Action shot - Post,11.0,3,1,HUN,1.0,HOWDEN R,1 - 0,257,AUS,4:17
+1,Centre shot - Goal,8.0,3,1,HUN,1.0,YOUNGER A,1 - 1,238,AUS,3:58
+1,20 sec. exclusion in field,7.0,3,1,HUN,1.0,ROACH A,1 - 1,225,AUS,3:45
+1,Extra player shot - Goal,5.0,3,2,HUN,1.0,VAMOS M,2 - 1,209,HUN,3:29
+1,Turnover foul,10.0,3,2,HUN,1.0,MARTIN T,2 - 1,179,AUS,2:59
+1,Steal,6.0,3,2,HUN,1.0,HOSNYANSZKY N,2 - 1,179,HUN,2:59
+1,Action shot - Blocked,5.0,3,2,HUN,1.0,VAMOS M,2 - 1,153,HUN,2:33
+1,20 sec. exclusion in field,9.0,3,2,HUN,1.0,VARGA D,2 - 1,136,HUN,2:16
+2,Extra player shot - Goal,2.0,3,2,HUN,1.0,CAMPBELL R,2 - 2,117,AUS,1:57
+2,Turnover foul,5.0,3,2,HUN,1.0,VAMOS M,2 - 2,90,HUN,1:30
+2,Steal,8.0,3,2,HUN,1.0,YOUNGER A,2 - 2,90,AUS,1:30
+2,20 sec. exclusion in centre,5.0,3,2,HUN,1.0,VAMOS M,2 - 2,69,HUN,1:09
+3,Centre shot - Goal,6.0,3,2,HUN,1.0,GILCHRIST J,2 - 3,46,AUS,0:46
+3,5m shot - Goal,8.0,3,3,HUN,1.0,SZIVOS M,3 - 3,19,HUN,0:19
+3,Action shot - Saved,2.0,3,3,HUN,1.0,CAMPBELL R,3 - 3,1,AUS,0:01
+3,Starting goalkeeper,13.0,3,3,HUN,2.0,DECKER A,3 - 3,480,HUN,8:00
+3,Starting goalkeeper,13.0,3,3,HUN,2.0,CLARK J,3 - 3,480,AUS,8:00
+3,Sprint won possession,11.0,3,3,HUN,2.0,HOWDEN R,3 - 3,480,AUS,8:00
+4,Centre shot - Goal,9.0,3,3,HUN,2.0,SWIFT J,3 - 4,461,AUS,7:41
+4,20 sec. exclusion in centre,8.0,3,3,HUN,2.0,YOUNGER A,3 - 4,439,AUS,7:19
+4,Extra player shot - Goal,12.0,3,4,HUN,2.0,HARAI B,4 - 4,424,HUN,7:04
+4,Turnover foul,7.0,3,4,HUN,2.0,ROACH A,4 - 4,408,AUS,6:48
+4,Steal,2.0,3,4,HUN,2.0,GOR-NAGY M,4 - 4,408,HUN,6:48
+4,5m shot - Missed,6.0,3,4,HUN,2.0,HOSNYANSZKY N,4 - 4,382,HUN,6:22
+4,Action shot - Saved,7.0,3,4,HUN,2.0,ROACH A,4 - 4,356,AUS,5:56
+4,Turnover foul,13.0,3,4,HUN,2.0,DECKER A,4 - 4,343,HUN,5:43
+4,Steal,11.0,3,4,HUN,2.0,HOWDEN R,4 - 4,343,AUS,5:43
+4,Counter attack - Saved,7.0,3,4,HUN,2.0,ROACH A,4 - 4,327,AUS,5:27
+4,5m shot - Post,10.0,3,4,HUN,2.0,VARGA D,4 - 4,297,HUN,4:57
+4,Penalty foul,5.0,3,4,HUN,2.0,VAMOS M,4 - 4,278,HUN,4:38
+4,Penalty shot - Saved,11.0,3,4,HUN,2.0,HOWDEN R,4 - 4,278,AUS,4:38
+4,Centre shot - Missed,10.0,3,4,HUN,2.0,VARGA D,4 - 4,257,HUN,4:17
+4,Action shot - Missed,4.0,3,4,HUN,2.0,COTTERILL J,4 - 4,234,AUS,3:54
+4,Centre shot - Saved,12.0,3,4,HUN,2.0,HARAI B,4 - 4,209,HUN,3:29
+4,5m shot - Post,5.0,3,4,HUN,2.0,POWER N,4 - 4,180,AUS,3:00
+4,Action shot - Missed,5.0,3,4,HUN,2.0,POWER N,4 - 4,150,AUS,2:30
+4,Action shot - Saved,2.0,3,4,HUN,2.0,GOR-NAGY M,4 - 4,123,HUN,2:03
+4,Action shot - Saved,8.0,3,4,HUN,2.0,YOUNGER A,4 - 4,96,AUS,1:36
+4,Turnover foul,9.0,3,4,HUN,2.0,VARGA D,4 - 4,62,HUN,1:02
+4,Turnover foul,10.0,3,4,HUN,2.0,MARTIN T,4 - 4,33,AUS,0:33
+4,Steal,13.0,3,4,HUN,2.0,DECKER A,4 - 4,33,HUN,0:33
+4,Turnover foul,11.0,3,4,HUN,2.0,BEDO K,4 - 4,6,HUN,0:06
+4,Steal,11.0,3,4,HUN,2.0,HOWDEN R,4 - 4,6,AUS,0:06
+4,5m shot - Missed,2.0,3,4,HUN,2.0,CAMPBELL R,4 - 4,1,AUS,0:01
+4,Starting goalkeeper,13.0,3,4,HUN,3.0,DECKER A,4 - 4,480,HUN,8:00
+4,Starting goalkeeper,13.0,3,4,HUN,3.0,CLARK J,4 - 4,480,AUS,8:00
+4,Sprint won possession,11.0,3,4,HUN,3.0,HOWDEN R,4 - 4,480,AUS,8:00
+4,Turnover foul,3.0,3,4,HUN,3.0,MARTIN M,4 - 4,451,AUS,7:31
+4,Steal,10.0,3,4,HUN,3.0,VARGA D,4 - 4,451,HUN,7:31
+4,5m shot - Saved,3.0,3,4,HUN,3.0,MADARAS N,4 - 4,421,HUN,7:01
+4,Turnover foul,4.0,3,4,HUN,3.0,BATORI B,4 - 4,416,HUN,6:56
+4,Steal,12.0,3,4,HUN,3.0,MILLER W,4 - 4,416,AUS,6:56
+4,20 sec. exclusion in centre,8.0,3,4,HUN,3.0,SZIVOS M,4 - 4,406,HUN,6:46
+5,Action shot - Goal,8.0,3,4,HUN,3.0,YOUNGER A,4 - 5,385,AUS,6:25
+5,Turnover foul,8.0,3,4,HUN,3.0,SZIVOS M,4 - 5,360,HUN,6:00
+5,Steal,13.0,3,4,HUN,3.0,CLARK J,4 - 5,360,AUS,6:00
+5,Action shot - Saved,7.0,3,4,HUN,3.0,ROACH A,4 - 5,342,AUS,5:42
+5,20 sec. exclusion in field,11.0,3,4,HUN,3.0,HOWDEN R,4 - 5,337,AUS,5:37
+5,Time-Out,,3,4,HUN,3.0,,4 - 5,337,HUN,5:37
+5,Extra player shot - Goal,5.0,3,5,HUN,3.0,VAMOS M,5 - 5,319,HUN,5:19
+5,Action shot - Blocked,2.0,3,5,HUN,3.0,CAMPBELL R,5 - 5,289,AUS,4:49
+5,Turnover foul,10.0,3,5,HUN,3.0,VARGA D,5 - 5,259,HUN,4:19
+5,Steal,2.0,3,5,HUN,3.0,CAMPBELL R,5 - 5,259,AUS,4:19
+5,20 sec. exclusion in centre,6.0,3,5,HUN,3.0,HOSNYANSZKY N,5 - 5,235,HUN,3:55
+5,Centre shot - Saved,4.0,3,5,HUN,3.0,COTTERILL J,5 - 5,207,AUS,3:27
+5,Double exclusion,6.0,3,5,HUN,3.0,HOSNYANSZKY N,5 - 5,205,HUN,3:25
+5,Exclusion with substitution,6.0,3,5,HUN,3.0,HOSNYANSZKY N,5 - 5,205,HUN,3:25
+5,Double exclusion,12.0,3,5,HUN,3.0,MILLER W,5 - 5,205,AUS,3:25
+5,Turnover foul,12.0,3,5,HUN,3.0,HARAI B,5 - 5,182,HUN,3:02
+5,Steal,8.0,3,5,HUN,3.0,YOUNGER A,5 - 5,182,AUS,3:02
+5,Turnover foul,2.0,3,5,HUN,3.0,CAMPBELL R,5 - 5,153,AUS,2:33
+5,Steal,5.0,3,5,HUN,3.0,VAMOS M,5 - 5,153,HUN,2:33
+5,20 sec. exclusion in field,12.0,3,5,HUN,3.0,MILLER W,5 - 5,139,AUS,2:19
+5,Extra player shot - Goal,9.0,3,6,HUN,3.0,VARGA D,6 - 5,122,HUN,2:02
+5,Action shot - Saved,5.0,3,6,HUN,3.0,POWER N,6 - 5,92,AUS,1:32
+5,20 sec. exclusion in field,11.0,3,6,HUN,3.0,BEDO K,6 - 5,81,HUN,1:21
+5,Time-Out,,3,6,HUN,3.0,,6 - 5,80,AUS,1:20
+6,Extra player shot - Goal,2.0,3,6,HUN,3.0,CAMPBELL R,6 - 6,61,AUS,1:01
+6,Action shot - Goal,10.0,3,7,HUN,3.0,VARGA D,7 - 6,32,HUN,0:32
+7,5m shot - Goal,2.0,3,7,HUN,3.0,CAMPBELL R,7 - 7,7,AUS,0:07
+7,5m shot - Saved,8.0,3,7,HUN,3.0,SZIVOS M,7 - 7,2,HUN,0:02
+7,Starting goalkeeper,13.0,3,7,HUN,4.0,DECKER A,7 - 7,480,HUN,8:00
+7,Starting goalkeeper,13.0,3,7,HUN,4.0,CLARK J,7 - 7,480,AUS,8:00
+7,Sprint won possession,11.0,3,7,HUN,4.0,HOWDEN R,7 - 7,480,AUS,8:00
+7,Turnover foul,9.0,3,7,HUN,4.0,SWIFT J,7 - 7,460,AUS,7:40
+7,Action shot - Post,8.0,3,7,HUN,4.0,SZIVOS M,7 - 7,432,HUN,7:12
+7,Turnover foul,7.0,3,7,HUN,4.0,DECKER A,7 - 7,409,HUN,6:49
+7,Action shot - Post,2.0,3,7,HUN,4.0,CAMPBELL R,7 - 7,382,AUS,6:22
+7,5m shot - Saved,3.0,3,7,HUN,4.0,MADARAS N,7 - 7,358,HUN,5:58
+7,Centre shot - Goal,10.0,3,8,HUN,4.0,VARGA D,8 - 7,340,HUN,5:40
+7,Action shot - Saved,2.0,3,8,HUN,4.0,CAMPBELL R,8 - 7,313,AUS,5:13
+7,20 sec. exclusion in field,10.0,3,8,HUN,4.0,VARGA D,8 - 7,302,HUN,5:02
+8,Extra player shot - Goal,2.0,3,8,HUN,4.0,CAMPBELL R,8 - 8,286,AUS,4:46
+8,Action shot - Saved,9.0,3,8,HUN,4.0,VARGA D,8 - 8,257,HUN,4:17
+8,Action shot - Blocked,12.0,3,8,HUN,4.0,MILLER W,8 - 8,228,AUS,3:48
+8,Action shot - Blocked,12.0,3,8,HUN,4.0,MILLER W,8 - 8,206,AUS,3:26
+8,20 sec. exclusion in field,8.0,3,8,HUN,4.0,YOUNGER A,8 - 8,189,AUS,3:09
+8,Turnover foul,12.0,3,8,HUN,4.0,HARAI B,8 - 8,170,HUN,2:50
+8,Turnover foul,12.0,3,8,HUN,4.0,MILLER W,8 - 8,150,AUS,2:30
+8,Action shot - Goal,5.0,3,9,HUN,4.0,VAMOS M,9 - 8,139,HUN,2:19
+9,5m shot - Goal,2.0,3,9,HUN,4.0,CAMPBELL R,9 - 9,117,AUS,1:57
+9,20 sec. exclusion in centre,11.0,3,9,HUN,4.0,HOWDEN R,9 - 9,89,AUS,1:29
+9,Time-Out,,3,9,HUN,4.0,,9 - 9,89,HUN,1:29
+9,Extra player shot - Missed,5.0,3,9,HUN,4.0,VAMOS M,9 - 9,66,HUN,1:06
+9,Time-Out,,3,9,HUN,4.0,,9 - 9,66,AUS,1:06
+9,Turnover foul,6.0,3,9,HUN,4.0,GILCHRIST J,9 - 9,44,AUS,0:44
+9,Steal,12.0,3,9,HUN,4.0,HARAI B,9 - 9,44,HUN,0:44
+9,20 sec. exclusion in centre,6.0,3,9,HUN,4.0,GILCHRIST J,9 - 9,18,AUS,0:18
+9,Extra player shot - Blocked,9.0,3,9,HUN,4.0,VARGA D,9 - 9,4,HUN,0:04
+9,5m shot - Missed,7.0,3,9,HUN,4.0,ROACH A,9 - 9,1,AUS,0:01
+0,Starting goalkeeper,13.0,4,0,GER,1.0,CLARK J,0 - 0,480,AUS,8:00
+0,Starting goalkeeper,1.0,4,0,GER,1.0,KONG R,0 - 0,480,GER,8:00
+0,Sprint won possession,11.0,4,0,GER,1.0,HOWDEN R,0 - 0,480,AUS,8:00
+0,Turnover foul,11.0,4,0,GER,1.0,HOWDEN R,0 - 0,452,AUS,7:32
+1,Action shot - Goal,11.0,4,0,GER,1.0,HOWDEN R,0 - 1,409,AUS,6:49
+1,5m shot - Saved,4.0,4,0,GER,1.0,REAL J,0 - 1,381,GER,6:21
+1,Turnover foul,9.0,4,0,GER,1.0,SWIFT J,0 - 1,353,AUS,5:53
+1,Steal,10.0,4,0,GER,1.0,OELER M,0 - 1,353,GER,5:53
+1,Turnover foul,2.0,4,0,GER,1.0,BUKOWSKI E,0 - 1,328,GER,5:28
+1,Steal,13.0,4,0,GER,1.0,CLARK J,0 - 1,328,AUS,5:28
+2,Action shot - Goal,8.0,4,0,GER,1.0,YOUNGER A,0 - 2,300,AUS,5:00
+2,20 sec. exclusion in centre,5.0,4,0,GER,1.0,POWER N,0 - 2,284,AUS,4:44
+2,Extra player shot - Post,8.0,4,0,GER,1.0,SCHUELER P,0 - 2,265,GER,4:25
+2,Turnover foul,2.0,4,0,GER,1.0,CAMPBELL R,0 - 2,236,AUS,3:56
+2,Steal,1.0,4,0,GER,1.0,KONG R,0 - 2,236,GER,3:56
+2,5m shot - Saved,9.0,4,0,GER,1.0,STAMM M,0 - 2,208,GER,3:28
+2,Action shot - Saved,11.0,4,0,GER,1.0,HOWDEN R,0 - 2,179,AUS,2:59
+2,Turnover foul,8.0,4,0,GER,1.0,SCHUELER P,0 - 2,152,GER,2:32
+2,Steal,11.0,4,0,GER,1.0,HOWDEN R,0 - 2,152,AUS,2:32
+2,5m shot - Blocked,8.0,4,0,GER,1.0,SCHUELER P,0 - 2,92,GER,1:32
+2,Turnover foul,3.0,4,0,GER,1.0,MARTIN M,0 - 2,65,AUS,1:05
+2,Steal,1.0,4,0,GER,1.0,KONG R,0 - 2,65,GER,1:05
+2,Turnover foul,10.0,4,0,GER,1.0,OELER M,0 - 2,46,GER,0:46
+2,Turnover foul,8.0,4,0,GER,1.0,YOUNGER A,0 - 2,22,AUS,0:22
+2,5m shot - Saved,10.0,4,0,GER,1.0,OELER M,0 - 2,7,GER,0:07
+2,Turnover foul,11.0,4,0,GER,1.0,SCHLOTTERBECK A,0 - 2,3,GER,0:03
+2,Steal,2.0,4,0,GER,1.0,CAMPBELL R,0 - 2,3,AUS,0:03
+2,5m shot - Saved,13.0,4,0,GER,1.0,CLARK J,0 - 2,1,AUS,0:01
+2,Starting goalkeeper,13.0,4,0,GER,2.0,CLARK J,0 - 2,480,AUS,8:00
+2,Starting goalkeeper,1.0,4,0,GER,2.0,KONG R,0 - 2,480,GER,8:00
+2,Sprint won possession,6.0,4,0,GER,2.0,GILCHRIST J,0 - 2,480,AUS,8:00
+2,Centre shot - Missed,9.0,4,0,GER,2.0,SWIFT J,0 - 2,456,AUS,7:36
+2,20 sec. exclusion in centre,6.0,4,0,GER,2.0,GILCHRIST J,0 - 2,428,AUS,7:08
+2,Extra player shot - Goal,7.0,4,1,GER,2.0,NOSSEK H,1 - 2,424,GER,7:04
+2,5m shot - Missed,12.0,4,1,GER,2.0,MILLER W,1 - 2,398,AUS,6:38
+2,20 sec. exclusion in field,9.0,4,1,GER,2.0,SWIFT J,1 - 2,396,AUS,6:36
+2,Action shot - Saved,4.0,4,1,GER,2.0,REAL J,1 - 2,367,GER,6:07
+2,5m shot - Post,2.0,4,1,GER,2.0,CAMPBELL R,1 - 2,340,AUS,5:40
+2,Turnover foul,9.0,4,1,GER,2.0,STAMM M,1 - 2,315,GER,5:15
+3,Action shot - Goal,11.0,4,1,GER,2.0,HOWDEN R,1 - 3,301,AUS,5:01
+3,20 sec. exclusion in centre,5.0,4,1,GER,2.0,POWER N,1 - 3,283,AUS,4:43
+3,Extra player shot - Goal,7.0,4,2,GER,2.0,NOSSEK H,2 - 3,279,GER,4:39
+3,Turnover foul,10.0,4,2,GER,2.0,MARTIN T,2 - 3,258,AUS,4:18
+3,Steal,7.0,4,2,GER,2.0,NOSSEK H,2 - 3,258,GER,4:18
+3,5m shot - Blocked,8.0,4,2,GER,2.0,SCHUELER P,2 - 3,230,GER,3:50
+3,5m shot - Saved,8.0,4,2,GER,2.0,YOUNGER A,2 - 3,202,AUS,3:22
+3,Centre shot - Post,2.0,4,2,GER,2.0,CAMPBELL R,2 - 3,187,AUS,3:07
+3,Action shot - Saved,10.0,4,2,GER,2.0,OELER M,2 - 3,169,GER,2:49
+3,20 sec. exclusion in centre,6.0,4,2,GER,2.0,JUENGLING M,2 - 3,146,GER,2:26
+4,Extra player shot - Goal,4.0,4,2,GER,2.0,COTTERILL J,2 - 4,129,AUS,2:09
+4,5m shot - Saved,7.0,4,2,GER,2.0,NOSSEK H,2 - 4,100,GER,1:40
+4,Turnover foul,9.0,4,2,GER,2.0,SWIFT J,2 - 4,72,AUS,1:12
+4,Steal,1.0,4,2,GER,2.0,KONG R,2 - 4,72,GER,1:12
+4,Action shot - Saved,7.0,4,2,GER,2.0,NOSSEK H,2 - 4,42,GER,0:42
+4,Action shot - Saved,12.0,4,2,GER,2.0,MILLER W,2 - 4,12,AUS,0:12
+4,Starting goalkeeper,13.0,4,2,GER,3.0,SCHENKEL M,2 - 4,480,GER,8:00
+4,Starting goalkeeper,13.0,4,2,GER,3.0,CLARK J,2 - 4,480,AUS,8:00
+4,Sprint won possession,11.0,4,2,GER,3.0,HOWDEN R,2 - 4,480,AUS,8:00
+4,Action shot - Post,11.0,4,2,GER,3.0,HOWDEN R,2 - 4,451,AUS,7:31
+4,5m shot - Blocked,7.0,4,2,GER,3.0,NOSSEK H,2 - 4,425,GER,7:05
+4,Turnover foul,9.0,4,2,GER,3.0,SWIFT J,2 - 4,405,AUS,6:45
+4,Action shot - Blocked,2.0,4,2,GER,3.0,BUKOWSKI E,2 - 4,376,GER,6:16
+4,Action shot - Saved,11.0,4,2,GER,3.0,HOWDEN R,2 - 4,350,AUS,5:50
+4,Centre shot - Saved,9.0,4,2,GER,3.0,SWIFT J,2 - 4,328,AUS,5:28
+4,5m shot - Saved,2.0,4,2,GER,3.0,CAMPBELL R,2 - 4,268,AUS,4:28
+4,Double exclusion,11.0,4,2,GER,3.0,HOWDEN R,2 - 4,264,AUS,4:24
+4,Double exclusion,12.0,4,2,GER,3.0,EIDNER D,2 - 4,264,GER,4:24
+4,Turnover foul,7.0,4,2,GER,3.0,NOSSEK H,2 - 4,244,GER,4:04
+4,Steal,7.0,4,2,GER,3.0,ROACH A,2 - 4,244,AUS,4:04
+5,Counter attack - Goal,7.0,4,2,GER,3.0,ROACH A,2 - 5,234,AUS,3:54
+5,5m shot - Saved,5.0,4,2,GER,3.0,ROHE T,2 - 5,209,GER,3:29
+5,5m shot - Missed,4.0,4,2,GER,3.0,REAL J,2 - 5,190,GER,3:10
+5,Action shot - Post,12.0,4,2,GER,3.0,MILLER W,2 - 5,177,AUS,2:57
+5,20 sec. exclusion in centre,5.0,4,2,GER,3.0,POWER N,2 - 5,159,AUS,2:39
+5,Exclusion with substitution,5.0,4,2,GER,3.0,POWER N,2 - 5,159,AUS,2:39
+5,Turnover foul,11.0,4,2,GER,3.0,SCHLOTTERBECK A,2 - 5,140,GER,2:20
+5,Steal,2.0,4,2,GER,3.0,CAMPBELL R,2 - 5,140,AUS,2:20
+5,20 sec. exclusion in centre,8.0,4,2,GER,3.0,SCHUELER P,2 - 5,115,GER,1:55
+5,Extra player shot - Blocked,2.0,4,2,GER,3.0,CAMPBELL R,2 - 5,92,AUS,1:32
+5,Centre shot - Missed,3.0,4,2,GER,3.0,MARTIN M,2 - 5,66,AUS,1:06
+5,5m shot - Blocked,7.0,4,2,GER,3.0,NOSSEK H,2 - 5,41,GER,0:41
+5,Turnover foul,10.0,4,2,GER,3.0,OELER M,2 - 5,1,GER,0:01
+5,Steal,6.0,4,2,GER,3.0,GILCHRIST J,2 - 5,1,AUS,0:01
+5,Starting goalkeeper,13.0,4,2,GER,4.0,SCHENKEL M,2 - 5,480,GER,8:00
+5,Starting goalkeeper,13.0,4,2,GER,4.0,CLARK J,2 - 5,480,AUS,8:00
+5,Sprint won possession,11.0,4,2,GER,4.0,HOWDEN R,2 - 5,480,AUS,8:00
+5,20 sec. exclusion in centre,4.0,4,2,GER,4.0,REAL J,2 - 5,453,GER,7:33
+5,Time-Out,,4,2,GER,4.0,,2 - 5,453,AUS,7:33
+5,Action shot - Post,8.0,4,2,GER,4.0,YOUNGER A,2 - 5,431,AUS,7:11
+5,Turnover foul,4.0,4,2,GER,4.0,COTTERILL J,2 - 5,406,AUS,6:46
+5,Steal,2.0,4,2,GER,4.0,BUKOWSKI E,2 - 5,406,GER,6:46
+5,Turnover foul,9.0,4,2,GER,4.0,SWIFT J,2 - 5,362,AUS,6:02
+5,Time-Out,,4,2,GER,4.0,,2 - 5,362,GER,6:02
+5,5m shot - Saved,10.0,4,2,GER,4.0,OELER M,2 - 5,337,GER,5:37
+5,Turnover foul,8.0,4,2,GER,4.0,SCHUELER P,2 - 5,319,GER,5:19
+5,Steal,13.0,4,2,GER,4.0,CLARK J,2 - 5,319,AUS,5:19
+6,Counter attack - Goal,8.0,4,2,GER,4.0,YOUNGER A,2 - 6,302,AUS,5:02
+6,Centre shot - Saved,11.0,4,2,GER,4.0,SCHLOTTERBECK A,2 - 6,276,GER,4:36
+6,20 sec. exclusion in field,11.0,4,2,GER,4.0,HOWDEN R,2 - 6,263,AUS,4:23
+6,Extra player shot - Goal,6.0,4,3,GER,4.0,JUENGLING M,3 - 6,247,GER,4:07
+6,Turnover foul,2.0,4,3,GER,4.0,CAMPBELL R,3 - 6,221,AUS,3:41
+6,Steal,7.0,4,3,GER,4.0,NOSSEK H,3 - 6,221,GER,3:41
+6,20 sec. exclusion in centre,12.0,4,3,GER,4.0,MILLER W,3 - 6,203,AUS,3:23
+6,Centre shot - Goal,4.0,4,4,GER,4.0,REAL J,4 - 6,183,GER,3:03
+7,Centre shot - Goal,9.0,4,4,GER,4.0,SWIFT J,4 - 7,154,AUS,2:34
+7,5m shot - Saved,6.0,4,4,GER,4.0,JUENGLING M,4 - 7,126,GER,2:06
+7,20 sec. exclusion in field,9.0,4,4,GER,4.0,STAMM M,4 - 7,101,GER,1:41
+8,Action shot - Goal,4.0,4,4,GER,4.0,COTTERILL J,4 - 8,78,AUS,1:18
+8,Turnover foul,12.0,4,4,GER,4.0,EIDNER D,4 - 8,66,GER,1:06
+8,Steal,2.0,4,4,GER,4.0,CAMPBELL R,4 - 8,66,AUS,1:06
+8,Centre shot - Saved,10.0,4,4,GER,4.0,MARTIN T,4 - 8,37,AUS,0:37
+8,Time-Out,,4,4,GER,4.0,,4 - 8,37,GER,0:37
+8,Turnover foul,4.0,4,4,GER,4.0,REAL J,4 - 8,12,GER,0:12
+8,Steal,6.0,4,4,GER,4.0,GILCHRIST J,4 - 8,12,AUS,0:12
+8,5m shot - Saved,4.0,4,4,GER,4.0,COTTERILL J,4 - 8,1,AUS,0:01
+0,Starting goalkeeper,1.0,5,0,CRO,1.0,PAVIC J,0 - 0,480,CRO,8:00
+0,Starting goalkeeper,13.0,5,0,CRO,1.0,CLARK J,0 - 0,480,AUS,8:00
+0,Sprint won possession,11.0,5,0,CRO,1.0,HOWDEN R,0 - 0,480,AUS,8:00
+0,5m shot - Missed,11.0,5,0,CRO,1.0,HOWDEN R,0 - 0,451,AUS,7:31
+0,Turnover foul,10.0,5,0,CRO,1.0,DOBUD N,0 - 0,423,CRO,7:03
+0,5m shot - Saved,7.0,5,0,CRO,1.0,MUSLIM P,0 - 0,368,CRO,6:08
+0,Turnover foul,7.0,5,0,CRO,1.0,ROACH A,0 - 0,339,AUS,5:39
+0,Steal,7.0,5,0,CRO,1.0,MUSLIM P,0 - 0,339,CRO,5:39
+0,Turnover foul,7.0,5,0,CRO,1.0,MUSLIM P,0 - 0,323,CRO,5:23
+0,Steal,11.0,5,0,CRO,1.0,HOWDEN R,0 - 0,323,AUS,5:23
+0,Action shot - Blocked,2.0,5,0,CRO,1.0,CAMPBELL R,0 - 0,293,AUS,4:53
+0,Action shot - Missed,2.0,5,0,CRO,1.0,CAMPBELL R,0 - 0,264,AUS,4:24
+0,20 sec. exclusion in centre,8.0,5,0,CRO,1.0,YOUNGER A,0 - 0,245,AUS,4:05
+0,Extra player shot - Goal,12.0,5,1,CRO,1.0,OBRADOVIC P,1 - 0,226,CRO,3:46
+0,Action shot - Blocked,12.0,5,1,CRO,1.0,MILLER W,1 - 0,198,AUS,3:18
+0,Turnover foul,2.0,5,1,CRO,1.0,LONCAR L,1 - 0,169,CRO,2:49
+0,Steal,4.0,5,1,CRO,1.0,COTTERILL J,1 - 0,169,AUS,2:49
+0,Action shot - Blocked,12.0,5,1,CRO,1.0,MILLER W,1 - 0,140,AUS,2:20
+0,Turnover foul,4.0,5,1,CRO,1.0,COTTERILL J,1 - 0,82,AUS,1:22
+0,Turnover foul,4.0,5,1,CRO,1.0,PASKVALIN F,1 - 0,58,CRO,0:58
+1,Action shot - Goal,12.0,5,1,CRO,1.0,MILLER W,1 - 1,50,AUS,0:50
+1,Starting goalkeeper,13.0,5,1,CRO,2.0,CLARK J,1 - 1,480,AUS,8:00
+1,Starting goalkeeper,1.0,5,1,CRO,2.0,PAVIC J,1 - 1,480,CRO,8:00
+1,Sprint won possession,11.0,5,1,CRO,2.0,SETKA A,1 - 1,480,CRO,8:00
+1,Action shot - Goal,9.0,5,2,CRO,2.0,SUKNO S,2 - 1,455,CRO,7:35
+1,Turnover foul,9.0,5,2,CRO,2.0,SWIFT J,2 - 1,437,AUS,7:17
+1,20 sec. exclusion in centre,2.0,5,2,CRO,2.0,CAMPBELL R,2 - 1,420,AUS,7:00
+1,Action shot - Blocked,2.0,5,2,CRO,2.0,CAMPBELL R,2 - 1,362,AUS,6:02
+1,Action shot - Blocked,11.0,5,2,CRO,2.0,SETKA A,2 - 1,334,CRO,5:34
+1,20 sec. exclusion in field,12.0,5,2,CRO,2.0,OBRADOVIC P,2 - 1,317,CRO,5:17
+1,Action shot - Post,8.0,5,2,CRO,2.0,YOUNGER A,2 - 1,288,AUS,4:48
+1,Turnover foul,10.0,5,2,CRO,2.0,DOBUD N,2 - 1,260,CRO,4:20
+1,Steal,7.0,5,2,CRO,2.0,ROACH A,2 - 1,260,AUS,4:20
+1,Action shot - Post,2.0,5,2,CRO,2.0,CAMPBELL R,2 - 1,231,AUS,3:51
+1,Action shot - Post,9.0,5,2,CRO,2.0,SUKNO S,2 - 1,205,CRO,3:25
+1,Turnover foul,2.0,5,2,CRO,2.0,CAMPBELL R,2 - 1,173,AUS,2:53
+1,Steal,3.0,5,2,CRO,2.0,MILAKOVIC I,2 - 1,173,CRO,2:53
+1,Action shot - Post,7.0,5,2,CRO,2.0,MUSLIM P,2 - 1,153,CRO,2:33
+1,20 sec. exclusion in field,3.0,5,2,CRO,2.0,MILAKOVIC I,2 - 1,130,CRO,2:10
+1,Action shot - Saved,2.0,5,2,CRO,2.0,CAMPBELL R,2 - 1,109,AUS,1:49
+1,20 sec. exclusion in centre,10.0,5,2,CRO,2.0,DOBUD N,2 - 1,93,CRO,1:33
+2,Extra player shot - Goal,7.0,5,2,CRO,2.0,ROACH A,2 - 2,73,AUS,1:13
+2,Turnover foul,12.0,5,2,CRO,2.0,OBRADOVIC P,2 - 2,43,CRO,0:43
+2,Steal,6.0,5,2,CRO,2.0,GILCHRIST J,2 - 2,43,AUS,0:43
+2,Turnover foul,12.0,5,2,CRO,2.0,MILLER W,2 - 2,26,AUS,0:26
+2,Turnover foul,12.0,5,2,CRO,2.0,OBRADOVIC P,2 - 2,8,CRO,0:08
+2,5m shot - Blocked,8.0,5,2,CRO,2.0,YOUNGER A,2 - 2,1,AUS,0:01
+2,Starting goalkeeper,1.0,5,2,CRO,3.0,PAVIC J,2 - 2,480,CRO,8:00
+2,Starting goalkeeper,13.0,5,2,CRO,3.0,CLARK J,2 - 2,480,AUS,8:00
+2,Sprint won possession,11.0,5,2,CRO,3.0,HOWDEN R,2 - 2,480,AUS,8:00
+2,20 sec. exclusion in centre,5.0,5,2,CRO,3.0,POWER N,2 - 2,430,AUS,7:10
+2,Action shot - Saved,5.0,5,2,CRO,3.0,JOKOVIC M,2 - 2,408,CRO,6:48
+2,5m shot - Saved,12.0,5,2,CRO,3.0,MILLER W,2 - 2,384,AUS,6:24
+2,Turnover foul,2.0,5,2,CRO,3.0,CAMPBELL R,2 - 2,378,AUS,6:18
+2,Steal,9.0,5,2,CRO,3.0,SUKNO S,2 - 2,378,CRO,6:18
+2,Turnover foul,2.0,5,2,CRO,3.0,LONCAR L,2 - 2,351,CRO,5:51
+2,Steal,13.0,5,2,CRO,3.0,CLARK J,2 - 2,351,AUS,5:51
+2,5m shot - Blocked,10.0,5,2,CRO,3.0,MARTIN T,2 - 2,321,AUS,5:21
+2,5m shot - Saved,12.0,5,2,CRO,3.0,OBRADOVIC P,2 - 2,302,CRO,5:02
+2,Action shot - Saved,8.0,5,2,CRO,3.0,BUSLJE A,2 - 2,278,CRO,4:38
+2,Turnover foul,8.0,5,2,CRO,3.0,YOUNGER A,2 - 2,252,AUS,4:12
+2,5m shot - Blocked,9.0,5,2,CRO,3.0,SUKNO S,2 - 2,235,CRO,3:55
+2,Centre shot - Saved,2.0,5,2,CRO,3.0,CAMPBELL R,2 - 2,208,AUS,3:28
+6,Action shot - Goal,7.0,5,7,CRO,ET2,MUSLIM P,7 - 6,54,CRO,0:54
+6,Time-Out,,5,7,CRO,ET2,,7 - 6,54,AUS,0:54
+6,Turnover foul,2.0,5,7,CRO,ET2,CAMPBELL R,7 - 6,33,AUS,0:33
+6,Centre shot - Saved,11.0,5,7,CRO,3,SETKA A,7 - 6,189,CRO,3:09
+6,20 sec. exclusion in field,12.0,5,7,CRO,3,OBRADOVIC P,7 - 6,185,CRO,3:05
+3,Action shot - Goal,8.0,5,2,CRO,3,YOUNGER A,2 - 3,158,AUS,2:38
+3,Turnover foul,9.0,5,2,CRO,3,SUKNO S,2 - 3,147,CRO,2:27
+3,Steal,11.0,5,2,CRO,3,HOWDEN R,2 - 3,147,AUS,2:27
+3,Turnover foul,9.0,5,2,CRO,3,SWIFT J,2 - 3,124,AUS,2:04
+3,20 sec. exclusion in centre,6.0,5,2,CRO,3,GILCHRIST J,2 - 3,100,AUS,1:40
+3,Time-Out,,5,2,CRO,3,,2 - 3,98,CRO,1:38
+3,Turnover foul,12.0,5,2,CRO,3,OBRADOVIC P,2 - 3,73,CRO,1:13
+3,Action shot - Missed,2.0,5,2,CRO,3,CAMPBELL R,2 - 3,49,AUS,0:49
+3,20 sec. exclusion in centre,2.0,5,2,CRO,3,CAMPBELL R,2 - 3,30,AUS,0:30
+3,Extra player shot - Saved,12.0,5,2,CRO,3,OBRADOVIC P,2 - 3,10,CRO,0:10
+3,Action shot - Saved,9.0,5,2,CRO,3,SUKNO S,2 - 3,1,CRO,0:01
+3,Starting goalkeeper,1.0,5,2,CRO,4,PAVIC J,2 - 3,480,CRO,8:00
+3,Starting goalkeeper,13.0,5,2,CRO,4,CLARK J,2 - 3,480,AUS,8:00
+3,Sprint won possession,11.0,5,2,CRO,4,HOWDEN R,2 - 3,480,AUS,8:00
+4,Action shot - Goal,12.0,5,2,CRO,4,MILLER W,2 - 4,450,AUS,7:30
+4,Turnover foul,10.0,5,2,CRO,4,DOBUD N,2 - 4,421,CRO,7:01
+4,Steal,8.0,5,2,CRO,4,YOUNGER A,2 - 4,421,AUS,7:01
+4,Counter attack - Goal,5.0,5,3,CRO,4,JOKOVIC M,3 - 4,378,CRO,6:18
+5,Action shot - Goal,11.0,5,3,CRO,4,HOWDEN R,3 - 5,351,AUS,5:51
+5,Turnover foul,8.0,5,3,CRO,4,BUSLJE A,3 - 5,325,CRO,5:25
+5,Steal,8.0,5,3,CRO,4,YOUNGER A,3 - 5,325,AUS,5:25
+5,Action shot - Saved,4.0,5,3,CRO,4,COTTERILL J,3 - 5,297,AUS,4:57
+5,Action shot - Saved,5.0,5,3,CRO,4,POWER N,3 - 5,276,AUS,4:36
+5,20 sec. exclusion in centre,5.0,5,3,CRO,4,POWER N,3 - 5,253,AUS,4:13
+5,Extra player shot - Goal,5.0,5,4,CRO,4,JOKOVIC M,4 - 5,234,CRO,3:54
+5,Turnover foul,8.0,5,4,CRO,4,YOUNGER A,4 - 5,206,AUS,3:26
+5,Steal,8.0,5,4,CRO,4,BUSLJE A,4 - 5,206,CRO,3:26
+5,Action shot - Post,8.0,5,4,CRO,4,BUSLJE A,4 - 5,176,CRO,2:56
+5,20 sec. exclusion in centre,11.0,5,4,CRO,4,HOWDEN R,4 - 5,125,AUS,2:05
+5,Extra player shot - Goal,2.0,5,5,CRO,4,LONCAR L,5 - 5,121,CRO,2:01
+5,20 sec. exclusion in field,5.0,5,5,CRO,4,JOKOVIC M,5 - 5,95,CRO,1:35
+5,Extra player shot - Saved,8.0,5,5,CRO,4,YOUNGER A,5 - 5,94,AUS,1:34
+5,Time-Out,,5,5,CRO,4,,5 - 5,93,AUS,1:33
+5,Centre shot - Saved,9.0,5,5,CRO,4,SWIFT J,5 - 5,64,AUS,1:04
+5,Action shot - Missed,5.0,5,5,CRO,4,JOKOVIC M,5 - 5,42,CRO,0:42
+5,20 sec. exclusion in centre,10.0,5,5,CRO,4,DOBUD N,5 - 5,20,CRO,0:20
+5,Extra player shot - Saved,2.0,5,5,CRO,4,CAMPBELL R,5 - 5,1,AUS,0:01
+5,Starting goalkeeper,1.0,5,5,CRO,ET1,PAVIC J,5 - 5,180,CRO,3:00
+5,Starting goalkeeper,13.0,5,5,CRO,ET1,CLARK J,5 - 5,180,AUS,3:00
+5,Sprint won possession,9.0,5,5,CRO,ET1,SUKNO S,5 - 5,180,CRO,3:00
+5,20 sec. exclusion in centre,8.0,5,5,CRO,ET1,YOUNGER A,5 - 5,157,AUS,2:37
+5,Extra player shot - Goal,8.0,5,6,CRO,ET1,BUSLJE A,6 - 5,140,CRO,2:20
+6,Action shot - Goal,2.0,5,6,CRO,ET1,CAMPBELL R,6 - 6,116,AUS,1:56
+6,Turnover foul,10.0,5,6,CRO,ET1,DOBUD N,6 - 6,95,CRO,1:35
+6,Action shot - Saved,2.0,5,6,CRO,ET1,CAMPBELL R,6 - 6,67,AUS,1:07
+6,20 sec. exclusion in centre,11.0,5,6,CRO,ET1,HOWDEN R,6 - 6,39,AUS,0:39
+6,Time-Out,,5,6,CRO,ET1,,6 - 6,39,CRO,0:39
+6,Extra player shot - Blocked,9.0,5,6,CRO,ET1,SUKNO S,6 - 6,19,CRO,0:19
+6,Action shot - Saved,2.0,5,6,CRO,ET1,CAMPBELL R,6 - 6,1,AUS,0:01
+6,Starting goalkeeper,1.0,5,6,CRO,ET2,PAVIC J,6 - 6,180,CRO,3:00
+6,Starting goalkeeper,13.0,5,6,CRO,ET2,CLARK J,6 - 6,180,AUS,3:00
+6,Sprint won possession,11.0,5,6,CRO,ET2,HOWDEN R,6 - 6,180,AUS,3:00
+6,5m shot - Saved,2.0,5,6,CRO,ET2,CAMPBELL R,6 - 6,154,AUS,2:34
+6,Action shot - Saved,8.0,5,6,CRO,ET2,YOUNGER A,6 - 6,128,AUS,2:08
+6,Action shot - Blocked,8.0,5,6,CRO,ET2,YOUNGER A,6 - 6,98,AUS,1:38
+6,Double exclusion,10.0,5,6,CRO,ET2,DOBUD N,6 - 6,95,CRO,1:35
+6,Exclusion with substitution,10.0,5,6,CRO,ET2,DOBUD N,6 - 6,95,CRO,1:35
+6,Double exclusion,6.0,5,6,CRO,ET2,GILCHRIST J,6 - 6,95,AUS,1:35
+6,20 sec. exclusion in centre,7.0,5,6,CRO,ET2,ROACH A,6 - 6,77,AUS,1:17
+6,Time-Out,,5,6,CRO,ET2,,6 - 6,77,CRO,1:17
+6,Action shot - Post,9.0,5,6,CRO,ET2,SUKNO S,6 - 6,55,CRO,0:55
+6,Steal,11.0,5,6,CRO,ET2,SETKA A,6 - 6,33,CRO,0:33
+6,Time-Out,,5,6,CRO,ET2,,6 - 6,24,AUS,0:24
+6,20 sec. exclusion in centre,11.0,5,6,CRO,ET2,SETKA A,6 - 6,4,CRO,0:04
+0,Starting goalkeeper,1.0,6,0,GRE,1.0,TSALKANIS K,0 - 0,480,GRE,8:00
+0,Starting goalkeeper,13.0,6,0,GRE,1.0,CLARK J,0 - 0,480,AUS,8:00
+0,Sprint won possession,11.0,6,0,GRE,1.0,HOWDEN R,0 - 0,480,AUS,8:00
+0,Centre shot - Missed,9.0,6,0,GRE,1.0,SWIFT J,0 - 0,453,AUS,7:33
+0,20 sec. exclusion in centre,5.0,6,0,GRE,1.0,POWER N,0 - 0,428,AUS,7:08
+0,Extra player shot - Goal,5.0,6,1,GRE,1.0,FOUNTOULIS I,1 - 0,411,GRE,6:51
+0,Action shot - Blocked,12.0,6,1,GRE,1.0,MILLER W,1 - 0,381,AUS,6:21
+0,Action shot - Saved,5.0,6,1,GRE,1.0,FOUNTOULIS I,1 - 0,356,GRE,5:56
+1,Action shot - Goal,8.0,6,1,GRE,1.0,YOUNGER A,1 - 1,338,AUS,5:38
+1,20 sec. exclusion in centre,8.0,6,1,GRE,1.0,YOUNGER A,1 - 1,318,AUS,5:18
+1,Extra player shot - Goal,8.0,6,2,GRE,1.0,DELAKAS E,2 - 1,304,GRE,5:04
+1,Action shot - Saved,2.0,6,2,GRE,1.0,CAMPBELL R,2 - 1,276,AUS,4:36
+1,20 sec. exclusion in centre,2.0,6,2,GRE,1.0,CAMPBELL R,2 - 1,251,AUS,4:11
+1,Extra player shot - Goal,2.0,6,3,GRE,1.0,MYLONAKIS E,3 - 1,233,GRE,3:53
+1,Action shot - Saved,11.0,6,3,GRE,1.0,HOWDEN R,3 - 1,203,AUS,3:23
+1,Turnover foul,12.0,6,3,GRE,1.0,VLACHOPOULOS A,3 - 1,177,GRE,2:57
+1,Turnover foul,9.0,6,3,GRE,1.0,SWIFT J,3 - 1,148,AUS,2:28
+1,Steal,5.0,6,3,GRE,1.0,FOUNTOULIS I,3 - 1,148,GRE,2:28
+1,20 sec. exclusion in field,12.0,6,3,GRE,1.0,MILLER W,3 - 1,130,AUS,2:10
+1,Turnover foul,12.0,6,3,GRE,1.0,VLACHOPOULOS A,3 - 1,105,GRE,1:45
+1,Steal,4.0,6,3,GRE,1.0,COTTERILL J,3 - 1,105,AUS,1:45
+1,Turnover foul,7.0,6,3,GRE,1.0,ROACH A,3 - 1,91,AUS,1:31
+1,Steal,7.0,6,3,GRE,1.0,AFROUDAKIS C,3 - 1,91,GRE,1:31
+1,20 sec. exclusion in centre,4.0,6,3,GRE,1.0,COTTERILL J,3 - 1,74,AUS,1:14
+1,Extra player shot - Saved,10.0,6,3,GRE,1.0,KOLOMVOS C,3 - 1,68,GRE,1:08
+1,Action shot - Missed,6.0,6,3,GRE,1.0,GILCHRIST J,3 - 1,42,AUS,0:42
+1,Action shot - Saved,12.0,6,3,GRE,1.0,VLACHOPOULOS A,3 - 1,14,GRE,0:14
+1,Starting goalkeeper,1.0,6,3,GRE,2.0,TSALKANIS K,3 - 1,480,GRE,8:00
+1,Starting goalkeeper,13.0,6,3,GRE,2.0,CLARK J,3 - 1,480,AUS,8:00
+1,Sprint won possession,6.0,6,3,GRE,2.0,GILCHRIST J,3 - 1,480,AUS,8:00
+2,Action shot - Goal,2.0,6,3,GRE,2.0,CAMPBELL R,3 - 2,457,AUS,7:37
+2,Penalty foul,5.0,6,3,GRE,2.0,POWER N,3 - 2,434,AUS,7:14
+2,Penalty shot - Goal,5.0,6,4,GRE,2.0,FOUNTOULIS I,4 - 2,434,GRE,7:14
+2,20 sec. exclusion in centre,10.0,6,4,GRE,2.0,KOLOMVOS C,4 - 2,409,GRE,6:49
+3,Extra player shot - Goal,7.0,6,4,GRE,2.0,ROACH A,4 - 3,391,AUS,6:31
+3,Turnover foul,9.0,6,4,GRE,2.0,MOURIKIS K,4 - 3,375,GRE,6:15
+3,Turnover foul,10.0,6,4,GRE,2.0,MARTIN T,4 - 3,352,AUS,5:52
+3,5m shot - Goal,8.0,6,5,GRE,2.0,DELAKAS E,5 - 3,325,GRE,5:25
+3,Turnover foul,9.0,6,5,GRE,2.0,SWIFT J,5 - 3,298,AUS,4:58
+3,Steal,6.0,6,5,GRE,2.0,PONTIKEAS K,5 - 3,298,GRE,4:58
+3,20 sec. exclusion in centre,6.0,6,5,GRE,2.0,GILCHRIST J,5 - 3,271,AUS,4:31
+3,Extra player shot - Goal,12.0,6,6,GRE,2.0,VLACHOPOULOS A,6 - 3,253,GRE,4:13
+3,Turnover foul,8.0,6,6,GRE,2.0,YOUNGER A,6 - 3,227,AUS,3:47
+3,Action shot - Goal,6.0,6,7,GRE,2.0,PONTIKEAS K,7 - 3,200,GRE,3:20
+3,Goalkeeper substitution,1.0,6,7,GRE,2.0,DENNERLEY J,7 - 3,200,AUS,3:20
+3,5m shot - Saved,8.0,6,7,GRE,2.0,YOUNGER A,7 - 3,172,AUS,2:52
+3,20 sec. exclusion in field,9.0,6,7,GRE,2.0,MOURIKIS K,7 - 3,139,GRE,2:19
+4,Extra player shot - Goal,2.0,6,7,GRE,2.0,CAMPBELL R,7 - 4,120,AUS,2:00
+4,Turnover foul,11.0,6,7,GRE,2.0,GOUNAS A,7 - 4,96,GRE,1:36
+4,Action shot - Saved,2.0,6,7,GRE,2.0,CAMPBELL R,7 - 4,83,AUS,1:23
+4,Action shot - Saved,8.0,6,7,GRE,2.0,DELAKAS E,7 - 4,54,GRE,0:54
+4,Turnover foul,11.0,6,7,GRE,2.0,HOWDEN R,7 - 4,26,AUS,0:26
+4,Steal,11.0,6,7,GRE,2.0,GOUNAS A,7 - 4,26,GRE,0:26
+4,Action shot - Blocked,5.0,6,7,GRE,2.0,FOUNTOULIS I,7 - 4,1,GRE,0:01
+4,Starting goalkeeper,1.0,6,7,GRE,3.0,TSALKANIS K,7 - 4,480,GRE,8:00
+4,Starting goalkeeper,1.0,6,7,GRE,3.0,DENNERLEY J,7 - 4,480,AUS,8:00
+4,Sprint won possession,11.0,6,7,GRE,3.0,HOWDEN R,7 - 4,480,AUS,8:00
+5,Action shot - Goal,6.0,6,7,GRE,3.0,GILCHRIST J,7 - 5,457,AUS,7:37
+5,20 sec. exclusion in centre,8.0,6,7,GRE,3.0,YOUNGER A,7 - 5,431,AUS,7:11
+5,Action shot - Post,9.0,6,7,GRE,3.0,MOURIKIS K,7 - 5,405,GRE,6:45
+5,Turnover foul,9.0,6,7,GRE,3.0,MOURIKIS K,7 - 5,381,GRE,6:21
+5,Steal,1.0,6,7,GRE,3.0,DENNERLEY J,7 - 5,381,AUS,6:21
+5,20 sec. exclusion in field,12.0,6,7,GRE,3.0,VLACHOPOULOS A,7 - 5,359,GRE,5:59
+5,20 sec. exclusion in field,5.0,6,7,GRE,3.0,FOUNTOULIS I,7 - 5,343,GRE,5:43
+6,Extra player shot - Goal,8.0,6,7,GRE,3.0,YOUNGER A,7 - 6,334,AUS,5:34
+6,Turnover foul,7.0,6,7,GRE,3.0,AFROUDAKIS C,7 - 6,322,GRE,5:22
+6,Steal,11.0,6,7,GRE,3.0,HOWDEN R,7 - 6,322,AUS,5:22
+6,Turnover foul,11.0,6,7,GRE,3.0,HOWDEN R,7 - 6,311,AUS,5:11
+6,Steal,7.0,6,7,GRE,3.0,AFROUDAKIS C,7 - 6,311,GRE,5:11
+6,Action shot - Saved,12.0,6,7,GRE,3.0,VLACHOPOULOS A,7 - 6,287,GRE,4:47
+6,Turnover foul,12.0,6,7,GRE,3.0,VLACHOPOULOS A,7 - 6,281,GRE,4:41
+6,20 sec. exclusion in field,12.0,6,7,GRE,3.0,VLACHOPOULOS A,7 - 6,280,GRE,4:40
+6,Time-Out,,6,7,GRE,3.0,,7 - 6,280,AUS,4:40
+7,Action shot - Goal,11.0,6,7,GRE,3.0,HOWDEN R,7 - 7,254,AUS,4:14
+7,20 sec. exclusion in centre,10.0,6,7,GRE,3.0,MARTIN T,7 - 7,239,AUS,3:59
+7,Turnover foul,5.0,6,7,GRE,3.0,FOUNTOULIS I,7 - 7,217,GRE,3:37
+7,Double exclusion,2.0,6,7,GRE,3.0,MYLONAKIS E,7 - 7,193,GRE,3:13
+7,Double exclusion,10.0,6,7,GRE,3.0,MARTIN T,7 - 7,193,AUS,3:13
+7,Centre shot - Goal,10.0,6,8,GRE,3.0,KOLOMVOS C,8 - 7,166,GRE,2:46
+7,20 sec. exclusion in centre,8.0,6,8,GRE,3.0,DELAKAS E,8 - 7,140,GRE,2:20
+7,Extra player shot - Saved,9.0,6,8,GRE,3.0,SWIFT J,8 - 7,124,AUS,2:04
+8,Extra player shot - Goal,6.0,6,8,GRE,3.0,GILCHRIST J,8 - 8,123,AUS,2:03
+8,Action shot - Goal,12.0,6,9,GRE,3.0,VLACHOPOULOS A,9 - 8,96,GRE,1:36
+8,20 sec. exclusion in centre,6.0,6,9,GRE,3.0,PONTIKEAS K,9 - 8,68,GRE,1:08
+8,Turnover foul,4.0,6,9,GRE,3.0,COTTERILL J,9 - 8,48,AUS,0:48
+8,Steal,12.0,6,9,GRE,3.0,VLACHOPOULOS A,9 - 8,48,GRE,0:48
+8,Action shot - Blocked,6.0,6,9,GRE,3.0,PONTIKEAS K,9 - 8,18,GRE,0:18
+8,Turnover foul,9.0,6,9,GRE,3.0,SWIFT J,9 - 8,6,AUS,0:06
+8,Starting goalkeeper,1.0,6,9,GRE,4.0,DENNERLEY J,9 - 8,480,AUS,8:00
+8,Starting goalkeeper,1.0,6,9,GRE,4.0,TSALKANIS K,9 - 8,480,GRE,8:00
+8,Sprint won possession,11.0,6,9,GRE,4.0,HOWDEN R,9 - 8,480,AUS,8:00
+8,Turnover foul,9.0,6,9,GRE,4.0,SWIFT J,9 - 8,456,AUS,7:36
+8,Turnover foul,2.0,6,9,GRE,4.0,MYLONAKIS E,9 - 8,439,GRE,7:19
+8,Steal,8.0,6,9,GRE,4.0,YOUNGER A,9 - 8,439,AUS,7:19
+9,Counter attack - Goal,8.0,6,9,GRE,4.0,YOUNGER A,9 - 9,425,AUS,7:05
+9,20 sec. exclusion in centre,2.0,6,9,GRE,4.0,CAMPBELL R,9 - 9,402,AUS,6:42
+9,Centre shot - Goal,8.0,6,10,GRE,4.0,DELAKAS E,10 - 9,377,GRE,6:17
+9,Centre shot - Blocked,8.0,6,10,GRE,4.0,YOUNGER A,10 - 9,350,AUS,5:50
+9,5m shot - Post,8.0,6,10,GRE,4.0,DELAKAS E,10 - 9,324,GRE,5:24
+9,Turnover foul,6.0,6,10,GRE,4.0,GILCHRIST J,10 - 9,299,AUS,4:59
+9,Steal,5.0,6,10,GRE,4.0,FOUNTOULIS I,10 - 9,299,GRE,4:59
+9,Turnover foul,10.0,6,10,GRE,4.0,KOLOMVOS C,10 - 9,282,GRE,4:42
+9,Turnover foul,8.0,6,10,GRE,4.0,YOUNGER A,10 - 9,259,AUS,4:19
+9,Turnover foul,10.0,6,10,GRE,4.0,KOLOMVOS C,10 - 9,245,GRE,4:05
+9,20 sec. exclusion in field,10.0,6,10,GRE,4.0,KOLOMVOS C,10 - 9,244,GRE,4:04
+9,Time-Out,,6,10,GRE,4.0,,10 - 9,243,AUS,4:03
+9,Extra player shot - Missed,11.0,6,10,GRE,4.0,HOWDEN R,10 - 9,227,AUS,3:47
+9,20 sec. exclusion in field,11.0,6,10,GRE,4.0,HOWDEN R,10 - 9,227,AUS,3:47
+9,Time-Out,,6,10,GRE,4.0,,10 - 9,227,GRE,3:47
+9,Action shot - Goal,12.0,6,11,GRE,4.0,VLACHOPOULOS A,11 - 9,206,GRE,3:26
+9,20 sec. exclusion in centre,8.0,6,11,GRE,4.0,DELAKAS E,11 - 9,191,GRE,3:11
+9,Turnover foul,11.0,6,11,GRE,4.0,HOWDEN R,11 - 9,166,AUS,2:46
+9,Steal,5.0,6,11,GRE,4.0,FOUNTOULIS I,11 - 9,166,GRE,2:46
+9,20 sec. exclusion in centre,2.0,6,11,GRE,4.0,CAMPBELL R,11 - 9,141,AUS,2:21
+9,Exclusion with substitution,2.0,6,11,GRE,4.0,CAMPBELL R,11 - 9,141,AUS,2:21
+9,Action shot - Post,12.0,6,11,GRE,4.0,VLACHOPOULOS A,11 - 9,117,GRE,1:57
+9,20 sec. exclusion in centre,9.0,6,11,GRE,4.0,MOURIKIS K,11 - 9,92,GRE,1:32
+9,Extra player shot - Saved,9.0,6,11,GRE,4.0,SWIFT J,11 - 9,83,AUS,1:23
+9,Turnover foul,4.0,6,11,GRE,4.0,COTTERILL J,11 - 9,46,AUS,0:46
+9,Steal,2.0,6,11,GRE,4.0,MYLONAKIS E,11 - 9,46,GRE,0:46
+9,20 sec. exclusion in field,4.0,6,11,GRE,4.0,COTTERILL J,11 - 9,28,AUS,0:28
+9,Double exclusion,7.0,6,11,GRE,4.0,AFROUDAKIS C,11 - 9,18,GRE,0:18
+9,Double exclusion,6.0,6,11,GRE,4.0,GILCHRIST J,11 - 9,18,AUS,0:18
+0,Starting goalkeeper,1.0,7,0,SRB,1.0,DENNERLEY J,0 - 0,480,AUS,8:00
+0,Starting goalkeeper,1.0,7,0,SRB,1.0,MITROVIC B,0 - 0,480,SRB,8:00
+0,Sprint won possession,3.0,7,0,SRB,1.0,GOCIC Z,0 - 0,480,SRB,8:00
+0,20 sec. exclusion in field,2.0,7,0,SRB,1.0,CAMPBELL R,0 - 0,461,AUS,7:41
+0,Extra player shot - Saved,6.0,7,0,SRB,1.0,PIJETLOVIC D,0 - 0,444,SRB,7:24
+0,20 sec. exclusion in centre,7.0,7,0,SRB,1.0,ROACH A,0 - 0,391,AUS,6:31
+0,Extra player shot - Blocked,4.0,7,0,SRB,1.0,UDOVICIC V,0 - 0,376,SRB,6:16
+0,Centre shot - Saved,9.0,7,0,SRB,1.0,SWIFT J,0 - 0,348,AUS,5:48
+0,Centre shot - Saved,3.0,7,0,SRB,1.0,GOCIC Z,0 - 0,324,SRB,5:24
+1,Centre shot - Goal,9.0,7,0,SRB,1.0,SWIFT J,1 - 0,295,AUS,4:55
+1,20 sec. exclusion in centre,8.0,7,0,SRB,1.0,YOUNGER A,1 - 0,273,AUS,4:33
+1,Extra player shot - Goal,10.0,7,1,SRB,1.0,FILIPOVIC F,1 - 1,267,SRB,4:27
+1,20 sec. exclusion in centre,10.0,7,1,SRB,1.0,FILIPOVIC F,1 - 1,242,SRB,4:02
+1,Extra player shot - Blocked,4.0,7,1,SRB,1.0,COTTERILL J,1 - 1,222,AUS,3:42
+2,Action shot - Goal,11.0,7,1,SRB,1.0,HOWDEN R,2 - 1,221,AUS,3:41
+2,5m shot - Goal,10.0,7,2,SRB,1.0,FILIPOVIC F,2 - 2,203,SRB,3:23
+2,Turnover foul,6.0,7,2,SRB,1.0,GILCHRIST J,2 - 2,178,AUS,2:58
+2,Steal,12.0,7,2,SRB,1.0,MITROVIC S,2 - 2,178,SRB,2:58
+2,5m shot - Post,3.0,7,2,SRB,1.0,GOCIC Z,2 - 2,152,SRB,2:32
+2,Action shot - Blocked,12.0,7,2,SRB,1.0,MILLER W,2 - 2,123,AUS,2:03
+2,Turnover foul,7.0,7,2,SRB,1.0,NIKIC S,2 - 2,94,SRB,1:34
+2,Steal,4.0,7,2,SRB,1.0,COTTERILL J,2 - 2,94,AUS,1:34
+2,Action shot - Saved,4.0,7,2,SRB,1.0,COTTERILL J,2 - 2,74,AUS,1:14
+2,Centre shot - Post,8.0,7,2,SRB,1.0,YOUNGER A,2 - 2,67,AUS,1:07
+2,Penalty foul,10.0,7,2,SRB,1.0,MARTIN T,2 - 2,44,AUS,0:44
+2,Penalty shot - Saved,10.0,7,2,SRB,1.0,FILIPOVIC F,2 - 2,44,SRB,0:44
+2,Counter attack - Goal,3.0,7,3,SRB,1.0,GOCIC Z,2 - 3,9,SRB,0:09
+2,5m shot - Missed,12.0,7,3,SRB,1.0,MILLER W,2 - 3,1,AUS,0:01
+2,Starting goalkeeper,1.0,7,3,SRB,2.0,MITROVIC B,2 - 3,480,SRB,8:00
+2,Starting goalkeeper,1.0,7,3,SRB,2.0,DENNERLEY J,2 - 3,480,AUS,8:00
+2,Sprint won possession,11.0,7,3,SRB,2.0,HOWDEN R,2 - 3,480,AUS,8:00
+2,Action shot - Saved,11.0,7,3,SRB,2.0,HOWDEN R,2 - 3,452,AUS,7:32
+2,20 sec. exclusion in centre,9.0,7,3,SRB,2.0,RADEN N,2 - 3,429,SRB,7:09
+2,Action shot - Saved,11.0,7,3,SRB,2.0,HOWDEN R,2 - 3,406,AUS,6:46
+2,20 sec. exclusion in centre,5.0,7,3,SRB,2.0,POWER N,2 - 3,382,AUS,6:22
+2,Turnover foul,5.0,7,3,SRB,2.0,CUK M,2 - 3,365,SRB,6:05
+2,Steal,7.0,7,3,SRB,2.0,ROACH A,2 - 3,365,AUS,6:05
+2,Action shot - Saved,11.0,7,3,SRB,2.0,PRLAINOVIC A,2 - 3,313,SRB,5:13
+3,5m shot - Goal,8.0,7,3,SRB,2.0,YOUNGER A,3 - 3,286,AUS,4:46
+3,Turnover foul,3.0,7,3,SRB,2.0,GOCIC Z,3 - 3,274,SRB,4:34
+3,Steal,7.0,7,3,SRB,2.0,ROACH A,3 - 3,274,AUS,4:34
+3,Turnover foul,7.0,7,3,SRB,2.0,ROACH A,3 - 3,265,AUS,4:25
+3,Steal,4.0,7,3,SRB,2.0,UDOVICIC V,3 - 3,265,SRB,4:25
+3,Counter attack - Post,11.0,7,3,SRB,2.0,PRLAINOVIC A,3 - 3,247,SRB,4:07
+3,Action shot - Missed,9.0,7,3,SRB,2.0,RADEN N,3 - 3,187,SRB,3:07
+3,5m shot - Saved,8.0,7,3,SRB,2.0,YOUNGER A,3 - 3,164,AUS,2:44
+3,Action shot - Goal,9.0,7,4,SRB,2.0,RADEN N,3 - 4,145,SRB,2:25
+3,Turnover foul,12.0,7,4,SRB,2.0,MILLER W,3 - 4,116,AUS,1:56
+3,Steal,11.0,7,4,SRB,2.0,PRLAINOVIC A,3 - 4,116,SRB,1:56
+3,Action shot - Saved,5.0,7,4,SRB,2.0,CUK M,3 - 4,96,SRB,1:36
+3,Turnover foul,8.0,7,4,SRB,2.0,YOUNGER A,3 - 4,74,AUS,1:14
+3,Steal,3.0,7,4,SRB,2.0,GOCIC Z,3 - 4,74,SRB,1:14
+3,Action shot - Goal,3.0,7,5,SRB,2.0,GOCIC Z,3 - 5,46,SRB,0:46
+3,20 sec. exclusion in centre,2.0,7,5,SRB,2.0,MANDIC D,3 - 5,28,SRB,0:28
+4,Extra player shot - Goal,9.0,7,5,SRB,2.0,SWIFT J,4 - 5,13,AUS,0:13
+4,Centre shot - Saved,11.0,7,5,SRB,2.0,PRLAINOVIC A,4 - 5,1,SRB,0:01
+4,Starting goalkeeper,1.0,7,5,SRB,3.0,MITROVIC B,4 - 5,480,SRB,8:00
+4,Starting goalkeeper,1.0,7,5,SRB,3.0,DENNERLEY J,4 - 5,480,AUS,8:00
+4,Sprint won possession,11.0,7,5,SRB,3.0,HOWDEN R,4 - 5,480,AUS,8:00
+4,Action shot - Blocked,2.0,7,5,SRB,3.0,CAMPBELL R,4 - 5,454,AUS,7:34
+4,20 sec. exclusion in field,11.0,7,5,SRB,3.0,HOWDEN R,4 - 5,434,AUS,7:14
+4,Action shot - Saved,2.0,7,5,SRB,3.0,MANDIC D,4 - 5,409,SRB,6:49
+4,Centre shot - Saved,9.0,7,5,SRB,3.0,SWIFT J,4 - 5,379,AUS,6:19
+4,Turnover foul,9.0,7,5,SRB,3.0,SWIFT J,4 - 5,351,AUS,5:51
+4,Steal,11.0,7,5,SRB,3.0,PRLAINOVIC A,4 - 5,351,SRB,5:51
+4,Centre shot - Saved,11.0,7,5,SRB,3.0,PRLAINOVIC A,4 - 5,331,SRB,5:31
+4,Action shot - Goal,10.0,7,6,SRB,3.0,FILIPOVIC F,4 - 6,328,SRB,5:28
+4,20 sec. exclusion in centre,9.0,7,6,SRB,3.0,RADEN N,4 - 6,316,SRB,5:16
+4,Extra player shot - Blocked,8.0,7,6,SRB,3.0,YOUNGER A,4 - 6,296,AUS,4:56
+4,20 sec. exclusion in centre,8.0,7,6,SRB,3.0,YOUNGER A,4 - 6,274,AUS,4:34
+4,Extra player shot - Goal,6.0,7,7,SRB,3.0,PIJETLOVIC D,4 - 7,259,SRB,4:19
+4,Turnover foul,11.0,7,7,SRB,3.0,HOWDEN R,4 - 7,231,AUS,3:51
+4,Steal,10.0,7,7,SRB,3.0,FILIPOVIC F,4 - 7,231,SRB,3:51
+4,Turnover foul,7.0,7,7,SRB,3.0,NIKIC S,4 - 7,206,SRB,3:26
+4,Steal,1.0,7,7,SRB,3.0,DENNERLEY J,4 - 7,206,AUS,3:26
+4,20 sec. exclusion in centre,7.0,7,7,SRB,3.0,NIKIC S,4 - 7,182,SRB,3:02
+4,Time-Out,,7,7,SRB,3.0,,4 - 7,181,AUS,3:01
+5,Action shot - Goal,7.0,7,7,SRB,3.0,ROACH A,5 - 7,155,AUS,2:35
+5,5m shot - Goal,10.0,7,8,SRB,3.0,FILIPOVIC F,5 - 8,140,SRB,2:20
+5,5m shot - Missed,2.0,7,8,SRB,3.0,CAMPBELL R,5 - 8,115,AUS,1:55
+5,5m shot - Goal,12.0,7,9,SRB,3.0,MITROVIC S,5 - 9,98,SRB,1:38
+5,Turnover foul,9.0,7,9,SRB,3.0,SWIFT J,5 - 9,69,AUS,1:09
+5,Steal,1.0,7,9,SRB,3.0,MITROVIC B,5 - 9,69,SRB,1:09
+5,Turnover foul,9.0,7,9,SRB,3.0,RADEN N,5 - 9,42,SRB,0:42
+5,Steal,6.0,7,9,SRB,3.0,GILCHRIST J,5 - 9,42,AUS,0:42
+6,Action shot - Goal,12.0,7,9,SRB,3.0,MILLER W,6 - 9,25,AUS,0:25
+6,Turnover foul,6.0,7,9,SRB,3.0,PIJETLOVIC D,6 - 9,8,SRB,0:08
+6,Steal,11.0,7,9,SRB,3.0,HOWDEN R,6 - 9,8,AUS,0:08
+6,5m shot - Saved,4.0,7,9,SRB,3.0,COTTERILL J,6 - 9,3,AUS,0:03
+6,Starting goalkeeper,1.0,7,9,SRB,4.0,MITROVIC B,6 - 9,480,SRB,8:00
+6,Starting goalkeeper,1.0,7,9,SRB,4.0,DENNERLEY J,6 - 9,480,AUS,8:00
+6,Sprint won possession,2.0,7,9,SRB,4.0,MANDIC D,6 - 9,480,SRB,8:00
+6,Action shot - Saved,2.0,7,9,SRB,4.0,MANDIC D,6 - 9,460,SRB,7:40
+7,Centre shot - Goal,11.0,7,9,SRB,4.0,HOWDEN R,7 - 9,437,AUS,7:17
+7,20 sec. exclusion in centre,10.0,7,9,SRB,4.0,MARTIN T,7 - 9,423,AUS,7:03
+7,Centre shot - Goal,6.0,7,10,SRB,4.0,PIJETLOVIC D,7 - 10,400,SRB,6:40
+7,Action shot - Blocked,11.0,7,10,SRB,4.0,HOWDEN R,7 - 10,371,AUS,6:11
+7,Action shot - Saved,8.0,7,10,SRB,4.0,YOUNGER A,7 - 10,350,AUS,5:50
+7,5m shot - Blocked,4.0,7,10,SRB,4.0,UDOVICIC V,7 - 10,324,SRB,5:24
+7,20 sec. exclusion in field,12.0,7,10,SRB,4.0,MILLER W,7 - 10,271,AUS,4:31
+7,Time-Out,,7,10,SRB,4.0,,7 - 10,271,SRB,4:31
+7,Action shot - Goal,10.0,7,11,SRB,4.0,FILIPOVIC F,7 - 11,246,SRB,4:06
+7,Centre shot - Saved,9.0,7,11,SRB,4.0,SWIFT J,7 - 11,226,AUS,3:46
+7,5m shot - Goal,4.0,7,12,SRB,4.0,UDOVICIC V,7 - 12,199,SRB,3:19
+7,Action shot - Saved,11.0,7,12,SRB,4.0,HOWDEN R,7 - 12,170,AUS,2:50
+7,Turnover foul,4.0,7,12,SRB,4.0,UDOVICIC V,7 - 12,144,SRB,2:24
+7,Steal,2.0,7,12,SRB,4.0,CAMPBELL R,7 - 12,144,AUS,2:24
+7,Turnover foul,7.0,7,12,SRB,4.0,ROACH A,7 - 12,115,AUS,1:55
+7,Steal,3.0,7,12,SRB,4.0,GOCIC Z,7 - 12,115,SRB,1:55
+7,Centre shot - Goal,7.0,7,13,SRB,4.0,NIKIC S,7 - 13,85,SRB,1:25
+7,Turnover foul,8.0,7,13,SRB,4.0,YOUNGER A,7 - 13,64,AUS,1:04
+7,Steal,11.0,7,13,SRB,4.0,PRLAINOVIC A,7 - 13,64,SRB,1:04
+7,Turnover foul,6.0,7,13,SRB,4.0,PIJETLOVIC D,7 - 13,57,SRB,0:57
+7,20 sec. exclusion in centre,2.0,7,13,SRB,4.0,MANDIC D,7 - 13,42,SRB,0:42
+7,Extra player shot - Saved,6.0,7,13,SRB,4.0,GILCHRIST J,7 - 13,25,AUS,0:25
+7,5m shot - Blocked,6.0,7,13,SRB,4.0,PIJETLOVIC D,7 - 13,8,SRB,0:08
+7,5m shot - Saved,3.0,7,13,SRB,4.0,MARTIN M,7 - 13,1,AUS,0:01

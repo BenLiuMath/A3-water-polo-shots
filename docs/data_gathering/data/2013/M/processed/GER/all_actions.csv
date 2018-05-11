@@ -1,0 +1,495 @@
+Action,Cap,GER,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,1.0,0,1,0,KAZ,1.0,MAXIMOV N,0 - 0,480,KAZ,8:00
+Starting goalkeeper,13.0,0,1,0,KAZ,1.0,SCHENKEL M,0 - 0,480,GER,8:00
+Sprint won possession,10.0,0,1,0,KAZ,1.0,OELER M,0 - 0,480,GER,8:00
+Turnover foul,9.0,0,1,0,KAZ,1.0,STAMM M,0 - 0,453,GER,7:33
+Steal,7.0,0,1,0,KAZ,1.0,USHAKOV V,0 - 0,453,KAZ,7:33
+5m shot - Post,9.0,0,1,0,KAZ,1.0,UKUMANOV R,0 - 0,426,KAZ,7:06
+5m shot - Blocked,4.0,0,1,0,KAZ,1.0,REAL J,0 - 0,399,GER,6:39
+20 sec. exclusion in centre,4.0,0,1,0,KAZ,1.0,REAL J,0 - 0,373,GER,6:13
+Action shot - Goal,7.0,0,1,1,KAZ,1.0,USHAKOV V,0 - 1,349,KAZ,5:49
+20 sec. exclusion in centre,4.0,0,1,1,KAZ,1.0,PILIPENKO R,0 - 1,334,KAZ,5:34
+Extra player shot - Goal,2.0,1,1,1,KAZ,1.0,BUKOWSKI E,1 - 1,316,GER,5:16
+20 sec. exclusion in field,10.0,1,1,1,KAZ,1.0,OELER M,1 - 1,288,GER,4:48
+Centre shot - Saved,11.0,1,1,1,KAZ,1.0,MANAFOV R,1 - 1,263,KAZ,4:23
+Turnover foul,9.0,1,1,1,KAZ,1.0,STAMM M,1 - 1,247,GER,4:07
+Steal,8.0,1,1,1,KAZ,1.0,KOLIADENKO A,1 - 1,247,KAZ,4:07
+Action shot - Goal,7.0,1,1,2,KAZ,1.0,USHAKOV V,1 - 2,226,KAZ,3:46
+5m shot - Goal,7.0,2,1,2,KAZ,1.0,NOSSEK H,2 - 2,199,GER,3:19
+Turnover foul,4.0,2,1,2,KAZ,1.0,PILIPENKO R,2 - 2,182,KAZ,3:02
+5m shot - Post,7.0,2,1,2,KAZ,1.0,NOSSEK H,2 - 2,155,GER,2:35
+20 sec. exclusion in centre,8.0,2,1,2,KAZ,1.0,SCHUELER P,2 - 2,125,GER,2:05
+Action shot - Missed,9.0,2,1,2,KAZ,1.0,UKUMANOV R,2 - 2,108,KAZ,1:48
+5m shot - Saved,7.0,2,1,2,KAZ,1.0,NOSSEK H,2 - 2,79,GER,1:19
+Centre shot - Saved,5.0,2,1,2,KAZ,1.0,SHAKENOV M,2 - 2,56,KAZ,0:56
+Action shot - Goal,3.0,3,1,2,KAZ,1.0,MIERS E,3 - 2,43,GER,0:43
+Centre shot - Goal,12.0,3,1,3,KAZ,1.0,PEKOVICH B,3 - 3,14,KAZ,0:14
+20 sec. exclusion in field,3.0,3,1,3,KAZ,1.0,MEDVEDEV Y,3 - 3,5,KAZ,0:05
+Extra player shot - Missed,3.0,3,1,3,KAZ,1.0,MIERS E,3 - 3,1,GER,0:01
+Starting goalkeeper,1.0,3,1,3,KAZ,2.0,MAXIMOV N,3 - 3,480,KAZ,8:00
+Starting goalkeeper,13.0,3,1,3,KAZ,2.0,SCHENKEL M,3 - 3,480,GER,8:00
+Sprint won possession,2.0,3,1,3,KAZ,2.0,GUBAREV S,3 - 3,480,KAZ,8:00
+20 sec. exclusion in field,4.0,3,1,3,KAZ,2.0,REAL J,3 - 3,462,GER,7:42
+Extra player shot - Missed,4.0,3,1,3,KAZ,2.0,PILIPENKO R,3 - 3,445,KAZ,7:25
+20 sec. exclusion in centre,6.0,3,1,3,KAZ,2.0,SHMIDER A,3 - 3,425,KAZ,7:05
+5m shot - Goal,2.0,4,1,3,KAZ,2.0,BUKOWSKI E,4 - 3,403,GER,6:43
+Turnover foul,12.0,4,1,3,KAZ,2.0,PEKOVICH B,4 - 3,383,KAZ,6:23
+5m shot - Post,7.0,4,1,3,KAZ,2.0,NOSSEK H,4 - 3,357,GER,5:57
+Turnover foul,7.0,4,1,3,KAZ,2.0,USHAKOV V,4 - 3,335,KAZ,5:35
+Steal,7.0,4,1,3,KAZ,2.0,NOSSEK H,4 - 3,335,GER,5:35
+Centre shot - Saved,12.0,4,1,3,KAZ,2.0,EIDNER D,4 - 3,307,GER,5:07
+20 sec. exclusion in field,12.0,4,1,3,KAZ,2.0,EIDNER D,4 - 3,305,GER,5:05
+Action shot - Blocked,12.0,4,1,3,KAZ,2.0,PEKOVICH B,4 - 3,280,KAZ,4:40
+20 sec. exclusion in field,12.0,4,1,3,KAZ,2.0,PEKOVICH B,4 - 3,279,KAZ,4:39
+5m shot - Goal,7.0,5,1,3,KAZ,2.0,NOSSEK H,5 - 3,257,GER,4:17
+Turnover foul,9.0,5,1,3,KAZ,2.0,UKUMANOV R,5 - 3,236,KAZ,3:56
+Steal,3.0,5,1,3,KAZ,2.0,MIERS E,5 - 3,236,GER,3:56
+Turnover foul,11.0,5,1,3,KAZ,2.0,SCHLOTTERBECK A,5 - 3,232,GER,3:52
+20 sec. exclusion in centre,3.0,5,1,3,KAZ,2.0,MIERS E,5 - 3,218,GER,3:38
+Extra player shot - Post,5.0,5,1,3,KAZ,2.0,SHAKENOV M,5 - 3,202,KAZ,3:22
+20 sec. exclusion in field,6.0,5,1,3,KAZ,2.0,SHMIDER A,5 - 3,181,KAZ,3:01
+Extra player shot - Post,3.0,5,1,3,KAZ,2.0,MIERS E,5 - 3,163,GER,2:43
+Centre shot - Saved,11.0,5,1,3,KAZ,2.0,MANAFOV R,5 - 3,141,KAZ,2:21
+5m shot - Goal,8.0,6,1,3,KAZ,2.0,SCHUELER P,6 - 3,118,GER,1:58
+Time-Out,,6,1,3,KAZ,2.0,,6 - 3,118,KAZ,1:58
+20 sec. exclusion in centre,5.0,6,1,3,KAZ,2.0,ROHE T,6 - 3,92,GER,1:32
+Extra player shot - Saved,9.0,6,1,3,KAZ,2.0,UKUMANOV R,6 - 3,73,KAZ,1:13
+Turnover foul,12.0,6,1,3,KAZ,2.0,EIDNER D,6 - 3,55,GER,0:55
+Steal,7.0,6,1,3,KAZ,2.0,USHAKOV V,6 - 3,55,KAZ,0:55
+Turnover foul,12.0,6,1,3,KAZ,2.0,PEKOVICH B,6 - 3,29,KAZ,0:29
+5m shot - Saved,7.0,6,1,3,KAZ,2.0,NOSSEK H,6 - 3,13,GER,0:13
+Starting goalkeeper,13.0,6,1,3,KAZ,3.0,SCHENKEL M,6 - 3,480,GER,8:00
+Starting goalkeeper,1.0,6,1,3,KAZ,3.0,MAXIMOV N,6 - 3,480,KAZ,8:00
+Sprint won possession,3.0,6,1,3,KAZ,3.0,MIERS E,6 - 3,480,GER,8:00
+5m shot - Missed,2.0,6,1,3,KAZ,3.0,BUKOWSKI E,6 - 3,450,GER,7:30
+20 sec. exclusion in centre,7.0,6,1,3,KAZ,3.0,NOSSEK H,6 - 3,431,GER,7:11
+Extra player shot - Goal,2.0,6,1,4,KAZ,3.0,GUBAREV S,6 - 4,414,KAZ,6:54
+Turnover foul,10.0,6,1,4,KAZ,3.0,OELER M,6 - 4,385,GER,6:25
+Steal,2.0,6,1,4,KAZ,3.0,GUBAREV S,6 - 4,385,KAZ,6:25
+Turnover foul,7.0,6,1,4,KAZ,3.0,USHAKOV V,6 - 4,358,KAZ,5:58
+Steal,4.0,6,1,4,KAZ,3.0,REAL J,6 - 4,358,GER,5:58
+Turnover foul,11.0,6,1,4,KAZ,3.0,SCHLOTTERBECK A,6 - 4,338,GER,5:38
+Turnover foul,10.0,6,1,4,KAZ,3.0,RUDAY M,6 - 4,307,KAZ,5:07
+Steal,4.0,6,1,4,KAZ,3.0,REAL J,6 - 4,307,GER,5:07
+5m shot - Saved,4.0,6,1,4,KAZ,3.0,REAL J,6 - 4,292,GER,4:52
+5m shot - Goal,10.0,7,1,4,KAZ,3.0,OELER M,7 - 4,244,GER,4:04
+20 sec. exclusion in field,5.0,7,1,4,KAZ,3.0,ROHE T,7 - 4,224,GER,3:44
+Action shot - Saved,5.0,7,1,4,KAZ,3.0,SHAKENOV M,7 - 4,203,KAZ,3:23
+Action shot - Blocked,6.0,7,1,4,KAZ,3.0,JUENGLING M,7 - 4,177,GER,2:57
+Turnover foul,12.0,7,1,4,KAZ,3.0,PEKOVICH B,7 - 4,156,KAZ,2:36
+Steal,10.0,7,1,4,KAZ,3.0,OELER M,7 - 4,156,GER,2:36
+5m shot - Post,2.0,7,1,4,KAZ,3.0,BUKOWSKI E,7 - 4,134,GER,2:14
+5m shot - Blocked,3.0,7,1,4,KAZ,3.0,MEDVEDEV Y,7 - 4,104,KAZ,1:44
+5m shot - Blocked,12.0,7,1,4,KAZ,3.0,EIDNER D,7 - 4,86,GER,1:26
+5m shot - Saved,7.0,7,1,4,KAZ,3.0,USHAKOV V,7 - 4,47,KAZ,0:47
+Penalty foul,6.0,7,1,4,KAZ,3.0,SHMIDER A,7 - 4,36,KAZ,0:36
+Exclusion with substitution,6.0,7,1,4,KAZ,3.0,SHMIDER A,7 - 4,36,KAZ,0:36
+Penalty shot - Goal,7.0,8,1,4,KAZ,3.0,NOSSEK H,8 - 4,36,GER,0:36
+Turnover foul,7.0,8,1,4,KAZ,3.0,USHAKOV V,8 - 4,22,KAZ,0:22
+Centre shot - Goal,9.0,9,1,4,KAZ,3.0,STAMM M,9 - 4,8,GER,0:08
+5m shot - Saved,7.0,9,1,4,KAZ,3.0,USHAKOV V,9 - 4,2,KAZ,0:02
+Starting goalkeeper,13.0,9,1,4,KAZ,4.0,SCHENKEL M,9 - 4,480,GER,8:00
+Starting goalkeeper,1.0,9,1,4,KAZ,4.0,MAXIMOV N,9 - 4,480,KAZ,8:00
+Sprint won possession,3.0,9,1,4,KAZ,4.0,MIERS E,9 - 4,480,GER,8:00
+Turnover foul,8.0,9,1,4,KAZ,4.0,SCHUELER P,9 - 4,459,GER,7:39
+Steal,3.0,9,1,4,KAZ,4.0,MEDVEDEV Y,9 - 4,459,KAZ,7:39
+Turnover foul,2.0,9,1,4,KAZ,4.0,GUBAREV S,9 - 4,443,KAZ,7:23
+Steal,8.0,9,1,4,KAZ,4.0,SCHUELER P,9 - 4,443,GER,7:23
+Turnover foul,4.0,9,1,4,KAZ,4.0,REAL J,9 - 4,419,GER,6:59
+Steal,9.0,9,1,4,KAZ,4.0,UKUMANOV R,9 - 4,419,KAZ,6:59
+5m shot - Post,9.0,9,1,4,KAZ,4.0,UKUMANOV R,9 - 4,393,KAZ,6:33
+Centre shot - Saved,11.0,9,1,4,KAZ,4.0,SCHLOTTERBECK A,9 - 4,365,GER,6:05
+Turnover foul,3.0,9,1,4,KAZ,4.0,MEDVEDEV Y,9 - 4,338,KAZ,5:38
+Steal,7.0,9,1,4,KAZ,4.0,NOSSEK H,9 - 4,338,GER,5:38
+Turnover foul,11.0,9,1,4,KAZ,4.0,SCHLOTTERBECK A,9 - 4,316,GER,5:16
+Turnover foul,9.0,9,1,4,KAZ,4.0,UKUMANOV R,9 - 4,297,KAZ,4:57
+Time-Out,,9,1,4,KAZ,4.0,,9 - 4,295,GER,4:55
+5m shot - Saved,10.0,9,1,4,KAZ,4.0,OELER M,9 - 4,269,GER,4:29
+5m shot - Goal,7.0,9,1,5,KAZ,4.0,USHAKOV V,9 - 5,240,KAZ,4:00
+20 sec. exclusion in field,9.0,9,1,5,KAZ,4.0,UKUMANOV R,9 - 5,222,KAZ,3:42
+5m shot - Saved,7.0,9,1,5,KAZ,4.0,NOSSEK H,9 - 5,192,GER,3:12
+Counter attack - Goal,2.0,9,1,6,KAZ,4.0,GUBAREV S,9 - 6,178,KAZ,2:58
+Turnover foul,12.0,9,1,6,KAZ,4.0,EIDNER D,9 - 6,161,GER,2:41
+Counter attack - Goal,4.0,9,1,7,KAZ,4.0,PILIPENKO R,9 - 7,148,KAZ,2:28
+5m shot - Saved,10.0,9,1,7,KAZ,4.0,OELER M,9 - 7,119,GER,1:59
+Counter attack - Goal,9.0,9,1,8,KAZ,4.0,UKUMANOV R,9 - 8,109,KAZ,1:49
+20 sec. exclusion in centre,4.0,9,1,8,KAZ,4.0,PILIPENKO R,9 - 8,82,KAZ,1:22
+Extra player shot - Saved,7.0,9,1,8,KAZ,4.0,NOSSEK H,9 - 8,71,GER,1:11
+Action shot - Saved,9.0,9,1,8,KAZ,4.0,STAMM M,9 - 8,58,GER,0:58
+Turnover foul,11.0,9,1,8,KAZ,4.0,SCHLOTTERBECK A,9 - 8,32,GER,0:32
+Steal,2.0,9,1,8,KAZ,4.0,GUBAREV S,9 - 8,32,KAZ,0:32
+Time-Out,,9,1,8,KAZ,4.0,,9 - 8,32,KAZ,0:32
+5m shot - Blocked,2.0,9,1,8,KAZ,4.0,GUBAREV S,9 - 8,7,KAZ,0:07
+Starting goalkeeper,1.0,0,2,0,ITA,1.0,KONG R,0 - 0,480,GER,8:00
+Starting goalkeeper,1.0,0,2,0,ITA,1.0,TEMPESTI S,0 - 0,480,ITA,8:00
+Sprint won possession,10.0,0,2,0,ITA,1.0,FIORENTINI D,0 - 0,480,ITA,8:00
+Turnover foul,10.0,0,2,0,ITA,1.0,FIORENTINI D,0 - 0,460,ITA,7:40
+Steal,9.0,0,2,0,ITA,1.0,STAMM M,0 - 0,460,GER,7:40
+Turnover foul,2.0,0,2,0,ITA,1.0,BUKOWSKI E,0 - 0,439,GER,7:19
+Steal,5.0,0,2,0,ITA,1.0,GIORGETTI A,0 - 0,439,ITA,7:19
+Centre shot - Saved,3.0,0,2,0,ITA,1.0,GITTO N,0 - 0,418,ITA,6:58
+5m shot - Missed,6.0,0,2,0,ITA,1.0,FELUGO M,0 - 0,393,ITA,6:33
+5m shot - Saved,4.0,0,2,0,ITA,1.0,REAL J,0 - 0,367,GER,6:07
+Turnover foul,7.0,0,2,0,ITA,1.0,NOSSEK H,0 - 0,339,GER,5:39
+Steal,1.0,0,2,0,ITA,1.0,TEMPESTI S,0 - 0,339,ITA,5:39
+Turnover foul,8.0,0,2,0,ITA,1.0,GALLO V,0 - 0,324,ITA,5:24
+20 sec. exclusion in field,10.0,0,2,0,ITA,1.0,FIORENTINI D,0 - 0,321,ITA,5:21
+Centre shot - Goal,4.0,1,2,0,ITA,1.0,REAL J,0 - 1,297,GER,4:57
+Turnover foul,12.0,1,2,0,ITA,1.0,NAPOLITANO C,0 - 1,272,ITA,4:32
+Steal,4.0,1,2,0,ITA,1.0,REAL J,0 - 1,272,GER,4:32
+5m shot - Saved,4.0,1,2,0,ITA,1.0,REAL J,0 - 1,250,GER,4:10
+Turnover foul,12.0,1,2,0,ITA,1.0,NAPOLITANO C,0 - 1,230,ITA,3:50
+Steal,1.0,1,2,0,ITA,1.0,KONG R,0 - 1,230,GER,3:50
+5m shot - Saved,9.0,1,2,0,ITA,1.0,STAMM M,0 - 1,201,GER,3:21
+5m shot - Goal,4.0,1,2,1,ITA,1.0,FIGLIOLI P,1 - 1,177,ITA,2:57
+5m shot - Saved,6.0,1,2,1,ITA,1.0,JUENGLING M,1 - 1,147,GER,2:27
+Action shot - Saved,12.0,1,2,1,ITA,1.0,EIDNER D,1 - 1,132,GER,2:12
+20 sec. exclusion in field,9.0,1,2,1,ITA,1.0,STAMM M,1 - 1,117,GER,1:57
+Extra player shot - Goal,5.0,1,2,2,ITA,1.0,GIORGETTI A,2 - 1,104,ITA,1:44
+5m shot - Saved,4.0,1,2,2,ITA,1.0,REAL J,2 - 1,76,GER,1:16
+Centre shot - Goal,11.0,1,2,3,ITA,1.0,AICARDI M,3 - 1,56,ITA,0:56
+20 sec. exclusion in centre,4.0,1,2,3,ITA,1.0,FIGLIOLI P,3 - 1,41,ITA,0:41
+Centre shot - Post,2.0,1,2,3,ITA,1.0,BUKOWSKI E,3 - 1,17,GER,0:17
+Starting goalkeeper,1.0,1,2,3,ITA,2.0,KONG R,3 - 1,480,GER,8:00
+Starting goalkeeper,1.0,1,2,3,ITA,2.0,TEMPESTI S,3 - 1,480,ITA,8:00
+Sprint won possession,10.0,1,2,3,ITA,2.0,FIORENTINI D,3 - 1,480,ITA,8:00
+20 sec. exclusion in field,4.0,1,2,3,ITA,2.0,REAL J,3 - 1,453,GER,7:33
+20 sec. exclusion in centre,11.0,1,2,3,ITA,2.0,SCHLOTTERBECK A,3 - 1,446,GER,7:26
+Extra player shot - Missed,10.0,1,2,3,ITA,2.0,FIORENTINI D,3 - 1,433,ITA,7:13
+Turnover foul,9.0,1,2,3,ITA,2.0,STAMM M,3 - 1,411,GER,6:51
+Steal,6.0,1,2,3,ITA,2.0,FELUGO M,3 - 1,411,ITA,6:51
+5m shot - Saved,6.0,1,2,3,ITA,2.0,FELUGO M,3 - 1,385,ITA,6:25
+Turnover foul,12.0,1,2,3,ITA,2.0,NAPOLITANO C,3 - 1,381,ITA,6:21
+20 sec. exclusion in field,8.0,1,2,3,ITA,2.0,GALLO V,3 - 1,367,ITA,6:07
+Turnover foul,7.0,1,2,3,ITA,2.0,NOSSEK H,3 - 1,352,GER,5:52
+Action shot - Goal,6.0,1,2,4,ITA,2.0,FELUGO M,4 - 1,331,ITA,5:31
+Turnover foul,2.0,1,2,4,ITA,2.0,BUKOWSKI E,4 - 1,303,GER,5:03
+Steal,7.0,1,2,4,ITA,2.0,FIGARI N,4 - 1,303,ITA,5:03
+Centre shot - Goal,11.0,1,2,5,ITA,2.0,AICARDI M,5 - 1,279,ITA,4:39
+Time-Out,,1,2,5,ITA,2.0,,5 - 1,279,GER,4:39
+Turnover foul,9.0,1,2,5,ITA,2.0,STAMM M,5 - 1,251,GER,4:11
+Steal,9.0,1,2,5,ITA,2.0,PRESCIUTTI C,5 - 1,251,ITA,4:11
+Action shot - Saved,7.0,1,2,5,ITA,2.0,FIGARI N,5 - 1,223,ITA,3:43
+20 sec. exclusion in centre,2.0,1,2,5,ITA,2.0,PEREZ A,5 - 1,207,ITA,3:27
+Extra player shot - Goal,8.0,2,2,5,ITA,2.0,SCHUELER P,5 - 2,189,GER,3:09
+Turnover foul,4.0,2,2,5,ITA,2.0,FIGLIOLI P,5 - 2,170,ITA,2:50
+Turnover foul,12.0,2,2,5,ITA,2.0,EIDNER D,5 - 2,146,GER,2:26
+Turnover foul,5.0,2,2,5,ITA,2.0,GIORGETTI A,5 - 2,135,ITA,2:15
+Steal,9.0,2,2,5,ITA,2.0,STAMM M,5 - 2,135,GER,2:15
+5m shot - Saved,7.0,2,2,5,ITA,2.0,NOSSEK H,5 - 2,117,GER,1:57
+20 sec. exclusion in centre,7.0,2,2,5,ITA,2.0,FIGARI N,5 - 2,97,ITA,1:37
+Turnover foul,2.0,2,2,5,ITA,2.0,BUKOWSKI E,5 - 2,75,GER,1:15
+Steal,5.0,2,2,5,ITA,2.0,GIORGETTI A,5 - 2,75,ITA,1:15
+20 sec. exclusion in field,7.0,2,2,5,ITA,2.0,NOSSEK H,5 - 2,48,GER,0:48
+Extra player shot - Goal,9.0,2,2,6,ITA,2.0,PRESCIUTTI C,6 - 2,32,ITA,0:32
+20 sec. exclusion in field,6.0,2,2,6,ITA,2.0,FELUGO M,6 - 2,11,ITA,0:11
+Extra player shot - Saved,10.0,2,2,6,ITA,2.0,OELER M,6 - 2,5,GER,0:05
+Starting goalkeeper,1.0,2,2,6,ITA,3.0,TEMPESTI S,6 - 2,480,ITA,8:00
+Starting goalkeeper,13.0,2,2,6,ITA,3.0,SCHENKEL M,6 - 2,480,GER,8:00
+Sprint won possession,4.0,2,2,6,ITA,3.0,FIGLIOLI P,6 - 2,480,ITA,8:00
+5m shot - Goal,5.0,2,2,7,ITA,3.0,GIORGETTI A,7 - 2,451,ITA,7:31
+Turnover foul,11.0,2,2,7,ITA,3.0,SCHLOTTERBECK A,7 - 2,431,GER,7:11
+Steal,11.0,2,2,7,ITA,3.0,AICARDI M,7 - 2,431,ITA,7:11
+20 sec. exclusion in field,11.0,2,2,7,ITA,3.0,SCHLOTTERBECK A,7 - 2,410,GER,6:50
+Extra player shot - Saved,5.0,2,2,7,ITA,3.0,GIORGETTI A,7 - 2,391,ITA,6:31
+20 sec. exclusion in field,12.0,2,2,7,ITA,3.0,EIDNER D,7 - 2,368,GER,6:08
+Extra player shot - Goal,8.0,2,2,8,ITA,3.0,GALLO V,8 - 2,360,ITA,6:00
+Turnover foul,4.0,2,2,8,ITA,3.0,REAL J,8 - 2,332,GER,5:32
+Steal,9.0,2,2,8,ITA,3.0,PRESCIUTTI C,8 - 2,332,ITA,5:32
+Penalty foul,4.0,2,2,8,ITA,3.0,REAL J,8 - 2,305,GER,5:05
+Penalty shot - Saved,8.0,2,2,8,ITA,3.0,GALLO V,8 - 2,305,ITA,5:05
+Turnover foul,9.0,2,2,8,ITA,3.0,STAMM M,8 - 2,278,GER,4:38
+5m shot - Saved,7.0,2,2,8,ITA,3.0,FIGARI N,8 - 2,258,ITA,4:18
+Turnover foul,2.0,2,2,8,ITA,3.0,PEREZ A,8 - 2,244,ITA,4:04
+5m shot - Goal,7.0,3,2,8,ITA,3.0,NOSSEK H,8 - 3,231,GER,3:51
+Action shot - Saved,4.0,3,2,8,ITA,3.0,FIGLIOLI P,8 - 3,205,ITA,3:25
+20 sec. exclusion in centre,11.0,3,2,8,ITA,3.0,AICARDI M,8 - 3,193,ITA,3:13
+Extra player shot - Blocked,6.0,3,2,8,ITA,3.0,JUENGLING M,8 - 3,178,GER,2:58
+Action shot - Goal,3.0,4,2,8,ITA,3.0,MIERS E,8 - 4,170,GER,2:50
+5m shot - Post,4.0,4,2,8,ITA,3.0,FIGLIOLI P,8 - 4,140,ITA,2:20
+20 sec. exclusion in field,9.0,4,2,8,ITA,3.0,STAMM M,8 - 4,107,GER,1:47
+Time-Out,,4,2,8,ITA,3.0,,8 - 4,107,ITA,1:47
+Action shot - Blocked,5.0,4,2,8,ITA,3.0,GIORGETTI A,8 - 4,84,ITA,1:24
+5m shot - Post,8.0,4,2,8,ITA,3.0,GALLO V,8 - 4,55,ITA,0:55
+5m shot - Goal,4.0,5,2,8,ITA,3.0,REAL J,8 - 5,26,GER,0:26
+5m shot - Goal,8.0,5,2,9,ITA,3.0,GALLO V,9 - 5,5,ITA,0:05
+5m shot - Saved,12.0,5,2,9,ITA,3.0,EIDNER D,9 - 5,1,GER,0:01
+Starting goalkeeper,13.0,5,2,9,ITA,4.0,SCHENKEL M,9 - 5,480,GER,8:00
+Starting goalkeeper,1.0,5,2,9,ITA,4.0,TEMPESTI S,9 - 5,480,ITA,8:00
+Sprint won possession,4.0,5,2,9,ITA,4.0,FIGLIOLI P,9 - 5,480,ITA,8:00
+Turnover foul,6.0,5,2,9,ITA,4.0,FELUGO M,9 - 5,459,ITA,7:39
+Steal,9.0,5,2,9,ITA,4.0,STAMM M,9 - 5,459,GER,7:39
+Turnover foul,12.0,5,2,9,ITA,4.0,EIDNER D,9 - 5,434,GER,7:14
+Counter attack - Post,9.0,5,2,9,ITA,4.0,PRESCIUTTI C,9 - 5,420,ITA,7:00
+5m shot - Saved,4.0,5,2,9,ITA,4.0,FIGLIOLI P,9 - 5,391,ITA,6:31
+5m shot - Missed,6.0,5,2,9,ITA,4.0,FELUGO M,9 - 5,363,ITA,6:03
+Turnover foul,10.0,5,2,9,ITA,4.0,OELER M,9 - 5,345,GER,5:45
+Steal,6.0,5,2,9,ITA,4.0,FELUGO M,9 - 5,345,ITA,5:45
+Action shot - Post,6.0,5,2,9,ITA,4.0,FELUGO M,9 - 5,322,ITA,5:22
+5m shot - Saved,4.0,5,2,9,ITA,4.0,REAL J,9 - 5,300,GER,5:00
+Centre shot - Post,11.0,5,2,9,ITA,4.0,AICARDI M,9 - 5,275,ITA,4:35
+Time-Out,,5,2,9,ITA,4.0,,9 - 5,275,GER,4:35
+Turnover foul,8.0,5,2,9,ITA,4.0,SCHUELER P,9 - 5,257,GER,4:17
+Steal,5.0,5,2,9,ITA,4.0,GIORGETTI A,9 - 5,257,ITA,4:17
+Turnover foul,12.0,5,2,9,ITA,4.0,NAPOLITANO C,9 - 5,240,ITA,4:00
+Counter attack - Goal,11.0,6,2,9,ITA,4.0,SCHLOTTERBECK A,9 - 6,229,GER,3:49
+20 sec. exclusion in field,5.0,6,2,9,ITA,4.0,ROHE T,9 - 6,212,GER,3:32
+Extra player shot - Goal,9.0,6,2,10,ITA,4.0,PRESCIUTTI C,10 - 6,207,ITA,3:27
+Turnover foul,8.0,6,2,10,ITA,4.0,SCHUELER P,10 - 6,182,GER,3:02
+Centre shot - Saved,11.0,6,2,10,ITA,4.0,AICARDI M,10 - 6,165,ITA,2:45
+Centre shot - Goal,11.0,7,2,10,ITA,4.0,SCHLOTTERBECK A,10 - 7,141,GER,2:21
+Turnover foul,11.0,7,2,10,ITA,4.0,AICARDI M,10 - 7,120,ITA,2:00
+Steal,7.0,7,2,10,ITA,4.0,NOSSEK H,10 - 7,120,GER,2:00
+Turnover foul,9.0,7,2,10,ITA,4.0,STAMM M,10 - 7,98,GER,1:38
+Steal,11.0,7,2,10,ITA,4.0,AICARDI M,10 - 7,98,ITA,1:38
+Action shot - Goal,10.0,8,2,10,ITA,4.0,OELER M,10 - 8,52,GER,0:52
+Time-Out,,8,2,10,ITA,4.0,,10 - 8,52,ITA,0:52
+Centre shot - Saved,11.0,8,2,10,ITA,4.0,AICARDI M,10 - 8,30,ITA,0:30
+Turnover foul,11.0,8,2,10,ITA,4.0,AICARDI M,10 - 8,7,ITA,0:07
+Starting goalkeeper,13.0,0,3,0,ROU,1.0,SCHENKEL M,0 - 0,480,GER,8:00
+Starting goalkeeper,1.0,0,3,0,ROU,1.0,STOENESCU D,0 - 0,480,ROU,8:00
+Sprint won possession,10.0,0,3,0,ROU,1.0,OELER M,0 - 0,480,GER,8:00
+Penalty foul,6.0,0,3,0,ROU,1.0,BUSILA A,0 - 0,456,ROU,7:36
+Penalty shot - Goal,7.0,1,3,0,ROU,1.0,NOSSEK H,1 - 0,456,GER,7:36
+Centre shot - Saved,8.0,1,3,0,ROU,1.0,CHIOVEANU M,1 - 0,434,ROU,7:14
+Turnover foul,2.0,1,3,0,ROU,1.0,BUKOWSKI E,1 - 0,409,GER,6:49
+Steal,7.0,1,3,0,ROU,1.0,MATEI A,1 - 0,409,ROU,6:49
+Action shot - Saved,6.0,1,3,0,ROU,1.0,BUSILA A,1 - 0,384,ROU,6:24
+Turnover foul,9.0,1,3,0,ROU,1.0,STAMM M,1 - 0,368,GER,6:08
+5m shot - Goal,4.0,1,3,1,ROU,1.0,DIACONU N,1 - 1,344,ROU,5:44
+Centre shot - Saved,12.0,1,3,1,ROU,1.0,EIDNER D,1 - 1,322,GER,5:22
+Turnover foul,11.0,1,3,1,ROU,1.0,GHIBAN A,1 - 1,301,ROU,5:01
+Steal,2.0,1,3,1,ROU,1.0,BUKOWSKI E,1 - 1,301,GER,5:01
+Turnover foul,12.0,1,3,1,ROU,1.0,EIDNER D,1 - 1,285,GER,4:45
+Turnover foul,10.0,1,3,1,ROU,1.0,GEORGESCU R,1 - 1,264,ROU,4:24
+Double exclusion,9.0,1,3,1,ROU,1.0,STAMM M,1 - 1,264,GER,4:24
+Double exclusion,10.0,1,3,1,ROU,1.0,GEORGESCU R,1 - 1,264,ROU,4:24
+20 sec. exclusion in centre,9.0,1,3,1,ROU,1.0,GOANTA D,1 - 1,245,ROU,4:05
+Extra player shot - Goal,12.0,2,3,1,ROU,1.0,EIDNER D,2 - 1,243,GER,4:03
+Penalty foul,6.0,2,3,1,ROU,1.0,JUENGLING M,2 - 1,224,GER,3:44
+Penalty shot - Goal,4.0,2,3,2,ROU,1.0,DIACONU N,2 - 2,224,ROU,3:44
+5m shot - Goal,10.0,3,3,2,ROU,1.0,OELER M,3 - 2,204,GER,3:24
+20 sec. exclusion in centre,9.0,3,3,2,ROU,1.0,STAMM M,3 - 2,191,GER,3:11
+Extra player shot - Saved,5.0,3,3,2,ROU,1.0,TEOHARI D,3 - 2,172,ROU,2:52
+20 sec. exclusion in centre,4.0,3,3,2,ROU,1.0,REAL J,3 - 2,152,GER,2:32
+Extra player shot - Saved,8.0,3,3,2,ROU,1.0,CHIOVEANU M,3 - 2,132,ROU,2:12
+5m shot - Post,11.0,3,3,2,ROU,1.0,GHIBAN A,3 - 2,126,ROU,2:06
+20 sec. exclusion in centre,8.0,3,3,2,ROU,1.0,CHIOVEANU M,3 - 2,107,ROU,1:47
+Penalty foul,8.0,3,3,2,ROU,1.0,CHIOVEANU M,3 - 2,107,ROU,1:47
+Penalty shot - Goal,7.0,4,3,2,ROU,1.0,NOSSEK H,4 - 2,107,GER,1:47
+Turnover foul,11.0,4,3,2,ROU,1.0,GHIBAN A,4 - 2,85,ROU,1:25
+Action shot - Missed,7.0,4,3,2,ROU,1.0,NOSSEK H,4 - 2,68,GER,1:08
+20 sec. exclusion in centre,7.0,4,3,2,ROU,1.0,NOSSEK H,4 - 2,46,GER,0:46
+Action shot - Blocked,4.0,4,3,2,ROU,1.0,DIACONU N,4 - 2,25,ROU,0:25
+Turnover foul,10.0,4,3,2,ROU,1.0,OELER M,4 - 2,13,GER,0:13
+5m shot - Goal,7.0,4,3,3,ROU,1.0,MATEI A,4 - 3,2,ROU,0:02
+5m shot - Missed,4.0,4,3,3,ROU,1.0,REAL J,4 - 3,1,GER,0:01
+Starting goalkeeper,13.0,4,3,3,ROU,2.0,SCHENKEL M,4 - 3,480,GER,8:00
+Starting goalkeeper,1.0,4,3,3,ROU,2.0,STOENESCU D,4 - 3,480,ROU,8:00
+Sprint won possession,7.0,4,3,3,ROU,2.0,MATEI A,4 - 3,480,ROU,8:00
+Turnover foul,8.0,4,3,3,ROU,2.0,CHIOVEANU M,4 - 3,463,ROU,7:43
+Action shot - Goal,8.0,5,3,3,ROU,2.0,SCHUELER P,5 - 3,439,GER,7:19
+Turnover foul,8.0,5,3,3,ROU,2.0,CHIOVEANU M,5 - 3,411,ROU,6:51
+Steal,2.0,5,3,3,ROU,2.0,BUKOWSKI E,5 - 3,411,GER,6:51
+Turnover foul,11.0,5,3,3,ROU,2.0,SCHLOTTERBECK A,5 - 3,392,GER,6:32
+Action shot - Saved,5.0,5,3,3,ROU,2.0,TEOHARI D,5 - 3,378,ROU,6:18
+Action shot - Saved,7.0,5,3,3,ROU,2.0,NOSSEK H,5 - 3,361,GER,6:01
+20 sec. exclusion in centre,12.0,5,3,3,ROU,2.0,CRETU A,5 - 3,351,ROU,5:51
+Action shot - Saved,7.0,5,3,3,ROU,2.0,NOSSEK H,5 - 3,326,GER,5:26
+Turnover foul,11.0,5,3,3,ROU,2.0,GHIBAN A,5 - 3,302,ROU,5:02
+Steal,4.0,5,3,3,ROU,2.0,REAL J,5 - 3,302,GER,5:02
+5m shot - Saved,5.0,5,3,3,ROU,2.0,ROHE T,5 - 3,274,GER,4:34
+Action shot - Saved,11.0,5,3,3,ROU,2.0,GHIBAN A,5 - 3,250,ROU,4:10
+20 sec. exclusion in field,8.0,5,3,3,ROU,2.0,CHIOVEANU M,5 - 3,231,ROU,3:51
+Exclusion with substitution,8.0,5,3,3,ROU,2.0,CHIOVEANU M,5 - 3,231,ROU,3:51
+Time-Out,,5,3,3,ROU,2.0,,5 - 3,231,GER,3:51
+Action shot - Post,7.0,5,3,3,ROU,2.0,NOSSEK H,5 - 3,200,GER,3:20
+20 sec. exclusion in field,7.0,5,3,3,ROU,2.0,MATEI A,5 - 3,197,ROU,3:17
+Action shot - Goal,12.0,6,3,3,ROU,2.0,EIDNER D,6 - 3,172,GER,2:52
+20 sec. exclusion in centre,5.0,6,3,3,ROU,2.0,ROHE T,6 - 3,149,GER,2:29
+Action shot - Missed,7.0,6,3,3,ROU,2.0,MATEI A,6 - 3,128,ROU,2:08
+Turnover foul,12.0,6,3,3,ROU,2.0,EIDNER D,6 - 3,104,GER,1:44
+Steal,4.0,6,3,3,ROU,4.0,REAL J,6 - 3,96,GER,1:36
+Action shot - Saved,10.0,6,3,3,ROU,4.0,OELER M,6 - 3,74,GER,1:14
+Turnover foul,4.0,6,3,3,ROU,4.0,DIACONU N,6 - 3,47,ROU,0:47
+Action shot - Post,10.0,6,3,3,ROU,2.0,GEORGESCU R,6 - 3,88,ROU,1:28
+5m shot - Saved,6.0,6,3,3,ROU,2.0,JUENGLING M,6 - 3,61,GER,1:01
+5m shot - Goal,8.0,7,3,3,ROU,2.0,SCHUELER P,7 - 3,38,GER,0:38
+Goalkeeper substitution,1.0,7,3,3,ROU,2.0,KONG R,7 - 3,23,GER,0:23
+Goalkeeper substitution,13.0,7,3,3,ROU,2.0,SCHENKEL M,7 - 3,23,GER,0:23
+20 sec. exclusion in centre,6.0,7,3,3,ROU,2.0,JUENGLING M,7 - 3,16,GER,0:16
+Extra player shot - Blocked,6.0,7,3,3,ROU,2.0,BUSILA A,7 - 3,3,ROU,0:03
+5m shot - Saved,7.0,7,3,3,ROU,2.0,NOSSEK H,7 - 3,1,GER,0:01
+Starting goalkeeper,1.0,7,3,3,ROU,3.0,STOENESCU D,7 - 3,480,ROU,8:00
+Starting goalkeeper,13.0,7,3,3,ROU,3.0,SCHENKEL M,7 - 3,480,GER,8:00
+Sprint won possession,10.0,7,3,3,ROU,3.0,OELER M,7 - 3,480,GER,8:00
+Turnover foul,7.0,7,3,3,ROU,3.0,NOSSEK H,7 - 3,454,GER,7:34
+Steal,11.0,7,3,3,ROU,3.0,GHIBAN A,7 - 3,454,ROU,7:34
+Action shot - Blocked,11.0,7,3,3,ROU,3.0,GHIBAN A,7 - 3,439,ROU,7:19
+Action shot - Blocked,2.0,7,3,3,ROU,3.0,BUKOWSKI E,7 - 3,414,GER,6:54
+5m shot - Missed,10.0,7,3,3,ROU,3.0,GEORGESCU R,7 - 3,396,ROU,6:36
+Turnover foul,10.0,7,3,3,ROU,3.0,OELER M,7 - 3,376,GER,6:16
+Steal,1.0,7,3,3,ROU,3.0,STOENESCU D,7 - 3,376,ROU,6:16
+5m shot - Saved,10.0,7,3,3,ROU,3.0,GEORGESCU R,7 - 3,347,ROU,5:47
+Turnover foul,7.0,7,3,3,ROU,3.0,NOSSEK H,7 - 3,322,GER,5:22
+Centre shot - Saved,2.0,7,3,3,ROU,3.0,IANC P,7 - 3,294,ROU,4:54
+Centre shot - Goal,2.0,7,3,4,ROU,3.0,IANC P,7 - 4,292,ROU,4:52
+5m shot - Post,6.0,7,3,4,ROU,3.0,JUENGLING M,7 - 4,266,GER,4:26
+20 sec. exclusion in centre,6.0,7,3,4,ROU,3.0,JUENGLING M,7 - 4,249,GER,4:09
+Exclusion with substitution,6.0,7,3,4,ROU,3.0,JUENGLING M,7 - 4,249,GER,4:09
+Time-Out,,7,3,4,ROU,3.0,,7 - 4,249,ROU,4:09
+Action shot - Goal,6.0,7,3,5,ROU,3.0,BUSILA A,7 - 5,226,ROU,3:46
+Action shot - Saved,9.0,7,3,5,ROU,3.0,STAMM M,7 - 5,198,GER,3:18
+20 sec. exclusion in centre,11.0,7,3,5,ROU,3.0,GHIBAN A,7 - 5,189,ROU,3:09
+Action shot - Goal,8.0,8,3,5,ROU,3.0,SCHUELER P,8 - 5,168,GER,2:48
+Turnover foul,2.0,8,3,5,ROU,3.0,IANC P,8 - 5,137,ROU,2:17
+Steal,8.0,8,3,5,ROU,3.0,SCHUELER P,8 - 5,137,GER,2:17
+20 sec. exclusion in centre,9.0,8,3,5,ROU,3.0,GOANTA D,8 - 5,121,ROU,2:01
+Extra player shot - Saved,10.0,8,3,5,ROU,3.0,OELER M,8 - 5,101,GER,1:41
+Turnover foul,7.0,8,3,5,ROU,3.0,MATEI A,8 - 5,76,ROU,1:16
+Steal,10.0,8,3,5,ROU,3.0,OELER M,8 - 5,76,GER,1:16
+20 sec. exclusion in centre,10.0,8,3,5,ROU,3.0,OELER M,8 - 5,30,GER,0:30
+Turnover foul,4.0,8,3,5,ROU,3.0,DIACONU N,8 - 5,10,ROU,0:10
+Steal,2.0,8,3,5,ROU,3.0,BUKOWSKI E,8 - 5,10,GER,0:10
+5m shot - Saved,9.0,8,3,5,ROU,3.0,STAMM M,8 - 5,1,GER,0:01
+Starting goalkeeper,13.0,8,3,5,ROU,4.0,SCHENKEL M,8 - 5,480,GER,8:00
+Starting goalkeeper,1.0,8,3,5,ROU,4.0,STOENESCU D,8 - 5,480,ROU,8:00
+Sprint won possession,9.0,8,3,5,ROU,4.0,STAMM M,8 - 5,480,GER,8:00
+Turnover foul,12.0,8,3,5,ROU,4.0,EIDNER D,8 - 5,461,GER,7:41
+Turnover foul,2.0,8,3,5,ROU,4.0,IANC P,8 - 5,443,ROU,7:23
+Steal,2.0,8,3,5,ROU,4.0,BUKOWSKI E,8 - 5,443,GER,7:23
+Centre shot - Goal,12.0,9,3,5,ROU,4.0,EIDNER D,9 - 5,415,GER,6:55
+5m shot - Saved,7.0,9,3,5,ROU,4.0,MATEI A,9 - 5,400,ROU,6:40
+20 sec. exclusion in centre,5.0,9,3,5,ROU,4.0,ROHE T,9 - 5,389,GER,6:29
+Action shot - Post,4.0,9,3,5,ROU,4.0,DIACONU N,9 - 5,364,ROU,6:04
+Action shot - Post,7.0,9,3,5,ROU,4.0,NOSSEK H,9 - 5,336,GER,5:36
+Turnover foul,11.0,9,3,5,ROU,4.0,GHIBAN A,9 - 5,308,ROU,5:08
+Steal,4.0,9,3,5,ROU,4.0,REAL J,9 - 5,308,GER,5:08
+5m shot - Saved,9.0,9,3,5,ROU,4.0,STAMM M,9 - 5,278,GER,4:38
+Centre shot - Goal,2.0,9,3,6,ROU,4.0,IANC P,9 - 6,248,ROU,4:08
+Centre shot - Saved,12.0,9,3,6,ROU,4.0,EIDNER D,9 - 6,226,GER,3:46
+20 sec. exclusion in field,12.0,9,3,6,ROU,4.0,EIDNER D,9 - 6,225,GER,3:45
+Time-Out,,9,3,6,ROU,4.0,,9 - 6,225,ROU,3:45
+Action shot - Goal,6.0,9,3,7,ROU,4.0,BUSILA A,9 - 7,199,ROU,3:19
+Action shot - Saved,9.0,9,3,7,ROU,4.0,STAMM M,9 - 7,173,GER,2:53
+Action shot - Goal,11.0,9,3,8,ROU,4.0,GHIBAN A,9 - 8,153,ROU,2:33
+5m shot - Saved,10.0,9,3,8,ROU,4.0,OELER M,9 - 8,124,GER,2:04
+Turnover foul,2.0,9,3,8,ROU,4.0,IANC P,9 - 8,96,ROU,1:36
+Steal,2.0,9,3,8,ROU,4.0,BUKOWSKI E,9 - 8,47,GER,0:47
+Turnover foul,11.0,9,3,8,ROU,4.0,GHIBAN A,9 - 8,7,ROU,0:07
+Steal,12.0,9,3,8,ROU,4.0,EIDNER D,9 - 8,7,GER,0:07
+Starting goalkeeper,13.0,0,4,0,AUS,1.0,CLARK J,0 - 0,480,AUS,8:00
+Starting goalkeeper,1.0,0,4,0,AUS,1.0,KONG R,0 - 0,480,GER,8:00
+Sprint won possession,11.0,0,4,0,AUS,1.0,HOWDEN R,0 - 0,480,AUS,8:00
+Turnover foul,11.0,0,4,0,AUS,1.0,HOWDEN R,0 - 0,452,AUS,7:32
+Action shot - Goal,11.0,0,4,1,AUS,1.0,HOWDEN R,0 - 1,409,AUS,6:49
+5m shot - Saved,4.0,0,4,1,AUS,1.0,REAL J,0 - 1,381,GER,6:21
+Turnover foul,9.0,0,4,1,AUS,1.0,SWIFT J,0 - 1,353,AUS,5:53
+Steal,10.0,0,4,1,AUS,1.0,OELER M,0 - 1,353,GER,5:53
+Turnover foul,2.0,0,4,1,AUS,1.0,BUKOWSKI E,0 - 1,328,GER,5:28
+Steal,13.0,0,4,1,AUS,1.0,CLARK J,0 - 1,328,AUS,5:28
+Action shot - Goal,8.0,0,4,2,AUS,1.0,YOUNGER A,0 - 2,300,AUS,5:00
+20 sec. exclusion in centre,5.0,0,4,2,AUS,1.0,POWER N,0 - 2,284,AUS,4:44
+Extra player shot - Post,8.0,0,4,2,AUS,1.0,SCHUELER P,0 - 2,265,GER,4:25
+Turnover foul,2.0,0,4,2,AUS,1.0,CAMPBELL R,0 - 2,236,AUS,3:56
+Steal,1.0,0,4,2,AUS,1.0,KONG R,0 - 2,236,GER,3:56
+5m shot - Saved,9.0,0,4,2,AUS,1.0,STAMM M,0 - 2,208,GER,3:28
+Action shot - Saved,11.0,0,4,2,AUS,1.0,HOWDEN R,0 - 2,179,AUS,2:59
+Turnover foul,8.0,0,4,2,AUS,1.0,SCHUELER P,0 - 2,152,GER,2:32
+Steal,11.0,0,4,2,AUS,1.0,HOWDEN R,0 - 2,152,AUS,2:32
+5m shot - Blocked,8.0,0,4,2,AUS,1.0,SCHUELER P,0 - 2,92,GER,1:32
+Turnover foul,3.0,0,4,2,AUS,1.0,MARTIN M,0 - 2,65,AUS,1:05
+Steal,1.0,0,4,2,AUS,1.0,KONG R,0 - 2,65,GER,1:05
+Turnover foul,10.0,0,4,2,AUS,1.0,OELER M,0 - 2,46,GER,0:46
+Turnover foul,8.0,0,4,2,AUS,1.0,YOUNGER A,0 - 2,22,AUS,0:22
+5m shot - Saved,10.0,0,4,2,AUS,1.0,OELER M,0 - 2,7,GER,0:07
+Turnover foul,11.0,0,4,2,AUS,1.0,SCHLOTTERBECK A,0 - 2,3,GER,0:03
+Steal,2.0,0,4,2,AUS,1.0,CAMPBELL R,0 - 2,3,AUS,0:03
+5m shot - Saved,13.0,0,4,2,AUS,1.0,CLARK J,0 - 2,1,AUS,0:01
+Starting goalkeeper,13.0,0,4,2,AUS,2.0,CLARK J,0 - 2,480,AUS,8:00
+Starting goalkeeper,1.0,0,4,2,AUS,2.0,KONG R,0 - 2,480,GER,8:00
+Sprint won possession,6.0,0,4,2,AUS,2.0,GILCHRIST J,0 - 2,480,AUS,8:00
+Centre shot - Missed,9.0,0,4,2,AUS,2.0,SWIFT J,0 - 2,456,AUS,7:36
+20 sec. exclusion in centre,6.0,0,4,2,AUS,2.0,GILCHRIST J,0 - 2,428,AUS,7:08
+Extra player shot - Goal,7.0,1,4,2,AUS,2.0,NOSSEK H,1 - 2,424,GER,7:04
+5m shot - Missed,12.0,1,4,2,AUS,2.0,MILLER W,1 - 2,398,AUS,6:38
+20 sec. exclusion in field,9.0,1,4,2,AUS,2.0,SWIFT J,1 - 2,396,AUS,6:36
+Action shot - Saved,4.0,1,4,2,AUS,2.0,REAL J,1 - 2,367,GER,6:07
+5m shot - Post,2.0,1,4,2,AUS,2.0,CAMPBELL R,1 - 2,340,AUS,5:40
+Turnover foul,9.0,1,4,2,AUS,2.0,STAMM M,1 - 2,315,GER,5:15
+Action shot - Goal,11.0,1,4,3,AUS,2.0,HOWDEN R,1 - 3,301,AUS,5:01
+20 sec. exclusion in centre,5.0,1,4,3,AUS,2.0,POWER N,1 - 3,283,AUS,4:43
+Extra player shot - Goal,7.0,2,4,3,AUS,2.0,NOSSEK H,2 - 3,279,GER,4:39
+Turnover foul,10.0,2,4,3,AUS,2.0,MARTIN T,2 - 3,258,AUS,4:18
+Steal,7.0,2,4,3,AUS,2.0,NOSSEK H,2 - 3,258,GER,4:18
+5m shot - Blocked,8.0,2,4,3,AUS,2.0,SCHUELER P,2 - 3,230,GER,3:50
+5m shot - Saved,8.0,2,4,3,AUS,2.0,YOUNGER A,2 - 3,202,AUS,3:22
+Centre shot - Post,2.0,2,4,3,AUS,2.0,CAMPBELL R,2 - 3,187,AUS,3:07
+Action shot - Saved,10.0,2,4,3,AUS,2.0,OELER M,2 - 3,169,GER,2:49
+20 sec. exclusion in centre,6.0,2,4,3,AUS,2.0,JUENGLING M,2 - 3,146,GER,2:26
+Extra player shot - Goal,4.0,2,4,4,AUS,2.0,COTTERILL J,2 - 4,129,AUS,2:09
+5m shot - Saved,7.0,2,4,4,AUS,2.0,NOSSEK H,2 - 4,100,GER,1:40
+Turnover foul,9.0,2,4,4,AUS,2.0,SWIFT J,2 - 4,72,AUS,1:12
+Steal,1.0,2,4,4,AUS,2.0,KONG R,2 - 4,72,GER,1:12
+Action shot - Saved,7.0,2,4,4,AUS,2.0,NOSSEK H,2 - 4,42,GER,0:42
+Action shot - Saved,12.0,2,4,4,AUS,2.0,MILLER W,2 - 4,12,AUS,0:12
+Starting goalkeeper,13.0,2,4,4,AUS,3.0,SCHENKEL M,2 - 4,480,GER,8:00
+Starting goalkeeper,13.0,2,4,4,AUS,3.0,CLARK J,2 - 4,480,AUS,8:00
+Sprint won possession,11.0,2,4,4,AUS,3.0,HOWDEN R,2 - 4,480,AUS,8:00
+Action shot - Post,11.0,2,4,4,AUS,3.0,HOWDEN R,2 - 4,451,AUS,7:31
+5m shot - Blocked,7.0,2,4,4,AUS,3.0,NOSSEK H,2 - 4,425,GER,7:05
+Turnover foul,9.0,2,4,4,AUS,3.0,SWIFT J,2 - 4,405,AUS,6:45
+Action shot - Blocked,2.0,2,4,4,AUS,3.0,BUKOWSKI E,2 - 4,376,GER,6:16
+Action shot - Saved,11.0,2,4,4,AUS,3.0,HOWDEN R,2 - 4,350,AUS,5:50
+Centre shot - Saved,9.0,2,4,4,AUS,3.0,SWIFT J,2 - 4,328,AUS,5:28
+5m shot - Saved,2.0,2,4,4,AUS,3.0,CAMPBELL R,2 - 4,268,AUS,4:28
+Double exclusion,11.0,2,4,4,AUS,3.0,HOWDEN R,2 - 4,264,AUS,4:24
+Double exclusion,12.0,2,4,4,AUS,3.0,EIDNER D,2 - 4,264,GER,4:24
+Turnover foul,7.0,2,4,4,AUS,3.0,NOSSEK H,2 - 4,244,GER,4:04
+Steal,7.0,2,4,4,AUS,3.0,ROACH A,2 - 4,244,AUS,4:04
+Counter attack - Goal,7.0,2,4,5,AUS,3.0,ROACH A,2 - 5,234,AUS,3:54
+5m shot - Saved,5.0,2,4,5,AUS,3.0,ROHE T,2 - 5,209,GER,3:29
+5m shot - Missed,4.0,2,4,5,AUS,3.0,REAL J,2 - 5,190,GER,3:10
+Action shot - Post,12.0,2,4,5,AUS,3.0,MILLER W,2 - 5,177,AUS,2:57
+20 sec. exclusion in centre,5.0,2,4,5,AUS,3.0,POWER N,2 - 5,159,AUS,2:39
+Exclusion with substitution,5.0,2,4,5,AUS,3.0,POWER N,2 - 5,159,AUS,2:39
+Turnover foul,11.0,2,4,5,AUS,3.0,SCHLOTTERBECK A,2 - 5,140,GER,2:20
+Steal,2.0,2,4,5,AUS,3.0,CAMPBELL R,2 - 5,140,AUS,2:20
+20 sec. exclusion in centre,8.0,2,4,5,AUS,3.0,SCHUELER P,2 - 5,115,GER,1:55
+Extra player shot - Blocked,2.0,2,4,5,AUS,3.0,CAMPBELL R,2 - 5,92,AUS,1:32
+Centre shot - Missed,3.0,2,4,5,AUS,3.0,MARTIN M,2 - 5,66,AUS,1:06
+5m shot - Blocked,7.0,2,4,5,AUS,3.0,NOSSEK H,2 - 5,41,GER,0:41
+Turnover foul,10.0,2,4,5,AUS,3.0,OELER M,2 - 5,1,GER,0:01
+Steal,6.0,2,4,5,AUS,3.0,GILCHRIST J,2 - 5,1,AUS,0:01
+Starting goalkeeper,13.0,2,4,5,AUS,4.0,SCHENKEL M,2 - 5,480,GER,8:00
+Starting goalkeeper,13.0,2,4,5,AUS,4.0,CLARK J,2 - 5,480,AUS,8:00
+Sprint won possession,11.0,2,4,5,AUS,4.0,HOWDEN R,2 - 5,480,AUS,8:00
+20 sec. exclusion in centre,4.0,2,4,5,AUS,4.0,REAL J,2 - 5,453,GER,7:33
+Time-Out,,2,4,5,AUS,4.0,,2 - 5,453,AUS,7:33
+Action shot - Post,8.0,2,4,5,AUS,4.0,YOUNGER A,2 - 5,431,AUS,7:11
+Turnover foul,4.0,2,4,5,AUS,4.0,COTTERILL J,2 - 5,406,AUS,6:46
+Steal,2.0,2,4,5,AUS,4.0,BUKOWSKI E,2 - 5,406,GER,6:46
+Turnover foul,9.0,2,4,5,AUS,4.0,SWIFT J,2 - 5,362,AUS,6:02
+Time-Out,,2,4,5,AUS,4.0,,2 - 5,362,GER,6:02
+5m shot - Saved,10.0,2,4,5,AUS,4.0,OELER M,2 - 5,337,GER,5:37
+Turnover foul,8.0,2,4,5,AUS,4.0,SCHUELER P,2 - 5,319,GER,5:19
+Steal,13.0,2,4,5,AUS,4.0,CLARK J,2 - 5,319,AUS,5:19
+Counter attack - Goal,8.0,2,4,6,AUS,4.0,YOUNGER A,2 - 6,302,AUS,5:02
+Centre shot - Saved,11.0,2,4,6,AUS,4.0,SCHLOTTERBECK A,2 - 6,276,GER,4:36
+20 sec. exclusion in field,11.0,2,4,6,AUS,4.0,HOWDEN R,2 - 6,263,AUS,4:23
+Extra player shot - Goal,6.0,3,4,6,AUS,4.0,JUENGLING M,3 - 6,247,GER,4:07
+Turnover foul,2.0,3,4,6,AUS,4.0,CAMPBELL R,3 - 6,221,AUS,3:41
+Steal,7.0,3,4,6,AUS,4.0,NOSSEK H,3 - 6,221,GER,3:41
+20 sec. exclusion in centre,12.0,3,4,6,AUS,4.0,MILLER W,3 - 6,203,AUS,3:23
+Centre shot - Goal,4.0,4,4,6,AUS,4.0,REAL J,4 - 6,183,GER,3:03
+Centre shot - Goal,9.0,4,4,7,AUS,4.0,SWIFT J,4 - 7,154,AUS,2:34
+5m shot - Saved,6.0,4,4,7,AUS,4.0,JUENGLING M,4 - 7,126,GER,2:06
+20 sec. exclusion in field,9.0,4,4,7,AUS,4.0,STAMM M,4 - 7,101,GER,1:41
+Action shot - Goal,4.0,4,4,8,AUS,4.0,COTTERILL J,4 - 8,78,AUS,1:18
+Turnover foul,12.0,4,4,8,AUS,4.0,EIDNER D,4 - 8,66,GER,1:06
+Steal,2.0,4,4,8,AUS,4.0,CAMPBELL R,4 - 8,66,AUS,1:06
+Centre shot - Saved,10.0,4,4,8,AUS,4.0,MARTIN T,4 - 8,37,AUS,0:37
+Time-Out,,4,4,8,AUS,4.0,,4 - 8,37,GER,0:37
+Turnover foul,4.0,4,4,8,AUS,4.0,REAL J,4 - 8,12,GER,0:12
+Steal,6.0,4,4,8,AUS,4.0,GILCHRIST J,4 - 8,12,AUS,0:12
+5m shot - Saved,4.0,4,4,8,AUS,4.0,COTTERILL J,4 - 8,1,AUS,0:01

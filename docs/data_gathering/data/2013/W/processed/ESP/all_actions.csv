@@ -1,0 +1,956 @@
+Action,Cap,ESP,Game,Opponent,Opponent name,Period,Player,Score,Seconds,Team,Time
+Starting goalkeeper,1.0,0,1,0,NED,1.0,van der MEIJDEN I,0 - 0,480,NED,8:00
+Starting goalkeeper,1.0,0,1,0,NED,1.0,ESTER L,0 - 0,480,ESP,8:00
+Sprint won possession,6.0,0,1,0,NED,1.0,PAREJA J,0 - 0,480,ESP,8:00
+Turnover foul,11.0,0,1,0,NED,1.0,GARCIA GODOY M,0 - 0,455,ESP,7:35
+Steal,7.0,0,1,0,NED,1.0,van BELKUM I,0 - 0,455,NED,7:35
+5m shot - Goal,11.0,0,1,1,NED,1.0,KLAASSEN L,0 - 1,441,NED,7:21
+Penalty foul,11.0,0,1,1,NED,1.0,KLAASSEN L,0 - 1,418,NED,6:58
+Penalty shot - Saved,6.0,0,1,1,NED,1.0,PAREJA J,0 - 1,418,ESP,6:58
+Turnover foul,7.0,0,1,1,NED,1.0,van BELKUM I,0 - 1,396,NED,6:36
+Steal,1.0,0,1,1,NED,1.0,ESTER L,0 - 1,396,ESP,6:36
+20 sec. exclusion in centre,8.0,0,1,1,NED,1.0,SEVENICH V,0 - 1,379,NED,6:19
+Extra player shot - Saved,11.0,0,1,1,NED,1.0,GARCIA GODOY M,0 - 1,360,ESP,6:00
+Turnover foul,8.0,0,1,1,NED,1.0,SEVENICH V,0 - 1,334,NED,5:34
+Centre shot - Saved,11.0,0,1,1,NED,1.0,GARCIA GODOY M,0 - 1,307,ESP,5:07
+Action shot - Goal,6.0,0,1,2,NED,1.0,STOMPHORST N,0 - 2,289,NED,4:49
+5m shot - Missed,12.0,0,1,2,NED,1.0,LOPEZ L,0 - 2,265,ESP,4:25
+20 sec. exclusion in field,5.0,0,1,2,NED,1.0,ORTIZ M,0 - 2,239,ESP,3:59
+Extra player shot - Blocked,12.0,0,1,2,NED,1.0,van der MOLEN l,0 - 2,221,NED,3:41
+Centre shot - Goal,2.0,0,1,3,NED,1.0,SMIT Y,0 - 3,218,NED,3:38
+Time-Out,,0,1,3,NED,1.0,,0 - 3,218,ESP,3:38
+20 sec. exclusion in centre,10.0,0,1,3,NED,1.0,GENEE D,0 - 3,197,NED,3:17
+Extra player shot - Goal,8.0,1,1,3,NED,1.0,PENA P,1 - 3,182,ESP,3:02
+Turnover foul,2.0,1,1,3,NED,1.0,SMIT Y,1 - 3,169,NED,2:49
+Action shot - Goal,3.0,2,1,3,NED,1.0,ESPAR A,2 - 3,144,ESP,2:24
+20 sec. exclusion in field,2.0,2,1,3,NED,1.0,BACH M,2 - 3,126,ESP,2:06
+Extra player shot - Saved,8.0,2,1,3,NED,1.0,SEVENICH V,2 - 3,107,NED,1:47
+Centre shot - Saved,11.0,2,1,3,NED,1.0,GARCIA GODOY M,2 - 3,82,ESP,1:22
+5m shot - Blocked,11.0,2,1,3,NED,1.0,KLAASSEN L,2 - 3,64,NED,1:04
+Turnover foul,3.0,2,1,3,NED,1.0,ESPAR A,2 - 3,37,ESP,0:37
+Steal,2.0,2,1,3,NED,1.0,SMIT Y,2 - 3,37,NED,0:37
+20 sec. exclusion in field,4.0,2,1,3,NED,1.0,TARRAGO R,2 - 3,30,ESP,0:30
+Extra player shot - Goal,2.0,2,1,4,NED,1.0,SMIT Y,2 - 4,14,NED,0:14
+Turnover foul,7.0,2,1,4,NED,1.0,MIRANDA L,2 - 4,2,ESP,0:02
+Steal,8.0,2,1,4,NED,1.0,SEVENICH V,2 - 4,2,NED,0:02
+Starting goalkeeper,1.0,2,1,4,NED,2.0,van der MEIJDEN I,2 - 4,480,NED,8:00
+Starting goalkeeper,1.0,2,1,4,NED,2.0,ESTER L,2 - 4,480,ESP,8:00
+Sprint won possession,6.0,2,1,4,NED,2.0,PAREJA J,2 - 4,480,ESP,8:00
+Centre shot - Goal,9.0,3,1,4,NED,2.0,BLAS A,3 - 4,451,ESP,7:31
+20 sec. exclusion in centre,12.0,3,1,4,NED,2.0,LOPEZ L,3 - 4,437,ESP,7:17
+Extra player shot - Blocked,11.0,3,1,4,NED,2.0,KLAASSEN L,3 - 4,419,NED,6:59
+5m shot - Goal,7.0,4,1,4,NED,2.0,MIRANDA L,4 - 4,396,ESP,6:36
+5m shot - Missed,7.0,4,1,4,NED,2.0,van BELKUM I,4 - 4,371,NED,6:11
+20 sec. exclusion in centre,10.0,4,1,4,NED,2.0,GENEE D,4 - 4,362,NED,6:02
+Centre shot - Blocked,7.0,4,1,4,NED,2.0,MIRANDA L,4 - 4,339,ESP,5:39
+Turnover foul,11.0,4,1,4,NED,2.0,GARCIA GODOY M,4 - 4,326,ESP,5:26
+20 sec. exclusion in field,6.0,4,1,4,NED,2.0,PAREJA J,4 - 4,309,ESP,5:09
+Extra player shot - Post,7.0,4,1,4,NED,2.0,van BELKUM I,4 - 4,295,NED,4:55
+Turnover foul,5.0,4,1,4,NED,2.0,van der SLOOT S,4 - 4,285,NED,4:45
+Steal,4.0,4,1,4,NED,2.0,TARRAGO R,4 - 4,285,ESP,4:45
+20 sec. exclusion in centre,7.0,4,1,4,NED,2.0,van BELKUM I,4 - 4,267,NED,4:27
+Extra player shot - Blocked,3.0,4,1,4,NED,2.0,ESPAR A,4 - 4,250,ESP,4:10
+5m shot - Goal,12.0,5,1,4,NED,2.0,LOPEZ L,5 - 4,245,ESP,4:05
+Turnover foul,12.0,5,1,4,NED,2.0,van der MOLEN l,5 - 4,218,NED,3:38
+Centre shot - Goal,8.0,6,1,4,NED,2.0,PENA P,6 - 4,192,ESP,3:12
+Action shot - Saved,9.0,6,1,4,NED,2.0,SLAGTER C,6 - 4,168,NED,2:48
+Action shot - Goal,3.0,7,1,4,NED,2.0,ESPAR A,7 - 4,145,ESP,2:25
+20 sec. exclusion in centre,7.0,7,1,4,NED,2.0,MIRANDA L,7 - 4,131,ESP,2:11
+Extra player shot - Goal,2.0,7,1,5,NED,2.0,SMIT Y,7 - 5,121,NED,2:01
+5m shot - Saved,5.0,7,1,5,NED,2.0,ORTIZ M,7 - 5,92,ESP,1:32
+Turnover foul,2.0,7,1,5,NED,2.0,SMIT Y,7 - 5,86,NED,1:26
+Turnover foul,4.0,7,1,5,NED,2.0,TARRAGO R,7 - 5,63,ESP,1:03
+5m shot - Post,2.0,7,1,5,NED,2.0,SMIT Y,7 - 5,48,NED,0:48
+Action shot - Blocked,3.0,7,1,5,NED,2.0,ESPAR A,7 - 5,19,ESP,0:19
+20 sec. exclusion in centre,3.0,7,1,5,NED,4.0,ESPAR A,7 - 5,63,ESP,1:03
+5m shot - Goal,11.0,13,1,11,NED,4.0,KLAASSEN L,13 - 11,56,NED,0:56
+20 sec. exclusion in field,8.0,13,1,11,NED,4.0,SEVENICH V,13 - 11,50,NED,0:50
+Exclusion with substitution,8.0,13,1,11,NED,4.0,SEVENICH V,13 - 11,50,NED,0:50
+Starting goalkeeper,1.0,13,1,11,NED,3.0,ESTER L,13 - 11,480,ESP,8:00
+Starting goalkeeper,1.0,13,1,11,NED,3.0,van der MEIJDEN I,13 - 11,480,NED,8:00
+Sprint won possession,6.0,13,1,11,NED,3.0,PAREJA J,13 - 11,480,ESP,8:00
+Turnover foul,11.0,13,1,11,NED,3.0,GARCIA GODOY M,13 - 11,463,ESP,7:43
+Centre shot - Goal,8.0,7,1,6,NED,3.0,SEVENICH V,7 - 6,446,NED,7:26
+Turnover foul,11.0,7,1,6,NED,3.0,GARCIA GODOY M,7 - 6,420,ESP,7:00
+5m shot - Post,6.0,7,1,6,NED,3.0,STOMPHORST N,7 - 6,393,NED,6:33
+20 sec. exclusion in centre,5.0,7,1,6,NED,3.0,van der SLOOT S,7 - 6,368,NED,6:08
+Action shot - Goal,8.0,8,1,6,NED,3.0,PENA P,8 - 6,347,ESP,5:47
+20 sec. exclusion in field,12.0,8,1,6,NED,3.0,LOPEZ L,8 - 6,335,ESP,5:35
+Action shot - Blocked,8.0,8,1,6,NED,3.0,SEVENICH V,8 - 6,312,NED,5:12
+5m shot - Goal,7.0,8,1,7,NED,3.0,van BELKUM I,8 - 7,308,NED,5:08
+Double exclusion,11.0,8,1,7,NED,3.0,GARCIA GODOY M,8 - 7,294,ESP,4:54
+Double exclusion,10.0,8,1,7,NED,3.0,GENEE D,8 - 7,294,NED,4:54
+Exclusion with substitution,10.0,8,1,7,NED,3.0,GENEE D,8 - 7,294,NED,4:54
+20 sec. exclusion in centre,2.0,8,1,7,NED,3.0,SMIT Y,8 - 7,281,NED,4:41
+Extra player shot - Goal,6.0,9,1,7,NED,3.0,PAREJA J,9 - 7,271,ESP,4:31
+5m shot - Missed,7.0,9,1,7,NED,3.0,van BELKUM I,9 - 7,241,NED,4:01
+Turnover foul,9.0,9,1,7,NED,3.0,BLAS A,9 - 7,223,ESP,3:43
+Centre shot - Post,7.0,9,1,7,NED,3.0,van BELKUM I,9 - 7,202,NED,3:22
+Centre shot - Goal,7.0,9,1,8,NED,3.0,van BELKUM I,9 - 8,201,NED,3:21
+Action shot - Post,3.0,9,1,8,NED,3.0,ESPAR A,9 - 8,172,ESP,2:52
+Turnover foul,7.0,9,1,8,NED,3.0,van BELKUM I,9 - 8,150,NED,2:30
+Steal,6.0,9,1,8,NED,3.0,PAREJA J,9 - 8,150,ESP,2:30
+Turnover foul,9.0,9,1,8,NED,3.0,BLAS A,9 - 8,123,ESP,2:03
+Steal,1.0,9,1,8,NED,3.0,van der MEIJDEN I,9 - 8,123,NED,2:03
+Centre shot - Missed,8.0,9,1,8,NED,3.0,SEVENICH V,9 - 8,93,NED,1:33
+Centre shot - Goal,9.0,10,1,8,NED,3.0,BLAS A,10 - 8,70,ESP,1:10
+Turnover foul,2.0,10,1,8,NED,3.0,SMIT Y,10 - 8,42,NED,0:42
+Steal,4.0,10,1,8,NED,3.0,TARRAGO R,10 - 8,42,ESP,0:42
+Turnover foul,11.0,10,1,8,NED,3.0,GARCIA GODOY M,10 - 8,14,ESP,0:14
+Steal,8.0,10,1,8,NED,3.0,SEVENICH V,10 - 8,14,NED,0:14
+Action shot - Missed,6.0,10,1,8,NED,3.0,STOMPHORST N,10 - 8,1,NED,0:01
+Starting goalkeeper,1.0,10,1,8,NED,4.0,ESTER L,10 - 8,480,ESP,8:00
+Starting goalkeeper,1.0,10,1,8,NED,4.0,van der MEIJDEN I,10 - 8,480,NED,8:00
+Sprint won possession,6.0,10,1,8,NED,4.0,PAREJA J,10 - 8,480,ESP,8:00
+Action shot - Post,3.0,10,1,8,NED,4.0,ESPAR A,10 - 8,454,ESP,7:34
+Action shot - Missed,7.0,10,1,8,NED,4.0,van BELKUM I,10 - 8,427,NED,7:07
+Turnover foul,5.0,10,1,8,NED,4.0,ORTIZ M,10 - 8,405,ESP,6:45
+Steal,7.0,10,1,8,NED,4.0,van BELKUM I,10 - 8,405,NED,6:45
+Centre shot - Missed,7.0,10,1,8,NED,4.0,van BELKUM I,10 - 8,385,NED,6:25
+5m shot - Post,6.0,10,1,8,NED,4.0,PAREJA J,10 - 8,359,ESP,5:59
+5m shot - Goal,2.0,10,1,9,NED,4.0,SMIT Y,10 - 9,342,NED,5:42
+20 sec. exclusion in field,6.0,10,1,9,NED,4.0,STOMPHORST N,10 - 9,321,NED,5:21
+Action shot - Goal,10.0,11,1,9,NED,4.0,MESEGUER O,11 - 9,300,ESP,5:00
+Turnover foul,2.0,11,1,9,NED,4.0,SMIT Y,11 - 9,271,NED,4:31
+Steal,11.0,11,1,9,NED,4.0,GARCIA GODOY M,11 - 9,271,ESP,4:31
+Action shot - Goal,4.0,12,1,9,NED,4.0,TARRAGO R,12 - 9,244,ESP,4:04
+Turnover foul,2.0,12,1,9,NED,4.0,SMIT Y,12 - 9,222,NED,3:42
+Centre shot - Saved,9.0,12,1,9,NED,4.0,BLAS A,12 - 9,203,ESP,3:23
+20 sec. exclusion in field,9.0,12,1,9,NED,4.0,BLAS A,12 - 9,199,ESP,3:19
+Time-Out,,12,1,9,NED,4.0,,12 - 9,198,NED,3:18
+5m shot - Saved,7.0,12,1,9,NED,4.0,van BELKUM I,12 - 9,187,NED,3:07
+Turnover foul,6.0,12,1,9,NED,4.0,PAREJA J,12 - 9,169,ESP,2:49
+Steal,6.0,12,1,9,NED,4.0,STOMPHORST N,12 - 9,169,NED,2:49
+20 sec. exclusion in centre,3.0,12,1,9,NED,4.0,ESPAR A,12 - 9,157,ESP,2:37
+Extra player shot - Goal,8.0,12,1,10,NED,4.0,SEVENICH V,12 - 10,143,NED,2:23
+20 sec. exclusion in field,8.0,12,1,10,NED,4.0,SEVENICH V,12 - 10,128,NED,2:08
+Extra player shot - Post,4.0,12,1,10,NED,4.0,TARRAGO R,12 - 10,108,ESP,1:48
+Action shot - Goal,3.0,13,1,10,NED,4.0,ESPAR A,13 - 10,102,ESP,1:42
+Turnover foul,5.0,13,1,10,NED,4.0,van der SLOOT S,13 - 10,92,NED,1:32
+Steal,9.0,13,1,10,NED,4.0,BLAS A,13 - 10,92,ESP,1:32
+Turnover foul,6.0,13,1,10,NED,4.0,PAREJA J,13 - 10,72,ESP,1:12
+Action shot - Goal,4.0,14,1,11,NED,4.0,TARRAGO R,14 - 11,23,ESP,0:23
+Time-Out,,14,1,11,NED,4.0,,14 - 11,23,NED,0:23
+5m shot - Goal,11.0,14,1,12,NED,4.0,KLAASSEN L,14 - 12,13,NED,0:13
+20 sec. exclusion in field,12.0,14,1,12,NED,4.0,van der MOLEN l,14 - 12,2,NED,0:02
+Starting goalkeeper,13.0,0,2,0,RUS,1.0,KARNAUKH A,0 - 0,480,RUS,8:00
+Starting goalkeeper,1.0,0,2,0,RUS,1.0,ESTER L,0 - 0,480,ESP,8:00
+Sprint won possession,6.0,0,2,0,RUS,1.0,PAREJA J,0 - 0,480,ESP,8:00
+Turnover foul,11.0,0,2,0,RUS,1.0,GARCIA GODOY M,0 - 0,455,ESP,7:35
+Steal,8.0,0,2,0,RUS,1.0,GRINEVA A,0 - 0,455,RUS,7:35
+5m shot - Goal,11.0,0,2,1,RUS,1.0,IVANOVA E,0 - 1,427,RUS,7:07
+Turnover foul,6.0,0,2,1,RUS,1.0,PAREJA J,0 - 1,406,ESP,6:46
+Steal,3.0,0,2,1,RUS,1.0,PROKOFYEVA E,0 - 1,406,RUS,6:46
+5m shot - Saved,11.0,0,2,1,RUS,1.0,IVANOVA E,0 - 1,377,RUS,6:17
+5m shot - Blocked,3.0,0,2,1,RUS,1.0,ESPAR A,0 - 1,353,ESP,5:53
+Turnover foul,3.0,0,2,1,RUS,1.0,PROKOFYEVA E,0 - 1,336,RUS,5:36
+Steal,1.0,0,2,1,RUS,1.0,ESTER L,0 - 1,336,ESP,5:36
+5m shot - Post,5.0,0,2,1,RUS,1.0,ORTIZ M,0 - 1,309,ESP,5:09
+20 sec. exclusion in centre,12.0,0,2,1,RUS,1.0,LOPEZ L,0 - 1,290,ESP,4:50
+Action shot - Saved,5.0,0,2,1,RUS,1.0,ANTONOVA A,0 - 1,266,RUS,4:26
+Action shot - Blocked,8.0,0,2,1,RUS,1.0,PENA P,0 - 1,245,ESP,4:05
+Turnover foul,10.0,0,2,1,RUS,1.0,BELIAEVA O,0 - 1,222,RUS,3:42
+20 sec. exclusion in centre,8.0,0,2,1,RUS,1.0,GRINEVA A,0 - 1,206,RUS,3:26
+Action shot - Saved,4.0,0,2,1,RUS,1.0,TARRAGO R,0 - 1,182,ESP,3:02
+Action shot - Saved,5.0,0,2,1,RUS,1.0,ANTONOVA A,0 - 1,156,RUS,2:36
+5m shot - Saved,4.0,0,2,1,RUS,1.0,TARRAGO R,0 - 1,129,ESP,2:09
+5m shot - Post,4.0,0,2,1,RUS,1.0,TARRAGO R,0 - 1,105,ESP,1:45
+Turnover foul,10.0,0,2,1,RUS,1.0,BELIAEVA O,0 - 1,77,RUS,1:17
+Steal,11.0,0,2,1,RUS,1.0,GARCIA GODOY M,0 - 1,77,ESP,1:17
+5m shot - Post,5.0,0,2,1,RUS,1.0,ORTIZ M,0 - 1,49,ESP,0:49
+Turnover foul,6.0,0,2,1,RUS,1.0,BELOVA O,0 - 1,21,RUS,0:21
+Steal,8.0,0,2,1,RUS,1.0,PENA P,0 - 1,21,ESP,0:21
+Turnover foul,3.0,0,2,1,RUS,1.0,ESPAR A,0 - 1,4,ESP,0:04
+5m shot - Saved,13.0,0,2,1,RUS,1.0,KARNAUKH A,0 - 1,2,RUS,0:02
+Starting goalkeeper,1.0,0,2,1,RUS,2.0,ESTER L,0 - 1,480,ESP,8:00
+Starting goalkeeper,13.0,0,2,1,RUS,2.0,KARNAUKH A,0 - 1,480,RUS,8:00
+Sprint won possession,4.0,0,2,1,RUS,2.0,TARRAGO R,0 - 1,480,ESP,8:00
+Action shot - Missed,3.0,0,2,1,RUS,2.0,ESPAR A,0 - 1,452,ESP,7:32
+5m shot - Saved,10.0,0,2,1,RUS,2.0,BELIAEVA O,0 - 1,426,RUS,7:06
+Action shot - Saved,4.0,0,2,1,RUS,2.0,TARRAGO R,0 - 1,406,ESP,6:46
+Action shot - Saved,9.0,0,2,1,RUS,2.0,BLAS A,0 - 1,400,ESP,6:40
+5m shot - Saved,11.0,0,2,1,RUS,2.0,IVANOVA E,0 - 1,390,RUS,6:30
+Action shot - Post,8.0,0,2,1,RUS,2.0,PENA P,0 - 1,362,ESP,6:02
+20 sec. exclusion in centre,7.0,0,2,1,RUS,2.0,MIRANDA L,0 - 1,343,ESP,5:43
+Action shot - Saved,8.0,0,2,1,RUS,2.0,GRINEVA A,0 - 1,317,RUS,5:17
+Action shot - Blocked,8.0,0,2,1,RUS,2.0,PENA P,0 - 1,288,ESP,4:48
+20 sec. exclusion in centre,2.0,0,2,1,RUS,2.0,BACH M,0 - 1,262,ESP,4:22
+Extra player shot - Saved,3.0,0,2,1,RUS,2.0,PROKOFYEVA E,0 - 1,242,RUS,4:02
+5m shot - Missed,4.0,0,2,1,RUS,2.0,TARRAGO R,0 - 1,214,ESP,3:34
+5m shot - Blocked,11.0,0,2,1,RUS,2.0,IVANOVA E,0 - 1,184,RUS,3:04
+20 sec. exclusion in centre,11.0,0,2,1,RUS,2.0,IVANOVA E,0 - 1,163,RUS,2:43
+Extra player shot - Goal,12.0,1,2,1,RUS,2.0,LOPEZ L,1 - 1,143,ESP,2:23
+Centre shot - Post,7.0,1,2,1,RUS,2.0,TANKEEVA E,1 - 1,120,RUS,2:00
+5m shot - Goal,12.0,2,2,1,RUS,2.0,LOPEZ L,2 - 1,90,ESP,1:30
+Turnover foul,12.0,2,2,1,RUS,2.0,ZELENTSOVA E,2 - 1,64,RUS,1:04
+Steal,3.0,2,2,1,RUS,2.0,ESPAR A,2 - 1,64,ESP,1:04
+5m shot - Blocked,6.0,2,2,1,RUS,2.0,PAREJA J,2 - 1,36,ESP,0:36
+20 sec. exclusion in centre,6.0,2,2,1,RUS,2.0,PAREJA J,2 - 1,24,ESP,0:24
+Time-Out,,2,2,1,RUS,2.0,,2 - 1,24,RUS,0:24
+Extra player shot - Post,5.0,2,2,1,RUS,2.0,ANTONOVA A,2 - 1,5,RUS,0:05
+5m shot - Goal,3.0,2,2,2,RUS,2.0,PROKOFYEVA E,2 - 2,1,RUS,0:01
+Starting goalkeeper,1.0,2,2,2,RUS,3.0,ESTER L,2 - 2,480,ESP,8:00
+Starting goalkeeper,13.0,2,2,2,RUS,3.0,KARNAUKH A,2 - 2,480,RUS,8:00
+Sprint won possession,4.0,2,2,2,RUS,3.0,TARRAGO R,2 - 2,480,ESP,8:00
+5m shot - Post,4.0,2,2,2,RUS,3.0,TARRAGO R,2 - 2,453,ESP,7:33
+5m shot - Goal,3.0,2,2,3,RUS,3.0,PROKOFYEVA E,2 - 3,423,RUS,7:03
+Action shot - Saved,5.0,2,2,3,RUS,3.0,ORTIZ M,2 - 3,397,ESP,6:37
+20 sec. exclusion in field,5.0,2,2,3,RUS,3.0,ANTONOVA A,2 - 3,375,RUS,6:15
+Turnover foul,12.0,2,2,3,RUS,3.0,LOPEZ L,2 - 3,359,ESP,5:59
+Steal,3.0,2,2,3,RUS,3.0,PROKOFYEVA E,2 - 3,359,RUS,5:59
+5m shot - Goal,5.0,2,2,4,RUS,3.0,ANTONOVA A,2 - 4,329,RUS,5:29
+Turnover foul,12.0,2,2,4,RUS,3.0,LOPEZ L,2 - 4,302,ESP,5:02
+Steal,4.0,2,2,4,RUS,3.0,KARIMOVA E,2 - 4,302,RUS,5:02
+20 sec. exclusion in centre,3.0,2,2,4,RUS,3.0,ESPAR A,2 - 4,280,ESP,4:40
+Action shot - Goal,5.0,2,2,5,RUS,3.0,ANTONOVA A,2 - 5,258,RUS,4:18
+Time-Out,,2,2,5,RUS,3.0,,2 - 5,258,ESP,4:18
+20 sec. exclusion in centre,8.0,2,2,5,RUS,3.0,GRINEVA A,2 - 5,238,RUS,3:58
+Action shot - Missed,12.0,2,2,5,RUS,3.0,LOPEZ L,2 - 5,212,ESP,3:32
+Turnover foul,10.0,2,2,5,RUS,3.0,BELIAEVA O,2 - 5,193,RUS,3:13
+Steal,6.0,2,2,5,RUS,3.0,PAREJA J,2 - 5,193,ESP,3:13
+Centre shot - Goal,9.0,3,2,5,RUS,3.0,BLAS A,3 - 5,168,ESP,2:48
+5m shot - Post,6.0,3,2,5,RUS,3.0,BELOVA O,3 - 5,141,RUS,2:21
+Action shot - Saved,3.0,3,2,5,RUS,3.0,ESPAR A,3 - 5,112,ESP,1:52
+Turnover foul,4.0,3,2,5,RUS,3.0,KARIMOVA E,3 - 5,83,RUS,1:23
+Steal,4.0,3,2,5,RUS,3.0,TARRAGO R,3 - 5,83,ESP,1:23
+20 sec. exclusion in field,6.0,3,2,5,RUS,3.0,BELOVA O,3 - 5,62,RUS,1:02
+Turnover foul,4.0,3,2,5,RUS,3.0,TARRAGO R,3 - 5,38,ESP,0:38
+5m shot - Saved,13.0,3,2,5,RUS,3.0,KARNAUKH A,3 - 5,9,RUS,0:09
+Counter attack - Saved,4.0,3,2,5,RUS,3.0,TARRAGO R,3 - 5,1,ESP,0:01
+Starting goalkeeper,1.0,3,2,5,RUS,4.0,ESTER L,3 - 5,480,ESP,8:00
+Starting goalkeeper,13.0,3,2,5,RUS,4.0,KARNAUKH A,3 - 5,480,RUS,8:00
+Sprint won possession,6.0,3,2,5,RUS,4.0,PAREJA J,3 - 5,480,ESP,8:00
+Turnover foul,3.0,3,2,5,RUS,4.0,ESPAR A,3 - 5,453,ESP,7:33
+Steal,6.0,3,2,5,RUS,4.0,BELOVA O,3 - 5,453,RUS,7:33
+Counter attack - Goal,3.0,3,2,6,RUS,4.0,PROKOFYEVA E,3 - 6,446,RUS,7:26
+Action shot - Post,8.0,3,2,6,RUS,4.0,PENA P,3 - 6,418,ESP,6:58
+Turnover foul,4.0,3,2,6,RUS,4.0,KARIMOVA E,3 - 6,393,RUS,6:33
+Steal,8.0,3,2,6,RUS,4.0,PENA P,3 - 6,393,ESP,6:33
+Turnover foul,9.0,3,2,6,RUS,4.0,BLAS A,3 - 6,364,ESP,6:04
+Steal,6.0,3,2,6,RUS,4.0,BELOVA O,3 - 6,364,RUS,6:04
+5m shot - Missed,6.0,3,2,6,RUS,4.0,BELOVA O,3 - 6,337,RUS,5:37
+Action shot - Missed,3.0,3,2,6,RUS,4.0,ESPAR A,3 - 6,309,ESP,5:09
+Turnover foul,4.0,3,2,6,RUS,4.0,KARIMOVA E,3 - 6,293,RUS,4:53
+Steal,3.0,3,2,6,RUS,4.0,ESPAR A,3 - 6,293,ESP,4:53
+Time-Out,,3,2,6,RUS,4.0,,3 - 6,291,ESP,4:51
+Centre shot - Post,11.0,3,2,6,RUS,4.0,GARCIA GODOY M,3 - 6,267,ESP,4:27
+Centre shot - Saved,11.0,3,2,6,RUS,4.0,GARCIA GODOY M,3 - 6,265,ESP,4:25
+Counter attack - Saved,3.0,3,2,6,RUS,4.0,PROKOFYEVA E,3 - 6,257,RUS,4:17
+Action shot - Post,3.0,3,2,6,RUS,4.0,ESPAR A,3 - 6,230,ESP,3:50
+Turnover foul,11.0,3,2,6,RUS,4.0,IVANOVA E,3 - 6,207,RUS,3:27
+Steal,4.0,3,2,6,RUS,4.0,TARRAGO R,3 - 6,207,ESP,3:27
+5m shot - Goal,12.0,4,2,6,RUS,4.0,LOPEZ L,4 - 6,180,ESP,3:00
+Turnover foul,11.0,4,2,6,RUS,4.0,IVANOVA E,4 - 6,164,RUS,2:44
+Steal,4.0,4,2,6,RUS,4.0,TARRAGO R,4 - 6,164,ESP,2:44
+5m shot - Post,12.0,4,2,6,RUS,4.0,LOPEZ L,4 - 6,138,ESP,2:18
+20 sec. exclusion in centre,12.0,4,2,6,RUS,4.0,LOPEZ L,4 - 6,111,ESP,1:51
+Time-Out,,4,2,6,RUS,4.0,,4 - 6,111,RUS,1:51
+Action shot - Goal,3.0,4,2,7,RUS,4.0,PROKOFYEVA E,4 - 7,84,RUS,1:24
+Centre shot - Goal,9.0,5,2,7,RUS,4.0,BLAS A,5 - 7,66,ESP,1:06
+5m shot - Goal,4.0,6,2,7,RUS,4.0,TARRAGO R,6 - 7,17,ESP,0:17
+Starting goalkeeper,1.0,0,3,0,UZB,1.0,ESTER L,0 - 0,480,ESP,8:00
+Starting goalkeeper,1.0,0,3,0,UZB,1.0,DUKHANOVA E,0 - 0,480,UZB,8:00
+Sprint won possession,6.0,0,3,0,UZB,1.0,PAREJA J,0 - 0,480,ESP,8:00
+Penalty foul,3.0,0,3,0,UZB,1.0,SARANCHA A,0 - 0,468,UZB,7:48
+Penalty shot - Goal,6.0,1,3,0,UZB,1.0,PAREJA J,1 - 0,468,ESP,7:48
+Action shot - Missed,10.0,1,3,0,UZB,1.0,ZINUROVA A,1 - 0,444,UZB,7:24
+Action shot - Goal,8.0,2,3,0,UZB,1.0,PENA P,2 - 0,429,ESP,7:09
+Turnover foul,10.0,2,3,0,UZB,1.0,ZINUROVA A,2 - 0,401,UZB,6:41
+Action shot - Blocked,3.0,2,3,0,UZB,1.0,ESPAR A,2 - 0,385,ESP,6:25
+20 sec. exclusion in field,6.0,2,3,0,UZB,1.0,PAREJA J,2 - 0,361,ESP,6:01
+Action shot - Goal,9.0,2,3,1,UZB,1.0,HALIKOVA R,2 - 1,340,UZB,5:40
+Centre shot - Goal,9.0,3,3,1,UZB,1.0,BLAS A,3 - 1,329,ESP,5:29
+Centre shot - Saved,3.0,3,3,1,UZB,1.0,SARANCHA A,3 - 1,315,UZB,5:15
+Counter attack - Goal,6.0,4,3,1,UZB,1.0,PAREJA J,4 - 1,305,ESP,5:05
+Turnover foul,9.0,4,3,1,UZB,1.0,HALIKOVA R,4 - 1,291,UZB,4:51
+Turnover foul,5.0,4,3,1,UZB,1.0,ORTIZ M,4 - 1,277,ESP,4:37
+Steal,9.0,4,3,1,UZB,1.0,HALIKOVA R,4 - 1,277,UZB,4:37
+Turnover foul,9.0,4,3,1,UZB,1.0,HALIKOVA R,4 - 1,258,UZB,4:18
+Steal,9.0,4,3,1,UZB,1.0,BLAS A,4 - 1,258,ESP,4:18
+Counter attack - Saved,2.0,4,3,1,UZB,1.0,BACH M,4 - 1,245,ESP,4:05
+Turnover foul,9.0,4,3,1,UZB,1.0,HALIKOVA R,4 - 1,216,UZB,3:36
+Action shot - Post,7.0,4,3,1,UZB,1.0,MIRANDA L,4 - 1,192,ESP,3:12
+Centre shot - Goal,9.0,5,3,1,UZB,1.0,BLAS A,5 - 1,144,ESP,2:24
+Turnover foul,4.0,5,3,1,UZB,1.0,DJUMALIEVA A,5 - 1,131,UZB,2:11
+Steal,7.0,5,3,1,UZB,1.0,MIRANDA L,5 - 1,131,ESP,2:11
+20 sec. exclusion in field,7.0,5,3,1,UZB,1.0,PLYUSOVA N,5 - 1,120,UZB,2:00
+Extra player shot - Goal,9.0,6,3,1,UZB,1.0,BLAS A,6 - 1,105,ESP,1:45
+Turnover foul,4.0,6,3,1,UZB,1.0,DJUMALIEVA A,6 - 1,89,UZB,1:29
+Steal,7.0,6,3,1,UZB,1.0,MIRANDA L,6 - 1,89,ESP,1:29
+Action shot - Goal,10.0,7,3,1,UZB,1.0,MESEGUER O,7 - 1,74,ESP,1:14
+Turnover foul,3.0,7,3,1,UZB,1.0,SARANCHA A,7 - 1,55,UZB,0:55
+Steal,4.0,7,3,1,UZB,1.0,TARRAGO R,7 - 1,55,ESP,0:55
+20 sec. exclusion in field,3.0,7,3,1,UZB,1.0,SARANCHA A,7 - 1,50,UZB,0:50
+Action shot - Goal,3.0,8,3,1,UZB,1.0,ESPAR A,8 - 1,27,ESP,0:27
+Turnover foul,11.0,8,3,1,UZB,1.0,HAMITOVA G,8 - 1,11,UZB,0:11
+Turnover foul,3.0,8,3,1,UZB,1.0,ESPAR A,8 - 1,4,ESP,0:04
+Starting goalkeeper,13.0,8,3,1,UZB,2.0,HERRERA P,8 - 1,480,ESP,8:00
+Starting goalkeeper,1.0,8,3,1,UZB,2.0,DUKHANOVA E,8 - 1,480,UZB,8:00
+Sprint won possession,6.0,8,3,1,UZB,2.0,PAREJA J,8 - 1,480,ESP,8:00
+20 sec. exclusion in centre,8.0,8,3,1,UZB,2.0,SHCHEGLOVA A,8 - 1,463,UZB,7:43
+Extra player shot - Missed,5.0,8,3,1,UZB,2.0,ORTIZ M,8 - 1,452,ESP,7:32
+Turnover foul,5.0,8,3,1,UZB,2.0,IVANOVA E,8 - 1,436,UZB,7:16
+Steal,12.0,8,3,1,UZB,2.0,LOPEZ L,8 - 1,436,ESP,7:16
+Counter attack - Saved,8.0,8,3,1,UZB,2.0,PENA P,8 - 1,420,ESP,7:00
+Turnover foul,8.0,8,3,1,UZB,2.0,PENA P,8 - 1,387,ESP,6:27
+20 sec. exclusion in field,6.0,8,3,1,UZB,2.0,PAREJA J,8 - 1,383,ESP,6:23
+Extra player shot - Blocked,9.0,8,3,1,UZB,2.0,HALIKOVA R,8 - 1,364,UZB,6:04
+Action shot - Saved,6.0,8,3,1,UZB,2.0,PAREJA J,8 - 1,348,ESP,5:48
+5m shot - Saved,8.0,8,3,1,UZB,2.0,SHCHEGLOVA A,8 - 1,318,UZB,5:18
+20 sec. exclusion in field,3.0,8,3,1,UZB,2.0,SARANCHA A,8 - 1,316,UZB,5:16
+Exclusion with substitution,3.0,8,3,1,UZB,2.0,SARANCHA A,8 - 1,316,UZB,5:16
+Extra player shot - Goal,11.0,9,3,1,UZB,2.0,GARCIA GODOY M,9 - 1,298,ESP,4:58
+Turnover foul,8.0,9,3,1,UZB,2.0,SHCHEGLOVA A,9 - 1,283,UZB,4:43
+Steal,2.0,9,3,1,UZB,2.0,BACH M,9 - 1,283,ESP,4:43
+Centre shot - Saved,9.0,9,3,1,UZB,2.0,BLAS A,9 - 1,265,ESP,4:25
+Centre shot - Goal,9.0,10,3,1,UZB,2.0,BLAS A,10 - 1,264,ESP,4:24
+Turnover foul,8.0,10,3,1,UZB,2.0,SHCHEGLOVA A,10 - 1,247,UZB,4:07
+Centre shot - Goal,9.0,11,3,1,UZB,2.0,BLAS A,11 - 1,236,ESP,3:56
+Turnover foul,7.0,11,3,1,UZB,2.0,PLYUSOVA N,11 - 1,215,UZB,3:35
+Action shot - Post,2.0,11,3,1,UZB,2.0,BACH M,11 - 1,205,ESP,3:25
+Steal,12.0,11,3,1,UZB,2.0,PLYUSOVA A,11 - 1,195,UZB,3:15
+20 sec. exclusion in centre,5.0,11,3,1,UZB,2.0,ORTIZ M,11 - 1,180,ESP,3:00
+Time-Out,,11,3,1,UZB,2.0,,11 - 1,180,UZB,3:00
+Steal,12.0,11,3,1,UZB,4.0,PLYUSOVA A,11 - 1,278,UZB,4:38
+Turnover foul,8.0,11,3,1,UZB,4.0,SHCHEGLOVA A,11 - 1,254,UZB,4:14
+Steal,9.0,11,3,1,UZB,4.0,BLAS A,11 - 1,254,ESP,4:14
+5m shot - Post,5.0,11,3,1,UZB,4.0,ORTIZ M,11 - 1,229,ESP,3:49
+20 sec. exclusion in field,8.0,11,3,1,UZB,4.0,PENA P,11 - 1,200,ESP,3:20
+Action shot - Blocked,7.0,11,3,1,UZB,4.0,PLYUSOVA N,11 - 1,172,UZB,2:52
+5m shot - Goal,9.0,19,3,3,UZB,4.0,HALIKOVA R,19 - 3,166,UZB,2:46
+Action shot - Saved,2.0,19,3,3,UZB,4.0,BACH M,19 - 3,139,ESP,2:19
+Turnover foul,11.0,19,3,3,UZB,4.0,HAMITOVA G,19 - 3,121,UZB,2:01
+Extra player shot - Saved,7.0,19,3,3,UZB,2.0,PLYUSOVA N,19 - 3,164,UZB,2:44
+Turnover foul,3.0,19,3,3,UZB,2.0,ESPAR A,19 - 3,139,ESP,2:19
+Steal,7.0,19,3,3,UZB,2.0,PLYUSOVA N,19 - 3,139,UZB,2:19
+Turnover foul,12.0,19,3,3,UZB,2.0,PLYUSOVA A,19 - 3,111,UZB,1:51
+Steal,3.0,19,3,3,UZB,2.0,ESPAR A,19 - 3,111,ESP,1:51
+5m shot - Post,2.0,19,3,3,UZB,2.0,BACH M,19 - 3,85,ESP,1:25
+Turnover foul,10.0,19,3,3,UZB,2.0,ZINUROVA A,19 - 3,69,UZB,1:09
+Steal,4.0,19,3,3,UZB,2.0,TARRAGO R,19 - 3,69,ESP,1:09
+Action shot - Saved,3.0,19,3,3,UZB,2.0,ESPAR A,19 - 3,53,ESP,0:53
+Centre shot - Saved,9.0,19,3,3,UZB,2.0,BLAS A,19 - 3,46,ESP,0:46
+Turnover foul,4.0,19,3,3,UZB,2.0,DJUMALIEVA A,19 - 3,30,UZB,0:30
+Steal,2.0,19,3,3,UZB,2.0,BACH M,19 - 3,30,ESP,0:30
+Centre shot - Saved,9.0,19,3,3,UZB,2.0,BLAS A,19 - 3,16,ESP,0:16
+Starting goalkeeper,13.0,19,3,3,UZB,3.0,HERRERA P,19 - 3,480,ESP,8:00
+Starting goalkeeper,1.0,19,3,3,UZB,3.0,DUKHANOVA E,19 - 3,480,UZB,8:00
+Sprint won possession,6.0,19,3,3,UZB,3.0,PAREJA J,19 - 3,480,ESP,8:00
+Action shot - Goal,3.0,12,3,1,UZB,3.0,ESPAR A,12 - 1,456,ESP,7:36
+Turnover foul,8.0,12,3,1,UZB,3.0,SHCHEGLOVA A,12 - 1,435,UZB,7:15
+Steal,6.0,12,3,1,UZB,3.0,PAREJA J,12 - 1,435,ESP,7:15
+Centre shot - Goal,11.0,13,3,1,UZB,3.0,GARCIA GODOY M,13 - 1,413,ESP,6:53
+20 sec. exclusion in centre,7.0,13,3,1,UZB,3.0,MIRANDA L,13 - 1,392,ESP,6:32
+Extra player shot - Missed,11.0,13,3,1,UZB,3.0,HAMITOVA G,13 - 1,373,UZB,6:13
+Turnover foul,3.0,13,3,1,UZB,3.0,ESPAR A,13 - 1,355,ESP,5:55
+Steal,1.0,13,3,1,UZB,3.0,DUKHANOVA E,13 - 1,355,UZB,5:55
+Counter attack - Goal,8.0,14,3,1,UZB,3.0,PENA P,14 - 1,315,ESP,5:15
+Turnover foul,10.0,14,3,1,UZB,3.0,ZINUROVA A,14 - 1,296,UZB,4:56
+Steal,12.0,14,3,1,UZB,3.0,LOPEZ L,14 - 1,296,ESP,4:56
+Counter attack - Saved,12.0,14,3,1,UZB,3.0,LOPEZ L,14 - 1,282,ESP,4:42
+Penalty foul,6.0,14,3,1,UZB,3.0,PAREJA J,14 - 1,268,ESP,4:28
+Exclusion with substitution,6.0,14,3,1,UZB,3.0,PAREJA J,14 - 1,268,ESP,4:28
+Penalty shot - Post,9.0,14,3,1,UZB,3.0,HALIKOVA R,14 - 1,268,UZB,4:28
+5m shot - Goal,4.0,15,3,1,UZB,3.0,TARRAGO R,15 - 1,252,ESP,4:12
+Centre shot - Post,8.0,15,3,1,UZB,3.0,SHCHEGLOVA A,15 - 1,226,UZB,3:46
+Centre shot - Post,9.0,15,3,1,UZB,3.0,BLAS A,15 - 1,200,ESP,3:20
+5m shot - Saved,7.0,15,3,1,UZB,3.0,MIRANDA L,15 - 1,151,ESP,2:31
+Turnover foul,12.0,15,3,1,UZB,3.0,PLYUSOVA A,15 - 1,135,UZB,2:15
+Steal,7.0,15,3,1,UZB,3.0,MIRANDA L,15 - 1,135,ESP,2:15
+20 sec. exclusion in centre,2.0,15,3,1,UZB,3.0,DADABAEVA D,15 - 1,118,UZB,1:58
+Extra player shot - Saved,9.0,15,3,1,UZB,3.0,BLAS A,15 - 1,116,ESP,1:56
+20 sec. exclusion in field,12.0,15,3,1,UZB,3.0,PLYUSOVA A,15 - 1,107,UZB,1:47
+Extra player shot - Goal,7.0,16,3,1,UZB,3.0,MIRANDA L,16 - 1,105,ESP,1:45
+5m shot - Saved,9.0,16,3,1,UZB,3.0,HALIKOVA R,16 - 1,73,UZB,1:13
+20 sec. exclusion in field,11.0,16,3,1,UZB,3.0,HAMITOVA G,16 - 1,63,UZB,1:03
+Extra player shot - Goal,5.0,17,3,1,UZB,3.0,ORTIZ M,17 - 1,46,ESP,0:46
+Turnover foul,4.0,17,3,1,UZB,3.0,DJUMALIEVA A,17 - 1,18,UZB,0:18
+Steal,2.0,17,3,1,UZB,3.0,BACH M,17 - 1,18,ESP,0:18
+Starting goalkeeper,13.0,17,3,1,UZB,4.0,HERRERA P,17 - 1,480,ESP,8:00
+Starting goalkeeper,1.0,17,3,1,UZB,4.0,DUKHANOVA E,17 - 1,480,UZB,8:00
+Sprint won possession,4.0,17,3,1,UZB,4.0,TARRAGO R,17 - 1,480,ESP,8:00
+20 sec. exclusion in centre,6.0,17,3,1,UZB,4.0,MOROZOVA E,17 - 1,458,UZB,7:38
+Extra player shot - Goal,9.0,18,3,1,UZB,4.0,BLAS A,18 - 1,456,ESP,7:36
+Turnover foul,4.0,18,3,1,UZB,4.0,DJUMALIEVA A,18 - 1,440,UZB,7:20
+Steal,7.0,18,3,1,UZB,4.0,MIRANDA L,18 - 1,440,ESP,7:20
+Action shot - Goal,10.0,19,3,1,UZB,4.0,MESEGUER O,19 - 1,416,ESP,6:56
+Turnover foul,8.0,19,3,1,UZB,4.0,SHCHEGLOVA A,19 - 1,395,UZB,6:35
+Counter attack - Saved,5.0,19,3,1,UZB,4.0,ORTIZ M,19 - 1,384,ESP,6:24
+5m shot - Saved,10.0,19,3,1,UZB,4.0,ZINUROVA A,19 - 1,358,UZB,5:58
+20 sec. exclusion in field,4.0,19,3,1,UZB,4.0,TARRAGO R,19 - 1,351,ESP,5:51
+Time-Out,,19,3,1,UZB,4.0,,19 - 1,350,UZB,5:50
+Extra player shot - Goal,7.0,19,3,2,UZB,4.0,PLYUSOVA N,19 - 2,334,UZB,5:34
+Action shot - Saved,8.0,19,3,2,UZB,4.0,PENA P,19 - 2,309,ESP,5:09
+Turnover foul,12.0,19,3,2,UZB,4.0,PLYUSOVA A,19 - 2,291,UZB,4:51
+Turnover foul,2.0,19,3,2,UZB,4.0,BACH M,19 - 2,278,ESP,4:38
+Steal,5.0,19,3,2,UZB,4.0,ORTIZ M,19 - 2,121,ESP,2:01
+20 sec. exclusion in centre,6.0,19,3,2,UZB,4.0,MOROZOVA E,19 - 2,107,UZB,1:47
+Extra player shot - Saved,12.0,19,3,2,UZB,4.0,LOPEZ L,19 - 2,94,ESP,1:34
+5m shot - Saved,7.0,19,3,2,UZB,4.0,PLYUSOVA N,19 - 2,65,UZB,1:05
+Action shot - Saved,8.0,19,3,2,UZB,4.0,PENA P,19 - 2,42,ESP,0:42
+20 sec. exclusion in centre,6.0,19,3,2,UZB,4.0,MOROZOVA E,19 - 2,34,UZB,0:34
+Exclusion with substitution,6.0,19,3,2,UZB,4.0,MOROZOVA E,19 - 2,34,UZB,0:34
+Extra player shot - Goal,2.0,20,3,3,UZB,4.0,BACH M,20 - 3,21,ESP,0:21
+5m shot - Goal,7.0,20,3,4,UZB,4.0,PLYUSOVA N,20 - 4,0,UZB,0:00
+Starting goalkeeper,1.0,0,4,0,NZL,1.0,MILLAR B,0 - 0,480,NZL,8:00
+Starting goalkeeper,1.0,0,4,0,NZL,1.0,ESTER L,0 - 0,480,ESP,8:00
+Sprint won possession,6.0,0,4,0,NZL,1.0,PAREJA J,0 - 0,480,ESP,8:00
+20 sec. exclusion in centre,8.0,0,4,0,NZL,1.0,LEWIS D,0 - 0,454,NZL,7:34
+Extra player shot - Goal,6.0,1,4,0,NZL,1.0,PAREJA J,1 - 0,436,ESP,7:16
+5m shot - Blocked,11.0,1,4,0,NZL,1.0,HUDSON K,1 - 0,408,NZL,6:48
+Action shot - Goal,8.0,2,4,0,NZL,1.0,PENA P,2 - 0,392,ESP,6:32
+Turnover foul,4.0,2,4,0,NZL,1.0,LEWIS N,2 - 0,375,NZL,6:15
+Action shot - Post,6.0,2,4,0,NZL,1.0,PAREJA J,2 - 0,360,ESP,6:00
+Penalty foul,8.0,2,4,0,NZL,1.0,LEWIS D,2 - 0,359,NZL,5:59
+Penalty shot - Goal,6.0,3,4,0,NZL,1.0,PAREJA J,3 - 0,359,ESP,5:59
+5m shot - Blocked,3.0,3,4,0,NZL,1.0,MASON K,3 - 0,336,NZL,5:36
+Centre shot - Goal,9.0,4,4,0,NZL,1.0,BLAS A,4 - 0,316,ESP,5:16
+20 sec. exclusion in centre,5.0,4,4,0,NZL,1.0,ORTIZ M,4 - 0,300,ESP,5:00
+Extra player shot - Post,6.0,4,4,0,NZL,1.0,SMITH L,4 - 0,282,NZL,4:42
+Turnover foul,9.0,4,4,0,NZL,1.0,BLAS A,4 - 0,263,ESP,4:23
+Turnover foul,3.0,4,4,0,NZL,1.0,MASON K,4 - 0,238,NZL,3:58
+Steal,9.0,4,4,0,NZL,1.0,BLAS A,4 - 0,238,ESP,3:58
+Turnover foul,8.0,4,4,0,NZL,1.0,PENA P,4 - 0,214,ESP,3:34
+Steal,9.0,4,4,0,NZL,1.0,SIEPRATH L,4 - 0,214,NZL,3:34
+Centre shot - Saved,9.0,4,4,0,NZL,1.0,BLAS A,4 - 0,161,ESP,2:41
+Turnover foul,3.0,4,4,0,NZL,1.0,ESPAR A,4 - 0,145,ESP,2:25
+Turnover foul,9.0,4,4,0,NZL,1.0,SIEPRATH L,4 - 0,118,NZL,1:58
+Steal,6.0,4,4,0,NZL,1.0,PAREJA J,4 - 0,118,ESP,1:58
+Turnover foul,12.0,4,4,0,NZL,1.0,LOPEZ L,4 - 0,96,ESP,1:36
+5m shot - Goal,11.0,4,4,1,NZL,1.0,HUDSON K,4 - 1,70,NZL,1:10
+Penalty foul,9.0,4,4,1,NZL,1.0,SIEPRATH L,4 - 1,55,NZL,0:55
+Penalty shot - Goal,4.0,5,4,1,NZL,1.0,TARRAGO R,5 - 1,55,ESP,0:55
+20 sec. exclusion in field,11.0,5,4,1,NZL,1.0,GARCIA GODOY M,5 - 1,44,ESP,0:44
+5m shot - Saved,12.0,5,4,1,NZL,1.0,MYLES A,5 - 1,17,NZL,0:17
+Turnover foul,11.0,5,4,1,NZL,1.0,GARCIA GODOY M,5 - 1,1,ESP,0:01
+Starting goalkeeper,1.0,5,4,1,NZL,2.0,ESTER L,5 - 1,480,ESP,8:00
+Starting goalkeeper,1.0,5,4,1,NZL,2.0,MILLAR B,5 - 1,480,NZL,8:00
+Sprint won possession,6.0,5,4,1,NZL,2.0,PAREJA J,5 - 1,480,ESP,8:00
+20 sec. exclusion in centre,5.0,5,4,1,NZL,2.0,BOYD A,5 - 1,466,NZL,7:46
+Extra player shot - Goal,11.0,6,4,1,NZL,2.0,GARCIA GODOY M,6 - 1,447,ESP,7:27
+Turnover foul,9.0,6,4,1,NZL,2.0,SIEPRATH L,6 - 1,433,NZL,7:13
+Action shot - Blocked,4.0,6,4,1,NZL,2.0,TARRAGO R,6 - 1,420,ESP,7:00
+20 sec. exclusion in field,11.0,6,4,1,NZL,2.0,GARCIA GODOY M,6 - 1,395,ESP,6:35
+Action shot - Post,9.0,6,4,1,NZL,2.0,SIEPRATH L,6 - 1,367,NZL,6:07
+Penalty foul,7.0,6,4,1,NZL,2.0,LANDRY S,6 - 1,340,NZL,5:40
+Penalty shot - Goal,6.0,7,4,1,NZL,2.0,PAREJA J,7 - 1,340,ESP,5:40
+20 sec. exclusion in centre,7.0,7,4,1,NZL,2.0,MIRANDA L,7 - 1,316,ESP,5:16
+Extra player shot - Goal,4.0,7,4,2,NZL,2.0,LEWIS N,7 - 2,299,NZL,4:59
+20 sec. exclusion in centre,3.0,7,4,2,NZL,2.0,MASON K,7 - 2,285,NZL,4:45
+Extra player shot - Post,5.0,7,4,2,NZL,2.0,ORTIZ M,7 - 2,274,ESP,4:34
+Turnover foul,1.0,7,4,2,NZL,2.0,MILLAR B,7 - 2,265,NZL,4:25
+Steal,4.0,7,4,2,NZL,2.0,TARRAGO R,7 - 2,265,ESP,4:25
+Action shot - Post,5.0,7,4,2,NZL,2.0,ORTIZ M,7 - 2,242,ESP,4:02
+Action shot - Saved,6.0,7,4,2,NZL,2.0,PAREJA J,7 - 2,232,ESP,3:52
+Turnover foul,2.0,7,4,2,NZL,2.0,COX E,7 - 2,207,NZL,3:27
+Steal,12.0,7,4,2,NZL,2.0,LOPEZ L,7 - 2,207,ESP,3:27
+Penalty foul,3.0,7,4,2,NZL,2.0,MASON K,7 - 2,179,NZL,2:59
+Penalty shot - Goal,4.0,8,4,2,NZL,2.0,TARRAGO R,8 - 2,179,ESP,2:59
+Turnover foul,8.0,8,4,2,NZL,2.0,LEWIS D,8 - 2,166,NZL,2:46
+Steal,8.0,8,4,2,NZL,2.0,PENA P,8 - 2,166,ESP,2:46
+20 sec. exclusion in field,8.0,8,4,2,NZL,2.0,LEWIS D,8 - 2,163,NZL,2:43
+Exclusion with substitution,8.0,8,4,2,NZL,2.0,LEWIS D,8 - 2,163,NZL,2:43
+Action shot - Goal,11.0,9,4,2,NZL,2.0,GARCIA GODOY M,9 - 2,138,ESP,2:18
+5m shot - Missed,3.0,9,4,2,NZL,2.0,MASON K,9 - 2,110,NZL,1:50
+Turnover foul,11.0,9,4,2,NZL,2.0,GARCIA GODOY M,9 - 2,89,ESP,1:29
+Steal,3.0,9,4,2,NZL,2.0,MASON K,9 - 2,89,NZL,1:29
+Turnover foul,11.0,9,4,2,NZL,2.0,GARCIA GODOY M,9 - 2,58,ESP,0:58
+20 sec. exclusion in field,9.0,9,4,2,NZL,4.0,BLAS A,9 - 2,260,ESP,4:20
+5m shot - Goal,9.0,14,4,6,NZL,4.0,SIEPRATH L,14 - 6,235,NZL,3:55
+Action shot - Goal,12.0,15,4,6,NZL,4.0,LOPEZ L,15 - 6,217,ESP,3:37
+20 sec. exclusion in centre,7.0,15,4,6,NZL,4.0,MIRANDA L,15 - 6,200,ESP,3:20
+Exclusion with substitution,7.0,15,4,6,NZL,4.0,MIRANDA L,15 - 6,200,ESP,3:20
+Extra player shot - Blocked,10.0,15,4,6,NZL,4.0,BOWRY C,15 - 6,182,NZL,3:02
+20 sec. exclusion in centre,9.0,15,4,6,NZL,4.0,SIEPRATH L,15 - 6,161,NZL,2:41
+Penalty foul,9.0,15,4,6,NZL,4.0,SIEPRATH L,15 - 6,160,NZL,2:40
+Exclusion with substitution,9.0,15,4,6,NZL,4.0,SIEPRATH L,15 - 6,160,NZL,2:40
+Penalty shot - Goal,12.0,16,4,6,NZL,4.0,LOPEZ L,16 - 6,160,ESP,2:40
+5m shot - Saved,12.0,16,4,6,NZL,4.0,MYLES A,16 - 6,139,NZL,2:19
+Penalty foul,11.0,16,4,6,NZL,4.0,HUDSON K,16 - 6,130,NZL,2:10
+5m shot - Saved,6.0,16,4,6,NZL,2.0,SMITH L,16 - 6,31,NZL,0:31
+20 sec. exclusion in centre,5.0,16,4,6,NZL,2.0,ORTIZ M,16 - 6,21,ESP,0:21
+Extra player shot - Goal,12.0,9,4,3,NZL,2.0,MYLES A,9 - 3,5,NZL,0:05
+5m shot - Missed,6.0,9,4,3,NZL,2.0,PAREJA J,9 - 3,1,ESP,0:01
+Starting goalkeeper,13.0,9,4,3,NZL,3.0,HUTCHINSON I,9 - 3,480,NZL,8:00
+Starting goalkeeper,1.0,9,4,3,NZL,3.0,ESTER L,9 - 3,480,ESP,8:00
+Sprint won possession,6.0,9,4,3,NZL,3.0,PAREJA J,9 - 3,480,ESP,8:00
+Action shot - Goal,12.0,10,4,3,NZL,3.0,LOPEZ L,10 - 3,453,ESP,7:33
+20 sec. exclusion in centre,7.0,10,4,3,NZL,3.0,MIRANDA L,10 - 3,439,ESP,7:19
+Extra player shot - Saved,3.0,10,4,3,NZL,3.0,MASON K,10 - 3,422,NZL,7:02
+20 sec. exclusion in centre,10.0,10,4,3,NZL,3.0,BOWRY C,10 - 3,404,NZL,6:44
+Extra player shot - Goal,4.0,11,4,3,NZL,3.0,TARRAGO R,11 - 3,385,ESP,6:25
+Turnover foul,3.0,11,4,3,NZL,3.0,MASON K,11 - 3,359,NZL,5:59
+Turnover foul,9.0,11,4,3,NZL,3.0,BLAS A,11 - 3,338,ESP,5:38
+Steal,5.0,11,4,3,NZL,3.0,BOYD A,11 - 3,338,NZL,5:38
+Turnover foul,7.0,11,4,3,NZL,3.0,LANDRY S,11 - 3,313,NZL,5:13
+Steal,12.0,11,4,3,NZL,3.0,LOPEZ L,11 - 3,313,ESP,5:13
+Turnover foul,10.0,11,4,3,NZL,3.0,MESEGUER O,11 - 3,297,ESP,4:57
+Steal,7.0,11,4,3,NZL,3.0,LANDRY S,11 - 3,297,NZL,4:57
+20 sec. exclusion in centre,6.0,11,4,3,NZL,3.0,PAREJA J,11 - 3,281,ESP,4:41
+Time-Out,,11,4,3,NZL,3.0,,11 - 3,281,NZL,4:41
+Extra player shot - Saved,11.0,11,4,3,NZL,3.0,HUDSON K,11 - 3,264,NZL,4:24
+Action shot - Saved,10.0,11,4,3,NZL,3.0,BOWRY C,11 - 3,255,NZL,4:15
+Turnover foul,11.0,11,4,3,NZL,3.0,GARCIA GODOY M,11 - 3,232,ESP,3:52
+Steal,9.0,11,4,3,NZL,3.0,SIEPRATH L,11 - 3,232,NZL,3:52
+Penalty foul,3.0,11,4,3,NZL,3.0,ESPAR A,11 - 3,217,ESP,3:37
+Penalty shot - Goal,11.0,11,4,4,NZL,3.0,HUDSON K,11 - 4,217,NZL,3:37
+5m shot - Post,7.0,11,4,4,NZL,3.0,MIRANDA L,11 - 4,195,ESP,3:15
+Action shot - Saved,12.0,11,4,4,NZL,3.0,LOPEZ L,11 - 4,174,ESP,2:54
+Turnover foul,2.0,11,4,4,NZL,3.0,COX E,11 - 4,143,NZL,2:23
+Steal,8.0,11,4,4,NZL,3.0,PENA P,11 - 4,143,ESP,2:23
+Turnover foul,11.0,11,4,4,NZL,3.0,GARCIA GODOY M,11 - 4,124,ESP,2:04
+20 sec. exclusion in field,11.0,11,4,4,NZL,3.0,GARCIA GODOY M,11 - 4,111,ESP,1:51
+Exclusion with substitution,11.0,11,4,4,NZL,3.0,GARCIA GODOY M,11 - 4,111,ESP,1:51
+Extra player shot - Goal,12.0,11,4,5,NZL,3.0,MYLES A,11 - 5,91,NZL,1:31
+20 sec. exclusion in centre,10.0,11,4,5,NZL,3.0,BOWRY C,11 - 5,75,NZL,1:15
+Extra player shot - Goal,9.0,12,4,5,NZL,3.0,BLAS A,12 - 5,60,ESP,1:00
+Turnover foul,4.0,12,4,5,NZL,3.0,LEWIS N,12 - 5,45,NZL,0:45
+Steal,3.0,12,4,5,NZL,3.0,ESPAR A,12 - 5,45,ESP,0:45
+Turnover foul,8.0,12,4,5,NZL,3.0,PENA P,12 - 5,36,ESP,0:36
+20 sec. exclusion in centre,5.0,12,4,5,NZL,3.0,ORTIZ M,12 - 5,18,ESP,0:18
+Exclusion with substitution,5.0,12,4,5,NZL,3.0,ORTIZ M,12 - 5,18,ESP,0:18
+Extra player shot - Saved,11.0,12,4,5,NZL,3.0,HUDSON K,12 - 5,3,NZL,0:03
+Extra player shot - Blocked,7.0,12,4,5,NZL,3.0,LANDRY S,12 - 5,1,NZL,0:01
+Starting goalkeeper,13.0,12,4,5,NZL,4.0,HUTCHINSON I,12 - 5,480,NZL,8:00
+Starting goalkeeper,1.0,12,4,5,NZL,4.0,ESTER L,12 - 5,480,ESP,8:00
+Sprint won possession,6.0,12,4,5,NZL,4.0,PAREJA J,12 - 5,480,ESP,8:00
+Action shot - Goal,6.0,13,4,5,NZL,4.0,PAREJA J,13 - 5,467,ESP,7:47
+Turnover foul,11.0,13,4,5,NZL,4.0,HUDSON K,13 - 5,452,NZL,7:32
+Steal,2.0,13,4,5,NZL,4.0,BACH M,13 - 5,452,ESP,7:32
+Action shot - Saved,4.0,13,4,5,NZL,4.0,TARRAGO R,13 - 5,428,ESP,7:08
+20 sec. exclusion in field,4.0,13,4,5,NZL,4.0,TARRAGO R,13 - 5,425,ESP,7:05
+Time-Out,,13,4,5,NZL,4.0,,13 - 5,425,NZL,7:05
+Action shot - Blocked,12.0,13,4,5,NZL,4.0,MYLES A,13 - 5,404,NZL,6:44
+Action shot - Saved,6.0,13,4,5,NZL,4.0,PAREJA J,13 - 5,376,ESP,6:16
+20 sec. exclusion in centre,2.0,13,4,5,NZL,4.0,BACH M,13 - 5,350,ESP,5:50
+Extra player shot - Blocked,11.0,13,4,5,NZL,4.0,HUDSON K,13 - 5,335,NZL,5:35
+Turnover foul,9.0,13,4,5,NZL,4.0,BLAS A,13 - 5,317,ESP,5:17
+Steal,9.0,13,4,5,NZL,4.0,SIEPRATH L,13 - 5,317,NZL,5:17
+Turnover foul,9.0,13,4,5,NZL,4.0,SIEPRATH L,13 - 5,295,NZL,4:55
+Steal,3.0,13,4,5,NZL,4.0,ESPAR A,13 - 5,295,ESP,4:55
+Action shot - Goal,4.0,14,4,5,NZL,4.0,TARRAGO R,14 - 5,271,ESP,4:31
+Goalkeeper substitution,13.0,14,4,5,NZL,4.0,HERRERA P,14 - 5,271,ESP,4:31
+Penalty shot - Goal,6.0,17,4,6,NZL,4.0,PAREJA J,17 - 6,130,ESP,2:10
+Double exclusion,3.0,17,4,6,NZL,4.0,ESPAR A,17 - 6,113,ESP,1:53
+Double exclusion,4.0,17,4,6,NZL,4.0,LEWIS N,17 - 6,113,NZL,1:53
+20 sec. exclusion in centre,2.0,17,4,6,NZL,4.0,BACH M,17 - 6,97,ESP,1:37
+Extra player shot - Saved,3.0,17,4,6,NZL,4.0,MASON K,17 - 6,82,NZL,1:22
+20 sec. exclusion in centre,6.0,17,4,6,NZL,4.0,SMITH L,17 - 6,58,NZL,0:58
+Action shot - Blocked,10.0,17,4,6,NZL,4.0,MESEGUER O,17 - 6,35,ESP,0:35
+Turnover foul,10.0,17,4,6,NZL,4.0,BOWRY C,17 - 6,17,NZL,0:17
+Steal,8.0,17,4,6,NZL,4.0,PENA P,17 - 6,17,ESP,0:17
+20 sec. exclusion in field,10.0,17,4,6,NZL,4.0,BOWRY C,17 - 6,14,NZL,0:14
+Exclusion with substitution,10.0,17,4,6,NZL,4.0,BOWRY C,17 - 6,14,NZL,0:14
+Extra player shot - Goal,8.0,18,4,6,NZL,4.0,PENA P,18 - 6,1,ESP,0:01
+Starting goalkeeper,1.0,0,5,0,USA,1.0,ARMSTRONG E,0 - 0,480,USA,8:00
+Starting goalkeeper,1.0,0,5,0,USA,1.0,ESTER L,0 - 0,480,ESP,8:00
+Sprint won possession,6.0,0,5,0,USA,1.0,PAREJA J,0 - 0,480,ESP,8:00
+Action shot - Goal,6.0,1,5,0,USA,1.0,PAREJA J,1 - 0,454,ESP,7:34
+Turnover foul,5.0,1,5,0,USA,1.0,ORTIZ M,1 - 0,406,ESP,6:46
+Turnover foul,2.0,1,5,0,USA,1.0,SILVER L,1 - 0,384,USA,6:24
+5m shot - Missed,5.0,1,5,0,USA,1.0,ORTIZ M,1 - 0,361,ESP,6:01
+Centre shot - Goal,12.0,1,5,1,USA,1.0,CRAIG K,1 - 1,346,USA,5:46
+Centre shot - Missed,11.0,1,5,1,USA,1.0,GARCIA GODOY M,1 - 1,324,ESP,5:24
+Turnover foul,11.0,1,5,1,USA,1.0,DRIES A,1 - 1,297,USA,4:57
+Steal,5.0,1,5,1,USA,1.0,ORTIZ M,1 - 1,297,ESP,4:57
+20 sec. exclusion in centre,5.0,1,5,1,USA,1.0,CLARK C,1 - 1,272,USA,4:32
+Action shot - Goal,12.0,2,5,1,USA,1.0,LOPEZ L,2 - 1,250,ESP,4:10
+Turnover foul,9.0,2,5,1,USA,1.0,KRAUS J,2 - 1,230,USA,3:50
+Steal,8.0,2,5,1,USA,1.0,PENA P,2 - 1,230,ESP,3:50
+5m shot - Goal,6.0,3,5,1,USA,1.0,PAREJA J,3 - 1,204,ESP,3:24
+5m shot - Goal,4.0,3,5,2,USA,1.0,FATTAL R,3 - 2,185,USA,3:05
+Turnover foul,3.0,3,5,2,USA,1.0,ESPAR A,3 - 2,151,ESP,2:31
+Action shot - Saved,8.0,3,5,2,USA,1.0,NEUSHUL K,3 - 2,138,USA,2:18
+Penalty foul,3.0,3,5,2,USA,1.0,SEIDEMANN M,3 - 2,127,USA,2:07
+Penalty shot - Goal,6.0,4,5,2,USA,1.0,PAREJA J,4 - 2,127,ESP,2:07
+20 sec. exclusion in field,10.0,4,5,2,USA,1.0,MESEGUER O,4 - 2,113,ESP,1:53
+Turnover foul,4.0,4,5,2,USA,1.0,FATTAL R,4 - 2,100,USA,1:40
+Turnover foul,11.0,4,5,2,USA,1.0,GARCIA GODOY M,4 - 2,73,ESP,1:13
+Steal,6.0,4,5,2,USA,1.0,STEFFENS M,4 - 2,73,USA,1:13
+Action shot - Post,4.0,4,5,2,USA,1.0,FATTAL R,4 - 2,47,USA,0:47
+Action shot - Post,7.0,4,5,2,USA,1.0,MIRANDA L,4 - 2,18,ESP,0:18
+Action shot - Saved,8.0,4,5,2,USA,1.0,NEUSHUL K,4 - 2,2,USA,0:02
+Starting goalkeeper,1.0,4,5,2,USA,2.0,ARMSTRONG E,4 - 2,480,USA,8:00
+Starting goalkeeper,1.0,4,5,2,USA,2.0,ESTER L,4 - 2,480,ESP,8:00
+Sprint won possession,6.0,4,5,2,USA,2.0,PAREJA J,4 - 2,480,ESP,8:00
+Turnover foul,9.0,4,5,2,USA,2.0,BLAS A,4 - 2,457,ESP,7:37
+Steal,7.0,4,5,2,USA,2.0,MATHEWSON C,4 - 2,457,USA,7:37
+Steal,12.0,4,5,2,USA,2.0,LOPEZ L,4 - 2,433,ESP,7:13
+Turnover foul,8.0,4,5,2,USA,2.0,NEUSHUL K,4 - 2,433,USA,7:13
+20 sec. exclusion in field,8.0,4,5,2,USA,2.0,NEUSHUL K,4 - 2,433,USA,7:13
+Action shot - Goal,6.0,5,5,2,USA,2.0,PAREJA J,5 - 2,409,ESP,6:49
+Centre shot - Goal,12.0,5,5,3,USA,2.0,CRAIG K,5 - 3,388,USA,6:28
+Centre shot - Saved,9.0,5,5,3,USA,2.0,BLAS A,5 - 3,376,ESP,6:16
+Turnover foul,12.0,5,5,3,USA,2.0,CRAIG K,5 - 3,354,USA,5:54
+5m shot - Blocked,12.0,5,5,3,USA,2.0,LOPEZ L,5 - 3,329,ESP,5:29
+Penalty foul,5.0,5,5,3,USA,2.0,ORTIZ M,5 - 3,321,ESP,5:21
+Penalty shot - Goal,6.0,5,5,4,USA,2.0,STEFFENS M,5 - 4,321,USA,5:21
+Turnover foul,6.0,5,5,4,USA,2.0,PAREJA J,5 - 4,303,ESP,5:03
+Steal,2.0,5,5,4,USA,2.0,SILVER L,5 - 4,303,USA,5:03
+Turnover foul,6.0,5,5,4,USA,2.0,STEFFENS M,5 - 4,284,USA,4:44
+Turnover foul,11.0,5,5,4,USA,2.0,GARCIA GODOY M,5 - 4,269,ESP,4:29
+5m shot - Missed,7.0,5,5,4,USA,2.0,MATHEWSON C,5 - 4,245,USA,4:05
+Turnover foul,8.0,5,5,4,USA,2.0,PENA P,5 - 4,244,ESP,4:04
+20 sec. exclusion in field,11.0,5,5,4,USA,2.0,GARCIA GODOY M,5 - 4,226,ESP,3:46
+Action shot - Blocked,2.0,5,5,4,USA,2.0,SILVER L,5 - 4,200,USA,3:20
+5m shot - Saved,6.0,5,5,4,USA,2.0,PAREJA J,5 - 4,171,ESP,2:51
+20 sec. exclusion in centre,5.0,5,5,4,USA,2.0,ORTIZ M,5 - 4,148,ESP,2:28
+Extra player shot - Saved,10.0,5,5,4,USA,2.0,RULON K,5 - 4,145,USA,2:25
+Action shot - Saved,6.0,5,5,4,USA,2.0,PAREJA J,5 - 4,118,ESP,1:58
+5m shot - Missed,7.0,5,5,4,USA,2.0,MIRANDA L,5 - 4,91,ESP,1:31
+5m shot - Missed,3.0,5,5,4,USA,2.0,SEIDEMANN M,5 - 4,75,USA,1:15
+Action shot - Saved,12.0,5,5,4,USA,2.0,LOPEZ L,5 - 4,48,ESP,0:48
+Action shot - Saved,8.0,5,5,4,USA,2.0,PENA P,5 - 4,22,ESP,0:22
+Turnover foul,6.0,5,5,4,USA,2.0,STEFFENS M,5 - 4,8,USA,0:08
+Starting goalkeeper,1.0,5,5,4,USA,3.0,ESTER L,5 - 4,480,ESP,8:00
+Starting goalkeeper,1.0,5,5,4,USA,3.0,ARMSTRONG E,5 - 4,480,USA,8:00
+Sprint won possession,6.0,5,5,4,USA,3.0,PAREJA J,5 - 4,480,ESP,8:00
+Turnover foul,11.0,5,5,4,USA,3.0,GARCIA GODOY M,5 - 4,452,ESP,7:32
+Steal,5.0,5,5,4,USA,3.0,CLARK C,5 - 4,452,USA,7:32
+20 sec. exclusion in centre,7.0,5,5,4,USA,3.0,MIRANDA L,5 - 4,431,ESP,7:11
+Action shot - Saved,6.0,5,5,4,USA,3.0,STEFFENS M,5 - 4,409,USA,6:49
+Turnover foul,11.0,5,5,4,USA,3.0,GARCIA GODOY M,5 - 4,386,ESP,6:26
+Turnover foul,11.0,5,5,4,USA,3.0,DRIES A,5 - 4,364,USA,6:04
+Steal,2.0,5,5,4,USA,3.0,BACH M,5 - 4,364,ESP,6:04
+20 sec. exclusion in centre,5.0,5,5,4,USA,3.0,CLARK C,5 - 4,350,USA,5:50
+Extra player shot - Goal,11.0,6,5,4,USA,3.0,GARCIA GODOY M,6 - 4,332,ESP,5:32
+Turnover foul,11.0,6,5,4,USA,3.0,DRIES A,6 - 4,314,USA,5:14
+Steal,2.0,6,5,4,USA,3.0,BACH M,6 - 4,314,ESP,5:14
+20 sec. exclusion in centre,6.0,6,5,4,USA,3.0,STEFFENS M,6 - 4,288,USA,4:48
+Turnover foul,6.0,6,5,4,USA,3.0,PAREJA J,6 - 4,266,ESP,4:26
+Steal,11.0,6,5,4,USA,3.0,DRIES A,6 - 4,266,USA,4:26
+20 sec. exclusion in field,10.0,6,5,4,USA,3.0,MESEGUER O,6 - 4,243,ESP,4:03
+Time-Out,,6,5,4,USA,3.0,,6 - 4,238,USA,3:58
+Action shot - Blocked,7.0,6,5,4,USA,3.0,MATHEWSON C,6 - 4,218,USA,3:38
+20 sec. exclusion in centre,2.0,6,5,4,USA,3.0,SILVER L,6 - 4,191,USA,3:11
+Extra player shot - Saved,4.0,6,5,4,USA,3.0,TARRAGO R,6 - 4,171,ESP,2:51
+Centre shot - Saved,11.0,6,5,4,USA,3.0,GARCIA GODOY M,6 - 4,168,ESP,2:48
+20 sec. exclusion in centre,7.0,6,5,4,USA,3.0,MIRANDA L,6 - 4,140,ESP,2:20
+Action shot - Saved,7.0,6,5,4,USA,3.0,MATHEWSON C,6 - 4,113,USA,1:53
+Centre shot - Goal,3.0,6,5,5,USA,3.0,SEIDEMANN M,6 - 5,111,USA,1:51
+Turnover foul,12.0,6,5,5,USA,3.0,LOPEZ L,6 - 5,83,ESP,1:23
+Turnover foul,11.0,6,5,5,USA,3.0,DRIES A,6 - 5,65,USA,1:05
+Action shot - Missed,3.0,6,5,5,USA,3.0,ESPAR A,6 - 5,46,ESP,0:46
+Turnover foul,11.0,6,5,5,USA,3.0,DRIES A,6 - 5,33,USA,0:33
+Action shot - Blocked,3.0,6,5,5,USA,3.0,ESPAR A,6 - 5,3,ESP,0:03
+Starting goalkeeper,1.0,6,5,5,USA,4.0,ESTER L,6 - 5,480,ESP,8:00
+Starting goalkeeper,1.0,6,5,5,USA,4.0,ARMSTRONG E,6 - 5,480,USA,8:00
+Sprint won possession,6.0,6,5,5,USA,4.0,PAREJA J,6 - 5,480,ESP,8:00
+Action shot - Saved,6.0,6,5,5,USA,4.0,PAREJA J,6 - 5,455,ESP,7:35
+Turnover foul,12.0,6,5,5,USA,4.0,CRAIG K,6 - 5,432,USA,7:12
+Steal,6.0,6,5,5,USA,4.0,PAREJA J,6 - 5,432,ESP,7:12
+20 sec. exclusion in centre,12.0,6,5,5,USA,4.0,LOPEZ L,6 - 5,376,ESP,6:16
+Turnover foul,3.0,6,5,5,USA,4.0,SEIDEMANN M,6 - 5,360,USA,6:00
+20 sec. exclusion in field,6.0,6,5,5,USA,4.0,STEFFENS M,6 - 5,335,USA,5:35
+Time-Out,,6,5,5,USA,4.0,,6 - 5,335,ESP,5:35
+Action shot - Goal,11.0,7,5,5,USA,4.0,GARCIA GODOY M,7 - 5,311,ESP,5:11
+Centre shot - Saved,11.0,7,5,5,USA,4.0,GARCIA GODOY M,7 - 5,253,ESP,4:13
+Turnover foul,4.0,7,5,5,USA,4.0,FATTAL R,7 - 5,224,USA,3:44
+Steal,3.0,7,5,5,USA,4.0,ESPAR A,7 - 5,224,ESP,3:44
+Turnover foul,12.0,7,5,5,USA,4.0,LOPEZ L,7 - 5,200,ESP,3:20
+Action shot - Saved,6.0,7,5,5,USA,4.0,STEFFENS M,7 - 5,160,USA,2:40
+5m shot - Blocked,6.0,7,5,5,USA,4.0,PAREJA J,7 - 5,147,ESP,2:27
+Time-Out,,7,5,5,USA,4.0,,7 - 5,145,USA,2:25
+5m shot - Missed,6.0,7,5,5,USA,4.0,STEFFENS M,7 - 5,122,USA,2:02
+Action shot - Goal,12.0,8,5,5,USA,4.0,LOPEZ L,8 - 5,97,ESP,1:37
+20 sec. exclusion in field,9.0,8,5,5,USA,4.0,BLAS A,8 - 5,84,ESP,1:24
+Extra player shot - Blocked,12.0,8,5,5,USA,4.0,CRAIG K,8 - 5,80,USA,1:20
+20 sec. exclusion in field,10.0,8,5,5,USA,4.0,RULON K,8 - 5,61,USA,1:01
+Time-Out,,8,5,5,USA,4.0,,8 - 5,60,ESP,1:00
+Action shot - Goal,4.0,9,5,5,USA,4.0,TARRAGO R,9 - 5,39,ESP,0:39
+Centre shot - Goal,12.0,9,5,6,USA,4.0,CRAIG K,9 - 6,27,USA,0:27
+Starting goalkeeper,1.0,0,6,0,HUN,1.0,ESTER L,0 - 0,480,ESP,8:00
+Starting goalkeeper,1.0,0,6,0,HUN,1.0,BOLONYAI F,0 - 0,480,HUN,8:00
+Sprint won possession,7.0,0,6,0,HUN,1.0,MISKOLCZI I,0 - 0,480,HUN,8:00
+Turnover foul,10.0,0,6,0,HUN,1.0,BUJKA B,0 - 0,457,HUN,7:37
+Steal,5.0,0,6,0,HUN,1.0,ORTIZ M,0 - 0,457,ESP,7:37
+20 sec. exclusion in field,5.0,0,6,0,HUN,1.0,SZUCS G,0 - 0,456,HUN,7:36
+Action shot - Goal,3.0,1,6,0,HUN,1.0,ESPAR A,1 - 0,429,ESP,7:09
+5m shot - Goal,5.0,1,6,1,HUN,1.0,SZUCS G,1 - 1,406,HUN,6:46
+20 sec. exclusion in centre,6.0,1,6,1,HUN,1.0,TAKACS O,1 - 1,391,HUN,6:31
+Extra player shot - Goal,8.0,2,6,1,HUN,1.0,PENA P,2 - 1,375,ESP,6:15
+Goalkeeper substitution,13.0,2,6,1,HUN,1.0,KASO O,2 - 1,375,HUN,6:15
+Turnover foul,10.0,2,6,1,HUN,1.0,BUJKA B,2 - 1,355,HUN,5:55
+Steal,8.0,2,6,1,HUN,1.0,PENA P,2 - 1,355,ESP,5:55
+20 sec. exclusion in centre,11.0,2,6,1,HUN,1.0,GARDA K,2 - 1,333,HUN,5:33
+Extra player shot - Blocked,6.0,2,6,1,HUN,1.0,PAREJA J,2 - 1,313,ESP,5:13
+Centre shot - Goal,10.0,2,6,2,HUN,1.0,BUJKA B,2 - 2,287,HUN,4:47
+20 sec. exclusion in centre,2.0,2,6,2,HUN,1.0,ILLES A,2 - 2,273,HUN,4:33
+Action shot - Goal,3.0,3,6,2,HUN,1.0,ESPAR A,3 - 2,252,ESP,4:12
+Turnover foul,6.0,3,6,2,HUN,1.0,TAKACS O,3 - 2,233,HUN,3:53
+Steal,8.0,3,6,2,HUN,1.0,PENA P,3 - 2,233,ESP,3:53
+5m shot - Goal,6.0,4,6,2,HUN,1.0,PAREJA J,4 - 2,206,ESP,3:26
+Goalkeeper substitution,1.0,4,6,2,HUN,1.0,BOLONYAI F,4 - 2,206,HUN,3:26
+Turnover foul,3.0,4,6,2,HUN,1.0,ANTAL D,4 - 2,185,HUN,3:05
+Steal,8.0,4,6,2,HUN,1.0,PENA P,4 - 2,185,ESP,3:05
+Turnover foul,9.0,4,6,2,HUN,1.0,BLAS A,4 - 2,173,ESP,2:53
+Steal,5.0,4,6,2,HUN,1.0,SZUCS G,4 - 2,173,HUN,2:53
+Turnover foul,10.0,4,6,2,HUN,1.0,BUJKA B,4 - 2,144,HUN,2:24
+Turnover foul,9.0,4,6,2,HUN,1.0,BLAS A,4 - 2,129,ESP,2:09
+20 sec. exclusion in centre,12.0,4,6,2,HUN,1.0,LOPEZ L,4 - 2,120,ESP,2:00
+Extra player shot - Goal,3.0,4,6,3,HUN,1.0,ANTAL D,4 - 3,105,HUN,1:45
+20 sec. exclusion in centre,11.0,4,6,3,HUN,1.0,GARDA K,4 - 3,91,HUN,1:31
+Turnover foul,11.0,4,6,3,HUN,1.0,GARCIA GODOY M,4 - 3,67,ESP,1:07
+20 sec. exclusion in centre,4.0,4,6,3,HUN,1.0,TARRAGO R,4 - 3,53,ESP,0:53
+Extra player shot - Goal,4.0,4,6,4,HUN,1.0,KISTELEKI D,4 - 4,50,HUN,0:50
+Centre shot - Saved,11.0,4,6,4,HUN,1.0,GARCIA GODOY M,4 - 4,35,ESP,0:35
+Action shot - Goal,8.0,4,6,5,HUN,1.0,KESZTHELYI R,4 - 5,19,HUN,0:19
+20 sec. exclusion in centre,2.0,4,6,5,HUN,1.0,ILLES A,4 - 5,13,HUN,0:13
+Extra player shot - Goal,3.0,5,6,5,HUN,1.0,ESPAR A,5 - 5,7,ESP,0:07
+5m shot - Missed,2.0,5,6,5,HUN,1.0,ILLES A,5 - 5,1,HUN,0:01
+Starting goalkeeper,1.0,5,6,5,HUN,2.0,ESTER L,5 - 5,480,ESP,8:00
+Starting goalkeeper,1.0,5,6,5,HUN,2.0,BOLONYAI F,5 - 5,480,HUN,8:00
+Sprint won possession,6.0,5,6,5,HUN,2.0,PAREJA J,5 - 5,480,ESP,8:00
+Turnover foul,8.0,5,6,5,HUN,2.0,PENA P,5 - 5,452,ESP,7:32
+Steal,5.0,5,6,5,HUN,2.0,SZUCS G,5 - 5,452,HUN,7:32
+5m shot - Goal,5.0,5,6,6,HUN,2.0,SZUCS G,5 - 6,428,HUN,7:08
+20 sec. exclusion in centre,9.0,5,6,6,HUN,2.0,TOTH I,5 - 6,414,HUN,6:54
+Action shot - Post,8.0,5,6,6,HUN,2.0,PENA P,5 - 6,390,ESP,6:30
+5m shot - Post,8.0,5,6,6,HUN,2.0,KESZTHELYI R,5 - 6,375,HUN,6:15
+Action shot - Post,6.0,5,6,6,HUN,2.0,PAREJA J,5 - 6,345,ESP,5:45
+Action shot - Saved,7.0,5,6,6,HUN,2.0,MISKOLCZI I,5 - 6,318,HUN,5:18
+20 sec. exclusion in field,7.0,5,6,6,HUN,2.0,MISKOLCZI I,5 - 6,308,HUN,5:08
+Extra player shot - Goal,5.0,6,6,6,HUN,2.0,ORTIZ M,6 - 6,295,ESP,4:55
+Turnover foul,8.0,6,6,6,HUN,2.0,KESZTHELYI R,6 - 6,281,HUN,4:41
+Steal,4.0,6,6,6,HUN,2.0,TARRAGO R,6 - 6,281,ESP,4:41
+Counter attack - Goal,4.0,7,6,6,HUN,2.0,TARRAGO R,7 - 6,273,ESP,4:33
+5m shot - Goal,3.0,7,6,7,HUN,2.0,ANTAL D,7 - 7,251,HUN,4:11
+Penalty foul,5.0,7,6,7,HUN,2.0,SZUCS G,7 - 7,239,HUN,3:59
+Penalty shot - Goal,6.0,8,6,7,HUN,2.0,PAREJA J,8 - 7,239,ESP,3:59
+20 sec. exclusion in centre,7.0,8,6,7,HUN,2.0,MIRANDA L,8 - 7,228,ESP,3:48
+Extra player shot - Goal,3.0,8,6,8,HUN,2.0,ANTAL D,8 - 8,211,HUN,3:31
+20 sec. exclusion in centre,10.0,8,6,8,HUN,2.0,BUJKA B,8 - 8,194,HUN,3:14
+Extra player shot - Saved,8.0,8,6,8,HUN,2.0,PENA P,8 - 8,175,ESP,2:55
+Action shot - Saved,7.0,8,6,8,HUN,2.0,MISKOLCZI I,8 - 8,148,HUN,2:28
+Exclusion with substitution,6.0,8,6,8,HUN,4.0,TAKACS O,8 - 8,384,HUN,6:24
+Extra player shot - Missed,6.0,8,6,8,HUN,4.0,PAREJA J,8 - 8,365,ESP,6:05
+Turnover foul,4.0,8,6,8,HUN,4.0,KISTELEKI D,8 - 8,349,HUN,5:49
+Steal,6.0,8,6,8,HUN,4.0,PAREJA J,8 - 8,349,ESP,5:49
+Turnover foul,6.0,8,6,8,HUN,4.0,PAREJA J,8 - 8,326,ESP,5:26
+Turnover foul,10.0,8,6,8,HUN,4.0,BUJKA B,8 - 8,316,HUN,5:16
+20 sec. exclusion in centre,3.0,8,6,8,HUN,4.0,ANTAL D,8 - 8,300,HUN,5:00
+Extra player shot - Goal,12.0,12,6,12,HUN,4.0,LOPEZ L,12 - 12,292,ESP,4:52
+20 sec. exclusion in centre,5.0,12,6,12,HUN,4.0,ORTIZ M,12 - 12,279,ESP,4:39
+Exclusion with substitution,5.0,12,6,12,HUN,4.0,ORTIZ M,12 - 12,279,ESP,4:39
+Extra player shot - Saved,10.0,12,6,12,HUN,4.0,BUJKA B,12 - 12,265,HUN,4:25
+20 sec. exclusion in centre,4.0,12,6,12,HUN,4.0,KISTELEKI D,12 - 12,239,HUN,3:59
+Extra player shot - Blocked,4.0,12,6,12,HUN,4.0,TARRAGO R,12 - 12,211,ESP,3:31
+20 sec. exclusion in centre,9.0,12,6,12,HUN,4.0,TOTH I,12 - 12,198,HUN,3:18
+Exclusion with substitution,9.0,12,6,12,HUN,4.0,TOTH I,12 - 12,198,HUN,3:18
+5m shot - Missed,4.0,12,6,12,HUN,2.0,TARRAGO R,12 - 12,120,ESP,2:00
+20 sec. exclusion in field,4.0,12,6,12,HUN,2.0,TARRAGO R,12 - 12,120,ESP,2:00
+Action shot - Goal,4.0,8,6,9,HUN,2.0,KISTELEKI D,8 - 9,98,HUN,1:38
+Turnover foul,11.0,8,6,9,HUN,2.0,GARCIA GODOY M,8 - 9,92,ESP,1:32
+5m shot - Missed,5.0,8,6,9,HUN,2.0,SZUCS G,8 - 9,78,HUN,1:18
+20 sec. exclusion in field,9.0,8,6,9,HUN,2.0,TOTH I,8 - 9,77,HUN,1:17
+Extra player shot - Goal,12.0,9,6,9,HUN,2.0,LOPEZ L,9 - 9,58,ESP,0:58
+20 sec. exclusion in centre,5.0,9,6,9,HUN,2.0,ORTIZ M,9 - 9,38,ESP,0:38
+Extra player shot - Post,4.0,9,6,9,HUN,2.0,KISTELEKI D,9 - 9,22,HUN,0:22
+20 sec. exclusion in centre,3.0,9,6,9,HUN,2.0,ANTAL D,9 - 9,7,HUN,0:07
+Extra player shot - Missed,12.0,9,6,9,HUN,2.0,LOPEZ L,9 - 9,1,ESP,0:01
+Starting goalkeeper,1.0,9,6,9,HUN,3.0,BOLONYAI F,9 - 9,480,HUN,8:00
+Starting goalkeeper,1.0,9,6,9,HUN,3.0,ESTER L,9 - 9,480,ESP,8:00
+Sprint won possession,6.0,9,6,9,HUN,3.0,PAREJA J,9 - 9,480,ESP,8:00
+Turnover foul,11.0,9,6,9,HUN,3.0,GARCIA GODOY M,9 - 9,455,ESP,7:35
+Steal,3.0,9,6,9,HUN,3.0,ANTAL D,9 - 9,455,HUN,7:35
+Turnover foul,10.0,9,6,9,HUN,3.0,BUJKA B,9 - 9,430,HUN,7:10
+Steal,2.0,9,6,9,HUN,3.0,BACH M,9 - 9,430,ESP,7:10
+Turnover foul,11.0,9,6,9,HUN,3.0,GARCIA GODOY M,9 - 9,410,ESP,6:50
+20 sec. exclusion in centre,2.0,9,6,9,HUN,3.0,BACH M,9 - 9,395,ESP,6:35
+Action shot - Post,8.0,9,6,9,HUN,3.0,KESZTHELYI R,9 - 9,373,HUN,6:13
+20 sec. exclusion in centre,6.0,9,6,9,HUN,3.0,TAKACS O,9 - 9,350,HUN,5:50
+Extra player shot - Saved,5.0,9,6,9,HUN,3.0,ORTIZ M,9 - 9,333,ESP,5:33
+Centre shot - Goal,10.0,9,6,10,HUN,3.0,BUJKA B,9 - 10,315,HUN,5:15
+Turnover foul,9.0,9,6,10,HUN,3.0,BLAS A,9 - 10,297,ESP,4:57
+Steal,3.0,9,6,10,HUN,3.0,ANTAL D,9 - 10,297,HUN,4:57
+Penalty foul,5.0,9,6,10,HUN,3.0,ORTIZ M,9 - 10,278,ESP,4:38
+Penalty shot - Goal,3.0,9,6,11,HUN,3.0,ANTAL D,9 - 11,278,HUN,4:38
+Turnover foul,11.0,9,6,11,HUN,3.0,GARCIA GODOY M,9 - 11,260,ESP,4:20
+Steal,7.0,9,6,11,HUN,3.0,MISKOLCZI I,9 - 11,260,HUN,4:20
+Turnover foul,8.0,9,6,11,HUN,3.0,KESZTHELYI R,9 - 11,237,HUN,3:57
+Steal,6.0,9,6,11,HUN,3.0,PAREJA J,9 - 11,237,ESP,3:57
+Turnover foul,11.0,9,6,11,HUN,3.0,GARCIA GODOY M,9 - 11,215,ESP,3:35
+Steal,3.0,9,6,11,HUN,3.0,ANTAL D,9 - 11,215,HUN,3:35
+5m shot - Goal,8.0,9,6,12,HUN,3.0,KESZTHELYI R,9 - 12,194,HUN,3:14
+Time-Out,,9,6,12,HUN,3.0,,9 - 12,194,ESP,3:14
+Centre shot - Goal,11.0,10,6,12,HUN,3.0,GARCIA GODOY M,10 - 12,184,ESP,3:04
+Turnover foul,10.0,10,6,12,HUN,3.0,BUJKA B,10 - 12,164,HUN,2:44
+Steal,4.0,10,6,12,HUN,3.0,TARRAGO R,10 - 12,164,ESP,2:44
+Turnover foul,7.0,10,6,12,HUN,3.0,MIRANDA L,10 - 12,139,ESP,2:19
+Steal,12.0,10,6,12,HUN,3.0,MENCZINGER K,10 - 12,139,HUN,2:19
+Turnover foul,10.0,10,6,12,HUN,3.0,BUJKA B,10 - 12,124,HUN,2:04
+Steal,8.0,10,6,12,HUN,3.0,PENA P,10 - 12,124,ESP,2:04
+Penalty foul,12.0,10,6,12,HUN,3.0,MENCZINGER K,10 - 12,100,HUN,1:40
+Penalty shot - Saved,4.0,10,6,12,HUN,3.0,TARRAGO R,10 - 12,100,ESP,1:40
+Action shot - Post,7.0,10,6,12,HUN,3.0,MIRANDA L,10 - 12,79,ESP,1:19
+20 sec. exclusion in field,3.0,10,6,12,HUN,3.0,ESPAR A,10 - 12,79,ESP,1:19
+Time-Out,,10,6,12,HUN,3.0,,10 - 12,79,HUN,1:19
+Action shot - Missed,8.0,10,6,12,HUN,3.0,KESZTHELYI R,10 - 12,55,HUN,0:55
+20 sec. exclusion in field,10.0,10,6,12,HUN,3.0,BUJKA B,10 - 12,55,HUN,0:55
+Action shot - Goal,3.0,11,6,12,HUN,3.0,ESPAR A,11 - 12,32,ESP,0:32
+5m shot - Saved,8.0,11,6,12,HUN,3.0,KESZTHELYI R,11 - 12,6,HUN,0:06
+Starting goalkeeper,1.0,11,6,12,HUN,4.0,ESTER L,11 - 12,480,ESP,8:00
+Starting goalkeeper,1.0,11,6,12,HUN,4.0,BOLONYAI F,11 - 12,480,HUN,8:00
+Sprint won possession,6.0,11,6,12,HUN,4.0,PAREJA J,11 - 12,480,ESP,8:00
+Turnover foul,6.0,11,6,12,HUN,4.0,PAREJA J,11 - 12,465,ESP,7:45
+Steal,4.0,11,6,12,HUN,4.0,KISTELEKI D,11 - 12,465,HUN,7:45
+20 sec. exclusion in centre,12.0,11,6,12,HUN,4.0,LOPEZ L,11 - 12,450,ESP,7:30
+Extra player shot - Blocked,3.0,11,6,12,HUN,4.0,ANTAL D,11 - 12,430,HUN,7:10
+Turnover foul,8.0,11,6,12,HUN,4.0,PENA P,11 - 12,413,ESP,6:53
+Turnover foul,5.0,11,6,12,HUN,4.0,SZUCS G,11 - 12,403,HUN,6:43
+Steal,4.0,11,6,12,HUN,4.0,TARRAGO R,11 - 12,403,ESP,6:43
+20 sec. exclusion in centre,6.0,11,6,12,HUN,4.0,TAKACS O,11 - 12,384,HUN,6:24
+Extra player shot - Goal,12.0,13,6,12,HUN,4.0,LOPEZ L,13 - 12,194,ESP,3:14
+20 sec. exclusion in centre,2.0,13,6,12,HUN,4.0,BACH M,13 - 12,176,ESP,2:56
+Time-Out,,13,6,12,HUN,4.0,,13 - 12,176,HUN,2:56
+Action shot - Post,10.0,13,6,12,HUN,4.0,BUJKA B,13 - 12,149,HUN,2:29
+20 sec. exclusion in centre,2.0,13,6,12,HUN,4.0,ILLES A,13 - 12,128,HUN,2:08
+Exclusion with substitution,2.0,13,6,12,HUN,4.0,ILLES A,13 - 12,128,HUN,2:08
+Action shot - Saved,6.0,13,6,12,HUN,4.0,PAREJA J,13 - 12,103,ESP,1:43
+20 sec. exclusion in field,11.0,13,6,12,HUN,4.0,GARCIA GODOY M,13 - 12,85,ESP,1:25
+Extra player shot - Saved,10.0,13,6,12,HUN,4.0,BUJKA B,13 - 12,69,HUN,1:09
+20 sec. exclusion in centre,12.0,13,6,12,HUN,4.0,MENCZINGER K,13 - 12,45,HUN,0:45
+Time-Out,,13,6,12,HUN,4.0,,13 - 12,45,ESP,0:45
+Extra player shot - Missed,4.0,13,6,12,HUN,4.0,TARRAGO R,13 - 12,25,ESP,0:25
+20 sec. exclusion in field,12.0,13,6,12,HUN,4.0,LOPEZ L,13 - 12,13,ESP,0:13
+20 sec. exclusion in field,3.0,13,6,12,HUN,4.0,ESPAR A,13 - 12,5,ESP,0:05
+Extra player shot - Saved,3.0,13,6,12,HUN,4.0,ANTAL D,13 - 12,1,HUN,0:01
+Starting goalkeeper,1.0,0,7,0,AUS,1.0,ESTER L,0 - 0,480,ESP,8:00
+Starting goalkeeper,13.0,0,7,0,AUS,1.0,WAKEFIELD K,0 - 0,480,AUS,8:00
+Sprint won possession,6.0,0,7,0,AUS,1.0,PAREJA J,0 - 0,480,ESP,8:00
+Turnover foul,5.0,0,7,0,AUS,1.0,ORTIZ M,0 - 0,452,ESP,7:32
+Steal,3.0,0,7,0,AUS,1.0,BUCKLING H,0 - 0,452,AUS,7:32
+Action shot - Saved,8.0,0,7,0,AUS,1.0,McGHIE G,0 - 0,422,AUS,7:02
+Turnover foul,4.0,0,7,0,AUS,1.0,LINCOLN-SMITH H,0 - 0,410,AUS,6:50
+Turnover foul,8.0,0,7,0,AUS,1.0,PENA P,0 - 0,391,ESP,6:31
+Steal,7.0,0,7,0,AUS,1.0,WEBSTER R,0 - 0,391,AUS,6:31
+Turnover foul,8.0,0,7,0,AUS,1.0,McGHIE G,0 - 0,371,AUS,6:11
+Steal,6.0,0,7,0,AUS,1.0,PAREJA J,0 - 0,371,ESP,6:11
+Turnover foul,11.0,0,7,0,AUS,1.0,GARCIA GODOY M,0 - 0,345,ESP,5:45
+Centre shot - Saved,4.0,0,7,0,AUS,1.0,LINCOLN-SMITH H,0 - 0,318,AUS,5:18
+20 sec. exclusion in centre,12.0,0,7,0,AUS,1.0,ZAGAME N,0 - 0,295,AUS,4:55
+Extra player shot - Goal,11.0,1,7,0,AUS,1.0,GARCIA GODOY M,0 - 1,280,ESP,4:40
+5m shot - Saved,7.0,1,7,0,AUS,1.0,WEBSTER R,0 - 1,251,AUS,4:11
+Turnover foul,8.0,1,7,0,AUS,1.0,PENA P,0 - 1,237,ESP,3:57
+20 sec. exclusion in centre,5.0,1,7,0,AUS,1.0,ORTIZ M,0 - 1,215,ESP,3:35
+Extra player shot - Blocked,10.0,1,7,0,AUS,1.0,SOUTHERN A,0 - 1,201,AUS,3:21
+Turnover foul,9.0,1,7,0,AUS,1.0,BLAS A,0 - 1,176,ESP,2:56
+Steal,13.0,1,7,0,AUS,1.0,WAKEFIELD K,0 - 1,176,AUS,2:56
+20 sec. exclusion in centre,6.0,1,7,0,AUS,1.0,KNOX B,0 - 1,117,AUS,1:57
+20 sec. exclusion in centre,7.0,1,7,0,AUS,1.0,WEBSTER R,0 - 1,117,AUS,1:57
+Extra player shot - Goal,12.0,2,7,0,AUS,1.0,LOPEZ L,0 - 2,102,ESP,1:42
+5m shot - Post,12.0,2,7,0,AUS,1.0,ZAGAME N,0 - 2,73,AUS,1:13
+Action shot - Saved,6.0,2,7,0,AUS,1.0,PAREJA J,0 - 2,48,ESP,0:48
+20 sec. exclusion in centre,3.0,2,7,0,AUS,1.0,ESPAR A,0 - 2,26,ESP,0:26
+Extra player shot - Goal,9.0,2,7,1,AUS,1.0,ARANCINI Z,1 - 2,8,AUS,0:08
+5m shot - Missed,4.0,2,7,1,AUS,1.0,TARRAGO R,1 - 2,4,ESP,0:04
+Turnover foul,8.0,2,7,1,AUS,1.0,McGHIE G,1 - 2,1,AUS,0:01
+Starting goalkeeper,1.0,2,7,1,AUS,2.0,ESTER L,1 - 2,480,ESP,8:00
+Starting goalkeeper,13.0,2,7,1,AUS,2.0,WAKEFIELD K,1 - 2,480,AUS,8:00
+Sprint won possession,6.0,2,7,1,AUS,2.0,PAREJA J,1 - 2,480,ESP,8:00
+Turnover foul,11.0,2,7,1,AUS,2.0,GARCIA GODOY M,1 - 2,458,ESP,7:38
+Steal,6.0,2,7,1,AUS,2.0,KNOX B,1 - 2,458,AUS,7:38
+Action shot - Saved,8.0,2,7,1,AUS,2.0,McGHIE G,1 - 2,432,AUS,7:12
+20 sec. exclusion in centre,6.0,2,7,1,AUS,2.0,KNOX B,1 - 2,409,AUS,6:49
+Extra player shot - Goal,6.0,3,7,1,AUS,2.0,PAREJA J,1 - 3,390,ESP,6:30
+20 sec. exclusion in centre,2.0,3,7,1,AUS,2.0,BACH M,1 - 3,372,ESP,6:12
+Extra player shot - Goal,8.0,3,7,2,AUS,2.0,McGHIE G,2 - 3,368,AUS,6:08
+Turnover foul,9.0,3,7,2,AUS,2.0,BLAS A,2 - 3,347,ESP,5:47
+Steal,9.0,3,7,2,AUS,2.0,ARANCINI Z,2 - 3,347,AUS,5:47
+Action shot - Post,12.0,3,7,2,AUS,2.0,ZAGAME N,2 - 3,322,AUS,5:22
+20 sec. exclusion in field,3.0,3,7,2,AUS,2.0,BUCKLING H,2 - 3,311,AUS,5:11
+Extra player shot - Goal,9.0,4,7,2,AUS,2.0,BLAS A,2 - 4,311,ESP,5:11
+Turnover foul,6.0,4,7,2,AUS,2.0,PAREJA J,2 - 4,255,ESP,4:15
+Steal,4.0,4,7,2,AUS,2.0,LINCOLN-SMITH H,2 - 4,255,AUS,4:15
+Turnover foul,12.0,4,7,2,AUS,2.0,ZAGAME N,2 - 4,233,AUS,3:53
+5m shot - Blocked,3.0,4,7,2,AUS,2.0,ESPAR A,2 - 4,207,ESP,3:27
+5m shot - Blocked,12.0,4,7,2,AUS,2.0,ZAGAME N,2 - 4,178,AUS,2:58
+20 sec. exclusion in centre,10.0,4,7,2,AUS,2.0,SOUTHERN A,2 - 4,158,AUS,2:38
+Extra player shot - Missed,4.0,4,7,2,AUS,2.0,TARRAGO R,2 - 4,138,ESP,2:18
+20 sec. exclusion in centre,3.0,4,7,2,AUS,2.0,ESPAR A,2 - 4,124,ESP,2:04
+Extra player shot - Goal,7.0,4,7,3,AUS,2.0,WEBSTER R,3 - 4,106,AUS,1:46
+5m shot - Goal,4.0,5,7,3,AUS,2.0,TARRAGO R,3 - 5,76,ESP,1:16
+20 sec. exclusion in field,7.0,5,7,3,AUS,2.0,MIRANDA L,3 - 5,58,ESP,0:58
+Extra player shot - Saved,3.0,5,7,3,AUS,2.0,BUCKLING H,3 - 5,44,AUS,0:44
+Action shot - Blocked,12.0,5,7,3,AUS,2.0,ZAGAME N,3 - 5,38,AUS,0:38
+5m shot - Missed,12.0,5,7,3,AUS,2.0,LOPEZ L,3 - 5,11,ESP,0:11
+Turnover foul,6.0,5,7,3,AUS,2.0,KNOX B,3 - 5,2,AUS,0:02
+Steal,12.0,5,7,3,AUS,2.0,LOPEZ L,3 - 5,2,ESP,0:02
+Starting goalkeeper,1.0,5,7,3,AUS,3.0,ESTER L,3 - 5,480,ESP,8:00
+Starting goalkeeper,13.0,5,7,3,AUS,3.0,WAKEFIELD K,3 - 5,480,AUS,8:00
+Exclusion with substitution,10.0,5,7,3,AUS,4.0,SOUTHERN A,3 - 5,174,AUS,2:54
+Time-Out,,5,7,3,AUS,4.0,,3 - 5,174,ESP,2:54
+Turnover foul,3.0,5,7,3,AUS,4.0,ESPAR A,3 - 5,147,ESP,2:27
+Steal,12.0,5,7,3,AUS,4.0,ZAGAME N,3 - 5,147,AUS,2:27
+Turnover foul,6.0,5,7,3,AUS,4.0,KNOX B,3 - 5,138,AUS,2:18
+Steal,3.0,5,7,3,AUS,4.0,ESPAR A,3 - 5,138,ESP,2:18
+5m shot - Saved,4.0,5,7,3,AUS,4.0,TARRAGO R,3 - 5,108,ESP,1:48
+Sprint won possession,6.0,5,7,3,AUS,3.0,PAREJA J,3 - 5,480,ESP,8:00
+5m shot - Goal,12.0,6,7,3,AUS,3.0,LOPEZ L,3 - 6,457,ESP,7:37
+20 sec. exclusion in centre,5.0,6,7,3,AUS,3.0,ORTIZ M,3 - 6,434,ESP,7:14
+Extra player shot - Missed,7.0,6,7,3,AUS,3.0,WEBSTER R,3 - 6,422,AUS,7:02
+Turnover foul,6.0,6,7,3,AUS,3.0,PAREJA J,3 - 6,407,ESP,6:47
+Steal,12.0,6,7,3,AUS,3.0,ZAGAME N,3 - 6,407,AUS,6:47
+Turnover foul,4.0,6,7,3,AUS,3.0,LINCOLN-SMITH H,3 - 6,381,AUS,6:21
+Steal,2.0,6,7,3,AUS,3.0,BACH M,3 - 6,381,ESP,6:21
+Turnover foul,11.0,6,7,3,AUS,3.0,GARCIA GODOY M,3 - 6,364,ESP,6:04
+20 sec. exclusion in field,11.0,6,7,3,AUS,3.0,GARCIA GODOY M,3 - 6,364,ESP,6:04
+Time-Out,,6,7,3,AUS,3.0,,3 - 6,364,AUS,6:04
+Action shot - Blocked,7.0,6,7,3,AUS,3.0,WEBSTER R,3 - 6,340,AUS,5:40
+20 sec. exclusion in centre,7.0,6,7,3,AUS,3.0,WEBSTER R,3 - 6,318,AUS,5:18
+Extra player shot - Blocked,6.0,6,7,3,AUS,3.0,PAREJA J,3 - 6,299,ESP,4:59
+Centre shot - Missed,6.0,6,7,3,AUS,3.0,KNOX B,3 - 6,273,AUS,4:33
+Turnover foul,4.0,6,7,3,AUS,3.0,TARRAGO R,3 - 6,253,ESP,4:13
+Steal,6.0,6,7,3,AUS,3.0,KNOX B,3 - 6,253,AUS,4:13
+Centre shot - Saved,7.0,6,7,3,AUS,3.0,WEBSTER R,3 - 6,228,AUS,3:48
+Centre shot - Missed,9.0,6,7,3,AUS,3.0,BLAS A,3 - 6,204,ESP,3:24
+20 sec. exclusion in centre,7.0,6,7,3,AUS,3.0,MIRANDA L,3 - 6,184,ESP,3:04
+Action shot - Goal,10.0,6,7,4,AUS,3.0,SOUTHERN A,4 - 6,161,AUS,2:41
+20 sec. exclusion in centre,3.0,6,7,4,AUS,3.0,BUCKLING H,4 - 6,143,AUS,2:23
+20 sec. exclusion in field,10.0,6,7,4,AUS,3.0,SOUTHERN A,4 - 6,134,AUS,2:14
+Extra player shot - Blocked,12.0,6,7,4,AUS,3.0,LOPEZ L,4 - 6,127,ESP,2:07
+Turnover foul,9.0,6,7,4,AUS,3.0,ARANCINI Z,4 - 6,111,AUS,1:51
+Steal,12.0,6,7,4,AUS,3.0,LOPEZ L,4 - 6,111,ESP,1:51
+Turnover foul,11.0,6,7,4,AUS,3.0,GARCIA GODOY M,4 - 6,92,ESP,1:32
+20 sec. exclusion in field,2.0,6,7,4,AUS,3.0,BACH M,4 - 6,82,ESP,1:22
+Extra player shot - Blocked,3.0,6,7,4,AUS,3.0,BUCKLING H,4 - 6,64,AUS,1:04
+Turnover foul,3.0,6,7,4,AUS,3.0,BUCKLING H,4 - 6,57,AUS,0:57
+Action shot - Saved,10.0,6,7,4,AUS,3.0,MESEGUER O,4 - 6,38,ESP,0:38
+20 sec. exclusion in field,7.0,6,7,4,AUS,3.0,WEBSTER R,4 - 6,36,AUS,0:36
+Exclusion with substitution,7.0,6,7,4,AUS,3.0,WEBSTER R,4 - 6,36,AUS,0:36
+Turnover foul,5.0,6,7,4,AUS,3.0,ORTIZ M,4 - 6,21,ESP,0:21
+Double exclusion,6.0,6,7,4,AUS,3.0,PAREJA J,4 - 6,8,ESP,0:08
+Double exclusion,2.0,6,7,4,AUS,3.0,APPEL J,4 - 6,8,AUS,0:08
+Turnover foul,12.0,6,7,4,AUS,3.0,ZAGAME N,4 - 6,2,AUS,0:02
+Starting goalkeeper,1.0,6,7,4,AUS,4.0,ESTER L,4 - 6,480,ESP,8:00
+Starting goalkeeper,13.0,6,7,4,AUS,4.0,WAKEFIELD K,4 - 6,480,AUS,8:00
+Sprint won possession,4.0,6,7,4,AUS,4.0,TARRAGO R,4 - 6,480,ESP,8:00
+Turnover foul,11.0,6,7,4,AUS,4.0,GARCIA GODOY M,4 - 6,456,ESP,7:36
+Steal,4.0,6,7,4,AUS,4.0,LINCOLN-SMITH H,4 - 6,456,AUS,7:36
+Turnover foul,6.0,6,7,4,AUS,4.0,PAREJA J,4 - 6,399,ESP,6:39
+Steal,3.0,6,7,4,AUS,4.0,BUCKLING H,4 - 6,399,AUS,6:39
+5m shot - Missed,6.0,6,7,4,AUS,4.0,KNOX B,4 - 6,386,AUS,6:26
+20 sec. exclusion in centre,12.0,6,7,4,AUS,4.0,ZAGAME N,4 - 6,369,AUS,6:09
+Extra player shot - Goal,11.0,7,7,4,AUS,4.0,GARCIA GODOY M,4 - 7,353,ESP,5:53
+5m shot - Goal,4.0,7,7,5,AUS,4.0,LINCOLN-SMITH H,5 - 7,328,AUS,5:28
+20 sec. exclusion in centre,3.0,7,7,5,AUS,4.0,BUCKLING H,5 - 7,316,AUS,5:16
+Exclusion with substitution,3.0,7,7,5,AUS,4.0,BUCKLING H,5 - 7,316,AUS,5:16
+Penalty foul,3.0,7,7,5,AUS,4.0,BUCKLING H,5 - 7,314,AUS,5:14
+Penalty shot - Goal,6.0,8,7,5,AUS,4.0,PAREJA J,5 - 8,314,ESP,5:14
+20 sec. exclusion in centre,5.0,8,7,5,AUS,4.0,ORTIZ M,5 - 8,297,ESP,4:57
+Exclusion with substitution,5.0,8,7,5,AUS,4.0,ORTIZ M,5 - 8,297,ESP,4:57
+Extra player shot - Saved,6.0,8,7,5,AUS,4.0,KNOX B,5 - 8,290,AUS,4:50
+5m shot - Saved,6.0,8,7,5,AUS,4.0,PAREJA J,5 - 8,267,ESP,4:27
+20 sec. exclusion in field,6.0,8,7,5,AUS,4.0,PAREJA J,5 - 8,249,ESP,4:09
+Extra player shot - Blocked,10.0,8,7,5,AUS,4.0,SOUTHERN A,5 - 8,228,AUS,3:48
+5m shot - Post,6.0,8,7,5,AUS,4.0,PAREJA J,5 - 8,202,ESP,3:22
+20 sec. exclusion in centre,12.0,8,7,5,AUS,4.0,LOPEZ L,5 - 8,189,ESP,3:09
+Penalty foul,1.0,8,7,5,AUS,4.0,ESTER L,5 - 8,189,ESP,3:09
+Penalty shot - Saved,4.0,8,7,5,AUS,4.0,LINCOLN-SMITH H,5 - 8,189,AUS,3:09
+20 sec. exclusion in field,10.0,8,7,5,AUS,4.0,SOUTHERN A,5 - 8,174,AUS,2:54
+Counter attack - Saved,6.0,8,7,5,AUS,4.0,KNOX B,5 - 8,98,AUS,1:38
+Action shot - Saved,12.0,8,7,5,AUS,4.0,ZAGAME N,5 - 8,81,AUS,1:21
+5m shot - Saved,6.0,8,7,5,AUS,4.0,KNOX B,5 - 8,42,AUS,0:42
+Time-Out,,8,7,5,AUS,4.0,,5 - 8,12,AUS,0:12
+20 sec. exclusion in field,11.0,8,7,5,AUS,4.0,GARCIA GODOY M,5 - 8,4,ESP,0:04
+Extra player shot - Goal,5.0,8,7,6,AUS,4.0,BISHOP I,6 - 8,1,AUS,0:01

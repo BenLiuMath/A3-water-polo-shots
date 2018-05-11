@@ -1,0 +1,224 @@
+Period,Time,Action,Score,Team,Player,Cap,Opponent,NZL,Seconds,Game,Opponent name,Result,Goal
+1.0,6:45,5m shot,1 - 0,AUS,WEBSTER R,7.0,1,0,405,1,AUS,Goal,1
+1.0,5:20,Centre shot,1 - 0,AUS,ZAGAME N,12.0,1,0,320,1,AUS,Saved,0
+1.0,4:55,5m shot,1 - 0,NZL,MASON K,3.0,1,0,295,1,AUS,Post,0
+1.0,4:20,5m shot,1 - 0,NZL,SIEPRATH L,9.0,1,0,260,1,AUS,Saved,0
+1.0,3:17,Action shot,1 - 0,NZL,HUDSON K,11.0,1,0,197,1,AUS,Saved,0
+1.0,1:57,Centre shot,2 - 0,AUS,LINCOLN-SMITH H,4.0,2,0,117,1,AUS,Goal,1
+1.0,1:30,Extra player shot,2 - 1,NZL,COX E,2.0,2,1,90,1,AUS,Goal,1
+1.0,0:49,Extra player shot,3 - 1,AUS,ARANCINI Z,9.0,3,1,49,1,AUS,Goal,1
+1.0,0:15,5m shot,3 - 1,AUS,ARANCINI Z,9.0,3,1,15,1,AUS,Missed,0
+1.0,0:01,5m shot,3 - 1,NZL,MILLAR B,1.0,3,1,1,1,AUS,Missed,0
+2.0,7:09,5m shot,4 - 1,AUS,WEBSTER R,7.0,4,1,429,1,AUS,Goal,1
+2.0,6:40,5m shot,4 - 1,NZL,SMITH L,6.0,4,1,400,1,AUS,Saved,0
+2.0,5:59,5m shot,4 - 1,NZL,LANDRY S,7.0,4,1,359,1,AUS,Missed,0
+2.0,5:33,Action shot,4 - 1,AUS,BUCKLING H,3.0,4,1,333,1,AUS,Saved,0
+2.0,5:18,5m shot,4 - 1,NZL,HUDSON K,11.0,4,1,318,1,AUS,Missed,0
+2.0,4:47,Extra player shot,5 - 1,AUS,SOUTHERN A,10.0,5,1,287,1,AUS,Goal,1
+2.0,4:23,Action shot,5 - 1,NZL,MYLES A,12.0,5,1,263,1,AUS,Missed,0
+2.0,4:04,Centre shot,6 - 1,AUS,LINCOLN-SMITH H,4.0,6,1,244,1,AUS,Goal,1
+2.0,3:27,Extra player shot,6 - 2,NZL,MASON K,3.0,6,2,207,1,AUS,Goal,1
+2.0,3:14,Centre shot,7 - 2,AUS,APPEL J,2.0,7,2,194,1,AUS,Goal,1
+2.0,2:56,Action shot,7 - 3,NZL,BOWRY C,10.0,7,3,176,1,AUS,Goal,1
+2.0,2:31,Centre shot,7 - 3,AUS,APPEL J,2.0,7,3,151,1,AUS,Saved,0
+2.0,2:07,5m shot,7 - 3,NZL,MASON K,3.0,7,3,127,1,AUS,Saved,0
+2.0,1:37,5m shot,7 - 3,AUS,KNOX B,6.0,7,3,97,1,AUS,Saved,0
+2.0,1:07,5m shot,7 - 3,NZL,BOWRY C,10.0,7,3,67,1,AUS,Saved,0
+2.0,0:37,5m shot,7 - 3,AUS,KNOX B,6.0,7,3,37,1,AUS,Saved,0
+2.0,0:15,5m shot,7 - 3,NZL,BOWRY C,10.0,7,3,15,1,AUS,Blocked,0
+2.0,0:07,5m shot,7 - 3,NZL,BOWRY C,10.0,7,3,7,1,AUS,Missed,0
+3.0,7:39,5m shot,7 - 3,NZL,MASON K,3.0,7,3,459,1,AUS,Saved,0
+3.0,7:21,5m shot,8 - 3,AUS,GOFERS K,11.0,8,3,441,1,AUS,Goal,1
+3.0,6:54,5m shot,8 - 3,NZL,LEWIS D,8.0,8,3,414,1,AUS,Saved,0
+3.0,6:35,Action shot,8 - 3,AUS,GOFERS K,11.0,8,3,395,1,AUS,Saved,0
+3.0,6:08,Extra player shot,8 - 3,AUS,WEBSTER R,7.0,8,3,368,1,AUS,Saved,0
+3.0,5:40,Action shot,9 - 3,AUS,WEBSTER R,7.0,9,3,340,1,AUS,Goal,1
+3.0,5:15,Extra player shot,9 - 3,NZL,SIEPRATH L,9.0,9,3,315,1,AUS,Saved,0
+3.0,4:41,5m shot,9 - 3,AUS,ZAGAME N,12.0,9,3,281,1,AUS,Saved,0
+3.0,4:34,Centre shot,9 - 3,AUS,APPEL J,2.0,9,3,274,1,AUS,Missed,0
+3.0,3:49,5m shot,9 - 3,NZL,MASON K,3.0,9,3,229,1,AUS,Blocked,0
+3.0,3:39,Action shot,10 - 3,AUS,ZAGAME N,12.0,10,3,219,1,AUS,Goal,1
+3.0,2:26,Extra player shot,10 - 3,NZL,HUDSON K,11.0,10,3,146,1,AUS,Post,0
+3.0,1:56,5m shot,10 - 3,AUS,KNOX B,6.0,10,3,116,1,AUS,Post,0
+3.0,1:21,Penalty shot,11 - 3,AUS,SOUTHERN A,10.0,11,3,81,1,AUS,Goal,1
+3.0,0:57,5m shot,11 - 3,NZL,LANDRY S,7.0,11,3,57,1,AUS,Saved,0
+3.0,0:06,5m shot,11 - 3,NZL,SMITH L,6.0,11,3,6,1,AUS,Missed,0
+4.0,6:12,5m shot,11 - 3,NZL,SMITH L,6.0,11,3,372,1,AUS,Blocked,0
+4.0,5:46,Action shot,11 - 3,AUS,WEBSTER R,7.0,11,3,346,1,AUS,Saved,0
+4.0,5:07,Centre shot,12 - 3,AUS,BUCKLING H,3.0,12,3,307,1,AUS,Goal,1
+4.0,4:46,5m shot,12 - 3,NZL,BOWRY C,10.0,12,3,286,1,AUS,Missed,0
+4.0,4:35,5m shot,12 - 4,NZL,MASON K,3.0,12,4,275,1,AUS,Goal,1
+4.0,4:16,5m shot,12 - 4,AUS,SOUTHERN A,10.0,12,4,256,1,AUS,Post,0
+4.0,3:51,5m shot,12 - 4,NZL,MYLES A,12.0,12,4,231,1,AUS,Missed,0
+4.0,3:25,Action shot,12 - 4,AUS,McGHIE G,8.0,12,4,205,1,AUS,Missed,0
+4.0,2:04,5m shot,12 - 4,NZL,LEWIS D,8.0,12,4,124,1,AUS,Saved,0
+4.0,1:49,Centre shot,13 - 4,AUS,LINCOLN-SMITH H,4.0,13,4,109,1,AUS,Goal,1
+4.0,1:23,Action shot,13 - 4,NZL,SMITH L,6.0,13,4,83,1,AUS,Saved,0
+4.0,0:49,5m shot,14 - 4,AUS,WEBSTER R,7.0,14,4,49,1,AUS,Goal,1
+4.0,0:23,5m shot,14 - 4,NZL,HUDSON K,11.0,14,4,23,1,AUS,Saved,0
+4.0,0:02,Extra player shot,15 - 4,AUS,ARANCINI Z,9.0,15,4,2,1,AUS,Goal,1
+4.0,0:01,5m shot,15 - 4,NZL,HUDSON K,11.0,15,4,1,1,AUS,Saved,0
+1.0,7:36,5m shot,0 - 0,NZL,MYLES A,12.0,0,0,456,2,RSA,Saved,0
+1.0,7:09,Action shot,0 - 0,RSA,WHITE K,12.0,0,0,429,2,RSA,Missed,0
+1.0,6:34,Counter attack,0 - 0,RSA,SCHOOLING T,6.0,0,0,394,2,RSA,Missed,0
+1.0,6:00,Extra player shot,0 - 0,NZL,MASON K,3.0,0,0,360,2,RSA,Saved,0
+1.0,5:51,Action shot,0 - 1,NZL,HUDSON K,11.0,0,1,351,2,RSA,Goal,1
+1.0,5:30,Action shot,0 - 1,RSA,SCHOOLING T,6.0,0,1,330,2,RSA,Saved,0
+1.0,5:07,Action shot,0 - 2,NZL,HUDSON K,11.0,0,2,307,2,RSA,Goal,1
+1.0,4:50,Centre shot,0 - 2,RSA,KAY K,7.0,0,2,290,2,RSA,Post,0
+1.0,4:02,5m shot,0 - 2,RSA,WHITE K,12.0,0,2,242,2,RSA,Missed,0
+1.0,3:10,Action shot,0 - 2,RSA,KILLEEN L,11.0,0,2,190,2,RSA,Post,0
+1.0,2:47,5m shot,0 - 2,NZL,BOWRY C,10.0,0,2,167,2,RSA,Saved,0
+1.0,2:27,Action shot,1 - 2,RSA,WHITE K,12.0,1,2,147,2,RSA,Goal,1
+1.0,1:36,5m shot,1 - 2,NZL,MASON K,3.0,1,2,96,2,RSA,Saved,0
+1.0,0:20,5m shot,1 - 3,NZL,LEWIS D,8.0,1,3,20,2,RSA,Goal,1
+1.0,0:02,Penalty shot,2 - 3,RSA,SCHOOLING T,6.0,2,3,2,2,RSA,Goal,1
+1.0,0:01,5m shot,2 - 3,NZL,MASON K,3.0,2,3,1,2,RSA,Missed,0
+2.0,7:25,Penalty shot,2 - 3,RSA,SCHOOLING T,6.0,2,3,445,2,RSA,Missed,0
+2.0,6:46,Action shot,2 - 4,NZL,LANDRY S,7.0,2,4,406,2,RSA,Goal,1
+2.0,6:09,Extra player shot,2 - 5,NZL,MASON K,3.0,2,5,369,2,RSA,Goal,1
+2.0,5:35,5m shot,2 - 5,NZL,BOWRY C,10.0,2,5,335,2,RSA,Post,0
+2.0,5:08,Centre shot,3 - 5,RSA,KAY K,7.0,3,5,308,2,RSA,Goal,1
+2.0,4:39,Action shot,3 - 5,NZL,BOWRY C,10.0,3,5,279,2,RSA,Saved,0
+2.0,4:11,Centre shot,3 - 5,NZL,BOWRY C,10.0,3,5,251,2,RSA,Saved,0
+2.0,4:02,Action shot,3 - 5,NZL,SIEPRATH L,9.0,3,5,242,2,RSA,Missed,0
+4.0,6:21,Action shot,6 - 10,RSA,WHITE K,12.0,6,10,381,2,RSA,Goal,1
+4.0,5:59,5m shot,6 - 10,NZL,MYLES A,12.0,6,10,359,2,RSA,Post,0
+4.0,4:57,Action shot,6 - 10,RSA,KEET M,10.0,6,10,297,2,RSA,Missed,0
+4.0,3:39,Action shot,6 - 11,NZL,HUDSON K,11.0,6,11,219,2,RSA,Goal,1
+2.0,2:48,Extra player shot,6 - 11,NZL,SMITH L,6.0,6,11,168,2,RSA,Saved,0
+2.0,2:18,Action shot,6 - 11,RSA,KEET L,8.0,6,11,138,2,RSA,Saved,0
+2.0,1:55,Action shot,3 - 6,NZL,HUDSON K,11.0,3,6,115,2,RSA,Goal,1
+2.0,1:23,Action shot,3 - 6,NZL,MYLES A,12.0,3,6,83,2,RSA,Saved,0
+2.0,0:24,5m shot,3 - 6,NZL,MASON K,3.0,3,6,24,2,RSA,Post,0
+3.0,7:19,Action shot,3 - 6,RSA,WHITE K,12.0,3,6,439,2,RSA,Saved,0
+3.0,6:33,Extra player shot,3 - 6,NZL,MASON K,3.0,3,6,393,2,RSA,Saved,0
+3.0,5:42,Extra player shot,3 - 6,NZL,BOWRY C,10.0,3,6,342,2,RSA,Blocked,0
+3.0,4:50,Action shot,3 - 6,NZL,MASON K,3.0,3,6,290,2,RSA,Missed,0
+3.0,4:04,Centre shot,3 - 6,NZL,LEWIS N,4.0,3,6,244,2,RSA,Saved,0
+3.0,3:52,Action shot,4 - 6,RSA,KEET M,10.0,4,6,232,2,RSA,Goal,1
+3.0,3:10,Action shot,4 - 7,NZL,MYLES A,12.0,4,7,190,2,RSA,Goal,1
+3.0,2:41,Extra player shot,4 - 7,RSA,KILLEEN L,11.0,4,7,161,2,RSA,Post,0
+3.0,2:30,Centre shot,4 - 7,NZL,HUDSON K,11.0,4,7,150,2,RSA,Missed,0
+3.0,1:46,Extra player shot,4 - 8,NZL,MYLES A,12.0,4,8,106,2,RSA,Goal,1
+3.0,0:21,Action shot,4 - 8,NZL,SMITH L,6.0,4,8,21,2,RSA,Missed,0
+3.0,0:01,Action shot,4 - 9,NZL,LEWIS N,4.0,4,9,1,2,RSA,Goal,1
+4.0,7:19,Extra player shot,4 - 10,NZL,MYLES A,12.0,4,10,439,2,RSA,Goal,1
+4.0,6:54,Extra player shot,5 - 10,RSA,KAY K,7.0,5,10,414,2,RSA,Goal,1
+4.0,3:04,5m shot,5 - 10,NZL,BOWRY C,10.0,5,10,184,2,RSA,Saved,0
+4.0,2:37,Counter attack,6 - 12,NZL,MYLES A,12.0,6,12,157,2,RSA,Goal,1
+4.0,2:05,Action shot,6 - 13,NZL,LANDRY S,7.0,6,13,125,2,RSA,Goal,1
+4.0,1:24,Action shot,7 - 13,RSA,WHITE K,12.0,7,13,84,2,RSA,Goal,1
+4.0,0:56,5m shot,7 - 13,NZL,SIEPRATH L,9.0,7,13,56,2,RSA,Missed,0
+1.0,7:11,Action shot,0 - 0,CHN,MA H,10.0,0,0,431,3,CHN,Saved,0
+1.0,6:36,5m shot,1 - 0,CHN,LIU P,3.0,1,0,396,3,CHN,Goal,1
+1.0,6:11,5m shot,1 - 0,NZL,MYLES A,12.0,1,0,371,3,CHN,Post,0
+1.0,5:25,Action shot,1 - 0,NZL,MASON K,3.0,1,0,325,3,CHN,Saved,0
+1.0,4:38,Action shot,1 - 0,CHN,TENG F,2.0,1,0,278,3,CHN,Saved,0
+1.0,3:56,5m shot,1 - 0,NZL,MASON K,3.0,1,0,236,3,CHN,Saved,0
+1.0,3:30,Action shot,1 - 0,NZL,SIEPRATH L,9.0,1,0,210,3,CHN,Post,0
+1.0,3:15,Action shot,2 - 0,CHN,ZHANG C,11.0,2,0,195,3,CHN,Goal,1
+1.0,2:45,Action shot,2 - 0,NZL,LANDRY S,7.0,2,0,165,3,CHN,Missed,0
+1.0,1:34,Centre shot,2 - 0,CHN,HE J,5.0,2,0,94,3,CHN,Blocked,0
+1.0,1:06,Extra player shot,2 - 0,NZL,MASON K,3.0,2,0,66,3,CHN,Post,0
+1.0,0:23,Action shot,2 - 0,CHN,SONG D,7.0,2,0,23,3,CHN,Post,0
+1.0,0:01,Action shot,2 - 0,NZL,SMITH L,6.0,2,0,1,3,CHN,Saved,0
+2.0,7:36,Action shot,2 - 0,CHN,LIU P,3.0,2,0,456,3,CHN,Missed,0
+2.0,7:11,Action shot,2 - 1,NZL,SMITH L,6.0,2,1,431,3,CHN,Goal,1
+2.0,6:36,Extra player shot,3 - 1,CHN,TENG F,2.0,3,1,396,3,CHN,Goal,1
+2.0,6:17,5m shot,3 - 1,NZL,MASON K,3.0,3,1,377,3,CHN,Post,0
+2.0,6:05,Counter attack,4 - 1,CHN,SUN Y,4.0,4,1,365,3,CHN,Goal,1
+2.0,5:24,Action shot,4 - 1,CHN,MA H,10.0,4,1,324,3,CHN,Blocked,0
+2.0,4:56,5m shot,4 - 1,NZL,HUDSON K,11.0,4,1,296,3,CHN,Missed,0
+2.0,4:31,Centre shot,5 - 1,CHN,HE J,5.0,5,1,271,3,CHN,Goal,1
+2.0,4:11,Action shot,5 - 1,NZL,MASON K,3.0,5,1,251,3,CHN,Saved,0
+2.0,3:23,Action shot,5 - 1,NZL,BOYD A,5.0,5,1,203,3,CHN,Saved,0
+2.0,2:30,5m shot,5 - 1,NZL,MASON K,3.0,5,1,150,3,CHN,Post,0
+2.0,2:08,Action shot,6 - 1,CHN,SONG D,7.0,6,1,128,3,CHN,Goal,1
+2.0,1:34,Extra player shot,6 - 1,NZL,BOWRY C,10.0,6,1,94,3,CHN,Missed,0
+2.0,1:10,5m shot,6 - 1,CHN,LIU P,3.0,6,1,70,3,CHN,Saved,0
+2.0,0:44,Action shot,6 - 1,NZL,SMITH L,6.0,6,1,44,3,CHN,Post,0
+2.0,0:20,Action shot,6 - 1,CHN,ZHANG C,11.0,6,1,20,3,CHN,Blocked,0
+3.0,7:25,Extra player shot,6 - 1,CHN,HE J,5.0,6,1,445,3,CHN,Post,0
+3.0,6:59,5m shot,7 - 1,CHN,MA H,10.0,7,1,419,3,CHN,Goal,1
+3.0,6:38,Action shot,7 - 2,NZL,MYLES A,12.0,7,2,398,3,CHN,Goal,1
+3.0,5:25,5m shot,7 - 2,NZL,HUDSON K,11.0,7,2,325,3,CHN,Missed,0
+3.0,4:59,5m shot,8 - 2,CHN,SUN Y,4.0,8,2,299,3,CHN,Goal,1
+3.0,4:30,5m shot,8 - 2,NZL,MASON K,3.0,8,2,270,3,CHN,Post,0
+3.0,4:17,Action shot,8 - 2,CHN,XIA Q,12.0,8,2,257,3,CHN,Saved,0
+3.0,3:54,Extra player shot,9 - 2,CHN,SONG D,7.0,9,2,234,3,CHN,Goal,1
+3.0,3:38,5m shot,9 - 3,NZL,MYLES A,12.0,9,3,218,3,CHN,Goal,1
+3.0,2:56,5m shot,9 - 4,NZL,BOYD A,5.0,9,4,176,3,CHN,Goal,1
+3.0,2:12,Action shot,9 - 4,NZL,SMITH L,6.0,9,4,132,3,CHN,Saved,0
+3.0,1:56,Action shot,9 - 4,CHN,ZHANG C,11.0,9,4,116,3,CHN,Missed,0
+3.0,1:34,5m shot,9 - 4,NZL,MASON K,3.0,9,4,94,3,CHN,Post,0
+3.0,1:05,Action shot,10 - 4,CHN,SUN Y,4.0,10,4,65,3,CHN,Goal,1
+3.0,0:32,Extra player shot,10 - 4,NZL,MYLES A,12.0,10,4,32,3,CHN,Blocked,0
+3.0,0:11,Extra player shot,11 - 4,CHN,MA H,10.0,11,4,11,3,CHN,Goal,1
+3.0,0:01,5m shot,11 - 4,NZL,BOWRY C,10.0,11,4,1,3,CHN,Saved,0
+4.0,7:34,5m shot,11 - 4,CHN,SONG D,7.0,11,4,454,3,CHN,Post,0
+4.0,7:03,Action shot,11 - 4,NZL,MASON K,3.0,11,4,423,3,CHN,Missed,0
+4.0,6:43,Centre shot,11 - 4,CHN,HE J,5.0,11,4,403,3,CHN,Blocked,0
+4.0,5:56,Centre shot,11 - 4,CHN,SUN Y,6.0,11,4,356,3,CHN,Missed,0
+4.0,5:32,5m shot,11 - 4,NZL,SMITH L,6.0,11,4,332,3,CHN,Missed,0
+4.0,4:26,Extra player shot,11 - 4,NZL,SIEPRATH L,9.0,11,4,266,3,CHN,Saved,0
+4.0,3:52,Extra player shot,11 - 5,NZL,BOWRY C,10.0,11,5,232,3,CHN,Goal,1
+4.0,3:30,Extra player shot,12 - 5,CHN,SONG D,7.0,12,5,210,3,CHN,Goal,1
+4.0,3:04,Action shot,12 - 5,NZL,BOWRY C,10.0,12,5,184,3,CHN,Saved,0
+4.0,2:36,Action shot,12 - 5,CHN,TENG F,2.0,12,5,156,3,CHN,Saved,0
+4.0,2:10,5m shot,12 - 5,NZL,BOWRY C,10.0,12,5,130,3,CHN,Saved,0
+4.0,1:51,Extra player shot,13 - 5,CHN,LIU P,3.0,13,5,111,3,CHN,Goal,1
+4.0,0:03,Action shot,13 - 5,CHN,SONG D,7.0,13,5,3,3,CHN,Blocked,0
+1.0,7:16,Extra player shot,1 - 0,ESP,PAREJA J,6.0,1,0,436,4,ESP,Goal,1
+1.0,6:48,5m shot,1 - 0,NZL,HUDSON K,11.0,1,0,408,4,ESP,Blocked,0
+1.0,6:32,Action shot,2 - 0,ESP,PENA P,8.0,2,0,392,4,ESP,Goal,1
+1.0,6:00,Action shot,2 - 0,ESP,PAREJA J,6.0,2,0,360,4,ESP,Post,0
+1.0,5:59,Penalty shot,3 - 0,ESP,PAREJA J,6.0,3,0,359,4,ESP,Goal,1
+1.0,5:36,5m shot,3 - 0,NZL,MASON K,3.0,3,0,336,4,ESP,Blocked,0
+1.0,5:16,Centre shot,4 - 0,ESP,BLAS A,9.0,4,0,316,4,ESP,Goal,1
+1.0,4:42,Extra player shot,4 - 0,NZL,SMITH L,6.0,4,0,282,4,ESP,Post,0
+1.0,2:41,Centre shot,4 - 0,ESP,BLAS A,9.0,4,0,161,4,ESP,Saved,0
+1.0,1:10,5m shot,4 - 1,NZL,HUDSON K,11.0,4,1,70,4,ESP,Goal,1
+1.0,0:55,Penalty shot,5 - 1,ESP,TARRAGO R,4.0,5,1,55,4,ESP,Goal,1
+1.0,0:17,5m shot,5 - 1,NZL,MYLES A,12.0,5,1,17,4,ESP,Saved,0
+2.0,7:27,Extra player shot,6 - 1,ESP,GARCIA GODOY M,11.0,6,1,447,4,ESP,Goal,1
+2.0,7:00,Action shot,6 - 1,ESP,TARRAGO R,4.0,6,1,420,4,ESP,Blocked,0
+2.0,6:07,Action shot,6 - 1,NZL,SIEPRATH L,9.0,6,1,367,4,ESP,Post,0
+2.0,5:40,Penalty shot,7 - 1,ESP,PAREJA J,6.0,7,1,340,4,ESP,Goal,1
+2.0,4:59,Extra player shot,7 - 2,NZL,LEWIS N,4.0,7,2,299,4,ESP,Goal,1
+2.0,4:34,Extra player shot,7 - 2,ESP,ORTIZ M,5.0,7,2,274,4,ESP,Post,0
+2.0,4:02,Action shot,7 - 2,ESP,ORTIZ M,5.0,7,2,242,4,ESP,Post,0
+2.0,3:52,Action shot,7 - 2,ESP,PAREJA J,6.0,7,2,232,4,ESP,Saved,0
+2.0,2:59,Penalty shot,8 - 2,ESP,TARRAGO R,4.0,8,2,179,4,ESP,Goal,1
+2.0,2:18,Action shot,9 - 2,ESP,GARCIA GODOY M,11.0,9,2,138,4,ESP,Goal,1
+2.0,1:50,5m shot,9 - 2,NZL,MASON K,3.0,9,2,110,4,ESP,Missed,0
+4.0,3:55,5m shot,14 - 6,NZL,SIEPRATH L,9.0,14,6,235,4,ESP,Goal,1
+4.0,3:37,Action shot,15 - 6,ESP,LOPEZ L,12.0,15,6,217,4,ESP,Goal,1
+4.0,3:02,Extra player shot,15 - 6,NZL,BOWRY C,10.0,15,6,182,4,ESP,Blocked,0
+4.0,2:40,Penalty shot,16 - 6,ESP,LOPEZ L,12.0,16,6,160,4,ESP,Goal,1
+4.0,2:19,5m shot,16 - 6,NZL,MYLES A,12.0,16,6,139,4,ESP,Saved,0
+2.0,0:31,5m shot,16 - 6,NZL,SMITH L,6.0,16,6,31,4,ESP,Saved,0
+2.0,0:05,Extra player shot,9 - 3,NZL,MYLES A,12.0,9,3,5,4,ESP,Goal,1
+2.0,0:01,5m shot,9 - 3,ESP,PAREJA J,6.0,9,3,1,4,ESP,Missed,0
+3.0,7:33,Action shot,10 - 3,ESP,LOPEZ L,12.0,10,3,453,4,ESP,Goal,1
+3.0,7:02,Extra player shot,10 - 3,NZL,MASON K,3.0,10,3,422,4,ESP,Saved,0
+3.0,6:25,Extra player shot,11 - 3,ESP,TARRAGO R,4.0,11,3,385,4,ESP,Goal,1
+3.0,4:24,Extra player shot,11 - 3,NZL,HUDSON K,11.0,11,3,264,4,ESP,Saved,0
+3.0,4:15,Action shot,11 - 3,NZL,BOWRY C,10.0,11,3,255,4,ESP,Saved,0
+3.0,3:37,Penalty shot,11 - 4,NZL,HUDSON K,11.0,11,4,217,4,ESP,Goal,1
+3.0,3:15,5m shot,11 - 4,ESP,MIRANDA L,7.0,11,4,195,4,ESP,Post,0
+3.0,2:54,Action shot,11 - 4,ESP,LOPEZ L,12.0,11,4,174,4,ESP,Saved,0
+3.0,1:31,Extra player shot,11 - 5,NZL,MYLES A,12.0,11,5,91,4,ESP,Goal,1
+3.0,1:00,Extra player shot,12 - 5,ESP,BLAS A,9.0,12,5,60,4,ESP,Goal,1
+3.0,0:03,Extra player shot,12 - 5,NZL,HUDSON K,11.0,12,5,3,4,ESP,Saved,0
+3.0,0:01,Extra player shot,12 - 5,NZL,LANDRY S,7.0,12,5,1,4,ESP,Blocked,0
+4.0,7:47,Action shot,13 - 5,ESP,PAREJA J,6.0,13,5,467,4,ESP,Goal,1
+4.0,7:08,Action shot,13 - 5,ESP,TARRAGO R,4.0,13,5,428,4,ESP,Saved,0
+4.0,6:44,Action shot,13 - 5,NZL,MYLES A,12.0,13,5,404,4,ESP,Blocked,0
+4.0,6:16,Action shot,13 - 5,ESP,PAREJA J,6.0,13,5,376,4,ESP,Saved,0
+4.0,5:35,Extra player shot,13 - 5,NZL,HUDSON K,11.0,13,5,335,4,ESP,Blocked,0
+4.0,4:31,Action shot,14 - 5,ESP,TARRAGO R,4.0,14,5,271,4,ESP,Goal,1
+4.0,2:10,Penalty shot,17 - 6,ESP,PAREJA J,6.0,17,6,130,4,ESP,Goal,1
+4.0,1:22,Extra player shot,17 - 6,NZL,MASON K,3.0,17,6,82,4,ESP,Saved,0
+4.0,0:35,Action shot,17 - 6,ESP,MESEGUER O,10.0,17,6,35,4,ESP,Blocked,0
+4.0,0:01,Extra player shot,18 - 6,ESP,PENA P,8.0,18,6,1,4,ESP,Goal,1
